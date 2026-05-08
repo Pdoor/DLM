@@ -22,6 +22,17 @@
             box-sizing: border-box;
         }
 
+        button,
+        input {
+            font-family: inherit;
+        }
+
+        button {
+            -webkit-appearance: none;
+            appearance: none;
+            white-space: normal;
+        }
+
         body {
             font-family: Arial, sans-serif;
             -webkit-text-size-adjust: 100%;
@@ -34,7 +45,7 @@
         .container {
             max-width: 860px;
             margin: 0 auto;
-            padding: 18px;
+            padding: 18px 18px calc(26px + env(safe-area-inset-bottom));
         }
 
         .refresh-box {
@@ -144,15 +155,20 @@
             border-radius: 8px;
             padding: 8px;
             margin-bottom: 7px;
-            display: flex;
+            display: grid;
+            grid-template-columns: 50px minmax(0, 1fr);
             align-items: center;
             gap: 12px;
             cursor: pointer;
             width: 100%;
             min-width: 0;
+            overflow: hidden;
             color: inherit;
             font-family: inherit;
+            font-size: 15px;
+            line-height: 1.3;
             text-align: left;
+            background-clip: padding-box;
             -webkit-tap-highlight-color: rgba(255, 204, 0, .18);
         }
 
@@ -173,16 +189,18 @@
         }
 
         .member-info {
-            flex: 1;
+            width: 100%;
             min-width: 0;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            gap: 10px;
+            display: grid;
+            grid-template-columns: minmax(0, 1fr) auto;
+            align-items: start;
+            gap: 8px;
         }
 
         .member-main {
+            width: 100%;
             min-width: 0;
+            overflow: hidden;
         }
 
         .member-name {
@@ -198,8 +216,13 @@
         .member-name-text,
         .activity {
             min-width: 0;
+            max-width: 100%;
             overflow-wrap: anywhere;
             word-break: normal;
+        }
+
+        .member-name-text {
+            display: block;
         }
 
         .member-class {
@@ -214,6 +237,10 @@
             font-size: 12px;
             line-height: 1.32;
             color: var(--muted-dark);
+            display: -webkit-box;
+            overflow: hidden;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 2;
         }
 
         .power-level {
@@ -222,7 +249,8 @@
             line-height: 1;
             font-weight: bold;
             color: var(--gold);
-            margin-left: 10px;
+            margin-left: 0;
+            white-space: nowrap;
         }
 
         .loader {
@@ -331,7 +359,7 @@
 
         @media (max-width: 600px) {
             .container {
-                padding: 12px;
+                padding: 12px 12px calc(110px + env(safe-area-inset-bottom));
             }
 
             .status-bar {
@@ -363,18 +391,17 @@
 
             .member-card {
                 align-items: flex-start;
+                grid-template-columns: 44px minmax(0, 1fr);
                 gap: 10px;
                 padding: 10px;
             }
 
             .member-info {
-                align-items: flex-start;
-                flex-direction: column;
+                grid-template-columns: minmax(0, 1fr);
                 gap: 6px;
             }
 
             .power-level {
-                margin-left: 0;
                 align-self: flex-start;
                 padding-top: 1px;
                 font-size: 15px;
@@ -396,6 +423,10 @@
             .clan-meta {
                 font-size: 12px;
                 line-height: 1.35;
+            }
+
+            .activity {
+                -webkit-line-clamp: 2;
             }
         }
 
@@ -817,6 +848,23 @@
 
         function delay(ms) {
             return new Promise(resolve => setTimeout(resolve, ms));
+        }
+
+        async function mapLimit(items, limit, mapper) {
+            const results = new Array(items.length);
+            let nextIndex = 0;
+
+            async function worker() {
+                while (nextIndex < items.length) {
+                    const index = nextIndex;
+                    nextIndex += 1;
+                    results[index] = await mapper(items[index], index);
+                }
+            }
+
+            const workers = Array.from({ length: Math.min(limit, items.length) }, worker);
+            await Promise.all(workers);
+            return results;
         }
 
         function fetchAsset(path) {
