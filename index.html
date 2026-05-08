@@ -36,10 +36,24 @@
         body {
             font-family: Arial, sans-serif;
             -webkit-text-size-adjust: 100%;
-            background-color: var(--bg);
+            background:
+                linear-gradient(rgba(14, 14, 16, .78), rgba(14, 14, 16, .9)),
+                url("DLM.jpg") center top / cover fixed,
+                var(--bg);
             color: var(--text);
             margin: 0;
             padding: 0;
+        }
+
+        body::before {
+            content: "";
+            position: fixed;
+            inset: 0;
+            z-index: -1;
+            background:
+                radial-gradient(circle at 50% 8%, rgba(255, 204, 0, .12), transparent 32%),
+                rgba(0, 0, 0, .18);
+            pointer-events: none;
         }
 
         .container {
@@ -49,7 +63,8 @@
         }
 
         .refresh-box {
-            background-color: var(--panel-light);
+            background-color: rgba(68, 68, 68, .88);
+            backdrop-filter: blur(8px);
             padding: 11px;
             border-radius: 8px;
             color: var(--text);
@@ -150,7 +165,8 @@
         }
 
         .member-card {
-            background-color: var(--panel);
+            background-color: rgba(51, 51, 51, .9);
+            backdrop-filter: blur(8px);
             border: 1px solid transparent;
             border-radius: 8px;
             padding: 8px;
