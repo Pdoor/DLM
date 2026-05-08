@@ -33,7 +33,7 @@ else
   git remote add origin "$REPO_URL"
 fi
 
-git add index.html dlm.ico server.py README.md .github/workflows/pages.yml scripts/fetch-data.js data/clan-status.json deploy.ps1 deploy.sh
+git add index.html DLM.jpg dlm.ico server.py README.md .github/workflows/pages.yml scripts/fetch-data.js data/clan-status.json deploy.ps1 deploy.sh
 
 if [ -z "$(git status --porcelain)" ]; then
   echo "Nessuna modifica da committare."
