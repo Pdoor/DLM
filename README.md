@@ -25,11 +25,11 @@ quando il browser pubblico chiama direttamente `www.bungie.net`.
 
 ## Test locale
 
-Per provarla in locale usa il server incluso:
+Per provarla in locale basta un server statico:
 
 ```powershell
 cd C:\Users\gmeluzzi\Desktop\DLM
-python server.py
+python -m http.server 8080
 ```
 
 Poi apri:
@@ -38,4 +38,5 @@ Poi apri:
 http://localhost:8080/
 ```
 
-Nota: non usare `python -m http.server`, perché Bungie rifiuta le chiamate dirette dal browser locale con `OriginHeaderDoesNotMatchKey`.
+Il pulsante `Ricarica dati pubblicati` rilegge il file JSON statico generato dalla
+GitHub Action; non chiama Bungie direttamente dal browser.
