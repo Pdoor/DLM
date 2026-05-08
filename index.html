@@ -2,7 +2,7 @@
 <html lang="it">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Destiny Lore Masters - Clan Status</title>
     <link rel="icon" href="dlm.ico" type="image/x-icon">
     <style>
@@ -24,6 +24,7 @@
 
         body {
             font-family: Arial, sans-serif;
+            -webkit-text-size-adjust: 100%;
             background-color: var(--bg);
             color: var(--text);
             margin: 0;
@@ -123,7 +124,8 @@
             margin: 14px 0 8px;
             color: var(--muted);
             text-align: center;
-            font-size: 12px;
+            font-size: 13px;
+            line-height: 1.25;
             font-weight: bold;
             text-transform: uppercase;
         }
@@ -140,14 +142,18 @@
             background-color: var(--panel);
             border: 1px solid transparent;
             border-radius: 8px;
-            padding: 6px;
+            padding: 8px;
             margin-bottom: 7px;
             display: flex;
             align-items: center;
+            gap: 12px;
             cursor: pointer;
             width: 100%;
+            min-width: 0;
             color: inherit;
+            font-family: inherit;
             text-align: left;
+            -webkit-tap-highlight-color: rgba(255, 204, 0, .18);
         }
 
         .member-card:hover {
@@ -155,7 +161,6 @@
         }
 
         .emblem-container {
-            margin-right: 15px;
             flex: 0 0 auto;
         }
 
@@ -186,31 +191,35 @@
             min-width: 0;
             gap: 8px;
             font-size: 15px;
+            line-height: 1.25;
             font-weight: bold;
         }
 
         .member-name-text,
         .activity {
-            overflow: hidden;
-            text-overflow: ellipsis;
-            white-space: nowrap;
+            min-width: 0;
+            overflow-wrap: anywhere;
+            word-break: normal;
         }
 
         .member-class {
-            margin-top: 3px;
-            font-size: 10px;
+            margin-top: 4px;
+            font-size: 12px;
+            line-height: 1.25;
             color: var(--muted);
         }
 
         .activity {
-            margin-top: 3px;
+            margin-top: 4px;
             font-size: 12px;
+            line-height: 1.32;
             color: var(--muted-dark);
         }
 
         .power-level {
             flex: 0 0 auto;
             font-size: 16px;
+            line-height: 1;
             font-weight: bold;
             color: var(--gold);
             margin-left: 10px;
@@ -352,14 +361,61 @@
                 height: 44px;
             }
 
+            .member-card {
+                align-items: flex-start;
+                gap: 10px;
+                padding: 10px;
+            }
+
             .member-info {
                 align-items: flex-start;
                 flex-direction: column;
-                gap: 4px;
+                gap: 6px;
             }
 
             .power-level {
                 margin-left: 0;
+                align-self: flex-start;
+                padding-top: 1px;
+                font-size: 15px;
+            }
+
+            .member-name {
+                align-items: flex-start;
+                font-size: 15px;
+            }
+
+            .online-status {
+                margin-top: 4px;
+            }
+
+            .member-class,
+            .activity,
+            .title-count,
+            .last-updated,
+            .clan-meta {
+                font-size: 12px;
+                line-height: 1.35;
+            }
+        }
+
+        @media (max-width: 390px) {
+            .brand-logo {
+                width: 58px;
+                height: 58px;
+            }
+
+            .title-name {
+                font-size: 20px;
+            }
+
+            .member-card {
+                gap: 8px;
+            }
+
+            .class-icon {
+                width: 40px;
+                height: 40px;
             }
         }
     </style>
