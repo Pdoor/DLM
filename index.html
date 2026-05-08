@@ -232,6 +232,22 @@
             color: var(--muted);
         }
 
+        .member-title {
+            display: inline-flex;
+            width: fit-content;
+            max-width: 100%;
+            margin-top: 5px;
+            padding: 2px 7px;
+            border: 1px solid rgba(255, 204, 0, .45);
+            border-radius: 999px;
+            color: var(--gold);
+            font-size: 11px;
+            font-weight: bold;
+            line-height: 1.25;
+            overflow-wrap: anywhere;
+            text-transform: uppercase;
+        }
+
         .activity {
             margin-top: 4px;
             font-size: 12px;
@@ -417,6 +433,7 @@
             }
 
             .member-class,
+            .member-title,
             .activity,
             .title-count,
             .last-updated,
@@ -466,14 +483,14 @@
             </div>
             <div class="last-updated" id="lastUpdated"></div>
         </div>
-        <div class="clan-meta" id="clanMeta">Clan: Destiny Lore Masters Â· Group ID 5420062 Â· Remote ID 6761737</div>
+        <div class="clan-meta" id="clanMeta">Clan: Destiny Lore Masters · Group ID 5420062 · Remote ID 6761737</div>
         <div id="membersList"></div>
     </div>
 
     <div id="modal" class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
         <div class="modal-content">
             <button class="close-modal" type="button" aria-label="Chiudi">&times;</button>
-            <h2 class="modal-title" id="modalTitle">Ultime attivitÃ </h2>
+            <h2 class="modal-title" id="modalTitle">Ultime attività</h2>
             <div class="modal-subtitle" id="modalSubtitle"></div>
             <div id="activityContent"></div>
         </div>
@@ -613,16 +630,21 @@
             memberClass.className = 'member-class';
             memberClass.textContent = member.className;
 
+            const memberTitle = document.createElement('div');
+            memberTitle.className = 'member-title';
+            memberTitle.textContent = member.title || '';
+            memberTitle.hidden = !member.title;
+
             const activity = document.createElement('div');
             activity.className = 'activity';
-            activity.textContent = member.isOnline ? 'Online' : `Ultima attivitÃ : ${member.lastActivityText}`;
+            activity.textContent = member.isOnline ? 'Online' : `Ultima attività: ${member.lastActivityText}`;
 
             const power = document.createElement('div');
             power.className = 'power-level';
             power.textContent = member.powerLevel ? String(member.powerLevel) : '-';
 
             memberName.append(status, nameText);
-            memberMain.append(memberName, memberClass, activity);
+            memberMain.append(memberName, memberClass, memberTitle, activity);
             memberInfo.append(memberMain, power);
             emblemContainer.appendChild(image);
             card.append(emblemContainer, memberInfo);
@@ -640,7 +662,7 @@
             elements.activityContent.innerHTML = '';
 
             if (!activities.length) {
-                elements.activityContent.innerHTML = '<div class="empty">Nessuna attivitÃ  trovata.</div>';
+                elements.activityContent.innerHTML = '<div class="empty">Nessuna attività trovata.</div>';
                 return;
             }
 
@@ -716,6 +738,7 @@
     </script>
 </body>
 </html>
+
 
 
 

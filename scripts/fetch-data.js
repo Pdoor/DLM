@@ -11,14 +11,15 @@ async function main() {
   const paths = manifest.Response.jsonWorldComponentContentPaths.it
     || manifest.Response.jsonWorldComponentContentPaths.en;
 
-  const [classes, activityDefinitions] = await Promise.all([
+  const [classes, activityDefinitions, recordDefinitions] = await Promise.all([
     fetchJson(BUNGIE_BASE_URL + paths.DestinyClassDefinition),
-    fetchJson(BUNGIE_BASE_URL + paths.DestinyActivityDefinition)
+    fetchJson(BUNGIE_BASE_URL + paths.DestinyActivityDefinition),
+    fetchJson(BUNGIE_BASE_URL + paths.DestinyRecordDefinition)
   ]);
 
   const members = await getAllClanMembers();
   const hydratedMembers = await mapLimit(members, 2, (member) => {
-    return hydrateMember(member, classes, activityDefinitions);
+    return hydrateMember(member, classes, activityDefinitions, recordDefinitions);
   });
 
   hydratedMembers.sort(compareMembers);
@@ -57,12 +58,13 @@ async function getAllClanMembers() {
   return members;
 }
 
-async function hydrateMember(member, classes, activityDefinitions) {
+async function hydrateMember(member, classes, activityDefinitions, recordDefinitions) {
   const displayName = getDisplayName(member);
   const fallback = {
     displayName,
     isOnline: Boolean(member.isOnline),
     className: "Guardiano",
+    title: "",
     classIcon: "dlm.ico",
     powerLevel: 0,
     lastPlayedTimestamp: 0,
@@ -90,6 +92,7 @@ async function hydrateMember(member, classes, activityDefinitions) {
     return {
       ...fallback,
       className: classes[String(lastCharacter.classHash)]?.displayProperties?.name || "Guardiano",
+      title: getTitleName(lastCharacter, recordDefinitions),
       classIcon: lastCharacter.emblemBackgroundPath
         ? BUNGIE_BASE_URL + lastCharacter.emblemBackgroundPath
         : "dlm.ico",
@@ -107,6 +110,23 @@ async function hydrateMember(member, classes, activityDefinitions) {
     console.warn(`Details unavailable for ${displayName}: ${error.message}`);
     return fallback;
   }
+}
+
+function getTitleName(character, recordDefinitions) {
+  const titleRecordHash = character.titleRecordHash;
+  if (!titleRecordHash) return "";
+
+  const titleInfo = recordDefinitions[String(titleRecordHash)]?.titleInfo;
+  const byGender = titleInfo?.titlesByGender || {};
+  const byGenderHash = titleInfo?.titlesByGenderHash || {};
+  const genderType = String(character.genderType);
+  const genderHash = String(character.genderHash);
+
+  return byGender[genderType]
+    || byGenderHash[genderHash]
+    || Object.values(byGender)[0]
+    || Object.values(byGenderHash)[0]
+    || "";
 }
 
 function getDisplayName(member) {
