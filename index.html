@@ -1,0 +1,778 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Destiny Lore Masters - Clan Status</title>
+    <link rel="icon" href="dlm.ico" type="image/x-icon">
+    <style>
+        :root {
+            --bg: #1e1e1e;
+            --panel: #333;
+            --panel-light: #444;
+            --text: #fff;
+            --muted: #aaa;
+            --muted-dark: #888;
+            --gold: #ffcc00;
+            --green: #00d36f;
+            --red: #ff4444;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 860px;
+            margin: 0 auto;
+            padding: 18px;
+        }
+
+        .refresh-box {
+            background-color: var(--panel-light);
+            padding: 11px;
+            border-radius: 8px;
+            color: var(--text);
+            text-align: center;
+            cursor: pointer;
+            margin-bottom: 20px;
+            font-size: 16px;
+            border: 0;
+            width: 100%;
+        }
+
+        .refresh-box:disabled {
+            cursor: wait;
+            opacity: .7;
+        }
+
+        .status-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 8px;
+        }
+
+        .status-bar h1 {
+            margin: 0;
+            font-size: 18px;
+        }
+
+        .status-bar h1 img {
+            vertical-align: middle;
+            border-radius: 4px;
+        }
+
+        .last-updated {
+            font-size: 14px;
+            color: var(--muted);
+            text-align: right;
+        }
+
+        .clan-meta {
+            color: var(--muted);
+            font-size: 12px;
+            margin-bottom: 18px;
+        }
+
+        .section-label {
+            margin: 14px 0 8px;
+            color: var(--muted);
+            text-align: center;
+            font-size: 12px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        .section-label.online-label {
+            color: var(--green);
+        }
+
+        .section-label.offline-label {
+            color: var(--red);
+        }
+
+        .member-card {
+            background-color: var(--panel);
+            border: 1px solid transparent;
+            border-radius: 8px;
+            padding: 6px;
+            margin-bottom: 7px;
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            width: 100%;
+            color: inherit;
+            text-align: left;
+        }
+
+        .member-card:hover {
+            border-color: rgba(255, 204, 0, .6);
+        }
+
+        .emblem-container {
+            margin-right: 15px;
+            flex: 0 0 auto;
+        }
+
+        .class-icon {
+            width: 50px;
+            height: 50px;
+            border-radius: 4px;
+            object-fit: cover;
+            background: #222;
+        }
+
+        .member-info {
+            flex: 1;
+            min-width: 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .member-main {
+            min-width: 0;
+        }
+
+        .member-name {
+            display: flex;
+            align-items: center;
+            min-width: 0;
+            gap: 8px;
+            font-size: 15px;
+            font-weight: bold;
+        }
+
+        .member-name-text,
+        .activity {
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .member-class {
+            margin-top: 3px;
+            font-size: 10px;
+            color: var(--muted);
+        }
+
+        .activity {
+            margin-top: 3px;
+            font-size: 12px;
+            color: var(--muted-dark);
+        }
+
+        .power-level {
+            flex: 0 0 auto;
+            font-size: 16px;
+            font-weight: bold;
+            color: var(--gold);
+            margin-left: 10px;
+        }
+
+        .loader {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #3498db;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .error,
+        .empty {
+            color: var(--red);
+            text-align: center;
+            margin: 20px 0;
+            line-height: 1.35;
+        }
+
+        .empty {
+            color: var(--muted);
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.8);
+            justify-content: center;
+            align-items: center;
+            padding: 16px;
+        }
+
+        .modal-content {
+            background-color: var(--panel);
+            padding: 20px;
+            border-radius: 8px;
+            width: 100%;
+            max-width: 460px;
+            max-height: calc(100vh - 32px);
+            overflow: auto;
+            text-align: left;
+            position: relative;
+        }
+
+        .modal-title {
+            margin: 0 36px 4px 0;
+            font-size: 20px;
+        }
+
+        .modal-subtitle {
+            margin: 0 36px 12px 0;
+            color: var(--muted);
+            font-size: 12px;
+        }
+
+        .close-modal {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 24px;
+            color: var(--text);
+            cursor: pointer;
+            border: 0;
+            background: transparent;
+            line-height: 1;
+        }
+
+        .activity-item {
+            margin: 10px 0;
+            padding: 8px;
+            background-color: var(--panel-light);
+            border-radius: 4px;
+        }
+
+        .activity-time {
+            margin-top: 4px;
+            font-size: 12px;
+            color: var(--muted);
+        }
+
+        .online-status {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            flex: 0 0 10px;
+        }
+
+        .online {
+            background-color: var(--green);
+        }
+
+        .offline {
+            background-color: var(--red);
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 12px;
+            }
+
+            .status-bar {
+                align-items: flex-start;
+                flex-direction: column;
+            }
+
+            .last-updated {
+                text-align: left;
+            }
+
+            .class-icon {
+                width: 44px;
+                height: 44px;
+            }
+
+            .member-info {
+                align-items: flex-start;
+                flex-direction: column;
+                gap: 4px;
+            }
+
+            .power-level {
+                margin-left: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <button class="refresh-box" id="refreshButton" type="button">Aggiorna la pagina</button>
+
+        <div class="status-bar">
+            <h1>
+                <img src="dlm.ico" alt="Icon" width="32">
+                Membri del Clan: <span id="membersCount">0</span>
+            </h1>
+            <div class="last-updated" id="lastUpdated"></div>
+        </div>
+        <div class="clan-meta" id="clanMeta">Clan: Destiny Lore Masters · Group ID 5420062 · Remote ID 6761737</div>
+        <div id="membersList"></div>
+    </div>
+
+    <div id="modal" class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+        <div class="modal-content">
+            <button class="close-modal" type="button" aria-label="Chiudi">&times;</button>
+            <h2 class="modal-title" id="modalTitle">Ultime attività</h2>
+            <div class="modal-subtitle" id="modalSubtitle"></div>
+            <div id="activityContent"></div>
+        </div>
+    </div>
+
+    <script>
+        const API_KEY = 'bc26fe4be7c24d33a08f2af63c47a0cc';
+        const GROUP_ID = '5420062';
+        const REMOTE_GROUP_ID = '6761737';
+        const BUNGIE_BASE_URL = 'https://www.bungie.net';
+        const API_BASE_URL = isLocalHost() ? '/bungie' : BUNGIE_BASE_URL;
+        const MEMBERS_PAGE_SIZE = 50;
+        const MAX_PARALLEL_REQUESTS = 2;
+
+        let manifestData = null;
+        let lastUpdate = null;
+        let currentMembers = [];
+
+        const elements = {
+            refreshButton: document.getElementById('refreshButton'),
+            membersCount: document.getElementById('membersCount'),
+            lastUpdated: document.getElementById('lastUpdated'),
+            membersList: document.getElementById('membersList'),
+            modal: document.getElementById('modal'),
+            modalTitle: document.getElementById('modalTitle'),
+            modalSubtitle: document.getElementById('modalSubtitle'),
+            activityContent: document.getElementById('activityContent')
+        };
+
+        document.addEventListener('DOMContentLoaded', initializeApp);
+        elements.refreshButton.addEventListener('click', updateData);
+        document.querySelector('.close-modal').addEventListener('click', closeModal);
+        window.addEventListener('click', (event) => {
+            if (event.target === elements.modal) closeModal();
+        });
+        window.addEventListener('keydown', (event) => {
+            if (event.key === 'Escape') closeModal();
+        });
+
+        async function initializeApp() {
+            showLoader();
+            try {
+                await loadManifest();
+                await updateData();
+            } catch (error) {
+                console.error('Errore inizializzazione:', error);
+                showError(error);
+            }
+        }
+
+        async function loadManifest() {
+            if (manifestData) return manifestData;
+
+            const manifest = await bungieFetch('/Platform/Destiny2/Manifest/');
+            const paths = manifest.Response && manifest.Response.jsonWorldComponentContentPaths;
+            const localizedPaths = (paths && (paths.it || paths.en)) || null;
+            if (!localizedPaths) throw new Error('Manifest Bungie non disponibile.');
+
+            const [classRes, activityRes] = await Promise.all([
+                fetchAsset(localizedPaths.DestinyClassDefinition),
+                fetchAsset(localizedPaths.DestinyActivityDefinition)
+            ]);
+
+            if (!classRes.ok || !activityRes.ok) {
+                throw new Error('Impossibile caricare le definizioni del manifest.');
+            }
+
+            manifestData = {
+                classes: await classRes.json(),
+                activities: await activityRes.json()
+            };
+            return manifestData;
+        }
+
+        async function updateData() {
+            showLoader();
+            elements.refreshButton.disabled = true;
+
+            try {
+                const members = await getAllClanMembers();
+                const hydratedMembers = await mapLimit(members, MAX_PARALLEL_REQUESTS, hydrateMember);
+
+                currentMembers = hydratedMembers.sort(compareMembers);
+                elements.membersCount.textContent = String(currentMembers.length);
+                updateLastUpdated();
+                renderMembers(currentMembers);
+            } catch (error) {
+                console.error('Errore aggiornamento dati:', error);
+                showError(error);
+            } finally {
+                elements.refreshButton.disabled = false;
+            }
+        }
+
+        async function getAllClanMembers() {
+            let page = 1;
+            let hasMore = true;
+            const members = [];
+
+            while (hasMore) {
+                const data = await bungieFetch(`/Platform/GroupV2/${GROUP_ID}/Members/?currentpage=${page}`);
+                const results = (data.Response && data.Response.results) || [];
+                members.push(...results);
+                hasMore = Boolean(data.Response && data.Response.hasMore);
+                page += 1;
+
+                if (page > 20) {
+                    throw new Error('Troppe pagine membri: caricamento interrotto per sicurezza.');
+                }
+            }
+
+            return members;
+        }
+
+        async function hydrateMember(member) {
+            const displayName = getDisplayName(member);
+            const fallback = {
+                raw: member,
+                displayName,
+                isOnline: Boolean(member.isOnline),
+                className: 'Guardiano',
+                classIcon: 'dlm.ico',
+                powerLevel: 0,
+                lastPlayedTimestamp: 0,
+                lastActivityText: 'Nessuna attività recente'
+            };
+
+            try {
+                const profileData = await getProfile(member, '200');
+                const characters = getCharacters(profileData);
+                if (!characters.length) return fallback;
+
+                const lastPlayedCharacter = getLastPlayedCharacter(characters);
+                const activities = await getActivitiesSafely(member, lastPlayedCharacter.characterId, 10);
+                const lastActivity = activities[0] || null;
+
+                return {
+                    ...fallback,
+                    className: getClassName(lastPlayedCharacter.classHash),
+                    classIcon: lastPlayedCharacter.emblemBackgroundPath
+                        ? BUNGIE_BASE_URL + lastPlayedCharacter.emblemBackgroundPath
+                        : 'dlm.ico',
+                    powerLevel: lastPlayedCharacter.light || 0,
+                    lastPlayedTimestamp: new Date(lastPlayedCharacter.dateLastPlayed).getTime() || 0,
+                    lastActivityText: lastActivity
+                        ? `${getActivityName(lastActivity)} il ${formatDate(lastActivity.period)}`
+                        : `Ultimo accesso il ${formatDate(lastPlayedCharacter.dateLastPlayed)}`
+                };
+            } catch (error) {
+                console.warn(`Dettagli non disponibili per ${displayName}:`, error);
+                return fallback;
+            }
+        }
+
+        function renderMembers(members) {
+            elements.membersList.innerHTML = '';
+
+            if (!members.length) {
+                elements.membersList.innerHTML = '<div class="empty">Nessun membro trovato.</div>';
+                return;
+            }
+
+            const onlineMembers = members.filter(member => member.isOnline);
+            const offlineMembers = members.filter(member => !member.isOnline);
+
+            renderSection('Online', onlineMembers, 'online-label');
+            renderSection('Offline', offlineMembers, 'offline-label');
+        }
+
+        function renderSection(label, members, className) {
+            if (!members.length) return;
+
+            const sectionLabel = document.createElement('div');
+            sectionLabel.className = `section-label ${className}`;
+            sectionLabel.textContent = `${label} (${members.length})`;
+            elements.membersList.appendChild(sectionLabel);
+
+            members.forEach(member => {
+                elements.membersList.appendChild(createMemberCard(member));
+            });
+        }
+
+        function createMemberCard(member) {
+            const card = document.createElement('button');
+            card.className = 'member-card';
+            card.type = 'button';
+            card.addEventListener('click', () => openModal(member));
+
+            const emblemContainer = document.createElement('div');
+            emblemContainer.className = 'emblem-container';
+
+            const image = document.createElement('img');
+            image.className = 'class-icon';
+            image.src = member.classIcon;
+            image.alt = member.className;
+            image.onerror = () => {
+                image.src = 'dlm.ico';
+            };
+
+            const memberInfo = document.createElement('div');
+            memberInfo.className = 'member-info';
+
+            const memberMain = document.createElement('div');
+            memberMain.className = 'member-main';
+
+            const memberName = document.createElement('div');
+            memberName.className = 'member-name';
+
+            const status = document.createElement('span');
+            status.className = `online-status ${member.isOnline ? 'online' : 'offline'}`;
+
+            const nameText = document.createElement('span');
+            nameText.className = 'member-name-text';
+            nameText.textContent = member.displayName;
+
+            const memberClass = document.createElement('div');
+            memberClass.className = 'member-class';
+            memberClass.textContent = member.className;
+
+            const activity = document.createElement('div');
+            activity.className = 'activity';
+            activity.textContent = member.isOnline ? 'Online' : `Ultima attività: ${member.lastActivityText}`;
+
+            const power = document.createElement('div');
+            power.className = 'power-level';
+            power.textContent = member.powerLevel ? String(member.powerLevel) : '-';
+
+            memberName.append(status, nameText);
+            memberMain.append(memberName, memberClass, activity);
+            memberInfo.append(memberMain, power);
+            emblemContainer.appendChild(image);
+            card.append(emblemContainer, memberInfo);
+
+            return card;
+        }
+
+        async function openModal(member) {
+            elements.modalTitle.textContent = 'Ultime attività';
+            elements.modalSubtitle.textContent = member.displayName;
+            elements.activityContent.innerHTML = '<div class="loader"></div>';
+            elements.modal.style.display = 'flex';
+
+            try {
+                const profileData = await getProfile(member.raw, '200');
+                const characters = getCharacters(profileData);
+                if (!characters.length) {
+                    elements.activityContent.innerHTML = '<div class="empty">Nessun personaggio trovato.</div>';
+                    return;
+                }
+
+                const lastPlayedCharacter = getLastPlayedCharacter(characters);
+                const activities = await getActivities(member.raw, lastPlayedCharacter.characterId, 10);
+                activities.sort((a, b) => new Date(b.period) - new Date(a.period));
+                renderActivities(activities);
+            } catch (error) {
+                console.error('Errore caricamento attività:', error);
+                elements.activityContent.innerHTML = '<div class="error">Errore nel caricamento delle attività.</div>';
+            }
+        }
+
+        function renderActivities(activities) {
+            elements.activityContent.innerHTML = '';
+
+            if (!activities.length) {
+                elements.activityContent.innerHTML = '<div class="empty">Nessuna attività trovata.</div>';
+                return;
+            }
+
+            activities.forEach(activity => {
+                const activityItem = document.createElement('div');
+                activityItem.className = 'activity-item';
+
+                const title = document.createElement('div');
+                title.textContent = getActivityName(activity);
+
+                const time = document.createElement('div');
+                time.className = 'activity-time';
+                time.textContent = formatDate(activity.period);
+
+                activityItem.append(title, time);
+                elements.activityContent.appendChild(activityItem);
+            });
+        }
+
+        async function getProfile(member, components) {
+            const info = member.destinyUserInfo;
+            return bungieFetch(`/Platform/Destiny2/${info.membershipType}/Profile/${info.membershipId}/?components=${components}`);
+        }
+
+        async function getActivities(member, characterId, count) {
+            const info = member.destinyUserInfo;
+            const data = await bungieFetch(`/Platform/Destiny2/${info.membershipType}/Account/${info.membershipId}/Character/${characterId}/Stats/Activities/?count=${count}`);
+            return (data.Response && data.Response.activities) || [];
+        }
+
+        async function getActivitiesSafely(member, characterId, count) {
+            try {
+                return await getActivities(member, characterId, count);
+            } catch (error) {
+                console.warn(`Attività non disponibili per ${getDisplayName(member)}:`, error);
+                return [];
+            }
+        }
+
+        async function bungieFetch(path) {
+            const retryStatuses = [429, 500, 502, 503, 504];
+            let lastError = null;
+
+            for (let attempt = 0; attempt < 3; attempt += 1) {
+                try {
+            const response = await fetch(API_BASE_URL + path, {
+                headers: { 'X-API-Key': API_KEY }
+            });
+
+                    if (!response.ok) {
+                        if (isLocalHost() && response.status === 404) {
+                            throw new Error('Server locale non corretto: avvia python server.py invece di python -m http.server.');
+                        }
+                        const error = new Error(`Errore HTTP Bungie ${response.status}.`);
+                        error.status = response.status;
+                        throw error;
+                    }
+
+                    const data = await response.json();
+                    if (data.ErrorCode && data.ErrorCode !== 1) {
+                        const error = new Error(data.Message || `Errore Bungie ${data.ErrorCode}`);
+                        error.status = data.ErrorCode;
+                        throw error;
+                    }
+
+                    return data;
+                } catch (error) {
+                    lastError = error;
+                    const shouldRetry = retryStatuses.includes(error.status);
+                    if (!shouldRetry || attempt === 2) break;
+                    await delay(700 * (attempt + 1));
+                }
+            }
+
+            throw lastError;
+        }
+
+        function delay(ms) {
+            return new Promise(resolve => setTimeout(resolve, ms));
+        }
+
+        function fetchAsset(path) {
+            if (/^https?:\/\//i.test(path)) return fetch(path);
+            return fetch(API_BASE_URL + path);
+        }
+
+        function isLocalHost() {
+            return ['localhost', '127.0.0.1', ''].includes(window.location.hostname);
+        }
+
+        function getCharacters(profileData) {
+            return Object.values((profileData.Response && profileData.Response.characters && profileData.Response.characters.data) || {});
+        }
+
+        function getLastPlayedCharacter(characters) {
+            return characters.reduce((latest, current) =>
+                new Date(current.dateLastPlayed) > new Date(latest.dateLastPlayed) ? current : latest
+            );
+        }
+
+        function getDisplayName(member) {
+            const info = member.destinyUserInfo || {};
+            const name = info.bungieGlobalDisplayName || info.displayName || 'Guardiano';
+            const code = info.bungieGlobalDisplayNameCode ? `#${info.bungieGlobalDisplayNameCode}` : '';
+            return `${name}${code}`;
+        }
+
+        function getClassName(classHash) {
+            return (manifestData.classes[String(classHash)] &&
+                manifestData.classes[String(classHash)].displayProperties &&
+                manifestData.classes[String(classHash)].displayProperties.name) || 'Guardiano';
+        }
+
+        function getActivityName(activity) {
+            const details = activity.activityDetails || {};
+            const hash = details.directorActivityHash || details.activityHash || details.referenceId;
+            return (manifestData.activities[String(hash)] &&
+                manifestData.activities[String(hash)].displayProperties &&
+                manifestData.activities[String(hash)].displayProperties.name) || 'Attività sconosciuta';
+        }
+
+        function compareMembers(a, b) {
+            if (a.isOnline !== b.isOnline) return a.isOnline ? -1 : 1;
+            if (!a.isOnline && !b.isOnline) return b.lastPlayedTimestamp - a.lastPlayedTimestamp;
+            return a.displayName.localeCompare(b.displayName, 'it');
+        }
+
+        function formatDate(timestamp) {
+            if (!timestamp) return 'N/A';
+            const date = new Date(timestamp);
+            if (isNaN(date.getTime())) return 'N/A';
+            return date.toLocaleDateString('it-IT') + ' ' + date.toLocaleTimeString('it-IT', {
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+        }
+
+        function closeModal() {
+            elements.modal.style.display = 'none';
+        }
+
+        function updateLastUpdated() {
+            lastUpdate = new Date();
+            elements.lastUpdated.textContent = `Aggiornato: ${lastUpdate.toLocaleTimeString('it-IT', {
+                hour: '2-digit',
+                minute: '2-digit'
+            })}`;
+        }
+
+        function showLoader() {
+            elements.membersList.innerHTML = '<div class="loader"></div>';
+        }
+
+        function showError(error) {
+            const message = error && error.message ? error.message : 'Errore nel caricamento dati.';
+            elements.membersList.innerHTML = `<div class="error">${escapeHtml(message)}</div>`;
+        }
+
+        function escapeHtml(value) {
+            return String(value)
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#039;');
+        }
+
+        window.DLM_DEBUG = {
+            getCurrentMembers: () => currentMembers,
+            groupId: GROUP_ID,
+            remoteGroupId: REMOTE_GROUP_ID,
+            refresh: updateData
+        };
+    </script>
+</body>
+</html>
