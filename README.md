@@ -19,6 +19,10 @@ Poi in GitHub:
 
 Il workflow `.github/workflows/pages.yml` pubblicherà automaticamente il sito.
 
+Su GitHub Pages la pagina legge `data/clan-status.json`, generato dalla GitHub
+Action. Questo evita l'errore Bungie `OriginHeaderDoesNotMatchKey` che succede
+quando il browser pubblico chiama direttamente `www.bungie.net`.
+
 ## Test locale
 
 Per provarla in locale usa il server incluso:

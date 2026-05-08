@@ -346,6 +346,8 @@
         const REMOTE_GROUP_ID = '6761737';
         const BUNGIE_BASE_URL = 'https://www.bungie.net';
         const API_BASE_URL = isLocalHost() ? '/bungie' : BUNGIE_BASE_URL;
+        const STATIC_DATA_URL = 'data/clan-status.json';
+        const USE_STATIC_DATA = !isLocalHost();
         const MEMBERS_PAGE_SIZE = 50;
         const MAX_PARALLEL_REQUESTS = 2;
 
@@ -377,6 +379,10 @@
         async function initializeApp() {
             showLoader();
             try {
+                if (USE_STATIC_DATA) {
+                    await loadStaticData();
+                    return;
+                }
                 await loadManifest();
                 await updateData();
             } catch (error) {
@@ -414,6 +420,10 @@
             elements.refreshButton.disabled = true;
 
             try {
+                if (USE_STATIC_DATA) {
+                    await loadStaticData();
+                    return;
+                }
                 const members = await getAllClanMembers();
                 const hydratedMembers = await mapLimit(members, MAX_PARALLEL_REQUESTS, hydrateMember);
 
@@ -427,6 +437,21 @@
             } finally {
                 elements.refreshButton.disabled = false;
             }
+        }
+
+        async function loadStaticData() {
+            const response = await fetch(`${STATIC_DATA_URL}?v=${Date.now()}`, { cache: 'no-store' });
+            if (!response.ok) {
+                throw new Error('Dati clan non disponibili. Attendi il completamento della GitHub Action.');
+            }
+
+            const data = await response.json();
+            currentMembers = (data.members || []).sort(compareMembers);
+            elements.membersCount.textContent = String(currentMembers.length);
+            elements.lastUpdated.textContent = data.generatedAt
+                ? `Aggiornato: ${formatDate(data.generatedAt)}`
+                : 'Aggiornato: dati statici';
+            renderMembers(currentMembers);
         }
 
         async function getAllClanMembers() {
@@ -578,6 +603,11 @@
             elements.modal.style.display = 'flex';
 
             try {
+                if (member.activities) {
+                    renderActivities(member.activities);
+                    return;
+                }
+
                 const profileData = await getProfile(member.raw, '200');
                 const characters = getCharacters(profileData);
                 if (!characters.length) {
@@ -608,7 +638,7 @@
                 activityItem.className = 'activity-item';
 
                 const title = document.createElement('div');
-                title.textContent = getActivityName(activity);
+                title.textContent = activity.name || getActivityName(activity);
 
                 const time = document.createElement('div');
                 time.className = 'activity-time';
@@ -716,7 +746,7 @@
         function getActivityName(activity) {
             const details = activity.activityDetails || {};
             const hash = details.directorActivityHash || details.activityHash || details.referenceId;
-            return (manifestData.activities[String(hash)] &&
+            return activity.name || (manifestData.activities[String(hash)] &&
                 manifestData.activities[String(hash)].displayProperties &&
                 manifestData.activities[String(hash)].displayProperties.name) || 'Attività sconosciuta';
         }
