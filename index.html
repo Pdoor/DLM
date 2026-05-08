@@ -59,17 +59,52 @@
             justify-content: space-between;
             align-items: center;
             gap: 12px;
-            margin-bottom: 8px;
+            margin-bottom: 12px;
         }
 
         .status-bar h1 {
             margin: 0;
-            font-size: 18px;
+            font-size: 24px;
+            line-height: 1.08;
+            letter-spacing: 0;
         }
 
-        .status-bar h1 img {
-            vertical-align: middle;
-            border-radius: 4px;
+        .title-lockup {
+            display: flex;
+            align-items: center;
+            min-width: 0;
+            gap: 14px;
+        }
+
+        .brand-logo {
+            width: 82px;
+            height: 82px;
+            border-radius: 12px;
+            object-fit: cover;
+            border: 2px solid rgba(255, 204, 0, .55);
+            box-shadow: 0 0 0 3px rgba(255, 255, 255, .06), 0 10px 28px rgba(0, 0, 0, .35);
+            flex: 0 0 auto;
+        }
+
+        .title-eyebrow {
+            margin: 0 0 4px;
+            color: var(--gold);
+            font-size: 11px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        .title-name {
+            display: block;
+            font-size: 28px;
+        }
+
+        .title-count {
+            display: block;
+            margin-top: 3px;
+            color: var(--muted);
+            font-size: 13px;
+            font-weight: normal;
         }
 
         .last-updated {
@@ -295,6 +330,19 @@
                 flex-direction: column;
             }
 
+            .title-lockup {
+                gap: 10px;
+            }
+
+            .brand-logo {
+                width: 68px;
+                height: 68px;
+            }
+
+            .title-name {
+                font-size: 22px;
+            }
+
             .last-updated {
                 text-align: left;
             }
@@ -321,10 +369,14 @@
         <button class="refresh-box" id="refreshButton" type="button">Aggiorna la pagina</button>
 
         <div class="status-bar">
-            <h1>
-                <img src="dlm.ico" alt="Icon" width="32">
-                Membri del Clan: <span id="membersCount">0</span>
-            </h1>
+            <div class="title-lockup">
+                <img src="dlm.ico" alt="Destiny Lore Masters" class="brand-logo">
+                <h1>
+                    <span class="title-eyebrow">Destiny 2 Clan</span>
+                    <span class="title-name">Destiny Lore Masters</span>
+                    <span class="title-count">Membri del clan: <span id="membersCount">0</span></span>
+                </h1>
+            </div>
             <div class="last-updated" id="lastUpdated"></div>
         </div>
         <div class="clan-meta" id="clanMeta">Clan: Destiny Lore Masters · Group ID 5420062 · Remote ID 6761737</div>
