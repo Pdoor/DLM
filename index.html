@@ -627,7 +627,7 @@
 
             const memberTitle = document.createElement('div');
             memberTitle.className = 'member-title';
-            memberTitle.textContent = member.title ? `Titolo: ${member.title}` : '';
+            memberTitle.textContent = member.title || '';
             memberTitle.hidden = !member.title;
 
             const activity = document.createElement('div');
