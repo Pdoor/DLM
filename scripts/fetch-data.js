@@ -66,6 +66,7 @@ async function hydrateMember(member, classes, activityDefinitions) {
     classIcon: "dlm.ico",
     powerLevel: 0,
     lastPlayedTimestamp: 0,
+    lastActivityTimestamp: 0,
     lastActivityText: "Nessuna attivita recente",
     activities: []
   };
@@ -94,6 +95,9 @@ async function hydrateMember(member, classes, activityDefinitions) {
         : "dlm.ico",
       powerLevel: lastCharacter.light || 0,
       lastPlayedTimestamp: new Date(lastCharacter.dateLastPlayed).getTime() || 0,
+      lastActivityTimestamp: activities[0]
+        ? new Date(activities[0].period).getTime() || 0
+        : new Date(lastCharacter.dateLastPlayed).getTime() || 0,
       lastActivityText: activities[0]
         ? `${activities[0].name} il ${formatDate(activities[0].period)}`
         : `Ultimo accesso il ${formatDate(lastCharacter.dateLastPlayed)}`,
@@ -119,8 +123,9 @@ function getActivityName(activity, activityDefinitions) {
 }
 
 function compareMembers(a, b) {
-  if (a.isOnline !== b.isOnline) return a.isOnline ? -1 : 1;
-  if (!a.isOnline && !b.isOnline) return b.lastPlayedTimestamp - a.lastPlayedTimestamp;
+  const aTime = a.lastActivityTimestamp || a.lastPlayedTimestamp || 0;
+  const bTime = b.lastActivityTimestamp || b.lastPlayedTimestamp || 0;
+  if (aTime !== bTime) return bTime - aTime;
   return a.displayName.localeCompare(b.displayName, "it");
 }
 

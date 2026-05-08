@@ -623,6 +623,7 @@
                 classIcon: 'dlm.ico',
                 powerLevel: 0,
                 lastPlayedTimestamp: 0,
+                lastActivityTimestamp: 0,
                 lastActivityText: 'Nessuna attività recente'
             };
 
@@ -643,6 +644,9 @@
                         : 'dlm.ico',
                     powerLevel: lastPlayedCharacter.light || 0,
                     lastPlayedTimestamp: new Date(lastPlayedCharacter.dateLastPlayed).getTime() || 0,
+                    lastActivityTimestamp: lastActivity
+                        ? new Date(lastActivity.period).getTime() || 0
+                        : new Date(lastPlayedCharacter.dateLastPlayed).getTime() || 0,
                     lastActivityText: lastActivity
                         ? `${getActivityName(lastActivity)} il ${formatDate(lastActivity.period)}`
                         : `Ultimo accesso il ${formatDate(lastPlayedCharacter.dateLastPlayed)}`
@@ -661,11 +665,18 @@
                 return;
             }
 
-            const onlineMembers = members.filter(member => member.isOnline);
-            const offlineMembers = members.filter(member => !member.isOnline);
-
-            renderSection('Online', onlineMembers, 'online-label');
-            renderSection('Offline', offlineMembers, 'offline-label');
+            let currentSection = '';
+            members.forEach(member => {
+                const section = member.isOnline ? 'Online' : 'Offline';
+                if (section !== currentSection) {
+                    const sectionLabel = document.createElement('div');
+                    sectionLabel.className = `section-label ${member.isOnline ? 'online-label' : 'offline-label'}`;
+                    sectionLabel.textContent = section;
+                    elements.membersList.appendChild(sectionLabel);
+                    currentSection = section;
+                }
+                elements.membersList.appendChild(createMemberCard(member));
+            });
         }
 
         function renderSection(label, members, className) {
@@ -908,8 +919,9 @@
         }
 
         function compareMembers(a, b) {
-            if (a.isOnline !== b.isOnline) return a.isOnline ? -1 : 1;
-            if (!a.isOnline && !b.isOnline) return b.lastPlayedTimestamp - a.lastPlayedTimestamp;
+            const aTime = a.lastActivityTimestamp || a.lastPlayedTimestamp || 0;
+            const bTime = b.lastActivityTimestamp || b.lastPlayedTimestamp || 0;
+            if (aTime !== bTime) return bTime - aTime;
             return a.displayName.localeCompare(b.displayName, 'it');
         }
 
