@@ -200,6 +200,7 @@
         .member-main {
             width: 100%;
             min-width: 0;
+            max-width: 100%;
             overflow: hidden;
         }
 
@@ -408,13 +409,14 @@
             }
 
             .member-info {
-                grid-template-columns: minmax(0, 1fr);
-                gap: 6px;
+                grid-template-columns: minmax(0, 1fr) auto;
+                gap: 8px;
             }
 
             .power-level {
-                align-self: flex-start;
-                padding-top: 1px;
+                align-self: start;
+                justify-self: end;
+                padding-top: 3px;
                 font-size: 15px;
             }
 
