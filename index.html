@@ -620,7 +620,7 @@
             const configured = !WORKER_BASE_URL.includes('YOUR-SUBDOMAIN');
             const supportsPush = supportsWebPush();
             const iosNeedsHomeScreen = isIosDevice() && !isStandaloneApp();
-            notifyElements.loginButton.disabled = !configured;
+            notifyElements.loginButton.disabled = !configured || Boolean(storedUserId);
             notifyElements.enablePushButton.disabled = !configured || !storedUserId || !supportsPush || iosNeedsHomeScreen;
 
             if (!configured) {
@@ -663,6 +663,11 @@
         }
 
         function startBungieLogin() {
+            if (localStorage.getItem(DLM_USER_STORAGE_KEY)) {
+                notifyElements.status.textContent = 'Accesso Bungie gia completato.';
+                return;
+            }
+
             window.location.href = `${WORKER_BASE_URL}/auth/login`;
         }
 

@@ -39,10 +39,7 @@ async function handleConfig(env) {
 
 async function handleLogin(env) {
   assertEnv(env, ['BUNGIE_CLIENT_ID', 'FRONTEND_URL']);
-  const state = crypto.randomUUID();
-  await env.DLM_OAUTH_STATES.put(`${STATE_PREFIX}${state}`, JSON.stringify({ createdAt: Date.now() }), {
-    expirationTtl: 10 * 60
-  });
+  const state = createId();
 
   const url = new URL(BUNGIE_AUTHORIZE_URL);
   url.searchParams.set('client_id', env.BUNGIE_CLIENT_ID);
@@ -58,15 +55,11 @@ async function handleCallback(request, env) {
   const state = url.searchParams.get('state');
 
   if (!code || !state) return textResponse('Missing code/state', 400);
-
-  const stateKey = `${STATE_PREFIX}${state}`;
-  const storedState = await env.DLM_OAUTH_STATES.get(stateKey);
-  if (!storedState) return textResponse('Invalid or expired OAuth state', 400);
-  await env.DLM_OAUTH_STATES.delete(stateKey);
+  if (state.length < 16) return textResponse('Invalid OAuth state', 400);
 
   const token = await exchangeCodeForToken(code, env);
-  const bungieMembershipId = String(token.membership_id || token.membershipId || crypto.randomUUID());
-  const userId = crypto.randomUUID();
+  const bungieMembershipId = String(token.membership_id || token.membershipId || createId());
+  const userId = createId();
   await env.DLM_USERS.put(`${USER_PREFIX}${userId}`, JSON.stringify({
     userId,
     bungieMembershipId,
@@ -281,6 +274,12 @@ async function sha256(value) {
   const bytes = new TextEncoder().encode(value);
   const digest = await crypto.subtle.digest('SHA-256', bytes);
   return [...new Uint8Array(digest)].map((byte) => byte.toString(16).padStart(2, '0')).join('');
+}
+
+function createId() {
+  const bytes = new Uint8Array(16);
+  crypto.getRandomValues(bytes);
+  return [...bytes].map((byte) => byte.toString(16).padStart(2, '0')).join('');
 }
 
 function assertEnv(env, names) {
