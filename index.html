@@ -624,8 +624,10 @@
             if (!configured) {
                 notifyElements.status.textContent = 'Notifiche non configurate: imposta WORKER_BASE_URL dopo il deploy del Cloudflare Worker.';
             } else if (storedUserId) {
+                notifyElements.loginButton.textContent = 'Autenticato';
                 notifyElements.status.textContent = 'Accesso Bungie registrato. Puoi attivare le notifiche push su questo dispositivo.';
             } else {
+                notifyElements.loginButton.textContent = 'Accedi con Bungie';
                 notifyElements.status.textContent = 'Accesso Bungie richiesto per ricevere notifiche quando un amico compare online.';
             }
         }
