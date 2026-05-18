@@ -272,7 +272,8 @@
         }
 
         .member-name-text,
-        .activity {
+        .activity,
+        .last-seen {
             min-width: 0;
             max-width: 100%;
             overflow-wrap: anywhere;
@@ -306,10 +307,30 @@
             font-size: 12px;
             line-height: 1.32;
             color: var(--muted-dark);
+        }
+
+        .activity-row {
+            display: grid;
+            grid-template-columns: minmax(0, 1fr) auto;
+            align-items: start;
+            gap: 10px;
+            margin-top: 4px;
+        }
+
+        .activity-row .activity {
+            margin-top: 0;
             display: -webkit-box;
             overflow: hidden;
             -webkit-box-orient: vertical;
             -webkit-line-clamp: 2;
+        }
+
+        .last-seen {
+            color: var(--muted);
+            font-size: 11px;
+            line-height: 1.32;
+            text-align: right;
+            white-space: nowrap;
         }
 
         .power-level {
@@ -489,6 +510,7 @@
             .member-class,
             .member-title,
             .activity,
+            .last-seen,
             .title-count,
             .last-updated,
             .clan-meta {
@@ -496,8 +518,18 @@
                 line-height: 1.35;
             }
 
+            .activity-row {
+                grid-template-columns: minmax(0, 1fr);
+                gap: 3px;
+            }
+
             .activity {
                 -webkit-line-clamp: 2;
+            }
+
+            .last-seen {
+                text-align: left;
+                white-space: normal;
             }
         }
 
@@ -1033,12 +1065,23 @@
             activity.className = 'activity';
             activity.textContent = member.isOnline ? 'Online' : `Ultima attività: ${member.lastActivityText}`;
 
+            const lastSeen = document.createElement('div');
+            lastSeen.className = 'last-seen';
+            lastSeen.textContent = member.lastPlayedTimestamp
+                ? `Last seen: ${formatDate(member.lastPlayedTimestamp)}`
+                : '';
+            lastSeen.hidden = !member.lastPlayedTimestamp;
+
+            const activityRow = document.createElement('div');
+            activityRow.className = 'activity-row';
+            activityRow.append(activity, lastSeen);
+
             const power = document.createElement('div');
             power.className = 'power-level';
             power.textContent = member.powerLevel ? String(member.powerLevel) : '-';
 
             memberName.append(status, nameText);
-            memberMain.append(memberName, memberClass, memberTitle, activity);
+            memberMain.append(memberName, memberClass, memberTitle, activityRow);
             memberInfo.append(memberMain, power);
             emblemContainer.appendChild(image);
             card.append(emblemContainer, memberInfo);
