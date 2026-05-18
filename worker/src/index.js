@@ -214,14 +214,20 @@ async function checkUserFriends(env, user) {
       checkedAt: Date.now()
     };
 
-    await env.DLM_PRESENCE.put(presenceKey, JSON.stringify(current));
-
     if (current.online && !previous?.online) {
       await notifyUser(env, freshUser.userId, {
         title: 'Amico online',
         body: `${current.name} è online su Bungie.`,
         url: env.FRONTEND_URL || '/'
       });
+    }
+    const changed = !previous
+      || previous.online !== current.online
+      || previous.name !== current.name
+      || previous.onlineTitle !== current.onlineTitle;
+
+    if (changed) {
+      await env.DLM_PRESENCE.put(presenceKey, JSON.stringify(current));
     }
   }
 }
