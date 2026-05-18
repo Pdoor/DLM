@@ -11,16 +11,21 @@ const STATE_PREFIX = 'state:';
 
 export default {
   async fetch(request, env) {
-    const url = new URL(request.url);
+    try {
+      const url = new URL(request.url);
 
-    if (request.method === 'OPTIONS') return corsResponse(null, env);
-    if (url.pathname === '/api/config') return handleConfig(env);
-    if (url.pathname === '/auth/login') return handleLogin(env);
-    if (url.pathname === '/auth/callback') return handleCallback(request, env);
-    if (url.pathname === '/api/subscribe' && request.method === 'POST') return handleSubscribe(request, env);
-    if (url.pathname === '/api/check-now' && request.method === 'POST') return handleCheckNow(request, env);
+      if (request.method === 'OPTIONS') return corsResponse(null, env);
+      if (url.pathname === '/api/config') return handleConfig(env);
+      if (url.pathname === '/auth/login') return handleLogin(env);
+      if (url.pathname === '/auth/callback') return handleCallback(request, env);
+      if (url.pathname === '/api/subscribe' && request.method === 'POST') return handleSubscribe(request, env);
+      if (url.pathname === '/api/check-now' && request.method === 'POST') return handleCheckNow(request, env);
 
-    return corsResponse({ error: 'Not found' }, env, 404);
+      return corsResponse({ error: 'Not found' }, env, 404);
+    } catch (error) {
+      console.error('Request failed', error);
+      return corsResponse({ error: error.message || 'Worker error' }, env, 500);
+    }
   },
 
   async scheduled(_event, env, ctx) {
@@ -78,7 +83,6 @@ async function handleCallback(request, env) {
 }
 
 async function handleSubscribe(request, env) {
-  assertEnv(env, ['VAPID_PUBLIC_KEY', 'VAPID_PRIVATE_KEY', 'VAPID_SUBJECT']);
   const body = await request.json();
   if (!body.userId || !body.subscription?.endpoint) {
     return corsResponse({ error: 'Invalid subscription payload' }, env, 400);
