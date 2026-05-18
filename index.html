@@ -628,7 +628,7 @@
             } else if (storedUserId) {
                 notifyElements.loginButton.textContent = 'Autenticato';
                 if (iosNeedsHomeScreen) {
-                    notifyElements.status.textContent = 'Su iPhone apri Destiny Lore Masters dalla schermata Home per abilitare le notifiche.';
+                    notifyElements.status.textContent = getIosHomeScreenInstructions();
                 } else if (!supportsPush) {
                     notifyElements.status.textContent = 'Questo browser non supporta le notifiche push web.';
                 } else if ('Notification' in window && Notification.permission === 'granted') {
@@ -658,6 +658,10 @@
                 && 'PushManager' in window;
         }
 
+        function getIosHomeScreenInstructions() {
+            return 'Su iPhone: apri il sito in Safari, tocca Condividi, scegli Aggiungi alla schermata Home, poi apri DLM dalla nuova icona e attiva le notifiche.';
+        }
+
         function startBungieLogin() {
             window.location.href = `${WORKER_BASE_URL}/auth/login`;
         }
@@ -670,7 +674,7 @@
             }
 
             if (isIosDevice() && !isStandaloneApp()) {
-                notifyElements.status.textContent = 'Su iPhone apri Destiny Lore Masters dalla schermata Home per abilitare le notifiche.';
+                notifyElements.status.textContent = getIosHomeScreenInstructions();
                 return;
             }
 
@@ -719,7 +723,7 @@
                             applicationServerKey: urlBase64ToUint8Array(config.vapidPublicKey)
                         }),
                         20000,
-                        'iOS non ha completato la sottoscrizione push. Chiudi e riapri la webapp dalla schermata Home.'
+                        'iOS non ha completato la sottoscrizione push. Chiudi e riapri DLM dalla schermata Home.'
                     );
                 }
 
