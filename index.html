@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Destiny Lore Masters - Clan Status</title>
     <link rel="icon" href="dlm.ico" type="image/x-icon">
+    <link rel="manifest" href="manifest.webmanifest">
     <style>
         :root {
             --bg: #1e1e1e;
@@ -74,6 +75,46 @@
             font-size: 16px;
             border: 0;
             width: 100%;
+        }
+
+        .notify-box {
+            display: grid;
+            gap: 8px;
+            margin-bottom: 18px;
+            padding: 12px;
+            border: 1px solid rgba(255, 204, 0, .28);
+            border-radius: 8px;
+            background-color: rgba(25, 25, 25, .78);
+            backdrop-filter: blur(8px);
+        }
+
+        .notify-actions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .notify-button {
+            min-height: 38px;
+            padding: 8px 12px;
+            border: 1px solid rgba(255, 204, 0, .35);
+            border-radius: 8px;
+            background: rgba(255, 204, 0, .12);
+            color: var(--text);
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: bold;
+        }
+
+        .notify-button:disabled {
+            cursor: not-allowed;
+            opacity: .55;
+        }
+
+        .notify-status {
+            color: var(--muted);
+            font-size: 12px;
+            line-height: 1.35;
         }
 
         .refresh-box:disabled {
@@ -485,6 +526,14 @@
     <div class="container">
         <button class="refresh-box" id="refreshButton" type="button">Ricarica dati pubblicati</button>
 
+        <section class="notify-box" aria-label="Notifiche amici online">
+            <div class="notify-actions">
+                <button class="notify-button" id="bungieLoginButton" type="button">Accedi con Bungie</button>
+                <button class="notify-button" id="enablePushButton" type="button" disabled>Attiva notifiche amici online</button>
+            </div>
+            <div class="notify-status" id="notifyStatus">Accesso Bungie richiesto per ricevere notifiche quando un amico compare online.</div>
+        </section>
+
         <div class="status-bar">
             <div class="title-lockup">
                 <img src="dlm.ico" alt="Destiny Lore Masters" class="brand-logo">
@@ -513,6 +562,8 @@
         const GROUP_ID = '5420062';
         const REMOTE_GROUP_ID = '6761737';
         const STATIC_DATA_URL = 'data/clan-status.json';
+        const WORKER_BASE_URL = 'https://dlm-notify.YOUR-SUBDOMAIN.workers.dev';
+        const DLM_USER_STORAGE_KEY = 'dlmNotifyUserId';
 
         let currentMembers = [];
 
@@ -527,8 +578,16 @@
             activityContent: document.getElementById('activityContent')
         };
 
+        const notifyElements = {
+            loginButton: document.getElementById('bungieLoginButton'),
+            enablePushButton: document.getElementById('enablePushButton'),
+            status: document.getElementById('notifyStatus')
+        };
+
         document.addEventListener('DOMContentLoaded', initializeApp);
         elements.refreshButton.addEventListener('click', loadStaticData);
+        notifyElements.loginButton.addEventListener('click', startBungieLogin);
+        notifyElements.enablePushButton.addEventListener('click', enableFriendNotifications);
         document.querySelector('.close-modal').addEventListener('click', closeModal);
         window.addEventListener('click', (event) => {
             if (event.target === elements.modal) closeModal();
@@ -540,11 +599,87 @@
         async function initializeApp() {
             showLoader();
             try {
+                initializeNotificationUi();
                 await loadStaticData();
             } catch (error) {
                 console.error('Errore caricamento dati:', error);
                 showError(error);
             }
+        }
+
+        function initializeNotificationUi() {
+            const url = new URL(window.location.href);
+            const userId = url.searchParams.get('dlmUser');
+            if (userId) {
+                localStorage.setItem(DLM_USER_STORAGE_KEY, userId);
+                url.searchParams.delete('dlmUser');
+                window.history.replaceState({}, document.title, url.toString());
+            }
+
+            const storedUserId = localStorage.getItem(DLM_USER_STORAGE_KEY);
+            const configured = !WORKER_BASE_URL.includes('YOUR-SUBDOMAIN');
+            notifyElements.loginButton.disabled = !configured;
+            notifyElements.enablePushButton.disabled = !configured || !storedUserId || !('serviceWorker' in navigator) || !('PushManager' in window);
+
+            if (!configured) {
+                notifyElements.status.textContent = 'Notifiche non configurate: imposta WORKER_BASE_URL dopo il deploy del Cloudflare Worker.';
+            } else if (storedUserId) {
+                notifyElements.status.textContent = 'Accesso Bungie registrato. Puoi attivare le notifiche push su questo dispositivo.';
+            } else {
+                notifyElements.status.textContent = 'Accesso Bungie richiesto per ricevere notifiche quando un amico compare online.';
+            }
+        }
+
+        function startBungieLogin() {
+            window.location.href = `${WORKER_BASE_URL}/auth/login`;
+        }
+
+        async function enableFriendNotifications() {
+            const userId = localStorage.getItem(DLM_USER_STORAGE_KEY);
+            if (!userId) {
+                notifyElements.status.textContent = 'Prima accedi con Bungie.';
+                return;
+            }
+
+            if (!('Notification' in window) || !('serviceWorker' in navigator) || !('PushManager' in window)) {
+                notifyElements.status.textContent = 'Questo browser non supporta le notifiche push web.';
+                return;
+            }
+
+            const permission = await Notification.requestPermission();
+            if (permission !== 'granted') {
+                notifyElements.status.textContent = 'Permesso notifiche non concesso.';
+                return;
+            }
+
+            notifyElements.enablePushButton.disabled = true;
+            notifyElements.status.textContent = 'Registro il dispositivo per le notifiche...';
+
+            const configResponse = await fetch(`${WORKER_BASE_URL}/api/config`);
+            if (!configResponse.ok) throw new Error('Configurazione notifiche non disponibile.');
+            const config = await configResponse.json();
+
+            const registration = await navigator.serviceWorker.register('sw.js');
+            const subscription = await registration.pushManager.subscribe({
+                userVisibleOnly: true,
+                applicationServerKey: urlBase64ToUint8Array(config.vapidPublicKey)
+            });
+
+            const response = await fetch(`${WORKER_BASE_URL}/api/subscribe`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ userId, subscription })
+            });
+
+            if (!response.ok) throw new Error('Registrazione notifiche non riuscita.');
+            notifyElements.status.textContent = 'Notifiche attive su questo dispositivo.';
+        }
+
+        function urlBase64ToUint8Array(value) {
+            const padding = '='.repeat((4 - value.length % 4) % 4);
+            const base64 = (value + padding).replace(/-/g, '+').replace(/_/g, '/');
+            const rawData = window.atob(base64);
+            return Uint8Array.from([...rawData].map(char => char.charCodeAt(0)));
         }
 
         async function loadStaticData() {

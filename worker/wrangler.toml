@@ -1,0 +1,26 @@
+name = "dlm-notify"
+main = "src/index.js"
+compatibility_date = "2026-05-18"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+FRONTEND_URL = "https://pdoor.github.io/DLM/"
+
+[triggers]
+crons = ["*/5 * * * *"]
+
+[[kv_namespaces]]
+binding = "DLM_USERS"
+id = "REPLACE_WITH_USERS_KV_ID"
+
+[[kv_namespaces]]
+binding = "DLM_OAUTH_STATES"
+id = "REPLACE_WITH_OAUTH_STATES_KV_ID"
+
+[[kv_namespaces]]
+binding = "DLM_PUSH_SUBSCRIPTIONS"
+id = "REPLACE_WITH_PUSH_SUBSCRIPTIONS_KV_ID"
+
+[[kv_namespaces]]
+binding = "DLM_PRESENCE"
+id = "REPLACE_WITH_PRESENCE_KV_ID"

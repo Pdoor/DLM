@@ -1,0 +1,17 @@
+{
+  "name": "Destiny Lore Masters",
+  "short_name": "DLM",
+  "description": "Clan status e notifiche amici online per Destiny Lore Masters.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1e1e1e",
+  "theme_color": "#1e1e1e",
+  "icons": [
+    {
+      "src": "dlm.ico",
+      "sizes": "16x16 32x32 48x48 64x64 128x128 256x256",
+      "type": "image/x-icon"
+    }
+  ]
+}

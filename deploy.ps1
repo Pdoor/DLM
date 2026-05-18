@@ -35,7 +35,7 @@ if ($remotes -notcontains "origin") {
     }
 }
 
-git add index.html DLM.jpg dlm.ico README.md .github/workflows/pages.yml scripts/fetch-data.js data/clan-status.json deploy.ps1 deploy.sh
+git add index.html manifest.webmanifest sw.js DLM.jpg dlm.ico README.md .github/workflows/pages.yml scripts/fetch-data.js data/clan-status.json worker deploy.ps1 deploy.sh
 
 $changes = git status --porcelain
 if (-not $changes) {
