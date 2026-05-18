@@ -564,8 +564,10 @@
         const STATIC_DATA_URL = 'data/clan-status.json';
         const WORKER_BASE_URL = 'https://dlm-notify.gmeluzzi.workers.dev';
         const DLM_USER_STORAGE_KEY = 'dlmNotifyUserId';
+        const LIVE_STATUS_INTERVAL_MS = 60000;
 
         let currentMembers = [];
+        let liveStatusTimer = null;
 
         const elements = {
             refreshButton: document.getElementById('refreshButton'),
@@ -791,12 +793,13 @@
                 }
 
                 const data = await response.json();
-                currentMembers = (data.members || []).sort(compareMembers);
+                currentMembers = (data.members || []).sort(compareDisplayMembers);
                 elements.membersCount.textContent = String(currentMembers.length);
                 elements.lastUpdated.textContent = data.generatedAt
                     ? `Aggiornato: ${formatDate(data.generatedAt)}`
                     : 'Aggiornato: dati pubblicati';
                 renderMembers(currentMembers);
+                startLiveStatusPolling();
             } catch (error) {
                 console.error('Errore caricamento dati:', error);
                 showError(error);
@@ -824,6 +827,65 @@
                 }
                 elements.membersList.appendChild(createMemberCard(member));
             });
+        }
+
+        function startLiveStatusPolling() {
+            if (liveStatusTimer) return;
+
+            refreshLiveFriendStatus();
+            liveStatusTimer = window.setInterval(refreshLiveFriendStatus, LIVE_STATUS_INTERVAL_MS);
+        }
+
+        async function refreshLiveFriendStatus() {
+            if (!currentMembers.length) return;
+
+            try {
+                const response = await fetch(`${WORKER_BASE_URL}/api/clan-presence`, {
+                    cache: 'no-store'
+                });
+                if (!response.ok) throw new Error(await readErrorMessage(response) || 'Presenza clan non disponibile.');
+
+                const data = await response.json();
+                const liveMap = createLiveStatusMap(data.members || []);
+                let changed = false;
+
+                currentMembers = currentMembers.map((member) => {
+                    const liveStatus = findLiveStatus(member, liveMap);
+                    if (!liveStatus || member.isOnline === liveStatus.isOnline) return member;
+                    changed = true;
+                    return { ...member, isOnline: liveStatus.isOnline };
+                });
+
+                if (changed) {
+                    currentMembers.sort(compareDisplayMembers);
+                    renderMembers(currentMembers);
+                }
+            } catch (error) {
+                console.warn('Aggiornamento live online/offline non riuscito:', error);
+            }
+        }
+
+        function createLiveStatusMap(friends) {
+            const map = new Map();
+            friends.forEach((friend) => {
+                [
+                    friend.id,
+                    friend.membershipId,
+                    friend.bungieNetMembershipId,
+                    normalizeName(friend.displayName)
+                ].filter(Boolean).forEach((key) => map.set(String(key), friend));
+            });
+            return map;
+        }
+
+        function findLiveStatus(member, liveMap) {
+            return liveMap.get(String(member.membershipId || ''))
+                || liveMap.get(String(member.bungieNetMembershipId || ''))
+                || liveMap.get(normalizeName(member.displayName));
+        }
+
+        function normalizeName(value) {
+            return String(value || '').trim().toLowerCase();
         }
 
         function renderSection(label, members, className) {
@@ -933,6 +995,11 @@
             const bTime = b.lastActivityTimestamp || b.lastPlayedTimestamp || 0;
             if (aTime !== bTime) return bTime - aTime;
             return a.displayName.localeCompare(b.displayName, 'it');
+        }
+
+        function compareDisplayMembers(a, b) {
+            if (a.isOnline !== b.isOnline) return a.isOnline ? -1 : 1;
+            return compareMembers(a, b);
         }
 
         function formatDate(timestamp) {

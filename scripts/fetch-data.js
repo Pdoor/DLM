@@ -62,6 +62,8 @@ async function hydrateMember(member, classes, activityDefinitions, recordDefinit
   const displayName = getDisplayName(member);
   const fallback = {
     displayName,
+    membershipId: String(member.destinyUserInfo?.membershipId || ""),
+    bungieNetMembershipId: String(member.destinyUserInfo?.bungieNetMembershipId || ""),
     isOnline: Boolean(member.isOnline),
     className: "Guardiano",
     title: "",

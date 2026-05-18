@@ -1,20 +1,26 @@
 {
-  "generatedAt": "2026-05-18T10:47:19.671Z",
+  "generatedAt": "2026-05-18T13:29:50.606Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
       "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
       "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 407,
-      "lastPlayedTimestamp": 1779100660000,
-      "lastActivityTimestamp": 1779098935000,
-      "lastActivityText": "Conservazione il 18/05/2026 12:08",
+      "powerLevel": 419,
+      "lastPlayedTimestamp": 1779110967000,
+      "lastActivityTimestamp": 1779099270000,
+      "lastActivityText": "Modalità del mondo: bestiale: Bestiale il 18/05/2026 12:14",
       "activities": [
+        {
+          "name": "Modalità del mondo: bestiale: Bestiale",
+          "period": "2026-05-18T10:14:30Z"
+        },
         {
           "name": "Conservazione",
           "period": "2026-05-18T10:08:55Z"
@@ -50,15 +56,13 @@
         {
           "name": "Modalità del mondo: bestiale: Bestiale",
           "period": "2026-05-17T17:39:22Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-17T17:30:25Z"
         }
       ]
     },
     {
       "displayName": "Pdor#2087",
+      "membershipId": "4611686018441724933",
+      "bungieNetMembershipId": "",
       "isOnline": false,
       "className": "Cacciatori",
       "title": "Conquistatore",
@@ -112,6 +116,8 @@
     },
     {
       "displayName": "mattia08pro#6310",
+      "membershipId": "4611686018513701477",
+      "bungieNetMembershipId": "",
       "isOnline": false,
       "className": "Cacciatori",
       "title": "Intrepido",
@@ -165,6 +171,8 @@
     },
     {
       "displayName": "Kiauz96#3851",
+      "membershipId": "4611686018428723992",
+      "bungieNetMembershipId": "",
       "isOnline": false,
       "className": "Titani",
       "title": "Impeccabile",
@@ -218,6 +226,8 @@
     },
     {
       "displayName": "HolyDiver07#2967",
+      "membershipId": "4611686018450843361",
+      "bungieNetMembershipId": "",
       "isOnline": false,
       "className": "Stregoni",
       "title": "Metallo Pesante",
@@ -271,6 +281,8 @@
     },
     {
       "displayName": "LeggendEve_22#6201",
+      "membershipId": "4611686018530908532",
+      "bungieNetMembershipId": "",
       "isOnline": false,
       "className": "Cacciatori",
       "title": "",

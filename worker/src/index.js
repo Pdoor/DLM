@@ -4,6 +4,7 @@ const BUNGIE_BASE_URL = 'https://www.bungie.net';
 const BUNGIE_AUTHORIZE_URL = 'https://www.bungie.net/en/OAuth/Authorize';
 const BUNGIE_TOKEN_URL = 'https://www.bungie.net/platform/app/oauth/token/';
 const FRIENDS_PATH = '/Platform/Social/Friends/';
+const GROUP_ID = '5420062';
 const USER_PREFIX = 'user:';
 const SUB_PREFIX = 'sub:';
 const PRESENCE_PREFIX = 'presence:';
@@ -19,6 +20,8 @@ export default {
       if (url.pathname === '/auth/login') return handleLogin(env);
       if (url.pathname === '/auth/callback') return handleCallback(request, env);
       if (url.pathname === '/api/subscribe' && request.method === 'POST') return handleSubscribe(request, env);
+      if (url.pathname === '/api/clan-presence') return handleClanPresence(env);
+      if (url.pathname === '/api/friends-status') return handleFriendsStatus(request, env);
       if (url.pathname === '/api/check-now' && request.method === 'POST') return handleCheckNow(request, env);
 
       return corsResponse({ error: 'Not found' }, env, 404);
@@ -115,6 +118,56 @@ async function handleCheckNow(request, env) {
   }
   await checkAllUsers(env);
   return corsResponse({ ok: true }, env);
+}
+
+async function handleFriendsStatus(request, env) {
+  assertEnv(env, ['BUNGIE_API_KEY']);
+  const url = new URL(request.url);
+  const userId = url.searchParams.get('userId');
+  if (!userId) return corsResponse({ error: 'Missing userId' }, env, 400);
+
+  const user = await getUser(env, userId);
+  if (!user) return corsResponse({ error: 'Unknown user' }, env, 404);
+
+  const freshUser = await ensureAccessToken(env, user);
+  const friends = await bungieFetch(FRIENDS_PATH, env, freshUser.accessToken);
+  const friendList = friends.Response?.friends || friends.Response || [];
+  return corsResponse({
+    checkedAt: new Date().toISOString(),
+    friends: friendList.map((friend) => ({
+      id: getFriendId(friend),
+      membershipId: String(friend.membershipId || friend.destinyMembershipId || ''),
+      bungieNetMembershipId: String(friend.bungieNetMembershipId || ''),
+      displayName: getFriendName(friend),
+      isOnline: isOnline(friend),
+      onlineTitle: friend.onlineTitle || 0
+    }))
+  }, env);
+}
+
+async function handleClanPresence(env) {
+  assertEnv(env, ['BUNGIE_API_KEY']);
+  const members = [];
+  let page = 1;
+  let hasMore = true;
+
+  while (hasMore) {
+    const data = await bungieFetch(`/Platform/GroupV2/${GROUP_ID}/Members/?currentpage=${page}`, env);
+    members.push(...(data.Response?.results || []));
+    hasMore = Boolean(data.Response?.hasMore);
+    page += 1;
+  }
+
+  return corsResponse({
+    checkedAt: new Date().toISOString(),
+    members: members.map((member) => ({
+      id: getMemberId(member),
+      membershipId: String(member.destinyUserInfo?.membershipId || member.membershipId || ''),
+      bungieNetMembershipId: String(member.destinyUserInfo?.bungieNetMembershipId || member.bungieNetMembershipId || ''),
+      displayName: getMemberName(member),
+      isOnline: Boolean(member.isOnline)
+    }))
+  }, env);
 }
 
 async function checkAllUsers(env) {
@@ -224,12 +277,9 @@ async function tokenRequest(params) {
 }
 
 async function bungieFetch(path, env, accessToken) {
-  const response = await fetch(`${BUNGIE_BASE_URL}${path}`, {
-    headers: {
-      'X-API-Key': env.BUNGIE_API_KEY,
-      'Authorization': `Bearer ${accessToken}`
-    }
-  });
+  const headers = { 'X-API-Key': env.BUNGIE_API_KEY };
+  if (accessToken) headers.Authorization = `Bearer ${accessToken}`;
+  const response = await fetch(`${BUNGIE_BASE_URL}${path}`, { headers });
   if (!response.ok) throw new Error(`Bungie API error ${response.status}: ${await response.text()}`);
   const data = await response.json();
   if (data.ErrorCode && data.ErrorCode !== 1) {
@@ -268,6 +318,18 @@ function getFriendName(friend) {
 
 function isOnline(friend) {
   return friend.onlineStatus === 1 || friend.onlineStatus === 'Online';
+}
+
+function getMemberId(member) {
+  const info = member.destinyUserInfo || member;
+  return String(info.membershipId || info.bungieNetMembershipId || info.bungieGlobalDisplayNameCode || '');
+}
+
+function getMemberName(member) {
+  const info = member.destinyUserInfo || member;
+  const name = info.bungieGlobalDisplayName || info.displayName || member.displayName || 'Guardiano';
+  const code = info.bungieGlobalDisplayNameCode ? `#${info.bungieGlobalDisplayNameCode}` : '';
+  return `${name}${code}`;
 }
 
 async function sha256(value) {
