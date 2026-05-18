@@ -16,18 +16,18 @@ export default {
       const url = new URL(request.url);
 
       if (request.method === 'OPTIONS') return corsResponse(null, env);
-      if (url.pathname === '/api/config') return handleConfig(env);
-      if (url.pathname === '/auth/login') return handleLogin(env);
-      if (url.pathname === '/auth/callback') return handleCallback(request, env);
-      if (url.pathname === '/api/subscribe' && request.method === 'POST') return handleSubscribe(request, env);
-      if (url.pathname === '/api/clan-presence') return handleClanPresence(env);
-      if (url.pathname === '/api/friends-status') return handleFriendsStatus(request, env);
-      if (url.pathname === '/api/check-now' && request.method === 'POST') return handleCheckNow(request, env);
+      if (url.pathname === '/api/config') return await handleConfig(env);
+      if (url.pathname === '/auth/login') return await handleLogin(env);
+      if (url.pathname === '/auth/callback') return await handleCallback(request, env);
+      if (url.pathname === '/api/subscribe' && request.method === 'POST') return await handleSubscribe(request, env);
+      if (url.pathname === '/api/clan-presence') return await handleClanPresence(env);
+      if (url.pathname === '/api/friends-status') return await handleFriendsStatus(request, env);
+      if (url.pathname === '/api/check-now' && request.method === 'POST') return await handleCheckNow(request, env);
 
       return corsResponse({ error: 'Not found' }, env, 404);
     } catch (error) {
       console.error('Request failed', error);
-      return corsResponse({ error: error.message || 'Worker error' }, env, 500);
+      return handleWorkerError(request, env, error);
     }
   },
 
@@ -76,6 +76,22 @@ async function handleCallback(request, env) {
   const frontendUrl = new URL(env.FRONTEND_URL);
   frontendUrl.searchParams.set('dlmUser', userId);
   return Response.redirect(frontendUrl.toString(), 302);
+}
+
+function handleWorkerError(request, env, error) {
+  const message = error.message || 'Worker error';
+  const url = new URL(request.url);
+  if (url.pathname.startsWith('/auth/')) {
+    try {
+      const frontendUrl = new URL(env.FRONTEND_URL || 'https://pdoor.github.io/DLM/');
+      frontendUrl.searchParams.set('dlmAuthError', message.slice(0, 180));
+      return Response.redirect(frontendUrl.toString(), 302);
+    } catch {
+      return textResponse(message, 500);
+    }
+  }
+
+  return corsResponse({ error: message }, env, 500);
 }
 
 async function handleSubscribe(request, env) {

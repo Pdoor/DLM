@@ -617,6 +617,11 @@
                 url.searchParams.delete('dlmUser');
                 window.history.replaceState({}, document.title, url.toString());
             }
+            const authError = url.searchParams.get('dlmAuthError');
+            if (authError) {
+                url.searchParams.delete('dlmAuthError');
+                window.history.replaceState({}, document.title, url.toString());
+            }
 
             const storedUserId = localStorage.getItem(DLM_USER_STORAGE_KEY);
             const configured = !WORKER_BASE_URL.includes('YOUR-SUBDOMAIN');
@@ -627,6 +632,8 @@
 
             if (!configured) {
                 notifyElements.status.textContent = 'Notifiche non configurate: imposta WORKER_BASE_URL dopo il deploy del Cloudflare Worker.';
+            } else if (authError) {
+                notifyElements.status.textContent = `Accesso Bungie non riuscito: ${authError}`;
             } else if (storedUserId) {
                 notifyElements.loginButton.textContent = 'Autenticato';
                 if (iosNeedsHomeScreen) {
