@@ -738,8 +738,11 @@
                     'Registrazione notifiche non riuscita.'
                 );
 
-                if (!response.ok) throw new Error('Registrazione notifiche non riuscita.');
-                notifyElements.status.textContent = 'Notifiche attive su questo dispositivo.';
+                if (!response.ok) {
+                    const message = await readErrorMessage(response);
+                    throw new Error(message || 'Registrazione notifiche non riuscita.');
+                }
+                notifyElements.status.textContent = 'Notifiche attive su questo dispositivo. Ti ho inviato una notifica di test.';
             } catch (error) {
                 console.error('Registrazione notifiche fallita:', error);
                 notifyElements.enablePushButton.disabled = false;
@@ -761,6 +764,15 @@
                     window.setTimeout(() => reject(new Error(message)), timeoutMs);
                 })
             ]);
+        }
+
+        async function readErrorMessage(response) {
+            try {
+                const data = await response.json();
+                return data.error || data.message || '';
+            } catch {
+                return '';
+            }
         }
 
         async function loadStaticData() {

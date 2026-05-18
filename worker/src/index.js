@@ -83,6 +83,7 @@ async function handleCallback(request, env) {
 }
 
 async function handleSubscribe(request, env) {
+  assertEnv(env, ['VAPID_PUBLIC_KEY', 'VAPID_PRIVATE_KEY', 'VAPID_SUBJECT']);
   const body = await request.json();
   if (!body.userId || !body.subscription?.endpoint) {
     return corsResponse({ error: 'Invalid subscription payload' }, env, 400);
@@ -98,6 +99,18 @@ async function handleSubscribe(request, env) {
     createdAt: Date.now(),
     updatedAt: Date.now()
   }));
+
+  try {
+    await sendPush(body.subscription, env, {
+      title: 'Destiny Lore Masters',
+      body: 'Notifiche attivate su questo dispositivo.',
+      url: env.FRONTEND_URL || '/'
+    });
+  } catch (error) {
+    await env.DLM_PUSH_SUBSCRIPTIONS.delete(`${SUB_PREFIX}${body.userId}:${subId}`);
+    console.error('Test push failed', error?.statusCode || error?.message || error);
+    return corsResponse({ error: 'Test notifica non riuscito' }, env, 502);
+  }
 
   return corsResponse({ ok: true }, env);
 }
@@ -152,12 +165,11 @@ async function checkUserFriends(env, user) {
 }
 
 async function notifyUser(env, userId, payload) {
-  webpush.setVapidDetails(env.VAPID_SUBJECT, env.VAPID_PUBLIC_KEY, env.VAPID_PRIVATE_KEY);
   const subscriptions = await listJson(env.DLM_PUSH_SUBSCRIPTIONS, `${SUB_PREFIX}${userId}:`);
 
   for (const item of subscriptions) {
     try {
-      await webpush.sendNotification(item.subscription, JSON.stringify(payload));
+      await sendPush(item.subscription, env, payload);
     } catch (error) {
       console.error('Push failed', error?.statusCode || error?.message || error);
       if ([404, 410].includes(error?.statusCode)) {
@@ -166,6 +178,11 @@ async function notifyUser(env, userId, payload) {
       }
     }
   }
+}
+
+async function sendPush(subscription, env, payload) {
+  webpush.setVapidDetails(env.VAPID_SUBJECT, env.VAPID_PUBLIC_KEY, env.VAPID_PRIVATE_KEY);
+  return webpush.sendNotification(subscription, JSON.stringify(payload));
 }
 
 async function ensureAccessToken(env, user) {
