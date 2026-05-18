@@ -693,24 +693,54 @@
             notifyElements.enablePushButton.disabled = true;
             notifyElements.status.textContent = 'Registro il dispositivo per le notifiche...';
 
-            const configResponse = await fetch(`${WORKER_BASE_URL}/api/config`);
-            if (!configResponse.ok) throw new Error('Configurazione notifiche non disponibile.');
-            const config = await configResponse.json();
+            try {
+                const configResponse = await withTimeout(
+                    fetch(`${WORKER_BASE_URL}/api/config`),
+                    12000,
+                    'Configurazione notifiche non disponibile.'
+                );
+                if (!configResponse.ok) throw new Error('Configurazione notifiche non disponibile.');
+                const config = await configResponse.json();
 
-            const registration = await navigator.serviceWorker.register('sw.js');
-            const subscription = await registration.pushManager.subscribe({
-                userVisibleOnly: true,
-                applicationServerKey: urlBase64ToUint8Array(config.vapidPublicKey)
-            });
+                notifyElements.status.textContent = 'Preparo le notifiche sul dispositivo...';
+                await navigator.serviceWorker.register('sw.js');
+                const registration = await withTimeout(
+                    navigator.serviceWorker.ready,
+                    12000,
+                    'Service worker non pronto. Riapri la webapp e riprova.'
+                );
 
-            const response = await fetch(`${WORKER_BASE_URL}/api/subscribe`, {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ userId, subscription })
-            });
+                notifyElements.status.textContent = 'Creo la sottoscrizione push...';
+                let subscription = await registration.pushManager.getSubscription();
+                if (!subscription) {
+                    subscription = await withTimeout(
+                        registration.pushManager.subscribe({
+                            userVisibleOnly: true,
+                            applicationServerKey: urlBase64ToUint8Array(config.vapidPublicKey)
+                        }),
+                        20000,
+                        'iOS non ha completato la sottoscrizione push. Chiudi e riapri la webapp dalla schermata Home.'
+                    );
+                }
 
-            if (!response.ok) throw new Error('Registrazione notifiche non riuscita.');
-            notifyElements.status.textContent = 'Notifiche attive su questo dispositivo.';
+                notifyElements.status.textContent = 'Salvo il dispositivo per le notifiche...';
+                const response = await withTimeout(
+                    fetch(`${WORKER_BASE_URL}/api/subscribe`, {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ userId, subscription })
+                    }),
+                    12000,
+                    'Registrazione notifiche non riuscita.'
+                );
+
+                if (!response.ok) throw new Error('Registrazione notifiche non riuscita.');
+                notifyElements.status.textContent = 'Notifiche attive su questo dispositivo.';
+            } catch (error) {
+                console.error('Registrazione notifiche fallita:', error);
+                notifyElements.enablePushButton.disabled = false;
+                notifyElements.status.textContent = error.message || 'Registrazione notifiche non riuscita.';
+            }
         }
 
         function urlBase64ToUint8Array(value) {
@@ -718,6 +748,15 @@
             const base64 = (value + padding).replace(/-/g, '+').replace(/_/g, '/');
             const rawData = window.atob(base64);
             return Uint8Array.from([...rawData].map(char => char.charCodeAt(0)));
+        }
+
+        function withTimeout(promise, timeoutMs, message) {
+            return Promise.race([
+                promise,
+                new Promise((_, reject) => {
+                    window.setTimeout(() => reject(new Error(message)), timeoutMs);
+                })
+            ]);
         }
 
         async function loadStaticData() {
