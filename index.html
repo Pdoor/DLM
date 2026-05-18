@@ -630,7 +630,7 @@
             } else if (storedUserId) {
                 notifyElements.loginButton.textContent = 'Autenticato';
                 if (iosNeedsHomeScreen) {
-                    notifyElements.status.textContent = getIosHomeScreenInstructions();
+                    notifyElements.status.textContent = getIosHomeScreenInstructions(true);
                 } else if (!supportsPush) {
                     notifyElements.status.textContent = 'Questo browser non supporta le notifiche push web.';
                 } else if ('Notification' in window && Notification.permission === 'granted') {
@@ -640,7 +640,9 @@
                 }
             } else {
                 notifyElements.loginButton.textContent = 'Accedi con Bungie';
-                notifyElements.status.textContent = 'Accesso Bungie richiesto per ricevere notifiche quando un amico compare online.';
+                notifyElements.status.textContent = isIosDevice() && isStandaloneApp()
+                    ? 'Ora accedi con Bungie da questa app installata, poi attiva le notifiche.'
+                    : 'Accesso Bungie richiesto per ricevere notifiche quando un amico compare online.';
             }
         }
 
@@ -660,8 +662,11 @@
                 && 'PushManager' in window;
         }
 
-        function getIosHomeScreenInstructions() {
-            return 'Su iPhone: apri il sito in Safari, tocca Condividi, scegli Aggiungi alla schermata Home, poi apri DLM dalla nuova icona e attiva le notifiche.';
+        function getIosHomeScreenInstructions(alreadyAuthenticated = false) {
+            const suffix = alreadyAuthenticated
+                ? ' iPhone non trasferisce l accesso da Safari: nella nuova app dovrai premere di nuovo Accedi con Bungie.'
+                : '';
+            return `Su iPhone: apri il sito in Safari, tocca Condividi, scegli Aggiungi alla schermata Home, poi apri DLM dalla nuova icona.${suffix}`;
         }
 
         function startBungieLogin() {
