@@ -567,6 +567,7 @@
         const LIVE_STATUS_INTERVAL_MS = 60000;
 
         let currentMembers = [];
+        let currentExternalFriends = [];
         let liveStatusTimer = null;
 
         const elements = {
@@ -810,7 +811,7 @@
                 elements.lastUpdated.textContent = data.generatedAt
                     ? `Aggiornato: ${formatDate(data.generatedAt)}`
                     : 'Aggiornato: dati pubblicati';
-                renderMembers(currentMembers);
+                renderDashboard();
                 startLiveStatusPolling();
             } catch (error) {
                 console.error('Errore caricamento dati:', error);
@@ -819,14 +820,19 @@
                 elements.refreshButton.disabled = false;
             }
         }
-        function renderMembers(members) {
+        function renderDashboard() {
             elements.membersList.innerHTML = '';
 
-            if (!members.length) {
+            if (!currentMembers.length) {
                 elements.membersList.innerHTML = '<div class="empty">Nessun membro trovato.</div>';
                 return;
             }
 
+            renderMembers(currentMembers);
+            renderExternalFriends(currentExternalFriends);
+        }
+
+        function renderMembers(members) {
             let currentSection = '';
             members.forEach(member => {
                 const section = member.isOnline ? 'Online' : 'Offline';
@@ -841,14 +847,27 @@
             });
         }
 
+        function renderExternalFriends(friends) {
+            if (!friends.length) return;
+
+            const sectionLabel = document.createElement('div');
+            sectionLabel.className = 'section-label online-label';
+            sectionLabel.textContent = `Amici online fuori clan (${friends.length})`;
+            elements.membersList.appendChild(sectionLabel);
+
+            friends.forEach(friend => {
+                elements.membersList.appendChild(createFriendCard(friend));
+            });
+        }
+
         function startLiveStatusPolling() {
             if (liveStatusTimer) return;
 
-            refreshLiveFriendStatus();
-            liveStatusTimer = window.setInterval(refreshLiveFriendStatus, LIVE_STATUS_INTERVAL_MS);
+            refreshLiveStatus();
+            liveStatusTimer = window.setInterval(refreshLiveStatus, LIVE_STATUS_INTERVAL_MS);
         }
 
-        async function refreshLiveFriendStatus() {
+        async function refreshLiveStatus() {
             if (!currentMembers.length) return;
 
             try {
@@ -870,10 +889,44 @@
 
                 if (changed) {
                     currentMembers.sort(compareDisplayMembers);
-                    renderMembers(currentMembers);
+                    renderDashboard();
                 }
             } catch (error) {
                 console.warn('Aggiornamento live online/offline non riuscito:', error);
+            }
+
+            await refreshOnlineExternalFriends();
+        }
+
+        async function refreshOnlineExternalFriends() {
+            const userId = localStorage.getItem(DLM_USER_STORAGE_KEY);
+            if (!userId || !currentMembers.length) {
+                if (currentExternalFriends.length) {
+                    currentExternalFriends = [];
+                    renderDashboard();
+                }
+                return;
+            }
+
+            try {
+                const response = await fetch(`${WORKER_BASE_URL}/api/friends-status?userId=${encodeURIComponent(userId)}`, {
+                    cache: 'no-store'
+                });
+                if (!response.ok) throw new Error(await readErrorMessage(response) || 'Stato amici non disponibile.');
+
+                const data = await response.json();
+                const clanKeys = createClanKeySet(currentMembers);
+                const nextFriends = (data.friends || [])
+                    .filter(friend => friend.isOnline)
+                    .filter(friend => !isKnownClanMember(friend, clanKeys))
+                    .sort((a, b) => a.displayName.localeCompare(b.displayName, 'it'));
+
+                if (JSON.stringify(nextFriends) !== JSON.stringify(currentExternalFriends)) {
+                    currentExternalFriends = nextFriends;
+                    renderDashboard();
+                }
+            } catch (error) {
+                console.warn('Aggiornamento amici online fuori clan non riuscito:', error);
             }
         }
 
@@ -898,6 +951,27 @@
 
         function normalizeName(value) {
             return String(value || '').trim().toLowerCase();
+        }
+
+        function createClanKeySet(members) {
+            const keys = new Set();
+            members.forEach(member => {
+                [
+                    member.membershipId,
+                    member.bungieNetMembershipId,
+                    normalizeName(member.displayName)
+                ].filter(Boolean).forEach(key => keys.add(String(key)));
+            });
+            return keys;
+        }
+
+        function isKnownClanMember(friend, clanKeys) {
+            return [
+                friend.id,
+                friend.membershipId,
+                friend.bungieNetMembershipId,
+                normalizeName(friend.displayName)
+            ].filter(Boolean).some(key => clanKeys.has(String(key)));
         }
 
         function renderSection(label, members, className) {
@@ -970,6 +1044,19 @@
             card.append(emblemContainer, memberInfo);
 
             return card;
+        }
+
+        function createFriendCard(friend) {
+            return createMemberCard({
+                displayName: friend.displayName,
+                isOnline: true,
+                className: 'Amico Bungie',
+                title: '',
+                classIcon: 'dlm.ico',
+                powerLevel: 0,
+                lastActivityText: 'Online',
+                activities: []
+            });
         }
 
         async function openModal(member) {
