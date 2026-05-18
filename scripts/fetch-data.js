@@ -1,7 +1,7 @@
 const fs = require("node:fs/promises");
 const path = require("node:path");
 
-const API_KEY = process.env.BUNGIE_API_KEY || "bc26fe4be7c24d33a08f2af63c47a0cc";
+const API_KEY = process.env.BUNGIE_API_KEY || "81224e7b397c4b5e9601d8183066729c";
 const BUNGIE_BASE_URL = "https://www.bungie.net";
 const GROUP_ID = "5420062";
 const REMOTE_GROUP_ID = "6761737";

@@ -32,7 +32,7 @@ jobs:
       - name: Generate Bungie clan data
         run: node scripts/fetch-data.js
         env:
-          BUNGIE_API_KEY: ${{ secrets.BUNGIE_API_KEY || 'bc26fe4be7c24d33a08f2af63c47a0cc' }}
+          BUNGIE_API_KEY: ${{ secrets.BUNGIE_API_KEY || '81224e7b397c4b5e9601d8183066729c' }}
 
       - name: Upload static files
         uses: actions/upload-pages-artifact@v3
