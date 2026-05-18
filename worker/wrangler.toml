@@ -11,16 +11,16 @@ crons = ["*/5 * * * *"]
 
 [[kv_namespaces]]
 binding = "DLM_USERS"
-id = "REPLACE_WITH_USERS_KV_ID"
+id = "1c25a257311f4e42bcabbceb5399838c"
 
 [[kv_namespaces]]
 binding = "DLM_OAUTH_STATES"
-id = "REPLACE_WITH_OAUTH_STATES_KV_ID"
+id = "de5400dd84f747d39015f6854d68479f"
 
 [[kv_namespaces]]
 binding = "DLM_PUSH_SUBSCRIPTIONS"
-id = "REPLACE_WITH_PUSH_SUBSCRIPTIONS_KV_ID"
+id = "4404d2fd1c1246af824414c08be42608"
 
 [[kv_namespaces]]
 binding = "DLM_PRESENCE"
-id = "REPLACE_WITH_PRESENCE_KV_ID"
+id = "7e3535b96b2c4306b4684a5e3ed91d87"
