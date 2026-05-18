@@ -618,18 +618,44 @@
 
             const storedUserId = localStorage.getItem(DLM_USER_STORAGE_KEY);
             const configured = !WORKER_BASE_URL.includes('YOUR-SUBDOMAIN');
+            const supportsPush = supportsWebPush();
+            const iosNeedsHomeScreen = isIosDevice() && !isStandaloneApp();
             notifyElements.loginButton.disabled = !configured;
-            notifyElements.enablePushButton.disabled = !configured || !storedUserId || !('serviceWorker' in navigator) || !('PushManager' in window);
+            notifyElements.enablePushButton.disabled = !configured || !storedUserId || !supportsPush || iosNeedsHomeScreen;
 
             if (!configured) {
                 notifyElements.status.textContent = 'Notifiche non configurate: imposta WORKER_BASE_URL dopo il deploy del Cloudflare Worker.';
             } else if (storedUserId) {
                 notifyElements.loginButton.textContent = 'Autenticato';
-                notifyElements.status.textContent = 'Accesso Bungie registrato. Puoi attivare le notifiche push su questo dispositivo.';
+                if (iosNeedsHomeScreen) {
+                    notifyElements.status.textContent = 'Su iPhone apri Destiny Lore Masters dalla schermata Home per abilitare le notifiche.';
+                } else if (!supportsPush) {
+                    notifyElements.status.textContent = 'Questo browser non supporta le notifiche push web.';
+                } else if ('Notification' in window && Notification.permission === 'granted') {
+                    notifyElements.status.textContent = 'Notifiche gia autorizzate su questo dispositivo.';
+                } else {
+                    notifyElements.status.textContent = 'Accesso Bungie registrato. Puoi attivare le notifiche push su questo dispositivo.';
+                }
             } else {
                 notifyElements.loginButton.textContent = 'Accedi con Bungie';
                 notifyElements.status.textContent = 'Accesso Bungie richiesto per ricevere notifiche quando un amico compare online.';
             }
+        }
+
+        function isIosDevice() {
+            return /iPad|iPhone|iPod/.test(navigator.userAgent)
+                || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+        }
+
+        function isStandaloneApp() {
+            return window.matchMedia('(display-mode: standalone)').matches
+                || window.navigator.standalone === true;
+        }
+
+        function supportsWebPush() {
+            return 'Notification' in window
+                && 'serviceWorker' in navigator
+                && 'PushManager' in window;
         }
 
         function startBungieLogin() {
@@ -643,8 +669,18 @@
                 return;
             }
 
-            if (!('Notification' in window) || !('serviceWorker' in navigator) || !('PushManager' in window)) {
+            if (isIosDevice() && !isStandaloneApp()) {
+                notifyElements.status.textContent = 'Su iPhone apri Destiny Lore Masters dalla schermata Home per abilitare le notifiche.';
+                return;
+            }
+
+            if (!supportsWebPush()) {
                 notifyElements.status.textContent = 'Questo browser non supporta le notifiche push web.';
+                return;
+            }
+
+            if (Notification.permission === 'denied') {
+                notifyElements.status.textContent = 'Permesso notifiche bloccato: abilitalo dalle impostazioni del browser o di iOS.';
                 return;
             }
 
