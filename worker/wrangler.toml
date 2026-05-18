@@ -9,18 +9,7 @@ FRONTEND_URL = "https://pdoor.github.io/DLM/"
 [triggers]
 crons = ["*/5 * * * *"]
 
-[[kv_namespaces]]
-binding = "DLM_USERS"
-id = "1c25a257311f4e42bcabbceb5399838c"
-
-[[kv_namespaces]]
-binding = "DLM_OAUTH_STATES"
-id = "de5400dd84f747d39015f6854d68479f"
-
-[[kv_namespaces]]
-binding = "DLM_PUSH_SUBSCRIPTIONS"
-id = "4404d2fd1c1246af824414c08be42608"
-
-[[kv_namespaces]]
-binding = "DLM_PRESENCE"
-id = "7e3535b96b2c4306b4684a5e3ed91d87"
+[[d1_databases]]
+binding = "DLM_DB"
+database_name = "dlm-notify-db"
+database_id = "7a6b391e-da07-45cd-a2b4-01823a1da788"

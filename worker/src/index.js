@@ -5,10 +5,6 @@ const BUNGIE_AUTHORIZE_URL = 'https://www.bungie.net/en/OAuth/Authorize';
 const BUNGIE_TOKEN_URL = 'https://www.bungie.net/platform/app/oauth/token/';
 const FRIENDS_PATH = '/Platform/Social/Friends/';
 const GROUP_ID = '5420062';
-const USER_PREFIX = 'user:';
-const SUB_PREFIX = 'sub:';
-const PRESENCE_PREFIX = 'presence:';
-const STATE_PREFIX = 'state:';
 
 export default {
   async fetch(request, env) {
@@ -63,7 +59,7 @@ async function handleCallback(request, env) {
   const token = await exchangeCodeForToken(code, env);
   const bungieMembershipId = String(token.membership_id || token.membershipId || createId());
   const userId = createId();
-  await env.DLM_USERS.put(`${USER_PREFIX}${userId}`, JSON.stringify({
+  await saveUser(env, {
     userId,
     bungieMembershipId,
     accessToken: token.access_token,
@@ -71,7 +67,7 @@ async function handleCallback(request, env) {
     expiresAt: Date.now() + ((token.expires_in || 3600) - 120) * 1000,
     createdAt: Date.now(),
     updatedAt: Date.now()
-  }));
+  });
 
   const frontendUrl = new URL(env.FRONTEND_URL);
   frontendUrl.searchParams.set('dlmUser', userId);
@@ -105,12 +101,13 @@ async function handleSubscribe(request, env) {
   if (!user) return corsResponse({ error: 'Unknown user' }, env, 404);
 
   const subId = await sha256(body.subscription.endpoint);
-  await env.DLM_PUSH_SUBSCRIPTIONS.put(`${SUB_PREFIX}${body.userId}:${subId}`, JSON.stringify({
+  await savePushSubscription(env, {
     userId: body.userId,
+    subId,
     subscription: body.subscription,
     createdAt: Date.now(),
     updatedAt: Date.now()
-  }));
+  });
 
   try {
     await sendPush(body.subscription, env, {
@@ -119,7 +116,7 @@ async function handleSubscribe(request, env) {
       url: env.FRONTEND_URL || '/'
     });
   } catch (error) {
-    await env.DLM_PUSH_SUBSCRIPTIONS.delete(`${SUB_PREFIX}${body.userId}:${subId}`);
+    await deletePushSubscription(env, body.userId, subId);
     console.error('Test push failed', error?.statusCode || error?.message || error);
     return corsResponse({ error: 'Test notifica non riuscito' }, env, 502);
   }
@@ -188,7 +185,7 @@ async function handleClanPresence(env) {
 
 async function checkAllUsers(env) {
   assertEnv(env, ['BUNGIE_API_KEY', 'VAPID_PUBLIC_KEY', 'VAPID_PRIVATE_KEY', 'VAPID_SUBJECT']);
-  const users = await listJson(env.DLM_USERS, USER_PREFIX);
+  const users = await listUsers(env);
   for (const user of users) {
     await checkUserFriends(env, user).catch((error) => {
       console.error(`Friend check failed for ${user.userId}`, error);
@@ -205,8 +202,7 @@ async function checkUserFriends(env, user) {
     const friendId = getFriendId(friend);
     if (!friendId) continue;
 
-    const presenceKey = `${PRESENCE_PREFIX}${freshUser.userId}:${friendId}`;
-    const previous = await env.DLM_PRESENCE.get(presenceKey, 'json');
+    const previous = await getPresence(env, freshUser.userId, friendId);
     const current = {
       online: isOnline(friend),
       name: getFriendName(friend),
@@ -227,13 +223,13 @@ async function checkUserFriends(env, user) {
       || previous.onlineTitle !== current.onlineTitle;
 
     if (changed) {
-      await env.DLM_PRESENCE.put(presenceKey, JSON.stringify(current));
+      await savePresence(env, freshUser.userId, friendId, current);
     }
   }
 }
 
 async function notifyUser(env, userId, payload) {
-  const subscriptions = await listJson(env.DLM_PUSH_SUBSCRIPTIONS, `${SUB_PREFIX}${userId}:`);
+  const subscriptions = await listPushSubscriptions(env, userId);
 
   for (const item of subscriptions) {
     try {
@@ -242,7 +238,7 @@ async function notifyUser(env, userId, payload) {
       console.error('Push failed', error?.statusCode || error?.message || error);
       if ([404, 410].includes(error?.statusCode)) {
         const subId = await sha256(item.subscription.endpoint);
-        await env.DLM_PUSH_SUBSCRIPTIONS.delete(`${SUB_PREFIX}${userId}:${subId}`);
+        await deletePushSubscription(env, userId, subId);
       }
     }
   }
@@ -264,7 +260,7 @@ async function ensureAccessToken(env, user) {
     expiresAt: Date.now() + ((token.expires_in || 3600) - 120) * 1000,
     updatedAt: Date.now()
   };
-  await env.DLM_USERS.put(`${USER_PREFIX}${user.userId}`, JSON.stringify(updated));
+  await saveUser(env, updated);
   return updated;
 }
 
@@ -311,21 +307,122 @@ async function bungieFetch(path, env, accessToken) {
 }
 
 async function getUser(env, userId) {
-  return env.DLM_USERS.get(`${USER_PREFIX}${userId}`, 'json');
+  const row = await env.DLM_DB.prepare(`
+    SELECT user_id, bungie_membership_id, access_token, refresh_token, expires_at, created_at, updated_at
+    FROM users
+    WHERE user_id = ?
+  `).bind(userId).first();
+  return row ? userFromRow(row) : null;
 }
 
-async function listJson(namespace, prefix) {
-  const results = [];
-  let cursor;
-  do {
-    const page = await namespace.list({ prefix, cursor });
-    cursor = page.cursor;
-    for (const key of page.keys) {
-      const item = await namespace.get(key.name, 'json');
-      if (item) results.push(item);
-    }
-  } while (cursor);
-  return results;
+async function saveUser(env, user) {
+  await env.DLM_DB.prepare(`
+    INSERT INTO users (
+      user_id, bungie_membership_id, access_token, refresh_token, expires_at, created_at, updated_at
+    ) VALUES (?, ?, ?, ?, ?, ?, ?)
+    ON CONFLICT(user_id) DO UPDATE SET
+      bungie_membership_id = excluded.bungie_membership_id,
+      access_token = excluded.access_token,
+      refresh_token = excluded.refresh_token,
+      expires_at = excluded.expires_at,
+      updated_at = excluded.updated_at
+  `).bind(
+    user.userId,
+    user.bungieMembershipId || '',
+    user.accessToken,
+    user.refreshToken || '',
+    user.expiresAt,
+    user.createdAt || Date.now(),
+    user.updatedAt || Date.now()
+  ).run();
+}
+
+async function listUsers(env) {
+  const { results } = await env.DLM_DB.prepare(`
+    SELECT user_id, bungie_membership_id, access_token, refresh_token, expires_at, created_at, updated_at
+    FROM users
+  `).all();
+  return results.map(userFromRow);
+}
+
+async function savePushSubscription(env, item) {
+  await env.DLM_DB.prepare(`
+    INSERT INTO push_subscriptions (
+      user_id, sub_id, subscription_json, created_at, updated_at
+    ) VALUES (?, ?, ?, ?, ?)
+    ON CONFLICT(user_id, sub_id) DO UPDATE SET
+      subscription_json = excluded.subscription_json,
+      updated_at = excluded.updated_at
+  `).bind(
+    item.userId,
+    item.subId,
+    JSON.stringify(item.subscription),
+    item.createdAt || Date.now(),
+    item.updatedAt || Date.now()
+  ).run();
+}
+
+async function listPushSubscriptions(env, userId) {
+  const { results } = await env.DLM_DB.prepare(`
+    SELECT subscription_json
+    FROM push_subscriptions
+    WHERE user_id = ?
+  `).bind(userId).all();
+  return results.map((row) => ({ subscription: JSON.parse(row.subscription_json) }));
+}
+
+async function deletePushSubscription(env, userId, subId) {
+  await env.DLM_DB.prepare(`
+    DELETE FROM push_subscriptions
+    WHERE user_id = ? AND sub_id = ?
+  `).bind(userId, subId).run();
+}
+
+async function getPresence(env, userId, friendId) {
+  const row = await env.DLM_DB.prepare(`
+    SELECT online, name, online_title, checked_at
+    FROM presence
+    WHERE user_id = ? AND friend_id = ?
+  `).bind(userId, friendId).first();
+  if (!row) return null;
+  return {
+    online: Boolean(row.online),
+    name: row.name || '',
+    onlineTitle: row.online_title || 0,
+    checkedAt: row.checked_at || 0
+  };
+}
+
+async function savePresence(env, userId, friendId, presence) {
+  await env.DLM_DB.prepare(`
+    INSERT INTO presence (
+      user_id, friend_id, online, name, online_title, checked_at
+    ) VALUES (?, ?, ?, ?, ?, ?)
+    ON CONFLICT(user_id, friend_id) DO UPDATE SET
+      online = excluded.online,
+      name = excluded.name,
+      online_title = excluded.online_title,
+      checked_at = excluded.checked_at
+  `).bind(
+    userId,
+    friendId,
+    presence.online ? 1 : 0,
+    presence.name || '',
+    presence.onlineTitle || 0,
+    presence.checkedAt || Date.now()
+  ).run();
+}
+
+function userFromRow(row) {
+  return {
+    userId: row.user_id,
+    bungieMembershipId: row.bungie_membership_id,
+    accessToken: row.access_token,
+    refreshToken: row.refresh_token,
+    expiresAt: row.expires_at,
+    createdAt: row.created_at,
+    updatedAt: row.updated_at
+  };
 }
 
 function getFriendId(friend) {
