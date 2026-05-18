@@ -47,7 +47,7 @@ async function handleLogin(env) {
 }
 
 async function handleCallback(request, env) {
-  assertEnv(env, ['BUNGIE_CLIENT_ID', 'BUNGIE_CLIENT_SECRET', 'BUNGIE_API_KEY', 'FRONTEND_URL']);
+  assertEnv(env, ['BUNGIE_CLIENT_ID', 'BUNGIE_API_KEY', 'FRONTEND_URL']);
   const url = new URL(request.url);
   const code = url.searchParams.get('code');
   const state = url.searchParams.get('state');
@@ -180,21 +180,23 @@ async function ensureAccessToken(env, user) {
 }
 
 async function exchangeCodeForToken(code, env) {
-  return tokenRequest({
+  const params = {
     grant_type: 'authorization_code',
     code,
-    client_id: env.BUNGIE_CLIENT_ID,
-    client_secret: env.BUNGIE_CLIENT_SECRET
-  });
+    client_id: env.BUNGIE_CLIENT_ID
+  };
+  if (env.BUNGIE_CLIENT_SECRET) params.client_secret = env.BUNGIE_CLIENT_SECRET;
+  return tokenRequest(params);
 }
 
 async function refreshToken(refreshTokenValue, env) {
-  return tokenRequest({
+  const params = {
     grant_type: 'refresh_token',
     refresh_token: refreshTokenValue,
-    client_id: env.BUNGIE_CLIENT_ID,
-    client_secret: env.BUNGIE_CLIENT_SECRET
-  });
+    client_id: env.BUNGIE_CLIENT_ID
+  };
+  if (env.BUNGIE_CLIENT_SECRET) params.client_secret = env.BUNGIE_CLIENT_SECRET;
+  return tokenRequest(params);
 }
 
 async function tokenRequest(params) {

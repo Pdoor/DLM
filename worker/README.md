@@ -57,12 +57,19 @@ Imposta secret:
 ```powershell
 npx wrangler secret put BUNGIE_API_KEY
 npx wrangler secret put BUNGIE_CLIENT_ID
-npx wrangler secret put BUNGIE_CLIENT_SECRET
 npx wrangler secret put VAPID_PUBLIC_KEY
 npx wrangler secret put VAPID_PRIVATE_KEY
 npx wrangler secret put VAPID_SUBJECT
 npx wrangler secret put ADMIN_SECRET
 ```
+
+Se Bungie mostra un `OAuth client_secret`, puoi impostarlo con:
+
+```powershell
+npx wrangler secret put BUNGIE_CLIENT_SECRET
+```
+
+Se Bungie mostra solo `OAuth client_id`, il Worker prova il flusso OAuth senza secret.
 
 Variabili non segrete in Cloudflare Worker:
 
