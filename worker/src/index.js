@@ -11,8 +11,16 @@ const SEASONAL_HUB_COMPONENTS = [
 
 const SEASONAL_HUB_RECORDS = {
   orders: [],
-  daily: [],
-  weekly: [791269858]
+  daily: [
+    390537696,
+    444958787,
+    3804384646
+  ],
+  weekly: [
+    791269862,
+    791269856,
+    791269859
+  ]
 };
 
 const ACTIVE_ORDER_BUCKET_HASH = 635141261;
@@ -270,18 +278,16 @@ function buildSeasonalSections(profile, manifest, itemDefinitions) {
     ...inventoryOrdersToHubEntries(profile, manifest, itemDefinitions)
   ]);
   const daily = uniqueEntries([
-    ...SEASONAL_HUB_RECORDS.daily.map((hash) => recordToHubEntry(hash, 'Giornaliero', profile, manifest)),
-    ...findRuntimeRecordsByText(profile, manifest, ['giornalier', 'daily'], 'Giornaliero')
+    ...SEASONAL_HUB_RECORDS.daily.map((hash) => recordToHubEntry(hash, 'Giornaliero', profile, manifest))
   ]);
   const weekly = uniqueEntries([
-    ...SEASONAL_HUB_RECORDS.weekly.map((hash) => recordToHubEntry(hash, 'Settimanale', profile, manifest)),
-    ...findRuntimeRecordsByText(profile, manifest, ['settiman', 'weekly', 'weekly:', 'sfide'], 'Settimanale')
+    ...SEASONAL_HUB_RECORDS.weekly.map((hash) => recordToHubEntry(hash, 'Settimanale', profile, manifest))
   ]);
 
   return {
     orders: orders.filter(Boolean).sort(compareHubEntries),
-    daily: daily.filter(Boolean).sort(compareHubEntries),
-    weekly: weekly.filter(Boolean).sort(compareHubEntries)
+    daily: daily.filter(Boolean),
+    weekly: weekly.filter(Boolean)
   };
 }
 
@@ -362,19 +368,6 @@ function isExpiredInventoryItem(item) {
   if (!item.expirationDate) return false;
   const expiresAt = new Date(item.expirationDate).getTime();
   return Number.isFinite(expiresAt) && expiresAt <= Date.now();
-}
-
-function findRuntimeRecordsByText(profile, manifest, terms, type) {
-  const records = profile.profileRecords?.data?.records || {};
-  return Object.keys(records)
-    .map((hash) => manifest.records[String(hash)])
-    .filter(Boolean)
-    .filter((def) => {
-      const text = `${def.displayProperties?.name || ''} ${def.displayProperties?.description || ''}`.toLowerCase();
-      return terms.some((term) => text.includes(term));
-    })
-    .slice(0, 12)
-    .map((def) => recordToHubEntry(def.hash, type, profile, manifest));
 }
 
 function getRuntimeRecord(profile, hash) {
