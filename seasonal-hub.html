@@ -319,11 +319,14 @@
         }
 
         .meter {
-            height: 9px;
+            position: relative;
+            display: flex;
+            align-items: center;
+            height: 24px;
             flex: 1 1 auto;
             overflow: hidden;
             border: 1px solid rgba(255, 255, 255, .16);
-            border-radius: 8px;
+            border-radius: 4px;
             background: rgba(0, 0, 0, .35);
         }
 
@@ -336,11 +339,36 @@
 
         .meter::before {
             content: "";
-            display: block;
+            position: absolute;
+            inset: 0 auto 0 0;
             width: var(--progress);
             height: 100%;
-            border-radius: inherit;
             background: linear-gradient(90deg, var(--gold), var(--green));
+        }
+
+        .meter-text,
+        .meter-percent {
+            position: relative;
+            z-index: 1;
+            min-width: 0;
+            color: #f6f6f6;
+            font-size: 12px;
+            font-weight: bold;
+            line-height: 1;
+            text-shadow: 0 1px 2px rgba(0, 0, 0, .9);
+        }
+
+        .meter-text {
+            flex: 1 1 auto;
+            overflow: hidden;
+            padding-left: 8px;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .meter-percent {
+            flex: 0 0 auto;
+            padding: 0 7px;
         }
 
         .meta {
@@ -725,6 +753,16 @@
             meter.className = 'meter';
             meter.style.setProperty('--progress', `${item.progress?.percent || 0}%`);
 
+            const meterText = document.createElement('span');
+            meterText.className = 'meter-text';
+            meterText.textContent = getProgressBarText(item);
+
+            const meterPercent = document.createElement('span');
+            meterPercent.className = 'meter-percent';
+            meterPercent.textContent = `${item.progress?.percent || 0}%`;
+
+            meter.append(meterText, meterPercent);
+
             const progressRow = document.createElement('div');
             progressRow.className = 'progress-row';
 
@@ -766,6 +804,10 @@
             });
 
             return { toggle, panel: details };
+        }
+
+        function getProgressBarText(item) {
+            return item.progress?.description || item.description || item.title || 'Progresso';
         }
 
         function createRewards(rewards) {

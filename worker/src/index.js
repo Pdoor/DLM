@@ -352,7 +352,10 @@ function inventoryOrdersToHubEntries(profile, manifest, itemDefinitions) {
         ...objective,
         completionValue: objective.completionValue
           || manifest.objectives[String(objective.objectiveHash)]?.completionValue
-          || 1
+          || 1,
+        progressDescription: objective.progressDescription
+          || manifest.objectives[String(objective.objectiveHash)]?.progressDescription
+          || ''
       }));
 
       entries.push({
@@ -437,7 +440,8 @@ function getObjectiveProgress(objective) {
     value,
     max,
     percent,
-    label: max > 1 ? `${value}/${max}` : `${percent}%`
+    label: max > 1 ? `${value}/${max}` : `${percent}%`,
+    description: objective.progressDescription || ''
   };
 }
 
