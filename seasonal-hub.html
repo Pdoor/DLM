@@ -302,6 +302,60 @@
             white-space: nowrap;
         }
 
+        .rewards {
+            display: grid;
+            gap: 6px;
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px solid var(--line);
+        }
+
+        .rewards-title {
+            color: var(--muted);
+            font-size: 11px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        .reward-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+
+        .reward {
+            display: inline-flex;
+            align-items: center;
+            min-width: 0;
+            max-width: 100%;
+            gap: 6px;
+            padding: 5px 7px;
+            border: 1px solid var(--line);
+            border-radius: 8px;
+            background: rgba(0, 0, 0, .18);
+            color: var(--text);
+            font-size: 12px;
+        }
+
+        .reward img {
+            width: 20px;
+            height: 20px;
+            border-radius: 4px;
+            object-fit: cover;
+            flex: 0 0 auto;
+        }
+
+        .reward span {
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .reward.conditional {
+            border-color: rgba(255, 204, 0, .38);
+            color: #ffe895;
+        }
+
         .empty,
         .loader {
             padding: 24px 12px;
@@ -565,6 +619,45 @@
 
             header.append(title, badge);
             wrapper.append(header, description, meter, progress, expiration);
+            const rewards = createRewards(item.rewards || []);
+            if (rewards) wrapper.appendChild(rewards);
+            return wrapper;
+        }
+
+        function createRewards(rewards) {
+            if (!rewards.length) return null;
+
+            const wrapper = document.createElement('div');
+            wrapper.className = 'rewards';
+
+            const title = document.createElement('div');
+            title.className = 'rewards-title';
+            title.textContent = 'Ricompense possibili';
+
+            const list = document.createElement('div');
+            list.className = 'reward-list';
+
+            rewards.forEach((reward) => {
+                const item = document.createElement('div');
+                item.className = `reward ${reward.conditional ? 'conditional' : ''}`;
+                item.title = reward.conditional
+                    ? `${reward.name} · condizionale`
+                    : reward.name;
+
+                if (reward.icon) {
+                    const image = document.createElement('img');
+                    image.src = `https://www.bungie.net${reward.icon}`;
+                    image.alt = '';
+                    item.appendChild(image);
+                }
+
+                const name = document.createElement('span');
+                name.textContent = `${reward.quantity > 1 ? `${reward.quantity}x ` : ''}${reward.name}${reward.conditional ? ' *' : ''}`;
+                item.appendChild(name);
+                list.appendChild(item);
+            });
+
+            wrapper.append(title, list);
             return wrapper;
         }
 

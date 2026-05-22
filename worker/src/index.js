@@ -244,6 +244,24 @@ async function getProfileItemDefinitions(env, locale, profile, objectives) {
       console.warn(`Item definition unavailable for ${hash}`, error.message);
     }
   });
+
+  const rewardHashes = new Set();
+  Object.values(definitions).forEach((definition) => {
+    (definition.value?.itemValue || []).forEach((reward) => {
+      if (reward.itemHash) rewardHashes.add(reward.itemHash);
+    });
+  });
+
+  await mapLimit([...rewardHashes], 5, async (hash) => {
+    if (definitions[String(hash)]) return;
+    try {
+      const data = await bungieFetch(`/Platform/Destiny2/Manifest/DestinyInventoryItemDefinition/${hash}/?lc=${locale}`, env);
+      definitions[String(hash)] = data.Response;
+    } catch (error) {
+      console.warn(`Reward definition unavailable for ${hash}`, error.message);
+    }
+  });
+
   return definitions;
 }
 
@@ -314,12 +332,30 @@ function inventoryOrdersToHubEntries(profile, manifest, itemDefinitions) {
         source: 'Inventario',
         completed: objectives.every((objective) => objective.complete),
         progress: getObjectiveProgress(objectives[0]),
-        expiresAt: item.expirationDate || null
+        expiresAt: item.expirationDate || null,
+        rewards: getItemRewards(def, itemDefinitions)
       });
     });
   });
 
   return entries;
+}
+
+function getItemRewards(def, itemDefinitions) {
+  return (def.value?.itemValue || [])
+    .filter((reward) => reward.itemHash && reward.quantity > 0)
+    .map((reward) => {
+      const rewardDef = itemDefinitions[String(reward.itemHash)];
+      return {
+        itemHash: reward.itemHash,
+        quantity: reward.quantity,
+        conditional: Boolean(reward.hasConditionalVisibility),
+        name: rewardDef?.displayProperties?.name || `Ricompensa ${reward.itemHash}`,
+        description: rewardDef?.displayProperties?.description || '',
+        tier: rewardDef?.inventory?.tierTypeName || '',
+        icon: rewardDef?.displayProperties?.icon || ''
+      };
+    });
 }
 
 function isExpiredInventoryItem(item) {
