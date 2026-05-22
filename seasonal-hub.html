@@ -220,6 +220,10 @@
             text-align: center;
         }
 
+        .tab-count .done {
+            color: var(--green);
+        }
+
         .hub-grid {
             display: grid;
             grid-template-columns: minmax(0, 1fr);
@@ -624,10 +628,10 @@
         function renderActiveSection() {
             const items = currentSections[currentSection] || [];
             elements.sectionTitle.textContent = SECTION_LABELS[currentSection] || 'Hub Stagionale';
-            elements.sectionCount.textContent = String(items.length);
-            elements.ordersTabCount.textContent = String(currentSections.orders.length);
-            elements.dailyTabCount.textContent = String(currentSections.daily.length);
-            elements.weeklyTabCount.textContent = String(currentSections.weekly.length);
+            renderSectionCount(elements.sectionCount, currentSection, items);
+            renderSectionCount(elements.ordersTabCount, 'orders', currentSections.orders);
+            renderSectionCount(elements.dailyTabCount, 'daily', currentSections.daily);
+            renderSectionCount(elements.weeklyTabCount, 'weekly', currentSections.weekly);
 
             document.querySelectorAll('.view-tab').forEach((tab) => {
                 tab.classList.toggle('active', tab.dataset.section === currentSection);
@@ -641,6 +645,25 @@
             }
 
             items.forEach(item => elements.sectionList.appendChild(createItem(item)));
+        }
+
+        function renderSectionCount(element, section, items) {
+            element.innerHTML = '';
+
+            if (section === 'orders') {
+                element.textContent = String(items.length);
+                return;
+            }
+
+            const completed = items.filter(item => item.completed).length;
+            const done = document.createElement('span');
+            done.className = 'done';
+            done.textContent = String(completed);
+
+            const total = document.createElement('span');
+            total.textContent = ` / ${items.length}`;
+
+            element.append(done, total);
         }
 
         function isStaleSessionMessage(message) {
