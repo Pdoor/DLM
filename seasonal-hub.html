@@ -184,10 +184,46 @@
             margin-top: 10px;
         }
 
+        .view-tabs {
+            display: grid;
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            gap: 8px;
+            margin-bottom: 14px;
+        }
+
+        .view-tab {
+            min-height: 46px;
+            padding: 8px 10px;
+            border: 1px solid rgba(255, 204, 0, .32);
+            border-radius: 8px;
+            background: rgba(25, 25, 25, .82);
+            color: var(--muted);
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: bold;
+            text-align: left;
+        }
+
+        .view-tab.active {
+            border-color: rgba(255, 204, 0, .9);
+            background: rgba(255, 204, 0, .14);
+            color: var(--text);
+        }
+
+        .tab-count {
+            float: right;
+            min-width: 28px;
+            padding: 2px 6px;
+            border: 1px solid rgba(255, 204, 0, .55);
+            border-radius: 8px;
+            color: var(--gold);
+            text-align: center;
+        }
+
         .hub-grid {
             display: grid;
-            grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr) minmax(0, 1fr);
-            gap: 14px;
+            grid-template-columns: minmax(0, 1fr);
+            gap: 0;
         }
 
         .hub-panel {
@@ -417,6 +453,10 @@
             .hub-grid {
                 grid-template-columns: 1fr;
             }
+
+            .view-tabs {
+                grid-template-columns: 1fr;
+            }
         }
     </style>
 </head>
@@ -457,38 +497,28 @@
 
         <div class="notice" id="notice" hidden></div>
 
+        <nav class="view-tabs" aria-label="Sezioni Hub Stagionale">
+            <button class="view-tab active" type="button" data-section="orders">
+                Ordini attivi <span class="tab-count" id="ordersTabCount">0</span>
+            </button>
+            <button class="view-tab" type="button" data-section="daily">
+                Obiettivi giornalieri <span class="tab-count" id="dailyTabCount">0</span>
+            </button>
+            <button class="view-tab" type="button" data-section="weekly">
+                Obiettivi settimanali <span class="tab-count" id="weeklyTabCount">0</span>
+            </button>
+        </nav>
+
         <section class="hub-grid" aria-live="polite">
             <article class="hub-panel">
                 <div class="panel-header">
                     <div>
                         <p class="eyebrow">Panoramica</p>
-                        <h2>Ordini attivi</h2>
+                        <h2 id="sectionTitle">Ordini attivi</h2>
                     </div>
-                    <span class="count" id="ordersCount">0</span>
+                    <span class="count" id="sectionCount">0</span>
                 </div>
-                <div class="list" id="ordersList"></div>
-            </article>
-
-            <article class="hub-panel">
-                <div class="panel-header">
-                    <div>
-                        <p class="eyebrow">Panoramica</p>
-                        <h2>Obiettivi giornalieri</h2>
-                    </div>
-                    <span class="count" id="dailyCount">0</span>
-                </div>
-                <div class="list" id="dailyList"></div>
-            </article>
-
-            <article class="hub-panel">
-                <div class="panel-header">
-                    <div>
-                        <p class="eyebrow">Panoramica</p>
-                        <h2>Obiettivi settimanali</h2>
-                    </div>
-                    <span class="count" id="weeklyCount">0</span>
-                </div>
-                <div class="list" id="weeklyList"></div>
+                <div class="list" id="sectionList"></div>
             </article>
         </section>
     </main>
@@ -496,6 +526,14 @@
     <script>
         const WORKER_BASE_URL = 'https://dlm-notify.gmeluzzi.workers.dev';
         const DLM_USER_STORAGE_KEY = 'dlmNotifyUserId';
+        const SECTION_LABELS = {
+            orders: 'Ordini attivi',
+            daily: 'Obiettivi giornalieri',
+            weekly: 'Obiettivi settimanali'
+        };
+
+        let currentSection = 'orders';
+        let currentSections = { orders: [], daily: [], weekly: [] };
 
         const elements = {
             backButton: document.getElementById('backButton'),
@@ -505,12 +543,12 @@
             platformName: document.getElementById('platformName'),
             completedCount: document.getElementById('completedCount'),
             lastUpdated: document.getElementById('lastUpdated'),
-            ordersList: document.getElementById('ordersList'),
-            dailyList: document.getElementById('dailyList'),
-            weeklyList: document.getElementById('weeklyList'),
-            ordersCount: document.getElementById('ordersCount'),
-            dailyCount: document.getElementById('dailyCount'),
-            weeklyCount: document.getElementById('weeklyCount')
+            sectionTitle: document.getElementById('sectionTitle'),
+            sectionList: document.getElementById('sectionList'),
+            sectionCount: document.getElementById('sectionCount'),
+            ordersTabCount: document.getElementById('ordersTabCount'),
+            dailyTabCount: document.getElementById('dailyTabCount'),
+            weeklyTabCount: document.getElementById('weeklyTabCount')
         };
 
         document.addEventListener('DOMContentLoaded', loadHub);
@@ -518,14 +556,19 @@
             window.location.href = 'index.html';
         });
         elements.refreshButton.addEventListener('click', loadHub);
+        document.querySelectorAll('.view-tab').forEach((tab) => {
+            tab.addEventListener('click', () => {
+                currentSection = tab.dataset.section;
+                renderActiveSection();
+            });
+        });
 
         async function loadHub() {
             const userId = localStorage.getItem(DLM_USER_STORAGE_KEY);
             if (!userId) {
                 showNotice('Accedi con Bungie dalla home per visualizzare i dati dell Hub Stagionale.');
-                renderSection(elements.ordersList, elements.ordersCount, []);
-                renderSection(elements.dailyList, elements.dailyCount, []);
-                renderSection(elements.weeklyList, elements.weeklyCount, []);
+                currentSections = { orders: [], daily: [], weekly: [] };
+                renderActiveSection();
                 return;
             }
 
@@ -541,9 +584,8 @@
                     if (isStaleSessionMessage(message)) {
                         localStorage.removeItem(DLM_USER_STORAGE_KEY);
                         renderLoginNotice();
-                        renderSection(elements.ordersList, elements.ordersCount, []);
-                        renderSection(elements.dailyList, elements.dailyCount, []);
-                        renderSection(elements.weeklyList, elements.weeklyCount, []);
+                        currentSections = { orders: [], daily: [], weekly: [] };
+                        renderActiveSection();
                         return;
                     }
                     throw new Error(message);
@@ -551,15 +593,17 @@
                 const data = await response.json();
 
                 renderSummary(data);
-                renderSection(elements.ordersList, elements.ordersCount, data.sections?.orders || []);
-                renderSection(elements.dailyList, elements.dailyCount, data.sections?.daily || []);
-                renderSection(elements.weeklyList, elements.weeklyCount, data.sections?.weekly || []);
+                currentSections = {
+                    orders: data.sections?.orders || [],
+                    daily: data.sections?.daily || [],
+                    weekly: data.sections?.weekly || []
+                };
+                renderActiveSection();
             } catch (error) {
                 console.error(error);
                 showNotice(error.message || 'Hub Stagionale non disponibile.');
-                renderSection(elements.ordersList, elements.ordersCount, []);
-                renderSection(elements.dailyList, elements.dailyCount, []);
-                renderSection(elements.weeklyList, elements.weeklyCount, []);
+                currentSections = { orders: [], daily: [], weekly: [] };
+                renderActiveSection();
             } finally {
                 setLoading(false);
             }
@@ -577,16 +621,26 @@
             elements.lastUpdated.textContent = data.checkedAt ? formatDate(data.checkedAt) : '-';
         }
 
-        function renderSection(container, counter, items) {
-            counter.textContent = String(items.length);
-            container.innerHTML = '';
+        function renderActiveSection() {
+            const items = currentSections[currentSection] || [];
+            elements.sectionTitle.textContent = SECTION_LABELS[currentSection] || 'Hub Stagionale';
+            elements.sectionCount.textContent = String(items.length);
+            elements.ordersTabCount.textContent = String(currentSections.orders.length);
+            elements.dailyTabCount.textContent = String(currentSections.daily.length);
+            elements.weeklyTabCount.textContent = String(currentSections.weekly.length);
+
+            document.querySelectorAll('.view-tab').forEach((tab) => {
+                tab.classList.toggle('active', tab.dataset.section === currentSection);
+            });
+
+            elements.sectionList.innerHTML = '';
 
             if (!items.length) {
-                container.innerHTML = '<div class="empty">Nessun dato esposto dall API per questa sezione.</div>';
+                elements.sectionList.innerHTML = '<div class="empty">Nessun dato esposto dall API per questa sezione.</div>';
                 return;
             }
 
-            items.forEach(item => container.appendChild(createItem(item)));
+            items.forEach(item => elements.sectionList.appendChild(createItem(item)));
         }
 
         function isStaleSessionMessage(message) {
@@ -726,9 +780,7 @@
         function setLoading(isLoading) {
             elements.refreshButton.disabled = isLoading;
             if (isLoading) {
-                elements.ordersList.innerHTML = '<div class="loader">Caricamento ordini</div>';
-                elements.dailyList.innerHTML = '<div class="loader">Caricamento obiettivi</div>';
-                elements.weeklyList.innerHTML = '<div class="loader">Caricamento obiettivi</div>';
+                elements.sectionList.innerHTML = '<div class="loader">Caricamento sezione</div>';
             }
         }
 
