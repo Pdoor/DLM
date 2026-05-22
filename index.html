@@ -952,7 +952,7 @@
                 });
                 if (!response.ok) {
                     const message = await readErrorMessage(response) || 'Stato amici non disponibile.';
-                    if (message === 'Unknown user') {
+                    if (isStaleSessionMessage(message)) {
                         localStorage.removeItem(DLM_USER_STORAGE_KEY);
                         initializeNotificationUi();
                         throw new Error('Sessione Bungie non trovata. Effettua di nuovo l accesso.');
@@ -1018,6 +1018,11 @@
                 friend.bungieNetMembershipId,
                 normalizeName(friend.displayName)
             ].filter(Boolean).some(key => clanKeys.has(String(key)));
+        }
+
+        function isStaleSessionMessage(message) {
+            const normalized = String(message || '').toLowerCase();
+            return normalized === 'unknown user' || normalized === 'not found';
         }
 
         function renderSection(label, members, className) {

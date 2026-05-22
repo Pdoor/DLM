@@ -180,6 +180,10 @@
             color: #ffd2d2;
         }
 
+        .notice .button {
+            margin-top: 10px;
+        }
+
         .hub-grid {
             display: grid;
             grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr) minmax(0, 1fr);
@@ -444,9 +448,13 @@
                 });
                 if (!response.ok) {
                     const message = await readErrorMessage(response) || 'Hub Stagionale non disponibile.';
-                    if (message === 'Unknown user') {
+                    if (isStaleSessionMessage(message)) {
                         localStorage.removeItem(DLM_USER_STORAGE_KEY);
-                        throw new Error('Sessione Bungie non trovata. Torna alla home ed effettua di nuovo l accesso.');
+                        renderLoginNotice();
+                        renderSection(elements.ordersList, elements.ordersCount, []);
+                        renderSection(elements.dailyList, elements.dailyCount, []);
+                        renderSection(elements.weeklyList, elements.weeklyCount, []);
+                        return;
                     }
                     throw new Error(message);
                 }
@@ -489,6 +497,29 @@
             }
 
             items.forEach(item => container.appendChild(createItem(item)));
+        }
+
+        function isStaleSessionMessage(message) {
+            const normalized = String(message || '').toLowerCase();
+            return normalized === 'unknown user' || normalized === 'not found';
+        }
+
+        function renderLoginNotice() {
+            elements.notice.hidden = false;
+            elements.notice.innerHTML = '';
+
+            const text = document.createElement('div');
+            text.textContent = 'Sessione Bungie non trovata. Effettua di nuovo l accesso dalla home.';
+
+            const button = document.createElement('button');
+            button.className = 'button';
+            button.type = 'button';
+            button.textContent = 'Torna al login';
+            button.addEventListener('click', () => {
+                window.location.href = 'index.html';
+            });
+
+            elements.notice.append(text, button);
         }
 
         function createItem(item) {
