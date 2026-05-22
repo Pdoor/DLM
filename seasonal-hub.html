@@ -511,6 +511,206 @@
                 grid-template-columns: 1fr;
             }
         }
+
+        @media (max-width: 560px) {
+            body {
+                background:
+                    linear-gradient(rgba(14, 14, 16, .82), rgba(14, 14, 16, .92)),
+                    url("DLM.jpg") center top / cover fixed,
+                    var(--bg);
+            }
+
+            .container {
+                width: min(100% - 16px, 560px);
+                padding-top: 8px;
+            }
+
+            .topbar {
+                gap: 10px;
+                padding: 10px;
+                margin-bottom: 8px;
+            }
+
+            .brand {
+                gap: 9px;
+            }
+
+            .brand-logo {
+                width: 44px;
+                height: 44px;
+                border-radius: 8px;
+            }
+
+            .eyebrow {
+                margin-bottom: 2px;
+                font-size: 9px;
+            }
+
+            h1 {
+                font-size: 22px;
+            }
+
+            .actions {
+                gap: 6px;
+            }
+
+            .button {
+                min-height: 34px;
+                padding: 7px 9px;
+                font-size: 12px;
+            }
+
+            .summary {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+                margin-bottom: 8px;
+            }
+
+            .summary > div {
+                padding: 8px 9px;
+            }
+
+            .summary-label {
+                margin-bottom: 2px;
+                font-size: 10px;
+            }
+
+            .summary strong {
+                font-size: 14px;
+            }
+
+            .view-tabs {
+                gap: 6px;
+                margin-bottom: 8px;
+            }
+
+            .view-tab {
+                min-height: 38px;
+                padding: 7px 9px;
+                font-size: 12px;
+            }
+
+            .tab-count {
+                min-width: 26px;
+                padding: 1px 5px;
+            }
+
+            .panel-header {
+                padding: 10px;
+            }
+
+            h2 {
+                font-size: 18px;
+            }
+
+            .count {
+                min-width: 30px;
+                padding: 4px 7px;
+            }
+
+            .list {
+                gap: 7px;
+                padding: 8px;
+            }
+
+            .item {
+                padding: 9px;
+                border-radius: 7px;
+            }
+
+            .item-header {
+                gap: 7px;
+            }
+
+            .item-title {
+                font-size: 13px;
+                line-height: 1.18;
+            }
+
+            .badge {
+                max-width: 92px;
+                padding: 3px 6px;
+                font-size: 10px;
+            }
+
+            .description {
+                margin: 6px 0 7px;
+                padding: 6px 7px;
+                font-size: 12px;
+                line-height: 1.28;
+            }
+
+            .progress-row {
+                gap: 6px;
+                margin-top: 6px;
+            }
+
+            .meter {
+                height: 34px;
+                min-width: 0;
+            }
+
+            .meter-text,
+            .meter-percent {
+                font-size: 11px;
+                line-height: 1.12;
+            }
+
+            .meter-text {
+                display: -webkit-box;
+                overflow: hidden;
+                padding-left: 7px;
+                padding-right: 3px;
+                text-overflow: clip;
+                white-space: normal;
+                -webkit-box-orient: vertical;
+                -webkit-line-clamp: 2;
+            }
+
+            .meter-percent {
+                padding: 0 5px;
+            }
+
+            .element-token {
+                padding: 0 3px;
+                font-size: 10px;
+                line-height: 1.15;
+            }
+
+            .details-toggle {
+                width: 72px;
+                min-height: 34px;
+                padding: 4px 5px;
+                border-radius: 7px;
+                font-size: 11px;
+                line-height: 1.1;
+                text-align: center;
+            }
+
+            .meta {
+                margin-top: 5px;
+                font-size: 11px;
+            }
+
+            .rewards {
+                gap: 5px;
+                margin-top: 7px;
+                padding-top: 7px;
+            }
+
+            .reward-list {
+                gap: 5px;
+            }
+
+            .reward {
+                padding: 4px 6px;
+                font-size: 11px;
+            }
+
+            .reward img {
+                width: 18px;
+                height: 18px;
+            }
+        }
     </style>
 </head>
 <body>
