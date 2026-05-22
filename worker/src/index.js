@@ -10,10 +10,13 @@ const SEASONAL_HUB_COMPONENTS = [
 ].join(',');
 
 const SEASONAL_HUB_RECORDS = {
-  orders: [382700067, 3550651722, 2527460277, 1964759062, 390537696, 791269856],
+  orders: [],
   daily: [],
   weekly: [791269858]
 };
+
+const ACTIVE_ORDER_BUCKET_HASH = 635141261;
+const BOUNTY_CATEGORY_HASH = 1784235469;
 
 export default {
   async fetch(request, env) {
@@ -226,17 +229,13 @@ async function getProfileItemDefinitions(env, locale, profile, objectives) {
   Object.values(inventories).forEach((inventory) => {
     (inventory.items || []).forEach((item) => {
       const objectiveState = itemObjectives[item.itemInstanceId];
-      if (!objectiveState?.objectives?.length) return;
-      if (!objectiveState.objectives.some((objective) => {
-        const objectiveDef = objectives[String(objective.objectiveHash)] || {};
-        return objective.complete || objective.progress > 0 || objectiveDef.completionValue <= 100;
-      })) return;
+      if (!objectiveState?.objectives?.length && item.bucketHash !== ACTIVE_ORDER_BUCKET_HASH) return;
       hashes.add(item.itemHash);
     });
   });
 
   const definitions = {};
-  await mapLimit([...hashes].slice(0, 80), 5, async (hash) => {
+  await mapLimit([...hashes].slice(0, 160), 5, async (hash) => {
     try {
       const data = await bungieFetch(`/Platform/Destiny2/Manifest/DestinyInventoryItemDefinition/${hash}/?lc=${locale}`, env);
       definitions[String(hash)] = data.Response;
@@ -249,7 +248,6 @@ async function getProfileItemDefinitions(env, locale, profile, objectives) {
 
 function buildSeasonalSections(profile, manifest, itemDefinitions) {
   const orders = uniqueEntries([
-    ...SEASONAL_HUB_RECORDS.orders.map((hash) => recordToHubEntry(hash, 'Ordine', profile, manifest)),
     ...inventoryOrdersToHubEntries(profile, manifest, itemDefinitions)
   ]);
   const daily = uniqueEntries([
@@ -297,7 +295,7 @@ function inventoryOrdersToHubEntries(profile, manifest, itemDefinitions) {
       const objectiveState = itemObjectives[item.itemInstanceId];
       if (!objectiveState?.objectives?.length) return;
       const def = itemDefinitions[String(item.itemHash)];
-      if (!def?.displayProperties?.name || !looksLikeSeasonalOrder(def, objectiveState)) return;
+      if (!def?.displayProperties?.name || !isActiveOrderDefinition(def)) return;
 
       const objectives = objectiveState.objectives.map((objective) => ({
         ...objective,
@@ -384,13 +382,16 @@ function getRuntimeProgress(runtime) {
   return { value, max, percent, label: max ? `${value}/${max}` : `${percent}%` };
 }
 
-function looksLikeSeasonalOrder(def, objectiveState) {
-  const text = `${def.displayProperties?.name || ''} ${def.displayProperties?.description || ''} ${def.itemTypeDisplayName || ''}`.toLowerCase();
-  const terms = ['ordine', 'ordini', 'order', 'orders', 'avanguardia', 'vanguard', 'portale', 'portal'];
-  if (terms.some((term) => text.includes(term))) return true;
+function isActiveOrderDefinition(def) {
+  const typeName = String(def.itemTypeDisplayName || '').toLowerCase();
+  const traitIds = def.traitIds || [];
+  const categoryHashes = def.itemCategoryHashes || [];
 
-  const objectives = objectiveState.objectives || [];
-  return objectives.length > 0 && objectives.length <= 3 && !def.equippingBlock;
+  return def.inventory?.bucketTypeHash === ACTIVE_ORDER_BUCKET_HASH
+    && def.itemType === 26
+    && typeName.startsWith('ordine')
+    && traitIds.includes('item.bounty')
+    && categoryHashes.includes(BOUNTY_CATEGORY_HASH);
 }
 
 function chooseDestinyMembership(response) {
