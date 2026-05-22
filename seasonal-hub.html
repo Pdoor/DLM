@@ -725,15 +725,15 @@
             expiration.textContent = getExpirationText(item);
 
             header.append(title, badge);
-            wrapper.append(header, description, meter, progress, expiration);
-            const details = createDetails(item);
+            wrapper.append(header, description, meter);
+            const details = createDetails(item, [progress, expiration]);
             if (details) wrapper.appendChild(details);
             return wrapper;
         }
 
-        function createDetails(item) {
+        function createDetails(item, detailNodes = []) {
             const rewards = createRewards(item.rewards || []);
-            if (!rewards) return null;
+            if (!rewards && !detailNodes.length) return null;
 
             const toggle = document.createElement('button');
             toggle.className = 'details-toggle';
@@ -742,7 +742,8 @@
 
             const details = document.createElement('div');
             details.className = 'details';
-            details.appendChild(rewards);
+            detailNodes.forEach((node) => details.appendChild(node));
+            if (rewards) details.appendChild(rewards);
 
             toggle.addEventListener('click', () => {
                 const expanded = details.parentElement.classList.toggle('expanded');
