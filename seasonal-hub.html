@@ -320,10 +320,18 @@
 
         .meter {
             height: 9px;
+            flex: 1 1 auto;
             overflow: hidden;
             border: 1px solid rgba(255, 255, 255, .16);
             border-radius: 8px;
             background: rgba(0, 0, 0, .35);
+        }
+
+        .progress-row {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-top: 10px;
         }
 
         .meter::before {
@@ -345,9 +353,10 @@
         }
 
         .details-toggle {
-            width: 100%;
+            flex: 0 0 auto;
+            width: auto;
             min-height: 34px;
-            margin-top: 10px;
+            margin-top: 0;
             padding: 6px 9px;
             border: 1px solid var(--line);
             border-radius: 8px;
@@ -716,6 +725,9 @@
             meter.className = 'meter';
             meter.style.setProperty('--progress', `${item.progress?.percent || 0}%`);
 
+            const progressRow = document.createElement('div');
+            progressRow.className = 'progress-row';
+
             const progress = document.createElement('div');
             progress.className = 'meta';
             progress.textContent = `${item.progress?.label || '0%'} · ${item.progress?.percent || 0}% completato`;
@@ -725,9 +737,12 @@
             expiration.textContent = getExpirationText(item);
 
             header.append(title, badge);
-            wrapper.append(header, description, meter);
+            wrapper.append(header, description);
             const details = createDetails(item, [progress, expiration]);
-            if (details) wrapper.appendChild(details);
+            progressRow.appendChild(meter);
+            if (details?.toggle) progressRow.appendChild(details.toggle);
+            wrapper.appendChild(progressRow);
+            if (details?.panel) wrapper.appendChild(details.panel);
             return wrapper;
         }
 
@@ -750,9 +765,7 @@
                 toggle.textContent = expanded ? 'Nascondi dettagli' : 'Mostra dettagli';
             });
 
-            const fragment = document.createDocumentFragment();
-            fragment.append(toggle, details);
-            return fragment;
+            return { toggle, panel: details };
         }
 
         function createRewards(rewards) {
