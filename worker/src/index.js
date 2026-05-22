@@ -429,8 +429,19 @@ function uniqueEntries(entries) {
 }
 
 function compareHubEntries(a, b) {
+  const aRank = getOrderTierRank(a.type);
+  const bRank = getOrderTierRank(b.type);
+  if (aRank !== bRank) return aRank - bRank;
   if (a.completed !== b.completed) return a.completed ? 1 : -1;
   return a.title.localeCompare(b.title, 'it');
+}
+
+function getOrderTierRank(type) {
+  const normalized = String(type || '').toLowerCase();
+  if (normalized.includes('leggenda')) return 0;
+  if (normalized.includes('esotico')) return 1;
+  if (normalized.includes('comune')) return 2;
+  return 3;
 }
 
 function hasFlag(value, flag) {

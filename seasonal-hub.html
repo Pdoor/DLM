@@ -258,6 +258,12 @@
             white-space: nowrap;
         }
 
+        .badge.legendary {
+            border-color: rgba(190, 155, 255, .72);
+            background: rgba(122, 74, 201, .24);
+            color: #d8c4ff;
+        }
+
         .description {
             display: -webkit-box;
             min-height: 38px;
@@ -539,6 +545,7 @@
             const badge = document.createElement('span');
             badge.className = 'badge';
             badge.textContent = item.type || item.source || 'Hub';
+            if (isLegendary(item.type)) badge.classList.add('legendary');
 
             const description = document.createElement('div');
             description.className = 'description';
@@ -620,6 +627,10 @@
                 254: 'Bungie'
             };
             return names[type] || 'Destiny';
+        }
+
+        function isLegendary(value) {
+            return String(value || '').toLowerCase().includes('leggenda');
         }
     </script>
 </body>
