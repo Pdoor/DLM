@@ -42,6 +42,7 @@ Scope richiesto:
 
 ```text
 ReadUserData
+ReadDestinyInventoryAndVault
 ```
 
 ## Secret Worker

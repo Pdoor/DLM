@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hub Stagionale - Destiny Lore Masters</title>
+    <link rel="icon" href="dlm.ico" type="image/x-icon">
+    <style>
+        :root {
+            --bg: #1e1e1e;
+            --panel: #333;
+            --panel-light: #444;
+            --text: #fff;
+            --muted: #aaa;
+            --gold: #ffcc00;
+            --green: #00d36f;
+            --red: #ff4444;
+            --line: rgba(255, 255, 255, .13);
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            min-height: 100vh;
+            margin: 0;
+            background:
+                linear-gradient(rgba(14, 14, 16, .78), rgba(14, 14, 16, .9)),
+                url("DLM.jpg") center top / 70% auto fixed,
+                var(--bg);
+            color: var(--text);
+            font-family: Arial, sans-serif;
+            -webkit-text-size-adjust: 100%;
+        }
+
+        body::before {
+            content: "";
+            position: fixed;
+            inset: 0;
+            z-index: -1;
+            background:
+                radial-gradient(circle at 50% 8%, rgba(255, 204, 0, .12), transparent 32%),
+                rgba(0, 0, 0, .18);
+            pointer-events: none;
+        }
+
+        button {
+            font-family: inherit;
+            -webkit-appearance: none;
+            appearance: none;
+        }
+
+        .container {
+            width: min(1120px, calc(100% - 28px));
+            margin: 0 auto;
+            padding: 18px 0 calc(26px + env(safe-area-inset-bottom));
+        }
+
+        .topbar,
+        .summary,
+        .hub-panel {
+            border: 1px solid var(--line);
+            border-radius: 8px;
+            background: rgba(25, 25, 25, .82);
+            backdrop-filter: blur(8px);
+        }
+
+        .topbar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 14px;
+            padding: 14px;
+            margin-bottom: 14px;
+        }
+
+        .brand {
+            display: flex;
+            align-items: center;
+            min-width: 0;
+            gap: 14px;
+        }
+
+        .brand-logo {
+            width: 64px;
+            height: 64px;
+            border-radius: 12px;
+            border: 2px solid rgba(255, 204, 0, .55);
+            object-fit: cover;
+            flex: 0 0 auto;
+        }
+
+        .eyebrow {
+            margin: 0 0 4px;
+            color: var(--gold);
+            font-size: 11px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        h1,
+        h2 {
+            margin: 0;
+            letter-spacing: 0;
+        }
+
+        h1 {
+            font-size: 28px;
+            line-height: 1.05;
+        }
+
+        h2 {
+            font-size: 20px;
+        }
+
+        .actions {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-end;
+            gap: 8px;
+        }
+
+        .button {
+            min-height: 40px;
+            padding: 8px 12px;
+            border: 1px solid rgba(255, 204, 0, .35);
+            border-radius: 8px;
+            background: rgba(255, 204, 0, .12);
+            color: var(--text);
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: bold;
+        }
+
+        .button:disabled {
+            cursor: wait;
+            opacity: .6;
+        }
+
+        .summary {
+            display: grid;
+            grid-template-columns: 1.3fr .9fr .8fr .9fr;
+            overflow: hidden;
+            margin-bottom: 14px;
+        }
+
+        .summary > div {
+            min-width: 0;
+            padding: 13px;
+            border-right: 1px solid var(--line);
+        }
+
+        .summary > div:last-child {
+            border-right: 0;
+        }
+
+        .summary-label {
+            display: block;
+            margin-bottom: 5px;
+            color: var(--muted);
+            font-size: 12px;
+        }
+
+        .summary strong {
+            display: block;
+            overflow: hidden;
+            color: var(--text);
+            font-size: 18px;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .notice {
+            margin-bottom: 14px;
+            padding: 12px;
+            border: 1px solid rgba(255, 68, 68, .42);
+            border-radius: 8px;
+            background: rgba(255, 68, 68, .13);
+            color: #ffd2d2;
+        }
+
+        .hub-grid {
+            display: grid;
+            grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr) minmax(0, 1fr);
+            gap: 14px;
+        }
+
+        .hub-panel {
+            min-width: 0;
+            overflow: hidden;
+        }
+
+        .panel-header {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            gap: 12px;
+            padding: 14px;
+            border-bottom: 1px solid var(--line);
+        }
+
+        .count {
+            min-width: 34px;
+            padding: 5px 8px;
+            border: 1px solid rgba(255, 204, 0, .5);
+            border-radius: 8px;
+            color: var(--gold);
+            font-weight: bold;
+            text-align: center;
+        }
+
+        .list {
+            display: grid;
+            gap: 10px;
+            padding: 12px;
+        }
+
+        .item {
+            padding: 12px;
+            border: 1px solid var(--line);
+            border-radius: 8px;
+            background: rgba(51, 51, 51, .82);
+        }
+
+        .item.complete {
+            border-color: rgba(0, 211, 111, .48);
+        }
+
+        .item-header {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            gap: 10px;
+        }
+
+        .item-title {
+            min-width: 0;
+            font-weight: bold;
+            line-height: 1.25;
+        }
+
+        .badge {
+            flex: 0 0 auto;
+            max-width: 118px;
+            overflow: hidden;
+            padding: 4px 7px;
+            border: 1px solid var(--line);
+            border-radius: 8px;
+            color: var(--gold);
+            font-size: 11px;
+            font-weight: bold;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .description {
+            display: -webkit-box;
+            min-height: 38px;
+            margin: 8px 0 12px;
+            overflow: hidden;
+            color: var(--muted);
+            font-size: 12px;
+            line-height: 1.55;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 2;
+        }
+
+        .meter {
+            height: 9px;
+            overflow: hidden;
+            border: 1px solid rgba(255, 255, 255, .16);
+            border-radius: 8px;
+            background: rgba(0, 0, 0, .35);
+        }
+
+        .meter::before {
+            content: "";
+            display: block;
+            width: var(--progress);
+            height: 100%;
+            border-radius: inherit;
+            background: linear-gradient(90deg, var(--gold), var(--green));
+        }
+
+        .meta {
+            margin-top: 7px;
+            overflow: hidden;
+            color: var(--muted);
+            font-size: 12px;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .empty,
+        .loader {
+            padding: 24px 12px;
+            border: 1px dashed var(--line);
+            border-radius: 8px;
+            color: var(--muted);
+            text-align: center;
+        }
+
+        @media (max-width: 860px) {
+            .topbar {
+                align-items: stretch;
+                flex-direction: column;
+            }
+
+            .actions,
+            .button {
+                width: 100%;
+            }
+
+            .summary {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+            }
+
+            .summary > div {
+                border-bottom: 1px solid var(--line);
+            }
+
+            .hub-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <main class="container">
+        <header class="topbar">
+            <div class="brand">
+                <img src="dlm.ico" alt="Destiny Lore Masters" class="brand-logo">
+                <div>
+                    <p class="eyebrow">Destiny 2</p>
+                    <h1>Hub Stagionale</h1>
+                </div>
+            </div>
+            <div class="actions">
+                <button class="button" id="backButton" type="button">Torna al clan</button>
+                <button class="button" id="refreshButton" type="button">Aggiorna</button>
+            </div>
+        </header>
+
+        <section class="summary" aria-label="Riepilogo Hub Stagionale">
+            <div>
+                <span class="summary-label">Profilo</span>
+                <strong id="profileName">-</strong>
+            </div>
+            <div>
+                <span class="summary-label">Piattaforma</span>
+                <strong id="platformName">-</strong>
+            </div>
+            <div>
+                <span class="summary-label">Completati</span>
+                <strong id="completedCount">0</strong>
+            </div>
+            <div>
+                <span class="summary-label">Aggiornato</span>
+                <strong id="lastUpdated">-</strong>
+            </div>
+        </section>
+
+        <div class="notice" id="notice" hidden></div>
+
+        <section class="hub-grid" aria-live="polite">
+            <article class="hub-panel">
+                <div class="panel-header">
+                    <div>
+                        <p class="eyebrow">Panoramica</p>
+                        <h2>Ordini attivi</h2>
+                    </div>
+                    <span class="count" id="ordersCount">0</span>
+                </div>
+                <div class="list" id="ordersList"></div>
+            </article>
+
+            <article class="hub-panel">
+                <div class="panel-header">
+                    <div>
+                        <p class="eyebrow">Panoramica</p>
+                        <h2>Obiettivi giornalieri</h2>
+                    </div>
+                    <span class="count" id="dailyCount">0</span>
+                </div>
+                <div class="list" id="dailyList"></div>
+            </article>
+
+            <article class="hub-panel">
+                <div class="panel-header">
+                    <div>
+                        <p class="eyebrow">Panoramica</p>
+                        <h2>Obiettivi settimanali</h2>
+                    </div>
+                    <span class="count" id="weeklyCount">0</span>
+                </div>
+                <div class="list" id="weeklyList"></div>
+            </article>
+        </section>
+    </main>
+
+    <script>
+        const WORKER_BASE_URL = 'https://dlm-notify.gmeluzzi.workers.dev';
+        const DLM_USER_STORAGE_KEY = 'dlmNotifyUserId';
+
+        const elements = {
+            backButton: document.getElementById('backButton'),
+            refreshButton: document.getElementById('refreshButton'),
+            notice: document.getElementById('notice'),
+            profileName: document.getElementById('profileName'),
+            platformName: document.getElementById('platformName'),
+            completedCount: document.getElementById('completedCount'),
+            lastUpdated: document.getElementById('lastUpdated'),
+            ordersList: document.getElementById('ordersList'),
+            dailyList: document.getElementById('dailyList'),
+            weeklyList: document.getElementById('weeklyList'),
+            ordersCount: document.getElementById('ordersCount'),
+            dailyCount: document.getElementById('dailyCount'),
+            weeklyCount: document.getElementById('weeklyCount')
+        };
+
+        document.addEventListener('DOMContentLoaded', loadHub);
+        elements.backButton.addEventListener('click', () => {
+            window.location.href = 'index.html';
+        });
+        elements.refreshButton.addEventListener('click', loadHub);
+
+        async function loadHub() {
+            const userId = localStorage.getItem(DLM_USER_STORAGE_KEY);
+            if (!userId) {
+                showNotice('Accedi con Bungie dalla home per visualizzare i dati dell Hub Stagionale.');
+                renderSection(elements.ordersList, elements.ordersCount, []);
+                renderSection(elements.dailyList, elements.dailyCount, []);
+                renderSection(elements.weeklyList, elements.weeklyCount, []);
+                return;
+            }
+
+            setLoading(true);
+            showNotice('');
+
+            try {
+                const response = await fetch(`${WORKER_BASE_URL}/api/seasonal-hub?userId=${encodeURIComponent(userId)}&locale=it`, {
+                    cache: 'no-store'
+                });
+                if (!response.ok) throw new Error(await readErrorMessage(response) || 'Hub Stagionale non disponibile.');
+                const data = await response.json();
+
+                renderSummary(data);
+                renderSection(elements.ordersList, elements.ordersCount, data.sections?.orders || []);
+                renderSection(elements.dailyList, elements.dailyCount, data.sections?.daily || []);
+                renderSection(elements.weeklyList, elements.weeklyCount, data.sections?.weekly || []);
+            } catch (error) {
+                console.error(error);
+                showNotice(error.message || 'Hub Stagionale non disponibile.');
+                renderSection(elements.ordersList, elements.ordersCount, []);
+                renderSection(elements.dailyList, elements.dailyCount, []);
+                renderSection(elements.weeklyList, elements.weeklyCount, []);
+            } finally {
+                setLoading(false);
+            }
+        }
+
+        function renderSummary(data) {
+            const allItems = [
+                ...(data.sections?.orders || []),
+                ...(data.sections?.daily || []),
+                ...(data.sections?.weekly || [])
+            ];
+            elements.profileName.textContent = data.membership?.displayName || 'Guardiano';
+            elements.platformName.textContent = getPlatformName(data.membership?.membershipType);
+            elements.completedCount.textContent = String(allItems.filter(item => item.completed).length);
+            elements.lastUpdated.textContent = data.checkedAt ? formatDate(data.checkedAt) : '-';
+        }
+
+        function renderSection(container, counter, items) {
+            counter.textContent = String(items.length);
+            container.innerHTML = '';
+
+            if (!items.length) {
+                container.innerHTML = '<div class="empty">Nessun dato esposto dall API per questa sezione.</div>';
+                return;
+            }
+
+            items.forEach(item => container.appendChild(createItem(item)));
+        }
+
+        function createItem(item) {
+            const wrapper = document.createElement('div');
+            wrapper.className = `item ${item.completed ? 'complete' : ''}`;
+
+            const header = document.createElement('div');
+            header.className = 'item-header';
+
+            const title = document.createElement('div');
+            title.className = 'item-title';
+            title.textContent = item.title || 'Obiettivo';
+
+            const badge = document.createElement('span');
+            badge.className = 'badge';
+            badge.textContent = item.type || item.source || 'Hub';
+
+            const description = document.createElement('div');
+            description.className = 'description';
+            description.textContent = compactText(item.description || 'Dettaglio non disponibile.', 190);
+
+            const meter = document.createElement('div');
+            meter.className = 'meter';
+            meter.style.setProperty('--progress', `${item.progress?.percent || 0}%`);
+
+            const progress = document.createElement('div');
+            progress.className = 'meta';
+            progress.textContent = `${item.progress?.label || '0%'} · ${item.progress?.percent || 0}% completato`;
+
+            const expiration = document.createElement('div');
+            expiration.className = 'meta';
+            expiration.textContent = `Scadenza: ${formatExpiration(item.expiresAt)}`;
+
+            header.append(title, badge);
+            wrapper.append(header, description, meter, progress, expiration);
+            return wrapper;
+        }
+
+        async function readErrorMessage(response) {
+            try {
+                const data = await response.json();
+                return data.error || data.message || '';
+            } catch {
+                return '';
+            }
+        }
+
+        function setLoading(isLoading) {
+            elements.refreshButton.disabled = isLoading;
+            if (isLoading) {
+                elements.ordersList.innerHTML = '<div class="loader">Caricamento ordini</div>';
+                elements.dailyList.innerHTML = '<div class="loader">Caricamento obiettivi</div>';
+                elements.weeklyList.innerHTML = '<div class="loader">Caricamento obiettivi</div>';
+            }
+        }
+
+        function showNotice(message) {
+            elements.notice.hidden = !message;
+            elements.notice.textContent = message;
+        }
+
+        function compactText(value, maxLength) {
+            const text = String(value || '').replace(/\s+/g, ' ').trim();
+            return text.length > maxLength ? `${text.slice(0, maxLength - 3)}...` : text;
+        }
+
+        function formatExpiration(value) {
+            if (!value) return 'non indicata';
+            const date = new Date(value);
+            if (Number.isNaN(date.getTime())) return String(value);
+            return formatDate(value);
+        }
+
+        function formatDate(value) {
+            const date = new Date(value);
+            if (Number.isNaN(date.getTime())) return 'N/D';
+            return date.toLocaleString('it-IT', {
+                day: '2-digit',
+                month: '2-digit',
+                year: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+        }
+
+        function getPlatformName(type) {
+            const names = {
+                1: 'Xbox',
+                2: 'PlayStation',
+                3: 'Steam',
+                4: 'Blizzard',
+                5: 'Stadia',
+                6: 'Epic',
+                10: 'Demon',
+                254: 'Bungie'
+            };
+            return names[type] || 'Destiny';
+        }
+    </script>
+</body>
+</html>

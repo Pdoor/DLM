@@ -47,6 +47,7 @@ La cartella `worker/` contiene uno scaffold Cloudflare Worker per:
 
 - login OAuth Bungie;
 - lettura lista amici con `/Platform/Social/Friends/`;
+- lettura dell'Hub Stagionale autenticato con `/api/seasonal-hub`;
 - cron ogni 5 minuti;
 - notifica Web Push quando un amico passa da offline a online.
 

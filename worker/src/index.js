@@ -5,6 +5,15 @@ const BUNGIE_AUTHORIZE_URL = 'https://www.bungie.net/en/OAuth/Authorize';
 const BUNGIE_TOKEN_URL = 'https://www.bungie.net/platform/app/oauth/token/';
 const FRIENDS_PATH = '/Platform/Social/Friends/';
 const GROUP_ID = '5420062';
+const SEASONAL_HUB_COMPONENTS = [
+  100, 104, 200, 201, 202, 301, 700, 900, 1200
+].join(',');
+
+const SEASONAL_HUB_RECORDS = {
+  orders: [382700067, 3550651722, 2527460277, 1964759062, 390537696, 791269856],
+  daily: [],
+  weekly: [791269858]
+};
 
 export default {
   async fetch(request, env) {
@@ -18,6 +27,7 @@ export default {
       if (url.pathname === '/api/subscribe' && request.method === 'POST') return await handleSubscribe(request, env);
       if (url.pathname === '/api/clan-presence') return await handleClanPresence(env);
       if (url.pathname === '/api/friends-status') return await handleFriendsStatus(request, env);
+      if (url.pathname === '/api/seasonal-hub') return await handleSeasonalHub(request, env);
       if (url.pathname === '/api/check-now' && request.method === 'POST') return await handleCheckNow(request, env);
 
       return corsResponse({ error: 'Not found' }, env, 404);
@@ -156,6 +166,271 @@ async function handleFriendsStatus(request, env) {
       onlineTitle: friend.onlineTitle || 0
     }))
   }, env);
+}
+
+async function handleSeasonalHub(request, env) {
+  assertEnv(env, ['BUNGIE_API_KEY']);
+  const url = new URL(request.url);
+  const userId = url.searchParams.get('userId');
+  const locale = url.searchParams.get('locale') || 'it';
+  if (!userId) return corsResponse({ error: 'Missing userId' }, env, 400);
+
+  const user = await getUser(env, userId);
+  if (!user) return corsResponse({ error: 'Unknown user' }, env, 404);
+
+  const freshUser = await ensureAccessToken(env, user);
+  const memberships = await bungieFetch('/Platform/User/GetMembershipsForCurrentUser/', env, freshUser.accessToken);
+  const membership = chooseDestinyMembership(memberships.Response);
+  if (!membership) return corsResponse({ error: 'No Destiny membership found' }, env, 404);
+
+  const profile = await bungieFetch(
+    `/Platform/Destiny2/${membership.membershipType}/Profile/${membership.membershipId}/?components=${SEASONAL_HUB_COMPONENTS}`,
+    env,
+    freshUser.accessToken
+  );
+
+  const manifest = await getSeasonalManifest(env, locale);
+  const itemDefinitions = await getProfileItemDefinitions(env, locale, profile, manifest.objectives);
+  const sections = buildSeasonalSections(profile.Response || {}, manifest, itemDefinitions);
+
+  return corsResponse({
+    checkedAt: new Date().toISOString(),
+    membership: {
+      membershipId: String(membership.membershipId || ''),
+      membershipType: membership.membershipType,
+      displayName: getMembershipDisplayName(membership)
+    },
+    sections
+  }, env);
+}
+
+async function getSeasonalManifest(env, locale) {
+  const manifest = await bungieFetch('/Platform/Destiny2/Manifest/', env);
+  const paths = manifest.Response?.jsonWorldComponentContentPaths;
+  const localized = paths?.[locale] || paths?.it || paths?.en;
+  if (!localized) throw new Error('Destiny manifest unavailable');
+
+  const [records, objectives] = await Promise.all([
+    fetchJson(BUNGIE_BASE_URL + localized.DestinyRecordDefinition),
+    fetchJson(BUNGIE_BASE_URL + localized.DestinyObjectiveDefinition)
+  ]);
+
+  return { records, objectives };
+}
+
+async function getProfileItemDefinitions(env, locale, profile, objectives) {
+  const hashes = new Set();
+  const inventories = profile.Response?.characterInventories?.data || {};
+  const itemObjectives = profile.Response?.itemComponents?.objectives?.data || {};
+
+  Object.values(inventories).forEach((inventory) => {
+    (inventory.items || []).forEach((item) => {
+      const objectiveState = itemObjectives[item.itemInstanceId];
+      if (!objectiveState?.objectives?.length) return;
+      if (!objectiveState.objectives.some((objective) => {
+        const objectiveDef = objectives[String(objective.objectiveHash)] || {};
+        return objective.complete || objective.progress > 0 || objectiveDef.completionValue <= 100;
+      })) return;
+      hashes.add(item.itemHash);
+    });
+  });
+
+  const definitions = {};
+  await mapLimit([...hashes].slice(0, 80), 5, async (hash) => {
+    try {
+      const data = await bungieFetch(`/Platform/Destiny2/Manifest/DestinyInventoryItemDefinition/${hash}/?lc=${locale}`, env);
+      definitions[String(hash)] = data.Response;
+    } catch (error) {
+      console.warn(`Item definition unavailable for ${hash}`, error.message);
+    }
+  });
+  return definitions;
+}
+
+function buildSeasonalSections(profile, manifest, itemDefinitions) {
+  const orders = uniqueEntries([
+    ...SEASONAL_HUB_RECORDS.orders.map((hash) => recordToHubEntry(hash, 'Ordine', profile, manifest)),
+    ...inventoryOrdersToHubEntries(profile, manifest, itemDefinitions)
+  ]);
+  const daily = uniqueEntries([
+    ...SEASONAL_HUB_RECORDS.daily.map((hash) => recordToHubEntry(hash, 'Giornaliero', profile, manifest)),
+    ...findRuntimeRecordsByText(profile, manifest, ['giornalier', 'daily'], 'Giornaliero')
+  ]);
+  const weekly = uniqueEntries([
+    ...SEASONAL_HUB_RECORDS.weekly.map((hash) => recordToHubEntry(hash, 'Settimanale', profile, manifest)),
+    ...findRuntimeRecordsByText(profile, manifest, ['settiman', 'weekly', 'weekly:', 'sfide'], 'Settimanale')
+  ]);
+
+  return {
+    orders: orders.filter(Boolean).sort(compareHubEntries),
+    daily: daily.filter(Boolean).sort(compareHubEntries),
+    weekly: weekly.filter(Boolean).sort(compareHubEntries)
+  };
+}
+
+function recordToHubEntry(hash, type, profile, manifest) {
+  const def = manifest.records[String(hash)];
+  if (!def?.displayProperties) return null;
+  const runtime = getRuntimeRecord(profile, hash);
+  const objectives = getRecordObjectives(def, runtime, manifest);
+  const progress = objectives[0] ? getObjectiveProgress(objectives[0]) : getRuntimeProgress(runtime);
+
+  return {
+    id: `record-${hash}`,
+    title: def.displayProperties.name || type,
+    description: def.displayProperties.description || '',
+    type,
+    source: 'Record',
+    completed: Boolean(runtime?.state && hasFlag(runtime.state, 1)) || objectives.every((objective) => objective.complete),
+    progress,
+    expiresAt: parseExpiration(def.expirationInfo)
+  };
+}
+
+function inventoryOrdersToHubEntries(profile, manifest, itemDefinitions) {
+  const inventories = profile.characterInventories?.data || {};
+  const itemObjectives = profile.itemComponents?.objectives?.data || {};
+  const entries = [];
+
+  Object.values(inventories).forEach((inventory) => {
+    (inventory.items || []).forEach((item) => {
+      const objectiveState = itemObjectives[item.itemInstanceId];
+      if (!objectiveState?.objectives?.length) return;
+      const def = itemDefinitions[String(item.itemHash)];
+      if (!def?.displayProperties?.name || !looksLikeSeasonalOrder(def, objectiveState)) return;
+
+      const objectives = objectiveState.objectives.map((objective) => ({
+        ...objective,
+        completionValue: objective.completionValue
+          || manifest.objectives[String(objective.objectiveHash)]?.completionValue
+          || 1
+      }));
+
+      entries.push({
+        id: `item-${item.itemInstanceId || item.itemHash}`,
+        title: def.displayProperties.name,
+        description: def.displayProperties.description || '',
+        type: def.inventory?.tierTypeName || def.itemTypeDisplayName || 'Ordine',
+        source: 'Inventario',
+        completed: objectives.every((objective) => objective.complete),
+        progress: getObjectiveProgress(objectives[0]),
+        expiresAt: item.expirationDate || null
+      });
+    });
+  });
+
+  return entries;
+}
+
+function findRuntimeRecordsByText(profile, manifest, terms, type) {
+  const records = profile.profileRecords?.data?.records || {};
+  return Object.keys(records)
+    .map((hash) => manifest.records[String(hash)])
+    .filter(Boolean)
+    .filter((def) => {
+      const text = `${def.displayProperties?.name || ''} ${def.displayProperties?.description || ''}`.toLowerCase();
+      return terms.some((term) => text.includes(term));
+    })
+    .slice(0, 12)
+    .map((def) => recordToHubEntry(def.hash, type, profile, manifest));
+}
+
+function getRuntimeRecord(profile, hash) {
+  const profileRecord = profile.profileRecords?.data?.records?.[String(hash)];
+  if (profileRecord) return profileRecord;
+
+  const characterRecords = profile.characterRecords?.data || {};
+  for (const records of Object.values(characterRecords)) {
+    const record = records.records?.[String(hash)];
+    if (record) return record;
+  }
+  return null;
+}
+
+function getRecordObjectives(def, runtime, manifest) {
+  if (runtime?.objectives?.length) {
+    return runtime.objectives.map((objective) => ({
+      ...objective,
+      completionValue: objective.completionValue
+        || manifest.objectives[String(objective.objectiveHash)]?.completionValue
+        || 1
+    }));
+  }
+
+  return (def.objectiveHashes || []).map((objectiveHash) => ({
+    objectiveHash,
+    progress: 0,
+    completionValue: manifest.objectives[String(objectiveHash)]?.completionValue || 1,
+    complete: false
+  }));
+}
+
+function getObjectiveProgress(objective) {
+  const value = Number(objective.progress || 0);
+  const max = Number(objective.completionValue || 0);
+  const percent = max > 0 ? Math.min(100, Math.round((value / max) * 100)) : (objective.complete ? 100 : 0);
+  return {
+    value,
+    max,
+    percent,
+    label: max > 1 ? `${value}/${max}` : `${percent}%`
+  };
+}
+
+function getRuntimeProgress(runtime) {
+  const value = Number(runtime?.completedCount || 0);
+  const max = Number(runtime?.completionValue || 0);
+  const percent = max > 0 ? Math.min(100, Math.round((value / max) * 100)) : 0;
+  return { value, max, percent, label: max ? `${value}/${max}` : `${percent}%` };
+}
+
+function looksLikeSeasonalOrder(def, objectiveState) {
+  const text = `${def.displayProperties?.name || ''} ${def.displayProperties?.description || ''} ${def.itemTypeDisplayName || ''}`.toLowerCase();
+  const terms = ['ordine', 'ordini', 'order', 'orders', 'avanguardia', 'vanguard', 'portale', 'portal'];
+  if (terms.some((term) => text.includes(term))) return true;
+
+  const objectives = objectiveState.objectives || [];
+  return objectives.length > 0 && objectives.length <= 3 && !def.equippingBlock;
+}
+
+function chooseDestinyMembership(response) {
+  const memberships = response?.destinyMemberships || [];
+  if (!memberships.length) return null;
+  const primaryId = response?.primaryMembershipId;
+  const crossSaveType = memberships.find((item) => item.crossSaveOverride)?.crossSaveOverride;
+  return memberships.find((item) => item.membershipId === primaryId)
+    || memberships.find((item) => item.membershipType === crossSaveType)
+    || memberships.find((item) => item.membershipType === 3)
+    || memberships[0];
+}
+
+function getMembershipDisplayName(membership) {
+  const name = membership.bungieGlobalDisplayName || membership.displayName || 'Guardiano';
+  const code = membership.bungieGlobalDisplayNameCode ? `#${membership.bungieGlobalDisplayNameCode}` : '';
+  return `${name}${code}`;
+}
+
+function uniqueEntries(entries) {
+  const seen = new Set();
+  return entries.filter((entry) => {
+    if (!entry || seen.has(entry.id)) return false;
+    seen.add(entry.id);
+    return true;
+  });
+}
+
+function compareHubEntries(a, b) {
+  if (a.completed !== b.completed) return a.completed ? 1 : -1;
+  return a.title.localeCompare(b.title, 'it');
+}
+
+function hasFlag(value, flag) {
+  return (Number(value) & flag) === flag;
+}
+
+function parseExpiration(expirationInfo) {
+  if (!expirationInfo?.hasExpiration) return null;
+  return expirationInfo.expirationDate || expirationInfo.description || null;
 }
 
 async function handleClanPresence(env) {
@@ -304,6 +579,12 @@ async function bungieFetch(path, env, accessToken) {
     throw new Error(data.Message || `Bungie API error ${data.ErrorCode}`);
   }
   return data;
+}
+
+async function fetchJson(url, options = {}) {
+  const response = await fetch(url, options);
+  if (!response.ok) throw new Error(`HTTP ${response.status}: ${await response.text()}`);
+  return response.json();
 }
 
 async function getUser(env, userId) {
