@@ -304,6 +304,34 @@
             white-space: nowrap;
         }
 
+        .details-toggle {
+            width: 100%;
+            min-height: 34px;
+            margin-top: 10px;
+            padding: 6px 9px;
+            border: 1px solid var(--line);
+            border-radius: 8px;
+            background: rgba(255, 255, 255, .04);
+            color: var(--muted);
+            cursor: pointer;
+            font-size: 12px;
+            font-weight: bold;
+            text-align: left;
+        }
+
+        .details-toggle:hover {
+            border-color: rgba(255, 204, 0, .45);
+            color: var(--text);
+        }
+
+        .details {
+            display: none;
+        }
+
+        .item.expanded .details {
+            display: block;
+        }
+
         .rewards {
             display: grid;
             gap: 6px;
@@ -621,9 +649,32 @@
 
             header.append(title, badge);
             wrapper.append(header, description, meter, progress, expiration);
-            const rewards = createRewards(item.rewards || []);
-            if (rewards) wrapper.appendChild(rewards);
+            const details = createDetails(item);
+            if (details) wrapper.appendChild(details);
             return wrapper;
+        }
+
+        function createDetails(item) {
+            const rewards = createRewards(item.rewards || []);
+            if (!rewards) return null;
+
+            const toggle = document.createElement('button');
+            toggle.className = 'details-toggle';
+            toggle.type = 'button';
+            toggle.textContent = 'Mostra dettagli';
+
+            const details = document.createElement('div');
+            details.className = 'details';
+            details.appendChild(rewards);
+
+            toggle.addEventListener('click', () => {
+                const expanded = details.parentElement.classList.toggle('expanded');
+                toggle.textContent = expanded ? 'Nascondi dettagli' : 'Mostra dettagli';
+            });
+
+            const fragment = document.createDocumentFragment();
+            fragment.append(toggle, details);
+            return fragment;
         }
 
         function createRewards(rewards) {
