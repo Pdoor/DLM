@@ -3,8 +3,20 @@ const path = require("node:path");
 
 const API_KEY = process.env.BUNGIE_API_KEY || "81224e7b397c4b5e9601d8183066729c";
 const BUNGIE_BASE_URL = "https://www.bungie.net";
+const WARMIND_PLAYER_ACTIVITY_URL = "https://api.warmind.io/in/playerActivity";
 const GROUP_ID = "5420062";
 const REMOTE_GROUP_ID = "6761737";
+const PVP_BUCKETS = new Set(["crucible", "private-crucible", "pvp-new"]);
+const PVE_BUCKETS = new Set([
+  "dungeon",
+  "lost-sectors",
+  "nhunts",
+  "nightfall",
+  "offensives",
+  "pve-new",
+  "raid",
+  "strikes"
+]);
 
 async function main() {
   const manifest = await bungieFetch("/Platform/Destiny2/Manifest/");
@@ -41,6 +53,18 @@ async function main() {
   );
 
   console.log(`Generated data/clan-status.json with ${hydratedMembers.length} members.`);
+
+  try {
+    const playerActivity = await getWarmindPlayerActivity();
+    await fs.writeFile(
+      path.join(dataDir, "player-activity.json"),
+      JSON.stringify(playerActivity, null, 2),
+      "utf8"
+    );
+    console.log("Generated data/player-activity.json from Warmind.");
+  } catch (error) {
+    console.warn(`Warmind player activity unavailable: ${error.message}`);
+  }
 }
 
 async function getAllClanMembers() {
@@ -164,6 +188,38 @@ async function bungieFetch(pathname) {
   return fetchJson(BUNGIE_BASE_URL + pathname, {
     headers: { "X-API-Key": API_KEY }
   });
+}
+
+async function getWarmindPlayerActivity() {
+  const data = await fetchJson(WARMIND_PLAYER_ACTIVITY_URL, {
+    headers: {
+      Accept: "application/json",
+      Referer: "https://warmind.io/activity",
+      "User-Agent": "DLM clan dashboard"
+    }
+  });
+  const response = data.response || {};
+  const modes = response.activityByModeType || {};
+  const pve = sumModeScores(modes, PVE_BUCKETS);
+  const pvp = sumModeScores(modes, PVP_BUCKETS);
+  const gambit = Number(modes["gambit-new"]?.rawScore || 0);
+
+  return {
+    generatedAt: new Date().toISOString(),
+    source: "Warmind.io",
+    sourceUrl: "https://warmind.io/activity",
+    windowSizeInSec: Number(response.windowSizeInSec || 0),
+    averageConcurrentPlayers: Number(response.averageConcurrentPlayers || 0),
+    pvePlayers: pve,
+    pvpPlayers: pvp,
+    gambitPlayers: gambit
+  };
+}
+
+function sumModeScores(modes, buckets) {
+  return Object.entries(modes).reduce((total, [bucket, value]) => {
+    return buckets.has(bucket) ? total + Number(value?.rawScore || 0) : total;
+  }, 0);
 }
 
 async function fetchJson(url, options = {}) {

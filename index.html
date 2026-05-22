@@ -181,6 +181,46 @@
             text-align: right;
         }
 
+        .header-side {
+            display: grid;
+            justify-items: end;
+            gap: 6px;
+            margin-left: auto;
+        }
+
+        .warmind-stats {
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            gap: 6px;
+            color: var(--muted);
+            font-size: 11px;
+            line-height: 1.15;
+        }
+
+        .warmind-stats[hidden] {
+            display: none;
+        }
+
+        .warmind-label {
+            color: rgba(255, 204, 0, .72);
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        .warmind-value {
+            padding: 3px 6px;
+            border: 1px solid rgba(255, 255, 255, .12);
+            border-radius: 7px;
+            background: rgba(0, 0, 0, .18);
+            white-space: nowrap;
+        }
+
+        .warmind-value strong {
+            color: rgba(255, 255, 255, .86);
+            font-size: 12px;
+        }
+
         .clan-meta {
             color: var(--muted);
             font-size: 12px;
@@ -457,6 +497,17 @@
                 flex-direction: column;
             }
 
+            .header-side {
+                justify-items: start;
+                margin-left: 0;
+            }
+
+            .warmind-stats {
+                flex-wrap: wrap;
+                justify-content: flex-start;
+                gap: 5px;
+            }
+
             .title-lockup {
                 gap: 10px;
             }
@@ -513,6 +564,7 @@
             .last-seen,
             .title-count,
             .last-updated,
+            .warmind-stats,
             .clan-meta {
                 font-size: 12px;
                 line-height: 1.35;
@@ -576,7 +628,15 @@
                     <span class="title-count">Membri del clan: <span id="membersCount">0</span></span>
                 </h1>
             </div>
-            <div class="last-updated" id="lastUpdated"></div>
+            <div class="header-side">
+                <div class="warmind-stats" id="warmindStats" title="Stima Warmind.io, finestra ultime 3 ore" hidden>
+                    <span class="warmind-label">Warmind</span>
+                    <span class="warmind-value">Tot <strong id="warmindTotal">-</strong></span>
+                    <span class="warmind-value">PvE <strong id="warmindPve">-</strong></span>
+                    <span class="warmind-value">PvP <strong id="warmindPvp">-</strong></span>
+                </div>
+                <div class="last-updated" id="lastUpdated"></div>
+            </div>
         </div>
         <div class="clan-meta" id="clanMeta">Clan: Destiny Lore Masters · Group ID 5420062 · Remote ID 6761737</div>
         <div id="membersList"></div>
@@ -595,6 +655,7 @@
         const GROUP_ID = '5420062';
         const REMOTE_GROUP_ID = '6761737';
         const STATIC_DATA_URL = 'data/clan-status.json';
+        const PLAYER_ACTIVITY_URL = 'data/player-activity.json';
         const WORKER_BASE_URL = 'https://dlm-notify.gmeluzzi.workers.dev';
         const DLM_USER_STORAGE_KEY = 'dlmNotifyUserId';
         const LIVE_STATUS_INTERVAL_MS = 60000;
@@ -607,6 +668,10 @@
             refreshButton: document.getElementById('refreshButton'),
             membersCount: document.getElementById('membersCount'),
             lastUpdated: document.getElementById('lastUpdated'),
+            warmindStats: document.getElementById('warmindStats'),
+            warmindTotal: document.getElementById('warmindTotal'),
+            warmindPve: document.getElementById('warmindPve'),
+            warmindPvp: document.getElementById('warmindPvp'),
             membersList: document.getElementById('membersList'),
             modal: document.getElementById('modal'),
             modalTitle: document.getElementById('modalTitle'),
@@ -850,6 +915,7 @@
                     ? `Aggiornato: ${formatDate(data.generatedAt)}`
                     : 'Aggiornato: dati pubblicati';
                 renderDashboard();
+                loadPlayerActivityStats();
                 startLiveStatusPolling();
             } catch (error) {
                 console.error('Errore caricamento dati:', error);
@@ -1020,6 +1086,21 @@
             ].filter(Boolean).some(key => clanKeys.has(String(key)));
         }
 
+        async function loadPlayerActivityStats() {
+            try {
+                const response = await fetch(`${PLAYER_ACTIVITY_URL}?v=${Date.now()}`, { cache: 'no-store' });
+                if (!response.ok) throw new Error('Statistiche Warmind non disponibili.');
+                const data = await response.json();
+                elements.warmindTotal.textContent = formatCompactNumber(data.averageConcurrentPlayers);
+                elements.warmindPve.textContent = formatCompactNumber(data.pvePlayers);
+                elements.warmindPvp.textContent = formatCompactNumber(data.pvpPlayers);
+                elements.warmindStats.hidden = false;
+            } catch (error) {
+                console.warn('Statistiche Warmind non disponibili:', error);
+                elements.warmindStats.hidden = true;
+            }
+        }
+
         function isStaleSessionMessage(message) {
             const normalized = String(message || '').toLowerCase();
             return normalized === 'unknown user'
@@ -1174,6 +1255,15 @@
                 hour: '2-digit',
                 minute: '2-digit'
             });
+        }
+
+        function formatCompactNumber(value) {
+            const number = Number(value || 0);
+            if (!Number.isFinite(number) || number <= 0) return '-';
+            return new Intl.NumberFormat('it-IT', {
+                notation: 'compact',
+                maximumFractionDigits: 1
+            }).format(number);
         }
 
         function closeModal() {
