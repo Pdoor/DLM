@@ -80,7 +80,7 @@
         .notify-box {
             display: grid;
             gap: 8px;
-            margin-bottom: 18px;
+            margin: 14px 0 16px;
             padding: 12px;
             border: 1px solid rgba(255, 204, 0, .28);
             border-radius: 8px;
@@ -610,15 +610,6 @@
     <div class="container">
         <button class="refresh-box" id="refreshButton" type="button">Ricarica dati pubblicati</button>
 
-        <section class="notify-box" aria-label="Notifiche amici online">
-            <div class="notify-actions">
-                <button class="notify-button" id="bungieLoginButton" type="button">Accedi con Bungie</button>
-                <button class="notify-button" id="seasonalHubButton" type="button" disabled>Hub Stagionale</button>
-                <button class="notify-button" id="enablePushButton" type="button" disabled>Attiva notifiche amici online</button>
-            </div>
-            <div class="notify-status" id="notifyStatus">Accesso Bungie richiesto per ricevere notifiche quando un amico compare online.</div>
-        </section>
-
         <div class="status-bar">
             <div class="title-lockup">
                 <img src="dlm.ico" alt="Destiny Lore Masters" class="brand-logo">
@@ -639,6 +630,15 @@
             </div>
         </div>
         <div class="clan-meta" id="clanMeta">Clan: Destiny Lore Masters · Group ID 5420062 · Remote ID 6761737</div>
+
+        <section class="notify-box" aria-label="Accesso Bungie e Hub Stagionale">
+            <div class="notify-actions">
+                <button class="notify-button" id="bungieLoginButton" type="button">Accedi con Bungie</button>
+                <button class="notify-button" id="seasonalHubButton" type="button" disabled>Hub Stagionale</button>
+            </div>
+            <div class="notify-status" id="notifyStatus">Accedi con Bungie per aprire il tuo Hub Stagionale.</div>
+        </section>
+
         <div id="membersList"></div>
     </div>
 
@@ -682,7 +682,6 @@
         const notifyElements = {
             loginButton: document.getElementById('bungieLoginButton'),
             seasonalHubButton: document.getElementById('seasonalHubButton'),
-            enablePushButton: document.getElementById('enablePushButton'),
             status: document.getElementById('notifyStatus')
         };
 
@@ -692,7 +691,6 @@
         notifyElements.seasonalHubButton.addEventListener('click', () => {
             window.location.href = 'seasonal-hub.html';
         });
-        notifyElements.enablePushButton.addEventListener('click', enableFriendNotifications);
         document.querySelector('.close-modal').addEventListener('click', closeModal);
         window.addEventListener('click', (event) => {
             if (event.target === elements.modal) closeModal();
@@ -728,56 +726,20 @@
 
             const storedUserId = localStorage.getItem(DLM_USER_STORAGE_KEY);
             const configured = !WORKER_BASE_URL.includes('YOUR-SUBDOMAIN');
-            const supportsPush = supportsWebPush();
-            const iosNeedsHomeScreen = isIosDevice() && !isStandaloneApp();
             notifyElements.loginButton.disabled = !configured || Boolean(storedUserId);
             notifyElements.seasonalHubButton.disabled = !storedUserId;
-            notifyElements.enablePushButton.disabled = !configured || !storedUserId || !supportsPush || iosNeedsHomeScreen;
 
             if (!configured) {
-                notifyElements.status.textContent = 'Notifiche non configurate: imposta WORKER_BASE_URL dopo il deploy del Cloudflare Worker.';
+                notifyElements.status.textContent = 'Accesso Bungie non configurato: imposta WORKER_BASE_URL dopo il deploy del Cloudflare Worker.';
             } else if (authError) {
                 notifyElements.status.textContent = `Accesso Bungie non riuscito: ${authError}`;
             } else if (storedUserId) {
                 notifyElements.loginButton.textContent = 'Autenticato';
-                if (iosNeedsHomeScreen) {
-                    notifyElements.status.textContent = getIosHomeScreenInstructions(true);
-                } else if (!supportsPush) {
-                    notifyElements.status.textContent = 'Questo browser non supporta le notifiche push web.';
-                } else if ('Notification' in window && Notification.permission === 'granted') {
-                    notifyElements.status.textContent = 'Notifiche gia autorizzate su questo dispositivo.';
-                } else {
-                    notifyElements.status.textContent = 'Accesso Bungie registrato. Puoi attivare le notifiche push su questo dispositivo.';
-                }
+                notifyElements.status.textContent = 'Accesso Bungie registrato. Hub Stagionale disponibile.';
             } else {
                 notifyElements.loginButton.textContent = 'Accedi con Bungie';
-                notifyElements.status.textContent = isIosDevice() && isStandaloneApp()
-                    ? 'Ora accedi con Bungie da questa app installata, poi attiva le notifiche.'
-                    : 'Accesso Bungie richiesto per ricevere notifiche quando un amico compare online.';
+                notifyElements.status.textContent = 'Accedi con Bungie per aprire il tuo Hub Stagionale.';
             }
-        }
-
-        function isIosDevice() {
-            return /iPad|iPhone|iPod/.test(navigator.userAgent)
-                || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
-        }
-
-        function isStandaloneApp() {
-            return window.matchMedia('(display-mode: standalone)').matches
-                || window.navigator.standalone === true;
-        }
-
-        function supportsWebPush() {
-            return 'Notification' in window
-                && 'serviceWorker' in navigator
-                && 'PushManager' in window;
-        }
-
-        function getIosHomeScreenInstructions(alreadyAuthenticated = false) {
-            const suffix = alreadyAuthenticated
-                ? ' iPhone non trasferisce l accesso da Safari: nella nuova app dovrai premere di nuovo Accedi con Bungie.'
-                : '';
-            return `Su iPhone: apri il sito in Safari, tocca Condividi, scegli Aggiungi alla schermata Home, poi apri DLM dalla nuova icona.${suffix}`;
         }
 
         function startBungieLogin() {
@@ -787,106 +749,6 @@
             }
 
             window.location.href = `${WORKER_BASE_URL}/auth/login`;
-        }
-
-        async function enableFriendNotifications() {
-            const userId = localStorage.getItem(DLM_USER_STORAGE_KEY);
-            if (!userId) {
-                notifyElements.status.textContent = 'Prima accedi con Bungie.';
-                return;
-            }
-
-            if (isIosDevice() && !isStandaloneApp()) {
-                notifyElements.status.textContent = getIosHomeScreenInstructions();
-                return;
-            }
-
-            if (!supportsWebPush()) {
-                notifyElements.status.textContent = 'Questo browser non supporta le notifiche push web.';
-                return;
-            }
-
-            if (Notification.permission === 'denied') {
-                notifyElements.status.textContent = 'Permesso notifiche bloccato: abilitalo dalle impostazioni del browser o di iOS.';
-                return;
-            }
-
-            const permission = await Notification.requestPermission();
-            if (permission !== 'granted') {
-                notifyElements.status.textContent = 'Permesso notifiche non concesso.';
-                return;
-            }
-
-            notifyElements.enablePushButton.disabled = true;
-            notifyElements.status.textContent = 'Registro il dispositivo per le notifiche...';
-
-            try {
-                const configResponse = await withTimeout(
-                    fetch(`${WORKER_BASE_URL}/api/config`),
-                    12000,
-                    'Configurazione notifiche non disponibile.'
-                );
-                if (!configResponse.ok) throw new Error('Configurazione notifiche non disponibile.');
-                const config = await configResponse.json();
-
-                notifyElements.status.textContent = 'Preparo le notifiche sul dispositivo...';
-                await navigator.serviceWorker.register('sw.js');
-                const registration = await withTimeout(
-                    navigator.serviceWorker.ready,
-                    12000,
-                    'Service worker non pronto. Riapri la webapp e riprova.'
-                );
-
-                notifyElements.status.textContent = 'Creo la sottoscrizione push...';
-                let subscription = await registration.pushManager.getSubscription();
-                if (!subscription) {
-                    subscription = await withTimeout(
-                        registration.pushManager.subscribe({
-                            userVisibleOnly: true,
-                            applicationServerKey: urlBase64ToUint8Array(config.vapidPublicKey)
-                        }),
-                        20000,
-                        'iOS non ha completato la sottoscrizione push. Chiudi e riapri DLM dalla schermata Home.'
-                    );
-                }
-
-                notifyElements.status.textContent = 'Salvo il dispositivo per le notifiche...';
-                const response = await withTimeout(
-                    fetch(`${WORKER_BASE_URL}/api/subscribe`, {
-                        method: 'POST',
-                        headers: { 'Content-Type': 'application/json' },
-                        body: JSON.stringify({ userId, subscription })
-                    }),
-                    12000,
-                    'Registrazione notifiche non riuscita.'
-                );
-
-                if (!response.ok) {
-                    const message = await readErrorMessage(response);
-                    throw new Error(message || 'Registrazione notifiche non riuscita.');
-                }
-                notifyElements.status.textContent = 'Notifiche attive su questo dispositivo. Ti ho inviato una notifica di test.';
-            } catch (error) {
-                console.error('Registrazione notifiche fallita:', error);
-                notifyElements.enablePushButton.disabled = false;
-                notifyElements.status.textContent = error.message || 'Registrazione notifiche non riuscita.';
-            }
-        }
-
-        function urlBase64ToUint8Array(value) {
-            const padding = '='.repeat((4 - value.length % 4) % 4);
-            const base64 = (value + padding).replace(/-/g, '+').replace(/_/g, '/');
-            const rawData = window.atob(base64);
-            return Uint8Array.from([...rawData].map(char => char.charCodeAt(0)));
-        }
-
-        function withTimeout(promise, timeoutMs, message) {
-            return Promise.race([
-                promise,
-                new Promise((_, reject) => {
-                    window.setTimeout(() => reject(new Error(message)), timeoutMs);
-                })
-            ]);
         }
 
         async function readErrorMessage(response) {
