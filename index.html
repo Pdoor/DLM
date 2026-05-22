@@ -561,7 +561,7 @@
         <section class="notify-box" aria-label="Notifiche amici online">
             <div class="notify-actions">
                 <button class="notify-button" id="bungieLoginButton" type="button">Accedi con Bungie</button>
-                <button class="notify-button" id="seasonalHubButton" type="button" hidden>Hub Stagionale</button>
+                <button class="notify-button" id="seasonalHubButton" type="button" disabled>Hub Stagionale</button>
                 <button class="notify-button" id="enablePushButton" type="button" disabled>Attiva notifiche amici online</button>
             </div>
             <div class="notify-status" id="notifyStatus">Accesso Bungie richiesto per ricevere notifiche quando un amico compare online.</div>
@@ -666,7 +666,7 @@
             const supportsPush = supportsWebPush();
             const iosNeedsHomeScreen = isIosDevice() && !isStandaloneApp();
             notifyElements.loginButton.disabled = !configured || Boolean(storedUserId);
-            notifyElements.seasonalHubButton.hidden = !storedUserId;
+            notifyElements.seasonalHubButton.disabled = !storedUserId;
             notifyElements.enablePushButton.disabled = !configured || !storedUserId || !supportsPush || iosNeedsHomeScreen;
 
             if (!configured) {
