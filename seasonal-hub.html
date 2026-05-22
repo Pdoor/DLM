@@ -366,6 +366,18 @@
             white-space: nowrap;
         }
 
+        .element-token {
+            display: inline-block;
+            margin: 0 1px;
+            padding: 1px 4px;
+            border-radius: 4px;
+            background: rgba(255, 255, 255, .15);
+            color: #fff;
+            font-size: 11px;
+            line-height: 1.2;
+            vertical-align: 1px;
+        }
+
         .meter-percent {
             flex: 0 0 auto;
             padding: 0 7px;
@@ -755,7 +767,7 @@
 
             const meterText = document.createElement('span');
             meterText.className = 'meter-text';
-            meterText.textContent = getProgressBarText(item);
+            renderProgressBarText(meterText, getProgressBarText(item));
 
             const meterPercent = document.createElement('span');
             meterPercent.className = 'meter-percent';
@@ -807,7 +819,24 @@
         }
 
         function getProgressBarText(item) {
-            return item.progress?.description || item.description || item.title || 'Progresso';
+            return item.progress?.description || item.title || 'Progresso';
+        }
+
+        function renderProgressBarText(container, value) {
+            const text = String(value || '');
+            const parts = text.split(/(\[[^\]]+\])/g).filter(Boolean);
+            parts.forEach((part) => {
+                const match = part.match(/^\[([^\]]+)\]$/);
+                if (!match) {
+                    container.appendChild(document.createTextNode(part));
+                    return;
+                }
+
+                const token = document.createElement('span');
+                token.className = 'element-token';
+                token.textContent = match[1];
+                container.appendChild(token);
+            });
         }
 
         function createRewards(rewards) {
