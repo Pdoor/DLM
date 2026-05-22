@@ -228,6 +228,7 @@ async function getProfileItemDefinitions(env, locale, profile, objectives) {
 
   Object.values(inventories).forEach((inventory) => {
     (inventory.items || []).forEach((item) => {
+      if (isExpiredInventoryItem(item)) return;
       const objectiveState = itemObjectives[item.itemInstanceId];
       if (!objectiveState?.objectives?.length && item.bucketHash !== ACTIVE_ORDER_BUCKET_HASH) return;
       hashes.add(item.itemHash);
@@ -292,6 +293,7 @@ function inventoryOrdersToHubEntries(profile, manifest, itemDefinitions) {
 
   Object.values(inventories).forEach((inventory) => {
     (inventory.items || []).forEach((item) => {
+      if (isExpiredInventoryItem(item)) return;
       const objectiveState = itemObjectives[item.itemInstanceId];
       if (!objectiveState?.objectives?.length) return;
       const def = itemDefinitions[String(item.itemHash)];
@@ -318,6 +320,12 @@ function inventoryOrdersToHubEntries(profile, manifest, itemDefinitions) {
   });
 
   return entries;
+}
+
+function isExpiredInventoryItem(item) {
+  if (!item.expirationDate) return false;
+  const expiresAt = new Date(item.expirationDate).getTime();
+  return Number.isFinite(expiresAt) && expiresAt <= Date.now();
 }
 
 function findRuntimeRecordsByText(profile, manifest, terms, type) {
