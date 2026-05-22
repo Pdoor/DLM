@@ -751,12 +751,11 @@ function assertEnv(env, names) {
 }
 
 function corsResponse(body, env, status = 200) {
-  const allowedOrigin = env.FRONTEND_URL ? new URL(env.FRONTEND_URL).origin : '*';
   return new Response(body ? JSON.stringify(body) : null, {
     status,
     headers: {
       'Content-Type': 'application/json',
-      'Access-Control-Allow-Origin': allowedOrigin,
+      'Access-Control-Allow-Origin': '*',
       'Access-Control-Allow-Methods': 'GET,POST,OPTIONS',
       'Access-Control-Allow-Headers': 'Content-Type,x-dlm-admin-secret'
     }

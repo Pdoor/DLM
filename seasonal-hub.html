@@ -442,7 +442,14 @@
                 const response = await fetch(`${WORKER_BASE_URL}/api/seasonal-hub?userId=${encodeURIComponent(userId)}&locale=it`, {
                     cache: 'no-store'
                 });
-                if (!response.ok) throw new Error(await readErrorMessage(response) || 'Hub Stagionale non disponibile.');
+                if (!response.ok) {
+                    const message = await readErrorMessage(response) || 'Hub Stagionale non disponibile.';
+                    if (message === 'Unknown user') {
+                        localStorage.removeItem(DLM_USER_STORAGE_KEY);
+                        throw new Error('Sessione Bungie non trovata. Torna alla home ed effettua di nuovo l accesso.');
+                    }
+                    throw new Error(message);
+                }
                 const data = await response.json();
 
                 renderSummary(data);

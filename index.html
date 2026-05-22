@@ -950,7 +950,15 @@
                 const response = await fetch(`${WORKER_BASE_URL}/api/friends-status?userId=${encodeURIComponent(userId)}`, {
                     cache: 'no-store'
                 });
-                if (!response.ok) throw new Error(await readErrorMessage(response) || 'Stato amici non disponibile.');
+                if (!response.ok) {
+                    const message = await readErrorMessage(response) || 'Stato amici non disponibile.';
+                    if (message === 'Unknown user') {
+                        localStorage.removeItem(DLM_USER_STORAGE_KEY);
+                        initializeNotificationUi();
+                        throw new Error('Sessione Bungie non trovata. Effettua di nuovo l accesso.');
+                    }
+                    throw new Error(message);
+                }
 
                 const data = await response.json();
                 const clanKeys = createClanKeySet(currentMembers);
