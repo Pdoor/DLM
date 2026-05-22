@@ -819,7 +819,57 @@
         }
 
         function getProgressBarText(item) {
-            return item.progress?.description || item.title || 'Progresso';
+            return item.progress?.description
+                || summarizeObjective(item.description)
+                || 'Progresso';
+        }
+
+        function summarizeObjective(description) {
+            const text = String(description || '').replace(/\s+/g, ' ').trim();
+            if (!text) return '';
+
+            const bracketTokens = [...text.matchAll(/\[([^\]]+)\]/g)].map(match => `[${match[1]}]`);
+            const tokenText = bracketTokens.join(' ');
+            const lower = text.toLowerCase();
+
+            if (lower.includes('sconfiggi rapidamente')) {
+                return 'Combattenti sconfitti rapidamente';
+            }
+
+            if (lower.includes('boss') || lower.includes('miniboss')) {
+                return 'Boss o miniboss sconfitti';
+            }
+
+            if (lower.includes('munizioni')) {
+                return 'Colpi di grazia con munizioni';
+            }
+
+            if (lower.includes('mossa finale')) {
+                return 'Mossa finale';
+            }
+
+            if (lower.includes('valutazione')) {
+                const match = text.match(/valutazione\s+([A-Z])/i);
+                return match ? `Valutazione ${match[1].toUpperCase()} ottenuta` : 'Valutazione ottenuta';
+            }
+
+            if (lower.includes('abilità') || lower.includes('abilita')) {
+                return `Colpi di grazia con abilità ${tokenText}`.trim();
+            }
+
+            if (lower.includes('armi') || lower.includes('fucili') || lower.includes('mitragliette') || lower.includes('mitragliatrici')) {
+                return `Colpi di grazia con armi ${tokenText}`.trim();
+            }
+
+            if (lower.includes('colpi di grazia')) {
+                return `Colpi di grazia ${tokenText}`.trim();
+            }
+
+            if (lower.startsWith('sconfiggi')) {
+                return `Bersagli sconfitti ${tokenText}`.trim();
+            }
+
+            return text.length > 64 ? `${text.slice(0, 61)}...` : text;
         }
 
         function renderProgressBarText(container, value) {
