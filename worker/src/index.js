@@ -226,7 +226,29 @@ async function getSeasonalManifest(env, locale) {
     fetchJson(BUNGIE_BASE_URL + localized.DestinyObjectiveDefinition)
   ]);
 
-  return { records, objectives };
+  const rewardItems = await getRecordRewardDefinitions(env, locale, records);
+  return { records, objectives, rewardItems };
+}
+
+async function getRecordRewardDefinitions(env, locale, records) {
+  const hashes = new Set();
+  Object.values(SEASONAL_HUB_RECORDS).flat().forEach((recordHash) => {
+    const record = records[String(recordHash)];
+    (record?.rewardItems || []).forEach((reward) => {
+      if (reward.itemHash) hashes.add(reward.itemHash);
+    });
+  });
+
+  const definitions = {};
+  await mapLimit([...hashes], 5, async (hash) => {
+    try {
+      const data = await bungieFetch(`/Platform/Destiny2/Manifest/DestinyInventoryItemDefinition/${hash}/?lc=${locale}`, env);
+      definitions[String(hash)] = data.Response;
+    } catch (error) {
+      console.warn(`Record reward definition unavailable for ${hash}`, error.message);
+    }
+  });
+  return definitions;
 }
 
 async function getProfileItemDefinitions(env, locale, profile, objectives) {
@@ -308,7 +330,8 @@ function recordToHubEntry(hash, type, profile, manifest) {
     completed: Boolean(runtime?.state && hasFlag(runtime.state, 1)) || objectives.every((objective) => objective.complete),
     progress,
     expiresAt: parseExpiration(def.expirationInfo) || getNextResetIso(resetKind),
-    resetKind
+    resetKind,
+    rewards: getRewardItems(def.rewardItems || [], manifest.rewardItems)
   };
 }
 
@@ -350,7 +373,11 @@ function inventoryOrdersToHubEntries(profile, manifest, itemDefinitions) {
 }
 
 function getItemRewards(def, itemDefinitions) {
-  return (def.value?.itemValue || [])
+  return getRewardItems(def.value?.itemValue || [], itemDefinitions);
+}
+
+function getRewardItems(rewards, itemDefinitions) {
+  return rewards
     .filter((reward) => reward.itemHash && reward.quantity > 0)
     .map((reward) => {
       const rewardDef = itemDefinitions[String(reward.itemHash)];
