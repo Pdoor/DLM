@@ -297,6 +297,7 @@ function recordToHubEntry(hash, type, profile, manifest) {
   const runtime = getRuntimeRecord(profile, hash);
   const objectives = getRecordObjectives(def, runtime, manifest);
   const progress = objectives[0] ? getObjectiveProgress(objectives[0]) : getRuntimeProgress(runtime);
+  const resetKind = getResetKind(type);
 
   return {
     id: `record-${hash}`,
@@ -306,7 +307,8 @@ function recordToHubEntry(hash, type, profile, manifest) {
     source: 'Record',
     completed: Boolean(runtime?.state && hasFlag(runtime.state, 1)) || objectives.every((objective) => objective.complete),
     progress,
-    expiresAt: parseExpiration(def.expirationInfo)
+    expiresAt: parseExpiration(def.expirationInfo) || getNextResetIso(resetKind),
+    resetKind
   };
 }
 
@@ -480,6 +482,36 @@ function hasFlag(value, flag) {
 function parseExpiration(expirationInfo) {
   if (!expirationInfo?.hasExpiration) return null;
   return expirationInfo.expirationDate || expirationInfo.description || null;
+}
+
+function getResetKind(type) {
+  const normalized = String(type || '').toLowerCase();
+  if (normalized.includes('giornal')) return 'daily';
+  if (normalized.includes('settiman')) return 'weekly';
+  return '';
+}
+
+function getNextResetIso(resetKind) {
+  if (!resetKind) return null;
+
+  const now = new Date();
+  const next = new Date(now);
+  next.setUTCHours(17, 0, 0, 0);
+
+  if (resetKind === 'daily') {
+    if (next <= now) next.setUTCDate(next.getUTCDate() + 1);
+    return next.toISOString();
+  }
+
+  if (resetKind === 'weekly') {
+    const targetDay = 2;
+    let daysUntilTuesday = (targetDay - next.getUTCDay() + 7) % 7;
+    if (daysUntilTuesday === 0 && next <= now) daysUntilTuesday = 7;
+    next.setUTCDate(next.getUTCDate() + daysUntilTuesday);
+    return next.toISOString();
+  }
+
+  return null;
 }
 
 async function handleClanPresence(env) {

@@ -615,7 +615,7 @@
 
             const expiration = document.createElement('div');
             expiration.className = 'meta';
-            expiration.textContent = `Scadenza: ${formatExpiration(item.expiresAt)}`;
+            expiration.textContent = getExpirationText(item);
 
             header.append(title, badge);
             wrapper.append(header, description, meter, progress, expiration);
@@ -694,6 +694,15 @@
             const date = new Date(value);
             if (Number.isNaN(date.getTime())) return String(value);
             return formatDate(value);
+        }
+
+        function getExpirationText(item) {
+            const label = item.resetKind === 'daily'
+                ? 'Ripristino giornaliero'
+                : item.resetKind === 'weekly'
+                    ? 'Ripristino settimanale'
+                    : 'Scadenza';
+            return `${label}: ${formatExpiration(item.expiresAt)}`;
         }
 
         function formatDate(value) {
