@@ -527,6 +527,9 @@ async function sendPush(subscription, env, payload) {
 
 async function ensureAccessToken(env, user) {
   if (user.expiresAt && user.expiresAt > Date.now()) return user;
+  if (!user.refreshToken) {
+    throw new Error('Session expired');
+  }
 
   const token = await refreshToken(user.refreshToken, env);
   const updated = {

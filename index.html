@@ -1022,7 +1022,10 @@
 
         function isStaleSessionMessage(message) {
             const normalized = String(message || '').toLowerCase();
-            return normalized === 'unknown user' || normalized === 'not found';
+            return normalized === 'unknown user'
+                || normalized === 'not found'
+                || normalized === 'session expired'
+                || normalized.includes('missing required parameter refresh_token');
         }
 
         function renderSection(label, members, className) {
