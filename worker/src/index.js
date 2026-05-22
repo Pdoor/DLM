@@ -587,6 +587,22 @@ async function fetchJson(url, options = {}) {
   return response.json();
 }
 
+async function mapLimit(items, limit, mapper) {
+  const results = new Array(items.length);
+  let nextIndex = 0;
+
+  async function worker() {
+    while (nextIndex < items.length) {
+      const index = nextIndex;
+      nextIndex += 1;
+      results[index] = await mapper(items[index], index);
+    }
+  }
+
+  await Promise.all(Array.from({ length: Math.min(limit, items.length) }, worker));
+  return results;
+}
+
 async function getUser(env, userId) {
   const row = await env.DLM_DB.prepare(`
     SELECT user_id, bungie_membership_id, access_token, refresh_token, expires_at, created_at, updated_at
