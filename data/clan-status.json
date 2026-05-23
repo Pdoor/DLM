@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T17:34:50.926Z",
+  "generatedAt": "2026-05-23T19:19:07.546Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,22 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/73f5f779f40bfecb4690c395bc1941b9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1779557679000,
-      "lastActivityTimestamp": 1779548363000,
-      "lastActivityText": "//nodo.bpss.AVALON// il 23/05/2026 14:59",
+      "lastPlayedTimestamp": 1779561812000,
+      "lastActivityTimestamp": 1779559576000,
+      "lastActivityText": "//nodo.bpss.AVALON// il 23/05/2026 18:06",
       "activities": [
+        {
+          "name": "//nodo.bpss.AVALON//",
+          "period": "2026-05-23T18:06:16Z"
+        },
+        {
+          "name": "//nodo.bpss.AVALON//",
+          "period": "2026-05-23T17:37:33Z"
+        },
+        {
+          "name": "//nodo.bpss.AVALON//",
+          "period": "2026-05-23T16:45:44Z"
+        },
         {
           "name": "//nodo.bpss.AVALON//",
           "period": "2026-05-23T14:59:23Z"
@@ -44,18 +56,6 @@
         {
           "name": "Azzardo",
           "period": "2026-05-23T13:02:49Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T12:30:50Z"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-05-23T12:15:04Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T12:01:59Z"
         }
       ]
     },
