@@ -1,77 +1,30 @@
 {
-  "generatedAt": "2026-05-23T05:06:41.982Z",
+  "generatedAt": "2026-05-23T09:59:36.606Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "Pdor#2087",
-      "membershipId": "4611686018441724933",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2f3b36ecb41d5c95df9460a19ecc4716.jpg",
-      "powerLevel": 340,
-      "lastPlayedTimestamp": 1779469141000,
-      "lastActivityTimestamp": 1779467204000,
-      "lastActivityText": "Partita veloce: Normale il 22/05/2026 16:26",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-22T16:26:44Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-22T16:11:56Z"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-05-22T15:47:58Z"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-05-22T14:53:51Z"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-05-22T09:23:15Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-05-21T16:38:30Z"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-05-21T15:32:20Z"
-        },
-        {
-          "name": "Impero: Audace",
-          "period": "2026-05-20T23:24:59Z"
-        },
-        {
-          "name": "Centro Città: Personalizzata",
-          "period": "2026-05-20T22:30:50Z"
-        },
-        {
-          "name": "Centro Città: Personalizzata",
-          "period": "2026-05-20T22:19:10Z"
-        }
-      ]
-    },
-    {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 419,
-      "lastPlayedTimestamp": 1779468724000,
-      "lastActivityTimestamp": 1779466928000,
-      "lastActivityText": "Modalità del mondo: bestiale: Bestiale il 22/05/2026 16:22",
+      "powerLevel": 436,
+      "lastPlayedTimestamp": 1779530342000,
+      "lastActivityTimestamp": 1779522847000,
+      "lastActivityText": "Partita veloce: Normale il 23/05/2026 07:54",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-23T07:54:07Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-23T07:24:58Z"
+        },
         {
           "name": "Modalità del mondo: bestiale: Bestiale",
           "period": "2026-05-22T16:22:08Z"
@@ -103,14 +56,61 @@
         {
           "name": "Presagio: Personalizzata",
           "period": "2026-05-21T16:38:30Z"
+        }
+      ]
+    },
+    {
+      "displayName": "Pdor#2087",
+      "membershipId": "4611686018441724933",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2f3b36ecb41d5c95df9460a19ecc4716.jpg",
+      "powerLevel": 343,
+      "lastPlayedTimestamp": 1779524248000,
+      "lastActivityTimestamp": 1779522847000,
+      "lastActivityText": "Partita veloce: Normale il 23/05/2026 07:54",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-23T07:54:07Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-23T07:24:58Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-22T16:26:44Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-22T16:11:56Z"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-05-22T15:47:58Z"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-05-22T14:53:51Z"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-05-22T09:23:15Z"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-05-21T16:38:30Z"
         },
         {
           "name": "La caduta di un Re: Standard",
           "period": "2026-05-21T15:32:20Z"
         },
         {
-          "name": "Conservazione",
-          "period": "2026-05-21T14:06:04Z"
+          "name": "Impero: Audace",
+          "period": "2026-05-20T23:24:59Z"
         }
       ]
     },
