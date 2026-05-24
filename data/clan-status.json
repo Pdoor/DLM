@@ -1,22 +1,85 @@
 {
-  "generatedAt": "2026-05-23T22:30:23.357Z",
+  "generatedAt": "2026-05-24T00:01:56.555Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "Pdor#2087",
+      "membershipId": "4611686018441724933",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2f3b36ecb41d5c95df9460a19ecc4716.jpg",
+      "powerLevel": 353,
+      "lastPlayedTimestamp": 1779580912000,
+      "lastActivityTimestamp": 1779578353000,
+      "lastActivityText": "Partita veloce: Normale il 23/05/2026 23:19",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-23T23:19:13Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-23T23:06:52Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-23T12:12:09Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-23T11:58:51Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-23T11:45:50Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-23T11:33:10Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-23T11:16:57Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-23T10:59:42Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-23T10:42:48Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-23T10:26:39Z"
+        }
+      ]
+    },
+    {
       "displayName": "Adam#6737",
       "membershipId": "4611686018489009578",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/73f5f779f40bfecb4690c395bc1941b9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1779561812000,
-      "lastActivityTimestamp": 1779559576000,
-      "lastActivityText": "//nodo.bpss.AVALON// il 23/05/2026 18:06",
+      "lastPlayedTimestamp": 1779580881000,
+      "lastActivityTimestamp": 1779578041000,
+      "lastActivityText": "//nodo.bpss.AVALON//: Leggendaria il 23/05/2026 23:14",
       "activities": [
+        {
+          "name": "//nodo.bpss.AVALON//: Leggendaria",
+          "period": "2026-05-23T23:14:01Z"
+        },
+        {
+          "name": "Sotto contraria stella: Personalizzata",
+          "period": "2026-05-23T22:48:13Z"
+        },
         {
           "name": "//nodo.bpss.AVALON//",
           "period": "2026-05-23T18:06:16Z"
@@ -48,14 +111,6 @@
         {
           "name": "Il trono infranto",
           "period": "2026-05-23T13:29:35Z"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-05-23T13:18:53Z"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-05-23T13:02:49Z"
         }
       ]
     },
@@ -221,61 +276,6 @@
         {
           "name": "Avamposto di Tharsis",
           "period": "2025-12-04T10:37:18Z"
-        }
-      ]
-    },
-    {
-      "displayName": "Pdor#2087",
-      "membershipId": "4611686018441724933",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2f3b36ecb41d5c95df9460a19ecc4716.jpg",
-      "powerLevel": 350,
-      "lastPlayedTimestamp": 1779572368000,
-      "lastActivityTimestamp": 1779538329000,
-      "lastActivityText": "Partita veloce: Normale il 23/05/2026 12:12",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T12:12:09Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T11:58:51Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T11:45:50Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T11:33:10Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T11:16:57Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T10:59:42Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T10:42:48Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T10:26:39Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T07:54:07Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T07:24:58Z"
         }
       ]
     },
