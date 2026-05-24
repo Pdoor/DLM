@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T04:48:21.651Z",
+  "generatedAt": "2026-05-24T07:51:37.239Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,23 @@
       "displayName": "Pdor#2087",
       "membershipId": "4611686018441724933",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 355,
-      "lastPlayedTimestamp": 1779591810000,
-      "lastActivityTimestamp": 1779590603000,
-      "lastActivityText": "Partita veloce: Normale il 24/05/2026 02:43",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1779609073000,
+      "lastActivityTimestamp": 1779605430000,
+      "lastActivityText": "Miniere di Sale: Personalizzata il 24/05/2026 06:50",
       "activities": [
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-05-24T06:50:30Z"
+        },
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-05-24T06:45:37Z"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-24T02:43:23Z"
@@ -39,19 +47,11 @@
         },
         {
           "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-05-24T00:40:13Z"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
           "period": "2026-05-24T00:25:16Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-24T00:07:30Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T23:45:00Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T23:19:13Z"
         },
         {
           "name": "Partita veloce: Normale",
