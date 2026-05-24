@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T21:02:41.412Z",
+  "generatedAt": "2026-05-24T22:30:52.045Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,27 @@
       "displayName": "DanieleDM97#4651",
       "membershipId": "4611686018429497660",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Deicida",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a64b3fe25e6636084442c86f67e0da48.jpg",
-      "powerLevel": 319,
-      "lastPlayedTimestamp": 1779656543000,
-      "lastActivityTimestamp": 1779655909000,
-      "lastActivityText": "Osservatorio Celeste: Personalizzata il 24/05/2026 20:51",
+      "powerLevel": 321,
+      "lastPlayedTimestamp": 1779659472000,
+      "lastActivityTimestamp": 1779658189000,
+      "lastActivityText": "Partita veloce: Normale il 24/05/2026 21:29",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-24T21:29:49Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-24T21:25:10Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-24T21:02:50Z"
+        },
         {
           "name": "Osservatorio Celeste: Personalizzata",
           "period": "2026-05-24T20:51:49Z"
@@ -44,18 +56,6 @@
         {
           "name": "Liminalità: Con matchmaking",
           "period": "2026-05-24T01:00:56Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T21:15:31Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T21:01:53Z"
-        },
-        {
-          "name": "Caldera: Personalizzata",
-          "period": "2026-05-23T20:12:03Z"
         }
       ]
     },
