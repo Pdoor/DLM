@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-05-25T09:12:46.661Z",
+  "generatedAt": "2026-05-25T09:50:13.349Z",
   "source": "Warmind.io",
   "sourceUrl": "https://warmind.io/activity",
   "windowSizeInSec": 10800,
-  "averageConcurrentPlayers": 11203,
-  "pvePlayers": 9714,
-  "pvpPlayers": 1096,
-  "gambitPlayers": 57
+  "averageConcurrentPlayers": 10266,
+  "pvePlayers": 8935,
+  "pvpPlayers": 973,
+  "gambitPlayers": 49,
+  "marathonPlayers": 3999,
+  "marathonSource": "Steam Web API",
+  "marathonSourceUrl": "https://store.steampowered.com/app/3065800/Marathon/"
 }

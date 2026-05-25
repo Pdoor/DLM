@@ -188,7 +188,18 @@
             margin-left: auto;
         }
 
-        .warmind-stats {
+        .player-stats {
+            display: grid;
+            justify-items: end;
+            gap: 4px;
+        }
+
+        .player-stats[hidden] {
+            display: none;
+        }
+
+        .warmind-stats,
+        .marathon-stats {
             display: flex;
             align-items: center;
             justify-content: flex-end;
@@ -198,17 +209,19 @@
             line-height: 1.15;
         }
 
-        .warmind-stats[hidden] {
+        .marathon-stats[hidden] {
             display: none;
         }
 
-        .warmind-label {
+        .warmind-label,
+        .marathon-label {
             color: rgba(255, 204, 0, .72);
             font-weight: bold;
             text-transform: uppercase;
         }
 
-        .warmind-value {
+        .warmind-value,
+        .marathon-value {
             padding: 3px 6px;
             border: 1px solid rgba(255, 255, 255, .12);
             border-radius: 7px;
@@ -216,7 +229,8 @@
             white-space: nowrap;
         }
 
-        .warmind-value strong {
+        .warmind-value strong,
+        .marathon-value strong {
             color: rgba(255, 255, 255, .86);
             font-size: 12px;
         }
@@ -502,7 +516,12 @@
                 margin-left: 0;
             }
 
-            .warmind-stats {
+            .player-stats {
+                justify-items: start;
+            }
+
+            .warmind-stats,
+            .marathon-stats {
                 flex-wrap: wrap;
                 justify-content: flex-start;
                 gap: 5px;
@@ -565,6 +584,7 @@
             .title-count,
             .last-updated,
             .warmind-stats,
+            .marathon-stats,
             .clan-meta {
                 font-size: 12px;
                 line-height: 1.35;
@@ -620,11 +640,17 @@
                 </h1>
             </div>
             <div class="header-side">
-                <div class="warmind-stats" id="warmindStats" title="Stima Warmind.io, finestra ultime 3 ore" hidden>
-                    <span class="warmind-label">D2 onLine players</span>
-                    <span class="warmind-value">Tot <strong id="warmindTotal">-</strong></span>
-                    <span class="warmind-value">PvE <strong id="warmindPve">-</strong></span>
-                    <span class="warmind-value">PvP <strong id="warmindPvp">-</strong></span>
+                <div class="player-stats" id="playerStats" hidden>
+                    <div class="warmind-stats" title="Stima Warmind.io, finestra ultime 3 ore">
+                        <span class="warmind-label">D2 onLine players</span>
+                        <span class="warmind-value">Tot <strong id="warmindTotal">-</strong></span>
+                        <span class="warmind-value">PvE <strong id="warmindPve">-</strong></span>
+                        <span class="warmind-value">PvP <strong id="warmindPvp">-</strong></span>
+                    </div>
+                    <div class="marathon-stats" id="marathonStats" title="Giocatori Marathon online su Steam" hidden>
+                        <span class="marathon-label">Marathon players</span>
+                        <span class="marathon-value">Steam <strong id="marathonTotal">-</strong></span>
+                    </div>
                 </div>
                 <div class="last-updated" id="lastUpdated"></div>
             </div>
@@ -668,7 +694,9 @@
             refreshButton: document.getElementById('refreshButton'),
             membersCount: document.getElementById('membersCount'),
             lastUpdated: document.getElementById('lastUpdated'),
-            warmindStats: document.getElementById('warmindStats'),
+            playerStats: document.getElementById('playerStats'),
+            marathonStats: document.getElementById('marathonStats'),
+            marathonTotal: document.getElementById('marathonTotal'),
             warmindTotal: document.getElementById('warmindTotal'),
             warmindPve: document.getElementById('warmindPve'),
             warmindPvp: document.getElementById('warmindPvp'),
@@ -956,10 +984,16 @@
                 elements.warmindTotal.textContent = formatCompactNumber(data.averageConcurrentPlayers);
                 elements.warmindPve.textContent = formatCompactNumber(data.pvePlayers);
                 elements.warmindPvp.textContent = formatCompactNumber(data.pvpPlayers);
-                elements.warmindStats.hidden = false;
+                if (Number.isFinite(Number(data.marathonPlayers))) {
+                    elements.marathonTotal.textContent = formatCompactNumber(data.marathonPlayers);
+                    elements.marathonStats.hidden = false;
+                } else {
+                    elements.marathonStats.hidden = true;
+                }
+                elements.playerStats.hidden = false;
             } catch (error) {
                 console.warn('Statistiche Warmind non disponibili:', error);
-                elements.warmindStats.hidden = true;
+                elements.playerStats.hidden = true;
             }
         }
 

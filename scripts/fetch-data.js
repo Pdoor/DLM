@@ -4,6 +4,7 @@ const path = require("node:path");
 const API_KEY = process.env.BUNGIE_API_KEY || "81224e7b397c4b5e9601d8183066729c";
 const BUNGIE_BASE_URL = "https://www.bungie.net";
 const WARMIND_PLAYER_ACTIVITY_URL = "https://api.warmind.io/in/playerActivity";
+const MARATHON_STEAM_PLAYERS_URL = "https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=3065800";
 const GROUP_ID = "5420062";
 const REMOTE_GROUP_ID = "6761737";
 const PVP_BUCKETS = new Set(["crucible", "private-crucible", "pvp-new"]);
@@ -191,13 +192,19 @@ async function bungieFetch(pathname) {
 }
 
 async function getWarmindPlayerActivity() {
-  const data = await fetchJson(WARMIND_PLAYER_ACTIVITY_URL, {
-    headers: {
-      Accept: "application/json",
-      Referer: "https://warmind.io/activity",
-      "User-Agent": "DLM clan dashboard"
-    }
-  });
+  const [data, marathonPlayers] = await Promise.all([
+    fetchJson(WARMIND_PLAYER_ACTIVITY_URL, {
+      headers: {
+        Accept: "application/json",
+        Referer: "https://warmind.io/activity",
+        "User-Agent": "DLM clan dashboard"
+      }
+    }),
+    getMarathonPlayerCount().catch((error) => {
+      console.warn(`Marathon player count unavailable: ${error.message}`);
+      return null;
+    })
+  ]);
   const response = data.response || {};
   const modes = response.activityByModeType || {};
   const pve = sumModeScores(modes, PVE_BUCKETS);
@@ -212,8 +219,22 @@ async function getWarmindPlayerActivity() {
     averageConcurrentPlayers: Number(response.averageConcurrentPlayers || 0),
     pvePlayers: pve,
     pvpPlayers: pvp,
-    gambitPlayers: gambit
+    gambitPlayers: gambit,
+    marathonPlayers,
+    marathonSource: "Steam Web API",
+    marathonSourceUrl: "https://store.steampowered.com/app/3065800/Marathon/"
   };
+}
+
+async function getMarathonPlayerCount() {
+  const data = await fetchJson(MARATHON_STEAM_PLAYERS_URL, {
+    headers: {
+      Accept: "application/json",
+      "User-Agent": "DLM clan dashboard"
+    }
+  });
+  const count = Number(data.response?.player_count);
+  return Number.isFinite(count) ? count : null;
 }
 
 function sumModeScores(modes, buckets) {
