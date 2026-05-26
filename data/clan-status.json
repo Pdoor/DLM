@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T08:35:32.553Z",
+  "generatedAt": "2026-05-26T16:27:11.935Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,31 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 443,
-      "lastPlayedTimestamp": 1779784087000,
-      "lastActivityTimestamp": 1779782602000,
-      "lastActivityText": "Conservazione il 26/05/2026 08:03",
+      "powerLevel": 441,
+      "lastPlayedTimestamp": 1779807362000,
+      "lastActivityTimestamp": 1779806169000,
+      "lastActivityText": "Conservazione il 26/05/2026 14:36",
       "activities": [
+        {
+          "name": "Conservazione",
+          "period": "2026-05-26T14:36:09Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-26T13:40:23Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-26T13:11:24Z"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-05-26T09:50:03Z"
+        },
         {
           "name": "Conservazione",
           "period": "2026-05-26T08:03:22Z"
@@ -40,22 +56,6 @@
         {
           "name": "Pallido Cuore",
           "period": "2026-05-23T13:19:31Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T10:00:34Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-05-23T09:30:08Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T07:54:07Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T07:24:58Z"
         }
       ]
     },
