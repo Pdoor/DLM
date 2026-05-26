@@ -1,9 +1,64 @@
 {
-  "generatedAt": "2026-05-26T04:45:41.295Z",
+  "generatedAt": "2026-05-26T08:35:32.553Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 443,
+      "lastPlayedTimestamp": 1779784087000,
+      "lastActivityTimestamp": 1779782602000,
+      "lastActivityText": "Conservazione il 26/05/2026 08:03",
+      "activities": [
+        {
+          "name": "Conservazione",
+          "period": "2026-05-26T08:03:22Z"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-05-26T06:39:51Z"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-05-23T14:04:36Z"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-05-23T13:40:15Z"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-05-23T13:20:52Z"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-05-23T13:19:31Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-23T10:00:34Z"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-05-23T09:30:08Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-23T07:54:07Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-23T07:24:58Z"
+        }
+      ]
+    },
     {
       "displayName": "DanieleDM97#4651",
       "membershipId": "4611686018429497660",
@@ -166,61 +221,6 @@
         {
           "name": "//nodo.bpss.AVALON//",
           "period": "2026-05-23T16:45:44Z"
-        }
-      ]
-    },
-    {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 439,
-      "lastPlayedTimestamp": 1779728697000,
-      "lastActivityTimestamp": 1779545076000,
-      "lastActivityText": "Destino diadico il 23/05/2026 14:04",
-      "activities": [
-        {
-          "name": "Destino diadico",
-          "period": "2026-05-23T14:04:36Z"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-05-23T13:40:15Z"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-05-23T13:20:52Z"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-05-23T13:19:31Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T10:00:34Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-05-23T09:30:08Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T07:54:07Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T07:24:58Z"
-        },
-        {
-          "name": "Modalità del mondo: bestiale: Bestiale",
-          "period": "2026-05-22T16:22:08Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-22T16:20:00Z"
         }
       ]
     },
