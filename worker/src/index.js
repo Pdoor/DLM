@@ -43,6 +43,7 @@ export default {
       if (url.pathname === '/api/clan-presence') return await handleClanPresence(env);
       if (url.pathname === '/api/friends-status') return await handleFriendsStatus(request, env);
       if (url.pathname === '/api/friends-details') return await handleFriendsDetails(request, env);
+      if (url.pathname === '/api/debug/friends-shape') return await handleFriendsShapeDebug(request, env);
       if (url.pathname === '/api/seasonal-hub') return await handleSeasonalHub(request, env);
       if (url.pathname === '/api/check-now' && request.method === 'POST') return await handleCheckNow(request, env);
 
@@ -206,6 +207,33 @@ async function handleFriendsDetails(request, env) {
   return corsResponse({
     checkedAt: new Date().toISOString(),
     friends: detailedFriends.filter(Boolean)
+  }, env);
+}
+
+async function handleFriendsShapeDebug(request, env) {
+  const secret = request.headers.get('x-dlm-admin-secret');
+  if (!env.ADMIN_SECRET || secret !== env.ADMIN_SECRET) {
+    return corsResponse({ error: 'Unauthorized' }, env, 401);
+  }
+
+  const url = new URL(request.url);
+  const userId = url.searchParams.get('userId') || await getLatestRefreshUserId(env);
+  if (!userId) return corsResponse({ error: 'No refresh-token user found' }, env, 404);
+
+  const user = await getUser(env, userId);
+  if (!user) return corsResponse({ error: 'Unknown user' }, env, 404);
+
+  const freshUser = await ensureAccessToken(env, user);
+  const friends = await bungieFetch(FRIENDS_PATH, env, freshUser.accessToken);
+  const friendList = friends.Response?.friends || friends.Response || [];
+  const sample = friendList.slice(0, 3).map(summarizeObjectShape);
+
+  return corsResponse({
+    checkedAt: new Date().toISOString(),
+    userId: freshUser.userId,
+    count: friendList.length,
+    responseKeys: summarizeObjectShape(friends.Response || {}),
+    samples: sample
   }, env);
 }
 
@@ -713,8 +741,8 @@ async function resolveFriendDestinyMembership(friend, env, accessToken) {
 
 function getFriendMembershipCandidates(friend) {
   const candidates = [];
-  const directMembershipId = friend.destinyMembershipId || friend.membershipId;
-  const directMembershipType = friend.destinyMembershipType || friend.membershipType;
+  const directMembershipId = friend.destinyMembershipId || friend.lastSeenAsMembershipId || friend.membershipId;
+  const directMembershipType = friend.destinyMembershipType || friend.lastSeenAsBungieMembershipType || friend.membershipType;
   if (directMembershipId && directMembershipType && Number(directMembershipType) !== 254) {
     candidates.push({
       membershipId: String(directMembershipId),
@@ -758,8 +786,9 @@ function getFriendFallback(friend) {
   const displayName = getFriendName(friend);
   return {
     id: getFriendId(friend),
-    membershipId: String(friend.membershipId || friend.destinyMembershipId || ''),
-    bungieNetMembershipId: String(friend.bungieNetMembershipId || ''),
+    membershipId: String(friend.destinyMembershipId || friend.lastSeenAsMembershipId || friend.membershipId || ''),
+    membershipType: Number(friend.destinyMembershipType || friend.lastSeenAsBungieMembershipType || friend.membershipType || 0),
+    bungieNetMembershipId: String(friend.bungieNetMembershipId || friend.bungieNetUser?.membershipId || ''),
     displayName,
     isOnline: isOnline(friend),
     className: 'Amico Bungie',
@@ -1057,6 +1086,17 @@ async function saveFriendDetailsCache(env, userId, friendId, details) {
   ).run();
 }
 
+async function getLatestRefreshUserId(env) {
+  const row = await env.DLM_DB.prepare(`
+    SELECT user_id
+    FROM users
+    WHERE refresh_token IS NOT NULL AND refresh_token != ''
+    ORDER BY updated_at DESC
+    LIMIT 1
+  `).first();
+  return row?.user_id || '';
+}
+
 function userFromRow(row) {
   return {
     userId: row.user_id,
@@ -1070,7 +1110,15 @@ function userFromRow(row) {
 }
 
 function getFriendId(friend) {
-  return String(friend.membershipId || friend.bungieNetMembershipId || friend.destinyMembershipId || friend.bungieGlobalDisplayNameCode || '');
+  return String(
+    friend.destinyMembershipId
+    || friend.lastSeenAsMembershipId
+    || friend.membershipId
+    || friend.bungieNetMembershipId
+    || friend.bungieNetUser?.membershipId
+    || friend.bungieGlobalDisplayNameCode
+    || ''
+  );
 }
 
 function getFriendName(friend) {
@@ -1125,6 +1173,32 @@ function formatDate(timestamp) {
     hour: '2-digit',
     minute: '2-digit'
   });
+}
+
+function summarizeObjectShape(value, depth = 0) {
+  if (!value || typeof value !== 'object') return typeof value;
+  if (depth >= 2) return Array.isArray(value) ? 'array' : 'object';
+
+  const entries = Object.entries(value).slice(0, 40).map(([key, item]) => {
+    if (Array.isArray(item)) {
+      return [key, {
+        type: 'array',
+        length: item.length,
+        itemShape: item[0] && typeof item[0] === 'object'
+          ? summarizeObjectShape(item[0], depth + 1)
+          : typeof item[0]
+      }];
+    }
+    if (item && typeof item === 'object') {
+      return [key, {
+        type: 'object',
+        shape: summarizeObjectShape(item, depth + 1)
+      }];
+    }
+    return [key, { type: typeof item }];
+  });
+
+  return Object.fromEntries(entries);
 }
 
 async function sha256(value) {
