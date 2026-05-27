@@ -73,10 +73,6 @@ async function handleD3Signatures() {
       Accept: 'text/html,application/xhtml+xml',
       'Accept-Language': 'en-US,en;q=0.9,it;q=0.8',
       'User-Agent': 'DestinyLoreMasters/1.0 (+https://pdoor.github.io/DLM/)'
-    },
-    cf: {
-      cacheTtl: 120,
-      cacheEverything: true
     }
   });
   if (!response.ok) throw new Error(`Change.org error ${response.status}`);
