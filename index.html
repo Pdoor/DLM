@@ -844,12 +844,16 @@
         function renderExternalFriends(friends) {
             if (!friends.length) return;
 
-            const sectionLabel = document.createElement('div');
-            sectionLabel.className = 'section-label online-label';
-            sectionLabel.textContent = `Amici online fuori clan (${friends.length})`;
-            elements.membersList.appendChild(sectionLabel);
-
+            let currentSection = '';
             friends.forEach(friend => {
+                const section = friend.isOnline ? 'Amici Bungie online fuori clan' : 'Amici Bungie offline fuori clan';
+                if (section !== currentSection) {
+                    const sectionLabel = document.createElement('div');
+                    sectionLabel.className = `section-label ${friend.isOnline ? 'online-label' : 'offline-label'}`;
+                    sectionLabel.textContent = section;
+                    elements.membersList.appendChild(sectionLabel);
+                    currentSection = section;
+                }
                 elements.membersList.appendChild(createFriendCard(friend));
             });
         }
@@ -903,7 +907,7 @@
             }
 
             try {
-                const response = await fetch(`${WORKER_BASE_URL}/api/friends-status?userId=${encodeURIComponent(userId)}`, {
+                const response = await fetch(`${WORKER_BASE_URL}/api/friends-details?userId=${encodeURIComponent(userId)}&locale=it`, {
                     cache: 'no-store'
                 });
                 if (!response.ok) {
@@ -919,9 +923,8 @@
                 const data = await response.json();
                 const clanKeys = createClanKeySet(currentMembers);
                 const nextFriends = (data.friends || [])
-                    .filter(friend => friend.isOnline)
                     .filter(friend => !isKnownClanMember(friend, clanKeys))
-                    .sort((a, b) => a.displayName.localeCompare(b.displayName, 'it'));
+                    .sort(compareDisplayMembers);
 
                 if (JSON.stringify(nextFriends) !== JSON.stringify(currentExternalFriends)) {
                     currentExternalFriends = nextFriends;
@@ -1091,13 +1094,15 @@
         function createFriendCard(friend) {
             return createMemberCard({
                 displayName: friend.displayName,
-                isOnline: true,
-                className: 'Amico Bungie',
-                title: '',
-                classIcon: 'dlm.ico',
-                powerLevel: 0,
-                lastActivityText: 'Online',
-                activities: []
+                isOnline: Boolean(friend.isOnline),
+                className: friend.className || 'Amico Bungie',
+                title: friend.title || '',
+                classIcon: friend.classIcon || 'dlm.ico',
+                powerLevel: friend.powerLevel || 0,
+                lastPlayedTimestamp: friend.lastPlayedTimestamp || 0,
+                lastActivityTimestamp: friend.lastActivityTimestamp || 0,
+                lastActivityText: friend.lastActivityText || (friend.isOnline ? 'Online' : 'Nessuna attività recente'),
+                activities: friend.activities || []
             });
         }
 

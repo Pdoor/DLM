@@ -32,3 +32,14 @@ CREATE TABLE IF NOT EXISTS presence (
 
 CREATE INDEX IF NOT EXISTS idx_presence_user_id
 ON presence (user_id);
+
+CREATE TABLE IF NOT EXISTS friend_details_cache (
+  user_id TEXT NOT NULL,
+  friend_id TEXT NOT NULL,
+  details_json TEXT NOT NULL,
+  updated_at INTEGER NOT NULL,
+  PRIMARY KEY (user_id, friend_id)
+);
+
+CREATE INDEX IF NOT EXISTS idx_friend_details_cache_user_id
+ON friend_details_cache (user_id);

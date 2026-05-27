@@ -5,6 +5,8 @@ const BUNGIE_AUTHORIZE_URL = 'https://www.bungie.net/en/OAuth/Authorize';
 const BUNGIE_TOKEN_URL = 'https://www.bungie.net/platform/app/oauth/token/';
 const FRIENDS_PATH = '/Platform/Social/Friends/';
 const GROUP_ID = '5420062';
+const FRIEND_DETAILS_COMPONENTS = '200';
+const FRIEND_DETAILS_CACHE_TTL_MS = 15 * 60 * 1000;
 const SEASONAL_HUB_COMPONENTS = [
   100, 104, 200, 201, 202, 301, 700, 900, 1200
 ].join(',');
@@ -26,6 +28,8 @@ const SEASONAL_HUB_RECORDS = {
 const ACTIVE_ORDER_BUCKET_HASH = 635141261;
 const BOUNTY_CATEGORY_HASH = 1784235469;
 
+let friendManifestCache = null;
+
 export default {
   async fetch(request, env) {
     try {
@@ -38,6 +42,7 @@ export default {
       if (url.pathname === '/api/subscribe' && request.method === 'POST') return await handleSubscribe(request, env);
       if (url.pathname === '/api/clan-presence') return await handleClanPresence(env);
       if (url.pathname === '/api/friends-status') return await handleFriendsStatus(request, env);
+      if (url.pathname === '/api/friends-details') return await handleFriendsDetails(request, env);
       if (url.pathname === '/api/seasonal-hub') return await handleSeasonalHub(request, env);
       if (url.pathname === '/api/check-now' && request.method === 'POST') return await handleCheckNow(request, env);
 
@@ -108,7 +113,8 @@ function handleWorkerError(request, env, error) {
     }
   }
 
-  return corsResponse({ error: message }, env, 500);
+  const status = message === 'Session expired' ? 401 : 500;
+  return corsResponse({ error: message }, env, status);
 }
 
 async function handleSubscribe(request, env) {
@@ -176,6 +182,30 @@ async function handleFriendsStatus(request, env) {
       isOnline: isOnline(friend),
       onlineTitle: friend.onlineTitle || 0
     }))
+  }, env);
+}
+
+async function handleFriendsDetails(request, env) {
+  assertEnv(env, ['BUNGIE_API_KEY']);
+  const url = new URL(request.url);
+  const userId = url.searchParams.get('userId');
+  const locale = url.searchParams.get('locale') || 'it';
+  if (!userId) return corsResponse({ error: 'Missing userId' }, env, 400);
+
+  const user = await getUser(env, userId);
+  if (!user) return corsResponse({ error: 'Unknown user' }, env, 404);
+
+  const freshUser = await ensureAccessToken(env, user);
+  const friends = await bungieFetch(FRIENDS_PATH, env, freshUser.accessToken);
+  const friendList = friends.Response?.friends || friends.Response || [];
+  const manifest = await getFriendDetailsManifest(env, locale);
+  const detailedFriends = await mapLimit(friendList, 2, (friend) => {
+    return hydrateFriendDetails(env, freshUser, friend, manifest);
+  });
+
+  return corsResponse({
+    checkedAt: new Date().toISOString(),
+    friends: detailedFriends.filter(Boolean)
   }, env);
 }
 
@@ -570,6 +600,179 @@ async function handleClanPresence(env) {
   }, env);
 }
 
+async function getFriendDetailsManifest(env, locale) {
+  const now = Date.now();
+  if (friendManifestCache?.locale === locale && friendManifestCache.expiresAt > now) {
+    return friendManifestCache.value;
+  }
+
+  const manifest = await bungieFetch('/Platform/Destiny2/Manifest/', env);
+  const paths = manifest.Response?.jsonWorldComponentContentPaths;
+  const localized = paths?.[locale] || paths?.it || paths?.en;
+  if (!localized) throw new Error('Destiny manifest unavailable');
+
+  const [classes, activities, records] = await Promise.all([
+    fetchJson(BUNGIE_BASE_URL + localized.DestinyClassDefinition),
+    fetchJson(BUNGIE_BASE_URL + localized.DestinyActivityDefinition),
+    fetchJson(BUNGIE_BASE_URL + localized.DestinyRecordDefinition)
+  ]);
+
+  const value = { classes, activities, records };
+  friendManifestCache = {
+    locale,
+    value,
+    expiresAt: now + 6 * 60 * 60 * 1000
+  };
+  return value;
+}
+
+async function hydrateFriendDetails(env, user, friend, manifest) {
+  const friendId = getFriendId(friend);
+  if (!friendId) return null;
+
+  const fallback = getFriendFallback(friend);
+  const cached = await getFriendDetailsCache(env, user.userId, friendId);
+  if (cached && Date.now() - cached.updatedAt < FRIEND_DETAILS_CACHE_TTL_MS) {
+    return {
+      ...cached.details,
+      displayName: fallback.displayName || cached.details.displayName,
+      isOnline: fallback.isOnline
+    };
+  }
+
+  try {
+    const membership = await resolveFriendDestinyMembership(friend, env, user.accessToken);
+    if (!membership?.membershipId || !membership?.membershipType) {
+      await saveFriendDetailsCache(env, user.userId, friendId, fallback);
+      return fallback;
+    }
+
+    const profile = await bungieFetch(
+      `/Platform/Destiny2/${membership.membershipType}/Profile/${membership.membershipId}/?components=${FRIEND_DETAILS_COMPONENTS}`,
+      env,
+      user.accessToken
+    );
+    const characters = Object.values(profile.Response?.characters?.data || {});
+    if (!characters.length) {
+      await saveFriendDetailsCache(env, user.userId, friendId, fallback);
+      return fallback;
+    }
+
+    const lastCharacter = characters.reduce((latest, current) => {
+      return new Date(current.dateLastPlayed) > new Date(latest.dateLastPlayed) ? current : latest;
+    });
+
+    const activities = await getRecentActivities(env, membership, lastCharacter.characterId, manifest.activities, user.accessToken);
+    const details = {
+      ...fallback,
+      id: friendId,
+      membershipId: String(membership.membershipId || fallback.membershipId || ''),
+      membershipType: membership.membershipType,
+      className: manifest.classes[String(lastCharacter.classHash)]?.displayProperties?.name || fallback.className,
+      title: getTitleName(lastCharacter, manifest.records),
+      classIcon: lastCharacter.emblemBackgroundPath
+        ? BUNGIE_BASE_URL + lastCharacter.emblemBackgroundPath
+        : fallback.classIcon,
+      powerLevel: lastCharacter.light || 0,
+      lastPlayedTimestamp: new Date(lastCharacter.dateLastPlayed).getTime() || 0,
+      lastActivityTimestamp: activities[0]
+        ? new Date(activities[0].period).getTime() || 0
+        : new Date(lastCharacter.dateLastPlayed).getTime() || 0,
+      lastActivityText: activities[0]
+        ? `${activities[0].name} il ${formatDate(activities[0].period)}`
+        : `Ultimo accesso il ${formatDate(lastCharacter.dateLastPlayed)}`,
+      activities
+    };
+
+    await saveFriendDetailsCache(env, user.userId, friendId, details);
+    return details;
+  } catch (error) {
+    console.warn(`Friend details unavailable for ${fallback.displayName}`, error.message);
+    if (!cached) await saveFriendDetailsCache(env, user.userId, friendId, fallback);
+    return cached
+      ? { ...cached.details, displayName: fallback.displayName || cached.details.displayName, isOnline: fallback.isOnline }
+      : fallback;
+  }
+}
+
+async function resolveFriendDestinyMembership(friend, env, accessToken) {
+  const candidates = getFriendMembershipCandidates(friend);
+  if (candidates.length) return candidates[0];
+
+  const bungieNetMembershipId = friend.bungieNetMembershipId || friend.membershipId;
+  if (!bungieNetMembershipId) return null;
+
+  try {
+    const data = await bungieFetch(`/Platform/User/GetMembershipsById/${bungieNetMembershipId}/254/`, env, accessToken);
+    return chooseDestinyMembership(data.Response);
+  } catch (error) {
+    console.warn(`Friend membership resolution failed for ${bungieNetMembershipId}`, error.message);
+    return null;
+  }
+}
+
+function getFriendMembershipCandidates(friend) {
+  const candidates = [];
+  const directMembershipId = friend.destinyMembershipId || friend.membershipId;
+  const directMembershipType = friend.destinyMembershipType || friend.membershipType;
+  if (directMembershipId && directMembershipType && Number(directMembershipType) !== 254) {
+    candidates.push({
+      membershipId: String(directMembershipId),
+      membershipType: Number(directMembershipType),
+      displayName: getFriendName(friend)
+    });
+  }
+
+  const memberships = friend.destinyMemberships || friend.memberships || [];
+  memberships.forEach((membership) => {
+    if (membership?.membershipId && membership?.membershipType && Number(membership.membershipType) !== 254) {
+      candidates.push({
+        membershipId: String(membership.membershipId),
+        membershipType: Number(membership.membershipType),
+        displayName: getMembershipDisplayName(membership)
+      });
+    }
+  });
+
+  return candidates;
+}
+
+async function getRecentActivities(env, membership, characterId, activityDefinitions, accessToken) {
+  try {
+    const activityData = await bungieFetch(
+      `/Platform/Destiny2/${membership.membershipType}/Account/${membership.membershipId}/Character/${characterId}/Stats/Activities/?count=10`,
+      env,
+      accessToken
+    );
+    return (activityData.Response?.activities || []).map((activity) => ({
+      name: getActivityName(activity, activityDefinitions),
+      period: activity.period
+    }));
+  } catch (error) {
+    console.warn(`Recent activities unavailable for ${membership.membershipId}`, error.message);
+    return [];
+  }
+}
+
+function getFriendFallback(friend) {
+  const displayName = getFriendName(friend);
+  return {
+    id: getFriendId(friend),
+    membershipId: String(friend.membershipId || friend.destinyMembershipId || ''),
+    bungieNetMembershipId: String(friend.bungieNetMembershipId || ''),
+    displayName,
+    isOnline: isOnline(friend),
+    className: 'Amico Bungie',
+    title: '',
+    classIcon: 'dlm.ico',
+    powerLevel: 0,
+    lastPlayedTimestamp: 0,
+    lastActivityTimestamp: 0,
+    lastActivityText: isOnline(friend) ? 'Online' : 'Nessuna attività recente',
+    activities: []
+  };
+}
+
 async function checkAllUsers(env) {
   assertEnv(env, ['BUNGIE_API_KEY', 'VAPID_PUBLIC_KEY', 'VAPID_PRIVATE_KEY', 'VAPID_SUBJECT']);
   const users = await listUsers(env);
@@ -825,6 +1028,35 @@ async function savePresence(env, userId, friendId, presence) {
   ).run();
 }
 
+async function getFriendDetailsCache(env, userId, friendId) {
+  const row = await env.DLM_DB.prepare(`
+    SELECT details_json, updated_at
+    FROM friend_details_cache
+    WHERE user_id = ? AND friend_id = ?
+  `).bind(userId, friendId).first();
+  if (!row) return null;
+  return {
+    details: JSON.parse(row.details_json),
+    updatedAt: row.updated_at || 0
+  };
+}
+
+async function saveFriendDetailsCache(env, userId, friendId, details) {
+  await env.DLM_DB.prepare(`
+    INSERT INTO friend_details_cache (
+      user_id, friend_id, details_json, updated_at
+    ) VALUES (?, ?, ?, ?)
+    ON CONFLICT(user_id, friend_id) DO UPDATE SET
+      details_json = excluded.details_json,
+      updated_at = excluded.updated_at
+  `).bind(
+    userId,
+    friendId,
+    JSON.stringify(details),
+    Date.now()
+  ).run();
+}
+
 function userFromRow(row) {
   return {
     userId: row.user_id,
@@ -861,6 +1093,38 @@ function getMemberName(member) {
   const name = info.bungieGlobalDisplayName || info.displayName || member.displayName || 'Guardiano';
   const code = info.bungieGlobalDisplayNameCode ? `#${info.bungieGlobalDisplayNameCode}` : '';
   return `${name}${code}`;
+}
+
+function getTitleName(character, recordDefinitions) {
+  const titleRecordHash = character.titleRecordHash;
+  if (!titleRecordHash) return '';
+
+  const titleInfo = recordDefinitions[String(titleRecordHash)]?.titleInfo;
+  const byGender = titleInfo?.titlesByGender || {};
+  const byGenderHash = titleInfo?.titlesByGenderHash || {};
+  const genderType = String(character.genderType);
+  const genderHash = String(character.genderHash);
+
+  return byGender[genderType]
+    || byGenderHash[genderHash]
+    || Object.values(byGender)[0]
+    || Object.values(byGenderHash)[0]
+    || '';
+}
+
+function getActivityName(activity, activityDefinitions) {
+  const details = activity.activityDetails || {};
+  const hash = details.directorActivityHash || details.activityHash || details.referenceId;
+  return activityDefinitions[String(hash)]?.displayProperties?.name || 'Attività sconosciuta';
+}
+
+function formatDate(timestamp) {
+  const date = new Date(timestamp);
+  if (Number.isNaN(date.getTime())) return 'N/A';
+  return date.toLocaleDateString('it-IT') + ' ' + date.toLocaleTimeString('it-IT', {
+    hour: '2-digit',
+    minute: '2-digit'
+  });
 }
 
 async function sha256(value) {
