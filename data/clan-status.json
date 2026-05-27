@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T18:39:09.818Z",
+  "generatedAt": "2026-05-27T21:03:58.788Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,31 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 441,
-      "lastPlayedTimestamp": 1779905822000,
-      "lastActivityTimestamp": 1779893360000,
-      "lastActivityText": "Conservazione il 27/05/2026 14:49",
+      "lastPlayedTimestamp": 1779915817000,
+      "lastActivityTimestamp": 1779914726000,
+      "lastActivityText": "Pallido Cuore il 27/05/2026 20:45",
       "activities": [
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-05-27T20:45:26Z"
+        },
+        {
+          "name": "Primo contatto: Normale",
+          "period": "2026-05-27T20:26:00Z"
+        },
+        {
+          "name": "Primo contatto: Normale",
+          "period": "2026-05-27T20:22:06Z"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-05-27T20:12:46Z"
+        },
         {
           "name": "Conservazione",
           "period": "2026-05-27T14:49:20Z"
@@ -40,22 +56,116 @@
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-26T13:40:23Z"
+        }
+      ]
+    },
+    {
+      "displayName": "ClaudeFj#8206",
+      "membershipId": "4611686018522886434",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/72e35d429f3e159af545b52f4677a910.jpg",
+      "powerLevel": 320,
+      "lastPlayedTimestamp": 1779915817000,
+      "lastActivityTimestamp": 1779914726000,
+      "lastActivityText": "Pallido Cuore il 27/05/2026 20:45",
+      "activities": [
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-05-27T20:45:26Z"
+        },
+        {
+          "name": "Primo contatto: Normale",
+          "period": "2026-05-27T20:26:00Z"
+        },
+        {
+          "name": "Primo contatto: Normale",
+          "period": "2026-05-27T20:22:06Z"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-05-27T20:12:46Z"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-05-26T13:11:24Z"
+          "period": "2026-05-27T10:45:50Z"
         },
         {
-          "name": "Conservazione",
-          "period": "2026-05-26T09:50:03Z"
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-27T10:26:55Z"
         },
         {
-          "name": "Conservazione",
-          "period": "2026-05-26T08:03:22Z"
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-05-27T09:50:18Z"
         },
         {
-          "name": "Conservazione",
-          "period": "2026-05-26T06:39:51Z"
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-05-27T09:34:24Z"
+        },
+        {
+          "name": "Bis: Personalizzata",
+          "period": "2026-05-27T09:30:39Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-03-23T08:03:34Z"
+        }
+      ]
+    },
+    {
+      "displayName": "Paltrix94#5760",
+      "membershipId": "4611686018516491359",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
+      "powerLevel": 309,
+      "lastPlayedTimestamp": 1779915818000,
+      "lastActivityTimestamp": 1779913560000,
+      "lastActivityText": "Primo contatto: Normale il 27/05/2026 20:26",
+      "activities": [
+        {
+          "name": "Primo contatto: Normale",
+          "period": "2026-05-27T20:26:00Z"
+        },
+        {
+          "name": "Primo contatto: Normale",
+          "period": "2026-05-27T20:22:06Z"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-05-27T20:12:46Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-27T10:45:50Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-27T10:26:55Z"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-05-27T09:50:18Z"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-05-27T09:34:24Z"
+        },
+        {
+          "name": "Bis: Personalizzata",
+          "period": "2026-05-27T09:30:39Z"
+        },
+        {
+          "name": "Vigilanza: Con matchmaking",
+          "period": "2026-03-23T14:01:45Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-03-23T08:03:34Z"
         }
       ]
     },
@@ -111,116 +221,6 @@
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-23T13:39:36Z"
-        }
-      ]
-    },
-    {
-      "displayName": "ClaudeFj#8206",
-      "membershipId": "4611686018522886434",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/72e35d429f3e159af545b52f4677a910.jpg",
-      "powerLevel": 317,
-      "lastPlayedTimestamp": 1779879915000,
-      "lastActivityTimestamp": 1779878750000,
-      "lastActivityText": "Partita veloce: Normale il 27/05/2026 10:45",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-27T10:45:50Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-27T10:26:55Z"
-        },
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-05-27T09:50:18Z"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-05-27T09:34:24Z"
-        },
-        {
-          "name": "Bis: Personalizzata",
-          "period": "2026-05-27T09:30:39Z"
-        },
-        {
-          "name": "Vigilanza: Con matchmaking",
-          "period": "2026-03-23T14:01:45Z"
-        },
-        {
-          "name": "Derealizzazione: Personalizzata",
-          "period": "2026-03-23T13:28:30Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-03-23T08:03:34Z"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-01-06T22:36:32Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-01-06T22:10:23Z"
-        }
-      ]
-    },
-    {
-      "displayName": "Paltrix94#5760",
-      "membershipId": "4611686018516491359",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
-      "powerLevel": 308,
-      "lastPlayedTimestamp": 1779879487000,
-      "lastActivityTimestamp": 1779878750000,
-      "lastActivityText": "Partita veloce: Normale il 27/05/2026 10:45",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-27T10:45:50Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-27T10:26:55Z"
-        },
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-05-27T09:50:18Z"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-05-27T09:34:24Z"
-        },
-        {
-          "name": "Bis: Personalizzata",
-          "period": "2026-05-27T09:30:39Z"
-        },
-        {
-          "name": "Vigilanza: Con matchmaking",
-          "period": "2026-03-23T14:01:45Z"
-        },
-        {
-          "name": "Derealizzazione: Personalizzata",
-          "period": "2026-03-23T13:28:30Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-03-23T08:03:34Z"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-01-06T22:36:32Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-01-06T22:10:23Z"
         }
       ]
     },
