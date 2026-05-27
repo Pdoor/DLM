@@ -5,6 +5,9 @@ const BUNGIE_AUTHORIZE_URL = 'https://www.bungie.net/en/OAuth/Authorize';
 const BUNGIE_TOKEN_URL = 'https://www.bungie.net/platform/app/oauth/token/';
 const FRIENDS_PATH = '/Platform/Social/Friends/';
 const GROUP_ID = '5420062';
+const GROUP_TYPE_CLAN = 1;
+const GROUP_FILTER_ALL = 0;
+const D3_PETITION_URL = 'https://www.change.org/p/petition-sony-to-develop-destiny-3';
 const FRIEND_DETAILS_COMPONENTS = '200';
 const FRIEND_DETAILS_CACHE_TTL_MS = 15 * 60 * 1000;
 const SEASONAL_HUB_COMPONENTS = [
@@ -37,6 +40,7 @@ export default {
 
       if (request.method === 'OPTIONS') return corsResponse(null, env);
       if (url.pathname === '/api/config') return await handleConfig(env);
+      if (url.pathname === '/api/d3-signatures') return await handleD3Signatures();
       if (url.pathname === '/auth/login') return await handleLogin(env);
       if (url.pathname === '/auth/callback') return await handleCallback(request, env);
       if (url.pathname === '/api/subscribe' && request.method === 'POST') return await handleSubscribe(request, env);
@@ -61,6 +65,31 @@ export default {
 
 async function handleConfig(env) {
   return corsResponse({ vapidPublicKey: env.VAPID_PUBLIC_KEY }, env);
+}
+
+async function handleD3Signatures() {
+  const response = await fetch(D3_PETITION_URL, {
+    headers: {
+      Accept: 'text/html,application/xhtml+xml',
+      'Accept-Language': 'en-US,en;q=0.9,it;q=0.8',
+      'User-Agent': 'DestinyLoreMasters/1.0 (+https://pdoor.github.io/DLM/)'
+    },
+    cf: {
+      cacheTtl: 120,
+      cacheEverything: true
+    }
+  });
+  if (!response.ok) throw new Error(`Change.org error ${response.status}`);
+
+  const html = await response.text();
+  const signatures = extractD3SignatureCount(html);
+  if (!signatures) throw new Error('D3 signatures unavailable');
+
+  return corsResponse({
+    petitionUrl: D3_PETITION_URL,
+    signatures,
+    checkedAt: new Date().toISOString()
+  });
 }
 
 async function handleLogin(env) {
@@ -691,6 +720,7 @@ async function hydrateFriendDetails(env, user, friend, manifest) {
     });
 
     const activities = await getRecentActivities(env, membership, lastCharacter.characterId, manifest.activities, user.accessToken);
+    const clan = await getMemberClan(env, membership, user.accessToken);
     const details = {
       ...fallback,
       id: friendId,
@@ -709,6 +739,9 @@ async function hydrateFriendDetails(env, user, friend, manifest) {
       lastActivityText: activities[0]
         ? `${activities[0].name} il ${formatDate(activities[0].period)}`
         : `Ultimo accesso il ${formatDate(lastCharacter.dateLastPlayed)}`,
+      clanName: clan.name,
+      clanCallsign: clan.callsign,
+      clanGroupId: clan.groupId,
       activities
     };
 
@@ -782,6 +815,26 @@ async function getRecentActivities(env, membership, characterId, activityDefinit
   }
 }
 
+async function getMemberClan(env, membership, accessToken) {
+  try {
+    const data = await bungieFetch(
+      `/Platform/GroupV2/User/${membership.membershipType}/${membership.membershipId}/${GROUP_FILTER_ALL}/${GROUP_TYPE_CLAN}/`,
+      env,
+      accessToken
+    );
+    const result = data.Response?.results?.[0];
+    const group = result?.group || result;
+    return {
+      name: group?.name || '',
+      callsign: group?.clanInfo?.clanCallsign || group?.clanCallsign || '',
+      groupId: String(group?.groupId || '')
+    };
+  } catch (error) {
+    console.warn(`Clan unavailable for ${membership.membershipId}`, error.message);
+    return { name: '', callsign: '', groupId: '' };
+  }
+}
+
 function getFriendFallback(friend) {
   const displayName = getFriendName(friend);
   return {
@@ -798,6 +851,9 @@ function getFriendFallback(friend) {
     lastPlayedTimestamp: 0,
     lastActivityTimestamp: 0,
     lastActivityText: isOnline(friend) ? 'Online' : 'Nessuna attività recente',
+    clanName: '',
+    clanCallsign: '',
+    clanGroupId: '',
     activities: []
   };
 }
@@ -932,6 +988,30 @@ async function fetchJson(url, options = {}) {
   const response = await fetch(url, options);
   if (!response.ok) throw new Error(`HTTP ${response.status}: ${await response.text()}`);
   return response.json();
+}
+
+function extractD3SignatureCount(html) {
+  const text = String(html || '')
+    .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/\s+/g, ' ');
+
+  const patterns = [
+    /Sign petition\s*#+?\s*([\d,.]+)\s*Verified signatures/i,
+    /([\d,.]+)\s*Verified signatures/i,
+    /"signature_count"\s*:\s*(\d+)/i,
+    /"signatureCount"\s*:\s*(\d+)/i
+  ];
+
+  for (const pattern of patterns) {
+    const match = text.match(pattern) || String(html || '').match(pattern);
+    const value = match?.[1] ? Number(match[1].replace(/[^\d]/g, '')) : 0;
+    if (Number.isFinite(value) && value > 0) return value;
+  }
+
+  return 0;
 }
 
 async function mapLimit(items, limit, mapper) {

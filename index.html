@@ -176,9 +176,19 @@
         }
 
         .last-updated {
+            display: flex;
+            justify-content: flex-end;
+            gap: 8px;
+            flex-wrap: wrap;
             font-size: 14px;
             color: var(--muted);
             text-align: right;
+        }
+
+        .d3-signatures {
+            color: rgba(255, 204, 0, .86);
+            font-weight: bold;
+            white-space: nowrap;
         }
 
         .header-side {
@@ -343,6 +353,14 @@
             font-size: 12px;
             line-height: 1.25;
             color: var(--muted);
+        }
+
+        .member-clan {
+            margin-top: 4px;
+            font-size: 12px;
+            line-height: 1.25;
+            color: var(--muted);
+            overflow-wrap: anywhere;
         }
 
         .member-title {
@@ -541,6 +559,7 @@
             }
 
             .last-updated {
+                justify-content: flex-start;
                 text-align: left;
             }
 
@@ -578,6 +597,7 @@
             }
 
             .member-class,
+            .member-clan,
             .member-title,
             .activity,
             .last-seen,
@@ -652,7 +672,10 @@
                         <span class="marathon-value">Steam <strong id="marathonTotal">-</strong></span>
                     </div>
                 </div>
-                <div class="last-updated" id="lastUpdated"></div>
+                <div class="last-updated" id="lastUpdated">
+                    <span id="updatedLabel"></span>
+                    <span class="d3-signatures" id="d3Signatures" hidden></span>
+                </div>
             </div>
         </div>
         <div class="clan-meta" id="clanMeta">Clan: Destiny Lore Masters · Group ID 5420062 · Remote ID 6761737</div>
@@ -683,17 +706,22 @@
         const STATIC_DATA_URL = 'data/clan-status.json';
         const PLAYER_ACTIVITY_URL = 'data/player-activity.json';
         const WORKER_BASE_URL = 'https://dlm-notify.gmeluzzi.workers.dev';
+        const D3_SIGNATURES_URL = `${WORKER_BASE_URL}/api/d3-signatures`;
         const DLM_USER_STORAGE_KEY = 'dlmNotifyUserId';
         const LIVE_STATUS_INTERVAL_MS = 60000;
 
         let currentMembers = [];
         let currentExternalFriends = [];
+        let currentUpdatedLabel = '';
+        let currentD3Signatures = null;
         let liveStatusTimer = null;
 
         const elements = {
             refreshButton: document.getElementById('refreshButton'),
             membersCount: document.getElementById('membersCount'),
             lastUpdated: document.getElementById('lastUpdated'),
+            updatedLabel: document.getElementById('updatedLabel'),
+            d3Signatures: document.getElementById('d3Signatures'),
             playerStats: document.getElementById('playerStats'),
             marathonStats: document.getElementById('marathonStats'),
             marathonTotal: document.getElementById('marathonTotal'),
@@ -801,11 +829,13 @@
                 const data = await response.json();
                 currentMembers = (data.members || []).sort(compareDisplayMembers);
                 elements.membersCount.textContent = String(currentMembers.length);
-                elements.lastUpdated.textContent = data.generatedAt
+                currentUpdatedLabel = data.generatedAt
                     ? `Aggiornato: ${formatDate(data.generatedAt)}`
                     : 'Aggiornato: dati pubblicati';
+                renderHeaderMeta();
                 renderDashboard();
                 loadPlayerActivityStats();
+                loadD3Signatures();
                 startLiveStatusPolling();
             } catch (error) {
                 console.error('Errore caricamento dati:', error);
@@ -1000,6 +1030,31 @@
             }
         }
 
+        async function loadD3Signatures() {
+            try {
+                const response = await fetch(`${D3_SIGNATURES_URL}?v=${Date.now()}`, { cache: 'no-store' });
+                if (!response.ok) throw new Error(await readErrorMessage(response) || 'Firme D3 non disponibili.');
+                const data = await response.json();
+                currentD3Signatures = Number(data.signatures || 0);
+                renderHeaderMeta();
+            } catch (error) {
+                console.warn('Numero firme D3 non disponibile:', error);
+                currentD3Signatures = null;
+                renderHeaderMeta();
+            }
+        }
+
+        function renderHeaderMeta() {
+            elements.updatedLabel.textContent = currentUpdatedLabel;
+            if (Number.isFinite(currentD3Signatures) && currentD3Signatures > 0) {
+                elements.d3Signatures.textContent = `Firme D3: ${formatNumber(currentD3Signatures)}`;
+                elements.d3Signatures.hidden = false;
+            } else {
+                elements.d3Signatures.textContent = '';
+                elements.d3Signatures.hidden = true;
+            }
+        }
+
         function isStaleSessionMessage(message) {
             const normalized = String(message || '').toLowerCase();
             return normalized === 'unknown user'
@@ -1063,6 +1118,11 @@
             memberTitle.textContent = member.title || '';
             memberTitle.hidden = !member.title;
 
+            const memberClan = document.createElement('div');
+            memberClan.className = 'member-clan';
+            memberClan.textContent = formatClanName(member);
+            memberClan.hidden = !memberClan.textContent;
+
             const activity = document.createElement('div');
             activity.className = 'activity';
             activity.textContent = member.isOnline ? 'Online' : `Ultima attività: ${member.lastActivityText}`;
@@ -1083,7 +1143,7 @@
             power.textContent = member.powerLevel ? String(member.powerLevel) : '-';
 
             memberName.append(status, nameText);
-            memberMain.append(memberName, memberClass, memberTitle, activityRow);
+            memberMain.append(memberName, memberClass, memberClan, memberTitle, activityRow);
             memberInfo.append(memberMain, power);
             emblemContainer.appendChild(image);
             card.append(emblemContainer, memberInfo);
@@ -1102,8 +1162,18 @@
                 lastPlayedTimestamp: friend.lastPlayedTimestamp || 0,
                 lastActivityTimestamp: friend.lastActivityTimestamp || 0,
                 lastActivityText: friend.lastActivityText || (friend.isOnline ? 'Online' : 'Nessuna attività recente'),
+                clanName: friend.clanName || '',
+                clanCallsign: friend.clanCallsign || '',
+                clanGroupId: friend.clanGroupId || '',
                 activities: friend.activities || []
             });
+        }
+
+        function formatClanName(member) {
+            if (!member.clanName) return '';
+            return member.clanCallsign
+                ? `Clan: ${member.clanName} [${member.clanCallsign}]`
+                : `Clan: ${member.clanName}`;
         }
 
         async function openModal(member) {
@@ -1167,16 +1237,23 @@
             }).format(number);
         }
 
+        function formatNumber(value) {
+            const number = Number(value || 0);
+            if (!Number.isFinite(number) || number <= 0) return '-';
+            return new Intl.NumberFormat('it-IT').format(number);
+        }
+
         function closeModal() {
             elements.modal.style.display = 'none';
         }
 
         function updateLastUpdated() {
             lastUpdate = new Date();
-            elements.lastUpdated.textContent = `Aggiornato: ${lastUpdate.toLocaleTimeString('it-IT', {
+            currentUpdatedLabel = `Aggiornato: ${lastUpdate.toLocaleTimeString('it-IT', {
                 hour: '2-digit',
                 minute: '2-digit'
             })}`;
+            renderHeaderMeta();
         }
 
         function showLoader() {
