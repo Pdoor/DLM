@@ -1,9 +1,64 @@
 {
-  "generatedAt": "2026-05-28T04:51:22.072Z",
+  "generatedAt": "2026-05-28T08:46:47.013Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Pdor#2087",
+      "membershipId": "4611686018441724933",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 318,
+      "lastPlayedTimestamp": 1779955407000,
+      "lastActivityTimestamp": 1779954391000,
+      "lastActivityText": "La caduta di un Re: Standard il 28/05/2026 07:46",
+      "activities": [
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-05-28T07:46:31Z"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-05-27T13:31:28Z"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-05-27T10:41:43Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-26T23:03:52Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-26T22:54:37Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-26T22:42:07Z"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-05-26T21:35:57Z"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-05-26T21:03:29Z"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-05-24T07:35:16Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-23T13:39:36Z"
+        }
+      ]
+    },
     {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
@@ -63,12 +118,12 @@
       "displayName": "ClaudeFj#8206",
       "membershipId": "4611686018522886434",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/72e35d429f3e159af545b52f4677a910.jpg",
       "powerLevel": 319,
-      "lastPlayedTimestamp": 1779922016000,
+      "lastPlayedTimestamp": 1779957981000,
       "lastActivityTimestamp": 1779921033000,
       "lastActivityText": "Partita veloce: Normale il 27/05/2026 22:30",
       "activities": [
@@ -118,12 +173,12 @@
       "displayName": "Paltrix94#5760",
       "membershipId": "4611686018516491359",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
       "powerLevel": 317,
-      "lastPlayedTimestamp": 1779921762000,
+      "lastPlayedTimestamp": 1779957945000,
       "lastActivityTimestamp": 1779921033000,
       "lastActivityText": "Partita veloce: Normale il 27/05/2026 22:30",
       "activities": [
@@ -166,61 +221,6 @@
         {
           "name": "Schianto dell'Esodo: Personalizzata",
           "period": "2026-05-27T09:50:18Z"
-        }
-      ]
-    },
-    {
-      "displayName": "Pdor#2087",
-      "membershipId": "4611686018441724933",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 316,
-      "lastPlayedTimestamp": 1779890882000,
-      "lastActivityTimestamp": 1779888688000,
-      "lastActivityText": "La caduta di un Re: Standard il 27/05/2026 13:31",
-      "activities": [
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-05-27T13:31:28Z"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-05-27T10:41:43Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-26T23:03:52Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-26T22:54:37Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-26T22:42:07Z"
-        },
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-05-26T21:35:57Z"
-        },
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-05-26T21:03:29Z"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-05-24T07:35:16Z"
-        },
-        {
-          "name": "Miniere di Sale: Personalizzata",
-          "period": "2026-05-24T06:50:30Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T13:39:36Z"
         }
       ]
     },
