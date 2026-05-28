@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T22:57:34.764Z",
+  "generatedAt": "2026-05-28T00:07:45.129Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,19 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1779922160000,
-      "lastActivityTimestamp": 1779921033000,
-      "lastActivityText": "Partita veloce: Normale il 27/05/2026 22:30",
+      "powerLevel": 441,
+      "lastPlayedTimestamp": 1779922767000,
+      "lastActivityTimestamp": 1779922138000,
+      "lastActivityText": "Poligono di Tiro il 27/05/2026 22:48",
       "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-05-27T22:48:58Z"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-27T22:30:33Z"
@@ -52,10 +56,6 @@
         {
           "name": "Conservazione",
           "period": "2026-05-27T14:49:20Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-27T10:45:50Z"
         }
       ]
     },
