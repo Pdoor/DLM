@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T23:38:43.492Z",
+  "generatedAt": "2026-05-29T04:09:26.419Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,19 @@
       "displayName": "Pdor#2087",
       "membershipId": "4611686018441724933",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 382,
-      "lastPlayedTimestamp": 1780011433000,
-      "lastActivityTimestamp": 1780010454000,
-      "lastActivityText": "Partita veloce: Normale il 28/05/2026 23:20",
+      "powerLevel": 384,
+      "lastPlayedTimestamp": 1780013108000,
+      "lastActivityTimestamp": 1780012275000,
+      "lastActivityText": "Osservatorio Celeste: Personalizzata il 28/05/2026 23:51",
       "activities": [
+        {
+          "name": "Osservatorio Celeste: Personalizzata",
+          "period": "2026-05-28T23:51:15Z"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-28T23:20:54Z"
@@ -52,10 +56,6 @@
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-28T21:50:05Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-28T21:36:49Z"
         }
       ]
     },
