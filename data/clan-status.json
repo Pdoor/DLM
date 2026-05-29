@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T08:25:07.478Z",
+  "generatedAt": "2026-05-29T11:48:35.043Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,23 @@
       "className": "Cacciatori",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 384,
-      "lastPlayedTimestamp": 1780013108000,
-      "lastActivityTimestamp": 1780012275000,
-      "lastActivityText": "Osservatorio Celeste: Personalizzata il 28/05/2026 23:51",
+      "powerLevel": 387,
+      "lastPlayedTimestamp": 1780048385000,
+      "lastActivityTimestamp": 1780048339000,
+      "lastActivityText": "Partita veloce: Normale il 29/05/2026 09:52",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-29T09:52:19Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-29T09:40:34Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-29T09:27:18Z"
+        },
         {
           "name": "Osservatorio Celeste: Personalizzata",
           "period": "2026-05-28T23:51:15Z"
@@ -44,18 +56,6 @@
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-28T22:26:44Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-28T22:10:15Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-28T21:59:56Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-28T21:50:05Z"
         }
       ]
     },
@@ -63,15 +63,27 @@
       "displayName": "ClaudeFj#8206",
       "membershipId": "4611686018522886434",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/72e35d429f3e159af545b52f4677a910.jpg",
       "powerLevel": 337,
-      "lastPlayedTimestamp": 1780043054000,
-      "lastActivityTimestamp": 1780004323000,
-      "lastActivityText": "Partita veloce: Normale il 28/05/2026 21:38",
+      "lastPlayedTimestamp": 1780047161000,
+      "lastActivityTimestamp": 1780046053000,
+      "lastActivityText": "Campi di battaglia: Appiglio: Con matchmaking il 29/05/2026 09:14",
       "activities": [
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-05-29T09:14:13Z"
+        },
+        {
+          "name": "Sfide dell'Eternità: Standard",
+          "period": "2026-05-29T08:36:46Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-29T08:17:20Z"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-28T21:38:43Z"
@@ -99,18 +111,6 @@
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-28T16:09:17Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-28T15:56:20Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-28T15:42:54Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-28T11:02:20Z"
         }
       ]
     },
@@ -118,15 +118,27 @@
       "displayName": "Paltrix94#5760",
       "membershipId": "4611686018516491359",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
       "powerLevel": 332,
-      "lastPlayedTimestamp": 1780043052000,
-      "lastActivityTimestamp": 1780004323000,
-      "lastActivityText": "Partita veloce: Normale il 28/05/2026 21:38",
+      "lastPlayedTimestamp": 1780047142000,
+      "lastActivityTimestamp": 1780046053000,
+      "lastActivityText": "Campi di battaglia: Appiglio: Con matchmaking il 29/05/2026 09:14",
       "activities": [
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-05-29T09:14:13Z"
+        },
+        {
+          "name": "Sfide dell'Eternità: Standard",
+          "period": "2026-05-29T08:36:46Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-29T08:17:20Z"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-28T21:38:43Z"
@@ -154,18 +166,6 @@
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-28T16:09:17Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-28T15:56:20Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-28T15:42:54Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-28T11:02:20Z"
         }
       ]
     },
@@ -232,8 +232,8 @@
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 441,
-      "lastPlayedTimestamp": 1779994003000,
+      "powerLevel": 445,
+      "lastPlayedTimestamp": 1780053265000,
       "lastActivityTimestamp": 1779991563000,
       "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 28/05/2026 18:06",
       "activities": [
