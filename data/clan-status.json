@@ -1,9 +1,64 @@
 {
-  "generatedAt": "2026-05-29T18:38:13.469Z",
+  "generatedAt": "2026-05-29T21:10:19.332Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Adam#6737",
+      "membershipId": "4611686018489009578",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/73f5f779f40bfecb4690c395bc1941b9.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1780088971000,
+      "lastActivityTimestamp": 1780086351000,
+      "lastActivityText": "Caldera: Personalizzata il 29/05/2026 20:25",
+      "activities": [
+        {
+          "name": "Caldera: Personalizzata",
+          "period": "2026-05-29T20:25:51Z"
+        },
+        {
+          "name": "Caldera: Personalizzata",
+          "period": "2026-05-29T20:11:09Z"
+        },
+        {
+          "name": "Caldera: Personalizzata",
+          "period": "2026-05-29T20:00:22Z"
+        },
+        {
+          "name": "Caldera: Personalizzata",
+          "period": "2026-05-29T19:47:53Z"
+        },
+        {
+          "name": "Bis: Personalizzata",
+          "period": "2026-05-24T01:34:05Z"
+        },
+        {
+          "name": "//nodo.bpss.AVALON//: Personalizzata",
+          "period": "2026-05-24T01:06:41Z"
+        },
+        {
+          "name": "//nodo.bpss.AVALON//: Personalizzata",
+          "period": "2026-05-24T00:56:23Z"
+        },
+        {
+          "name": "Cala la Notte: Maestro",
+          "period": "2026-05-24T00:14:21Z"
+        },
+        {
+          "name": "Cala la Notte: Maestro",
+          "period": "2026-05-23T23:55:13Z"
+        },
+        {
+          "name": "//nodo.bpss.AVALON//: Leggendaria",
+          "period": "2026-05-23T23:14:01Z"
+        }
+      ]
+    },
     {
       "displayName": "ClaudeFj#8206",
       "membershipId": "4611686018522886434",
@@ -118,12 +173,12 @@
       "displayName": "Pdor#2087",
       "membershipId": "4611686018441724933",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 390,
-      "lastPlayedTimestamp": 1780066514000,
+      "powerLevel": 386,
+      "lastPlayedTimestamp": 1780088984000,
       "lastActivityTimestamp": 1780065752000,
       "lastActivityText": "Partita veloce: Normale il 29/05/2026 14:42",
       "activities": [
@@ -331,61 +386,6 @@
         {
           "name": "Missione: Transitorietà: Leggendaria",
           "period": "2025-07-19T23:30:55Z"
-        }
-      ]
-    },
-    {
-      "displayName": "Adam#6737",
-      "membershipId": "4611686018489009578",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/9ba1bb97b629b26f2e395847a918cf8b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1779586827000,
-      "lastActivityTimestamp": 1779586445000,
-      "lastActivityText": "Bis: Personalizzata il 24/05/2026 01:34",
-      "activities": [
-        {
-          "name": "Bis: Personalizzata",
-          "period": "2026-05-24T01:34:05Z"
-        },
-        {
-          "name": "//nodo.bpss.AVALON//: Personalizzata",
-          "period": "2026-05-24T01:06:41Z"
-        },
-        {
-          "name": "//nodo.bpss.AVALON//: Personalizzata",
-          "period": "2026-05-24T00:56:23Z"
-        },
-        {
-          "name": "Cala la Notte: Maestro",
-          "period": "2026-05-24T00:14:21Z"
-        },
-        {
-          "name": "Cala la Notte: Maestro",
-          "period": "2026-05-23T23:55:13Z"
-        },
-        {
-          "name": "//nodo.bpss.AVALON//: Leggendaria",
-          "period": "2026-05-23T23:14:01Z"
-        },
-        {
-          "name": "Sotto contraria stella: Personalizzata",
-          "period": "2026-05-23T22:48:13Z"
-        },
-        {
-          "name": "//nodo.bpss.AVALON//",
-          "period": "2026-05-23T18:06:16Z"
-        },
-        {
-          "name": "//nodo.bpss.AVALON//",
-          "period": "2026-05-23T17:37:33Z"
-        },
-        {
-          "name": "//nodo.bpss.AVALON//",
-          "period": "2026-05-23T16:45:44Z"
         }
       ]
     },
