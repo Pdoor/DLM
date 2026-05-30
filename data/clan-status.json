@@ -1,9 +1,64 @@
 {
-  "generatedAt": "2026-05-30T00:12:37.065Z",
+  "generatedAt": "2026-05-30T04:35:13.274Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Adam#6737",
+      "membershipId": "4611686018489009578",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/73f5f779f40bfecb4690c395bc1941b9.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1780111138000,
+      "lastActivityTimestamp": 1780109288000,
+      "lastActivityText": "Partita veloce: Normale il 30/05/2026 02:48",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-30T02:48:08Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-30T02:34:01Z"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-05-30T02:23:10Z"
+        },
+        {
+          "name": "Sotto contraria stella",
+          "period": "2026-05-30T02:02:09Z"
+        },
+        {
+          "name": "Sotto contraria stella",
+          "period": "2026-05-30T01:41:17Z"
+        },
+        {
+          "name": "Sotto contraria stella (leggenda)",
+          "period": "2026-05-30T01:28:58Z"
+        },
+        {
+          "name": "Sotto contraria stella (leggenda)",
+          "period": "2026-05-30T01:15:55Z"
+        },
+        {
+          "name": "Sotto contraria stella",
+          "period": "2026-05-30T00:53:41Z"
+        },
+        {
+          "name": "Sotto contraria stella",
+          "period": "2026-05-30T00:28:41Z"
+        },
+        {
+          "name": "Misure disperate: Maestro",
+          "period": "2026-05-29T23:20:22Z"
+        }
+      ]
+    },
     {
       "displayName": "Pdor#2087",
       "membershipId": "4611686018441724933",
@@ -56,61 +111,6 @@
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-29T14:30:42Z"
-        }
-      ]
-    },
-    {
-      "displayName": "Adam#6737",
-      "membershipId": "4611686018489009578",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/73f5f779f40bfecb4690c395bc1941b9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1780099915000,
-      "lastActivityTimestamp": 1780096194000,
-      "lastActivityText": "Misure disperate: Maestro il 29/05/2026 23:09",
-      "activities": [
-        {
-          "name": "Misure disperate: Maestro",
-          "period": "2026-05-29T23:09:54Z"
-        },
-        {
-          "name": "Misure disperate: Maestro",
-          "period": "2026-05-29T22:54:50Z"
-        },
-        {
-          "name": "Sotto contraria stella",
-          "period": "2026-05-29T22:13:28Z"
-        },
-        {
-          "name": "Sotto contraria stella",
-          "period": "2026-05-29T21:45:58Z"
-        },
-        {
-          "name": "Sotto contraria stella",
-          "period": "2026-05-29T21:19:34Z"
-        },
-        {
-          "name": "Sotto contraria stella",
-          "period": "2026-05-29T20:58:08Z"
-        },
-        {
-          "name": "Caldera: Personalizzata",
-          "period": "2026-05-29T20:25:51Z"
-        },
-        {
-          "name": "Caldera: Personalizzata",
-          "period": "2026-05-29T20:11:09Z"
-        },
-        {
-          "name": "Caldera: Personalizzata",
-          "period": "2026-05-29T20:00:22Z"
-        },
-        {
-          "name": "Caldera: Personalizzata",
-          "period": "2026-05-29T19:47:53Z"
         }
       ]
     },
