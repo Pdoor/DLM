@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T11:53:54.452Z",
+  "generatedAt": "2026-05-30T13:51:09.459Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,35 @@
       "displayName": "Adam#6737",
       "membershipId": "4611686018489009578",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/73f5f779f40bfecb4690c395bc1941b9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1780142013000,
-      "lastActivityTimestamp": 1780140684000,
-      "lastActivityText": "Sfide dell'Eternità: Standard il 30/05/2026 11:31",
+      "lastPlayedTimestamp": 1780147251000,
+      "lastActivityTimestamp": 1780146131000,
+      "lastActivityText": "Creazione: Personalizzata il 30/05/2026 13:02",
       "activities": [
+        {
+          "name": "Creazione: Personalizzata",
+          "period": "2026-05-30T13:02:11Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-30T12:42:30Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-30T12:28:07Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-30T12:15:32Z"
+        },
+        {
+          "name": "Sfide dell'Eternità: Standard",
+          "period": "2026-05-30T11:56:54Z"
+        },
         {
           "name": "Sfide dell'Eternità: Standard",
           "period": "2026-05-30T11:31:24Z"
@@ -36,26 +56,6 @@
         {
           "name": "Sotto contraria stella: Personalizzata",
           "period": "2026-05-30T10:15:27Z"
-        },
-        {
-          "name": "Sotto contraria stella",
-          "period": "2026-05-30T09:57:12Z"
-        },
-        {
-          "name": "Sotto contraria stella",
-          "period": "2026-05-30T09:30:10Z"
-        },
-        {
-          "name": "Sotto contraria stella",
-          "period": "2026-05-30T09:08:19Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-30T03:00:32Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-30T02:48:08Z"
         }
       ]
     },
@@ -173,12 +173,12 @@
       "displayName": "ClaudeFj#8206",
       "membershipId": "4611686018522886434",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/72e35d429f3e159af545b52f4677a910.jpg",
-      "powerLevel": 340,
-      "lastPlayedTimestamp": 1780069248000,
+      "powerLevel": 344,
+      "lastPlayedTimestamp": 1780149021000,
       "lastActivityTimestamp": 1780068473000,
       "lastActivityText": "Operazioni dell'Avanguardia il 29/05/2026 15:27",
       "activities": [
@@ -283,12 +283,12 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 445,
-      "lastPlayedTimestamp": 1780138847000,
+      "powerLevel": 444,
+      "lastPlayedTimestamp": 1780148853000,
       "lastActivityTimestamp": 1779991563000,
       "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 28/05/2026 18:06",
       "activities": [
@@ -393,12 +393,12 @@
       "displayName": "mattia08pro#6310",
       "membershipId": "4611686018513701477",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Intrepido",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2eb855942085b3b97fbb31078152abd7.jpg",
       "powerLevel": 486,
-      "lastPlayedTimestamp": 1779546233000,
+      "lastPlayedTimestamp": 1780148424000,
       "lastActivityTimestamp": 1779545076000,
       "lastActivityText": "Destino diadico il 23/05/2026 14:04",
       "activities": [
