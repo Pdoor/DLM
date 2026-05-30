@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T07:43:15.965Z",
+  "generatedAt": "2026-05-30T10:04:57.061Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,23 @@
       "displayName": "Adam#6737",
       "membershipId": "4611686018489009578",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/73f5f779f40bfecb4690c395bc1941b9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1780111138000,
-      "lastActivityTimestamp": 1780110032000,
-      "lastActivityText": "Partita veloce: Normale il 30/05/2026 03:00",
+      "lastPlayedTimestamp": 1780135448000,
+      "lastActivityTimestamp": 1780133410000,
+      "lastActivityText": "Sotto contraria stella il 30/05/2026 09:30",
       "activities": [
+        {
+          "name": "Sotto contraria stella",
+          "period": "2026-05-30T09:30:10Z"
+        },
+        {
+          "name": "Sotto contraria stella",
+          "period": "2026-05-30T09:08:19Z"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-30T03:00:32Z"
@@ -48,14 +56,6 @@
         {
           "name": "Sotto contraria stella (leggenda)",
           "period": "2026-05-30T01:15:55Z"
-        },
-        {
-          "name": "Sotto contraria stella",
-          "period": "2026-05-30T00:53:41Z"
-        },
-        {
-          "name": "Sotto contraria stella",
-          "period": "2026-05-30T00:28:41Z"
         }
       ]
     },
