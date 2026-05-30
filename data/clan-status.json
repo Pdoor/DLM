@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T10:04:57.061Z",
+  "generatedAt": "2026-05-30T11:53:54.452Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,34 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/73f5f779f40bfecb4690c395bc1941b9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1780135448000,
-      "lastActivityTimestamp": 1780133410000,
-      "lastActivityText": "Sotto contraria stella il 30/05/2026 09:30",
+      "lastPlayedTimestamp": 1780142013000,
+      "lastActivityTimestamp": 1780140684000,
+      "lastActivityText": "Sfide dell'Eternità: Standard il 30/05/2026 11:31",
       "activities": [
+        {
+          "name": "Sfide dell'Eternità: Standard",
+          "period": "2026-05-30T11:31:24Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-30T11:16:10Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-30T11:03:15Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-30T10:52:14Z"
+        },
+        {
+          "name": "Sotto contraria stella: Personalizzata",
+          "period": "2026-05-30T10:15:27Z"
+        },
+        {
+          "name": "Sotto contraria stella",
+          "period": "2026-05-30T09:57:12Z"
+        },
         {
           "name": "Sotto contraria stella",
           "period": "2026-05-30T09:30:10Z"
@@ -32,30 +56,6 @@
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-30T02:48:08Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-30T02:34:01Z"
-        },
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-05-30T02:23:10Z"
-        },
-        {
-          "name": "Sotto contraria stella",
-          "period": "2026-05-30T02:02:09Z"
-        },
-        {
-          "name": "Sotto contraria stella",
-          "period": "2026-05-30T01:41:17Z"
-        },
-        {
-          "name": "Sotto contraria stella (leggenda)",
-          "period": "2026-05-30T01:28:58Z"
-        },
-        {
-          "name": "Sotto contraria stella (leggenda)",
-          "period": "2026-05-30T01:15:55Z"
         }
       ]
     },
@@ -288,7 +288,7 @@
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 445,
-      "lastPlayedTimestamp": 1780053265000,
+      "lastPlayedTimestamp": 1780138847000,
       "lastActivityTimestamp": 1779991563000,
       "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 28/05/2026 18:06",
       "activities": [
