@@ -1,19 +1,74 @@
 {
-  "generatedAt": "2026-05-30T16:34:41.542Z",
+  "generatedAt": "2026-05-30T18:05:02.574Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "cRoTator#5820",
+      "membershipId": "4611686018504020156",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Signora del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b531d829e55b6f13555e8cae172dc0b3.jpg",
+      "powerLevel": 311,
+      "lastPlayedTimestamp": 1780161775000,
+      "lastActivityTimestamp": 1780156252000,
+      "lastActivityText": "Rovina della Signora della Guerra: Standard il 30/05/2026 15:50",
+      "activities": [
+        {
+          "name": "Rovina della Signora della Guerra: Standard",
+          "period": "2026-05-30T15:50:52Z"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-05-29T22:35:21Z"
+        },
+        {
+          "name": "Eliostasi: Personalizzata",
+          "period": "2026-05-29T21:40:24Z"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-05-28T21:24:41Z"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Personalizzata",
+          "period": "2026-05-28T20:28:47Z"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-05-28T20:25:10Z"
+        },
+        {
+          "name": "Eliostasi: Personalizzata",
+          "period": "2026-05-23T10:46:55Z"
+        },
+        {
+          "name": "Eliostasi: Personalizzata",
+          "period": "2026-05-23T10:42:00Z"
+        },
+        {
+          "name": "Eliostasi: Personalizzata",
+          "period": "2026-05-23T10:32:26Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-23T10:00:34Z"
+        }
+      ]
+    },
+    {
       "displayName": "ClaudeFj#8206",
       "membershipId": "4611686018522886434",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/72e35d429f3e159af545b52f4677a910.jpg",
       "powerLevel": 341,
-      "lastPlayedTimestamp": 1780158826000,
+      "lastPlayedTimestamp": 1780159137000,
       "lastActivityTimestamp": 1780156141000,
       "lastActivityText": "Trasmigrazione: Normale il 30/05/2026 15:49",
       "activities": [
@@ -63,12 +118,12 @@
       "displayName": "Paltrix94#5760",
       "membershipId": "4611686018516491359",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
       "powerLevel": 335,
-      "lastPlayedTimestamp": 1780158827000,
+      "lastPlayedTimestamp": 1780159010000,
       "lastActivityTimestamp": 1780156141000,
       "lastActivityText": "Trasmigrazione: Normale il 30/05/2026 15:49",
       "activities": [
@@ -331,61 +386,6 @@
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-29T14:30:42Z"
-        }
-      ]
-    },
-    {
-      "displayName": "cRoTator#5820",
-      "membershipId": "4611686018504020156",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Signora del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b531d829e55b6f13555e8cae172dc0b3.jpg",
-      "powerLevel": 311,
-      "lastPlayedTimestamp": 1780158851000,
-      "lastActivityTimestamp": 1780094121000,
-      "lastActivityText": "Poligono di Tiro il 29/05/2026 22:35",
-      "activities": [
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-05-29T22:35:21Z"
-        },
-        {
-          "name": "Eliostasi: Personalizzata",
-          "period": "2026-05-29T21:40:24Z"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-05-28T21:24:41Z"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Personalizzata",
-          "period": "2026-05-28T20:28:47Z"
-        },
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-05-28T20:25:10Z"
-        },
-        {
-          "name": "Eliostasi: Personalizzata",
-          "period": "2026-05-23T10:46:55Z"
-        },
-        {
-          "name": "Eliostasi: Personalizzata",
-          "period": "2026-05-23T10:42:00Z"
-        },
-        {
-          "name": "Eliostasi: Personalizzata",
-          "period": "2026-05-23T10:32:26Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T10:00:34Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-05-23T09:30:08Z"
         }
       ]
     },
