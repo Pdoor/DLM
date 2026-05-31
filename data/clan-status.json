@@ -1,22 +1,85 @@
 {
-  "generatedAt": "2026-05-31T14:18:36.185Z",
+  "generatedAt": "2026-05-31T15:50:25.681Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "Adam#6737",
+      "membershipId": "4611686018489009578",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Fuoriclasse",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e452c62485491a02fbc0e36f06d301d2.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1780242604000,
+      "lastActivityTimestamp": 1780240984000,
+      "lastActivityText": "Osservatorio Celeste: Personalizzata il 31/05/2026 15:23",
+      "activities": [
+        {
+          "name": "Osservatorio Celeste: Personalizzata",
+          "period": "2026-05-31T15:23:04Z"
+        },
+        {
+          "name": "Osservatorio Celeste: Personalizzata",
+          "period": "2026-05-31T15:10:50Z"
+        },
+        {
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-05-31T14:51:49Z"
+        },
+        {
+          "name": "Ora zero (esperto): Esperto",
+          "period": "2026-05-20T11:41:09Z"
+        },
+        {
+          "name": "Ora zero (esperto): Esperto",
+          "period": "2026-05-20T11:05:25Z"
+        },
+        {
+          "name": "Ora zero (esperto): Esperto",
+          "period": "2026-05-20T10:48:03Z"
+        },
+        {
+          "name": "Ora zero (esperto): Esperto",
+          "period": "2026-05-20T10:25:58Z"
+        },
+        {
+          "name": "//nodo.bpss.AVALON//: Personalizzata",
+          "period": "2026-05-20T10:14:32Z"
+        },
+        {
+          "name": "Osservatorio Celeste: Personalizzata",
+          "period": "2026-05-20T10:02:01Z"
+        },
+        {
+          "name": "//nodo.bpss.AVALON//",
+          "period": "2026-05-20T02:06:30Z"
+        }
+      ]
+    },
+    {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 444,
-      "lastPlayedTimestamp": 1780224967000,
-      "lastActivityTimestamp": 1780224697000,
-      "lastActivityText": "I sussurri (esperto): Esperto il 31/05/2026 10:51",
+      "lastPlayedTimestamp": 1780242532000,
+      "lastActivityTimestamp": 1780239789000,
+      "lastActivityText": "Partita veloce: Normale il 31/05/2026 15:03",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-31T15:03:09Z"
+        },
+        {
+          "name": "Gli Spettri: Normale",
+          "period": "2026-05-31T14:59:37Z"
+        },
         {
           "name": "I sussurri (esperto): Esperto",
           "period": "2026-05-31T10:51:37Z"
@@ -48,14 +111,6 @@
         {
           "name": "Sottrazione: Leggendaria",
           "period": "2026-05-28T17:03:47Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-05-28T10:05:41Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-28T10:00:43Z"
         }
       ]
     },
@@ -63,15 +118,35 @@
       "displayName": "ClaudeFj#8206",
       "membershipId": "4611686018522886434",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/72e35d429f3e159af545b52f4677a910.jpg",
-      "powerLevel": 344,
-      "lastPlayedTimestamp": 1780224961000,
-      "lastActivityTimestamp": 1780224697000,
-      "lastActivityText": "I sussurri (esperto): Esperto il 31/05/2026 10:51",
+      "powerLevel": 349,
+      "lastPlayedTimestamp": 1780242582000,
+      "lastActivityTimestamp": 1780239577000,
+      "lastActivityText": "Gli Spettri: Normale il 31/05/2026 14:59",
       "activities": [
+        {
+          "name": "Gli Spettri: Normale",
+          "period": "2026-05-31T14:59:37Z"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-05-31T14:58:16Z"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-05-31T14:56:40Z"
+        },
+        {
+          "name": "L'investigazione: Normale",
+          "period": "2026-05-31T14:35:31Z"
+        },
+        {
+          "name": "Benvenuti alla Frontiera: Normale",
+          "period": "2026-05-31T14:26:56Z"
+        },
         {
           "name": "I sussurri (esperto): Esperto",
           "period": "2026-05-31T10:51:37Z"
@@ -91,26 +166,6 @@
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-31T09:03:23Z"
-        },
-        {
-          "name": "Trasmigrazione: Normale",
-          "period": "2026-05-30T15:49:01Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-05-30T14:30:02Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-05-30T14:09:27Z"
-        },
-        {
-          "name": "Operazioni dell'Avanguardia",
-          "period": "2026-05-29T15:27:53Z"
-        },
-        {
-          "name": "Operazioni dell'Avanguardia",
-          "period": "2026-05-29T15:13:29Z"
         }
       ]
     },
@@ -280,61 +335,6 @@
       ]
     },
     {
-      "displayName": "Adam#6737",
-      "membershipId": "4611686018489009578",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/73f5f779f40bfecb4690c395bc1941b9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1780147251000,
-      "lastActivityTimestamp": 1780146131000,
-      "lastActivityText": "Creazione: Personalizzata il 30/05/2026 13:02",
-      "activities": [
-        {
-          "name": "Creazione: Personalizzata",
-          "period": "2026-05-30T13:02:11Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-30T12:42:30Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-30T12:28:07Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-30T12:15:32Z"
-        },
-        {
-          "name": "Sfide dell'Eternità: Standard",
-          "period": "2026-05-30T11:56:54Z"
-        },
-        {
-          "name": "Sfide dell'Eternità: Standard",
-          "period": "2026-05-30T11:31:24Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-30T11:16:10Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-30T11:03:15Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-30T10:52:14Z"
-        },
-        {
-          "name": "Sotto contraria stella: Personalizzata",
-          "period": "2026-05-30T10:15:27Z"
-        }
-      ]
-    },
-    {
       "displayName": "Pdor#2087",
       "membershipId": "4611686018441724933",
       "bungieNetMembershipId": "",
@@ -448,7 +448,7 @@
       "displayName": "Neytiri_wave#9364",
       "membershipId": "4611686018530145706",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
