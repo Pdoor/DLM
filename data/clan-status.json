@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T15:50:25.681Z",
+  "generatedAt": "2026-05-31T17:14:10.636Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,18 @@
       "title": "Fuoriclasse",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e452c62485491a02fbc0e36f06d301d2.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1780242604000,
-      "lastActivityTimestamp": 1780240984000,
-      "lastActivityText": "Osservatorio Celeste: Personalizzata il 31/05/2026 15:23",
+      "lastPlayedTimestamp": 1780246649000,
+      "lastActivityTimestamp": 1780244261000,
+      "lastActivityText": "Misure disperate: Maestro il 31/05/2026 16:17",
       "activities": [
+        {
+          "name": "Misure disperate: Maestro",
+          "period": "2026-05-31T16:17:41Z"
+        },
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-05-31T16:04:31Z"
+        },
         {
           "name": "Osservatorio Celeste: Personalizzata",
           "period": "2026-05-31T15:23:04Z"
@@ -48,14 +56,6 @@
         {
           "name": "//nodo.bpss.AVALON//: Personalizzata",
           "period": "2026-05-20T10:14:32Z"
-        },
-        {
-          "name": "Osservatorio Celeste: Personalizzata",
-          "period": "2026-05-20T10:02:01Z"
-        },
-        {
-          "name": "//nodo.bpss.AVALON//",
-          "period": "2026-05-20T02:06:30Z"
         }
       ]
     },
@@ -63,15 +63,23 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 444,
-      "lastPlayedTimestamp": 1780242532000,
-      "lastActivityTimestamp": 1780239789000,
-      "lastActivityText": "Partita veloce: Normale il 31/05/2026 15:03",
+      "lastPlayedTimestamp": 1780244264000,
+      "lastActivityTimestamp": 1780243362000,
+      "lastActivityText": "Volta di Vetro: Standard il 31/05/2026 16:02",
       "activities": [
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-05-31T16:02:42Z"
+        },
+        {
+          "name": "La comunione: Normale",
+          "period": "2026-05-31T15:36:15Z"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-31T15:03:09Z"
@@ -103,14 +111,6 @@
         {
           "name": "Modalità del mondo: leggendaria: Leggendaria",
           "period": "2026-05-28T18:06:03Z"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-05-28T17:52:39Z"
-        },
-        {
-          "name": "Sottrazione: Leggendaria",
-          "period": "2026-05-28T17:03:47Z"
         }
       ]
     },
@@ -118,15 +118,23 @@
       "displayName": "ClaudeFj#8206",
       "membershipId": "4611686018522886434",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/72e35d429f3e159af545b52f4677a910.jpg",
       "powerLevel": 349,
-      "lastPlayedTimestamp": 1780242582000,
-      "lastActivityTimestamp": 1780239577000,
-      "lastActivityText": "Gli Spettri: Normale il 31/05/2026 14:59",
+      "lastPlayedTimestamp": 1780244264000,
+      "lastActivityTimestamp": 1780243362000,
+      "lastActivityText": "Volta di Vetro: Standard il 31/05/2026 16:02",
       "activities": [
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-05-31T16:02:42Z"
+        },
+        {
+          "name": "La comunione: Normale",
+          "period": "2026-05-31T15:36:15Z"
+        },
         {
           "name": "Gli Spettri: Normale",
           "period": "2026-05-31T14:59:37Z"
@@ -158,14 +166,6 @@
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-31T10:18:32Z"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-05-31T09:26:19Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-31T09:03:23Z"
         }
       ]
     },
