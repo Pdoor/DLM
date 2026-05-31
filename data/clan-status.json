@@ -1,9 +1,64 @@
 {
-  "generatedAt": "2026-05-31T20:14:58.847Z",
+  "generatedAt": "2026-05-31T21:33:23.311Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "ClaudeFj#8206",
+      "membershipId": "4611686018522886434",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/72e35d429f3e159af545b52f4677a910.jpg",
+      "powerLevel": 352,
+      "lastPlayedTimestamp": 1780260013000,
+      "lastActivityTimestamp": 1780258512000,
+      "lastActivityText": "Partita veloce: Normale il 31/05/2026 20:15",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-31T20:15:12Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-31T20:06:12Z"
+        },
+        {
+          "name": "IL DESTINO DI CAYDE",
+          "period": "2026-05-31T19:43:31Z"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-05-31T16:02:42Z"
+        },
+        {
+          "name": "La comunione: Normale",
+          "period": "2026-05-31T15:36:15Z"
+        },
+        {
+          "name": "Gli Spettri: Normale",
+          "period": "2026-05-31T14:59:37Z"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-05-31T14:58:16Z"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-05-31T14:56:40Z"
+        },
+        {
+          "name": "L'investigazione: Normale",
+          "period": "2026-05-31T14:35:31Z"
+        },
+        {
+          "name": "Benvenuti alla Frontiera: Normale",
+          "period": "2026-05-31T14:26:56Z"
+        }
+      ]
+    },
     {
       "displayName": "Adam#6737",
       "membershipId": "4611686018489009578",
@@ -12,11 +67,15 @@
       "className": "Cacciatori",
       "title": "Fuoriclasse",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e452c62485491a02fbc0e36f06d301d2.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1780258416000,
-      "lastActivityTimestamp": 1780257622000,
-      "lastActivityText": "Competitiva: Con matchmaking il 31/05/2026 20:00",
+      "powerLevel": 506,
+      "lastPlayedTimestamp": 1780263190000,
+      "lastActivityTimestamp": 1780258358000,
+      "lastActivityText": "Partita veloce: Normale il 31/05/2026 20:12",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-31T20:12:38Z"
+        },
         {
           "name": "Competitiva: Con matchmaking",
           "period": "2026-05-31T20:00:22Z"
@@ -52,65 +111,6 @@
         {
           "name": "Ora zero (esperto): Esperto",
           "period": "2026-05-20T11:41:09Z"
-        },
-        {
-          "name": "Ora zero (esperto): Esperto",
-          "period": "2026-05-20T11:05:25Z"
-        }
-      ]
-    },
-    {
-      "displayName": "ClaudeFj#8206",
-      "membershipId": "4611686018522886434",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/72e35d429f3e159af545b52f4677a910.jpg",
-      "powerLevel": 350,
-      "lastPlayedTimestamp": 1780258493000,
-      "lastActivityTimestamp": 1780256611000,
-      "lastActivityText": "IL DESTINO DI CAYDE il 31/05/2026 19:43",
-      "activities": [
-        {
-          "name": "IL DESTINO DI CAYDE",
-          "period": "2026-05-31T19:43:31Z"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-05-31T16:02:42Z"
-        },
-        {
-          "name": "La comunione: Normale",
-          "period": "2026-05-31T15:36:15Z"
-        },
-        {
-          "name": "Gli Spettri: Normale",
-          "period": "2026-05-31T14:59:37Z"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-05-31T14:58:16Z"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-05-31T14:56:40Z"
-        },
-        {
-          "name": "L'investigazione: Normale",
-          "period": "2026-05-31T14:35:31Z"
-        },
-        {
-          "name": "Benvenuti alla Frontiera: Normale",
-          "period": "2026-05-31T14:26:56Z"
-        },
-        {
-          "name": "I sussurri (esperto): Esperto",
-          "period": "2026-05-31T10:51:37Z"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-05-31T10:48:13Z"
         }
       ]
     },
