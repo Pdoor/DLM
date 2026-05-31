@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T10:32:44.558Z",
+  "generatedAt": "2026-05-31T12:14:21.718Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,23 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 444,
-      "lastPlayedTimestamp": 1780223539000,
-      "lastActivityTimestamp": 1780222712000,
-      "lastActivityText": "Partita veloce: Normale il 31/05/2026 10:18",
+      "lastPlayedTimestamp": 1780224967000,
+      "lastActivityTimestamp": 1780224697000,
+      "lastActivityText": "I sussurri (esperto): Esperto il 31/05/2026 10:51",
       "activities": [
+        {
+          "name": "I sussurri (esperto): Esperto",
+          "period": "2026-05-31T10:51:37Z"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-05-31T10:48:13Z"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-31T10:18:32Z"
@@ -48,14 +56,6 @@
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-28T10:00:43Z"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-05-27T22:48:58Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-27T22:30:33Z"
         }
       ]
     },
@@ -63,15 +63,23 @@
       "displayName": "ClaudeFj#8206",
       "membershipId": "4611686018522886434",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/72e35d429f3e159af545b52f4677a910.jpg",
-      "powerLevel": 349,
-      "lastPlayedTimestamp": 1780223544000,
-      "lastActivityTimestamp": 1780222712000,
-      "lastActivityText": "Partita veloce: Normale il 31/05/2026 10:18",
+      "powerLevel": 344,
+      "lastPlayedTimestamp": 1780224961000,
+      "lastActivityTimestamp": 1780224697000,
+      "lastActivityText": "I sussurri (esperto): Esperto il 31/05/2026 10:51",
       "activities": [
+        {
+          "name": "I sussurri (esperto): Esperto",
+          "period": "2026-05-31T10:51:37Z"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-05-31T10:48:13Z"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-31T10:18:32Z"
@@ -103,14 +111,6 @@
         {
           "name": "Operazioni dell'Avanguardia",
           "period": "2026-05-29T15:13:29Z"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-05-29T09:14:13Z"
-        },
-        {
-          "name": "Sfide dell'Eternità: Standard",
-          "period": "2026-05-29T08:36:46Z"
         }
       ]
     },
