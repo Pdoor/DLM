@@ -1,9 +1,64 @@
 {
-  "generatedAt": "2026-05-31T21:33:23.311Z",
+  "generatedAt": "2026-05-31T23:05:20.060Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Adam#6737",
+      "membershipId": "4611686018489009578",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Fuoriclasse",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e452c62485491a02fbc0e36f06d301d2.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1780268646000,
+      "lastActivityTimestamp": 1780259237000,
+      "lastActivityText": "La Città Sognante il 31/05/2026 20:27",
+      "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-05-31T20:27:17Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-31T20:12:38Z"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-05-31T20:00:22Z"
+        },
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-05-31T19:02:49Z"
+        },
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-05-31T18:18:33Z"
+        },
+        {
+          "name": "Misure disperate: Maestro",
+          "period": "2026-05-31T16:17:41Z"
+        },
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-05-31T16:04:31Z"
+        },
+        {
+          "name": "Osservatorio Celeste: Personalizzata",
+          "period": "2026-05-31T15:23:04Z"
+        },
+        {
+          "name": "Osservatorio Celeste: Personalizzata",
+          "period": "2026-05-31T15:10:50Z"
+        },
+        {
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-05-31T14:51:49Z"
+        }
+      ]
+    },
     {
       "displayName": "ClaudeFj#8206",
       "membershipId": "4611686018522886434",
@@ -56,61 +111,6 @@
         {
           "name": "Benvenuti alla Frontiera: Normale",
           "period": "2026-05-31T14:26:56Z"
-        }
-      ]
-    },
-    {
-      "displayName": "Adam#6737",
-      "membershipId": "4611686018489009578",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Fuoriclasse",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e452c62485491a02fbc0e36f06d301d2.jpg",
-      "powerLevel": 506,
-      "lastPlayedTimestamp": 1780263190000,
-      "lastActivityTimestamp": 1780258358000,
-      "lastActivityText": "Partita veloce: Normale il 31/05/2026 20:12",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-31T20:12:38Z"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-05-31T20:00:22Z"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-05-31T19:02:49Z"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-05-31T18:18:33Z"
-        },
-        {
-          "name": "Misure disperate: Maestro",
-          "period": "2026-05-31T16:17:41Z"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-05-31T16:04:31Z"
-        },
-        {
-          "name": "Osservatorio Celeste: Personalizzata",
-          "period": "2026-05-31T15:23:04Z"
-        },
-        {
-          "name": "Osservatorio Celeste: Personalizzata",
-          "period": "2026-05-31T15:10:50Z"
-        },
-        {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-05-31T14:51:49Z"
-        },
-        {
-          "name": "Ora zero (esperto): Esperto",
-          "period": "2026-05-20T11:41:09Z"
         }
       ]
     },
