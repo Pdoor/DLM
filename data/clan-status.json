@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T18:45:49.118Z",
+  "generatedAt": "2026-05-31T20:14:58.847Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,22 @@
       "title": "Fuoriclasse",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e452c62485491a02fbc0e36f06d301d2.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1780253104000,
-      "lastActivityTimestamp": 1780244261000,
-      "lastActivityText": "Misure disperate: Maestro il 31/05/2026 16:17",
+      "lastPlayedTimestamp": 1780258416000,
+      "lastActivityTimestamp": 1780257622000,
+      "lastActivityText": "Competitiva: Con matchmaking il 31/05/2026 20:00",
       "activities": [
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-05-31T20:00:22Z"
+        },
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-05-31T19:02:49Z"
+        },
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-05-31T18:18:33Z"
+        },
         {
           "name": "Misure disperate: Maestro",
           "period": "2026-05-31T16:17:41Z"
@@ -44,18 +56,61 @@
         {
           "name": "Ora zero (esperto): Esperto",
           "period": "2026-05-20T11:05:25Z"
+        }
+      ]
+    },
+    {
+      "displayName": "ClaudeFj#8206",
+      "membershipId": "4611686018522886434",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/72e35d429f3e159af545b52f4677a910.jpg",
+      "powerLevel": 350,
+      "lastPlayedTimestamp": 1780258493000,
+      "lastActivityTimestamp": 1780256611000,
+      "lastActivityText": "IL DESTINO DI CAYDE il 31/05/2026 19:43",
+      "activities": [
+        {
+          "name": "IL DESTINO DI CAYDE",
+          "period": "2026-05-31T19:43:31Z"
         },
         {
-          "name": "Ora zero (esperto): Esperto",
-          "period": "2026-05-20T10:48:03Z"
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-05-31T16:02:42Z"
         },
         {
-          "name": "Ora zero (esperto): Esperto",
-          "period": "2026-05-20T10:25:58Z"
+          "name": "La comunione: Normale",
+          "period": "2026-05-31T15:36:15Z"
         },
         {
-          "name": "//nodo.bpss.AVALON//: Personalizzata",
-          "period": "2026-05-20T10:14:32Z"
+          "name": "Gli Spettri: Normale",
+          "period": "2026-05-31T14:59:37Z"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-05-31T14:58:16Z"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-05-31T14:56:40Z"
+        },
+        {
+          "name": "L'investigazione: Normale",
+          "period": "2026-05-31T14:35:31Z"
+        },
+        {
+          "name": "Benvenuti alla Frontiera: Normale",
+          "period": "2026-05-31T14:26:56Z"
+        },
+        {
+          "name": "I sussurri (esperto): Esperto",
+          "period": "2026-05-31T10:51:37Z"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-05-31T10:48:13Z"
         }
       ]
     },
@@ -111,61 +166,6 @@
         {
           "name": "Modalità del mondo: leggendaria: Leggendaria",
           "period": "2026-05-28T18:06:03Z"
-        }
-      ]
-    },
-    {
-      "displayName": "ClaudeFj#8206",
-      "membershipId": "4611686018522886434",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/72e35d429f3e159af545b52f4677a910.jpg",
-      "powerLevel": 349,
-      "lastPlayedTimestamp": 1780244264000,
-      "lastActivityTimestamp": 1780243362000,
-      "lastActivityText": "Volta di Vetro: Standard il 31/05/2026 16:02",
-      "activities": [
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-05-31T16:02:42Z"
-        },
-        {
-          "name": "La comunione: Normale",
-          "period": "2026-05-31T15:36:15Z"
-        },
-        {
-          "name": "Gli Spettri: Normale",
-          "period": "2026-05-31T14:59:37Z"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-05-31T14:58:16Z"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-05-31T14:56:40Z"
-        },
-        {
-          "name": "L'investigazione: Normale",
-          "period": "2026-05-31T14:35:31Z"
-        },
-        {
-          "name": "Benvenuti alla Frontiera: Normale",
-          "period": "2026-05-31T14:26:56Z"
-        },
-        {
-          "name": "I sussurri (esperto): Esperto",
-          "period": "2026-05-31T10:51:37Z"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-05-31T10:48:13Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-31T10:18:32Z"
         }
       ]
     },
