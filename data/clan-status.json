@@ -1,229 +1,9 @@
 {
-  "generatedAt": "2026-06-01T13:13:37.281Z",
+  "generatedAt": "2026-06-01T19:09:15.972Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
-    {
-      "displayName": "ClaudeFj#8206",
-      "membershipId": "4611686018522886434",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/72e35d429f3e159af545b52f4677a910.jpg",
-      "powerLevel": 354,
-      "lastPlayedTimestamp": 1780319077000,
-      "lastActivityTimestamp": 1780318375000,
-      "lastActivityText": "Partita veloce: Normale il 01/06/2026 12:52",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T12:52:55Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T12:39:33Z"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-06-01T11:50:47Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-31T20:15:12Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-31T20:06:12Z"
-        },
-        {
-          "name": "IL DESTINO DI CAYDE",
-          "period": "2026-05-31T19:43:31Z"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-05-31T16:02:42Z"
-        },
-        {
-          "name": "La comunione: Normale",
-          "period": "2026-05-31T15:36:15Z"
-        },
-        {
-          "name": "Gli Spettri: Normale",
-          "period": "2026-05-31T14:59:37Z"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-05-31T14:58:16Z"
-        }
-      ]
-    },
-    {
-      "displayName": "Paltrix94#5760",
-      "membershipId": "4611686018516491359",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
-      "powerLevel": 337,
-      "lastPlayedTimestamp": 1780318941000,
-      "lastActivityTimestamp": 1780318375000,
-      "lastActivityText": "Partita veloce: Normale il 01/06/2026 12:52",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T12:52:55Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T12:39:33Z"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-06-01T11:50:47Z"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-05-31T09:26:19Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-31T09:03:23Z"
-        },
-        {
-          "name": "Trasmigrazione: Normale",
-          "period": "2026-05-30T15:49:01Z"
-        },
-        {
-          "name": "Operazioni dell'Avanguardia",
-          "period": "2026-05-29T15:27:53Z"
-        },
-        {
-          "name": "Operazioni dell'Avanguardia",
-          "period": "2026-05-29T15:13:29Z"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-05-29T09:14:13Z"
-        },
-        {
-          "name": "Sfide dell'Eternità: Standard",
-          "period": "2026-05-29T08:36:46Z"
-        }
-      ]
-    },
-    {
-      "displayName": "Adam#6737",
-      "membershipId": "4611686018489009578",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Fuoriclasse",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e452c62485491a02fbc0e36f06d301d2.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1780319586000,
-      "lastActivityTimestamp": 1780315849000,
-      "lastActivityText": "Partita veloce: Normale il 01/06/2026 12:10",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T12:10:49Z"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-06-01T11:24:27Z"
-        },
-        {
-          "name": "//nodo.bpss.AVALON//: Personalizzata",
-          "period": "2026-06-01T11:19:38Z"
-        },
-        {
-          "name": "Creazione: Personalizzata",
-          "period": "2026-06-01T01:53:51Z"
-        },
-        {
-          "name": "Creazione: Personalizzata",
-          "period": "2026-06-01T01:42:03Z"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-06-01T01:29:03Z"
-        },
-        {
-          "name": "Creazione: Personalizzata",
-          "period": "2026-06-01T01:25:05Z"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-06-01T00:36:29Z"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-05-31T23:39:33Z"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-05-31T22:42:09Z"
-        }
-      ]
-    },
-    {
-      "displayName": "Pdor#2087",
-      "membershipId": "4611686018441724933",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 399,
-      "lastPlayedTimestamp": 1780319332000,
-      "lastActivityTimestamp": 1780313018000,
-      "lastActivityText": "Partita veloce: Normale il 01/06/2026 11:23",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T11:23:38Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-01T10:36:58Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T10:31:56Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T10:09:07Z"
-        },
-        {
-          "name": "La caduta di un Kell: Personalizzata",
-          "period": "2026-06-01T09:54:18Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T09:22:18Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T09:11:50Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T09:00:19Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T08:48:44Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T08:18:34Z"
-        }
-      ]
-    },
     {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
@@ -232,11 +12,23 @@
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 444,
-      "lastPlayedTimestamp": 1780312294000,
-      "lastActivityTimestamp": 1780310218000,
-      "lastActivityText": "Presagio: Personalizzata il 01/06/2026 10:36",
+      "powerLevel": 439,
+      "lastPlayedTimestamp": 1780335693000,
+      "lastActivityTimestamp": 1780332322000,
+      "lastActivityText": "La fine di Crota: Standard il 01/06/2026 16:45",
       "activities": [
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-01T16:45:22Z"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-01T16:41:49Z"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-06-01T14:22:38Z"
+        },
         {
           "name": "Presagio: Personalizzata",
           "period": "2026-06-01T10:36:58Z"
@@ -264,18 +56,281 @@
         {
           "name": "Volta di Vetro: Standard",
           "period": "2026-05-31T16:02:42Z"
+        }
+      ]
+    },
+    {
+      "displayName": "ClaudeFj#8206",
+      "membershipId": "4611686018522886434",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/72e35d429f3e159af545b52f4677a910.jpg",
+      "powerLevel": 357,
+      "lastPlayedTimestamp": 1780334683000,
+      "lastActivityTimestamp": 1780332322000,
+      "lastActivityText": "La fine di Crota: Standard il 01/06/2026 16:45",
+      "activities": [
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-01T16:45:22Z"
         },
         {
-          "name": "La comunione: Normale",
-          "period": "2026-05-31T15:36:15Z"
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-01T16:41:49Z"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-06-01T14:22:38Z"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-05-31T15:03:09Z"
+          "period": "2026-06-01T14:02:26Z"
         },
         {
-          "name": "Gli Spettri: Normale",
-          "period": "2026-05-31T14:59:37Z"
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-01T13:43:35Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-01T13:33:34Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-01T12:52:55Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-01T12:39:33Z"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-06-01T11:50:47Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-05-31T20:15:12Z"
+        }
+      ]
+    },
+    {
+      "displayName": "mattia08pro#6310",
+      "membershipId": "4611686018513701477",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Intrepido",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2eb855942085b3b97fbb31078152abd7.jpg",
+      "powerLevel": 488,
+      "lastPlayedTimestamp": 1780335003000,
+      "lastActivityTimestamp": 1780332322000,
+      "lastActivityText": "La fine di Crota: Standard il 01/06/2026 16:45",
+      "activities": [
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-01T16:45:22Z"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-06-01T14:22:38Z"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-06-01T14:10:42Z"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-05-30T14:30:02Z"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-05-30T14:09:27Z"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-05-23T14:04:36Z"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-05-23T13:40:15Z"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-05-23T13:20:52Z"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-05-23T13:19:31Z"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-05-23T13:04:03Z"
+        }
+      ]
+    },
+    {
+      "displayName": "Paltrix94#5760",
+      "membershipId": "4611686018516491359",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
+      "powerLevel": 340,
+      "lastPlayedTimestamp": 1780333415000,
+      "lastActivityTimestamp": 1780332322000,
+      "lastActivityText": "La fine di Crota: Standard il 01/06/2026 16:45",
+      "activities": [
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-01T16:45:22Z"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-01T16:41:49Z"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-06-01T14:22:38Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-01T14:02:26Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-01T13:43:35Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-01T13:33:34Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-01T12:52:55Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-01T12:39:33Z"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-06-01T11:50:47Z"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-05-31T09:26:19Z"
+        }
+      ]
+    },
+    {
+      "displayName": "Pdor#2087",
+      "membershipId": "4611686018441724933",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 402,
+      "lastPlayedTimestamp": 1780333558000,
+      "lastActivityTimestamp": 1780332322000,
+      "lastActivityText": "La fine di Crota: Standard il 01/06/2026 16:45",
+      "activities": [
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-01T16:45:22Z"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-01T16:41:49Z"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-06-01T14:22:38Z"
+        },
+        {
+          "name": "Benvenuti alla Frontiera: Normale",
+          "period": "2026-06-01T13:50:32Z"
+        },
+        {
+          "name": "Benvenuti alla Frontiera: Normale",
+          "period": "2026-06-01T13:42:39Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-01T11:23:38Z"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-01T10:36:58Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-01T10:31:56Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-01T10:09:07Z"
+        },
+        {
+          "name": "La caduta di un Kell: Personalizzata",
+          "period": "2026-06-01T09:54:18Z"
+        }
+      ]
+    },
+    {
+      "displayName": "Kiauz96#3851",
+      "membershipId": "4611686018428723992",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Impeccabile",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/85c8bdb57b24db910d6b0d9eae1d129f.jpg",
+      "powerLevel": 413,
+      "lastPlayedTimestamp": 1780335955000,
+      "lastActivityTimestamp": 1780323758000,
+      "lastActivityText": "Volta di Vetro: Standard il 01/06/2026 14:22",
+      "activities": [
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-06-01T14:22:38Z"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-01-05T17:18:02Z"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-01-05T16:31:59Z"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-01-04T13:01:21Z"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2025-12-27T14:16:55Z"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2025-12-27T13:56:45Z"
+        },
+        {
+          "name": "Invasione",
+          "period": "2025-12-27T01:28:36Z"
+        },
+        {
+          "name": "Invasione",
+          "period": "2025-12-27T01:27:36Z"
+        },
+        {
+          "name": "Dottrina dilaniata: Normale",
+          "period": "2025-12-22T01:59:20Z"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2025-12-19T18:15:32Z"
         }
       ]
     },
@@ -331,61 +386,6 @@
         {
           "name": "Partita veloce: Normale",
           "period": "2026-05-23T10:00:34Z"
-        }
-      ]
-    },
-    {
-      "displayName": "mattia08pro#6310",
-      "membershipId": "4611686018513701477",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Intrepido",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2eb855942085b3b97fbb31078152abd7.jpg",
-      "powerLevel": 488,
-      "lastPlayedTimestamp": 1780153881000,
-      "lastActivityTimestamp": 1780151402000,
-      "lastActivityText": "Presagio: Personalizzata il 30/05/2026 14:30",
-      "activities": [
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-05-30T14:30:02Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-05-30T14:09:27Z"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-05-23T14:04:36Z"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-05-23T13:40:15Z"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-05-23T13:20:52Z"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-05-23T13:19:31Z"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-05-23T13:04:03Z"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-05-21T18:08:30Z"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-05-21T17:47:04Z"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-05-21T17:27:16Z"
         }
       ]
     },
@@ -496,61 +496,6 @@
         {
           "name": "Poligono di Tiro",
           "period": "2025-10-03T21:03:33Z"
-        }
-      ]
-    },
-    {
-      "displayName": "Kiauz96#3851",
-      "membershipId": "4611686018428723992",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Impeccabile",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/85c8bdb57b24db910d6b0d9eae1d129f.jpg",
-      "powerLevel": 451,
-      "lastPlayedTimestamp": 1768001341000,
-      "lastActivityTimestamp": 1767633482000,
-      "lastActivityText": "Deserto perpetuo: Standard il 05/01/2026 17:18",
-      "activities": [
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-01-05T17:18:02Z"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-01-05T16:31:59Z"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-01-04T13:01:21Z"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2025-12-27T14:16:55Z"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2025-12-27T13:56:45Z"
-        },
-        {
-          "name": "Invasione",
-          "period": "2025-12-27T01:28:36Z"
-        },
-        {
-          "name": "Invasione",
-          "period": "2025-12-27T01:27:36Z"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2025-12-27T01:08:15Z"
-        },
-        {
-          "name": "Dottrina dilaniata: Normale",
-          "period": "2025-12-22T01:59:20Z"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2025-12-19T18:15:32Z"
         }
       ]
     },
