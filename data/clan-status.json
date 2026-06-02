@@ -1,19 +1,74 @@
 {
-  "generatedAt": "2026-06-02T04:38:34.353Z",
+  "generatedAt": "2026-06-02T09:13:11.704Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
+      "displayName": "Pdor#2087",
+      "membershipId": "4611686018441724933",
       "bungieNetMembershipId": "",
       "isOnline": false,
       "className": "Cacciatori",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 399,
+      "lastPlayedTimestamp": 1780391399000,
+      "lastActivityTimestamp": 1780390300000,
+      "lastActivityText": "Eliostasi: Personalizzata il 02/06/2026 08:51",
+      "activities": [
+        {
+          "name": "Eliostasi: Personalizzata",
+          "period": "2026-06-02T08:51:40Z"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-02T08:09:48Z"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-01T22:13:28Z"
+        },
+        {
+          "name": "Benvenuti alla Frontiera: Normale",
+          "period": "2026-06-01T21:16:55Z"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-01T16:45:22Z"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-01T16:41:49Z"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-06-01T14:22:38Z"
+        },
+        {
+          "name": "Benvenuti alla Frontiera: Normale",
+          "period": "2026-06-01T13:50:32Z"
+        },
+        {
+          "name": "Benvenuti alla Frontiera: Normale",
+          "period": "2026-06-01T13:42:39Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-01T11:23:38Z"
+        }
+      ]
+    },
+    {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 439,
-      "lastPlayedTimestamp": 1780359900000,
+      "powerLevel": 444,
+      "lastPlayedTimestamp": 1780391318000,
       "lastActivityTimestamp": 1780352008000,
       "lastActivityText": "La fine di Crota: Standard il 01/06/2026 22:13",
       "activities": [
@@ -221,61 +276,6 @@
         {
           "name": "Partita veloce: Normale",
           "period": "2026-06-01T12:52:55Z"
-        }
-      ]
-    },
-    {
-      "displayName": "Pdor#2087",
-      "membershipId": "4611686018441724933",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 403,
-      "lastPlayedTimestamp": 1780362728000,
-      "lastActivityTimestamp": 1780352008000,
-      "lastActivityText": "La fine di Crota: Standard il 01/06/2026 22:13",
-      "activities": [
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-01T22:13:28Z"
-        },
-        {
-          "name": "Benvenuti alla Frontiera: Normale",
-          "period": "2026-06-01T21:16:55Z"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-01T16:45:22Z"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-01T16:41:49Z"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-06-01T14:22:38Z"
-        },
-        {
-          "name": "Benvenuti alla Frontiera: Normale",
-          "period": "2026-06-01T13:50:32Z"
-        },
-        {
-          "name": "Benvenuti alla Frontiera: Normale",
-          "period": "2026-06-01T13:42:39Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T11:23:38Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-01T10:36:58Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T10:31:56Z"
         }
       ]
     },
