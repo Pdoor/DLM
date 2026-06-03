@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T07:23:11.959Z",
+  "generatedAt": "2026-06-03T12:21:08.793Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,23 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0639521caaebd9bc34338713e66faa6f.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1780471366000,
-      "lastActivityTimestamp": 1780469429000,
-      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 03/06/2026 06:50",
+      "lastPlayedTimestamp": 1780474556000,
+      "lastActivityTimestamp": 1780471976000,
+      "lastActivityText": "Trafficante d'armi: Personalizzata il 03/06/2026 07:32",
       "activities": [
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T07:32:56Z"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-06-03T07:10:50Z"
+        },
         {
           "name": "La Tana dei Diavoli: Con matchmaking",
           "period": "2026-06-03T06:50:29Z"
@@ -48,14 +56,6 @@
         {
           "name": "Schianto dell'Esodo: Personalizzata",
           "period": "2026-06-02T13:56:05Z"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-06-02T12:51:44Z"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-06-02T12:29:22Z"
         }
       ]
     },
@@ -68,7 +68,7 @@
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 448,
-      "lastPlayedTimestamp": 1780418686000,
+      "lastPlayedTimestamp": 1780487434000,
       "lastActivityTimestamp": 1780418160000,
       "lastActivityText": "Conservazione il 02/06/2026 16:36",
       "activities": [
