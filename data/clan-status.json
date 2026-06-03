@@ -1,9 +1,64 @@
 {
-  "generatedAt": "2026-06-03T20:39:59.652Z",
+  "generatedAt": "2026-06-03T23:07:16.447Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 451,
+      "lastPlayedTimestamp": 1780521725000,
+      "lastActivityTimestamp": 1780521082000,
+      "lastActivityText": "Equilibrio: Standard il 03/06/2026 21:11",
+      "activities": [
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-06-03T21:11:22Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-03T16:35:46Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T16:20:42Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T16:03:38Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:45:45Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:41:20Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:34:39Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:32:37Z"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-06-02T16:36:00Z"
+        },
+        {
+          "name": "IL DESTINO DI CAYDE",
+          "period": "2026-06-02T15:00:06Z"
+        }
+      ]
+    },
     {
       "displayName": "AloAlive#1900",
       "membershipId": "4611686018532199711",
@@ -111,61 +166,6 @@
         {
           "name": "Schianto dell'Esodo: Personalizzata",
           "period": "2026-05-27T17:29:32Z"
-        }
-      ]
-    },
-    {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 451,
-      "lastPlayedTimestamp": 1780514708000,
-      "lastActivityTimestamp": 1780504546000,
-      "lastActivityText": "Partita veloce: Normale il 03/06/2026 16:35",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-03T16:35:46Z"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-06-03T16:20:42Z"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-06-03T16:03:38Z"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-06-03T15:45:45Z"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-06-03T15:41:20Z"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-06-03T15:34:39Z"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-06-03T15:32:37Z"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-06-02T16:36:00Z"
-        },
-        {
-          "name": "IL DESTINO DI CAYDE",
-          "period": "2026-06-02T15:00:06Z"
-        },
-        {
-          "name": "IL DESTINO DI CAYDE",
-          "period": "2026-06-02T14:58:48Z"
         }
       ]
     },
