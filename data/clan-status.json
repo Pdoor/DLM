@@ -1,77 +1,50 @@
 {
-  "generatedAt": "2026-06-03T12:21:08.793Z",
+  "generatedAt": "2026-06-03T17:28:15.511Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0639521caaebd9bc34338713e66faa6f.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1780474556000,
-      "lastActivityTimestamp": 1780471976000,
-      "lastActivityText": "Trafficante d'armi: Personalizzata il 03/06/2026 07:32",
-      "activities": [
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-06-03T07:32:56Z"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-06-03T07:10:50Z"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-06-03T06:50:29Z"
-        },
-        {
-          "name": "Spira: Con matchmaking",
-          "period": "2026-06-02T15:54:24Z"
-        },
-        {
-          "name": "Spira: Con matchmaking",
-          "period": "2026-06-02T15:50:12Z"
-        },
-        {
-          "name": "La Guerriera: Personalizzata",
-          "period": "2026-06-02T15:35:31Z"
-        },
-        {
-          "name": "La Guerriera: Personalizzata",
-          "period": "2026-06-02T15:27:49Z"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-06-02T15:07:37Z"
-        },
-        {
-          "name": "Cala la Notte: Maestro",
-          "period": "2026-06-02T14:28:26Z"
-        },
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-06-02T13:56:05Z"
-        }
-      ]
-    },
-    {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 448,
-      "lastPlayedTimestamp": 1780487434000,
-      "lastActivityTimestamp": 1780418160000,
-      "lastActivityText": "Conservazione il 02/06/2026 16:36",
+      "powerLevel": 451,
+      "lastPlayedTimestamp": 1780506885000,
+      "lastActivityTimestamp": 1780504546000,
+      "lastActivityText": "Partita veloce: Normale il 03/06/2026 16:35",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-03T16:35:46Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T16:20:42Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T16:03:38Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:45:45Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:41:20Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:34:39Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:32:37Z"
+        },
         {
           "name": "Conservazione",
           "period": "2026-06-02T16:36:00Z"
@@ -83,34 +56,6 @@
         {
           "name": "IL DESTINO DI CAYDE",
           "period": "2026-06-02T14:58:48Z"
-        },
-        {
-          "name": "IL DESTINO DI CAYDE",
-          "period": "2026-06-02T14:57:27Z"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-02T11:12:35Z"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-02T11:10:13Z"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-01T22:13:28Z"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-01T16:45:22Z"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-01T16:41:49Z"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-06-01T14:22:38Z"
         }
       ]
     },
@@ -122,11 +67,43 @@
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2ed1b242dfe561f58655b6f311751a86.jpg",
-      "powerLevel": 356,
-      "lastPlayedTimestamp": 1780414670000,
-      "lastActivityTimestamp": 1780412406000,
-      "lastActivityText": "IL DESTINO DI CAYDE il 02/06/2026 15:00",
+      "powerLevel": 359,
+      "lastPlayedTimestamp": 1780505387000,
+      "lastActivityTimestamp": 1780504546000,
+      "lastActivityText": "Partita veloce: Normale il 03/06/2026 16:35",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-03T16:35:46Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T16:27:26Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T16:20:42Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T16:03:38Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:45:45Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:41:20Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:34:39Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:32:37Z"
+        },
         {
           "name": "IL DESTINO DI CAYDE",
           "period": "2026-06-02T15:00:06Z"
@@ -134,38 +111,61 @@
         {
           "name": "IL DESTINO DI CAYDE",
           "period": "2026-06-02T14:58:48Z"
-        },
-        {
-          "name": "IL DESTINO DI CAYDE",
-          "period": "2026-06-02T14:57:27Z"
-        },
+        }
+      ]
+    },
+    {
+      "displayName": "Paltrix94#5760",
+      "membershipId": "4611686018516491359",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
+      "powerLevel": 342,
+      "lastPlayedTimestamp": 1780505391000,
+      "lastActivityTimestamp": 1780504546000,
+      "lastActivityText": "Partita veloce: Normale il 03/06/2026 16:35",
+      "activities": [
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-02T13:00:45Z"
+          "period": "2026-06-03T16:35:46Z"
         },
         {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T19:42:25Z"
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T16:27:26Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T16:20:42Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T16:03:38Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:45:45Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:41:20Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:34:39Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:32:37Z"
         },
         {
           "name": "La fine di Crota: Standard",
-          "period": "2026-06-01T16:45:22Z"
+          "period": "2026-06-01T22:13:28Z"
         },
         {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-01T16:41:49Z"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-06-01T14:22:38Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T14:02:26Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T13:43:35Z"
+          "name": "La Città Sognante",
+          "period": "2026-06-01T22:13:22Z"
         }
       ]
     },
@@ -177,11 +177,15 @@
       "className": "Titani",
       "title": "Impeccabile",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/85c8bdb57b24db910d6b0d9eae1d129f.jpg",
-      "powerLevel": 465,
-      "lastPlayedTimestamp": 1780416202000,
-      "lastActivityTimestamp": 1780412406000,
-      "lastActivityText": "IL DESTINO DI CAYDE il 02/06/2026 15:00",
+      "powerLevel": 464,
+      "lastPlayedTimestamp": 1780504205000,
+      "lastActivityTimestamp": 1780504046000,
+      "lastActivityText": "Trafficante d'armi: Personalizzata il 03/06/2026 16:27",
       "activities": [
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T16:27:26Z"
+        },
         {
           "name": "IL DESTINO DI CAYDE",
           "period": "2026-06-02T15:00:06Z"
@@ -217,10 +221,116 @@
         {
           "name": "Pallido Cuore",
           "period": "2026-06-02T11:12:35Z"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b98115713999de65cac82a37b83a2815.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1780506907000,
+      "lastActivityTimestamp": 1780502694000,
+      "lastActivityText": "Trafficante d'armi: Personalizzata il 03/06/2026 16:04",
+      "activities": [
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T16:04:54Z"
         },
         {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-06-01T14:22:38Z"
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-06-03T15:48:25Z"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-06-03T15:17:37Z"
+        },
+        {
+          "name": "Spirale invertita: Con matchmaking",
+          "period": "2026-06-03T13:17:54Z"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-05-28T17:44:36Z"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-05-28T17:22:44Z"
+        },
+        {
+          "name": "Caccia all'incubo: follia: Maestro",
+          "period": "2026-05-28T17:11:48Z"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-05-27T17:39:59Z"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-05-27T17:29:32Z"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-05-27T15:52:48Z"
+        }
+      ]
+    },
+    {
+      "displayName": "AloAlive#1900",
+      "membershipId": "4611686018532199711",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6ba69610e621b042b70caa39105b937b.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1780504385000,
+      "lastActivityTimestamp": 1780482986000,
+      "lastActivityText": "Campi di battaglia: Appiglio: Con matchmaking il 03/06/2026 10:36",
+      "activities": [
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-06-03T10:36:26Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T08:16:07Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T07:57:02Z"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-06-02T10:54:52Z"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-06-02T10:18:10Z"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-05-15T16:23:39Z"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-05-15T16:22:12Z"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-05-15T16:02:30Z"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-05-15T15:50:21Z"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-05-15T15:09:21Z"
         }
       ]
     },
@@ -232,8 +342,8 @@
       "className": "Cacciatori",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 392,
-      "lastPlayedTimestamp": 1780391399000,
+      "powerLevel": 404,
+      "lastPlayedTimestamp": 1780505095000,
       "lastActivityTimestamp": 1780391150000,
       "lastActivityText": "Incubo di Gahlran: Personalizzata il 02/06/2026 09:05",
       "activities": [
@@ -386,61 +496,6 @@
         {
           "name": "Destino diadico",
           "period": "2026-05-23T13:40:15Z"
-        }
-      ]
-    },
-    {
-      "displayName": "Paltrix94#5760",
-      "membershipId": "4611686018516491359",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
-      "powerLevel": 340,
-      "lastPlayedTimestamp": 1780359900000,
-      "lastActivityTimestamp": 1780352008000,
-      "lastActivityText": "La fine di Crota: Standard il 01/06/2026 22:13",
-      "activities": [
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-01T22:13:28Z"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-06-01T22:13:22Z"
-        },
-        {
-          "name": "Il trono infranto",
-          "period": "2026-06-01T21:36:18Z"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-01T16:45:22Z"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-01T16:41:49Z"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-06-01T14:22:38Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T14:02:26Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T13:43:35Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T13:33:34Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-01T12:52:55Z"
         }
       ]
     },
