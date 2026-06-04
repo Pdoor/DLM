@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T10:48:38.788Z",
+  "generatedAt": "2026-06-04T14:06:56.286Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,27 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/fc8a4349dc04777c474ec140c7b66d9e.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1780569057000,
-      "lastActivityTimestamp": 1780566452000,
-      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking il 04/06/2026 09:47",
+      "lastPlayedTimestamp": 1780581460000,
+      "lastActivityTimestamp": 1780580316000,
+      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 04/06/2026 13:38",
       "activities": [
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-06-04T13:38:36Z"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-06-04T13:09:21Z"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-06-04T10:52:15Z"
+        },
         {
           "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
           "period": "2026-06-04T09:47:32Z"
@@ -44,18 +56,6 @@
         {
           "name": "Corrente dell'iper-rete: Con matchmaking",
           "period": "2026-06-01T05:04:19Z"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-06-01T04:45:14Z"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-05-31T16:57:51Z"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-05-31T16:28:18Z"
         }
       ]
     },
@@ -63,12 +63,12 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 452,
-      "lastPlayedTimestamp": 1780569919000,
+      "powerLevel": 453,
+      "lastPlayedTimestamp": 1780573223000,
       "lastActivityTimestamp": 1780521082000,
       "lastActivityText": "Equilibrio: Standard il 03/06/2026 21:11",
       "activities": [
@@ -118,12 +118,12 @@
       "displayName": "AloAlive#1900",
       "membershipId": "4611686018532199711",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Pasticcere stellare",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/38f204eb25ac88463cf9b7f50312f82a.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1780569900000,
+      "lastPlayedTimestamp": 1780575838000,
       "lastActivityTimestamp": 1780511784000,
       "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking il 03/06/2026 18:36",
       "activities": [
