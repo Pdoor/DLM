@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T20:11:12.355Z",
+  "generatedAt": "2026-06-04T22:05:46.638Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,19 @@
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2ed1b242dfe561f58655b6f311751a86.jpg",
-      "powerLevel": 369,
-      "lastPlayedTimestamp": 1780596389000,
-      "lastActivityTimestamp": 1780593355000,
-      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 04/06/2026 17:15",
+      "powerLevel": 368,
+      "lastPlayedTimestamp": 1780609241000,
+      "lastActivityTimestamp": 1780608611000,
+      "lastActivityText": "Partita veloce: Normale il 04/06/2026 21:30",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-04T21:30:11Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-04T21:05:19Z"
+        },
         {
           "name": "La Tana dei Diavoli: Con matchmaking",
           "period": "2026-06-04T17:15:55Z"
@@ -48,14 +56,61 @@
         {
           "name": "Partita veloce: Normale",
           "period": "2026-06-04T14:57:54Z"
+        }
+      ]
+    },
+    {
+      "displayName": "cRoTator#5820",
+      "membershipId": "4611686018504020156",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b531d829e55b6f13555e8cae172dc0b3.jpg",
+      "powerLevel": 274,
+      "lastPlayedTimestamp": 1780607232000,
+      "lastActivityTimestamp": 1780606783000,
+      "lastActivityText": "Pallido Cuore il 04/06/2026 20:59",
+      "activities": [
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-06-04T20:59:43Z"
+        },
+        {
+          "name": "Regine - Parte II",
+          "period": "2026-06-04T20:44:12Z"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-06-04T20:43:08Z"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-03T16:35:46Z"
+          "period": "2026-06-04T20:39:04Z"
         },
         {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-06-03T16:27:26Z"
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-04T20:27:15Z"
+        },
+        {
+          "name": "Impero: Audace",
+          "period": "2026-02-22T07:25:21Z"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2025-08-15T22:31:37Z"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2025-08-10T19:45:43Z"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2025-08-03T13:51:10Z"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2025-08-02T17:09:04Z"
         }
       ]
     },
@@ -551,61 +606,6 @@
         {
           "name": "Poligono di Tiro",
           "period": "2025-10-03T21:03:33Z"
-        }
-      ]
-    },
-    {
-      "displayName": "cRoTator#5820",
-      "membershipId": "4611686018504020156",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b531d829e55b6f13555e8cae172dc0b3.jpg",
-      "powerLevel": 202,
-      "lastPlayedTimestamp": 1780603835000,
-      "lastActivityTimestamp": 1771745121000,
-      "lastActivityText": "Impero: Audace il 22/02/2026 07:25",
-      "activities": [
-        {
-          "name": "Impero: Audace",
-          "period": "2026-02-22T07:25:21Z"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2025-08-15T22:31:37Z"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2025-08-10T19:45:43Z"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2025-08-03T13:51:10Z"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2025-08-02T17:09:04Z"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2025-07-25T20:11:26Z"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2024-11-06T11:11:39Z"
-        },
-        {
-          "name": "A testa bassa: Normale",
-          "period": "2024-10-12T19:18:00Z"
-        },
-        {
-          "name": "A testa bassa: Normale",
-          "period": "2024-10-12T19:01:22Z"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2024-10-12T18:57:06Z"
         }
       ]
     }
