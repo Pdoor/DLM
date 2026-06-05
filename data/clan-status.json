@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T14:51:25.025Z",
+  "generatedAt": "2026-06-05T14:57:52.407Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,7 +13,7 @@
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0639521caaebd9bc34338713e66faa6f.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1780669684000,
+      "lastPlayedTimestamp": 1780671424000,
       "lastActivityTimestamp": 1780653570000,
       "lastActivityText": "La Città Sognante il 05/06/2026 09:59",
       "activities": [
@@ -123,7 +123,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2ed1b242dfe561f58655b6f311751a86.jpg",
       "powerLevel": 368,
-      "lastPlayedTimestamp": 1780670082000,
+      "lastPlayedTimestamp": 1780671423000,
       "lastActivityTimestamp": 1780608611000,
       "lastActivityText": "Partita veloce: Normale il 04/06/2026 21:30",
       "activities": [
@@ -225,6 +225,61 @@
       ]
     },
     {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 453,
+      "lastPlayedTimestamp": 1780671424000,
+      "lastActivityTimestamp": 1780521082000,
+      "lastActivityText": "Equilibrio: Standard il 03/06/2026 21:11",
+      "activities": [
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-06-03T21:11:22Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-03T16:35:46Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T16:20:42Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T16:03:38Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:45:45Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:41:20Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:34:39Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:32:37Z"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-06-02T16:36:00Z"
+        },
+        {
+          "name": "IL DESTINO DI CAYDE",
+          "period": "2026-06-02T15:00:06Z"
+        }
+      ]
+    },
+    {
       "displayName": "Paltrix94#5760",
       "membershipId": "4611686018516491359",
       "bungieNetMembershipId": "",
@@ -233,7 +288,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
       "powerLevel": 342,
-      "lastPlayedTimestamp": 1780670632000,
+      "lastPlayedTimestamp": 1780671424000,
       "lastActivityTimestamp": 1780504546000,
       "lastActivityText": "Partita veloce: Normale il 03/06/2026 16:35",
       "activities": [
@@ -287,8 +342,8 @@
       "className": "Titani",
       "title": "Impeccabile",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/85c8bdb57b24db910d6b0d9eae1d129f.jpg",
-      "powerLevel": 464,
-      "lastPlayedTimestamp": 1780670731000,
+      "powerLevel": 461,
+      "lastPlayedTimestamp": 1780671424000,
       "lastActivityTimestamp": 1780504046000,
       "lastActivityText": "Trafficante d'armi: Personalizzata il 03/06/2026 16:27",
       "activities": [
@@ -606,61 +661,6 @@
         {
           "name": "Poligono di Tiro",
           "period": "2025-10-03T21:03:33Z"
-        }
-      ]
-    },
-    {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Tecnosimbionte",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 174,
-      "lastPlayedTimestamp": 1780669916000,
-      "lastActivityTimestamp": 1765268662000,
-      "lastActivityText": "Impero: Leggendaria il 09/12/2025 08:24",
-      "activities": [
-        {
-          "name": "Impero: Leggendaria",
-          "period": "2025-12-09T08:24:22Z"
-        },
-        {
-          "name": "Rito dei Nove",
-          "period": "2025-07-14T10:07:39Z"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2025-06-24T14:47:13Z"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2025-06-15T16:05:28Z"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2025-06-15T14:56:38Z"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2025-06-09T21:36:31Z"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2025-06-09T21:13:30Z"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2025-06-09T20:59:27Z"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2025-05-30T19:48:03Z"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2025-05-30T12:30:57Z"
         }
       ]
     }
