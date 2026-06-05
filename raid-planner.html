@@ -369,6 +369,10 @@
             background: rgba(0, 0, 0, .18);
         }
 
+        .clan-picker + .clan-picker {
+            margin-top: 10px;
+        }
+
         .clan-picker-head {
             display: flex;
             align-items: center;
@@ -419,6 +423,10 @@
         .clan-member-option span {
             min-width: 0;
             overflow-wrap: anywhere;
+        }
+
+        .participants.reserve-list {
+            color: rgba(255, 204, 0, .78);
         }
 
         .error {
@@ -600,10 +608,19 @@
                         <label>Membri clan da aggiungere</label>
                         <div class="clan-picker">
                             <div class="clan-picker-head">
-                                <span>Il creatore viene aggiunto automaticamente. Puoi prenotare posti per altri membri del clan.</span>
+                                <span>Roster principale: il creatore viene aggiunto automaticamente. Puoi prenotare posti per altri membri del clan.</span>
                                 <span class="clan-picker-count" id="clanPickerCount">0 selezionati</span>
                             </div>
                             <div class="clan-member-grid" id="clanMemberGrid">
+                                <div class="notice">Caricamento membri clan...</div>
+                            </div>
+                        </div>
+                        <div class="clan-picker">
+                            <div class="clan-picker-head">
+                                <span>Riserve: non occupano posti nel roster principale, ma restano visibili nella scheda raid.</span>
+                                <span class="clan-picker-count" id="reservePickerCount">0 riserve</span>
+                            </div>
+                            <div class="clan-member-grid" id="reserveMemberGrid">
                                 <div class="notice">Caricamento membri clan...</div>
                             </div>
                         </div>
@@ -638,6 +655,7 @@
         let events = [];
         let clanMembers = [];
         let selectedClanMemberIds = new Set();
+        let selectedReserveMemberIds = new Set();
         let loading = false;
 
         const elements = {
@@ -661,6 +679,8 @@
             descriptionInput: document.getElementById('descriptionInput'),
             clanMemberGrid: document.getElementById('clanMemberGrid'),
             clanPickerCount: document.getElementById('clanPickerCount'),
+            reserveMemberGrid: document.getElementById('reserveMemberGrid'),
+            reservePickerCount: document.getElementById('reservePickerCount'),
             createButton: document.getElementById('createButton'),
             formNotice: document.getElementById('formNotice'),
             authModal: document.getElementById('authModal'),
@@ -757,7 +777,8 @@
                 durationMinutes: Number(elements.durationInput.value),
                 maxPlayers: Number(elements.maxPlayersInput.value),
                 description: elements.descriptionInput.value,
-                clanMembers: getSelectedClanMembers()
+                clanMembers: getSelectedClanMembers(selectedClanMemberIds),
+                reserveMembers: getSelectedClanMembers(selectedReserveMemberIds)
             };
 
             elements.createButton.disabled = true;
@@ -770,6 +791,7 @@
                 if (!response.ok) throw new Error(await readErrorMessage(response) || 'Creazione evento non riuscita.');
                 elements.eventForm.reset();
                 selectedClanMemberIds.clear();
+                selectedReserveMemberIds.clear();
                 setDefaultFormDate();
                 renderClanMemberPicker();
                 elements.formNotice.textContent = 'Proposta raid creata.';
@@ -851,21 +873,25 @@
         }
 
         function createRaidCard(raidEvent) {
-            const participants = raidEvent.participants || [];
+            const allParticipants = raidEvent.participants || [];
+            const participants = allParticipants.filter((participant) => participant.participantType !== 'reserve');
+            const reserves = allParticipants.filter((participant) => participant.participantType === 'reserve');
             const userId = getUserId();
-            const joined = Boolean(raidEvent.viewerJoined || (userId && participants.some((participant) => participant.userId === userId)));
+            const joined = Boolean(raidEvent.viewerJoined || (userId && allParticipants.some((participant) => participant.userId === userId)));
             const full = participants.length >= raidEvent.maxPlayers;
             const card = document.createElement('div');
             card.className = 'raid-card';
 
             const startsAt = new Date(raidEvent.startsAt);
             const participantNames = participants.map((participant) => participant.displayName).join(', ');
+            const reserveNames = reserves.map((participant) => participant.displayName).join(', ');
             card.innerHTML = `
                 <div class="raid-time">${formatTime(startsAt)} · ${raidEvent.durationMinutes} min</div>
                 <div class="raid-title">${escapeHtml(raidEvent.title)}</div>
                 <div class="raid-meta">${escapeHtml(raidEvent.activity)} · proposto da ${escapeHtml(raidEvent.creatorName)}</div>
                 ${raidEvent.description ? `<div class="raid-description">${escapeHtml(raidEvent.description)}</div>` : ''}
-                <div class="participants">${participantNames ? escapeHtml(participantNames) : 'Nessun partecipante'}</div>
+                <div class="participants">Roster: ${participantNames ? escapeHtml(participantNames) : 'nessun partecipante'}</div>
+                ${reserveNames ? `<div class="participants reserve-list">Riserve: ${escapeHtml(reserveNames)}</div>` : ''}
             `;
 
             const seatRow = document.createElement('div');
@@ -899,16 +925,36 @@
             const maxSelectable = getMaxClanSelections();
             const selectedCount = selectedClanMemberIds.size;
             elements.clanPickerCount.textContent = `${selectedCount}/${maxSelectable} selezionati`;
+            elements.reservePickerCount.textContent = `${selectedReserveMemberIds.size} riserve`;
 
             if (!clanMembers.length) {
                 elements.clanMemberGrid.innerHTML = '<div class="notice">Nessun membro clan disponibile.</div>';
+                elements.reserveMemberGrid.innerHTML = '<div class="notice">Nessun membro clan disponibile.</div>';
                 return;
             }
 
-            elements.clanMemberGrid.innerHTML = '';
+            renderMemberGrid({
+                container: elements.clanMemberGrid,
+                selectedSet: selectedClanMemberIds,
+                disabledSet: selectedReserveMemberIds,
+                disableWhenFull: true
+            });
+            renderMemberGrid({
+                container: elements.reserveMemberGrid,
+                selectedSet: selectedReserveMemberIds,
+                disabledSet: selectedClanMemberIds,
+                disableWhenFull: false
+            });
+        }
+
+        function renderMemberGrid({ container, selectedSet, disabledSet, disableWhenFull }) {
+            const maxSelectable = getMaxClanSelections();
+            const selectedCount = selectedClanMemberIds.size;
+            container.innerHTML = '';
             clanMembers.forEach((member) => {
-                const checked = selectedClanMemberIds.has(member.membershipId);
-                const disabled = !checked && selectedCount >= maxSelectable;
+                const checked = selectedSet.has(member.membershipId);
+                const disabled = disabledSet.has(member.membershipId)
+                    || (disableWhenFull && !checked && selectedCount >= maxSelectable);
                 const label = document.createElement('label');
                 label.className = 'clan-member-option';
 
@@ -918,9 +964,10 @@
                 input.disabled = disabled;
                 input.addEventListener('change', () => {
                     if (input.checked) {
-                        selectedClanMemberIds.add(member.membershipId);
+                        selectedSet.add(member.membershipId);
+                        disabledSet.delete(member.membershipId);
                     } else {
-                        selectedClanMemberIds.delete(member.membershipId);
+                        selectedSet.delete(member.membershipId);
                     }
                     enforceClanSelectionLimit();
                 });
@@ -928,7 +975,7 @@
                 const name = document.createElement('span');
                 name.textContent = member.displayName;
                 label.append(input, name);
-                elements.clanMemberGrid.appendChild(label);
+                container.appendChild(label);
             });
         }
 
@@ -937,6 +984,7 @@
             if (selectedClanMemberIds.size > maxSelectable) {
                 selectedClanMemberIds = new Set([...selectedClanMemberIds].slice(0, maxSelectable));
             }
+            selectedClanMemberIds.forEach((membershipId) => selectedReserveMemberIds.delete(membershipId));
             renderClanMemberPicker();
         }
 
@@ -944,9 +992,9 @@
             return Math.max(0, Number(elements.maxPlayersInput.value || 6) - 1);
         }
 
-        function getSelectedClanMembers() {
+        function getSelectedClanMembers(selectedSet) {
             return clanMembers
-                .filter((member) => selectedClanMemberIds.has(member.membershipId))
+                .filter((member) => selectedSet.has(member.membershipId))
                 .map((member) => ({
                     membershipId: member.membershipId,
                     displayName: member.displayName

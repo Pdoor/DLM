@@ -273,11 +273,15 @@ async function handleCreateRaidEvent(request, env) {
   const profile = await getPlannerUserProfile(env, user);
   const event = normalizeRaidEventInput(body, user, profile);
   const selectedMembers = normalizePlannerClanMembers(body.clanMembers, profile, event.maxPlayers - 1);
+  const selectedReserves = normalizePlannerClanMembers(body.reserveMembers, profile, 12, selectedMembers);
 
   await saveRaidEvent(env, event);
   await saveRaidParticipant(env, event.eventId, createAuthRaidParticipant(user, profile, user.userId));
   for (const member of selectedMembers) {
-    await saveRaidParticipant(env, event.eventId, createClanRaidParticipant(member, user.userId));
+    await saveRaidParticipant(env, event.eventId, createClanRaidParticipant(member, user.userId, 'clan'));
+  }
+  for (const member of selectedReserves) {
+    await saveRaidParticipant(env, event.eventId, createClanRaidParticipant(member, user.userId, 'reserve'));
   }
 
   return corsResponse({
@@ -298,6 +302,13 @@ async function handleCreateRaidEvent(request, env) {
           membershipId: member.membershipId,
           participantType: 'clan',
           joinedAt: event.createdAt
+        })),
+        ...selectedReserves.map((member) => ({
+          userId: `bungie:${member.membershipId}`,
+          displayName: member.displayName,
+          membershipId: member.membershipId,
+          participantType: 'reserve',
+          joinedAt: event.createdAt
         }))
       ]
     }
@@ -313,7 +324,7 @@ async function handleJoinRaidEvent(request, env) {
   if (!event) return corsResponse({ error: 'Evento non trovato' }, env, 404);
 
   const participants = await listRaidParticipants(env, [eventId]);
-  const current = participants.get(eventId) || [];
+  const current = (participants.get(eventId) || []).filter((participant) => participant.participantType !== 'reserve');
   const participantKey = getPlannerParticipantKey(user, profile);
   const alreadyJoined = current.some((participant) => participant.userId === participantKey || participant.userId === user.userId);
   if (!alreadyJoined && current.length >= event.maxPlayers) {
@@ -1107,19 +1118,22 @@ function createAuthRaidParticipant(user, profile, addedByUserId) {
   };
 }
 
-function createClanRaidParticipant(member, addedByUserId) {
+function createClanRaidParticipant(member, addedByUserId, participantType = 'clan') {
   return {
     participantKey: `bungie:${member.membershipId}`,
     displayName: member.displayName,
     membershipId: member.membershipId,
-    participantType: 'clan',
+    participantType,
     addedByUserId
   };
 }
 
-function normalizePlannerClanMembers(value, profile, maxMembers) {
+function normalizePlannerClanMembers(value, profile, maxMembers, extraExcludedMembers = []) {
   const members = Array.isArray(value) ? value : [];
-  const seen = new Set([String(profile.membershipId || '')].filter(Boolean));
+  const seen = new Set([
+    String(profile.membershipId || ''),
+    ...extraExcludedMembers.map((member) => String(member.membershipId || ''))
+  ].filter(Boolean));
   const normalized = [];
 
   for (const member of members) {
