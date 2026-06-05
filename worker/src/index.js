@@ -279,7 +279,7 @@ async function handleRaidEvents(request, env) {
 }
 
 async function handleCreateRaidEvent(request, env) {
-  const body = await request.json();
+  const body = await readJsonBody(request);
   const user = await requirePlannerUser(env, body.userId);
   const profile = await getPlannerUserProfile(env, user);
   const event = normalizeRaidEventInput(body, user, profile);
@@ -318,7 +318,7 @@ async function handleCreateRaidEvent(request, env) {
 
 async function handleUpdateRaidEvent(request, env) {
   const eventId = getEventIdFromPath(new URL(request.url).pathname);
-  const body = await request.json();
+  const body = await readJsonBody(request);
   const user = await requirePlannerUser(env, body.userId);
   const existing = await getRaidEvent(env, eventId);
   if (!existing) return corsResponse({ error: 'Evento non trovato' }, env, 404);
@@ -351,7 +351,7 @@ async function handleUpdateRaidEvent(request, env) {
 
 async function handleDeleteRaidEvent(request, env) {
   const eventId = getEventIdFromPath(new URL(request.url).pathname);
-  const body = await request.json().catch(() => ({}));
+  const body = await readJsonBody(request);
   const user = await requirePlannerUser(env, body.userId);
   const event = await getRaidEvent(env, eventId);
   if (!event) return corsResponse({ error: 'Evento non trovato' }, env, 404);
@@ -366,7 +366,7 @@ async function handleDeleteRaidEvent(request, env) {
 
 async function handleAddRaidEventMember(request, env) {
   const eventId = getEventIdFromPath(new URL(request.url).pathname);
-  const body = await request.json();
+  const body = await readJsonBody(request);
   const user = await requirePlannerUser(env, body.userId);
   const event = await getRaidEvent(env, eventId);
   if (!event) return corsResponse({ error: 'Evento non trovato' }, env, 404);
@@ -391,7 +391,7 @@ async function handleAddRaidEventMember(request, env) {
 
 async function handleJoinRaidEvent(request, env) {
   const eventId = getEventIdFromPath(new URL(request.url).pathname);
-  const body = await request.json();
+  const body = await readJsonBody(request);
   const user = await requirePlannerUser(env, body.userId);
   const profile = await getPlannerUserProfile(env, user);
   const event = await getRaidEvent(env, eventId);
@@ -408,7 +408,7 @@ async function handleJoinRaidEvent(request, env) {
 
 async function handleLeaveRaidEvent(request, env) {
   const eventId = getEventIdFromPath(new URL(request.url).pathname);
-  const body = await request.json();
+  const body = await readJsonBody(request);
   const user = await requirePlannerUser(env, body.userId);
   const profile = await getPlannerUserProfile(env, user);
   const event = await getRaidEvent(env, eventId);
@@ -1324,6 +1324,15 @@ async function tokenRequest(params) {
   return response.json();
 }
 
+async function readJsonBody(request) {
+  try {
+    const text = await request.text();
+    return text ? JSON.parse(text) : {};
+  } catch {
+    return {};
+  }
+}
+
 async function bungieFetch(path, env, accessToken) {
   const headers = { 'X-API-Key': env.BUNGIE_API_KEY };
   if (accessToken) headers.Authorization = `Bearer ${accessToken}`;
@@ -1836,7 +1845,7 @@ function corsResponse(body, env, status = 200) {
     headers: {
       'Content-Type': 'application/json',
       'Access-Control-Allow-Origin': '*',
-      'Access-Control-Allow-Methods': 'GET,POST,OPTIONS',
+      'Access-Control-Allow-Methods': 'GET,POST,PUT,DELETE,OPTIONS',
       'Access-Control-Allow-Headers': 'Content-Type,x-dlm-admin-secret'
     }
   });

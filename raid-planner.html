@@ -822,8 +822,7 @@
                     : `${WORKER_BASE_URL}/api/raid-events`;
                 const response = await fetch(endpoint, {
                     method: editingEventId ? 'PUT' : 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify(payload)
+                    ...jsonRequestBody(payload)
                 });
                 if (!response.ok) throw new Error(await readErrorMessage(response) || 'Salvataggio evento non riuscito.');
                 const message = editingEventId ? 'Evento aggiornato.' : 'Proposta raid creata.';
@@ -840,6 +839,13 @@
             } finally {
                 elements.createButton.disabled = false;
             }
+        }
+
+        function jsonRequestBody(payload) {
+            return {
+                headers: { 'Content-Type': 'text/plain;charset=UTF-8' },
+                body: JSON.stringify(payload)
+            };
         }
 
         function resetEventForm() {
@@ -863,8 +869,7 @@
             try {
                 const response = await fetch(`${WORKER_BASE_URL}/api/raid-events/${encodeURIComponent(eventId)}/${action}`, {
                     method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ userId })
+                    ...jsonRequestBody({ userId })
                 });
                 if (!response.ok) throw new Error(await readErrorMessage(response) || 'Operazione non riuscita.');
                 await loadEvents();
@@ -1019,8 +1024,7 @@
             try {
                 const response = await fetch(`${WORKER_BASE_URL}/api/raid-events/${encodeURIComponent(eventId)}/add-member`, {
                     method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({
+                    ...jsonRequestBody({
                         userId,
                         member: {
                             membershipId: member.membershipId,
@@ -1076,8 +1080,7 @@
             try {
                 const response = await fetch(`${WORKER_BASE_URL}/api/raid-events/${encodeURIComponent(raidEvent.eventId)}/delete`, {
                     method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ userId })
+                    ...jsonRequestBody({ userId })
                 });
                 if (!response.ok) throw new Error(await readErrorMessage(response) || 'Eliminazione evento non riuscita.');
                 if (editingEventId === raidEvent.eventId) resetEventForm();
