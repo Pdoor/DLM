@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raid Planner - Destiny Lore Masters</title>
+    <link rel="icon" href="dlm.ico" type="image/x-icon">
+    <link rel="manifest" href="manifest.webmanifest">
+    <style>
+        :root {
+            --bg: #151515;
+            --panel: rgba(40, 40, 40, .92);
+            --panel-soft: rgba(255, 255, 255, .06);
+            --line: rgba(255, 255, 255, .12);
+            --text: #fff;
+            --muted: #b7b7b7;
+            --muted-dark: #8e8e8e;
+            --gold: #ffcc00;
+            --green: #00d36f;
+            --red: #ff4444;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            min-height: 100vh;
+            margin: 0;
+            color: var(--text);
+            font-family: Arial, sans-serif;
+            -webkit-text-size-adjust: 100%;
+            background:
+                linear-gradient(rgba(16, 16, 18, .86), rgba(16, 16, 18, .94)),
+                url("DLM.jpg") center top / 70% auto fixed,
+                var(--bg);
+        }
+
+        button,
+        input,
+        select,
+        textarea {
+            font: inherit;
+        }
+
+        button {
+            -webkit-appearance: none;
+            appearance: none;
+        }
+
+        .page {
+            max-width: 1220px;
+            margin: 0 auto;
+            padding: 18px 18px calc(30px + env(safe-area-inset-bottom));
+        }
+
+        .topbar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 14px;
+            margin-bottom: 18px;
+        }
+
+        .brand {
+            display: flex;
+            align-items: center;
+            min-width: 0;
+            gap: 12px;
+        }
+
+        .brand img {
+            width: 58px;
+            height: 58px;
+            flex: 0 0 auto;
+            object-fit: cover;
+            border-radius: 12px;
+            border: 2px solid rgba(255, 204, 0, .45);
+        }
+
+        .eyebrow {
+            margin: 0 0 3px;
+            color: var(--gold);
+            font-size: 11px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 28px;
+            line-height: 1.05;
+            letter-spacing: 0;
+        }
+
+        .top-actions,
+        .week-actions,
+        .form-actions {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .button {
+            min-height: 38px;
+            padding: 9px 12px;
+            border: 1px solid rgba(255, 204, 0, .28);
+            border-radius: 8px;
+            background: rgba(255, 204, 0, .12);
+            color: var(--text);
+            font-size: 13px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .button.secondary {
+            border-color: var(--line);
+            background: rgba(255, 255, 255, .06);
+        }
+
+        .button:disabled {
+            cursor: wait;
+            opacity: .6;
+        }
+
+        .auth-state {
+            color: var(--muted);
+            font-size: 12px;
+        }
+
+        .toolbar {
+            display: grid;
+            grid-template-columns: minmax(0, 1fr) auto;
+            gap: 12px;
+            align-items: center;
+            margin-bottom: 14px;
+            padding: 12px;
+            border: 1px solid var(--line);
+            border-radius: 8px;
+            background: rgba(25, 25, 25, .82);
+            backdrop-filter: blur(8px);
+        }
+
+        .week-title {
+            margin: 0;
+            font-size: 18px;
+            line-height: 1.25;
+        }
+
+        .week-subtitle {
+            margin-top: 3px;
+            color: var(--muted);
+            font-size: 12px;
+            line-height: 1.35;
+        }
+
+        .planner-grid {
+            display: grid;
+            grid-template-columns: repeat(7, minmax(142px, 1fr));
+            gap: 8px;
+            overflow-x: auto;
+            padding-bottom: 8px;
+        }
+
+        .day-column {
+            min-width: 142px;
+            min-height: 340px;
+            border: 1px solid var(--line);
+            border-radius: 8px;
+            background: rgba(30, 30, 30, .86);
+            overflow: hidden;
+        }
+
+        .day-head {
+            padding: 10px;
+            border-bottom: 1px solid var(--line);
+            background: rgba(255, 255, 255, .05);
+        }
+
+        .day-name {
+            display: flex;
+            justify-content: space-between;
+            gap: 8px;
+            color: var(--gold);
+            font-size: 12px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        .day-date {
+            margin-top: 2px;
+            color: var(--muted);
+            font-size: 12px;
+        }
+
+        .day-events {
+            display: grid;
+            gap: 8px;
+            padding: 8px;
+        }
+
+        .empty-day {
+            padding: 18px 8px;
+            color: var(--muted-dark);
+            font-size: 12px;
+            line-height: 1.35;
+            text-align: center;
+        }
+
+        .raid-card {
+            display: grid;
+            gap: 8px;
+            padding: 9px;
+            border: 1px solid rgba(255, 204, 0, .18);
+            border-radius: 8px;
+            background: rgba(0, 0, 0, .22);
+        }
+
+        .raid-time {
+            color: var(--gold);
+            font-size: 13px;
+            font-weight: bold;
+        }
+
+        .raid-title {
+            font-size: 14px;
+            line-height: 1.25;
+            font-weight: bold;
+            overflow-wrap: anywhere;
+        }
+
+        .raid-meta,
+        .raid-description,
+        .participants {
+            color: var(--muted);
+            font-size: 12px;
+            line-height: 1.35;
+            overflow-wrap: anywhere;
+        }
+
+        .raid-description {
+            color: var(--muted-dark);
+        }
+
+        .seat-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 8px;
+        }
+
+        .seats {
+            color: var(--green);
+            font-size: 12px;
+            font-weight: bold;
+        }
+
+        .seats.full {
+            color: var(--red);
+        }
+
+        .join-button {
+            min-height: 32px;
+            padding: 7px 9px;
+            border: 1px solid rgba(255, 255, 255, .16);
+            border-radius: 8px;
+            background: rgba(255, 255, 255, .08);
+            color: var(--text);
+            font-size: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            white-space: nowrap;
+        }
+
+        .join-button.joined {
+            border-color: rgba(0, 211, 111, .45);
+            background: rgba(0, 211, 111, .12);
+        }
+
+        .composer {
+            margin-top: 16px;
+            padding: 14px;
+            border: 1px solid var(--line);
+            border-radius: 8px;
+            background: var(--panel);
+        }
+
+        .composer h2 {
+            margin: 0 0 12px;
+            font-size: 17px;
+        }
+
+        .form-grid {
+            display: grid;
+            grid-template-columns: 1.2fr .9fr .7fr .6fr;
+            gap: 10px;
+        }
+
+        .field {
+            display: grid;
+            gap: 5px;
+            min-width: 0;
+        }
+
+        .field.full {
+            grid-column: 1 / -1;
+        }
+
+        label {
+            color: var(--muted);
+            font-size: 12px;
+            font-weight: bold;
+        }
+
+        input,
+        select,
+        textarea {
+            width: 100%;
+            min-height: 38px;
+            border: 1px solid var(--line);
+            border-radius: 8px;
+            background: rgba(0, 0, 0, .25);
+            color: var(--text);
+            padding: 9px 10px;
+        }
+
+        textarea {
+            min-height: 74px;
+            resize: vertical;
+        }
+
+        .notice {
+            margin-top: 10px;
+            color: var(--muted);
+            font-size: 12px;
+            line-height: 1.35;
+        }
+
+        .error {
+            margin: 18px 0;
+            color: var(--red);
+            text-align: center;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            inset: 0;
+            z-index: 10;
+            align-items: center;
+            justify-content: center;
+            padding: 18px;
+            background: rgba(0, 0, 0, .76);
+        }
+
+        .modal.open {
+            display: flex;
+        }
+
+        .modal-panel {
+            width: min(420px, 100%);
+            padding: 18px;
+            border: 1px solid rgba(255, 204, 0, .24);
+            border-radius: 8px;
+            background: #292929;
+            box-shadow: 0 18px 60px rgba(0, 0, 0, .45);
+        }
+
+        .modal-panel h2 {
+            margin: 0 0 8px;
+            font-size: 20px;
+        }
+
+        .modal-panel p {
+            margin: 0 0 14px;
+            color: var(--muted);
+            line-height: 1.4;
+        }
+
+        @media (max-width: 820px) {
+            .topbar,
+            .toolbar {
+                align-items: flex-start;
+                grid-template-columns: 1fr;
+                flex-direction: column;
+            }
+
+            .form-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+
+        @media (max-width: 560px) {
+            .page {
+                padding: 12px 12px calc(24px + env(safe-area-inset-bottom));
+            }
+
+            h1 {
+                font-size: 23px;
+            }
+
+            .brand img {
+                width: 50px;
+                height: 50px;
+            }
+
+            .top-actions,
+            .week-actions,
+            .form-actions {
+                width: 100%;
+            }
+
+            .button {
+                flex: 1 1 auto;
+            }
+
+            .planner-grid {
+                grid-template-columns: 1fr;
+                overflow-x: visible;
+            }
+
+            .day-column {
+                min-width: 0;
+                min-height: 0;
+            }
+
+            .form-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <main class="page">
+        <header class="topbar">
+            <div class="brand">
+                <img src="dlm.ico" alt="Destiny Lore Masters">
+                <div>
+                    <p class="eyebrow">Destiny Lore Masters</p>
+                    <h1>Raid Planner</h1>
+                </div>
+            </div>
+            <div class="top-actions">
+                <button class="button secondary" type="button" id="homeButton">Home</button>
+                <button class="button secondary" type="button" id="hubButton">Hub Stagionale</button>
+                <button class="button" type="button" id="loginButton">Accedi con Bungie</button>
+                <span class="auth-state" id="authState"></span>
+            </div>
+        </header>
+
+        <section class="toolbar" aria-label="Controlli settimana">
+            <div>
+                <h2 class="week-title" id="weekTitle"></h2>
+                <div class="week-subtitle" id="weekSubtitle"></div>
+            </div>
+            <div class="week-actions">
+                <button class="button secondary" type="button" id="prevWeekButton">Settimana prima</button>
+                <button class="button secondary" type="button" id="todayButton">Questa settimana</button>
+                <button class="button secondary" type="button" id="nextWeekButton">Settimana dopo</button>
+            </div>
+        </section>
+
+        <section class="planner-grid" id="plannerGrid" aria-label="Calendario raid settimanale"></section>
+
+        <section class="composer" aria-label="Proponi raid">
+            <h2>Proponi un raid</h2>
+            <form id="eventForm">
+                <div class="form-grid">
+                    <div class="field">
+                        <label for="titleInput">Titolo</label>
+                        <input id="titleInput" name="title" maxlength="80" required placeholder="Es. King's Fall chill">
+                    </div>
+                    <div class="field">
+                        <label for="activityInput">Attività</label>
+                        <select id="activityInput" name="activity">
+                            <option>Raid</option>
+                            <option>Dungeon</option>
+                            <option>Gran Maestro</option>
+                            <option>Trionfo / Sigillo</option>
+                            <option>Altro</option>
+                        </select>
+                    </div>
+                    <div class="field">
+                        <label for="dateInput">Data</label>
+                        <input id="dateInput" name="date" type="date" required>
+                    </div>
+                    <div class="field">
+                        <label for="timeInput">Ora</label>
+                        <input id="timeInput" name="time" type="time" required>
+                    </div>
+                    <div class="field">
+                        <label for="durationInput">Durata</label>
+                        <select id="durationInput" name="duration">
+                            <option value="90">1h 30m</option>
+                            <option value="120" selected>2h</option>
+                            <option value="150">2h 30m</option>
+                            <option value="180">3h</option>
+                            <option value="240">4h</option>
+                        </select>
+                    </div>
+                    <div class="field">
+                        <label for="maxPlayersInput">Posti</label>
+                        <select id="maxPlayersInput" name="maxPlayers">
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                            <option value="6" selected>6</option>
+                        </select>
+                    </div>
+                    <div class="field full">
+                        <label for="descriptionInput">Note</label>
+                        <textarea id="descriptionInput" name="description" maxlength="280" placeholder="Orario flessibile, richieste, checkpoint, esperienza richiesta..."></textarea>
+                    </div>
+                </div>
+                <div class="form-actions" style="margin-top: 12px;">
+                    <button class="button" type="submit" id="createButton">Crea proposta</button>
+                    <div class="notice" id="formNotice"></div>
+                </div>
+            </form>
+        </section>
+    </main>
+
+    <div class="modal" id="authModal" role="dialog" aria-modal="true" aria-labelledby="authModalTitle">
+        <div class="modal-panel">
+            <h2 id="authModalTitle">Accesso Bungie richiesto</h2>
+            <p>Per creare un evento raid o partecipare devi autenticarti con il tuo profilo Bungie.</p>
+            <div class="form-actions">
+                <button class="button" type="button" id="modalLoginButton">Accedi con Bungie</button>
+                <button class="button secondary" type="button" id="modalCloseButton">Chiudi</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const WORKER_BASE_URL = 'https://dlm-notify.gmeluzzi.workers.dev';
+        const DLM_USER_STORAGE_KEY = 'dlmNotifyUserId';
+        const DAY_NAMES = ['Lunedi', 'Martedi', 'Mercoledi', 'Giovedi', 'Venerdi', 'Sabato', 'Domenica'];
+
+        let weekStart = getMonday(new Date());
+        let events = [];
+        let loading = false;
+
+        const elements = {
+            homeButton: document.getElementById('homeButton'),
+            hubButton: document.getElementById('hubButton'),
+            loginButton: document.getElementById('loginButton'),
+            authState: document.getElementById('authState'),
+            weekTitle: document.getElementById('weekTitle'),
+            weekSubtitle: document.getElementById('weekSubtitle'),
+            prevWeekButton: document.getElementById('prevWeekButton'),
+            todayButton: document.getElementById('todayButton'),
+            nextWeekButton: document.getElementById('nextWeekButton'),
+            plannerGrid: document.getElementById('plannerGrid'),
+            eventForm: document.getElementById('eventForm'),
+            titleInput: document.getElementById('titleInput'),
+            activityInput: document.getElementById('activityInput'),
+            dateInput: document.getElementById('dateInput'),
+            timeInput: document.getElementById('timeInput'),
+            durationInput: document.getElementById('durationInput'),
+            maxPlayersInput: document.getElementById('maxPlayersInput'),
+            descriptionInput: document.getElementById('descriptionInput'),
+            createButton: document.getElementById('createButton'),
+            formNotice: document.getElementById('formNotice'),
+            authModal: document.getElementById('authModal'),
+            modalLoginButton: document.getElementById('modalLoginButton'),
+            modalCloseButton: document.getElementById('modalCloseButton')
+        };
+
+        document.addEventListener('DOMContentLoaded', initialize);
+        elements.homeButton.addEventListener('click', () => window.location.href = 'index.html');
+        elements.hubButton.addEventListener('click', () => window.location.href = 'seasonal-hub.html');
+        elements.loginButton.addEventListener('click', startLogin);
+        elements.modalLoginButton.addEventListener('click', startLogin);
+        elements.modalCloseButton.addEventListener('click', closeAuthModal);
+        elements.authModal.addEventListener('click', (event) => {
+            if (event.target === elements.authModal) closeAuthModal();
+        });
+        elements.prevWeekButton.addEventListener('click', () => moveWeek(-7));
+        elements.todayButton.addEventListener('click', () => {
+            weekStart = getMonday(new Date());
+            loadEvents();
+        });
+        elements.nextWeekButton.addEventListener('click', () => moveWeek(7));
+        elements.eventForm.addEventListener('submit', createEvent);
+
+        function initialize() {
+            captureAuthFromUrl();
+            setDefaultFormDate();
+            renderAuthState();
+            renderWeekFrame();
+            loadEvents();
+        }
+
+        function captureAuthFromUrl() {
+            const url = new URL(window.location.href);
+            const userId = url.searchParams.get('dlmUser');
+            if (userId) {
+                localStorage.setItem(DLM_USER_STORAGE_KEY, userId);
+                url.searchParams.delete('dlmUser');
+                window.history.replaceState({}, document.title, url.toString());
+            }
+        }
+
+        async function loadEvents() {
+            loading = true;
+            renderWeekFrame();
+            try {
+                const response = await fetch(`${WORKER_BASE_URL}/api/raid-events?weekStart=${formatInputDate(weekStart)}&v=${Date.now()}`, {
+                    cache: 'no-store'
+                });
+                if (!response.ok) throw new Error(await readErrorMessage(response) || 'Planner non disponibile.');
+                const data = await response.json();
+                events = data.events || [];
+                elements.formNotice.textContent = '';
+            } catch (error) {
+                elements.plannerGrid.innerHTML = `<div class="error">${escapeHtml(error.message || 'Planner non disponibile.')}</div>`;
+            } finally {
+                loading = false;
+                renderWeekFrame();
+            }
+        }
+
+        async function createEvent(event) {
+            event.preventDefault();
+            const userId = getUserId();
+            if (!userId) {
+                openAuthModal();
+                return;
+            }
+
+            const startsAt = new Date(`${elements.dateInput.value}T${elements.timeInput.value}:00`);
+            const payload = {
+                userId,
+                title: elements.titleInput.value,
+                activity: elements.activityInput.value,
+                startsAt: startsAt.toISOString(),
+                durationMinutes: Number(elements.durationInput.value),
+                maxPlayers: Number(elements.maxPlayersInput.value),
+                description: elements.descriptionInput.value
+            };
+
+            elements.createButton.disabled = true;
+            try {
+                const response = await fetch(`${WORKER_BASE_URL}/api/raid-events`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(payload)
+                });
+                if (!response.ok) throw new Error(await readErrorMessage(response) || 'Creazione evento non riuscita.');
+                elements.eventForm.reset();
+                setDefaultFormDate();
+                elements.formNotice.textContent = 'Proposta raid creata.';
+                await loadEvents();
+            } catch (error) {
+                if (isAuthError(error.message)) {
+                    clearAuth();
+                    openAuthModal();
+                } else {
+                    elements.formNotice.textContent = error.message || 'Creazione evento non riuscita.';
+                }
+            } finally {
+                elements.createButton.disabled = false;
+            }
+        }
+
+        async function toggleParticipation(eventId, joined) {
+            const userId = getUserId();
+            if (!userId) {
+                openAuthModal();
+                return;
+            }
+
+            const action = joined ? 'leave' : 'join';
+            try {
+                const response = await fetch(`${WORKER_BASE_URL}/api/raid-events/${encodeURIComponent(eventId)}/${action}`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ userId })
+                });
+                if (!response.ok) throw new Error(await readErrorMessage(response) || 'Operazione non riuscita.');
+                await loadEvents();
+            } catch (error) {
+                if (isAuthError(error.message)) {
+                    clearAuth();
+                    openAuthModal();
+                } else {
+                    elements.formNotice.textContent = error.message || 'Operazione non riuscita.';
+                }
+            }
+        }
+
+        function renderWeekFrame() {
+            const days = Array.from({ length: 7 }, (_, index) => addDays(weekStart, index));
+            const weekEnd = addDays(weekStart, 6);
+            elements.weekTitle.textContent = `${formatLongDate(weekStart)} - ${formatLongDate(weekEnd)}`;
+            elements.weekSubtitle.textContent = loading
+                ? 'Caricamento proposte raid...'
+                : `${events.length} proposte nella settimana`;
+
+            const grouped = groupEventsByDate(events);
+            elements.plannerGrid.innerHTML = '';
+            days.forEach((day, index) => {
+                const column = document.createElement('article');
+                column.className = 'day-column';
+
+                const head = document.createElement('div');
+                head.className = 'day-head';
+                head.innerHTML = `
+                    <div class="day-name"><span>${DAY_NAMES[index]}</span><span>${isToday(day) ? 'Oggi' : ''}</span></div>
+                    <div class="day-date">${formatShortDate(day)}</div>
+                `;
+
+                const list = document.createElement('div');
+                list.className = 'day-events';
+                const dayEvents = grouped.get(formatInputDate(day)) || [];
+                if (!dayEvents.length) {
+                    const empty = document.createElement('div');
+                    empty.className = 'empty-day';
+                    empty.textContent = loading ? '...' : 'Nessun raid proposto';
+                    list.appendChild(empty);
+                } else {
+                    dayEvents.forEach((raidEvent) => list.appendChild(createRaidCard(raidEvent)));
+                }
+
+                column.append(head, list);
+                elements.plannerGrid.appendChild(column);
+            });
+        }
+
+        function createRaidCard(raidEvent) {
+            const participants = raidEvent.participants || [];
+            const userId = getUserId();
+            const joined = Boolean(userId && participants.some((participant) => participant.userId === userId));
+            const full = participants.length >= raidEvent.maxPlayers;
+            const card = document.createElement('div');
+            card.className = 'raid-card';
+
+            const startsAt = new Date(raidEvent.startsAt);
+            const participantNames = participants.map((participant) => participant.displayName).join(', ');
+            card.innerHTML = `
+                <div class="raid-time">${formatTime(startsAt)} · ${raidEvent.durationMinutes} min</div>
+                <div class="raid-title">${escapeHtml(raidEvent.title)}</div>
+                <div class="raid-meta">${escapeHtml(raidEvent.activity)} · proposto da ${escapeHtml(raidEvent.creatorName)}</div>
+                ${raidEvent.description ? `<div class="raid-description">${escapeHtml(raidEvent.description)}</div>` : ''}
+                <div class="participants">${participantNames ? escapeHtml(participantNames) : 'Nessun partecipante'}</div>
+            `;
+
+            const seatRow = document.createElement('div');
+            seatRow.className = 'seat-row';
+
+            const seats = document.createElement('span');
+            seats.className = `seats ${full ? 'full' : ''}`;
+            seats.textContent = `${participants.length}/${raidEvent.maxPlayers} posti`;
+
+            const button = document.createElement('button');
+            button.className = `join-button ${joined ? 'joined' : ''}`;
+            button.type = 'button';
+            button.textContent = joined ? 'Esci' : (full ? 'Completo' : 'Partecipa');
+            button.disabled = full && !joined;
+            button.addEventListener('click', () => toggleParticipation(raidEvent.eventId, joined));
+
+            seatRow.append(seats, button);
+            card.appendChild(seatRow);
+            return card;
+        }
+
+        function renderAuthState() {
+            const authenticated = Boolean(getUserId());
+            elements.loginButton.textContent = authenticated ? 'Autenticato' : 'Accedi con Bungie';
+            elements.authState.textContent = authenticated
+                ? 'Puoi creare eventi e partecipare.'
+                : 'Visualizzazione libera. Accesso richiesto per creare o partecipare.';
+        }
+
+        function openAuthModal() {
+            elements.authModal.classList.add('open');
+        }
+
+        function closeAuthModal() {
+            elements.authModal.classList.remove('open');
+        }
+
+        function startLogin() {
+            window.location.href = `${WORKER_BASE_URL}/auth/login?returnTo=${encodeURIComponent('raid-planner.html')}`;
+        }
+
+        function clearAuth() {
+            localStorage.removeItem(DLM_USER_STORAGE_KEY);
+            renderAuthState();
+        }
+
+        function getUserId() {
+            return localStorage.getItem(DLM_USER_STORAGE_KEY);
+        }
+
+        function moveWeek(days) {
+            weekStart = addDays(weekStart, days);
+            loadEvents();
+        }
+
+        function setDefaultFormDate() {
+            const now = new Date();
+            const nextHour = new Date(now.getTime() + 60 * 60 * 1000);
+            nextHour.setMinutes(0, 0, 0);
+            elements.dateInput.value = formatInputDate(nextHour);
+            elements.timeInput.value = String(nextHour.getHours()).padStart(2, '0') + ':00';
+            elements.durationInput.value = '120';
+            elements.maxPlayersInput.value = '6';
+        }
+
+        function groupEventsByDate(items) {
+            const map = new Map();
+            items.slice().sort((a, b) => new Date(a.startsAt) - new Date(b.startsAt)).forEach((item) => {
+                const key = formatInputDate(new Date(item.startsAt));
+                if (!map.has(key)) map.set(key, []);
+                map.get(key).push(item);
+            });
+            return map;
+        }
+
+        function getMonday(date) {
+            const next = new Date(date);
+            next.setHours(0, 0, 0, 0);
+            const day = next.getDay() || 7;
+            next.setDate(next.getDate() - day + 1);
+            return next;
+        }
+
+        function addDays(date, days) {
+            const next = new Date(date);
+            next.setDate(next.getDate() + days);
+            return next;
+        }
+
+        function isToday(date) {
+            return formatInputDate(date) === formatInputDate(new Date());
+        }
+
+        function formatInputDate(date) {
+            const year = date.getFullYear();
+            const month = String(date.getMonth() + 1).padStart(2, '0');
+            const day = String(date.getDate()).padStart(2, '0');
+            return `${year}-${month}-${day}`;
+        }
+
+        function formatLongDate(date) {
+            return date.toLocaleDateString('it-IT', { day: '2-digit', month: 'long' });
+        }
+
+        function formatShortDate(date) {
+            return date.toLocaleDateString('it-IT', { day: '2-digit', month: '2-digit' });
+        }
+
+        function formatTime(date) {
+            return date.toLocaleTimeString('it-IT', { hour: '2-digit', minute: '2-digit' });
+        }
+
+        async function readErrorMessage(response) {
+            try {
+                const data = await response.json();
+                return data.error || data.message || '';
+            } catch {
+                return '';
+            }
+        }
+
+        function isAuthError(message) {
+            const normalized = String(message || '').toLowerCase();
+            return normalized.includes('authentication required')
+                || normalized.includes('session expired')
+                || normalized.includes('unknown user');
+        }
+
+        function escapeHtml(value) {
+            return String(value || '')
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#039;');
+        }
+    </script>
+</body>
+</html>

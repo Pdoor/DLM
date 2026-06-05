@@ -41,12 +41,16 @@ export default {
       if (request.method === 'OPTIONS') return corsResponse(null, env);
       if (url.pathname === '/api/config') return await handleConfig(env);
       if (url.pathname === '/api/d3-signatures') return await handleD3Signatures();
-      if (url.pathname === '/auth/login') return await handleLogin(env);
+      if (url.pathname === '/auth/login') return await handleLogin(request, env);
       if (url.pathname === '/auth/callback') return await handleCallback(request, env);
       if (url.pathname === '/api/subscribe' && request.method === 'POST') return await handleSubscribe(request, env);
       if (url.pathname === '/api/clan-presence') return await handleClanPresence(env);
       if (url.pathname === '/api/friends-status') return await handleFriendsStatus(request, env);
       if (url.pathname === '/api/friends-details') return await handleFriendsDetails(request, env);
+      if (url.pathname === '/api/raid-events' && request.method === 'GET') return await handleRaidEvents(request, env);
+      if (url.pathname === '/api/raid-events' && request.method === 'POST') return await handleCreateRaidEvent(request, env);
+      if (url.pathname.match(/^\/api\/raid-events\/[^/]+\/join$/) && request.method === 'POST') return await handleJoinRaidEvent(request, env);
+      if (url.pathname.match(/^\/api\/raid-events\/[^/]+\/leave$/) && request.method === 'POST') return await handleLeaveRaidEvent(request, env);
       if (url.pathname === '/api/debug/friends-shape') return await handleFriendsShapeDebug(request, env);
       if (url.pathname === '/api/seasonal-hub') return await handleSeasonalHub(request, env);
       if (url.pathname === '/api/check-now' && request.method === 'POST') return await handleCheckNow(request, env);
@@ -88,15 +92,16 @@ async function handleD3Signatures() {
   });
 }
 
-async function handleLogin(env) {
+async function handleLogin(request, env) {
   assertEnv(env, ['BUNGIE_CLIENT_ID', 'FRONTEND_URL']);
-  const state = createId();
+  const url = new URL(request.url);
+  const state = createLoginState(url.searchParams.get('returnTo'));
 
-  const url = new URL(BUNGIE_AUTHORIZE_URL);
-  url.searchParams.set('client_id', env.BUNGIE_CLIENT_ID);
-  url.searchParams.set('response_type', 'code');
-  url.searchParams.set('state', state);
-  return Response.redirect(url.toString(), 302);
+  const authorizeUrl = new URL(BUNGIE_AUTHORIZE_URL);
+  authorizeUrl.searchParams.set('client_id', env.BUNGIE_CLIENT_ID);
+  authorizeUrl.searchParams.set('response_type', 'code');
+  authorizeUrl.searchParams.set('state', state);
+  return Response.redirect(authorizeUrl.toString(), 302);
 }
 
 async function handleCallback(request, env) {
@@ -106,7 +111,8 @@ async function handleCallback(request, env) {
   const state = url.searchParams.get('state');
 
   if (!code || !state) return textResponse('Missing code/state', 400);
-  if (state.length < 16) return textResponse('Invalid OAuth state', 400);
+  const loginState = parseLoginState(state);
+  if (!loginState.valid) return textResponse('Invalid OAuth state', 400);
 
   const token = await exchangeCodeForToken(code, env);
   const bungieMembershipId = String(token.membership_id || token.membershipId || createId());
@@ -121,7 +127,7 @@ async function handleCallback(request, env) {
     updatedAt: Date.now()
   });
 
-  const frontendUrl = new URL(env.FRONTEND_URL);
+  const frontendUrl = new URL(loginState.returnTo || '.', env.FRONTEND_URL);
   frontendUrl.searchParams.set('dlmUser', userId);
   return Response.redirect(frontendUrl.toString(), 302);
 }
@@ -139,7 +145,7 @@ function handleWorkerError(request, env, error) {
     }
   }
 
-  const status = message === 'Session expired' ? 401 : 500;
+  const status = message === 'Session expired' || message === 'Authentication required' ? 401 : 500;
   return corsResponse({ error: message }, env, status);
 }
 
@@ -233,6 +239,72 @@ async function handleFriendsDetails(request, env) {
     checkedAt: new Date().toISOString(),
     friends: detailedFriends.filter(Boolean)
   }, env);
+}
+
+async function handleRaidEvents(request, env) {
+  const url = new URL(request.url);
+  const weekStart = parseWeekStart(url.searchParams.get('weekStart'));
+  const weekEnd = new Date(weekStart);
+  weekEnd.setUTCDate(weekEnd.getUTCDate() + 7);
+
+  const events = await listRaidEvents(env, weekStart.toISOString(), weekEnd.toISOString());
+  const participants = events.length
+    ? await listRaidParticipants(env, events.map((event) => event.eventId))
+    : new Map();
+
+  return corsResponse({
+    weekStart: weekStart.toISOString(),
+    weekEnd: weekEnd.toISOString(),
+    events: events.map((event) => ({
+      ...event,
+      participants: participants.get(event.eventId) || []
+    }))
+  }, env);
+}
+
+async function handleCreateRaidEvent(request, env) {
+  const body = await request.json();
+  const user = await requirePlannerUser(env, body.userId);
+  const profile = await getPlannerUserProfile(env, user);
+  const event = normalizeRaidEventInput(body, user, profile);
+
+  await saveRaidEvent(env, event);
+  await saveRaidParticipant(env, event.eventId, user.userId, profile.displayName);
+
+  return corsResponse({
+    ok: true,
+    event: {
+      ...event,
+      participants: [{ userId: user.userId, displayName: profile.displayName, joinedAt: event.createdAt }]
+    }
+  }, env, 201);
+}
+
+async function handleJoinRaidEvent(request, env) {
+  const eventId = getEventIdFromPath(new URL(request.url).pathname);
+  const body = await request.json();
+  const user = await requirePlannerUser(env, body.userId);
+  const profile = await getPlannerUserProfile(env, user);
+  const event = await getRaidEvent(env, eventId);
+  if (!event) return corsResponse({ error: 'Evento non trovato' }, env, 404);
+
+  const participants = await listRaidParticipants(env, [eventId]);
+  const current = participants.get(eventId) || [];
+  const alreadyJoined = current.some((participant) => participant.userId === user.userId);
+  if (!alreadyJoined && current.length >= event.maxPlayers) {
+    return corsResponse({ error: 'Evento completo' }, env, 409);
+  }
+
+  await saveRaidParticipant(env, eventId, user.userId, profile.displayName);
+  return corsResponse({ ok: true }, env);
+}
+
+async function handleLeaveRaidEvent(request, env) {
+  const eventId = getEventIdFromPath(new URL(request.url).pathname);
+  const body = await request.json();
+  const user = await requirePlannerUser(env, body.userId);
+  await deleteRaidParticipant(env, eventId, user.userId);
+  return corsResponse({ ok: true }, env);
 }
 
 async function handleFriendsShapeDebug(request, env) {
@@ -958,6 +1030,82 @@ async function refreshToken(refreshTokenValue, env) {
   return tokenRequest(params);
 }
 
+async function requirePlannerUser(env, userId) {
+  if (!userId) throw new Error('Authentication required');
+  const user = await getUser(env, userId);
+  if (!user) throw new Error('Authentication required');
+  return ensureAccessToken(env, user);
+}
+
+async function getPlannerUserProfile(env, user) {
+  try {
+    const memberships = await bungieFetch('/Platform/User/GetMembershipsForCurrentUser/', env, user.accessToken);
+    const membership = chooseDestinyMembership(memberships.Response);
+    return {
+      membershipId: String(membership?.membershipId || user.bungieMembershipId || ''),
+      displayName: membership ? getMembershipDisplayName(membership) : 'Guardiano'
+    };
+  } catch (error) {
+    console.warn(`Planner profile unavailable for ${user.userId}`, error.message);
+    return {
+      membershipId: user.bungieMembershipId || '',
+      displayName: 'Guardiano'
+    };
+  }
+}
+
+function normalizeRaidEventInput(body, user, profile) {
+  const title = cleanText(body.title).slice(0, 80);
+  const activity = cleanText(body.activity || 'Raid').slice(0, 60);
+  const description = cleanText(body.description).slice(0, 280);
+  const startsAt = new Date(body.startsAt);
+  const durationMinutes = clampNumber(body.durationMinutes, 60, 360, 120);
+  const maxPlayers = clampNumber(body.maxPlayers, 2, 12, 6);
+  const now = Date.now();
+
+  if (!title) throw new Error('Titolo evento obbligatorio');
+  if (Number.isNaN(startsAt.getTime())) throw new Error('Data evento non valida');
+
+  return {
+    eventId: createId(),
+    title,
+    activity,
+    description,
+    startsAt: startsAt.toISOString(),
+    durationMinutes,
+    maxPlayers,
+    creatorUserId: user.userId,
+    creatorName: profile.displayName,
+    status: 'scheduled',
+    createdAt: now,
+    updatedAt: now
+  };
+}
+
+function parseWeekStart(value) {
+  const source = value ? new Date(`${value}T00:00:00.000Z`) : new Date();
+  if (Number.isNaN(source.getTime())) throw new Error('Settimana non valida');
+  source.setUTCHours(0, 0, 0, 0);
+  const day = source.getUTCDay() || 7;
+  source.setUTCDate(source.getUTCDate() - day + 1);
+  return source;
+}
+
+function getEventIdFromPath(pathname) {
+  const match = pathname.match(/^\/api\/raid-events\/([^/]+)\//);
+  return match ? decodeURIComponent(match[1]) : '';
+}
+
+function cleanText(value) {
+  return String(value || '').replace(/\s+/g, ' ').trim();
+}
+
+function clampNumber(value, min, max, fallback) {
+  const number = Number(value);
+  if (!Number.isFinite(number)) return fallback;
+  return Math.max(min, Math.min(max, Math.round(number)));
+}
+
 async function tokenRequest(params) {
   const response = await fetch(BUNGIE_TOKEN_URL, {
     method: 'POST',
@@ -1162,6 +1310,105 @@ async function saveFriendDetailsCache(env, userId, friendId, details) {
   ).run();
 }
 
+async function listRaidEvents(env, startIso, endIso) {
+  const { results } = await env.DLM_DB.prepare(`
+    SELECT event_id, title, activity, description, starts_at, duration_minutes, max_players,
+      creator_user_id, creator_name, status, created_at, updated_at
+    FROM raid_events
+    WHERE starts_at >= ? AND starts_at < ? AND status = 'scheduled'
+    ORDER BY starts_at ASC, created_at ASC
+  `).bind(startIso, endIso).all();
+  return results.map(raidEventFromRow);
+}
+
+async function getRaidEvent(env, eventId) {
+  const row = await env.DLM_DB.prepare(`
+    SELECT event_id, title, activity, description, starts_at, duration_minutes, max_players,
+      creator_user_id, creator_name, status, created_at, updated_at
+    FROM raid_events
+    WHERE event_id = ?
+  `).bind(eventId).first();
+  return row ? raidEventFromRow(row) : null;
+}
+
+async function saveRaidEvent(env, event) {
+  await env.DLM_DB.prepare(`
+    INSERT INTO raid_events (
+      event_id, title, activity, description, starts_at, duration_minutes, max_players,
+      creator_user_id, creator_name, status, created_at, updated_at
+    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+  `).bind(
+    event.eventId,
+    event.title,
+    event.activity,
+    event.description || '',
+    event.startsAt,
+    event.durationMinutes,
+    event.maxPlayers,
+    event.creatorUserId,
+    event.creatorName,
+    event.status,
+    event.createdAt,
+    event.updatedAt
+  ).run();
+}
+
+async function listRaidParticipants(env, eventIds) {
+  const placeholders = eventIds.map(() => '?').join(',');
+  const { results } = await env.DLM_DB.prepare(`
+    SELECT event_id, user_id, display_name, joined_at
+    FROM raid_participants
+    WHERE event_id IN (${placeholders})
+    ORDER BY joined_at ASC
+  `).bind(...eventIds).all();
+
+  const map = new Map();
+  results.forEach((row) => {
+    const eventId = row.event_id;
+    if (!map.has(eventId)) map.set(eventId, []);
+    map.get(eventId).push({
+      userId: row.user_id,
+      displayName: row.display_name,
+      joinedAt: row.joined_at
+    });
+  });
+  return map;
+}
+
+async function saveRaidParticipant(env, eventId, userId, displayName) {
+  await env.DLM_DB.prepare(`
+    INSERT INTO raid_participants (
+      event_id, user_id, display_name, joined_at
+    ) VALUES (?, ?, ?, ?)
+    ON CONFLICT(event_id, user_id) DO UPDATE SET
+      display_name = excluded.display_name
+  `).bind(eventId, userId, displayName, Date.now()).run();
+}
+
+async function deleteRaidParticipant(env, eventId, userId) {
+  await env.DLM_DB.prepare(`
+    DELETE FROM raid_participants
+    WHERE event_id = ? AND user_id = ?
+  `).bind(eventId, userId).run();
+}
+
+function raidEventFromRow(row) {
+  return {
+    eventId: row.event_id,
+    title: row.title,
+    activity: row.activity,
+    description: row.description || '',
+    startsAt: row.starts_at,
+    durationMinutes: row.duration_minutes,
+    maxPlayers: row.max_players,
+    creatorUserId: row.creator_user_id,
+    creatorName: row.creator_name,
+    status: row.status,
+    createdAt: row.created_at,
+    updatedAt: row.updated_at
+  };
+}
+
 async function getLatestRefreshUserId(env) {
   const row = await env.DLM_DB.prepare(`
     SELECT user_id
@@ -1287,6 +1534,32 @@ function createId() {
   const bytes = new Uint8Array(16);
   crypto.getRandomValues(bytes);
   return [...bytes].map((byte) => byte.toString(16).padStart(2, '0')).join('');
+}
+
+function createLoginState(returnTo) {
+  const safeReturnTo = sanitizeReturnTo(returnTo);
+  if (!safeReturnTo) return createId();
+  return `${createId()}.${btoa(safeReturnTo).replace(/=+$/g, '')}`;
+}
+
+function parseLoginState(state) {
+  const [nonce, encodedReturnTo] = String(state || '').split('.', 2);
+  if (!nonce || nonce.length < 16) return { valid: false, returnTo: '' };
+  if (!encodedReturnTo) return { valid: true, returnTo: '' };
+
+  try {
+    const padded = encodedReturnTo.padEnd(Math.ceil(encodedReturnTo.length / 4) * 4, '=');
+    return { valid: true, returnTo: sanitizeReturnTo(atob(padded)) };
+  } catch {
+    return { valid: true, returnTo: '' };
+  }
+}
+
+function sanitizeReturnTo(returnTo) {
+  const value = String(returnTo || '').trim();
+  if (!value || value.startsWith('/') || value.includes('://') || value.includes('\\')) return '';
+  if (value.includes('..')) return '';
+  return value.slice(0, 120);
 }
 
 function assertEnv(env, names) {

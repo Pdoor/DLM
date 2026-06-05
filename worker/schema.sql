@@ -43,3 +43,32 @@ CREATE TABLE IF NOT EXISTS friend_details_cache (
 
 CREATE INDEX IF NOT EXISTS idx_friend_details_cache_user_id
 ON friend_details_cache (user_id);
+
+CREATE TABLE IF NOT EXISTS raid_events (
+  event_id TEXT PRIMARY KEY,
+  title TEXT NOT NULL,
+  activity TEXT NOT NULL,
+  description TEXT,
+  starts_at TEXT NOT NULL,
+  duration_minutes INTEGER NOT NULL,
+  max_players INTEGER NOT NULL,
+  creator_user_id TEXT NOT NULL,
+  creator_name TEXT NOT NULL,
+  status TEXT NOT NULL DEFAULT 'scheduled',
+  created_at INTEGER NOT NULL,
+  updated_at INTEGER NOT NULL
+);
+
+CREATE INDEX IF NOT EXISTS idx_raid_events_starts_at
+ON raid_events (starts_at);
+
+CREATE TABLE IF NOT EXISTS raid_participants (
+  event_id TEXT NOT NULL,
+  user_id TEXT NOT NULL,
+  display_name TEXT NOT NULL,
+  joined_at INTEGER NOT NULL,
+  PRIMARY KEY (event_id, user_id)
+);
+
+CREATE INDEX IF NOT EXISTS idx_raid_participants_event_id
+ON raid_participants (event_id);

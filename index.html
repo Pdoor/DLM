@@ -684,6 +684,7 @@
             <div class="notify-actions">
                 <button class="notify-button" id="bungieLoginButton" type="button">Accedi con Bungie</button>
                 <button class="notify-button" id="seasonalHubButton" type="button" disabled>Hub Stagionale</button>
+                <button class="notify-button" id="raidPlannerButton" type="button">Raid Planner</button>
             </div>
             <div class="notify-status" id="notifyStatus">Accedi con Bungie per aprire il tuo Hub Stagionale.</div>
         </section>
@@ -738,6 +739,7 @@
         const notifyElements = {
             loginButton: document.getElementById('bungieLoginButton'),
             seasonalHubButton: document.getElementById('seasonalHubButton'),
+            raidPlannerButton: document.getElementById('raidPlannerButton'),
             status: document.getElementById('notifyStatus')
         };
 
@@ -746,6 +748,9 @@
         notifyElements.loginButton.addEventListener('click', startBungieLogin);
         notifyElements.seasonalHubButton.addEventListener('click', () => {
             window.location.href = 'seasonal-hub.html';
+        });
+        notifyElements.raidPlannerButton.addEventListener('click', () => {
+            window.location.href = 'raid-planner.html';
         });
         document.querySelector('.close-modal').addEventListener('click', closeModal);
         window.addEventListener('click', (event) => {
