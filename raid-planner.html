@@ -360,6 +360,67 @@
             line-height: 1.35;
         }
 
+        .clan-picker {
+            display: grid;
+            gap: 8px;
+            padding: 10px;
+            border: 1px solid var(--line);
+            border-radius: 8px;
+            background: rgba(0, 0, 0, .18);
+        }
+
+        .clan-picker-head {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px;
+            color: var(--muted);
+            font-size: 12px;
+            line-height: 1.35;
+        }
+
+        .clan-picker-count {
+            color: var(--gold);
+            font-weight: bold;
+            white-space: nowrap;
+        }
+
+        .clan-member-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 7px;
+            max-height: 190px;
+            overflow: auto;
+            padding-right: 3px;
+        }
+
+        .clan-member-option {
+            display: flex;
+            align-items: center;
+            min-width: 0;
+            gap: 8px;
+            padding: 8px;
+            border: 1px solid rgba(255, 255, 255, .08);
+            border-radius: 8px;
+            background: rgba(255, 255, 255, .04);
+            color: var(--text);
+            font-size: 12px;
+            line-height: 1.25;
+            cursor: pointer;
+        }
+
+        .clan-member-option input {
+            width: 16px;
+            min-height: 16px;
+            flex: 0 0 auto;
+            accent-color: var(--gold);
+        }
+
+        .clan-member-option span {
+            min-width: 0;
+            overflow-wrap: anywhere;
+        }
+
         .error {
             margin: 18px 0;
             color: var(--red);
@@ -535,6 +596,18 @@
                         <label for="descriptionInput">Note</label>
                         <textarea id="descriptionInput" name="description" maxlength="280" placeholder="Orario flessibile, richieste, checkpoint, esperienza richiesta..."></textarea>
                     </div>
+                    <div class="field full">
+                        <label>Membri clan da aggiungere</label>
+                        <div class="clan-picker">
+                            <div class="clan-picker-head">
+                                <span>Il creatore viene aggiunto automaticamente. Puoi prenotare posti per altri membri del clan.</span>
+                                <span class="clan-picker-count" id="clanPickerCount">0 selezionati</span>
+                            </div>
+                            <div class="clan-member-grid" id="clanMemberGrid">
+                                <div class="notice">Caricamento membri clan...</div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div class="form-actions" style="margin-top: 12px;">
                     <button class="button" type="submit" id="createButton">Crea proposta</button>
@@ -557,11 +630,14 @@
 
     <script>
         const WORKER_BASE_URL = 'https://dlm-notify.gmeluzzi.workers.dev';
+        const STATIC_DATA_URL = 'data/clan-status.json';
         const DLM_USER_STORAGE_KEY = 'dlmNotifyUserId';
         const DAY_NAMES = ['Lunedi', 'Martedi', 'Mercoledi', 'Giovedi', 'Venerdi', 'Sabato', 'Domenica'];
 
         let weekStart = getMonday(new Date());
         let events = [];
+        let clanMembers = [];
+        let selectedClanMemberIds = new Set();
         let loading = false;
 
         const elements = {
@@ -583,6 +659,8 @@
             durationInput: document.getElementById('durationInput'),
             maxPlayersInput: document.getElementById('maxPlayersInput'),
             descriptionInput: document.getElementById('descriptionInput'),
+            clanMemberGrid: document.getElementById('clanMemberGrid'),
+            clanPickerCount: document.getElementById('clanPickerCount'),
             createButton: document.getElementById('createButton'),
             formNotice: document.getElementById('formNotice'),
             authModal: document.getElementById('authModal'),
@@ -606,12 +684,14 @@
         });
         elements.nextWeekButton.addEventListener('click', () => moveWeek(7));
         elements.eventForm.addEventListener('submit', createEvent);
+        elements.maxPlayersInput.addEventListener('change', enforceClanSelectionLimit);
 
         function initialize() {
             captureAuthFromUrl();
             setDefaultFormDate();
             renderAuthState();
             renderWeekFrame();
+            loadClanMembers();
             loadEvents();
         }
 
@@ -629,7 +709,9 @@
             loading = true;
             renderWeekFrame();
             try {
-                const response = await fetch(`${WORKER_BASE_URL}/api/raid-events?weekStart=${formatInputDate(weekStart)}&v=${Date.now()}`, {
+                const userId = getUserId();
+                const authQuery = userId ? `&userId=${encodeURIComponent(userId)}` : '';
+                const response = await fetch(`${WORKER_BASE_URL}/api/raid-events?weekStart=${formatInputDate(weekStart)}${authQuery}&v=${Date.now()}`, {
                     cache: 'no-store'
                 });
                 if (!response.ok) throw new Error(await readErrorMessage(response) || 'Planner non disponibile.');
@@ -641,6 +723,20 @@
             } finally {
                 loading = false;
                 renderWeekFrame();
+            }
+        }
+
+        async function loadClanMembers() {
+            try {
+                const response = await fetch(`${STATIC_DATA_URL}?v=${Date.now()}`, { cache: 'no-store' });
+                if (!response.ok) throw new Error('Membri clan non disponibili.');
+                const data = await response.json();
+                clanMembers = (data.members || [])
+                    .filter((member) => member.membershipId && member.displayName)
+                    .sort((a, b) => a.displayName.localeCompare(b.displayName, 'it'));
+                renderClanMemberPicker();
+            } catch (error) {
+                elements.clanMemberGrid.innerHTML = `<div class="notice">${escapeHtml(error.message || 'Membri clan non disponibili.')}</div>`;
             }
         }
 
@@ -660,7 +756,8 @@
                 startsAt: startsAt.toISOString(),
                 durationMinutes: Number(elements.durationInput.value),
                 maxPlayers: Number(elements.maxPlayersInput.value),
-                description: elements.descriptionInput.value
+                description: elements.descriptionInput.value,
+                clanMembers: getSelectedClanMembers()
             };
 
             elements.createButton.disabled = true;
@@ -672,7 +769,9 @@
                 });
                 if (!response.ok) throw new Error(await readErrorMessage(response) || 'Creazione evento non riuscita.');
                 elements.eventForm.reset();
+                selectedClanMemberIds.clear();
                 setDefaultFormDate();
+                renderClanMemberPicker();
                 elements.formNotice.textContent = 'Proposta raid creata.';
                 await loadEvents();
             } catch (error) {
@@ -754,7 +853,7 @@
         function createRaidCard(raidEvent) {
             const participants = raidEvent.participants || [];
             const userId = getUserId();
-            const joined = Boolean(userId && participants.some((participant) => participant.userId === userId));
+            const joined = Boolean(raidEvent.viewerJoined || (userId && participants.some((participant) => participant.userId === userId)));
             const full = participants.length >= raidEvent.maxPlayers;
             const card = document.createElement('div');
             card.className = 'raid-card';
@@ -794,6 +893,64 @@
             elements.authState.textContent = authenticated
                 ? 'Puoi creare eventi e partecipare.'
                 : 'Visualizzazione libera. Accesso richiesto per creare o partecipare.';
+        }
+
+        function renderClanMemberPicker() {
+            const maxSelectable = getMaxClanSelections();
+            const selectedCount = selectedClanMemberIds.size;
+            elements.clanPickerCount.textContent = `${selectedCount}/${maxSelectable} selezionati`;
+
+            if (!clanMembers.length) {
+                elements.clanMemberGrid.innerHTML = '<div class="notice">Nessun membro clan disponibile.</div>';
+                return;
+            }
+
+            elements.clanMemberGrid.innerHTML = '';
+            clanMembers.forEach((member) => {
+                const checked = selectedClanMemberIds.has(member.membershipId);
+                const disabled = !checked && selectedCount >= maxSelectable;
+                const label = document.createElement('label');
+                label.className = 'clan-member-option';
+
+                const input = document.createElement('input');
+                input.type = 'checkbox';
+                input.checked = checked;
+                input.disabled = disabled;
+                input.addEventListener('change', () => {
+                    if (input.checked) {
+                        selectedClanMemberIds.add(member.membershipId);
+                    } else {
+                        selectedClanMemberIds.delete(member.membershipId);
+                    }
+                    enforceClanSelectionLimit();
+                });
+
+                const name = document.createElement('span');
+                name.textContent = member.displayName;
+                label.append(input, name);
+                elements.clanMemberGrid.appendChild(label);
+            });
+        }
+
+        function enforceClanSelectionLimit() {
+            const maxSelectable = getMaxClanSelections();
+            if (selectedClanMemberIds.size > maxSelectable) {
+                selectedClanMemberIds = new Set([...selectedClanMemberIds].slice(0, maxSelectable));
+            }
+            renderClanMemberPicker();
+        }
+
+        function getMaxClanSelections() {
+            return Math.max(0, Number(elements.maxPlayersInput.value || 6) - 1);
+        }
+
+        function getSelectedClanMembers() {
+            return clanMembers
+                .filter((member) => selectedClanMemberIds.has(member.membershipId))
+                .map((member) => ({
+                    membershipId: member.membershipId,
+                    displayName: member.displayName
+                }));
         }
 
         function openAuthModal() {

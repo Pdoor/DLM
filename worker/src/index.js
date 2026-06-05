@@ -244,8 +244,10 @@ async function handleFriendsDetails(request, env) {
 async function handleRaidEvents(request, env) {
   const url = new URL(request.url);
   const weekStart = parseWeekStart(url.searchParams.get('weekStart'));
+  const userId = url.searchParams.get('userId') || '';
   const weekEnd = new Date(weekStart);
   weekEnd.setUTCDate(weekEnd.getUTCDate() + 7);
+  const viewerKey = userId ? await getPlannerViewerParticipantKey(env, userId) : '';
 
   const events = await listRaidEvents(env, weekStart.toISOString(), weekEnd.toISOString());
   const participants = events.length
@@ -257,6 +259,9 @@ async function handleRaidEvents(request, env) {
     weekEnd: weekEnd.toISOString(),
     events: events.map((event) => ({
       ...event,
+      viewerJoined: Boolean((participants.get(event.eventId) || []).some((participant) => {
+        return (viewerKey && participant.userId === viewerKey) || (userId && participant.userId === userId);
+      })),
       participants: participants.get(event.eventId) || []
     }))
   }, env);
@@ -267,15 +272,34 @@ async function handleCreateRaidEvent(request, env) {
   const user = await requirePlannerUser(env, body.userId);
   const profile = await getPlannerUserProfile(env, user);
   const event = normalizeRaidEventInput(body, user, profile);
+  const selectedMembers = normalizePlannerClanMembers(body.clanMembers, profile, event.maxPlayers - 1);
 
   await saveRaidEvent(env, event);
-  await saveRaidParticipant(env, event.eventId, user.userId, profile.displayName);
+  await saveRaidParticipant(env, event.eventId, createAuthRaidParticipant(user, profile, user.userId));
+  for (const member of selectedMembers) {
+    await saveRaidParticipant(env, event.eventId, createClanRaidParticipant(member, user.userId));
+  }
 
   return corsResponse({
     ok: true,
     event: {
       ...event,
-      participants: [{ userId: user.userId, displayName: profile.displayName, joinedAt: event.createdAt }]
+      participants: [
+        {
+          userId: getPlannerParticipantKey(user, profile),
+          displayName: profile.displayName,
+          membershipId: profile.membershipId,
+          participantType: 'auth',
+          joinedAt: event.createdAt
+        },
+        ...selectedMembers.map((member) => ({
+          userId: `bungie:${member.membershipId}`,
+          displayName: member.displayName,
+          membershipId: member.membershipId,
+          participantType: 'clan',
+          joinedAt: event.createdAt
+        }))
+      ]
     }
   }, env, 201);
 }
@@ -290,12 +314,13 @@ async function handleJoinRaidEvent(request, env) {
 
   const participants = await listRaidParticipants(env, [eventId]);
   const current = participants.get(eventId) || [];
-  const alreadyJoined = current.some((participant) => participant.userId === user.userId);
+  const participantKey = getPlannerParticipantKey(user, profile);
+  const alreadyJoined = current.some((participant) => participant.userId === participantKey || participant.userId === user.userId);
   if (!alreadyJoined && current.length >= event.maxPlayers) {
     return corsResponse({ error: 'Evento completo' }, env, 409);
   }
 
-  await saveRaidParticipant(env, eventId, user.userId, profile.displayName);
+  await saveRaidParticipant(env, eventId, createAuthRaidParticipant(user, profile, user.userId));
   return corsResponse({ ok: true }, env);
 }
 
@@ -303,6 +328,8 @@ async function handleLeaveRaidEvent(request, env) {
   const eventId = getEventIdFromPath(new URL(request.url).pathname);
   const body = await request.json();
   const user = await requirePlannerUser(env, body.userId);
+  const profile = await getPlannerUserProfile(env, user);
+  await deleteRaidParticipant(env, eventId, getPlannerParticipantKey(user, profile));
   await deleteRaidParticipant(env, eventId, user.userId);
   return corsResponse({ ok: true }, env);
 }
@@ -1054,6 +1081,59 @@ async function getPlannerUserProfile(env, user) {
   }
 }
 
+async function getPlannerViewerParticipantKey(env, userId) {
+  try {
+    const user = await getUser(env, userId);
+    if (!user) return '';
+    const freshUser = await ensureAccessToken(env, user);
+    const profile = await getPlannerUserProfile(env, freshUser);
+    return getPlannerParticipantKey(freshUser, profile);
+  } catch {
+    return '';
+  }
+}
+
+function getPlannerParticipantKey(user, profile) {
+  return profile.membershipId ? `bungie:${profile.membershipId}` : `user:${user.userId}`;
+}
+
+function createAuthRaidParticipant(user, profile, addedByUserId) {
+  return {
+    participantKey: getPlannerParticipantKey(user, profile),
+    displayName: profile.displayName,
+    membershipId: profile.membershipId || '',
+    participantType: 'auth',
+    addedByUserId
+  };
+}
+
+function createClanRaidParticipant(member, addedByUserId) {
+  return {
+    participantKey: `bungie:${member.membershipId}`,
+    displayName: member.displayName,
+    membershipId: member.membershipId,
+    participantType: 'clan',
+    addedByUserId
+  };
+}
+
+function normalizePlannerClanMembers(value, profile, maxMembers) {
+  const members = Array.isArray(value) ? value : [];
+  const seen = new Set([String(profile.membershipId || '')].filter(Boolean));
+  const normalized = [];
+
+  for (const member of members) {
+    const membershipId = cleanText(member?.membershipId);
+    const displayName = cleanText(member?.displayName).slice(0, 80);
+    if (!membershipId || !displayName || seen.has(membershipId)) continue;
+    seen.add(membershipId);
+    normalized.push({ membershipId, displayName });
+    if (normalized.length >= maxMembers) break;
+  }
+
+  return normalized;
+}
+
 function normalizeRaidEventInput(body, user, profile) {
   const title = cleanText(body.title).slice(0, 80);
   const activity = cleanText(body.activity || 'Raid').slice(0, 60);
@@ -1356,7 +1436,7 @@ async function saveRaidEvent(env, event) {
 async function listRaidParticipants(env, eventIds) {
   const placeholders = eventIds.map(() => '?').join(',');
   const { results } = await env.DLM_DB.prepare(`
-    SELECT event_id, user_id, display_name, joined_at
+    SELECT event_id, user_id, display_name, membership_id, participant_type, added_by_user_id, joined_at
     FROM raid_participants
     WHERE event_id IN (${placeholders})
     ORDER BY joined_at ASC
@@ -1369,27 +1449,41 @@ async function listRaidParticipants(env, eventIds) {
     map.get(eventId).push({
       userId: row.user_id,
       displayName: row.display_name,
+      membershipId: row.membership_id || '',
+      participantType: row.participant_type || 'auth',
+      addedByUserId: row.added_by_user_id || '',
       joinedAt: row.joined_at
     });
   });
   return map;
 }
 
-async function saveRaidParticipant(env, eventId, userId, displayName) {
+async function saveRaidParticipant(env, eventId, participant) {
   await env.DLM_DB.prepare(`
     INSERT INTO raid_participants (
-      event_id, user_id, display_name, joined_at
-    ) VALUES (?, ?, ?, ?)
+      event_id, user_id, display_name, membership_id, participant_type, added_by_user_id, joined_at
+    ) VALUES (?, ?, ?, ?, ?, ?, ?)
     ON CONFLICT(event_id, user_id) DO UPDATE SET
-      display_name = excluded.display_name
-  `).bind(eventId, userId, displayName, Date.now()).run();
+      display_name = excluded.display_name,
+      membership_id = excluded.membership_id,
+      participant_type = excluded.participant_type,
+      added_by_user_id = excluded.added_by_user_id
+  `).bind(
+    eventId,
+    participant.participantKey,
+    participant.displayName,
+    participant.membershipId || '',
+    participant.participantType || 'auth',
+    participant.addedByUserId || '',
+    Date.now()
+  ).run();
 }
 
-async function deleteRaidParticipant(env, eventId, userId) {
+async function deleteRaidParticipant(env, eventId, participantKey) {
   await env.DLM_DB.prepare(`
     DELETE FROM raid_participants
     WHERE event_id = ? AND user_id = ?
-  `).bind(eventId, userId).run();
+  `).bind(eventId, participantKey).run();
 }
 
 function raidEventFromRow(row) {

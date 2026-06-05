@@ -66,6 +66,9 @@ CREATE TABLE IF NOT EXISTS raid_participants (
   event_id TEXT NOT NULL,
   user_id TEXT NOT NULL,
   display_name TEXT NOT NULL,
+  membership_id TEXT,
+  participant_type TEXT NOT NULL DEFAULT 'auth',
+  added_by_user_id TEXT,
   joined_at INTEGER NOT NULL,
   PRIMARY KEY (event_id, user_id)
 );
