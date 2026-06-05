@@ -219,6 +219,18 @@
             text-align: center;
         }
 
+        .week-empty {
+            grid-column: 1 / -1;
+            padding: 22px 12px;
+            border: 1px solid var(--line);
+            border-radius: 8px;
+            background: rgba(30, 30, 30, .86);
+            color: var(--muted);
+            font-size: 13px;
+            line-height: 1.35;
+            text-align: center;
+        }
+
         .raid-card {
             display: grid;
             gap: 8px;
@@ -902,8 +914,20 @@
                 : `${getVisibleEvents(days).length} proposte ${isDayView ? 'nel giorno' : 'nella settimana'}`;
 
             const grouped = groupEventsByDate(events);
+            const visibleDays = (isDayView || loading)
+                ? days
+                : days.filter((day) => (grouped.get(formatInputDate(day)) || []).length);
             elements.plannerGrid.innerHTML = '';
-            days.forEach((day, index) => {
+
+            if (!visibleDays.length) {
+                const empty = document.createElement('div');
+                empty.className = 'week-empty';
+                empty.textContent = 'Nessuna proposta raid nella settimana.';
+                elements.plannerGrid.appendChild(empty);
+                return;
+            }
+
+            visibleDays.forEach((day) => {
                 const column = document.createElement('article');
                 column.className = 'day-column';
                 const weekIndex = (day.getDay() || 7) - 1;
