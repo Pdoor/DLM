@@ -52,6 +52,7 @@ export default {
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+$/) && request.method === 'PUT') return await handleUpdateRaidEvent(request, env);
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+$/) && request.method === 'DELETE') return await handleDeleteRaidEvent(request, env);
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+\/delete$/) && request.method === 'POST') return await handleDeleteRaidEvent(request, env);
+      if (url.pathname.match(/^\/api\/raid-events\/[^/]+\/add-member$/) && request.method === 'POST') return await handleAddRaidEventMember(request, env);
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+\/join$/) && request.method === 'POST') return await handleJoinRaidEvent(request, env);
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+\/leave$/) && request.method === 'POST') return await handleLeaveRaidEvent(request, env);
       if (url.pathname === '/api/debug/friends-shape') return await handleFriendsShapeDebug(request, env);
@@ -360,6 +361,31 @@ async function handleDeleteRaidEvent(request, env) {
   }
 
   await markRaidEventDeleted(env, eventId);
+  return corsResponse({ ok: true }, env);
+}
+
+async function handleAddRaidEventMember(request, env) {
+  const eventId = getEventIdFromPath(new URL(request.url).pathname);
+  const body = await request.json();
+  const user = await requirePlannerUser(env, body.userId);
+  const event = await getRaidEvent(env, eventId);
+  if (!event) return corsResponse({ error: 'Evento non trovato' }, env, 404);
+
+  const profile = await getPlannerUserProfile(env, user);
+  if (!await canManageRaidEventWithProfile(env, event, user, profile)) {
+    return corsResponse({ error: 'Solo il promoter puo aggiungere membri' }, env, 403);
+  }
+
+  const member = normalizePlannerClanMembers([body.member], profile, 1)[0];
+  if (!member) return corsResponse({ error: 'Membro clan non valido' }, env, 400);
+
+  const participants = await listRaidParticipants(env, [eventId]);
+  const current = participants.get(eventId) || [];
+  const alreadyAdded = current.some((participant) => participant.userId === `bungie:${member.membershipId}`);
+  if (alreadyAdded) return corsResponse({ ok: true, duplicate: true }, env);
+
+  const lastJoinedAt = current.reduce((max, participant) => Math.max(max, Number(participant.joinedAt || 0)), 0);
+  await saveRaidParticipant(env, eventId, createClanRaidParticipant(member, user.userId, 'clan', Math.max(Date.now(), lastJoinedAt + 1)));
   return corsResponse({ ok: true }, env);
 }
 

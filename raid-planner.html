@@ -295,6 +295,13 @@
             gap: 7px;
         }
 
+        .card-add-member {
+            display: grid;
+            grid-template-columns: minmax(0, 1fr) auto;
+            gap: 7px;
+            align-items: center;
+        }
+
         .danger-button {
             border-color: rgba(255, 68, 68, .42);
             background: rgba(255, 68, 68, .12);
@@ -948,6 +955,9 @@
             card.appendChild(seatRow);
 
             if (isCreator) {
+                const addMember = createCardMemberAdder(raidEvent, participants);
+                if (addMember) card.appendChild(addMember);
+
                 const actions = document.createElement('div');
                 actions.className = 'creator-actions';
 
@@ -967,6 +977,69 @@
                 card.appendChild(actions);
             }
             return card;
+        }
+
+        function createCardMemberAdder(raidEvent, participants) {
+            if (!clanMembers.length) return null;
+            const participantMembershipIds = new Set(participants.map((participant) => participant.membershipId).filter(Boolean));
+            const availableMembers = clanMembers.filter((member) => !participantMembershipIds.has(member.membershipId));
+            if (!availableMembers.length) return null;
+
+            const wrapper = document.createElement('div');
+            wrapper.className = 'card-add-member';
+
+            const select = document.createElement('select');
+            availableMembers.forEach((member) => {
+                const option = document.createElement('option');
+                option.value = member.membershipId;
+                option.textContent = member.displayName;
+                select.appendChild(option);
+            });
+
+            const addButton = document.createElement('button');
+            addButton.className = 'join-button';
+            addButton.type = 'button';
+            addButton.textContent = 'Aggiungi';
+            addButton.addEventListener('click', () => addMemberFromCard(raidEvent.eventId, select.value, addButton));
+
+            wrapper.append(select, addButton);
+            return wrapper;
+        }
+
+        async function addMemberFromCard(eventId, membershipId, button) {
+            const userId = getUserId();
+            if (!userId) {
+                openAuthModal();
+                return;
+            }
+            const member = clanMembers.find((item) => item.membershipId === membershipId);
+            if (!member) return;
+
+            button.disabled = true;
+            try {
+                const response = await fetch(`${WORKER_BASE_URL}/api/raid-events/${encodeURIComponent(eventId)}/add-member`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        userId,
+                        member: {
+                            membershipId: member.membershipId,
+                            displayName: member.displayName
+                        }
+                    })
+                });
+                if (!response.ok) throw new Error(await readErrorMessage(response) || 'Aggiunta membro non riuscita.');
+                await loadEvents();
+            } catch (error) {
+                if (isAuthError(error.message)) {
+                    clearAuth();
+                    openAuthModal();
+                } else {
+                    elements.formNotice.textContent = error.message || 'Aggiunta membro non riuscita.';
+                }
+            } finally {
+                button.disabled = false;
+            }
         }
 
         function editRaidEvent(raidEvent) {
