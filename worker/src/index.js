@@ -260,17 +260,20 @@ async function handleRaidEvents(request, env) {
   return corsResponse({
     weekStart: weekStart.toISOString(),
     weekEnd: weekEnd.toISOString(),
-    events: events.map((event) => {
+    events: await Promise.all(events.map(async (event) => {
       const eventParticipants = participants.get(event.eventId) || [];
+      const viewerCanManage = await canManageRaidEventForUser(env, event, userId, viewerKey, eventParticipants);
       return {
         ...event,
         viewerJoined: Boolean(eventParticipants.some((participant) => {
-          return (viewerKey && participant.userId === viewerKey) || (userId && participant.userId === userId);
+          return (viewerKey && participant.userId === viewerKey)
+            || (userId && participant.userId === userId)
+            || (viewerCanManage && participant.userId === event.creatorUserId);
         })),
-        viewerCanManage: canManageRaidEvent(event, userId, viewerKey, eventParticipants),
+        viewerCanManage,
         participants: eventParticipants
       };
-    })
+    }))
   }, env);
 }
 
@@ -382,8 +385,12 @@ async function handleLeaveRaidEvent(request, env) {
   const body = await request.json();
   const user = await requirePlannerUser(env, body.userId);
   const profile = await getPlannerUserProfile(env, user);
+  const event = await getRaidEvent(env, eventId);
   await deleteRaidParticipant(env, eventId, getPlannerParticipantKey(user, profile));
   await deleteRaidParticipant(env, eventId, user.userId);
+  if (event && await canManageRaidEventWithProfile(env, event, user, profile)) {
+    await deleteRaidParticipant(env, eventId, event.creatorUserId);
+  }
   return corsResponse({ ok: true }, env);
 }
 
@@ -1161,11 +1168,30 @@ function canManageRaidEvent(event, userId, viewerKey, participants) {
   });
 }
 
+async function canManageRaidEventForUser(env, event, userId, viewerKey, participants) {
+  if (canManageRaidEvent(event, userId, viewerKey, participants)) return true;
+  if (!userId || !event.creatorUserId) return false;
+
+  try {
+    const [viewer, creator] = await Promise.all([
+      getUser(env, userId),
+      getUser(env, event.creatorUserId)
+    ]);
+    return Boolean(
+      viewer?.bungieMembershipId
+      && creator?.bungieMembershipId
+      && viewer.bungieMembershipId === creator.bungieMembershipId
+    );
+  } catch {
+    return false;
+  }
+}
+
 async function canManageRaidEventWithProfile(env, event, user, profile) {
   const participantKey = getPlannerParticipantKey(user, profile);
   if (event.creatorUserId === user.userId) return true;
   const participants = await listRaidParticipants(env, [event.eventId]);
-  return canManageRaidEvent(event, user.userId, participantKey, participants.get(event.eventId) || []);
+  return canManageRaidEventForUser(env, event, user.userId, participantKey, participants.get(event.eventId) || []);
 }
 
 function createAuthRaidParticipant(user, profile, addedByUserId, joinedAt) {
