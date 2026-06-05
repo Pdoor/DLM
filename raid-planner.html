@@ -168,7 +168,7 @@
 
         .planner-grid {
             display: grid;
-            grid-template-columns: repeat(7, minmax(142px, 1fr));
+            grid-template-columns: repeat(var(--visible-days, 7), minmax(220px, 1fr));
             gap: 8px;
             overflow-x: auto;
             padding-bottom: 8px;
@@ -918,6 +918,7 @@
                 ? days
                 : days.filter((day) => (grouped.get(formatInputDate(day)) || []).length);
             elements.plannerGrid.innerHTML = '';
+            elements.plannerGrid.style.setProperty('--visible-days', String(Math.max(visibleDays.length, 1)));
 
             if (!visibleDays.length) {
                 const empty = document.createElement('div');
