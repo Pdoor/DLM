@@ -567,7 +567,9 @@
             </div>
             <div class="week-actions">
                 <button class="button secondary" type="button" id="prevWeekButton">Settimana prima</button>
-                <button class="button secondary" type="button" id="todayButton">Questa settimana</button>
+                <button class="button secondary" type="button" id="weekViewButton">Settimana</button>
+                <button class="button secondary" type="button" id="todayButton">Oggi</button>
+                <button class="button secondary" type="button" id="tomorrowButton">Domani</button>
                 <button class="button secondary" type="button" id="nextWeekButton">Settimana dopo</button>
             </div>
         </section>
@@ -671,6 +673,8 @@
         let clanMembers = [];
         let selectedClanMemberIds = [];
         let editingEventId = '';
+        let activeView = 'week';
+        let focusDate = new Date();
         let loading = false;
 
         const elements = {
@@ -682,7 +686,9 @@
             weekTitle: document.getElementById('weekTitle'),
             weekSubtitle: document.getElementById('weekSubtitle'),
             prevWeekButton: document.getElementById('prevWeekButton'),
+            weekViewButton: document.getElementById('weekViewButton'),
             todayButton: document.getElementById('todayButton'),
+            tomorrowButton: document.getElementById('tomorrowButton'),
             nextWeekButton: document.getElementById('nextWeekButton'),
             plannerGrid: document.getElementById('plannerGrid'),
             eventForm: document.getElementById('eventForm'),
@@ -717,10 +723,9 @@
             if (event.target === elements.authModal) closeAuthModal();
         });
         elements.prevWeekButton.addEventListener('click', () => moveWeek(-7));
-        elements.todayButton.addEventListener('click', () => {
-            weekStart = getMonday(new Date());
-            loadEvents();
-        });
+        elements.weekViewButton.addEventListener('click', showWeekView);
+        elements.todayButton.addEventListener('click', () => showDayView(new Date()));
+        elements.tomorrowButton.addEventListener('click', () => showDayView(addDays(new Date(), 1)));
         elements.nextWeekButton.addEventListener('click', () => moveWeek(7));
         elements.eventForm.addEventListener('submit', createEvent);
         elements.cancelEditButton.addEventListener('click', resetEventForm);
@@ -884,23 +889,29 @@
         }
 
         function renderWeekFrame() {
-            const days = Array.from({ length: 7 }, (_, index) => addDays(weekStart, index));
+            const isDayView = activeView === 'day';
+            const days = isDayView
+                ? [new Date(focusDate)]
+                : Array.from({ length: 7 }, (_, index) => addDays(weekStart, index));
             const weekEnd = addDays(weekStart, 6);
-            elements.weekTitle.textContent = `${formatLongDate(weekStart)} - ${formatLongDate(weekEnd)}`;
+            elements.weekTitle.textContent = isDayView
+                ? `${getRelativeDayLabel(focusDate)} · ${formatLongDate(focusDate)}`
+                : `${formatLongDate(weekStart)} - ${formatLongDate(weekEnd)}`;
             elements.weekSubtitle.textContent = loading
                 ? 'Caricamento proposte raid...'
-                : `${events.length} proposte nella settimana`;
+                : `${getVisibleEvents(days).length} proposte ${isDayView ? 'nel giorno' : 'nella settimana'}`;
 
             const grouped = groupEventsByDate(events);
             elements.plannerGrid.innerHTML = '';
             days.forEach((day, index) => {
                 const column = document.createElement('article');
                 column.className = 'day-column';
+                const weekIndex = (day.getDay() || 7) - 1;
 
                 const head = document.createElement('div');
                 head.className = 'day-head';
                 head.innerHTML = `
-                    <div class="day-name"><span>${DAY_NAMES[index]}</span><span>${isToday(day) ? 'Oggi' : ''}</span></div>
+                    <div class="day-name"><span>${DAY_NAMES[weekIndex]}</span><span>${getRelativeDayBadge(day)}</span></div>
                     <div class="day-date">${formatShortDate(day)}</div>
                 `;
 
@@ -1209,7 +1220,21 @@
         }
 
         function moveWeek(days) {
+            activeView = 'week';
             weekStart = addDays(weekStart, days);
+            loadEvents();
+        }
+
+        function showWeekView() {
+            activeView = 'week';
+            weekStart = getMonday(focusDate || new Date());
+            loadEvents();
+        }
+
+        function showDayView(date) {
+            activeView = 'day';
+            focusDate = new Date(date);
+            weekStart = getMonday(focusDate);
             loadEvents();
         }
 
@@ -1249,6 +1274,27 @@
 
         function isToday(date) {
             return formatInputDate(date) === formatInputDate(new Date());
+        }
+
+        function isTomorrow(date) {
+            return formatInputDate(date) === formatInputDate(addDays(new Date(), 1));
+        }
+
+        function getRelativeDayBadge(date) {
+            if (isToday(date)) return 'Oggi';
+            if (isTomorrow(date)) return 'Domani';
+            return '';
+        }
+
+        function getRelativeDayLabel(date) {
+            if (isToday(date)) return 'Oggi';
+            if (isTomorrow(date)) return 'Domani';
+            return DAY_NAMES[(date.getDay() || 7) - 1];
+        }
+
+        function getVisibleEvents(days) {
+            const keys = new Set(days.map(formatInputDate));
+            return events.filter((item) => keys.has(formatInputDate(new Date(item.startsAt))));
         }
 
         function formatInputDate(date) {
