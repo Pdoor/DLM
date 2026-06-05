@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T08:30:24.230Z",
+  "generatedAt": "2026-06-05T10:20:41.073Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,18 @@
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0639521caaebd9bc34338713e66faa6f.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1780648197000,
-      "lastActivityTimestamp": 1780645786000,
-      "lastActivityText": "Ultimo desiderio: Standard il 05/06/2026 07:49",
+      "lastPlayedTimestamp": 1780654812000,
+      "lastActivityTimestamp": 1780653570000,
+      "lastActivityText": "La Città Sognante il 05/06/2026 09:59",
       "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-06-05T09:59:30Z"
+        },
+        {
+          "name": "L'Oscura Sacerdotessa: Con matchmaking",
+          "period": "2026-06-05T08:24:28Z"
+        },
         {
           "name": "Ultimo desiderio: Standard",
           "period": "2026-06-05T07:49:46Z"
@@ -48,14 +56,61 @@
         {
           "name": "La Tana dei Diavoli: Con matchmaking",
           "period": "2026-06-03T06:50:29Z"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Scrittore spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7e47867ab65a9967cc20f29c2aabe4ed.jpg",
+      "powerLevel": 382,
+      "lastPlayedTimestamp": 1780653317000,
+      "lastActivityTimestamp": 1780650898000,
+      "lastActivityText": "Partita veloce: Normale il 05/06/2026 09:14",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-05T09:14:58Z"
         },
         {
-          "name": "Spira: Con matchmaking",
-          "period": "2026-06-02T15:54:24Z"
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-05T09:00:51Z"
         },
         {
-          "name": "Spira: Con matchmaking",
-          "period": "2026-06-02T15:50:12Z"
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-05T08:48:27Z"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-06-04T19:23:28Z"
+        },
+        {
+          "name": "Bis: Personalizzata",
+          "period": "2026-06-04T18:39:01Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-03T06:32:54Z"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-03T06:19:12Z"
+        },
+        {
+          "name": "Bis: Personalizzata",
+          "period": "2026-06-02T17:49:47Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-02T17:26:20Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-02T17:02:34Z"
         }
       ]
     },
@@ -173,12 +228,12 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 453,
-      "lastPlayedTimestamp": 1780573223000,
+      "lastPlayedTimestamp": 1780653949000,
       "lastActivityTimestamp": 1780521082000,
       "lastActivityText": "Equilibrio: Standard il 03/06/2026 21:11",
       "activities": [
