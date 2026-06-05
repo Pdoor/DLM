@@ -49,6 +49,8 @@ export default {
       if (url.pathname === '/api/friends-details') return await handleFriendsDetails(request, env);
       if (url.pathname === '/api/raid-events' && request.method === 'GET') return await handleRaidEvents(request, env);
       if (url.pathname === '/api/raid-events' && request.method === 'POST') return await handleCreateRaidEvent(request, env);
+      if (url.pathname.match(/^\/api\/raid-events\/[^/]+$/) && request.method === 'PUT') return await handleUpdateRaidEvent(request, env);
+      if (url.pathname.match(/^\/api\/raid-events\/[^/]+$/) && request.method === 'DELETE') return await handleDeleteRaidEvent(request, env);
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+\/join$/) && request.method === 'POST') return await handleJoinRaidEvent(request, env);
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+\/leave$/) && request.method === 'POST') return await handleLeaveRaidEvent(request, env);
       if (url.pathname === '/api/debug/friends-shape') return await handleFriendsShapeDebug(request, env);
@@ -313,6 +315,57 @@ async function handleCreateRaidEvent(request, env) {
       ]
     }
   }, env, 201);
+}
+
+async function handleUpdateRaidEvent(request, env) {
+  const eventId = getEventIdFromPath(new URL(request.url).pathname);
+  const body = await request.json();
+  const user = await requirePlannerUser(env, body.userId);
+  const existing = await getRaidEvent(env, eventId);
+  if (!existing) return corsResponse({ error: 'Evento non trovato' }, env, 404);
+  if (existing.creatorUserId !== user.userId) return corsResponse({ error: 'Solo il creatore puo modificare questo evento' }, env, 403);
+
+  const profile = await getPlannerUserProfile(env, user);
+  const updated = {
+    ...normalizeRaidEventInput(body, user, profile),
+    eventId,
+    creatorUserId: existing.creatorUserId,
+    creatorName: existing.creatorName,
+    status: existing.status,
+    createdAt: existing.createdAt,
+    updatedAt: Date.now()
+  };
+  const currentParticipants = await listRaidParticipants(env, [eventId]);
+  const preservedMainCount = (currentParticipants.get(eventId) || [])
+    .filter((participant) => !['clan', 'reserve'].includes(participant.participantType))
+    .length || 1;
+  const selectedMembers = normalizePlannerClanMembers(body.clanMembers, profile, updated.maxPlayers - preservedMainCount);
+  const selectedReserves = normalizePlannerClanMembers(body.reserveMembers, profile, 12, selectedMembers);
+
+  await updateRaidEvent(env, updated);
+  await deleteRaidParticipantsByType(env, eventId, ['clan', 'reserve']);
+  await deleteRaidParticipant(env, eventId, user.userId);
+  await saveRaidParticipant(env, eventId, createAuthRaidParticipant(user, profile, user.userId));
+  for (const member of selectedMembers) {
+    await saveRaidParticipant(env, eventId, createClanRaidParticipant(member, user.userId, 'clan'));
+  }
+  for (const member of selectedReserves) {
+    await saveRaidParticipant(env, eventId, createClanRaidParticipant(member, user.userId, 'reserve'));
+  }
+
+  return corsResponse({ ok: true, event: updated }, env);
+}
+
+async function handleDeleteRaidEvent(request, env) {
+  const eventId = getEventIdFromPath(new URL(request.url).pathname);
+  const body = await request.json().catch(() => ({}));
+  const user = await requirePlannerUser(env, body.userId);
+  const event = await getRaidEvent(env, eventId);
+  if (!event) return corsResponse({ error: 'Evento non trovato' }, env, 404);
+  if (event.creatorUserId !== user.userId) return corsResponse({ error: 'Solo il creatore puo eliminare questo evento' }, env, 403);
+
+  await markRaidEventDeleted(env, eventId);
+  return corsResponse({ ok: true }, env);
 }
 
 async function handleJoinRaidEvent(request, env) {
@@ -1186,7 +1239,7 @@ function parseWeekStart(value) {
 }
 
 function getEventIdFromPath(pathname) {
-  const match = pathname.match(/^\/api\/raid-events\/([^/]+)\//);
+  const match = pathname.match(/^\/api\/raid-events\/([^/]+)(?:\/|$)/);
   return match ? decodeURIComponent(match[1]) : '';
 }
 
@@ -1447,6 +1500,38 @@ async function saveRaidEvent(env, event) {
   ).run();
 }
 
+async function updateRaidEvent(env, event) {
+  await env.DLM_DB.prepare(`
+    UPDATE raid_events
+    SET title = ?,
+      activity = ?,
+      description = ?,
+      starts_at = ?,
+      duration_minutes = ?,
+      max_players = ?,
+      updated_at = ?
+    WHERE event_id = ?
+  `).bind(
+    event.title,
+    event.activity,
+    event.description || '',
+    event.startsAt,
+    event.durationMinutes,
+    event.maxPlayers,
+    event.updatedAt || Date.now(),
+    event.eventId
+  ).run();
+}
+
+async function markRaidEventDeleted(env, eventId) {
+  await env.DLM_DB.prepare(`
+    UPDATE raid_events
+    SET status = 'deleted',
+      updated_at = ?
+    WHERE event_id = ?
+  `).bind(Date.now(), eventId).run();
+}
+
 async function listRaidParticipants(env, eventIds) {
   const placeholders = eventIds.map(() => '?').join(',');
   const { results } = await env.DLM_DB.prepare(`
@@ -1498,6 +1583,14 @@ async function deleteRaidParticipant(env, eventId, participantKey) {
     DELETE FROM raid_participants
     WHERE event_id = ? AND user_id = ?
   `).bind(eventId, participantKey).run();
+}
+
+async function deleteRaidParticipantsByType(env, eventId, participantTypes) {
+  const placeholders = participantTypes.map(() => '?').join(',');
+  await env.DLM_DB.prepare(`
+    DELETE FROM raid_participants
+    WHERE event_id = ? AND participant_type IN (${placeholders})
+  `).bind(eventId, ...participantTypes).run();
 }
 
 function raidEventFromRow(row) {

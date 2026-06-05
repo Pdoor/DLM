@@ -289,6 +289,17 @@
             background: rgba(0, 211, 111, .12);
         }
 
+        .creator-actions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 7px;
+        }
+
+        .danger-button {
+            border-color: rgba(255, 68, 68, .42);
+            background: rgba(255, 68, 68, .12);
+        }
+
         .composer {
             margin-top: 16px;
             padding: 14px;
@@ -628,6 +639,7 @@
                 </div>
                 <div class="form-actions" style="margin-top: 12px;">
                     <button class="button" type="submit" id="createButton">Crea proposta</button>
+                    <button class="button secondary" type="button" id="cancelEditButton" hidden>Annulla modifica</button>
                     <div class="notice" id="formNotice"></div>
                 </div>
             </form>
@@ -656,6 +668,7 @@
         let clanMembers = [];
         let selectedClanMemberIds = new Set();
         let selectedReserveMemberIds = new Set();
+        let editingEventId = '';
         let loading = false;
 
         const elements = {
@@ -682,6 +695,7 @@
             reserveMemberGrid: document.getElementById('reserveMemberGrid'),
             reservePickerCount: document.getElementById('reservePickerCount'),
             createButton: document.getElementById('createButton'),
+            cancelEditButton: document.getElementById('cancelEditButton'),
             formNotice: document.getElementById('formNotice'),
             authModal: document.getElementById('authModal'),
             modalLoginButton: document.getElementById('modalLoginButton'),
@@ -704,6 +718,7 @@
         });
         elements.nextWeekButton.addEventListener('click', () => moveWeek(7));
         elements.eventForm.addEventListener('submit', createEvent);
+        elements.cancelEditButton.addEventListener('click', resetEventForm);
         elements.maxPlayersInput.addEventListener('change', enforceClanSelectionLimit);
 
         function initialize() {
@@ -783,29 +798,40 @@
 
             elements.createButton.disabled = true;
             try {
-                const response = await fetch(`${WORKER_BASE_URL}/api/raid-events`, {
-                    method: 'POST',
+                const endpoint = editingEventId
+                    ? `${WORKER_BASE_URL}/api/raid-events/${encodeURIComponent(editingEventId)}`
+                    : `${WORKER_BASE_URL}/api/raid-events`;
+                const response = await fetch(endpoint, {
+                    method: editingEventId ? 'PUT' : 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify(payload)
                 });
-                if (!response.ok) throw new Error(await readErrorMessage(response) || 'Creazione evento non riuscita.');
-                elements.eventForm.reset();
-                selectedClanMemberIds.clear();
-                selectedReserveMemberIds.clear();
-                setDefaultFormDate();
-                renderClanMemberPicker();
-                elements.formNotice.textContent = 'Proposta raid creata.';
+                if (!response.ok) throw new Error(await readErrorMessage(response) || 'Salvataggio evento non riuscito.');
+                const message = editingEventId ? 'Evento aggiornato.' : 'Proposta raid creata.';
+                resetEventForm();
+                elements.formNotice.textContent = message;
                 await loadEvents();
             } catch (error) {
                 if (isAuthError(error.message)) {
                     clearAuth();
                     openAuthModal();
                 } else {
-                    elements.formNotice.textContent = error.message || 'Creazione evento non riuscita.';
+                    elements.formNotice.textContent = error.message || 'Salvataggio evento non riuscito.';
                 }
             } finally {
                 elements.createButton.disabled = false;
             }
+        }
+
+        function resetEventForm() {
+            editingEventId = '';
+            elements.eventForm.reset();
+            selectedClanMemberIds.clear();
+            selectedReserveMemberIds.clear();
+            setDefaultFormDate();
+            elements.createButton.textContent = 'Crea proposta';
+            elements.cancelEditButton.hidden = true;
+            renderClanMemberPicker();
         }
 
         async function toggleParticipation(eventId, joined) {
@@ -877,6 +903,7 @@
             const participants = allParticipants.filter((participant) => participant.participantType !== 'reserve');
             const reserves = allParticipants.filter((participant) => participant.participantType === 'reserve');
             const userId = getUserId();
+            const isCreator = Boolean(userId && raidEvent.creatorUserId === userId);
             const joined = Boolean(raidEvent.viewerJoined || (userId && allParticipants.some((participant) => participant.userId === userId)));
             const full = participants.length >= raidEvent.maxPlayers;
             const card = document.createElement('div');
@@ -910,7 +937,81 @@
 
             seatRow.append(seats, button);
             card.appendChild(seatRow);
+
+            if (isCreator) {
+                const actions = document.createElement('div');
+                actions.className = 'creator-actions';
+
+                const editButton = document.createElement('button');
+                editButton.className = 'join-button';
+                editButton.type = 'button';
+                editButton.textContent = 'Modifica';
+                editButton.addEventListener('click', () => editRaidEvent(raidEvent));
+
+                const deleteButton = document.createElement('button');
+                deleteButton.className = 'join-button danger-button';
+                deleteButton.type = 'button';
+                deleteButton.textContent = 'Elimina';
+                deleteButton.addEventListener('click', () => deleteRaidEvent(raidEvent));
+
+                actions.append(editButton, deleteButton);
+                card.appendChild(actions);
+            }
             return card;
+        }
+
+        function editRaidEvent(raidEvent) {
+            const startsAt = new Date(raidEvent.startsAt);
+            editingEventId = raidEvent.eventId;
+            elements.titleInput.value = raidEvent.title || '';
+            elements.activityInput.value = raidEvent.activity || 'Raid';
+            elements.dateInput.value = formatInputDate(startsAt);
+            elements.timeInput.value = formatTimeInput(startsAt);
+            elements.durationInput.value = String(raidEvent.durationMinutes || 120);
+            elements.maxPlayersInput.value = String(raidEvent.maxPlayers || 6);
+            elements.descriptionInput.value = raidEvent.description || '';
+
+            selectedClanMemberIds = new Set((raidEvent.participants || [])
+                .filter((participant) => participant.participantType === 'clan' && participant.membershipId)
+                .map((participant) => participant.membershipId));
+            selectedReserveMemberIds = new Set((raidEvent.participants || [])
+                .filter((participant) => participant.participantType === 'reserve' && participant.membershipId)
+                .map((participant) => participant.membershipId));
+
+            elements.createButton.textContent = 'Salva modifiche';
+            elements.cancelEditButton.hidden = false;
+            elements.formNotice.textContent = 'Stai modificando un evento esistente.';
+            renderClanMemberPicker();
+            document.querySelector('.composer').scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+
+        async function deleteRaidEvent(raidEvent) {
+            const userId = getUserId();
+            if (!userId) {
+                openAuthModal();
+                return;
+            }
+            const confirmed = window.confirm(`Eliminare "${raidEvent.title}" dal Raid Planner?`);
+            if (!confirmed) return;
+
+            try {
+                const response = await fetch(`${WORKER_BASE_URL}/api/raid-events/${encodeURIComponent(raidEvent.eventId)}`, {
+                    method: 'DELETE',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ userId })
+                });
+                if (!response.ok) throw new Error(await readErrorMessage(response) || 'Eliminazione evento non riuscita.');
+                if (editingEventId === raidEvent.eventId) resetEventForm();
+                elements.formNotice.textContent = 'Evento eliminato.';
+                await loadEvents();
+            } catch (error) {
+                if (isAuthError(error.message)) {
+                    clearAuth();
+                    openAuthModal();
+                } else {
+                    elements.formNotice.textContent = error.message || 'Eliminazione evento non riuscita.';
+                }
+            }
         }
 
         function renderAuthState() {
@@ -1082,6 +1183,10 @@
 
         function formatTime(date) {
             return date.toLocaleTimeString('it-IT', { hour: '2-digit', minute: '2-digit' });
+        }
+
+        function formatTimeInput(date) {
+            return `${String(date.getHours()).padStart(2, '0')}:${String(date.getMinutes()).padStart(2, '0')}`;
         }
 
         async function readErrorMessage(response) {
