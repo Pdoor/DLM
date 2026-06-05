@@ -51,6 +51,7 @@ export default {
       if (url.pathname === '/api/raid-events' && request.method === 'POST') return await handleCreateRaidEvent(request, env);
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+$/) && request.method === 'PUT') return await handleUpdateRaidEvent(request, env);
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+$/) && request.method === 'DELETE') return await handleDeleteRaidEvent(request, env);
+      if (url.pathname.match(/^\/api\/raid-events\/[^/]+\/delete$/) && request.method === 'POST') return await handleDeleteRaidEvent(request, env);
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+\/join$/) && request.method === 'POST') return await handleJoinRaidEvent(request, env);
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+\/leave$/) && request.method === 'POST') return await handleLeaveRaidEvent(request, env);
       if (url.pathname === '/api/debug/friends-shape') return await handleFriendsShapeDebug(request, env);
@@ -259,13 +260,17 @@ async function handleRaidEvents(request, env) {
   return corsResponse({
     weekStart: weekStart.toISOString(),
     weekEnd: weekEnd.toISOString(),
-    events: events.map((event) => ({
-      ...event,
-      viewerJoined: Boolean((participants.get(event.eventId) || []).some((participant) => {
-        return (viewerKey && participant.userId === viewerKey) || (userId && participant.userId === userId);
-      })),
-      participants: participants.get(event.eventId) || []
-    }))
+    events: events.map((event) => {
+      const eventParticipants = participants.get(event.eventId) || [];
+      return {
+        ...event,
+        viewerJoined: Boolean(eventParticipants.some((participant) => {
+          return (viewerKey && participant.userId === viewerKey) || (userId && participant.userId === userId);
+        })),
+        viewerCanManage: canManageRaidEvent(event, userId, viewerKey, eventParticipants),
+        participants: eventParticipants
+      };
+    })
   }, env);
 }
 
@@ -313,9 +318,10 @@ async function handleUpdateRaidEvent(request, env) {
   const user = await requirePlannerUser(env, body.userId);
   const existing = await getRaidEvent(env, eventId);
   if (!existing) return corsResponse({ error: 'Evento non trovato' }, env, 404);
-  if (existing.creatorUserId !== user.userId) return corsResponse({ error: 'Solo il creatore puo modificare questo evento' }, env, 403);
-
   const profile = await getPlannerUserProfile(env, user);
+  if (!await canManageRaidEventWithProfile(env, existing, user, profile)) {
+    return corsResponse({ error: 'Solo il creatore puo modificare questo evento' }, env, 403);
+  }
   const updated = {
     ...normalizeRaidEventInput(body, user, profile),
     eventId,
@@ -345,7 +351,10 @@ async function handleDeleteRaidEvent(request, env) {
   const user = await requirePlannerUser(env, body.userId);
   const event = await getRaidEvent(env, eventId);
   if (!event) return corsResponse({ error: 'Evento non trovato' }, env, 404);
-  if (event.creatorUserId !== user.userId) return corsResponse({ error: 'Solo il creatore puo eliminare questo evento' }, env, 403);
+  const profile = await getPlannerUserProfile(env, user);
+  if (!await canManageRaidEventWithProfile(env, event, user, profile)) {
+    return corsResponse({ error: 'Solo il creatore puo eliminare questo evento' }, env, 403);
+  }
 
   await markRaidEventDeleted(env, eventId);
   return corsResponse({ ok: true }, env);
@@ -1139,6 +1148,24 @@ async function getPlannerViewerParticipantKey(env, userId) {
 
 function getPlannerParticipantKey(user, profile) {
   return profile.membershipId ? `bungie:${profile.membershipId}` : `user:${user.userId}`;
+}
+
+function canManageRaidEvent(event, userId, viewerKey, participants) {
+  if (!userId) return false;
+  if (event.creatorUserId === userId) return true;
+  if (!viewerKey) return false;
+  return participants.some((participant) => {
+    return participant.participantType === 'auth'
+      && participant.addedByUserId === event.creatorUserId
+      && participant.userId === viewerKey;
+  });
+}
+
+async function canManageRaidEventWithProfile(env, event, user, profile) {
+  const participantKey = getPlannerParticipantKey(user, profile);
+  if (event.creatorUserId === user.userId) return true;
+  const participants = await listRaidParticipants(env, [event.eventId]);
+  return canManageRaidEvent(event, user.userId, participantKey, participants.get(event.eventId) || []);
 }
 
 function createAuthRaidParticipant(user, profile, addedByUserId, joinedAt) {

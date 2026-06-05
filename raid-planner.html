@@ -547,6 +547,7 @@
             <div class="top-actions">
                 <button class="button secondary" type="button" id="homeButton">Home</button>
                 <button class="button secondary" type="button" id="hubButton">Hub Stagionale</button>
+                <button class="button secondary" type="button" id="refreshButton">Refresh</button>
                 <button class="button" type="button" id="loginButton">Accedi con Bungie</button>
                 <span class="auth-state" id="authState"></span>
             </div>
@@ -668,6 +669,7 @@
         const elements = {
             homeButton: document.getElementById('homeButton'),
             hubButton: document.getElementById('hubButton'),
+            refreshButton: document.getElementById('refreshButton'),
             loginButton: document.getElementById('loginButton'),
             authState: document.getElementById('authState'),
             weekTitle: document.getElementById('weekTitle'),
@@ -700,6 +702,7 @@
         document.addEventListener('DOMContentLoaded', initialize);
         elements.homeButton.addEventListener('click', () => window.location.href = 'index.html');
         elements.hubButton.addEventListener('click', () => window.location.href = 'seasonal-hub.html');
+        elements.refreshButton.addEventListener('click', refreshPlanner);
         elements.loginButton.addEventListener('click', startLogin);
         elements.modalLoginButton.addEventListener('click', startLogin);
         elements.modalCloseButton.addEventListener('click', closeAuthModal);
@@ -771,6 +774,17 @@
                 elements.clanMemberSelect.disabled = true;
                 elements.addClanMemberButton.disabled = true;
                 elements.selectedMemberList.innerHTML = `<div class="notice">${escapeHtml(error.message || 'Membri clan non disponibili.')}</div>`;
+            }
+        }
+
+        async function refreshPlanner() {
+            elements.refreshButton.disabled = true;
+            elements.formNotice.textContent = 'Aggiornamento planner...';
+            try {
+                await Promise.all([loadClanMembers(), loadEvents()]);
+                elements.formNotice.textContent = 'Planner aggiornato.';
+            } finally {
+                elements.refreshButton.disabled = false;
             }
         }
 
@@ -899,7 +913,7 @@
             const allParticipants = raidEvent.participants || [];
             const participants = allParticipants;
             const userId = getUserId();
-            const isCreator = Boolean(userId && raidEvent.creatorUserId === userId);
+            const isCreator = Boolean(raidEvent.viewerCanManage || (userId && raidEvent.creatorUserId === userId));
             const joined = Boolean(raidEvent.viewerJoined || (userId && allParticipants.some((participant) => participant.userId === userId)));
             const full = participants.length >= raidEvent.maxPlayers;
             const card = document.createElement('div');
@@ -987,8 +1001,8 @@
             if (!confirmed) return;
 
             try {
-                const response = await fetch(`${WORKER_BASE_URL}/api/raid-events/${encodeURIComponent(raidEvent.eventId)}`, {
-                    method: 'DELETE',
+                const response = await fetch(`${WORKER_BASE_URL}/api/raid-events/${encodeURIComponent(raidEvent.eventId)}/delete`, {
+                    method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ userId })
                 });
