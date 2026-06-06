@@ -1,14 +1,69 @@
 {
-  "generatedAt": "2026-06-05T23:46:49.715Z",
+  "generatedAt": "2026-06-06T03:58:48.714Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "Pdor#2087",
+      "membershipId": "4611686018441724933",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 408,
+      "lastPlayedTimestamp": 1780710809000,
+      "lastActivityTimestamp": 1780709859000,
+      "lastActivityText": "Il Relitto il 06/06/2026 01:37",
+      "activities": [
+        {
+          "name": "Il Relitto",
+          "period": "2026-06-06T01:37:39Z"
+        },
+        {
+          "name": "Avamposto di Tharsis",
+          "period": "2026-06-06T01:28:59Z"
+        },
+        {
+          "name": "Temibile aiutante: Audace",
+          "period": "2026-06-06T00:34:55Z"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-05T22:57:35Z"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-05T22:50:26Z"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-05T20:58:59Z"
+        },
+        {
+          "name": "Incubo di Gahlran: Personalizzata",
+          "period": "2026-06-02T09:05:50Z"
+        },
+        {
+          "name": "Eliostasi: Personalizzata",
+          "period": "2026-06-02T08:51:40Z"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-02T08:09:48Z"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-01T22:13:28Z"
+        }
+      ]
+    },
+    {
       "displayName": "mattia08pro#6310",
       "membershipId": "4611686018513701477",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Intrepido",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/dac5ae759ce9556eaf49d6f8776713f5.jpg",
@@ -56,61 +111,6 @@
         {
           "name": "Volta di Vetro: Standard",
           "period": "2026-06-01T14:22:38Z"
-        }
-      ]
-    },
-    {
-      "displayName": "Pdor#2087",
-      "membershipId": "4611686018441724933",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 407,
-      "lastPlayedTimestamp": 1780703175000,
-      "lastActivityTimestamp": 1780700255000,
-      "lastActivityText": "Presagio: Personalizzata il 05/06/2026 22:57",
-      "activities": [
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-05T22:57:35Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-05T22:50:26Z"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-05T20:58:59Z"
-        },
-        {
-          "name": "Incubo di Gahlran: Personalizzata",
-          "period": "2026-06-02T09:05:50Z"
-        },
-        {
-          "name": "Eliostasi: Personalizzata",
-          "period": "2026-06-02T08:51:40Z"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-02T08:09:48Z"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-01T22:13:28Z"
-        },
-        {
-          "name": "Benvenuti alla Frontiera: Normale",
-          "period": "2026-06-01T21:16:55Z"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-01T16:45:22Z"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-01T16:41:49Z"
         }
       ]
     },
