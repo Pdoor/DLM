@@ -1,22 +1,85 @@
 {
-  "generatedAt": "2026-06-06T11:37:50.058Z",
+  "generatedAt": "2026-06-06T13:55:14.755Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 456,
+      "lastPlayedTimestamp": 1780754089000,
+      "lastActivityTimestamp": 1780749972000,
+      "lastActivityText": "Conservazione il 06/06/2026 12:46",
+      "activities": [
+        {
+          "name": "Conservazione",
+          "period": "2026-06-06T12:46:12Z"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-05T20:58:59Z"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-05T20:44:41Z"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-05T14:55:31Z"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-06-03T21:11:22Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-03T16:35:46Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T16:20:42Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T16:03:38Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:45:45Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-03T15:41:20Z"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0639521caaebd9bc34338713e66faa6f.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1780737791000,
-      "lastActivityTimestamp": 1780736694000,
-      "lastActivityText": "Campi di battaglia: Nucleo: Con matchmaking il 06/06/2026 09:04",
+      "lastPlayedTimestamp": 1780754020000,
+      "lastActivityTimestamp": 1780749972000,
+      "lastActivityText": "Conservazione il 06/06/2026 12:46",
       "activities": [
+        {
+          "name": "Conservazione",
+          "period": "2026-06-06T12:46:12Z"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-06-06T12:29:30Z"
+        },
         {
           "name": "Campi di battaglia: Nucleo: Con matchmaking",
           "period": "2026-06-06T09:04:54Z"
@@ -48,14 +111,6 @@
         {
           "name": "Ultimo desiderio: Standard",
           "period": "2026-06-05T07:49:46Z"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-05T07:35:37Z"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-06-05T07:19:23Z"
         }
       ]
     },
@@ -331,61 +386,6 @@
         {
           "name": "Poligono di Tiro",
           "period": "2026-05-29T22:35:21Z"
-        }
-      ]
-    },
-    {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 451,
-      "lastPlayedTimestamp": 1780698976000,
-      "lastActivityTimestamp": 1780693139000,
-      "lastActivityText": "Ultimo desiderio: Standard il 05/06/2026 20:58",
-      "activities": [
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-05T20:58:59Z"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-05T20:44:41Z"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-05T14:55:31Z"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-06-03T21:11:22Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-03T16:35:46Z"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-06-03T16:20:42Z"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-06-03T16:03:38Z"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-06-03T15:45:45Z"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-06-03T15:41:20Z"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-06-03T15:34:39Z"
         }
       ]
     },
