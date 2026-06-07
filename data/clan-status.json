@@ -1,19 +1,74 @@
 {
-  "generatedAt": "2026-06-07T11:11:48.675Z",
+  "generatedAt": "2026-06-07T13:06:07.029Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/fc8a4349dc04777c474ec140c7b66d9e.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1780832204000,
+      "lastActivityTimestamp": 1780830784000,
+      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 07/06/2026 11:13",
+      "activities": [
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-06-07T11:13:04Z"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-06-07T06:42:11Z"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-06-07T06:23:48Z"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-06-07T05:12:41Z"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-06-04T17:15:55Z"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-06-04T16:47:18Z"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-06-04T15:37:03Z"
+        },
+        {
+          "name": "L'Oscura Sacerdotessa: Personalizzata",
+          "period": "2026-06-04T15:09:54Z"
+        },
+        {
+          "name": "Il Tecnocrate: Personalizzata",
+          "period": "2026-06-04T14:48:00Z"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-06-04T14:46:42Z"
+        }
+      ]
+    },
+    {
       "displayName": "Pdor#2087",
       "membershipId": "4611686018441724933",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 416,
-      "lastPlayedTimestamp": 1780830643000,
+      "powerLevel": 421,
+      "lastPlayedTimestamp": 1780832760000,
       "lastActivityTimestamp": 1780828759000,
       "lastActivityText": "Gloria futura: Audace il 07/06/2026 10:39",
       "activities": [
@@ -56,61 +111,6 @@
         {
           "name": "Presagio: Personalizzata",
           "period": "2026-06-05T22:50:26Z"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/fc8a4349dc04777c474ec140c7b66d9e.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1780830565000,
-      "lastActivityTimestamp": 1780814531000,
-      "lastActivityText": "Luna il 07/06/2026 06:42",
-      "activities": [
-        {
-          "name": "Luna",
-          "period": "2026-06-07T06:42:11Z"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-06-07T06:23:48Z"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-06-07T05:12:41Z"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-06-04T17:15:55Z"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-06-04T16:47:18Z"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-06-04T15:37:03Z"
-        },
-        {
-          "name": "L'Oscura Sacerdotessa: Personalizzata",
-          "period": "2026-06-04T15:09:54Z"
-        },
-        {
-          "name": "Il Tecnocrate: Personalizzata",
-          "period": "2026-06-04T14:48:00Z"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-06-04T14:46:42Z"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-06-04T14:40:52Z"
         }
       ]
     },
