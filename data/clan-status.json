@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T08:36:26.110Z",
+  "generatedAt": "2026-06-07T11:11:48.675Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,27 @@
       "className": "Cacciatori",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 411,
-      "lastPlayedTimestamp": 1780821354000,
-      "lastActivityTimestamp": 1780817790000,
-      "lastActivityText": "Soli e al freddo: Audace il 07/06/2026 07:36",
+      "powerLevel": 416,
+      "lastPlayedTimestamp": 1780830643000,
+      "lastActivityTimestamp": 1780828759000,
+      "lastActivityText": "Gloria futura: Audace il 07/06/2026 10:39",
       "activities": [
+        {
+          "name": "Gloria futura: Audace",
+          "period": "2026-06-07T10:39:19Z"
+        },
+        {
+          "name": "Il Relitto",
+          "period": "2026-06-07T10:37:22Z"
+        },
+        {
+          "name": "Il lungo inganno: Audace",
+          "period": "2026-06-07T10:17:05Z"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Audace",
+          "period": "2026-06-07T08:43:53Z"
+        },
         {
           "name": "Soli e al freddo: Audace",
           "period": "2026-06-07T07:36:30Z"
@@ -40,22 +56,6 @@
         {
           "name": "Presagio: Personalizzata",
           "period": "2026-06-05T22:50:26Z"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-05T20:58:59Z"
-        },
-        {
-          "name": "Incubo di Gahlran: Personalizzata",
-          "period": "2026-06-02T09:05:50Z"
-        },
-        {
-          "name": "Eliostasi: Personalizzata",
-          "period": "2026-06-02T08:51:40Z"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-02T08:09:48Z"
         }
       ]
     },
@@ -63,12 +63,12 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/fc8a4349dc04777c474ec140c7b66d9e.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1780817254000,
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1780830565000,
       "lastActivityTimestamp": 1780814531000,
       "lastActivityText": "Luna il 07/06/2026 06:42",
       "activities": [
