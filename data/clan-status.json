@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T21:19:43.743Z",
+  "generatedAt": "2026-06-07T22:38:57.168Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,31 @@
       "className": "Cacciatori",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 413,
-      "lastPlayedTimestamp": 1780867120000,
-      "lastActivityTimestamp": 1780865880000,
-      "lastActivityText": "Partita veloce: Normale il 07/06/2026 20:58",
+      "powerLevel": 416,
+      "lastPlayedTimestamp": 1780871928000,
+      "lastActivityTimestamp": 1780870307000,
+      "lastActivityText": "Partita veloce: Normale il 07/06/2026 22:11",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-07T22:11:47Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-07T21:57:39Z"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-06-07T21:54:57Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-07T21:29:03Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-07T21:14:15Z"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-06-07T20:58:00Z"
@@ -36,26 +56,61 @@
         {
           "name": "Il lungo inganno: Audace",
           "period": "2026-06-07T10:17:05Z"
+        }
+      ]
+    },
+    {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 455,
+      "lastPlayedTimestamp": 1780871845000,
+      "lastActivityTimestamp": 1780869823000,
+      "lastActivityText": "Presagio: Personalizzata il 07/06/2026 22:03",
+      "activities": [
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-07T22:03:43Z"
         },
         {
-          "name": "Fuoco e ghiaccio: Audace",
-          "period": "2026-06-07T08:43:53Z"
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-07T21:52:38Z"
         },
         {
-          "name": "Soli e al freddo: Audace",
-          "period": "2026-06-07T07:36:30Z"
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-06-07T16:50:49Z"
         },
         {
-          "name": "Il Relitto",
-          "period": "2026-06-06T01:37:39Z"
+          "name": "Azzardo",
+          "period": "2026-06-07T16:15:45Z"
         },
         {
-          "name": "Avamposto di Tharsis",
-          "period": "2026-06-06T01:28:59Z"
+          "name": "Azzardo",
+          "period": "2026-06-07T16:00:33Z"
         },
         {
-          "name": "Temibile aiutante: Audace",
-          "period": "2026-06-06T00:34:55Z"
+          "name": "Azzardo",
+          "period": "2026-06-07T15:46:33Z"
+        },
+        {
+          "name": "Azzardo",
+          "period": "2026-06-07T15:39:42Z"
+        },
+        {
+          "name": "Azzardo",
+          "period": "2026-06-07T15:29:34Z"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-07T14:47:34Z"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-07T14:19:19Z"
         }
       ]
     },
@@ -67,11 +122,23 @@
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
-      "powerLevel": 382,
-      "lastPlayedTimestamp": 1780866989000,
-      "lastActivityTimestamp": 1780865294000,
-      "lastActivityText": "Partita veloce: Normale il 07/06/2026 20:48",
+      "powerLevel": 450,
+      "lastPlayedTimestamp": 1780871778000,
+      "lastActivityTimestamp": 1780869823000,
+      "lastActivityText": "Presagio: Personalizzata il 07/06/2026 22:03",
       "activities": [
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-07T22:03:43Z"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-07T21:52:38Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-07T21:30:31Z"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-06-07T20:48:14Z"
@@ -99,18 +166,6 @@
         {
           "name": "Azzardo",
           "period": "2026-06-07T15:46:33Z"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-06-07T15:39:42Z"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-06-07T15:29:34Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-07T14:41:42Z"
         }
       ]
     },
@@ -122,11 +177,23 @@
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
-      "powerLevel": 351,
-      "lastPlayedTimestamp": 1780866106000,
-      "lastActivityTimestamp": 1780865294000,
-      "lastActivityText": "Partita veloce: Normale il 07/06/2026 20:48",
+      "powerLevel": 450,
+      "lastPlayedTimestamp": 1780871834000,
+      "lastActivityTimestamp": 1780869823000,
+      "lastActivityText": "Presagio: Personalizzata il 07/06/2026 22:03",
       "activities": [
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-07T22:03:43Z"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-07T21:52:38Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-07T21:30:31Z"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-06-07T20:48:14Z"
@@ -154,18 +221,6 @@
         {
           "name": "Azzardo",
           "period": "2026-06-07T15:39:42Z"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-06-07T15:29:34Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-07T14:41:42Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-06T15:44:21Z"
         }
       ]
     },
@@ -221,61 +276,6 @@
         {
           "name": "Caldera: Personalizzata",
           "period": "2026-06-07T13:57:31Z"
-        }
-      ]
-    },
-    {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 456,
-      "lastPlayedTimestamp": 1780852677000,
-      "lastActivityTimestamp": 1780851049000,
-      "lastActivityText": "Campo di battaglia Colpo: Luna: Con matchmaking il 07/06/2026 16:50",
-      "activities": [
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-06-07T16:50:49Z"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-06-07T16:15:45Z"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-06-07T16:00:33Z"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-06-07T15:46:33Z"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-06-07T15:39:42Z"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-06-07T15:29:34Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-07T14:47:34Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-07T14:19:19Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-06T15:49:43Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-06T15:44:21Z"
         }
       ]
     },
