@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T22:38:57.168Z",
+  "generatedAt": "2026-06-08T00:15:12.340Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,27 @@
       "displayName": "Pdor#2087",
       "membershipId": "4611686018441724933",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 416,
-      "lastPlayedTimestamp": 1780871928000,
-      "lastActivityTimestamp": 1780870307000,
-      "lastActivityText": "Partita veloce: Normale il 07/06/2026 22:11",
+      "powerLevel": 421,
+      "lastPlayedTimestamp": 1780873209000,
+      "lastActivityTimestamp": 1780872868000,
+      "lastActivityText": "Partita veloce: Normale il 07/06/2026 22:54",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-07T22:54:28Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-07T22:40:46Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-07T22:25:51Z"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-06-07T22:11:47Z"
@@ -44,18 +56,116 @@
         {
           "name": "Partita veloce: Normale",
           "period": "2026-06-07T20:43:43Z"
+        }
+      ]
+    },
+    {
+      "displayName": "ClaudeFj#8206",
+      "membershipId": "4611686018522886434",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/72e35d429f3e159af545b52f4677a910.jpg",
+      "powerLevel": 378,
+      "lastPlayedTimestamp": 1780874165000,
+      "lastActivityTimestamp": 1780872735000,
+      "lastActivityText": "Terminale Intuitivo: Personalizzata il 07/06/2026 22:52",
+      "activities": [
+        {
+          "name": "Terminale Intuitivo: Personalizzata",
+          "period": "2026-06-07T22:52:15Z"
         },
         {
-          "name": "Gloria futura: Audace",
-          "period": "2026-06-07T10:39:19Z"
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-07T22:17:27Z"
         },
         {
-          "name": "Il Relitto",
-          "period": "2026-06-07T10:37:22Z"
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-07T22:03:43Z"
         },
         {
-          "name": "Il lungo inganno: Audace",
-          "period": "2026-06-07T10:17:05Z"
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-07T21:52:38Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-07T21:30:31Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-07T20:48:14Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-07T20:28:53Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-07T20:16:59Z"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-06-07T16:50:49Z"
+        },
+        {
+          "name": "Azzardo",
+          "period": "2026-06-07T16:15:45Z"
+        }
+      ]
+    },
+    {
+      "displayName": "Paltrix94#5760",
+      "membershipId": "4611686018516491359",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
+      "powerLevel": 353,
+      "lastPlayedTimestamp": 1780873219000,
+      "lastActivityTimestamp": 1780872735000,
+      "lastActivityText": "Terminale Intuitivo: Personalizzata il 07/06/2026 22:52",
+      "activities": [
+        {
+          "name": "Terminale Intuitivo: Personalizzata",
+          "period": "2026-06-07T22:52:15Z"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-07T22:17:27Z"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-07T22:03:43Z"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-07T21:52:38Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-07T21:30:31Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-07T20:48:14Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-07T20:28:53Z"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-07T20:16:59Z"
+        },
+        {
+          "name": "Azzardo",
+          "period": "2026-06-07T16:15:45Z"
+        },
+        {
+          "name": "Azzardo",
+          "period": "2026-06-07T16:00:33Z"
         }
       ]
     },
@@ -68,10 +178,14 @@
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 455,
-      "lastPlayedTimestamp": 1780871845000,
-      "lastActivityTimestamp": 1780869823000,
-      "lastActivityText": "Presagio: Personalizzata il 07/06/2026 22:03",
+      "lastPlayedTimestamp": 1780873253000,
+      "lastActivityTimestamp": 1780870647000,
+      "lastActivityText": "Presagio: Personalizzata il 07/06/2026 22:17",
       "activities": [
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-07T22:17:27Z"
+        },
         {
           "name": "Presagio: Personalizzata",
           "period": "2026-06-07T22:03:43Z"
@@ -107,120 +221,6 @@
         {
           "name": "Presagio: Personalizzata",
           "period": "2026-06-07T14:47:34Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-07T14:19:19Z"
-        }
-      ]
-    },
-    {
-      "displayName": "ClaudeFj#8206",
-      "membershipId": "4611686018522886434",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
-      "powerLevel": 450,
-      "lastPlayedTimestamp": 1780871778000,
-      "lastActivityTimestamp": 1780869823000,
-      "lastActivityText": "Presagio: Personalizzata il 07/06/2026 22:03",
-      "activities": [
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-07T22:03:43Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-07T21:52:38Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-07T21:30:31Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-07T20:48:14Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-07T20:28:53Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-07T20:16:59Z"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-06-07T16:50:49Z"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-06-07T16:15:45Z"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-06-07T16:00:33Z"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-06-07T15:46:33Z"
-        }
-      ]
-    },
-    {
-      "displayName": "Paltrix94#5760",
-      "membershipId": "4611686018516491359",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
-      "powerLevel": 450,
-      "lastPlayedTimestamp": 1780871834000,
-      "lastActivityTimestamp": 1780869823000,
-      "lastActivityText": "Presagio: Personalizzata il 07/06/2026 22:03",
-      "activities": [
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-07T22:03:43Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-07T21:52:38Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-07T21:30:31Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-07T20:48:14Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-07T20:28:53Z"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-07T20:16:59Z"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-06-07T16:15:45Z"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-06-07T16:00:33Z"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-06-07T15:46:33Z"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-06-07T15:39:42Z"
         }
       ]
     },
