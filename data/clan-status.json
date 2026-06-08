@@ -1,22 +1,92 @@
 {
-  "generatedAt": "2026-06-08T16:50:45.361Z",
+  "generatedAt": "2026-06-08T17:59:42.625Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Scrittore spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7e47867ab65a9967cc20f29c2aabe4ed.jpg",
+      "powerLevel": 398,
+      "lastPlayedTimestamp": 1780941513000,
+      "lastActivityTimestamp": 1780940749000,
+      "lastActivityText": "Poligono di Tiro il 08/06/2026 17:45",
+      "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-08T17:45:49Z",
+          "instanceId": "16869051327"
+        },
+        {
+          "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
+          "period": "2026-06-08T17:21:36Z",
+          "instanceId": "16869032673"
+        },
+        {
+          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
+          "period": "2026-06-08T16:47:30Z",
+          "instanceId": "16869001568"
+        },
+        {
+          "name": "Caldera: Personalizzata",
+          "period": "2026-06-08T11:11:39Z",
+          "instanceId": "16868670690"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-06-08T11:00:56Z",
+          "instanceId": "16868661265"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-08T06:31:14Z",
+          "instanceId": "16868487541"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-08T06:20:41Z",
+          "instanceId": "16868476082"
+        },
+        {
+          "name": "Caldera: Personalizzata",
+          "period": "2026-06-07T18:56:52Z",
+          "instanceId": "16867428823"
+        },
+        {
+          "name": "Caldera: Personalizzata",
+          "period": "2026-06-07T18:42:29Z",
+          "instanceId": "16867403867"
+        },
+        {
+          "name": "Caldera: Personalizzata",
+          "period": "2026-06-07T18:32:09Z",
+          "instanceId": "16867386851"
+        }
+      ]
+    },
+    {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 457,
-      "lastPlayedTimestamp": 1780937156000,
-      "lastActivityTimestamp": 1780934914000,
-      "lastActivityText": "Partita veloce: Normale il 08/06/2026 16:08",
+      "lastPlayedTimestamp": 1780939378000,
+      "lastActivityTimestamp": 1780939118000,
+      "lastActivityText": "Pallido Cuore il 08/06/2026 17:18",
       "activities": [
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-06-08T17:18:38Z",
+          "instanceId": "16869009298"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-06-08T16:08:34Z",
@@ -61,11 +131,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-06-08T12:48:53Z",
           "instanceId": "16868743682"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-07T22:17:27Z",
-          "instanceId": "16867818935"
         }
       ]
     },
@@ -73,15 +138,20 @@
       "displayName": "ClaudeFj#8206",
       "membershipId": "4611686018522886434",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
-      "powerLevel": 397,
-      "lastPlayedTimestamp": 1780937272000,
-      "lastActivityTimestamp": 1780934914000,
-      "lastActivityText": "Partita veloce: Normale il 08/06/2026 16:08",
+      "powerLevel": 394,
+      "lastPlayedTimestamp": 1780939757000,
+      "lastActivityTimestamp": 1780939106000,
+      "lastActivityText": "Controllo: Con matchmaking il 08/06/2026 17:18",
       "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-08T17:18:26Z",
+          "instanceId": "16869016639"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-06-08T16:08:34Z",
@@ -126,11 +196,6 @@
           "name": "Il Ponte di Vetro: Con matchmaking",
           "period": "2026-06-08T09:49:00Z",
           "instanceId": "16868630498"
-        },
-        {
-          "name": "Locus del Lamento Dolente: Personalizzata",
-          "period": "2026-06-08T09:25:56Z",
-          "instanceId": "16868615395"
         }
       ]
     },
@@ -196,71 +261,6 @@
           "name": "La Tana dei Diavoli: Con matchmaking",
           "period": "2026-06-07T05:12:41Z",
           "instanceId": "16866493381"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Scrittore spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7e47867ab65a9967cc20f29c2aabe4ed.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1780937418000,
-      "lastActivityTimestamp": 1780917099000,
-      "lastActivityText": "Caldera: Personalizzata il 08/06/2026 11:11",
-      "activities": [
-        {
-          "name": "Caldera: Personalizzata",
-          "period": "2026-06-08T11:11:39Z",
-          "instanceId": "16868670690"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-06-08T11:00:56Z",
-          "instanceId": "16868661265"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-08T06:31:14Z",
-          "instanceId": "16868487541"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-08T06:20:41Z",
-          "instanceId": "16868476082"
-        },
-        {
-          "name": "Caldera: Personalizzata",
-          "period": "2026-06-07T18:56:52Z",
-          "instanceId": "16867428823"
-        },
-        {
-          "name": "Caldera: Personalizzata",
-          "period": "2026-06-07T18:42:29Z",
-          "instanceId": "16867403867"
-        },
-        {
-          "name": "Caldera: Personalizzata",
-          "period": "2026-06-07T18:32:09Z",
-          "instanceId": "16867386851"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-07T18:17:51Z",
-          "instanceId": "16867368492"
-        },
-        {
-          "name": "Caldera: Personalizzata",
-          "period": "2026-06-07T15:29:17Z",
-          "instanceId": "16867106034"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-07T15:11:47Z",
-          "instanceId": "16867087152"
         }
       ]
     },
