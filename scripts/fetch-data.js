@@ -113,7 +113,8 @@ async function hydrateMember(member, classes, activityDefinitions, recordDefinit
     const activityData = await bungieFetch(`/Platform/Destiny2/${info.membershipType}/Account/${info.membershipId}/Character/${lastCharacter.characterId}/Stats/Activities/?count=10`);
     const activities = (activityData.Response?.activities || []).map((activity) => ({
       name: getActivityName(activity, activityDefinitions),
-      period: activity.period
+      period: activity.period,
+      instanceId: String(activity.activityDetails?.instanceId || "")
     }));
 
     return {

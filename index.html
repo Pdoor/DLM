@@ -509,10 +509,64 @@
             border-radius: 4px;
         }
 
+        .activity-button {
+            display: grid;
+            grid-template-columns: minmax(0, 1fr) auto;
+            gap: 8px;
+            align-items: center;
+            width: 100%;
+            padding: 0;
+            border: 0;
+            background: transparent;
+            color: inherit;
+            font: inherit;
+            text-align: left;
+            cursor: pointer;
+        }
+
+        .activity-toggle {
+            color: var(--gold);
+            font-size: 11px;
+            font-weight: bold;
+            text-transform: uppercase;
+            white-space: nowrap;
+        }
+
         .activity-time {
             margin-top: 4px;
             font-size: 12px;
             color: var(--muted);
+        }
+
+        .activity-team {
+            display: grid;
+            gap: 6px;
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px solid var(--border);
+        }
+
+        .team-player {
+            display: grid;
+            grid-template-columns: minmax(0, 1fr) auto;
+            gap: 8px;
+            align-items: center;
+            color: var(--muted);
+            font-size: 12px;
+            line-height: 1.35;
+        }
+
+        .team-player-name {
+            min-width: 0;
+            color: var(--text);
+            font-weight: bold;
+            overflow-wrap: anywhere;
+        }
+
+        .team-player-meta,
+        .team-player-stats {
+            color: var(--muted);
+            font-size: 11px;
         }
 
         .online-status {
@@ -626,6 +680,11 @@
                 gap: 3px;
             }
 
+            .activity-button,
+            .team-player {
+                grid-template-columns: 1fr;
+            }
+
             .activity {
                 -webkit-line-clamp: 2;
             }
@@ -727,6 +786,7 @@
         let currentUpdatedLabel = '';
         let currentD3Signatures = null;
         let liveStatusTimer = null;
+        const activityTeamCache = new Map();
 
         const elements = {
             refreshButton: document.getElementById('refreshButton'),
@@ -1210,6 +1270,13 @@
                 const activityItem = document.createElement('div');
                 activityItem.className = 'activity-item';
 
+                const button = document.createElement('button');
+                button.className = 'activity-button';
+                button.type = 'button';
+                button.disabled = !activity.instanceId;
+
+                const summary = document.createElement('div');
+
                 const title = document.createElement('div');
                 title.textContent = activity.name || 'Attività sconosciuta';
 
@@ -1217,9 +1284,99 @@
                 time.className = 'activity-time';
                 time.textContent = formatDate(activity.period);
 
-                activityItem.append(title, time);
+                const toggle = document.createElement('span');
+                toggle.className = 'activity-toggle';
+                toggle.textContent = activity.instanceId ? 'Squadra' : 'N/D';
+
+                const team = document.createElement('div');
+                team.className = 'activity-team';
+                team.hidden = true;
+
+                summary.append(title, time);
+                button.append(summary, toggle);
+                button.addEventListener('click', () => toggleActivityTeam(activity, team, toggle));
+
+                activityItem.append(button, team);
                 elements.activityContent.appendChild(activityItem);
             });
+        }
+
+        async function toggleActivityTeam(activity, container, toggle) {
+            if (!activity.instanceId) return;
+            if (!container.hidden) {
+                container.hidden = true;
+                toggle.textContent = 'Squadra';
+                return;
+            }
+
+            container.hidden = false;
+            toggle.textContent = 'Chiudi';
+            if (container.dataset.loaded === 'true') return;
+
+            container.innerHTML = '<div class="activity-time">Caricamento squadra...</div>';
+            try {
+                const report = await getActivityTeam(activity.instanceId);
+                renderActivityTeam(container, report.players || []);
+            } catch (error) {
+                container.innerHTML = `<div class="error">${escapeHtml(error.message || 'Squadra non disponibile.')}</div>`;
+            }
+        }
+
+        async function getActivityTeam(instanceId) {
+            if (activityTeamCache.has(instanceId)) return activityTeamCache.get(instanceId);
+            const response = await fetch(`${WORKER_BASE_URL}/api/activity-team?instanceId=${encodeURIComponent(instanceId)}`, {
+                cache: 'no-store'
+            });
+            const data = await response.json().catch(() => ({}));
+            if (!response.ok) throw new Error(data.error || `Errore HTTP ${response.status}`);
+            activityTeamCache.set(instanceId, data);
+            return data;
+        }
+
+        function renderActivityTeam(container, players) {
+            container.innerHTML = '';
+            container.dataset.loaded = 'true';
+
+            if (!players.length) {
+                container.innerHTML = '<div class="empty">Nessun giocatore trovato nel report attività.</div>';
+                return;
+            }
+
+            players.forEach(player => {
+                const row = document.createElement('div');
+                row.className = 'team-player';
+
+                const main = document.createElement('div');
+                const name = document.createElement('div');
+                name.className = 'team-player-name';
+                name.textContent = player.displayName || 'Guardiano';
+
+                const meta = document.createElement('div');
+                meta.className = 'team-player-meta';
+                meta.textContent = [
+                    player.className || '',
+                    player.teamName ? `Team ${player.teamName}` : '',
+                    player.completed ? 'Completata' : ''
+                ].filter(Boolean).join(' · ');
+
+                const stats = document.createElement('div');
+                stats.className = 'team-player-stats';
+                stats.textContent = formatPlayerActivityStats(player);
+
+                main.append(name, meta);
+                row.append(main, stats);
+                container.appendChild(row);
+            });
+        }
+
+        function formatPlayerActivityStats(player) {
+            const parts = [];
+            if (player.lightLevel) parts.push(String(player.lightLevel));
+            if (player.kills || player.deaths || player.assists) {
+                parts.push(`${player.kills || 0}/${player.deaths || 0}/${player.assists || 0}`);
+            }
+            if (player.score) parts.push(`Score ${player.score}`);
+            return parts.join(' · ');
         }
 
         function compareMembers(a, b) {

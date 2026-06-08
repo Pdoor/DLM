@@ -44,6 +44,12 @@ CREATE TABLE IF NOT EXISTS friend_details_cache (
 CREATE INDEX IF NOT EXISTS idx_friend_details_cache_user_id
 ON friend_details_cache (user_id);
 
+CREATE TABLE IF NOT EXISTS activity_team_cache (
+  instance_id TEXT PRIMARY KEY,
+  report_json TEXT NOT NULL,
+  updated_at INTEGER NOT NULL
+);
+
 CREATE TABLE IF NOT EXISTS raid_events (
   event_id TEXT PRIMARY KEY,
   title TEXT NOT NULL,

@@ -10,6 +10,7 @@ const GROUP_FILTER_ALL = 0;
 const D3_PETITION_URL = 'https://www.change.org/p/petition-sony-to-develop-destiny-3';
 const FRIEND_DETAILS_COMPONENTS = '200';
 const FRIEND_DETAILS_CACHE_TTL_MS = 15 * 60 * 1000;
+const ACTIVITY_TEAM_CACHE_TTL_MS = 7 * 24 * 60 * 60 * 1000;
 const SEASONAL_HUB_COMPONENTS = [
   100, 104, 200, 201, 202, 301, 700, 900, 1200
 ].join(',');
@@ -47,6 +48,7 @@ export default {
       if (url.pathname === '/api/clan-presence') return await handleClanPresence(env);
       if (url.pathname === '/api/friends-status') return await handleFriendsStatus(request, env);
       if (url.pathname === '/api/friends-details') return await handleFriendsDetails(request, env);
+      if (url.pathname === '/api/activity-team') return await handleActivityTeam(request, env);
       if (url.pathname === '/api/raid-events' && request.method === 'GET') return await handleRaidEvents(request, env);
       if (url.pathname === '/api/raid-events' && request.method === 'POST') return await handleCreateRaidEvent(request, env);
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+$/) && request.method === 'PUT') return await handleUpdateRaidEvent(request, env);
@@ -243,6 +245,27 @@ async function handleFriendsDetails(request, env) {
     checkedAt: new Date().toISOString(),
     friends: detailedFriends.filter(Boolean)
   }, env);
+}
+
+async function handleActivityTeam(request, env) {
+  assertEnv(env, ['BUNGIE_API_KEY']);
+  const url = new URL(request.url);
+  const instanceId = cleanText(url.searchParams.get('instanceId') || '').replace(/[^\d]/g, '');
+  if (!instanceId) return corsResponse({ error: 'Missing instanceId' }, env, 400);
+
+  await ensureActivityTeamCacheTable(env);
+  const cached = await getActivityTeamCache(env, instanceId);
+  if (cached && Date.now() - cached.updatedAt < ACTIVITY_TEAM_CACHE_TTL_MS) {
+    return corsResponse({
+      ...cached.report,
+      cached: true
+    }, env);
+  }
+
+  const report = await bungieFetch(`/Platform/Destiny2/Stats/PostGameCarnageReport/${instanceId}/`, env);
+  const normalized = normalizeActivityTeam(instanceId, report.Response || {});
+  await saveActivityTeamCache(env, instanceId, normalized);
+  return corsResponse(normalized, env);
 }
 
 async function handleRaidEvents(request, env) {
@@ -988,7 +1011,8 @@ async function getRecentActivities(env, membership, characterId, activityDefinit
     );
     return (activityData.Response?.activities || []).map((activity) => ({
       name: getActivityName(activity, activityDefinitions),
-      period: activity.period
+      period: activity.period,
+      instanceId: String(activity.activityDetails?.instanceId || '')
     }));
   } catch (error) {
     console.warn(`Recent activities unavailable for ${membership.membershipId}`, error.message);
@@ -1527,6 +1551,44 @@ async function saveFriendDetailsCache(env, userId, friendId, details) {
   ).run();
 }
 
+async function ensureActivityTeamCacheTable(env) {
+  await env.DLM_DB.prepare(`
+    CREATE TABLE IF NOT EXISTS activity_team_cache (
+      instance_id TEXT PRIMARY KEY,
+      report_json TEXT NOT NULL,
+      updated_at INTEGER NOT NULL
+    )
+  `).run();
+}
+
+async function getActivityTeamCache(env, instanceId) {
+  const row = await env.DLM_DB.prepare(`
+    SELECT report_json, updated_at
+    FROM activity_team_cache
+    WHERE instance_id = ?
+  `).bind(instanceId).first();
+  if (!row) return null;
+  return {
+    report: JSON.parse(row.report_json),
+    updatedAt: row.updated_at || 0
+  };
+}
+
+async function saveActivityTeamCache(env, instanceId, report) {
+  await env.DLM_DB.prepare(`
+    INSERT INTO activity_team_cache (
+      instance_id, report_json, updated_at
+    ) VALUES (?, ?, ?)
+    ON CONFLICT(instance_id) DO UPDATE SET
+      report_json = excluded.report_json,
+      updated_at = excluded.updated_at
+  `).bind(
+    instanceId,
+    JSON.stringify(report),
+    Date.now()
+  ).run();
+}
+
 async function listRaidEvents(env, startIso, endIso) {
   const { results } = await env.DLM_DB.prepare(`
     SELECT event_id, title, activity, description, starts_at, duration_minutes, max_players,
@@ -1758,6 +1820,43 @@ function getActivityName(activity, activityDefinitions) {
   const details = activity.activityDetails || {};
   const hash = details.directorActivityHash || details.activityHash || details.referenceId;
   return activityDefinitions[String(hash)]?.displayProperties?.name || 'Attività sconosciuta';
+}
+
+function normalizeActivityTeam(instanceId, report) {
+  const entries = Array.isArray(report.entries) ? report.entries : [];
+  const teams = Array.isArray(report.teams) ? report.teams : [];
+  const teamNames = new Map(teams.map((team) => {
+    const teamId = String(team.teamId ?? team.teamName ?? '');
+    const name = cleanText(team.teamName || team.standing?.basic?.displayValue || '');
+    return [teamId, name];
+  }));
+
+  return {
+    instanceId,
+    period: report.period || '',
+    activityName: cleanText(report.activityDetails?.activityName || ''),
+    players: entries.map((entry) => {
+      const player = entry.player || {};
+      const info = player.destinyUserInfo || {};
+      const values = entry.values || {};
+      const teamId = String(entry.teamId ?? values.team?.basic?.value ?? '');
+      return {
+        displayName: getMembershipDisplayName(info),
+        membershipId: String(info.membershipId || ''),
+        membershipType: Number(info.membershipType || 0),
+        emblemPath: cleanText(player.iconPath || player.emblemPath || ''),
+        className: cleanText(player.characterClass || ''),
+        lightLevel: Number(player.lightLevel || 0),
+        teamId,
+        teamName: teamNames.get(teamId) || '',
+        completed: Boolean(Number(values.completed?.basic?.value || 0)),
+        kills: Number(values.kills?.basic?.value || 0),
+        deaths: Number(values.deaths?.basic?.value || 0),
+        assists: Number(values.assists?.basic?.value || 0),
+        score: Number(values.score?.basic?.value || 0)
+      };
+    }).filter((player) => player.displayName && player.displayName !== 'Guardiano')
+  };
 }
 
 function formatDate(timestamp) {

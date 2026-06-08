@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T14:35:33.068Z",
+  "generatedAt": "2026-06-08T16:48:31.306Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,50 +12,60 @@
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1780929327000,
-      "lastActivityTimestamp": 1780927854000,
-      "lastActivityText": "La fine di Crota: Standard il 08/06/2026 14:10",
+      "powerLevel": 457,
+      "lastPlayedTimestamp": 1780937156000,
+      "lastActivityTimestamp": 1780934914000,
+      "lastActivityText": "Partita veloce: Normale il 08/06/2026 18:08",
       "activities": [
         {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-08T14:10:54Z"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-08T14:01:14Z"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-06-08T13:44:04Z"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-06-08T13:07:59Z"
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-08T16:08:34Z",
+          "instanceId": "16868946119"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-08T12:48:53Z"
+          "period": "2026-06-08T15:52:40Z",
+          "instanceId": "16868920917"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-08T15:26:12Z",
+          "instanceId": "16868891229"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-06-08T14:28:56Z",
+          "instanceId": "16868846026"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-08T14:10:54Z",
+          "instanceId": "16868811511"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-08T14:01:14Z",
+          "instanceId": "16868798786"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-06-08T13:44:04Z",
+          "instanceId": "16868789987"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-06-08T13:07:59Z",
+          "instanceId": "16868759404"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-08T12:48:53Z",
+          "instanceId": "16868743682"
         },
         {
           "name": "Presagio: Personalizzata",
-          "period": "2026-06-07T22:17:27Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-07T22:03:43Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-07T21:52:38Z"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-06-07T16:50:49Z"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-06-07T16:15:45Z"
+          "period": "2026-06-07T22:17:27Z",
+          "instanceId": "16867818935"
         }
       ]
     },
@@ -67,50 +77,60 @@
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1780929321000,
-      "lastActivityTimestamp": 1780927854000,
-      "lastActivityText": "La fine di Crota: Standard il 08/06/2026 14:10",
+      "powerLevel": 397,
+      "lastPlayedTimestamp": 1780937272000,
+      "lastActivityTimestamp": 1780934914000,
+      "lastActivityText": "Partita veloce: Normale il 08/06/2026 18:08",
       "activities": [
         {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-08T14:10:54Z"
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-08T16:08:34Z",
+          "instanceId": "16868946119"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-08T15:52:40Z",
+          "instanceId": "16868920917"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-08T15:26:12Z",
+          "instanceId": "16868891229"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-06-08T14:28:56Z",
+          "instanceId": "16868846026"
         },
         {
           "name": "La fine di Crota: Standard",
-          "period": "2026-06-08T14:01:14Z"
+          "period": "2026-06-08T14:10:54Z",
+          "instanceId": "16868811511"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-08T14:01:14Z",
+          "instanceId": "16868798786"
         },
         {
           "name": "Promessa del Discepolo: Standard",
-          "period": "2026-06-08T13:44:04Z"
+          "period": "2026-06-08T13:44:04Z",
+          "instanceId": "16868789987"
         },
         {
           "name": "Campi di battaglia: Condotto: Personalizzata",
-          "period": "2026-06-08T13:27:21Z"
+          "period": "2026-06-08T13:27:21Z",
+          "instanceId": "16868769273"
         },
         {
           "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-06-08T09:49:00Z"
+          "period": "2026-06-08T09:49:00Z",
+          "instanceId": "16868630498"
         },
         {
           "name": "Locus del Lamento Dolente: Personalizzata",
-          "period": "2026-06-08T09:25:56Z"
-        },
-        {
-          "name": "Locus del Lamento Dolente: Personalizzata",
-          "period": "2026-06-08T09:20:09Z"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Personalizzata",
-          "period": "2026-06-08T08:55:06Z"
-        },
-        {
-          "name": "Terminale Intuitivo: Personalizzata",
-          "period": "2026-06-07T22:52:15Z"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-07T22:17:27Z"
+          "period": "2026-06-08T09:25:56Z",
+          "instanceId": "16868615395"
         }
       ]
     },
@@ -118,54 +138,64 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/fc8a4349dc04777c474ec140c7b66d9e.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1780929178000,
-      "lastActivityTimestamp": 1780927854000,
-      "lastActivityText": "La fine di Crota: Standard il 08/06/2026 14:10",
+      "lastPlayedTimestamp": 1780930690000,
+      "lastActivityTimestamp": 1780928936000,
+      "lastActivityText": "La culla del male: Personalizzata il 08/06/2026 16:28",
       "activities": [
         {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-06-08T14:28:56Z",
+          "instanceId": "16868846026"
+        },
+        {
           "name": "La fine di Crota: Standard",
-          "period": "2026-06-08T14:10:54Z"
+          "period": "2026-06-08T14:10:54Z",
+          "instanceId": "16868811511"
         },
         {
           "name": "Liminalità: Con matchmaking",
-          "period": "2026-06-08T07:41:15Z"
+          "period": "2026-06-08T07:41:15Z",
+          "instanceId": "16868551500"
         },
         {
           "name": "Campi di battaglia: Nucleo: Con matchmaking",
-          "period": "2026-06-08T07:00:10Z"
+          "period": "2026-06-08T07:00:10Z",
+          "instanceId": "16868512345"
         },
         {
           "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-06-08T06:56:12Z"
+          "period": "2026-06-08T06:56:12Z",
+          "instanceId": "16868507941"
         },
         {
           "name": "La Città Sognante",
-          "period": "2026-06-07T15:17:28Z"
+          "period": "2026-06-07T15:17:28Z",
+          "instanceId": "16867156188"
         },
         {
           "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-06-07T11:13:04Z"
+          "period": "2026-06-07T11:13:04Z",
+          "instanceId": "16866826691"
         },
         {
           "name": "Luna",
-          "period": "2026-06-07T06:42:11Z"
+          "period": "2026-06-07T06:42:11Z",
+          "instanceId": "16866609559"
         },
         {
           "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-06-07T06:23:48Z"
+          "period": "2026-06-07T06:23:48Z",
+          "instanceId": "16866574895"
         },
         {
           "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-06-07T05:12:41Z"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-06-04T17:15:55Z"
+          "period": "2026-06-07T05:12:41Z",
+          "instanceId": "16866493381"
         }
       ]
     },
@@ -173,54 +203,64 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Scrittore spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7e47867ab65a9967cc20f29c2aabe4ed.jpg",
-      "powerLevel": 396,
-      "lastPlayedTimestamp": 1780917552000,
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1780937284000,
       "lastActivityTimestamp": 1780917099000,
-      "lastActivityText": "Caldera: Personalizzata il 08/06/2026 11:11",
+      "lastActivityText": "Caldera: Personalizzata il 08/06/2026 13:11",
       "activities": [
         {
           "name": "Caldera: Personalizzata",
-          "period": "2026-06-08T11:11:39Z"
+          "period": "2026-06-08T11:11:39Z",
+          "instanceId": "16868670690"
         },
         {
           "name": "Cosmodromo",
-          "period": "2026-06-08T11:00:56Z"
+          "period": "2026-06-08T11:00:56Z",
+          "instanceId": "16868661265"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-08T06:31:14Z"
+          "period": "2026-06-08T06:31:14Z",
+          "instanceId": "16868487541"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-08T06:20:41Z"
+          "period": "2026-06-08T06:20:41Z",
+          "instanceId": "16868476082"
         },
         {
           "name": "Caldera: Personalizzata",
-          "period": "2026-06-07T18:56:52Z"
+          "period": "2026-06-07T18:56:52Z",
+          "instanceId": "16867428823"
         },
         {
           "name": "Caldera: Personalizzata",
-          "period": "2026-06-07T18:42:29Z"
+          "period": "2026-06-07T18:42:29Z",
+          "instanceId": "16867403867"
         },
         {
           "name": "Caldera: Personalizzata",
-          "period": "2026-06-07T18:32:09Z"
+          "period": "2026-06-07T18:32:09Z",
+          "instanceId": "16867386851"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-07T18:17:51Z"
+          "period": "2026-06-07T18:17:51Z",
+          "instanceId": "16867368492"
         },
         {
           "name": "Caldera: Personalizzata",
-          "period": "2026-06-07T15:29:17Z"
+          "period": "2026-06-07T15:29:17Z",
+          "instanceId": "16867106034"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-07T15:11:47Z"
+          "period": "2026-06-07T15:11:47Z",
+          "instanceId": "16867087152"
         }
       ]
     },
@@ -235,47 +275,57 @@
       "powerLevel": 357,
       "lastPlayedTimestamp": 1780914498000,
       "lastActivityTimestamp": 1780912140000,
-      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 08/06/2026 09:49",
+      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 08/06/2026 11:49",
       "activities": [
         {
           "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-06-08T09:49:00Z"
+          "period": "2026-06-08T09:49:00Z",
+          "instanceId": "16868630498"
         },
         {
           "name": "Locus del Lamento Dolente: Personalizzata",
-          "period": "2026-06-08T09:25:56Z"
+          "period": "2026-06-08T09:25:56Z",
+          "instanceId": "16868615395"
         },
         {
           "name": "Locus del Lamento Dolente: Personalizzata",
-          "period": "2026-06-08T09:20:09Z"
+          "period": "2026-06-08T09:20:09Z",
+          "instanceId": "16868601425"
         },
         {
           "name": "Campi di battaglia: Colosso: Personalizzata",
-          "period": "2026-06-08T08:55:06Z"
+          "period": "2026-06-08T08:55:06Z",
+          "instanceId": "16868595484"
         },
         {
           "name": "Terminale Intuitivo: Personalizzata",
-          "period": "2026-06-07T22:52:15Z"
+          "period": "2026-06-07T22:52:15Z",
+          "instanceId": "16867851185"
         },
         {
           "name": "Presagio: Personalizzata",
-          "period": "2026-06-07T22:17:27Z"
+          "period": "2026-06-07T22:17:27Z",
+          "instanceId": "16867818935"
         },
         {
           "name": "Presagio: Personalizzata",
-          "period": "2026-06-07T22:03:43Z"
+          "period": "2026-06-07T22:03:43Z",
+          "instanceId": "16867761276"
         },
         {
           "name": "Presagio: Personalizzata",
-          "period": "2026-06-07T21:52:38Z"
+          "period": "2026-06-07T21:52:38Z",
+          "instanceId": "16867732722"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-07T21:30:31Z"
+          "period": "2026-06-07T21:30:31Z",
+          "instanceId": "16867712818"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-07T20:48:14Z"
+          "period": "2026-06-07T20:48:14Z",
+          "instanceId": "16867638024"
         }
       ]
     },
@@ -290,47 +340,57 @@
       "powerLevel": 425,
       "lastPlayedTimestamp": 1780914829000,
       "lastActivityTimestamp": 1780872868000,
-      "lastActivityText": "Partita veloce: Normale il 07/06/2026 22:54",
+      "lastActivityText": "Partita veloce: Normale il 08/06/2026 00:54",
       "activities": [
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-07T22:54:28Z"
+          "period": "2026-06-07T22:54:28Z",
+          "instanceId": "16867836448"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-07T22:40:46Z"
+          "period": "2026-06-07T22:40:46Z",
+          "instanceId": "16867832349"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-07T22:25:51Z"
+          "period": "2026-06-07T22:25:51Z",
+          "instanceId": "16867809419"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-07T22:11:47Z"
+          "period": "2026-06-07T22:11:47Z",
+          "instanceId": "16867784461"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-07T21:57:39Z"
+          "period": "2026-06-07T21:57:39Z",
+          "instanceId": "16867761226"
         },
         {
           "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-06-07T21:54:57Z"
+          "period": "2026-06-07T21:54:57Z",
+          "instanceId": "16867736394"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-07T21:29:03Z"
+          "period": "2026-06-07T21:29:03Z",
+          "instanceId": "16867710364"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-07T21:14:15Z"
+          "period": "2026-06-07T21:14:15Z",
+          "instanceId": "16867687480"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-07T20:58:00Z"
+          "period": "2026-06-07T20:58:00Z",
+          "instanceId": "16867657220"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-07T20:43:43Z"
+          "period": "2026-06-07T20:43:43Z",
+          "instanceId": "16867630701"
         }
       ]
     },
@@ -345,47 +405,57 @@
       "powerLevel": 469,
       "lastPlayedTimestamp": 1780849592000,
       "lastActivityTimestamp": 1780848945000,
-      "lastActivityText": "Azzardo il 07/06/2026 16:15",
+      "lastActivityText": "Azzardo il 07/06/2026 18:15",
       "activities": [
         {
           "name": "Azzardo",
-          "period": "2026-06-07T16:15:45Z"
+          "period": "2026-06-07T16:15:45Z",
+          "instanceId": "16867170642"
         },
         {
           "name": "Azzardo",
-          "period": "2026-06-07T16:00:33Z"
+          "period": "2026-06-07T16:00:33Z",
+          "instanceId": "16867151564"
         },
         {
           "name": "Azzardo",
-          "period": "2026-06-07T15:46:33Z"
+          "period": "2026-06-07T15:46:33Z",
+          "instanceId": "16867131299"
         },
         {
           "name": "Azzardo",
-          "period": "2026-06-07T15:29:34Z"
+          "period": "2026-06-07T15:29:34Z",
+          "instanceId": "16867106197"
         },
         {
           "name": "Presagio: Personalizzata",
-          "period": "2026-06-07T14:47:34Z"
+          "period": "2026-06-07T14:47:34Z",
+          "instanceId": "16867046543"
         },
         {
           "name": "Presagio: Personalizzata",
-          "period": "2026-06-07T14:19:19Z"
+          "period": "2026-06-07T14:19:19Z",
+          "instanceId": "16867028507"
         },
         {
           "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-06T17:22:06Z"
+          "period": "2026-06-06T17:22:06Z",
+          "instanceId": "16865433924"
         },
         {
           "name": "Presagio: Personalizzata",
-          "period": "2026-06-06T16:43:59Z"
+          "period": "2026-06-06T16:43:59Z",
+          "instanceId": "16865374506"
         },
         {
           "name": "Presagio: Personalizzata",
-          "period": "2026-06-06T16:19:35Z"
+          "period": "2026-06-06T16:19:35Z",
+          "instanceId": "16865337802"
         },
         {
           "name": "La fine di Crota: Standard",
-          "period": "2026-06-05T14:55:31Z"
+          "period": "2026-06-05T14:55:31Z",
+          "instanceId": "16863725857"
         }
       ]
     },
@@ -400,47 +470,57 @@
       "powerLevel": 337,
       "lastPlayedTimestamp": 1780843877000,
       "lastActivityTimestamp": 1780843825000,
-      "lastActivityText": "Partita veloce: Normale il 07/06/2026 14:50",
+      "lastActivityText": "Partita veloce: Normale il 07/06/2026 16:50",
       "activities": [
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-07T14:50:25Z"
+          "period": "2026-06-07T14:50:25Z",
+          "instanceId": "16867054418"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-07T14:34:05Z"
+          "period": "2026-06-07T14:34:05Z",
+          "instanceId": "16867040709"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-07T13:59:26Z"
+          "period": "2026-06-07T13:59:26Z",
+          "instanceId": "16866993472"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-07T13:43:09Z"
+          "period": "2026-06-07T13:43:09Z",
+          "instanceId": "16866976600"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-05T20:59:44Z"
+          "period": "2026-06-05T20:59:44Z",
+          "instanceId": "16864063561"
         },
         {
           "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-05T20:58:59Z"
+          "period": "2026-06-05T20:58:59Z",
+          "instanceId": "16864170764"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-05T20:46:20Z"
+          "period": "2026-06-05T20:46:20Z",
+          "instanceId": "16864038419"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-05T20:22:53Z"
+          "period": "2026-06-05T20:22:53Z",
+          "instanceId": "16864006448"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-05T20:09:03Z"
+          "period": "2026-06-05T20:09:03Z",
+          "instanceId": "16863983853"
         },
         {
           "name": "Presagio: Personalizzata",
-          "period": "2026-06-05T16:10:51Z"
+          "period": "2026-06-05T16:10:51Z",
+          "instanceId": "16863693795"
         }
       ]
     },
@@ -455,47 +535,57 @@
       "powerLevel": 300,
       "lastPlayedTimestamp": 1780767995000,
       "lastActivityTimestamp": 1780766526000,
-      "lastActivityText": "Ultimo desiderio: Standard il 06/06/2026 17:22",
+      "lastActivityText": "Ultimo desiderio: Standard il 06/06/2026 19:22",
       "activities": [
         {
           "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-06T17:22:06Z"
+          "period": "2026-06-06T17:22:06Z",
+          "instanceId": "16865433924"
         },
         {
           "name": "Presagio: Personalizzata",
-          "period": "2026-06-06T16:43:59Z"
+          "period": "2026-06-06T16:43:59Z",
+          "instanceId": "16865374506"
         },
         {
           "name": "Impero: Audace",
-          "period": "2025-12-20T17:50:03Z"
+          "period": "2025-12-20T17:50:03Z",
+          "instanceId": "16700879725"
         },
         {
           "name": "Cala la Notte: Avanzata",
-          "period": "2024-07-16T19:30:01Z"
+          "period": "2024-07-16T19:30:01Z",
+          "instanceId": "15308527095"
         },
         {
           "name": "Cala la Notte: Avanzata",
-          "period": "2024-07-16T19:22:13Z"
+          "period": "2024-07-16T19:22:13Z",
+          "instanceId": "15308444587"
         },
         {
           "name": "Rovina della Signora della Guerra: Standard",
-          "period": "2024-07-12T20:49:15Z"
+          "period": "2024-07-12T20:49:15Z",
+          "instanceId": "15288358113"
         },
         {
           "name": "Cala la Notte: Avanzata",
-          "period": "2024-07-12T20:01:50Z"
+          "period": "2024-07-12T20:01:50Z",
+          "instanceId": "15387579841"
         },
         {
           "name": "Rovina della Signora della Guerra: Standard",
-          "period": "2024-07-12T19:58:14Z"
+          "period": "2024-07-12T19:58:14Z",
+          "instanceId": "15288206707"
         },
         {
           "name": "Prove di Osiride",
-          "period": "2024-06-18T11:28:11Z"
+          "period": "2024-06-18T11:28:11Z",
+          "instanceId": "15319182867"
         },
         {
           "name": "Europa",
-          "period": "2024-06-06T23:45:53Z"
+          "period": "2024-06-06T23:45:53Z",
+          "instanceId": "15292153163"
         }
       ]
     },
@@ -510,47 +600,57 @@
       "powerLevel": 498,
       "lastPlayedTimestamp": 1780767930000,
       "lastActivityTimestamp": 1780766526000,
-      "lastActivityText": "Ultimo desiderio: Standard il 06/06/2026 17:22",
+      "lastActivityText": "Ultimo desiderio: Standard il 06/06/2026 19:22",
       "activities": [
         {
           "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-06T17:22:06Z"
+          "period": "2026-06-06T17:22:06Z",
+          "instanceId": "16865433924"
         },
         {
           "name": "Presagio: Personalizzata",
-          "period": "2026-06-06T16:43:59Z"
+          "period": "2026-06-06T16:43:59Z",
+          "instanceId": "16865374506"
         },
         {
           "name": "Presagio: Personalizzata",
-          "period": "2026-06-06T16:19:35Z"
+          "period": "2026-06-06T16:19:35Z",
+          "instanceId": "16865337802"
         },
         {
           "name": "Presagio: Personalizzata",
-          "period": "2026-06-05T22:57:35Z"
+          "period": "2026-06-05T22:57:35Z",
+          "instanceId": "16864228710"
         },
         {
           "name": "Presagio: Personalizzata",
-          "period": "2026-06-05T22:50:26Z"
+          "period": "2026-06-05T22:50:26Z",
+          "instanceId": "16864189375"
         },
         {
           "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-05T20:58:59Z"
+          "period": "2026-06-05T20:58:59Z",
+          "instanceId": "16864170764"
         },
         {
           "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-05T20:44:41Z"
+          "period": "2026-06-05T20:44:41Z",
+          "instanceId": "16864026768"
         },
         {
           "name": "La fine di Crota: Standard",
-          "period": "2026-06-05T14:55:31Z"
+          "period": "2026-06-05T14:55:31Z",
+          "instanceId": "16863725857"
         },
         {
           "name": "La fine di Crota: Standard",
-          "period": "2026-06-01T22:13:28Z"
+          "period": "2026-06-01T22:13:28Z",
+          "instanceId": "16858884795"
         },
         {
           "name": "La Città Sognante",
-          "period": "2026-06-01T22:13:22Z"
+          "period": "2026-06-01T22:13:22Z",
+          "instanceId": "16858742303"
         }
       ]
     },
@@ -565,47 +665,57 @@
       "powerLevel": 241,
       "lastPlayedTimestamp": 1780766490000,
       "lastActivityTimestamp": 1780765615000,
-      "lastActivityText": "Partita veloce: Normale il 06/06/2026 17:06",
+      "lastActivityText": "Partita veloce: Normale il 06/06/2026 19:06",
       "activities": [
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-06T17:06:55Z"
+          "period": "2026-06-06T17:06:55Z",
+          "instanceId": "16865397631"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-06T16:24:46Z"
+          "period": "2026-06-06T16:24:46Z",
+          "instanceId": "16865338354"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-06T15:47:21Z"
+          "period": "2026-06-06T15:47:21Z",
+          "instanceId": "16865296362"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-06T15:35:50Z"
+          "period": "2026-06-06T15:35:50Z",
+          "instanceId": "16865269822"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-06T14:33:03Z"
+          "period": "2026-06-06T14:33:03Z",
+          "instanceId": "16865803681"
         },
         {
           "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
-          "period": "2026-06-05T21:51:38Z"
+          "period": "2026-06-05T21:51:38Z",
+          "instanceId": "16864141882"
         },
         {
           "name": "Derealizzazione: Personalizzata",
-          "period": "2026-06-05T20:57:09Z"
+          "period": "2026-06-05T20:57:09Z",
+          "instanceId": "16864082034"
         },
         {
           "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-05-31T22:30:41Z"
+          "period": "2026-05-31T22:30:41Z",
+          "instanceId": "16857535676"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-05-31T22:05:56Z"
+          "period": "2026-05-31T22:05:56Z",
+          "instanceId": "16857498373"
         },
         {
           "name": "Eliostasi: Personalizzata",
-          "period": "2026-05-31T21:12:34Z"
+          "period": "2026-05-31T21:12:34Z",
+          "instanceId": "16857472025"
         }
       ]
     },
@@ -620,47 +730,57 @@
       "powerLevel": 411,
       "lastPlayedTimestamp": 1780699466000,
       "lastActivityTimestamp": 1780693139000,
-      "lastActivityText": "Ultimo desiderio: Standard il 05/06/2026 20:58",
+      "lastActivityText": "Ultimo desiderio: Standard il 05/06/2026 22:58",
       "activities": [
         {
           "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-05T20:58:59Z"
+          "period": "2026-06-05T20:58:59Z",
+          "instanceId": "16864170764"
         },
         {
           "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-05T20:44:41Z"
+          "period": "2026-06-05T20:44:41Z",
+          "instanceId": "16864026768"
         },
         {
           "name": "La caduta di un Re: Standard",
-          "period": "2026-06-05T20:05:40Z"
+          "period": "2026-06-05T20:05:40Z",
+          "instanceId": "16864026781"
         },
         {
           "name": "La caduta di un Re: Standard",
-          "period": "2026-05-22T13:44:27Z"
+          "period": "2026-05-22T13:44:27Z",
+          "instanceId": "16847557619"
         },
         {
           "name": "Volta di Vetro: Standard",
-          "period": "2026-05-22T13:37:33Z"
+          "period": "2026-05-22T13:37:33Z",
+          "instanceId": "16847407372"
         },
         {
           "name": "Poligono di Tiro",
-          "period": "2026-05-10T14:59:27Z"
+          "period": "2026-05-10T14:59:27Z",
+          "instanceId": "16839307314"
         },
         {
           "name": "Giardino della Salvezza",
-          "period": "2026-05-10T13:46:29Z"
+          "period": "2026-05-10T13:46:29Z",
+          "instanceId": "16839306079"
         },
         {
           "name": "La radice degli incubi: Standard",
-          "period": "2026-05-04T09:11:53Z"
+          "period": "2026-05-04T09:11:53Z",
+          "instanceId": "16834978871"
         },
         {
           "name": "Giochi dei Guardiani: Supremazia: Con matchmaking",
-          "period": "2026-04-07T08:33:36Z"
+          "period": "2026-04-07T08:33:36Z",
+          "instanceId": "16817270820"
         },
         {
           "name": "Giochi dei Guardiani: Supremazia: Con matchmaking",
-          "period": "2026-03-26T15:41:42Z"
+          "period": "2026-03-26T15:41:42Z",
+          "instanceId": "16809261344"
         }
       ]
     },
@@ -675,47 +795,57 @@
       "powerLevel": 151,
       "lastPlayedTimestamp": 1780359841000,
       "lastActivityTimestamp": 1780352008000,
-      "lastActivityText": "La fine di Crota: Standard il 01/06/2026 22:13",
+      "lastActivityText": "La fine di Crota: Standard il 02/06/2026 00:13",
       "activities": [
         {
           "name": "La fine di Crota: Standard",
-          "period": "2026-06-01T22:13:28Z"
+          "period": "2026-06-01T22:13:28Z",
+          "instanceId": "16858884795"
         },
         {
           "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2025-07-24T00:00:49Z"
+          "period": "2025-07-24T00:00:49Z",
+          "instanceId": "16340684228"
         },
         {
           "name": "Quarantena: Leggendaria",
-          "period": "2025-07-23T23:19:23Z"
+          "period": "2025-07-23T23:19:23Z",
+          "instanceId": "16340667418"
         },
         {
           "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2025-07-23T23:17:39Z"
+          "period": "2025-07-23T23:17:39Z",
+          "instanceId": "16341486203"
         },
         {
           "name": "Missione: Calcolo: Leggendaria",
-          "period": "2025-07-23T22:59:28Z"
+          "period": "2025-07-23T22:59:28Z",
+          "instanceId": "16340487226"
         },
         {
           "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2025-07-23T22:43:14Z"
+          "period": "2025-07-23T22:43:14Z",
+          "instanceId": "16340409879"
         },
         {
           "name": "Missione: Sabotaggio: Leggendaria",
-          "period": "2025-07-23T22:28:23Z"
+          "period": "2025-07-23T22:28:23Z",
+          "instanceId": "16340345425"
         },
         {
           "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2025-07-23T22:09:47Z"
+          "period": "2025-07-23T22:09:47Z",
+          "instanceId": "16340282701"
         },
         {
           "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2025-07-23T21:51:32Z"
+          "period": "2025-07-23T21:51:32Z",
+          "instanceId": "16340193545"
         },
         {
           "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2025-07-23T20:51:45Z"
+          "period": "2025-07-23T20:51:45Z",
+          "instanceId": "16340113292"
         }
       ]
     },
@@ -730,47 +860,57 @@
       "powerLevel": 270,
       "lastPlayedTimestamp": 1780349252000,
       "lastActivityTimestamp": 1780348042000,
-      "lastActivityText": "Partita veloce: Normale il 01/06/2026 21:07",
+      "lastActivityText": "Partita veloce: Normale il 01/06/2026 23:07",
       "activities": [
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-01T21:07:22Z"
+          "period": "2026-06-01T21:07:22Z",
+          "instanceId": "16858688785"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-01T20:25:40Z"
+          "period": "2026-06-01T20:25:40Z",
+          "instanceId": "16858637100"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-06-01T20:12:25Z"
+          "period": "2026-06-01T20:12:25Z",
+          "instanceId": "16858620592"
         },
         {
           "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-05-28T18:06:03Z"
+          "period": "2026-05-28T18:06:03Z",
+          "instanceId": "16853426474"
         },
         {
           "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-05-28T17:52:39Z"
+          "period": "2026-05-28T17:52:39Z",
+          "instanceId": "16853397100"
         },
         {
           "name": "Sottrazione: Leggendaria",
-          "period": "2026-05-28T17:03:47Z"
+          "period": "2026-05-28T17:03:47Z",
+          "instanceId": "16853388503"
         },
         {
           "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-05-28T16:58:43Z"
+          "period": "2026-05-28T16:58:43Z",
+          "instanceId": "16853351750"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-05-28T16:26:14Z"
+          "period": "2026-05-28T16:26:14Z",
+          "instanceId": "16853342149"
         },
         {
           "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2025-07-22T21:55:45Z"
+          "period": "2025-07-22T21:55:45Z",
+          "instanceId": "16335421361"
         },
         {
           "name": "Missione: Saturnismo: Leggendaria",
-          "period": "2025-07-22T21:02:51Z"
+          "period": "2025-07-22T21:02:51Z",
+          "instanceId": "16335278824"
         }
       ]
     },
@@ -785,47 +925,57 @@
       "powerLevel": 267,
       "lastPlayedTimestamp": 1780237072000,
       "lastActivityTimestamp": 1779530434000,
-      "lastActivityText": "Partita veloce: Normale il 23/05/2026 10:00",
+      "lastActivityText": "Partita veloce: Normale il 23/05/2026 12:00",
       "activities": [
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-05-23T10:00:34Z"
+          "period": "2026-05-23T10:00:34Z",
+          "instanceId": "16848140496"
         },
         {
           "name": "Presagio: Personalizzata",
-          "period": "2026-05-23T09:30:08Z"
+          "period": "2026-05-23T09:30:08Z",
+          "instanceId": "16848134907"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-05-12T19:02:56Z"
+          "period": "2026-05-12T19:02:56Z",
+          "instanceId": "16840859930"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-05-12T18:49:55Z"
+          "period": "2026-05-12T18:49:55Z",
+          "instanceId": "16840850944"
         },
         {
           "name": "Neomuna",
-          "period": "2026-05-01T14:35:07Z"
+          "period": "2026-05-01T14:35:07Z",
+          "instanceId": "16832640477"
         },
         {
           "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-04-30T13:54:23Z"
+          "period": "2026-04-30T13:54:23Z",
+          "instanceId": "16831957464"
         },
         {
           "name": "Europa",
-          "period": "2025-12-09T12:00:04Z"
+          "period": "2025-12-09T12:00:04Z",
+          "instanceId": "16672877066"
         },
         {
           "name": "Neomuna",
-          "period": "2025-12-09T11:49:43Z"
+          "period": "2025-12-09T11:49:43Z",
+          "instanceId": "16672874324"
         },
         {
           "name": "Impero: Audace",
-          "period": "2025-12-09T11:03:06Z"
+          "period": "2025-12-09T11:03:06Z",
+          "instanceId": "16672844855"
         },
         {
           "name": "Poligono di Tiro",
-          "period": "2025-10-03T21:03:33Z"
+          "period": "2025-10-03T21:03:33Z",
+          "instanceId": "16572523317"
         }
       ]
     }
