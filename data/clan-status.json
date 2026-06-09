@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T17:34:07.315Z",
+  "generatedAt": "2026-06-09T20:13:02.279Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "ClaudeFj#8206",
       "membershipId": "4611686018522886434",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
-      "powerLevel": 397,
-      "lastPlayedTimestamp": 1780999968000,
-      "lastActivityTimestamp": 1780999356000,
-      "lastActivityText": "Controllo: Con matchmaking il 09/06/2026 10:02",
+      "powerLevel": 402,
+      "lastPlayedTimestamp": 1781035966000,
+      "lastActivityTimestamp": 1781034210000,
+      "lastActivityText": "La Città Sognante il 09/06/2026 19:43",
       "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-06-09T19:43:30Z",
+          "instanceId": "16871476994"
+        },
         {
           "name": "Controllo: Con matchmaking",
           "period": "2026-06-09T10:02:36Z",
@@ -61,11 +66,201 @@
           "name": "Volta di Vetro: Standard",
           "period": "2026-06-08T20:48:56Z",
           "instanceId": "16869306132"
+        }
+      ]
+    },
+    {
+      "displayName": "Kiauz96#3851",
+      "membershipId": "4611686018428723992",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Impeccabile",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/85c8bdb57b24db910d6b0d9eae1d129f.jpg",
+      "powerLevel": 469,
+      "lastPlayedTimestamp": 1781035711000,
+      "lastActivityTimestamp": 1781033536000,
+      "lastActivityText": "Tronomondo di Savathûn il 09/06/2026 19:32",
+      "activities": [
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-06-09T19:32:16Z",
+          "instanceId": "16871553404"
+        },
+        {
+          "name": "Azzardo",
+          "period": "2026-06-07T16:15:45Z",
+          "instanceId": "16867170642"
+        },
+        {
+          "name": "Azzardo",
+          "period": "2026-06-07T16:00:33Z",
+          "instanceId": "16867151564"
+        },
+        {
+          "name": "Azzardo",
+          "period": "2026-06-07T15:46:33Z",
+          "instanceId": "16867131299"
+        },
+        {
+          "name": "Azzardo",
+          "period": "2026-06-07T15:29:34Z",
+          "instanceId": "16867106197"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-07T14:47:34Z",
+          "instanceId": "16867046543"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-07T14:19:19Z",
+          "instanceId": "16867028507"
         },
         {
           "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-08T19:47:01Z",
-          "instanceId": "16869300104"
+          "period": "2026-06-06T17:22:06Z",
+          "instanceId": "16865433924"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-06T16:43:59Z",
+          "instanceId": "16865374506"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-06T16:19:35Z",
+          "instanceId": "16865337802"
+        }
+      ]
+    },
+    {
+      "displayName": "HUNCHORAFA#2414",
+      "membershipId": "4611686018441242544",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Custode della fiamma",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/d3c2e878297ea7e1152e2895ae20cf2c.jpg",
+      "powerLevel": 295,
+      "lastPlayedTimestamp": 1781031225000,
+      "lastActivityTimestamp": 1781030996000,
+      "lastActivityText": "Partita veloce: Normale il 09/06/2026 18:49",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-09T18:49:56Z",
+          "instanceId": "16870978075"
+        },
+        {
+          "name": "Caldera: Personalizzata",
+          "period": "2025-08-26T12:31:05Z",
+          "instanceId": "16498363303"
+        },
+        {
+          "name": "Caldera: Personalizzata",
+          "period": "2025-08-26T12:23:01Z",
+          "instanceId": "16498353507"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2025-08-20T02:40:35Z",
+          "instanceId": "16479670981"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2025-08-20T02:29:08Z",
+          "instanceId": "16479638626"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2025-08-19T21:50:32Z",
+          "instanceId": "16478764704"
+        },
+        {
+          "name": "Confluenza: Personalizzata",
+          "period": "2025-08-19T21:45:08Z",
+          "instanceId": "16478755063"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2025-08-19T21:34:31Z",
+          "instanceId": "16478728999"
+        },
+        {
+          "name": "Caldera: Personalizzata",
+          "period": "2025-08-19T15:35:58Z",
+          "instanceId": "16477872495"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2025-08-19T15:07:26Z",
+          "instanceId": "16477843981"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0639521caaebd9bc34338713e66faa6f.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1781031032000,
+      "lastActivityTimestamp": 1781028508000,
+      "lastActivityText": "La Città Sognante il 09/06/2026 18:08",
+      "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-06-09T18:08:28Z",
+          "instanceId": "16870975076"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-06-09T06:14:14Z",
+          "instanceId": "16870186224"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-06-09T05:58:57Z",
+          "instanceId": "16870164186"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-06-09T05:37:11Z",
+          "instanceId": "16870143048"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-06-09T05:13:09Z",
+          "instanceId": "16870125641"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-08T14:10:54Z",
+          "instanceId": "16868811511"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-08T14:01:14Z",
+          "instanceId": "16868798786"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-06-08T13:44:04Z",
+          "instanceId": "16868789987"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-06-08T13:30:14Z",
+          "instanceId": "16868784335"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-07T16:14:06Z",
+          "instanceId": "16867175094"
         }
       ]
     },
@@ -196,71 +391,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-06-07T20:58:00Z",
           "instanceId": "16867657220"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0639521caaebd9bc34338713e66faa6f.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1781025606000,
-      "lastActivityTimestamp": 1780985654000,
-      "lastActivityText": "Trafficante d'armi: Con matchmaking il 09/06/2026 06:14",
-      "activities": [
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-06-09T06:14:14Z",
-          "instanceId": "16870186224"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-06-09T05:58:57Z",
-          "instanceId": "16870164186"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-06-09T05:37:11Z",
-          "instanceId": "16870143048"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-06-09T05:13:09Z",
-          "instanceId": "16870125641"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-08T14:10:54Z",
-          "instanceId": "16868811511"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-08T14:01:14Z",
-          "instanceId": "16868798786"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-06-08T13:44:04Z",
-          "instanceId": "16868789987"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-06-08T13:30:14Z",
-          "instanceId": "16868784335"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-07T16:14:06Z",
-          "instanceId": "16867175094"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-06-06T13:30:19Z",
-          "instanceId": "16865221866"
         }
       ]
     },
@@ -398,12 +528,12 @@
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2eb855942085b3b97fbb31078152abd7.jpg",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/648e5e751cf7560c99bcadc9538487de.png",
       "powerLevel": 429,
-      "lastPlayedTimestamp": 1780955526000,
+      "lastPlayedTimestamp": 1781035827000,
       "lastActivityTimestamp": 1780951915000,
       "lastActivityText": "Volta di Vetro: Standard il 08/06/2026 20:51",
       "activities": [
@@ -466,9 +596,9 @@
       "isOnline": false,
       "className": "Stregoni",
       "title": "AUDACE",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/3a22886784f7e2d8c5b41159d5c776d0.jpg",
-      "powerLevel": 473,
-      "lastPlayedTimestamp": 1780950886000,
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/648e5e751cf7560c99bcadc9538487de.png",
+      "powerLevel": 474,
+      "lastPlayedTimestamp": 1781030789000,
       "lastActivityTimestamp": 1780950600000,
       "lastActivityText": "Pallido Cuore il 08/06/2026 20:30",
       "activities": [
@@ -528,12 +658,12 @@
       "displayName": "Paltrix94#5760",
       "membershipId": "4611686018516491359",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
       "powerLevel": 357,
-      "lastPlayedTimestamp": 1780914498000,
+      "lastPlayedTimestamp": 1781035701000,
       "lastActivityTimestamp": 1780912140000,
       "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 08/06/2026 09:49",
       "activities": [
@@ -590,80 +720,15 @@
       ]
     },
     {
-      "displayName": "Kiauz96#3851",
-      "membershipId": "4611686018428723992",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Impeccabile",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/85c8bdb57b24db910d6b0d9eae1d129f.jpg",
-      "powerLevel": 469,
-      "lastPlayedTimestamp": 1780849592000,
-      "lastActivityTimestamp": 1780848945000,
-      "lastActivityText": "Azzardo il 07/06/2026 16:15",
-      "activities": [
-        {
-          "name": "Azzardo",
-          "period": "2026-06-07T16:15:45Z",
-          "instanceId": "16867170642"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-06-07T16:00:33Z",
-          "instanceId": "16867151564"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-06-07T15:46:33Z",
-          "instanceId": "16867131299"
-        },
-        {
-          "name": "Azzardo",
-          "period": "2026-06-07T15:29:34Z",
-          "instanceId": "16867106197"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-07T14:47:34Z",
-          "instanceId": "16867046543"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-07T14:19:19Z",
-          "instanceId": "16867028507"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-06T17:22:06Z",
-          "instanceId": "16865433924"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-06T16:43:59Z",
-          "instanceId": "16865374506"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-06T16:19:35Z",
-          "instanceId": "16865337802"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-05T14:55:31Z",
-          "instanceId": "16863725857"
-        }
-      ]
-    },
-    {
       "displayName": "cRoTator#5820",
       "membershipId": "4611686018504020156",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b531d829e55b6f13555e8cae172dc0b3.jpg",
-      "powerLevel": 337,
-      "lastPlayedTimestamp": 1781000016000,
+      "powerLevel": 333,
+      "lastPlayedTimestamp": 1781035890000,
       "lastActivityTimestamp": 1780843825000,
       "lastActivityText": "Partita veloce: Normale il 07/06/2026 14:50",
       "activities": [
@@ -728,7 +793,7 @@
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7e046099af783c573a033d025ef8e63f.jpg",
       "powerLevel": 300,
-      "lastPlayedTimestamp": 1780767995000,
+      "lastPlayedTimestamp": 1781035616000,
       "lastActivityTimestamp": 1780766526000,
       "lastActivityText": "Ultimo desiderio: Standard il 06/06/2026 17:22",
       "activities": [
@@ -788,12 +853,12 @@
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/19c19292462c171c82216996684fea0d.jpg",
       "powerLevel": 241,
-      "lastPlayedTimestamp": 1780766490000,
+      "lastPlayedTimestamp": 1781035738000,
       "lastActivityTimestamp": 1780765615000,
       "lastActivityText": "Partita veloce: Normale il 06/06/2026 17:06",
       "activities": [
