@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-06-09T04:01:48.523Z",
+  "generatedAt": "2026-06-09T08:07:53.372Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0639521caaebd9bc34338713e66faa6f.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1780987517000,
+      "lastActivityTimestamp": 1780985654000,
+      "lastActivityText": "Trafficante d'armi: Con matchmaking il 09/06/2026 06:14",
+      "activities": [
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-06-09T06:14:14Z",
+          "instanceId": "16870186224"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-06-09T05:58:57Z",
+          "instanceId": "16870164186"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-06-09T05:37:11Z",
+          "instanceId": "16870143048"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-06-09T05:13:09Z",
+          "instanceId": "16870125641"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-08T14:10:54Z",
+          "instanceId": "16868811511"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-08T14:01:14Z",
+          "instanceId": "16868798786"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-06-08T13:44:04Z",
+          "instanceId": "16868789987"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-06-08T13:30:14Z",
+          "instanceId": "16868784335"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-07T16:14:06Z",
+          "instanceId": "16867175094"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-06-06T13:30:19Z",
+          "instanceId": "16865221866"
+        }
+      ]
+    },
     {
       "displayName": "ClaudeFj#8206",
       "membershipId": "4611686018522886434",
@@ -73,12 +138,12 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 457,
-      "lastPlayedTimestamp": 1780955277000,
+      "powerLevel": 464,
+      "lastPlayedTimestamp": 1780992256000,
       "lastActivityTimestamp": 1780951915000,
       "lastActivityText": "Volta di Vetro: Standard il 08/06/2026 20:51",
       "activities": [
@@ -333,12 +398,12 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Scrittore spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7e47867ab65a9967cc20f29c2aabe4ed.jpg",
-      "powerLevel": 397,
-      "lastPlayedTimestamp": 1780942039000,
+      "powerLevel": 469,
+      "lastPlayedTimestamp": 1780992418000,
       "lastActivityTimestamp": 1780940749000,
       "lastActivityText": "Poligono di Tiro il 08/06/2026 17:45",
       "activities": [
@@ -391,71 +456,6 @@
           "name": "Caldera: Personalizzata",
           "period": "2026-06-07T18:32:09Z",
           "instanceId": "16867386851"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/fc8a4349dc04777c474ec140c7b66d9e.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1780930690000,
-      "lastActivityTimestamp": 1780928936000,
-      "lastActivityText": "La culla del male: Personalizzata il 08/06/2026 14:28",
-      "activities": [
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-06-08T14:28:56Z",
-          "instanceId": "16868846026"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-08T14:10:54Z",
-          "instanceId": "16868811511"
-        },
-        {
-          "name": "Liminalità: Con matchmaking",
-          "period": "2026-06-08T07:41:15Z",
-          "instanceId": "16868551500"
-        },
-        {
-          "name": "Campi di battaglia: Nucleo: Con matchmaking",
-          "period": "2026-06-08T07:00:10Z",
-          "instanceId": "16868512345"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-06-08T06:56:12Z",
-          "instanceId": "16868507941"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-06-07T15:17:28Z",
-          "instanceId": "16867156188"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-06-07T11:13:04Z",
-          "instanceId": "16866826691"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-06-07T06:42:11Z",
-          "instanceId": "16866609559"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-06-07T06:23:48Z",
-          "instanceId": "16866574895"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-06-07T05:12:41Z",
-          "instanceId": "16866493381"
         }
       ]
     },
