@@ -1,19 +1,84 @@
 {
-  "generatedAt": "2026-06-10T21:36:24.860Z",
+  "generatedAt": "2026-06-10T23:39:11.942Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "nubires#8588",
+      "membershipId": "4611686018433412718",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "AUDACE",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
+      "powerLevel": 478,
+      "lastPlayedTimestamp": 1781130501000,
+      "lastActivityTimestamp": 1781129271000,
+      "lastActivityText": "Artesia Mons, Venere: Caccia alle taglie: Con matchmaking il 10/06/2026 22:07",
+      "activities": [
+        {
+          "name": "Artesia Mons, Venere: Caccia alle taglie: Con matchmaking",
+          "period": "2026-06-10T22:07:51Z",
+          "instanceId": "16879559729"
+        },
+        {
+          "name": "Classificato",
+          "period": "2026-06-10T20:50:11Z",
+          "instanceId": "16879178435"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-06-10T20:09:18Z",
+          "instanceId": "16878944691"
+        },
+        {
+          "name": "La Fortezza Scarlatta",
+          "period": "2026-06-10T19:54:05Z",
+          "instanceId": "16878744950"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-06-10T19:12:16Z",
+          "instanceId": "16878658082"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-06-10T16:40:01Z",
+          "instanceId": "16877761915"
+        },
+        {
+          "name": "La Fortezza Scarlatta",
+          "period": "2026-06-10T16:21:51Z",
+          "instanceId": "16877604409"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-06-10T16:09:12Z",
+          "instanceId": "16877534014"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-06-10T15:24:53Z",
+          "instanceId": "16877324466"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-06-10T15:23:14Z",
+          "instanceId": "16877301510"
+        }
+      ]
+    },
+    {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 465,
-      "lastPlayedTimestamp": 1781126755000,
+      "lastPlayedTimestamp": 1781129186000,
       "lastActivityTimestamp": 1781124611000,
       "lastActivityText": "Classificato il 10/06/2026 20:50",
       "activities": [
@@ -73,12 +138,12 @@
       "displayName": "gin661hotmail#7664",
       "membershipId": "4611686018428740968",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7e046099af783c573a033d025ef8e63f.jpg",
-      "powerLevel": 267,
-      "lastPlayedTimestamp": 1781127156000,
+      "powerLevel": 306,
+      "lastPlayedTimestamp": 1781128471000,
       "lastActivityTimestamp": 1781124611000,
       "lastActivityText": "Classificato il 10/06/2026 20:50",
       "activities": [
@@ -131,71 +196,6 @@
           "name": "Cala la Notte: Avanzata",
           "period": "2024-07-12T20:01:50Z",
           "instanceId": "15387579841"
-        }
-      ]
-    },
-    {
-      "displayName": "nubires#8588",
-      "membershipId": "4611686018433412718",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "AUDACE",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 477,
-      "lastPlayedTimestamp": 1781127348000,
-      "lastActivityTimestamp": 1781124611000,
-      "lastActivityText": "Classificato il 10/06/2026 20:50",
-      "activities": [
-        {
-          "name": "Classificato",
-          "period": "2026-06-10T20:50:11Z",
-          "instanceId": "16879178435"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-06-10T20:09:18Z",
-          "instanceId": "16878944691"
-        },
-        {
-          "name": "La Fortezza Scarlatta",
-          "period": "2026-06-10T19:54:05Z",
-          "instanceId": "16878744950"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-06-10T19:12:16Z",
-          "instanceId": "16878658082"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-06-10T16:40:01Z",
-          "instanceId": "16877761915"
-        },
-        {
-          "name": "La Fortezza Scarlatta",
-          "period": "2026-06-10T16:21:51Z",
-          "instanceId": "16877604409"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-06-10T16:09:12Z",
-          "instanceId": "16877534014"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-06-10T15:24:53Z",
-          "instanceId": "16877324466"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-06-10T15:23:14Z",
-          "instanceId": "16877301510"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-06-10T15:13:52Z",
-          "instanceId": "16877295727"
         }
       ]
     },
