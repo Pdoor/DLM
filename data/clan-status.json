@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T00:03:52.119Z",
+  "generatedAt": "2026-06-13T05:06:45.686Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,19 +8,49 @@
       "displayName": "melu#5401",
       "membershipId": "4611686018459542288",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Gloriosa",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e452c62485491a02fbc0e36f06d301d2.jpg",
-      "powerLevel": 329,
-      "lastPlayedTimestamp": 1781309005000,
-      "lastActivityTimestamp": 1781308241000,
-      "lastActivityText": "Competitiva: Con matchmaking il 12/06/2026 23:50",
+      "powerLevel": 331,
+      "lastPlayedTimestamp": 1781313193000,
+      "lastActivityTimestamp": 1781312607000,
+      "lastActivityText": "Pandemonio: Con matchmaking il 13/06/2026 01:03",
       "activities": [
+        {
+          "name": "Pandemonio: Con matchmaking",
+          "period": "2026-06-13T01:03:27Z",
+          "instanceId": "16893280128"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-13T00:46:46Z",
+          "instanceId": "16893181091"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-13T00:34:29Z",
+          "instanceId": "16893121451"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-13T00:24:21Z",
+          "instanceId": "16893053334"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-13T00:16:28Z",
+          "instanceId": "16893032378"
+        },
         {
           "name": "Competitiva: Con matchmaking",
           "period": "2026-06-12T23:50:41Z",
           "instanceId": "16892884664"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-12T21:45:58Z",
+          "instanceId": "16893518555"
         },
         {
           "name": "Competitiva: Con matchmaking",
@@ -36,36 +66,6 @@
           "name": "Competitiva: Con matchmaking",
           "period": "2026-06-12T18:37:15Z",
           "instanceId": "16891177707"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-12T10:50:57Z",
-          "instanceId": "16889272808"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-12T10:43:08Z",
-          "instanceId": "16889249171"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-12T10:30:16Z",
-          "instanceId": "16889220745"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-12T10:16:06Z",
-          "instanceId": "16889178328"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-12T09:53:41Z",
-          "instanceId": "16889115208"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-12T09:44:03Z",
-          "instanceId": "16889093895"
         }
       ]
     },
@@ -73,15 +73,35 @@
       "displayName": "Pdor#2087",
       "membershipId": "4611686018441724933",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2f3b36ecb41d5c95df9460a19ecc4716.jpg",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 428,
-      "lastPlayedTimestamp": 1781309024000,
-      "lastActivityTimestamp": 1781306625000,
-      "lastActivityText": "Centro Città: Personalizzata il 12/06/2026 23:23",
+      "lastPlayedTimestamp": 1781312037000,
+      "lastActivityTimestamp": 1781310232000,
+      "lastActivityText": "Azzardo: Con matchmaking il 13/06/2026 00:23",
       "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-13T00:23:52Z",
+          "instanceId": "16893059000"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-13T00:14:38Z",
+          "instanceId": "16893003326"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-13T00:05:10Z",
+          "instanceId": "16892958377"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-12T23:56:38Z",
+          "instanceId": "16892910047"
+        },
         {
           "name": "Centro Città: Personalizzata",
           "period": "2026-06-12T23:23:45Z",
@@ -111,26 +131,71 @@
           "name": "Operazione: Scudo del Serafino: Personalizzata",
           "period": "2026-06-11T23:31:04Z",
           "instanceId": "16886461521"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/05eff9aeca6c7674b0071448359bce6a.jpg",
+      "powerLevel": 436,
+      "lastPlayedTimestamp": 1781309982000,
+      "lastActivityTimestamp": 1781305517000,
+      "lastActivityText": "Promessa del Discepolo: Standard il 12/06/2026 23:05",
+      "activities": [
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-06-12T23:05:17Z",
+          "instanceId": "16892985519"
         },
         {
-          "name": "Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-06-11T23:24:24Z",
-          "instanceId": "16886302579"
+          "name": "Vegliante del niente: Personalizzata",
+          "period": "2026-06-12T18:12:28Z",
+          "instanceId": "16891129422"
         },
         {
-          "name": "Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-06-11T22:59:36Z",
-          "instanceId": "16886264633"
+          "name": "Pinnacolo dell'Osservatrice: Maestro",
+          "period": "2026-06-12T18:11:21Z",
+          "instanceId": "16891398643"
         },
         {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-11T22:23:14Z",
-          "instanceId": "16886078376"
+          "name": "Poligono di Tiro",
+          "period": "2026-06-12T18:04:49Z",
+          "instanceId": "16891010649"
         },
         {
-          "name": "Neomuna",
-          "period": "2026-06-10T01:12:11Z",
-          "instanceId": "16873978191"
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-06-12T15:58:52Z",
+          "instanceId": "16890712647"
+        },
+        {
+          "name": "Pinnacolo dell'Osservatrice: Maestro",
+          "period": "2026-06-12T15:46:04Z",
+          "instanceId": "16890383917"
+        },
+        {
+          "name": "Pinnacolo dell'Osservatrice: Standard",
+          "period": "2026-06-12T01:06:26Z",
+          "instanceId": "16886992269"
+        },
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-06-12T00:26:00Z",
+          "instanceId": "16887084058"
+        },
+        {
+          "name": "Benvenuti alla Frontiera: Normale",
+          "period": "2026-06-11T18:40:04Z",
+          "instanceId": "16884820255"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-11T18:30:52Z",
+          "instanceId": "16884725715"
         }
       ]
     },
@@ -593,12 +658,12 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1781289113000,
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1781327148000,
       "lastActivityTimestamp": 1781288105000,
       "lastActivityText": "Campo di battaglia Colpo: Luna: Con matchmaking il 12/06/2026 18:15",
       "activities": [
@@ -651,71 +716,6 @@
           "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
           "period": "2026-06-12T13:21:31Z",
           "instanceId": "16890814204"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "RICERCATO",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/05eff9aeca6c7674b0071448359bce6a.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1781309011000,
-      "lastActivityTimestamp": 1781287948000,
-      "lastActivityText": "Vegliante del niente: Personalizzata il 12/06/2026 18:12",
-      "activities": [
-        {
-          "name": "Vegliante del niente: Personalizzata",
-          "period": "2026-06-12T18:12:28Z",
-          "instanceId": "16891129422"
-        },
-        {
-          "name": "Pinnacolo dell'Osservatrice: Maestro",
-          "period": "2026-06-12T18:11:21Z",
-          "instanceId": "16891398643"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-12T18:04:49Z",
-          "instanceId": "16891010649"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-06-12T15:58:52Z",
-          "instanceId": "16890712647"
-        },
-        {
-          "name": "Pinnacolo dell'Osservatrice: Maestro",
-          "period": "2026-06-12T15:46:04Z",
-          "instanceId": "16890383917"
-        },
-        {
-          "name": "Pinnacolo dell'Osservatrice: Standard",
-          "period": "2026-06-12T01:06:26Z",
-          "instanceId": "16886992269"
-        },
-        {
-          "name": "Morsa della cupidigia: Maestro",
-          "period": "2026-06-12T00:26:00Z",
-          "instanceId": "16887084058"
-        },
-        {
-          "name": "Benvenuti alla Frontiera: Normale",
-          "period": "2026-06-11T18:40:04Z",
-          "instanceId": "16884820255"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-11T18:30:52Z",
-          "instanceId": "16884725715"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-06-09T23:58:31Z",
-          "instanceId": "16873437121"
         }
       ]
     },
