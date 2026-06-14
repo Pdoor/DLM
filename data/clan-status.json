@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T19:52:49.814Z",
+  "generatedAt": "2026-06-14T21:19:35.914Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,16 @@
       "className": "Cacciatori",
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 435,
-      "lastPlayedTimestamp": 1781466588000,
-      "lastActivityTimestamp": 1781466092000,
-      "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 14/06/2026 19:41",
+      "powerLevel": 440,
+      "lastPlayedTimestamp": 1781471907000,
+      "lastActivityTimestamp": 1781466818000,
+      "lastActivityText": "Vegliante del niente: Personalizzata il 14/06/2026 19:53",
       "activities": [
+        {
+          "name": "Vegliante del niente: Personalizzata",
+          "period": "2026-06-14T19:53:38Z",
+          "instanceId": "16906402733"
+        },
         {
           "name": "Modalità del mondo: leggendaria: Leggendaria",
           "period": "2026-06-14T19:41:32Z",
@@ -61,11 +66,6 @@
           "name": "Prove di Osiride: Con matchmaking",
           "period": "2026-06-13T21:32:25Z",
           "instanceId": "16899310747"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-06-13T21:22:31Z",
-          "instanceId": "16899268754"
         }
       ]
     },
@@ -73,15 +73,20 @@
       "displayName": "TheEnrageGamer#2674",
       "membershipId": "4611686018511383140",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Custode della fiamma",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/041f8e2f986949994b7ca8f008b75ff4.jpg",
-      "powerLevel": 524,
-      "lastPlayedTimestamp": 1781466751000,
-      "lastActivityTimestamp": 1781466073000,
-      "lastActivityText": "Prove di Osiride: Con matchmaking il 14/06/2026 19:41",
+      "powerLevel": 525,
+      "lastPlayedTimestamp": 1781467157000,
+      "lastActivityTimestamp": 1781466458000,
+      "lastActivityText": "Prove di Osiride: Con matchmaking il 14/06/2026 19:47",
       "activities": [
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-06-14T19:47:38Z",
+          "instanceId": "16906252509"
+        },
         {
           "name": "Prove di Osiride: Con matchmaking",
           "period": "2026-06-14T19:41:13Z",
@@ -126,141 +131,6 @@
           "name": "Prove di Osiride: Con matchmaking",
           "period": "2026-06-14T18:16:25Z",
           "instanceId": "16905670019"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-06-14T18:04:25Z",
-          "instanceId": "16905573719"
-        }
-      ]
-    },
-    {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/19c19292462c171c82216996684fea0d.jpg",
-      "powerLevel": 314,
-      "lastPlayedTimestamp": 1781466090000,
-      "lastActivityTimestamp": 1781465179000,
-      "lastActivityText": "Controllo: Con matchmaking il 14/06/2026 19:26",
-      "activities": [
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-06-14T19:26:19Z",
-          "instanceId": "16906130833"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-06-14T19:15:22Z",
-          "instanceId": "16906039362"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-06-14T19:08:06Z",
-          "instanceId": "16905993419"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-14T18:54:59Z",
-          "instanceId": "16905944002"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-06-14T18:31:48Z",
-          "instanceId": "16905787653"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-06-14T18:16:23Z",
-          "instanceId": "16905701010"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-06-14T18:06:11Z",
-          "instanceId": "16905613434"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-12T21:41:21Z",
-          "instanceId": "16892529292"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-06T17:06:55Z",
-          "instanceId": "16865397631"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-06T14:33:03Z",
-          "instanceId": "16865803681"
-        }
-      ]
-    },
-    {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 479,
-      "lastPlayedTimestamp": 1781466752000,
-      "lastActivityTimestamp": 1781463259000,
-      "lastActivityText": "Tronomondo di Savathûn il 14/06/2026 18:54",
-      "activities": [
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-06-14T18:54:19Z",
-          "instanceId": "16905972329"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-06-14T17:52:14Z",
-          "instanceId": "16905535872"
-        },
-        {
-          "name": "La corrotta: Con matchmaking",
-          "period": "2026-06-14T17:20:39Z",
-          "instanceId": "16905412672"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-14T16:50:29Z",
-          "instanceId": "16905178228"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-14T15:38:57Z",
-          "instanceId": "16904752974"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-14T15:10:44Z",
-          "instanceId": "16904601629"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-14T14:07:21Z",
-          "instanceId": "16904246077"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-06-13T17:46:27Z",
-          "instanceId": "16897946475"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-06-13T17:44:16Z",
-          "instanceId": "16897926898"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-13T17:41:54Z",
-          "instanceId": "16897889276"
         }
       ]
     },
@@ -272,11 +142,16 @@
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
-      "powerLevel": 501,
-      "lastPlayedTimestamp": 1781466755000,
-      "lastActivityTimestamp": 1781463259000,
-      "lastActivityText": "Tronomondo di Savathûn il 14/06/2026 18:54",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1781471816000,
+      "lastActivityTimestamp": 1781466341000,
+      "lastActivityText": "Poligono di Tiro il 14/06/2026 19:45",
       "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-14T19:45:41Z",
+          "instanceId": "16906384259"
+        },
         {
           "name": "Tronomondo di Savathûn",
           "period": "2026-06-14T18:54:19Z",
@@ -321,11 +196,6 @@
           "name": "Europa",
           "period": "2026-06-13T09:32:38Z",
           "instanceId": "16895693234"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-13T08:54:58Z",
-          "instanceId": "16895585193"
         }
       ]
     },
@@ -337,11 +207,16 @@
       "className": "Cacciatori",
       "title": "Intrepido",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/dac5ae759ce9556eaf49d6f8776713f5.jpg",
-      "powerLevel": 506,
-      "lastPlayedTimestamp": 1781466359000,
-      "lastActivityTimestamp": 1781463259000,
-      "lastActivityText": "Tronomondo di Savathûn il 14/06/2026 18:54",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1781471629000,
+      "lastActivityTimestamp": 1781466341000,
+      "lastActivityText": "Poligono di Tiro il 14/06/2026 19:45",
       "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-14T19:45:41Z",
+          "instanceId": "16906384259"
+        },
         {
           "name": "Tronomondo di Savathûn",
           "period": "2026-06-14T18:54:19Z",
@@ -386,11 +261,136 @@
           "name": "Tronomondo di Savathûn",
           "period": "2026-06-13T16:42:13Z",
           "instanceId": "16897565223"
+        }
+      ]
+    },
+    {
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/19c19292462c171c82216996684fea0d.jpg",
+      "powerLevel": 277,
+      "lastPlayedTimestamp": 1781468334000,
+      "lastActivityTimestamp": 1781466013000,
+      "lastActivityText": "Controllo: Con matchmaking il 14/06/2026 19:40",
+      "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-14T19:40:13Z",
+          "instanceId": "16906244626"
         },
         {
-          "name": "Dualità: Maestro",
-          "period": "2026-06-13T14:56:27Z",
-          "instanceId": "16897388428"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-14T19:26:19Z",
+          "instanceId": "16906130833"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-06-14T19:15:22Z",
+          "instanceId": "16906039362"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-06-14T19:08:06Z",
+          "instanceId": "16905993419"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-14T18:54:59Z",
+          "instanceId": "16905944002"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-14T18:31:48Z",
+          "instanceId": "16905787653"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-14T18:16:23Z",
+          "instanceId": "16905701010"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-14T18:06:11Z",
+          "instanceId": "16905613434"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-12T21:41:21Z",
+          "instanceId": "16892529292"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-06T14:33:03Z",
+          "instanceId": "16865803681"
+        }
+      ]
+    },
+    {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1781471624000,
+      "lastActivityTimestamp": 1781465319000,
+      "lastActivityText": "Centro Città: Con matchmaking il 14/06/2026 19:28",
+      "activities": [
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-06-14T19:28:39Z",
+          "instanceId": "16906336280"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-06-14T18:54:19Z",
+          "instanceId": "16905972329"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-06-14T17:52:14Z",
+          "instanceId": "16905535872"
+        },
+        {
+          "name": "La corrotta: Con matchmaking",
+          "period": "2026-06-14T17:20:39Z",
+          "instanceId": "16905412672"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-14T16:50:29Z",
+          "instanceId": "16905178228"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-14T15:38:57Z",
+          "instanceId": "16904752974"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-14T15:10:44Z",
+          "instanceId": "16904601629"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-14T14:07:21Z",
+          "instanceId": "16904246077"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-06-13T17:46:27Z",
+          "instanceId": "16897946475"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-06-13T17:44:16Z",
+          "instanceId": "16897926898"
         }
       ]
     },
