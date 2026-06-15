@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-06-15T00:18:28.515Z",
+  "generatedAt": "2026-06-15T05:40:07.675Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1781501958000,
+      "lastActivityTimestamp": 1781499219000,
+      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 15/06/2026 04:53",
+      "activities": [
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-06-15T04:53:39Z",
+          "instanceId": "16909428912"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-06-14T15:45:35Z",
+          "instanceId": "16904831195"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-06-14T15:19:55Z",
+          "instanceId": "16904654553"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-06-14T14:53:31Z",
+          "instanceId": "16904509516"
+        },
+        {
+          "name": "Nel profondo",
+          "period": "2026-06-14T13:59:00Z",
+          "instanceId": "16904414400"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-06-14T12:08:00Z",
+          "instanceId": "16903636533"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-06-14T10:52:13Z",
+          "instanceId": "16903408024"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-06-14T10:15:27Z",
+          "instanceId": "16903332555"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-06-14T07:13:24Z",
+          "instanceId": "16902595255"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-06-14T07:02:28Z",
+          "instanceId": "16902473078"
+        }
+      ]
+    },
     {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
@@ -521,71 +586,6 @@
           "name": "Europa",
           "period": "2026-06-13T17:04:33Z",
           "instanceId": "16897695008"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1781453115000,
-      "lastActivityTimestamp": 1781451935000,
-      "lastActivityText": "La culla del male: Personalizzata il 14/06/2026 15:45",
-      "activities": [
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-06-14T15:45:35Z",
-          "instanceId": "16904831195"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-06-14T15:19:55Z",
-          "instanceId": "16904654553"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-06-14T14:53:31Z",
-          "instanceId": "16904509516"
-        },
-        {
-          "name": "Nel profondo",
-          "period": "2026-06-14T13:59:00Z",
-          "instanceId": "16904414400"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-06-14T12:08:00Z",
-          "instanceId": "16903636533"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-06-14T10:52:13Z",
-          "instanceId": "16903408024"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-06-14T10:15:27Z",
-          "instanceId": "16903332555"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-06-14T07:13:24Z",
-          "instanceId": "16902595255"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-06-14T07:02:28Z",
-          "instanceId": "16902473078"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-06-14T06:56:17Z",
-          "instanceId": "16902443094"
         }
       ]
     },
