@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T22:44:11.510Z",
+  "generatedAt": "2026-06-15T00:18:28.515Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 501,
-      "lastPlayedTimestamp": 1781476755000,
-      "lastActivityTimestamp": 1781469311000,
-      "lastActivityText": "La caduta di un Re: Standard il 14/06/2026 20:35",
+      "powerLevel": 470,
+      "lastPlayedTimestamp": 1781478689000,
+      "lastActivityTimestamp": 1781477737000,
+      "lastActivityText": "Zona Morta Europea il 14/06/2026 22:55",
       "activities": [
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-06-14T22:55:37Z",
+          "instanceId": "16907496790"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-14T22:27:44Z",
+          "instanceId": "16907403544"
+        },
         {
           "name": "La caduta di un Re: Standard",
           "period": "2026-06-14T20:35:11Z",
@@ -56,16 +66,71 @@
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-06-14T15:10:44Z",
           "instanceId": "16904601629"
+        }
+      ]
+    },
+    {
+      "displayName": "mattia08pro#6310",
+      "membershipId": "4611686018513701477",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Intrepido",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/dac5ae759ce9556eaf49d6f8776713f5.jpg",
+      "powerLevel": 506,
+      "lastPlayedTimestamp": 1781478609000,
+      "lastActivityTimestamp": 1781477737000,
+      "lastActivityText": "Zona Morta Europea il 14/06/2026 22:55",
+      "activities": [
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-06-14T22:55:37Z",
+          "instanceId": "16907496790"
         },
         {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-14T14:07:21Z",
-          "instanceId": "16904246077"
+          "name": "Poligono di Tiro",
+          "period": "2026-06-14T22:27:44Z",
+          "instanceId": "16907403544"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-06-14T20:35:11Z",
+          "instanceId": "16907215774"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-14T19:45:41Z",
+          "instanceId": "16906384259"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-06-14T18:54:19Z",
+          "instanceId": "16905972329"
+        },
+        {
+          "name": "La corrotta: Con matchmaking",
+          "period": "2026-06-14T17:20:39Z",
+          "instanceId": "16905412672"
         },
         {
           "name": "Lega Gare di Astori",
           "period": "2026-06-13T17:46:27Z",
           "instanceId": "16897946475"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-06-13T17:44:16Z",
+          "instanceId": "16897926898"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-13T17:41:54Z",
+          "instanceId": "16897889276"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-06-13T17:23:50Z",
+          "instanceId": "16897852401"
         }
       ]
     },
@@ -79,9 +144,14 @@
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
       "powerLevel": 361,
       "lastPlayedTimestamp": 1781476365000,
-      "lastActivityTimestamp": 1781469311000,
-      "lastActivityText": "La caduta di un Re: Standard il 14/06/2026 20:35",
+      "lastActivityTimestamp": 1781476064000,
+      "lastActivityText": "Poligono di Tiro il 14/06/2026 22:27",
       "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-14T22:27:44Z",
+          "instanceId": "16907403544"
+        },
         {
           "name": "La caduta di un Re: Standard",
           "period": "2026-06-14T20:35:11Z",
@@ -126,76 +196,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-06-13T09:46:41Z",
           "instanceId": "16895770889"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-06-13T09:38:53Z",
-          "instanceId": "16895716230"
-        }
-      ]
-    },
-    {
-      "displayName": "mattia08pro#6310",
-      "membershipId": "4611686018513701477",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Intrepido",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/dac5ae759ce9556eaf49d6f8776713f5.jpg",
-      "powerLevel": 506,
-      "lastPlayedTimestamp": 1781476984000,
-      "lastActivityTimestamp": 1781469311000,
-      "lastActivityText": "La caduta di un Re: Standard il 14/06/2026 20:35",
-      "activities": [
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-06-14T20:35:11Z",
-          "instanceId": "16907215774"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-14T19:45:41Z",
-          "instanceId": "16906384259"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-06-14T18:54:19Z",
-          "instanceId": "16905972329"
-        },
-        {
-          "name": "La corrotta: Con matchmaking",
-          "period": "2026-06-14T17:20:39Z",
-          "instanceId": "16905412672"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-06-13T17:46:27Z",
-          "instanceId": "16897946475"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-06-13T17:44:16Z",
-          "instanceId": "16897926898"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-13T17:41:54Z",
-          "instanceId": "16897889276"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-06-13T17:23:50Z",
-          "instanceId": "16897852401"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-06-13T17:05:02Z",
-          "instanceId": "16897751361"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-06-13T16:47:52Z",
-          "instanceId": "16897649083"
         }
       ]
     },
