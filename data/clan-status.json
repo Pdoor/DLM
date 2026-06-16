@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-06-15T23:19:18.325Z",
+  "generatedAt": "2026-06-16T02:09:58.550Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "nubires#8588",
+      "membershipId": "4611686018433412718",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "AUDACE",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
+      "powerLevel": 486,
+      "lastPlayedTimestamp": 1781570547000,
+      "lastActivityTimestamp": 1781566652000,
+      "lastActivityText": "Comando del Vespro: Normale il 15/06/2026 23:37",
+      "activities": [
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-06-15T23:37:32Z",
+          "instanceId": "16914998861"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-06-15T21:58:51Z",
+          "instanceId": "16914187908"
+        },
+        {
+          "name": "Adamantide, Europa: Sabotaggio: Con matchmaking",
+          "period": "2026-06-15T20:48:21Z",
+          "instanceId": "16913431762"
+        },
+        {
+          "name": "Adamantide, Europa: Sabotaggio: Con matchmaking",
+          "period": "2026-06-15T20:31:38Z",
+          "instanceId": "16913343304"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-06-15T18:52:40Z",
+          "instanceId": "16912779408"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-06-15T18:43:47Z",
+          "instanceId": "16912643929"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-14T13:22:35Z",
+          "instanceId": "16904017283"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-14T12:56:40Z",
+          "instanceId": "16903898117"
+        },
+        {
+          "name": "Dualità: Maestro",
+          "period": "2026-06-13T14:56:27Z",
+          "instanceId": "16897388428"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-06-13T14:34:45Z",
+          "instanceId": "16896901228"
+        }
+      ]
+    },
     {
       "displayName": "TheEnrageGamer#2674",
       "membershipId": "4611686018511383140",
@@ -73,12 +138,12 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
       "powerLevel": 439,
-      "lastPlayedTimestamp": 1781565543000,
+      "lastPlayedTimestamp": 1781566649000,
       "lastActivityTimestamp": 1781563914000,
       "lastActivityText": "Controllo: Con matchmaking il 15/06/2026 22:51",
       "activities": [
@@ -326,71 +391,6 @@
           "name": "Neomuna",
           "period": "2026-06-15T17:31:42Z",
           "instanceId": "16912176165"
-        }
-      ]
-    },
-    {
-      "displayName": "nubires#8588",
-      "membershipId": "4611686018433412718",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "AUDACE",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1781565518000,
-      "lastActivityTimestamp": 1781556501000,
-      "lastActivityText": "Adamantide, Europa: Sabotaggio: Con matchmaking il 15/06/2026 20:48",
-      "activities": [
-        {
-          "name": "Adamantide, Europa: Sabotaggio: Con matchmaking",
-          "period": "2026-06-15T20:48:21Z",
-          "instanceId": "16913431762"
-        },
-        {
-          "name": "Adamantide, Europa: Sabotaggio: Con matchmaking",
-          "period": "2026-06-15T20:31:38Z",
-          "instanceId": "16913343304"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-06-15T18:52:40Z",
-          "instanceId": "16912779408"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-06-15T18:43:47Z",
-          "instanceId": "16912643929"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-14T13:22:35Z",
-          "instanceId": "16904017283"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-14T12:56:40Z",
-          "instanceId": "16903898117"
-        },
-        {
-          "name": "Dualità: Maestro",
-          "period": "2026-06-13T14:56:27Z",
-          "instanceId": "16897388428"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-06-13T14:34:45Z",
-          "instanceId": "16896901228"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-06-13T14:24:59Z",
-          "instanceId": "16896841253"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-06-13T14:10:13Z",
-          "instanceId": "16896788072"
         }
       ]
     },
