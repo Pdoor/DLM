@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-06-18T02:02:09.311Z",
+  "generatedAt": "2026-06-18T07:17:01.638Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b98115713999de65cac82a37b83a2815.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1781766963000,
+      "lastActivityTimestamp": 1781764229000,
+      "lastActivityText": "Trafficante d'armi: Con matchmaking il 18/06/2026 06:30",
+      "activities": [
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-06-18T06:30:29Z",
+          "instanceId": "16929018240"
+        },
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-06-18T05:09:09Z",
+          "instanceId": "16928751432"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-06-18T04:44:02Z",
+          "instanceId": "16928614272"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-18T04:39:22Z",
+          "instanceId": "16928513253"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-06-17T12:33:47Z",
+          "instanceId": "16923964805"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-17T12:08:33Z",
+          "instanceId": "16923798788"
+        },
+        {
+          "name": "Bis in evidenza: Mente Consacrata: Pantheon",
+          "period": "2026-06-17T12:04:50Z",
+          "instanceId": "16923779227"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-17T09:42:33Z",
+          "instanceId": "16923435011"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-17T09:37:49Z",
+          "instanceId": "16923353879"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-17T08:59:56Z",
+          "instanceId": "16923647523"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -203,12 +268,12 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Scrittore spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/38f204eb25ac88463cf9b7f50312f82a.jpg",
-      "powerLevel": 427,
-      "lastPlayedTimestamp": 1781735564000,
+      "powerLevel": 441,
+      "lastPlayedTimestamp": 1781766854000,
       "lastActivityTimestamp": 1781733778000,
       "lastActivityText": "La caduta di un Re: Standard il 17/06/2026 22:02",
       "activities": [
@@ -716,71 +781,6 @@
           "name": "Avamposto di Tharsis",
           "period": "2026-01-01T10:30:16Z",
           "instanceId": "16726193202"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1781722665000,
-      "lastActivityTimestamp": 1781720507000,
-      "lastActivityText": "La Città Sognante il 17/06/2026 18:21",
-      "activities": [
-        {
-          "name": "La Città Sognante",
-          "period": "2026-06-17T18:21:47Z",
-          "instanceId": "16925514969"
-        },
-        {
-          "name": "Baia dei Desideri Annegati: Maestro",
-          "period": "2026-06-17T18:09:11Z",
-          "instanceId": "16925331258"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-06-17T18:01:12Z",
-          "instanceId": "16925272514"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-06-17T17:40:11Z",
-          "instanceId": "16925218947"
-        },
-        {
-          "name": "Campi di battaglia: Condotto: Con matchmaking",
-          "period": "2026-06-17T17:10:02Z",
-          "instanceId": "16925059099"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-06-17T16:56:18Z",
-          "instanceId": "16925030878"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-06-17T16:28:44Z",
-          "instanceId": "16924897781"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-17T15:27:30Z",
-          "instanceId": "16924582924"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-17T15:19:42Z",
-          "instanceId": "16924525343"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-06-17T14:20:29Z",
-          "instanceId": "16924435828"
         }
       ]
     },
