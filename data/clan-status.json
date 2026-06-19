@@ -1,22 +1,222 @@
 {
-  "generatedAt": "2026-06-19T20:17:38.807Z",
+  "generatedAt": "2026-06-19T21:47:14.541Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "BLUE_JAY_5642#1205",
-      "membershipId": "4611686018506353436",
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/19c19292462c171c82216996684fea0d.jpg",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1781905593000,
+      "lastActivityTimestamp": 1781903555000,
+      "lastActivityText": "Poligono di Tiro il 19/06/2026 21:12",
+      "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-19T21:12:35Z",
+          "instanceId": "16938432909"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-19T20:55:16Z",
+          "instanceId": "16938329071"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-19T20:34:13Z",
+          "instanceId": "16938215489"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-06-19T19:57:39Z",
+          "instanceId": "16938137220"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-06-19T19:27:21Z",
+          "instanceId": "16938424464"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-06-18T20:52:26Z",
+          "instanceId": "16932289933"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-06-18T20:32:27Z",
+          "instanceId": "16932134400"
+        },
+        {
+          "name": "Escissione: Solo gioco",
+          "period": "2026-06-18T19:55:05Z",
+          "instanceId": "16932001974"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-06-18T19:41:19Z",
+          "instanceId": "16931874779"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-06-18T19:28:20Z",
+          "instanceId": "16931796225"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
       "isOnline": true,
       "className": "Cacciatori",
+      "title": "Scrittore spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/38f204eb25ac88463cf9b7f50312f82a.jpg",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1781905220000,
+      "lastActivityTimestamp": 1781903555000,
+      "lastActivityText": "Poligono di Tiro il 19/06/2026 21:12",
+      "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-19T21:12:35Z",
+          "instanceId": "16938432909"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-19T20:55:16Z",
+          "instanceId": "16938329071"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-19T20:34:13Z",
+          "instanceId": "16938215489"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-06-19T19:57:39Z",
+          "instanceId": "16938137220"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-06-19T19:27:21Z",
+          "instanceId": "16938424464"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-06-19T08:05:39Z",
+          "instanceId": "16935504572"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-06-18T21:01:28Z",
+          "instanceId": "16932380011"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-06-18T20:52:26Z",
+          "instanceId": "16932289933"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-06-18T20:32:27Z",
+          "instanceId": "16932134400"
+        },
+        {
+          "name": "Escissione: Solo gioco",
+          "period": "2026-06-18T19:55:05Z",
+          "instanceId": "16932001974"
+        }
+      ]
+    },
+    {
+      "displayName": "Paltrix94#5760",
+      "membershipId": "4611686018516491359",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
+      "powerLevel": 450,
+      "lastPlayedTimestamp": 1781902791000,
+      "lastActivityTimestamp": 1781901669000,
+      "lastActivityText": "Trafficante d'armi: Con matchmaking il 19/06/2026 20:41",
+      "activities": [
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-06-19T20:41:09Z",
+          "instanceId": "16938295411"
+        },
+        {
+          "name": "D.A.G.A. caduta: Con matchmaking",
+          "period": "2026-06-19T16:07:43Z",
+          "instanceId": "16936929987"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-06-19T15:40:37Z",
+          "instanceId": "16936820427"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-06-19T15:35:41Z",
+          "instanceId": "16936868894"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-06-19T15:19:59Z",
+          "instanceId": "16936740225"
+        },
+        {
+          "name": "D.A.G.A. caduta: Con matchmaking",
+          "period": "2026-06-19T15:06:03Z",
+          "instanceId": "16936664749"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-06-19T14:58:16Z",
+          "instanceId": "16936609688"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-06-19T14:55:22Z",
+          "instanceId": "16936571068"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-19T14:40:33Z",
+          "instanceId": "16936625821"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-19T14:38:42Z",
+          "instanceId": "16936504584"
+        }
+      ]
+    },
+    {
+      "displayName": "BLUE_JAY_5642#1205",
+      "membershipId": "4611686018506353436",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8bde4cceae744ef8108f5a9bbd3c2738.jpg",
-      "powerLevel": 388,
-      "lastPlayedTimestamp": 1781900182000,
-      "lastActivityTimestamp": 1781895956000,
-      "lastActivityText": "Fuoco e ghiaccio: Audace il 19/06/2026 19:05",
+      "powerLevel": 384,
+      "lastPlayedTimestamp": 1781901559000,
+      "lastActivityTimestamp": 1781897092000,
+      "lastActivityText": "Fuoco e ghiaccio: Audace il 19/06/2026 19:24",
       "activities": [
+        {
+          "name": "Fuoco e ghiaccio: Audace",
+          "period": "2026-06-19T19:24:52Z",
+          "instanceId": "16938118548"
+        },
         {
           "name": "Fuoco e ghiaccio: Audace",
           "period": "2026-06-19T19:05:56Z",
@@ -61,11 +261,6 @@
           "name": "Neomuna",
           "period": "2026-06-18T21:10:58Z",
           "instanceId": "16932478602"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-18T20:34:22Z",
-          "instanceId": "16932185521"
         }
       ]
     },
@@ -395,71 +590,6 @@
       ]
     },
     {
-      "displayName": "Paltrix94#5760",
-      "membershipId": "4611686018516491359",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
-      "powerLevel": 449,
-      "lastPlayedTimestamp": 1781886119000,
-      "lastActivityTimestamp": 1781885263000,
-      "lastActivityText": "D.A.G.A. caduta: Con matchmaking il 19/06/2026 16:07",
-      "activities": [
-        {
-          "name": "D.A.G.A. caduta: Con matchmaking",
-          "period": "2026-06-19T16:07:43Z",
-          "instanceId": "16936929987"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-06-19T15:40:37Z",
-          "instanceId": "16936820427"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-06-19T15:35:41Z",
-          "instanceId": "16936868894"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-06-19T15:19:59Z",
-          "instanceId": "16936740225"
-        },
-        {
-          "name": "D.A.G.A. caduta: Con matchmaking",
-          "period": "2026-06-19T15:06:03Z",
-          "instanceId": "16936664749"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-06-19T14:58:16Z",
-          "instanceId": "16936609688"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-06-19T14:55:22Z",
-          "instanceId": "16936571068"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-06-19T14:40:33Z",
-          "instanceId": "16936625821"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-06-19T14:38:42Z",
-          "instanceId": "16936504584"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-06-19T14:26:45Z",
-          "instanceId": "16936492959"
-        }
-      ]
-    },
-    {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
@@ -716,136 +846,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-06-18T20:07:51Z",
           "instanceId": "16932026420"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Scrittore spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/38f204eb25ac88463cf9b7f50312f82a.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1781899973000,
-      "lastActivityTimestamp": 1781856339000,
-      "lastActivityText": "Volta di Vetro: Standard il 19/06/2026 08:05",
-      "activities": [
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-06-19T08:05:39Z",
-          "instanceId": "16935504572"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-06-18T21:01:28Z",
-          "instanceId": "16932380011"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-06-18T20:52:26Z",
-          "instanceId": "16932289933"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-18T20:32:27Z",
-          "instanceId": "16932134400"
-        },
-        {
-          "name": "Escissione: Solo gioco",
-          "period": "2026-06-18T19:55:05Z",
-          "instanceId": "16932001974"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-18T19:41:19Z",
-          "instanceId": "16931874779"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-18T19:28:20Z",
-          "instanceId": "16931796225"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-18T19:07:42Z",
-          "instanceId": "16931724962"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-06-18T16:23:11Z",
-          "instanceId": "16931018947"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-06-18T15:31:46Z",
-          "instanceId": "16930932647"
-        }
-      ]
-    },
-    {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/19c19292462c171c82216996684fea0d.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1781899955000,
-      "lastActivityTimestamp": 1781815946000,
-      "lastActivityText": "Volta di Vetro: Standard il 18/06/2026 20:52",
-      "activities": [
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-06-18T20:52:26Z",
-          "instanceId": "16932289933"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-18T20:32:27Z",
-          "instanceId": "16932134400"
-        },
-        {
-          "name": "Escissione: Solo gioco",
-          "period": "2026-06-18T19:55:05Z",
-          "instanceId": "16932001974"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-18T19:41:19Z",
-          "instanceId": "16931874779"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-18T19:28:20Z",
-          "instanceId": "16931796225"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-18T19:07:42Z",
-          "instanceId": "16931724962"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-06-17T22:02:58Z",
-          "instanceId": "16926620735"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-06-17T21:32:11Z",
-          "instanceId": "16926782931"
-        },
-        {
-          "name": "Logistica R1: Personalizzata",
-          "period": "2026-06-15T22:44:44Z",
-          "instanceId": "16914031106"
-        },
-        {
-          "name": "Logistica R1: Personalizzata",
-          "period": "2026-06-15T22:34:21Z",
-          "instanceId": "16913966595"
         }
       ]
     },
