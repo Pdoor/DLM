@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T21:47:14.541Z",
+  "generatedAt": "2026-06-19T23:09:12.634Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,25 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/19c19292462c171c82216996684fea0d.jpg",
       "powerLevel": 545,
-      "lastPlayedTimestamp": 1781905593000,
-      "lastActivityTimestamp": 1781903555000,
-      "lastActivityText": "Poligono di Tiro il 19/06/2026 21:12",
+      "lastPlayedTimestamp": 1781910363000,
+      "lastActivityTimestamp": 1781907689000,
+      "lastActivityText": "Orlo della Salvezza: Standard il 19/06/2026 22:21",
       "activities": [
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-06-19T22:21:29Z",
+          "instanceId": "16938756130"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-06-19T21:54:48Z",
+          "instanceId": "16938730173"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-06-19T21:40:03Z",
+          "instanceId": "16938574054"
+        },
         {
           "name": "Poligono di Tiro",
           "period": "2026-06-19T21:12:35Z",
@@ -51,21 +66,6 @@
           "name": "Pallido Cuore",
           "period": "2026-06-18T20:32:27Z",
           "instanceId": "16932134400"
-        },
-        {
-          "name": "Escissione: Solo gioco",
-          "period": "2026-06-18T19:55:05Z",
-          "instanceId": "16932001974"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-18T19:41:19Z",
-          "instanceId": "16931874779"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-18T19:28:20Z",
-          "instanceId": "16931796225"
         }
       ]
     },
@@ -78,10 +78,25 @@
       "title": "Scrittore spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/38f204eb25ac88463cf9b7f50312f82a.jpg",
       "powerLevel": 545,
-      "lastPlayedTimestamp": 1781905220000,
-      "lastActivityTimestamp": 1781903555000,
-      "lastActivityText": "Poligono di Tiro il 19/06/2026 21:12",
+      "lastPlayedTimestamp": 1781910214000,
+      "lastActivityTimestamp": 1781907689000,
+      "lastActivityText": "Orlo della Salvezza: Standard il 19/06/2026 22:21",
       "activities": [
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-06-19T22:21:29Z",
+          "instanceId": "16938756130"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-06-19T21:54:48Z",
+          "instanceId": "16938730173"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-06-19T21:40:03Z",
+          "instanceId": "16938574054"
+        },
         {
           "name": "Poligono di Tiro",
           "period": "2026-06-19T21:12:35Z",
@@ -116,21 +131,6 @@
           "name": "Volta di Vetro: Standard",
           "period": "2026-06-18T21:01:28Z",
           "instanceId": "16932380011"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-06-18T20:52:26Z",
-          "instanceId": "16932289933"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-18T20:32:27Z",
-          "instanceId": "16932134400"
-        },
-        {
-          "name": "Escissione: Solo gioco",
-          "period": "2026-06-18T19:55:05Z",
-          "instanceId": "16932001974"
         }
       ]
     },
