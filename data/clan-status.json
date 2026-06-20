@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T23:09:12.634Z",
+  "generatedAt": "2026-06-20T01:36:57.789Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/19c19292462c171c82216996684fea0d.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1781910363000,
-      "lastActivityTimestamp": 1781907689000,
-      "lastActivityText": "Orlo della Salvezza: Standard il 19/06/2026 22:21",
+      "powerLevel": 320,
+      "lastPlayedTimestamp": 1781911008000,
+      "lastActivityTimestamp": 1781908379000,
+      "lastActivityText": "Orlo della Salvezza: Standard il 19/06/2026 22:32",
       "activities": [
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-06-19T22:32:59Z",
+          "instanceId": "16939117182"
+        },
         {
           "name": "Orlo della Salvezza: Standard",
           "period": "2026-06-19T22:21:29Z",
@@ -61,11 +66,6 @@
           "name": "Volta di Vetro: Standard",
           "period": "2026-06-18T20:52:26Z",
           "instanceId": "16932289933"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-18T20:32:27Z",
-          "instanceId": "16932134400"
         }
       ]
     },
@@ -73,15 +73,20 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Scrittore spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/38f204eb25ac88463cf9b7f50312f82a.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1781910214000,
-      "lastActivityTimestamp": 1781907689000,
-      "lastActivityText": "Orlo della Salvezza: Standard il 19/06/2026 22:21",
+      "powerLevel": 446,
+      "lastPlayedTimestamp": 1781910833000,
+      "lastActivityTimestamp": 1781908379000,
+      "lastActivityText": "Orlo della Salvezza: Standard il 19/06/2026 22:32",
       "activities": [
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-06-19T22:32:59Z",
+          "instanceId": "16939117182"
+        },
         {
           "name": "Orlo della Salvezza: Standard",
           "period": "2026-06-19T22:21:29Z",
@@ -126,11 +131,6 @@
           "name": "Volta di Vetro: Standard",
           "period": "2026-06-19T08:05:39Z",
           "instanceId": "16935504572"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-06-18T21:01:28Z",
-          "instanceId": "16932380011"
         }
       ]
     },
@@ -398,12 +398,12 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 410,
-      "lastPlayedTimestamp": 1781894663000,
+      "powerLevel": 531,
+      "lastPlayedTimestamp": 1781919101000,
       "lastActivityTimestamp": 1781890440000,
       "lastActivityText": "Pantheon: Calus risplendente: Personalizzata il 19/06/2026 17:34",
       "activities": [
