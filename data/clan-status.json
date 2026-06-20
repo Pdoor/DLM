@@ -1,9 +1,139 @@
 {
-  "generatedAt": "2026-06-20T01:36:57.789Z",
+  "generatedAt": "2026-06-20T06:27:42.392Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1781936829000,
+      "lastActivityTimestamp": 1781933870000,
+      "lastActivityText": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata il 20/06/2026 05:37",
+      "activities": [
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-06-20T05:37:50Z",
+          "instanceId": "16940931901"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-06-20T05:03:07Z",
+          "instanceId": "16940839694"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-19T16:07:17Z",
+          "instanceId": "16936937231"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-06-19T15:35:41Z",
+          "instanceId": "16936868894"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-19T09:56:46Z",
+          "instanceId": "16935684480"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-06-19T09:36:20Z",
+          "instanceId": "16935586733"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-06-19T08:43:20Z",
+          "instanceId": "16935545993"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-06-19T08:24:07Z",
+          "instanceId": "16935426675"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-06-19T06:00:41Z",
+          "instanceId": "16935585307"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-06-19T05:25:56Z",
+          "instanceId": "16934778551"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Mietitrice",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 443,
+      "lastPlayedTimestamp": 1781935055000,
+      "lastActivityTimestamp": 1781914933000,
+      "lastActivityText": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata il 20/06/2026 00:22",
+      "activities": [
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-06-20T00:22:13Z",
+          "instanceId": "16940994537"
+        },
+        {
+          "name": "Pantheon: Calus risplendente: Personalizzata",
+          "period": "2026-06-19T17:34:00Z",
+          "instanceId": "16937697807"
+        },
+        {
+          "name": "Pantheon: Calus risplendente: Personalizzata",
+          "period": "2026-06-19T17:30:44Z",
+          "instanceId": "16937523823"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-19T17:28:49Z",
+          "instanceId": "16937260972"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-19T17:26:34Z",
+          "instanceId": "16937266413"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-19T17:09:34Z",
+          "instanceId": "16937200310"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-19T04:56:56Z",
+          "instanceId": "16934612885"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-06-19T04:31:45Z",
+          "instanceId": "16934558991"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-06-19T04:14:47Z",
+          "instanceId": "16934432817"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-19T04:07:12Z",
+          "instanceId": "16934359257"
+        }
+      ]
+    },
     {
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
@@ -326,136 +456,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-06-18T20:07:51Z",
           "instanceId": "16932026420"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b98115713999de65cac82a37b83a2815.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1781893845000,
-      "lastActivityTimestamp": 1781893304000,
-      "lastActivityText": "Nessus, Centauro Instabile il 19/06/2026 18:21",
-      "activities": [
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-06-19T18:21:44Z",
-          "instanceId": "16937607881"
-        },
-        {
-          "name": "Confluenza: Maestro",
-          "period": "2026-06-19T18:05:57Z",
-          "instanceId": "16937495284"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-06-19T17:59:59Z",
-          "instanceId": "16937418566"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-06-19T17:54:10Z",
-          "instanceId": "16937385947"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-19T16:07:17Z",
-          "instanceId": "16936937231"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-06-19T15:35:41Z",
-          "instanceId": "16936868894"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-06-19T14:40:33Z",
-          "instanceId": "16936625821"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-06-19T14:38:42Z",
-          "instanceId": "16936504584"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-06-19T14:26:45Z",
-          "instanceId": "16936492959"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-06-19T14:25:37Z",
-          "instanceId": "16936451240"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Mietitrice",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 531,
-      "lastPlayedTimestamp": 1781919101000,
-      "lastActivityTimestamp": 1781890440000,
-      "lastActivityText": "Pantheon: Calus risplendente: Personalizzata il 19/06/2026 17:34",
-      "activities": [
-        {
-          "name": "Pantheon: Calus risplendente: Personalizzata",
-          "period": "2026-06-19T17:34:00Z",
-          "instanceId": "16937697807"
-        },
-        {
-          "name": "Pantheon: Calus risplendente: Personalizzata",
-          "period": "2026-06-19T17:30:44Z",
-          "instanceId": "16937523823"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-19T17:28:49Z",
-          "instanceId": "16937260972"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-19T17:26:34Z",
-          "instanceId": "16937266413"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-19T17:09:34Z",
-          "instanceId": "16937200310"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-19T04:56:56Z",
-          "instanceId": "16934612885"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-06-19T04:31:45Z",
-          "instanceId": "16934558991"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-06-19T04:14:47Z",
-          "instanceId": "16934432817"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-19T04:07:12Z",
-          "instanceId": "16934359257"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-19T04:05:42Z",
-          "instanceId": "16934333053"
         }
       ]
     },
