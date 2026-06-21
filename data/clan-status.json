@@ -1,14 +1,144 @@
 {
-  "generatedAt": "2026-06-21T21:57:56.235Z",
+  "generatedAt": "2026-06-21T23:25:03.977Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Mietitrice",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 480,
+      "lastPlayedTimestamp": 1782084231000,
+      "lastActivityTimestamp": 1782081530000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 21/06/2026 22:38",
+      "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-21T22:38:50Z",
+          "instanceId": "16951946356"
+        },
+        {
+          "name": "Tifone Imperatore: Personalizzata",
+          "period": "2026-06-21T21:47:51Z",
+          "instanceId": "16951675094"
+        },
+        {
+          "name": "La caduta di un Kell: Personalizzata",
+          "period": "2026-06-21T15:58:37Z",
+          "instanceId": "16949837006"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-06-21T15:49:00Z",
+          "instanceId": "16949731349"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-06-21T15:46:21Z",
+          "instanceId": "16949715846"
+        },
+        {
+          "name": "Escissione: Solo gioco",
+          "period": "2026-06-21T15:23:16Z",
+          "instanceId": "16949643469"
+        },
+        {
+          "name": "La Guerriera: Con matchmaking",
+          "period": "2026-06-21T03:15:25Z",
+          "instanceId": "16946755351"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-21T02:39:30Z",
+          "instanceId": "16946613688"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-21T02:18:54Z",
+          "instanceId": "16946476815"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-21T01:20:14Z",
+          "instanceId": "16946152014"
+        }
+      ]
+    },
+    {
+      "displayName": "BLUE_JAY_5642#1205",
+      "membershipId": "4611686018506353436",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Signora del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8bde4cceae744ef8108f5a9bbd3c2738.jpg",
+      "powerLevel": 390,
+      "lastPlayedTimestamp": 1782082913000,
+      "lastActivityTimestamp": 1782079210000,
+      "lastActivityText": "La Città Sognante il 21/06/2026 22:00",
+      "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-06-21T22:00:10Z",
+          "instanceId": "16951981189"
+        },
+        {
+          "name": "Palude Selina, Venere: Sabotaggio: Con matchmaking",
+          "period": "2026-06-21T20:57:21Z",
+          "instanceId": "16951453852"
+        },
+        {
+          "name": "Fortezza di Hellas, Marte: Caccia alle taglie: Con matchmaking",
+          "period": "2026-06-21T20:49:57Z",
+          "instanceId": "16951361712"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-06-21T14:35:18Z",
+          "instanceId": "16949809241"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-06-21T14:05:52Z",
+          "instanceId": "16949324572"
+        },
+        {
+          "name": "Il messaggio: Normale",
+          "period": "2026-06-21T14:00:50Z",
+          "instanceId": "16949239648"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-06-21T13:41:00Z",
+          "instanceId": "16949217032"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-06-21T11:12:57Z",
+          "instanceId": "16948604414"
+        },
+        {
+          "name": "Missione: Rischio di collasso: Normale",
+          "period": "2026-06-21T10:53:13Z",
+          "instanceId": "16948601986"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-06-21T10:45:26Z",
+          "instanceId": "16949446285"
+        }
+      ]
+    },
+    {
       "displayName": "alexcecenko#951",
       "membershipId": "4611686018463713971",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Leggenda",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/d27e8ff42082bb9a237522a9a306e3ac.jpg",
@@ -73,12 +203,12 @@
       "displayName": "nubires#8588",
       "membershipId": "4611686018433412718",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "AUDACE",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 507,
-      "lastPlayedTimestamp": 1782078117000,
+      "powerLevel": 506,
+      "lastPlayedTimestamp": 1782084242000,
       "lastActivityTimestamp": 1782077059000,
       "lastActivityText": "Creazione: Personalizzata il 21/06/2026 21:24",
       "activities": [
@@ -131,71 +261,6 @@
           "name": "Tronomondo di Savathûn",
           "period": "2026-06-19T11:27:01Z",
           "instanceId": "16935874520"
-        }
-      ]
-    },
-    {
-      "displayName": "BLUE_JAY_5642#1205",
-      "membershipId": "4611686018506353436",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Signora del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8bde4cceae744ef8108f5a9bbd3c2738.jpg",
-      "powerLevel": 393,
-      "lastPlayedTimestamp": 1782077820000,
-      "lastActivityTimestamp": 1782075441000,
-      "lastActivityText": "Palude Selina, Venere: Sabotaggio: Con matchmaking il 21/06/2026 20:57",
-      "activities": [
-        {
-          "name": "Palude Selina, Venere: Sabotaggio: Con matchmaking",
-          "period": "2026-06-21T20:57:21Z",
-          "instanceId": "16951453852"
-        },
-        {
-          "name": "Fortezza di Hellas, Marte: Caccia alle taglie: Con matchmaking",
-          "period": "2026-06-21T20:49:57Z",
-          "instanceId": "16951361712"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-06-21T14:35:18Z",
-          "instanceId": "16949809241"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-21T14:05:52Z",
-          "instanceId": "16949324572"
-        },
-        {
-          "name": "Il messaggio: Normale",
-          "period": "2026-06-21T14:00:50Z",
-          "instanceId": "16949239648"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-21T13:41:00Z",
-          "instanceId": "16949217032"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-21T11:12:57Z",
-          "instanceId": "16948604414"
-        },
-        {
-          "name": "Missione: Rischio di collasso: Normale",
-          "period": "2026-06-21T10:53:13Z",
-          "instanceId": "16948601986"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-21T10:45:26Z",
-          "instanceId": "16949446285"
-        },
-        {
-          "name": "Quarantena: Normale",
-          "period": "2026-06-21T10:22:23Z",
-          "instanceId": "16948514977"
         }
       ]
     },
@@ -651,71 +716,6 @@
           "name": "Equilibrio: Standard",
           "period": "2026-06-21T07:41:09Z",
           "instanceId": "16948193784"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Mietitrice",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 483,
-      "lastPlayedTimestamp": 1782078947000,
-      "lastActivityTimestamp": 1782057517000,
-      "lastActivityText": "La caduta di un Kell: Personalizzata il 21/06/2026 15:58",
-      "activities": [
-        {
-          "name": "La caduta di un Kell: Personalizzata",
-          "period": "2026-06-21T15:58:37Z",
-          "instanceId": "16949837006"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-06-21T15:49:00Z",
-          "instanceId": "16949731349"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-06-21T15:46:21Z",
-          "instanceId": "16949715846"
-        },
-        {
-          "name": "Escissione: Solo gioco",
-          "period": "2026-06-21T15:23:16Z",
-          "instanceId": "16949643469"
-        },
-        {
-          "name": "La Guerriera: Con matchmaking",
-          "period": "2026-06-21T03:15:25Z",
-          "instanceId": "16946755351"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-21T02:39:30Z",
-          "instanceId": "16946613688"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-21T02:18:54Z",
-          "instanceId": "16946476815"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-21T01:20:14Z",
-          "instanceId": "16946152014"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-21T01:11:05Z",
-          "instanceId": "16946110685"
-        },
-        {
-          "name": "Pantheon: Calus risplendente: Personalizzata",
-          "period": "2026-06-20T19:46:58Z",
-          "instanceId": "16944741255"
         }
       ]
     },
@@ -1698,12 +1698,12 @@
       "displayName": "Neytiri_wave#9364",
       "membershipId": "4611686018530145706",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
-      "powerLevel": 305,
-      "lastPlayedTimestamp": 1782078994000,
+      "powerLevel": 268,
+      "lastPlayedTimestamp": 1782080702000,
       "lastActivityTimestamp": 1781723773000,
       "lastActivityText": "La caduta di un Kell: Personalizzata il 17/06/2026 19:16",
       "activities": [
