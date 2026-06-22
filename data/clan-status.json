@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T23:25:03.977Z",
+  "generatedAt": "2026-06-22T02:04:31.160Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,31 @@
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 480,
-      "lastPlayedTimestamp": 1782084231000,
-      "lastActivityTimestamp": 1782081530000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 21/06/2026 22:38",
+      "powerLevel": 486,
+      "lastPlayedTimestamp": 1782093833000,
+      "lastActivityTimestamp": 1782091601000,
+      "lastActivityText": "Conquista modalità maestro: Derealizzazione: Personalizzata il 22/06/2026 01:26",
       "activities": [
+        {
+          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
+          "period": "2026-06-22T01:26:41Z",
+          "instanceId": "16952840200"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-22T01:21:24Z",
+          "instanceId": "16952741445"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-22T01:09:20Z",
+          "instanceId": "16952678161"
+        },
+        {
+          "name": "Avamposto dei cabal: Con matchmaking",
+          "period": "2026-06-21T23:44:19Z",
+          "instanceId": "16952287292"
+        },
         {
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-06-21T22:38:50Z",
@@ -46,26 +66,71 @@
           "name": "Escissione: Solo gioco",
           "period": "2026-06-21T15:23:16Z",
           "instanceId": "16949643469"
+        }
+      ]
+    },
+    {
+      "displayName": "nubires#8588",
+      "membershipId": "4611686018433412718",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "AUDACE",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
+      "powerLevel": 506,
+      "lastPlayedTimestamp": 1782084375000,
+      "lastActivityTimestamp": 1782083755000,
+      "lastActivityText": "Zona Morta Europea il 21/06/2026 23:15",
+      "activities": [
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-06-21T23:15:55Z",
+          "instanceId": "16952103866"
         },
         {
-          "name": "La Guerriera: Con matchmaking",
-          "period": "2026-06-21T03:15:25Z",
-          "instanceId": "16946755351"
+          "name": "Creazione: Personalizzata",
+          "period": "2026-06-21T21:24:19Z",
+          "instanceId": "16951526630"
         },
         {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-21T02:39:30Z",
-          "instanceId": "16946613688"
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-06-20T16:22:08Z",
+          "instanceId": "16943457202"
         },
         {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-21T02:18:54Z",
-          "instanceId": "16946476815"
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-06-20T15:53:12Z",
+          "instanceId": "16943401234"
         },
         {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-21T01:20:14Z",
-          "instanceId": "16946152014"
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-19T14:40:33Z",
+          "instanceId": "16936625821"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-19T14:38:42Z",
+          "instanceId": "16936504584"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-19T14:26:45Z",
+          "instanceId": "16936492959"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-19T14:14:10Z",
+          "instanceId": "16936436473"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-19T14:12:31Z",
+          "instanceId": "16936401105"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-19T13:59:08Z",
+          "instanceId": "16936387828"
         }
       ]
     },
@@ -196,71 +261,6 @@
           "name": "Osservatorio Celeste: Personalizzata",
           "period": "2026-06-14T11:23:07Z",
           "instanceId": "16903479214"
-        }
-      ]
-    },
-    {
-      "displayName": "nubires#8588",
-      "membershipId": "4611686018433412718",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "AUDACE",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 506,
-      "lastPlayedTimestamp": 1782084242000,
-      "lastActivityTimestamp": 1782077059000,
-      "lastActivityText": "Creazione: Personalizzata il 21/06/2026 21:24",
-      "activities": [
-        {
-          "name": "Creazione: Personalizzata",
-          "period": "2026-06-21T21:24:19Z",
-          "instanceId": "16951526630"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-06-20T16:22:08Z",
-          "instanceId": "16943457202"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-06-20T15:53:12Z",
-          "instanceId": "16943401234"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-06-19T14:40:33Z",
-          "instanceId": "16936625821"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-06-19T14:38:42Z",
-          "instanceId": "16936504584"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-06-19T14:26:45Z",
-          "instanceId": "16936492959"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-06-19T14:14:10Z",
-          "instanceId": "16936436473"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-06-19T14:12:31Z",
-          "instanceId": "16936401105"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-06-19T13:59:08Z",
-          "instanceId": "16936387828"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-06-19T11:27:01Z",
-          "instanceId": "16935874520"
         }
       ]
     },
