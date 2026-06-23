@@ -720,6 +720,7 @@
         let activeView = 'week';
         let focusDate = new Date();
         let loading = false;
+        let plannerError = '';
 
         const elements = {
             homeButton: document.getElementById('homeButton'),
@@ -816,6 +817,7 @@
                 return;
             }
             loading = true;
+            plannerError = '';
             renderWeekFrame();
             try {
                 const userId = getUserId();
@@ -832,7 +834,7 @@
                     clearAuth();
                     renewLoginOnce();
                 } else {
-                    elements.plannerGrid.innerHTML = `<div class="error">${escapeHtml(error.message || 'Planner non disponibile.')}</div>`;
+                    plannerError = error.message || 'Planner non disponibile.';
                 }
             } finally {
                 loading = false;
@@ -986,17 +988,12 @@
                 : `${getVisibleEvents(days).length} proposte ${isDayView ? 'nel giorno' : 'nella settimana'}`;
 
             const grouped = groupEventsByDate(events);
-            const visibleDays = (isDayView || loading)
-                ? days
-                : days.filter((day) => (grouped.get(formatInputDate(day)) || []).length);
+            const visibleDays = days;
             elements.plannerGrid.innerHTML = '';
             elements.plannerGrid.style.setProperty('--visible-days', String(Math.max(visibleDays.length, 1)));
 
-            if (!visibleDays.length) {
-                const empty = document.createElement('div');
-                empty.className = 'week-empty';
-                empty.textContent = 'Nessuna proposta raid nella settimana.';
-                elements.plannerGrid.appendChild(empty);
+            if (plannerError) {
+                elements.plannerGrid.innerHTML = `<div class="error">${escapeHtml(plannerError)}</div>`;
                 return;
             }
 
