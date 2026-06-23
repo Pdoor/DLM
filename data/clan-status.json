@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T21:57:57.913Z",
+  "generatedAt": "2026-06-23T22:05:30.798Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,8 +12,8 @@
       "className": "Cacciatori",
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8bde4cceae744ef8108f5a9bbd3c2738.jpg",
-      "powerLevel": 355,
-      "lastPlayedTimestamp": 1782251839000,
+      "powerLevel": 393,
+      "lastPlayedTimestamp": 1782252051000,
       "lastActivityTimestamp": 1782250811000,
       "lastActivityText": "Vox obscura: Personalizzata il 23/06/2026 21:40",
       "activities": [
@@ -1183,7 +1183,7 @@
       "title": "Portatore di desideri",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
       "powerLevel": 497,
-      "lastPlayedTimestamp": 1782251718000,
+      "lastPlayedTimestamp": 1782252214000,
       "lastActivityTimestamp": 1782225501000,
       "lastActivityText": "Lega Gare di Astori il 23/06/2026 14:38",
       "activities": [
@@ -1301,6 +1301,71 @@
           "name": "Competitiva: Con matchmaking",
           "period": "2026-06-21T20:05:30Z",
           "instanceId": "16951073858"
+        }
+      ]
+    },
+    {
+      "displayName": "nubires#8588",
+      "membershipId": "4611686018433412718",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "AUDACE",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
+      "powerLevel": 508,
+      "lastPlayedTimestamp": 1782252237000,
+      "lastActivityTimestamp": 1782162940000,
+      "lastActivityText": "Conquista modalità gran maestro: La disonorata: Personalizzata il 22/06/2026 21:15",
+      "activities": [
+        {
+          "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
+          "period": "2026-06-22T21:15:40Z",
+          "instanceId": "16957238591"
+        },
+        {
+          "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
+          "period": "2026-06-22T21:09:23Z",
+          "instanceId": "16957156279"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
+          "period": "2026-06-22T20:19:45Z",
+          "instanceId": "16957070443"
+        },
+        {
+          "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
+          "period": "2026-06-22T19:22:42Z",
+          "instanceId": "16956720107"
+        },
+        {
+          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
+          "period": "2026-06-22T18:38:58Z",
+          "instanceId": "16956596609"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-06-21T23:15:55Z",
+          "instanceId": "16952103866"
+        },
+        {
+          "name": "Creazione: Personalizzata",
+          "period": "2026-06-21T21:24:19Z",
+          "instanceId": "16951526630"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-06-20T16:22:08Z",
+          "instanceId": "16943457202"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-06-20T15:53:12Z",
+          "instanceId": "16943401234"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-19T14:40:33Z",
+          "instanceId": "16936625821"
         }
       ]
     },
@@ -2341,71 +2406,6 @@
           "name": "Missione: Saturnismo: Leggendaria",
           "period": "2025-07-22T21:02:51Z",
           "instanceId": "16335278824"
-        }
-      ]
-    },
-    {
-      "displayName": "nubires#8588",
-      "membershipId": "4611686018433412718",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "AUDACE",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/818cfeb4be7f4e7e718c958bf6b0208b.jpg",
-      "powerLevel": 317,
-      "lastPlayedTimestamp": 1782251705000,
-      "lastActivityTimestamp": 1767705980000,
-      "lastActivityText": "Equilibrio: Standard il 06/01/2026 13:26",
-      "activities": [
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-01-06T13:26:20Z",
-          "instanceId": "16734176836"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-01-05T21:39:50Z",
-          "instanceId": "16732908106"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2025-12-28T13:25:38Z",
-          "instanceId": "16717816775"
-        },
-        {
-          "name": "Vegliante del niente: Con matchmaking",
-          "period": "2025-12-28T01:01:00Z",
-          "instanceId": "16716517051"
-        },
-        {
-          "name": "Dottrina dilaniata: Normale",
-          "period": "2025-12-26T16:49:32Z",
-          "instanceId": "16713565344"
-        },
-        {
-          "name": "Dottrina dilaniata: Normale",
-          "period": "2025-12-26T16:35:26Z",
-          "instanceId": "16713538866"
-        },
-        {
-          "name": "Dottrina dilaniata: Normale",
-          "period": "2025-12-26T16:15:58Z",
-          "instanceId": "16713910833"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2025-12-19T22:10:53Z",
-          "instanceId": "16699065655"
-        },
-        {
-          "name": "Controllo",
-          "period": "2025-04-13T13:51:45Z",
-          "instanceId": "16072741265"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2025-03-18T21:20:54Z",
-          "instanceId": "16000654087"
         }
       ]
     }
