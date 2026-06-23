@@ -1890,13 +1890,13 @@ function buildRaidEventCalendar(event, env) {
     event.creatorName ? `Proposto da: ${event.creatorName}` : '',
     event.description || '',
     participants ? `Lista:\n${participants}` : '',
-    `Raid Planner: ${plannerUrl}`
+    `Clan Planner: ${plannerUrl}`
   ].filter(Boolean).join('\n\n');
 
   return [
     'BEGIN:VCALENDAR',
     'VERSION:2.0',
-    'PRODID:-//Destiny Lore Masters//Raid Planner//IT',
+    'PRODID:-//Destiny Lore Masters//Clan Planner//IT',
     'CALSCALE:GREGORIAN',
     'METHOD:PUBLISH',
     'BEGIN:VEVENT',

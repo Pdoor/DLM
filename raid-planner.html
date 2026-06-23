@@ -3,16 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Destiny Lore Master - Clan APP e Raid Planner</title>
+    <title>Destiny Lore Master - Clan APP e Clan Planner</title>
     <meta name="description" content="Planner settimanale raid e Clan APP di Destiny Lore Masters. Proponi eventi, partecipa ai raid e coordina il clan.">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Destiny Lore Masters">
-    <meta property="og:title" content="Destiny Lore Master - Clan APP e Raid Planner">
+    <meta property="og:title" content="Destiny Lore Master - Clan APP e Clan Planner">
     <meta property="og:description" content="Planner settimanale raid e Clan APP di Destiny Lore Masters. Proponi eventi, partecipa ai raid e coordina il clan.">
     <meta property="og:url" content="https://pdoor.github.io/DLM/raid-planner.html">
     <meta property="og:image" content="https://pdoor.github.io/DLM/dlm.ico">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Destiny Lore Master - Clan APP e Raid Planner">
+    <meta name="twitter:title" content="Destiny Lore Master - Clan APP e Clan Planner">
     <meta name="twitter:description" content="Planner settimanale raid e Clan APP di Destiny Lore Masters.">
     <meta name="twitter:image" content="https://pdoor.github.io/DLM/dlm.ico">
     <link rel="icon" href="dlm.ico" type="image/x-icon">
@@ -585,7 +585,7 @@
                 <img src="dlm.ico" alt="Destiny Lore Masters">
                 <div>
                     <p class="eyebrow">Destiny Lore Masters</p>
-                    <h1>Raid Planner</h1>
+                    <h1>Clan Planner</h1>
                 </div>
             </div>
             <div class="top-actions">
@@ -598,7 +598,7 @@
         </header>
 
         <section class="auth-gate" id="authGate" hidden>
-            <h2>Raid Planner riservato ai profili Bungie</h2>
+            <h2>Clan Planner riservato ai profili Bungie</h2>
             <p>Accedi con Bungie per visualizzare le proposte raid, creare eventi e partecipare agli appuntamenti del clan.</p>
             <button class="button" type="button" id="gateLoginButton">Accedi con Bungie</button>
         </section>
@@ -1174,7 +1174,7 @@
                 openAuthModal();
                 return;
             }
-            const confirmed = window.confirm(`Eliminare "${raidEvent.title}" dal Raid Planner?`);
+            const confirmed = window.confirm(`Eliminare "${raidEvent.title}" dal Clan Planner?`);
             if (!confirmed) return;
 
             try {

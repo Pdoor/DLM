@@ -3,18 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Destiny Lore Master - Clan APP e Raid Planner</title>
-    <meta name="description" content="Clan APP e Raid Planner di Destiny Lore Masters. Stato clan, amici Bungie, Hub Stagionale e proposte raid settimanali.">
-    <meta name="dlm-build" content="2026-06-23-auth-planner-copy">
+    <title>Destiny Lore Master - Clan APP e Clan Planner</title>
+    <meta name="description" content="Clan APP e Clan Planner di Destiny Lore Masters. Stato clan, amici Bungie, Hub Stagionale e proposte settimanali.">
+    <meta name="dlm-build" content="2026-06-23-clan-planner-name">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Destiny Lore Masters">
-    <meta property="og:title" content="Destiny Lore Master - Clan APP e Raid Planner">
-    <meta property="og:description" content="Clan APP e Raid Planner di Destiny Lore Masters. Stato clan, amici Bungie, Hub Stagionale e proposte raid settimanali.">
+    <meta property="og:title" content="Destiny Lore Master - Clan APP e Clan Planner">
+    <meta property="og:description" content="Clan APP e Clan Planner di Destiny Lore Masters. Stato clan, amici Bungie, Hub Stagionale e proposte settimanali.">
     <meta property="og:url" content="https://pdoor.github.io/DLM/">
     <meta property="og:image" content="https://pdoor.github.io/DLM/dlm.ico">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Destiny Lore Master - Clan APP e Raid Planner">
-    <meta name="twitter:description" content="Clan APP e Raid Planner di Destiny Lore Masters.">
+    <meta name="twitter:title" content="Destiny Lore Master - Clan APP e Clan Planner">
+    <meta name="twitter:description" content="Clan APP e Clan Planner di Destiny Lore Masters.">
     <meta name="twitter:image" content="https://pdoor.github.io/DLM/dlm.ico">
     <link rel="icon" href="dlm.ico" type="image/x-icon">
     <link rel="manifest" href="manifest.webmanifest">
@@ -764,10 +764,10 @@
             <div class="notify-actions">
                 <button class="notify-button" id="bungieLoginButton" type="button">Accedi con Bungie</button>
                 <button class="notify-button" id="seasonalHubButton" type="button" disabled>Hub Stagionale</button>
-                <button class="notify-button" id="raidPlannerButton" type="button">Raid Planner</button>
+                <button class="notify-button" id="raidPlannerButton" type="button">Clan Planner</button>
                 <button class="notify-button" id="dimButton" type="button">Apri DIM</button>
             </div>
-            <div class="notify-status" id="notifyStatus">Accedi con Bungie per il tuo HUB Stagionale e per il Raid planner.</div>
+            <div class="notify-status" id="notifyStatus">Accedi con Bungie per il tuo HUB Stagionale e per il Clan Planner.</div>
         </section>
 
         <div id="membersList"></div>
@@ -791,7 +791,7 @@
         // const D3_SIGNATURES_URL = `${WORKER_BASE_URL}/api/d3-signatures`;
         const DLM_USER_STORAGE_KEY = 'dlmNotifyUserId';
         const LIVE_STATUS_INTERVAL_MS = 60000;
-        const APP_BUILD_ID = '2026-06-23-auth-planner-copy';
+        const APP_BUILD_ID = '2026-06-23-clan-planner-name';
 
         let currentMembers = [];
         let currentExternalFriends = [];
@@ -886,7 +886,7 @@
                 notifyElements.status.textContent = 'Accesso Bungie registrato. Clan Planner e Hub Stagionale disponibili.';
             } else {
                 notifyElements.loginButton.textContent = 'Accedi con Bungie';
-                notifyElements.status.textContent = 'Accedi con Bungie per il tuo HUB Stagionale e per il Raid planner.';
+                notifyElements.status.textContent = 'Accedi con Bungie per il tuo HUB Stagionale e per il Clan Planner.';
             }
         }
 
