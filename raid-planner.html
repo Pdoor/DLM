@@ -709,6 +709,7 @@
         const WORKER_BASE_URL = 'https://dlm-notify.gmeluzzi.workers.dev';
         const STATIC_DATA_URL = 'data/clan-status.json';
         const DLM_USER_STORAGE_KEY = 'dlmNotifyUserId';
+        const AUTH_RENEW_FLAG = 'dlmPlannerAuthRenewing';
         const DAY_NAMES = ['Lunedi', 'Martedi', 'Mercoledi', 'Giovedi', 'Venerdi', 'Sabato', 'Domenica'];
 
         let weekStart = getMonday(new Date());
@@ -799,6 +800,7 @@
             const userId = url.searchParams.get('dlmUser') || url.searchParams.get('userId');
             if (userId) {
                 saveUserId(userId);
+                try { sessionStorage.removeItem(AUTH_RENEW_FLAG); } catch {}
                 url.searchParams.delete('dlmUser');
                 url.searchParams.delete('userId');
                 window.history.replaceState({}, document.title, url.toString());
@@ -828,7 +830,7 @@
             } catch (error) {
                 if (isAuthError(error.message)) {
                     clearAuth();
-                    openAuthModal();
+                    renewLoginOnce();
                 } else {
                     elements.plannerGrid.innerHTML = `<div class="error">${escapeHtml(error.message || 'Planner non disponibile.')}</div>`;
                 }
@@ -1307,6 +1309,18 @@
         }
 
         function startLogin() {
+            try { sessionStorage.removeItem(AUTH_RENEW_FLAG); } catch {}
+            window.location.href = `${WORKER_BASE_URL}/auth/login?returnTo=${encodeURIComponent('raid-planner.html')}`;
+        }
+
+        function renewLoginOnce() {
+            try {
+                if (sessionStorage.getItem(AUTH_RENEW_FLAG) === '1') {
+                    openAuthModal();
+                    return;
+                }
+                sessionStorage.setItem(AUTH_RENEW_FLAG, '1');
+            } catch {}
             window.location.href = `${WORKER_BASE_URL}/auth/login?returnTo=${encodeURIComponent('raid-planner.html')}`;
         }
 

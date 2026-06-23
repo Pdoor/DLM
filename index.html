@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Destiny Lore Master - Clan APP e Clan Planner</title>
     <meta name="description" content="Clan APP e Clan Planner di Destiny Lore Masters. Stato clan, amici Bungie, Hub Stagionale e proposte settimanali.">
-    <meta name="dlm-build" content="2026-06-24-auth-storage-fallback">
+    <meta name="dlm-build" content="2026-06-24-renew-bungie-auth">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Destiny Lore Masters">
     <meta property="og:title" content="Destiny Lore Master - Clan APP e Clan Planner">
@@ -791,7 +791,7 @@
         // const D3_SIGNATURES_URL = `${WORKER_BASE_URL}/api/d3-signatures`;
         const DLM_USER_STORAGE_KEY = 'dlmNotifyUserId';
         const LIVE_STATUS_INTERVAL_MS = 60000;
-        const APP_BUILD_ID = '2026-06-24-auth-storage-fallback';
+        const APP_BUILD_ID = '2026-06-24-renew-bungie-auth';
 
         let currentMembers = [];
         let currentExternalFriends = [];
@@ -877,7 +877,7 @@
 
             const storedUserId = getStoredUserId();
             const configured = !WORKER_BASE_URL.includes('YOUR-SUBDOMAIN');
-            notifyElements.loginButton.disabled = !configured || Boolean(storedUserId);
+            notifyElements.loginButton.disabled = !configured;
             notifyElements.seasonalHubButton.disabled = !storedUserId;
 
             if (!configured) {
@@ -895,8 +895,7 @@
 
         function startBungieLogin() {
             if (getStoredUserId()) {
-                notifyElements.status.textContent = 'Accesso Bungie gia completato.';
-                return;
+                notifyElements.status.textContent = 'Rinnovo accesso Bungie in corso...';
             }
 
             window.location.href = `${WORKER_BASE_URL}/auth/login`;
