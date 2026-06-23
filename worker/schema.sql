@@ -81,3 +81,10 @@ CREATE TABLE IF NOT EXISTS raid_participants (
 
 CREATE INDEX IF NOT EXISTS idx_raid_participants_event_id
 ON raid_participants (event_id);
+
+CREATE TABLE IF NOT EXISTS raid_discord_messages (
+  event_id TEXT PRIMARY KEY,
+  message_id TEXT NOT NULL,
+  created_at INTEGER NOT NULL,
+  updated_at INTEGER NOT NULL
+);

@@ -389,6 +389,7 @@ async function handleUpdateRaidEvent(request, env) {
   for (const [index, member] of selectedMembers.entries()) {
     await saveRaidParticipant(env, eventId, createClanRaidParticipant(member, user.userId, 'clan', now + index + 1));
   }
+  await updateDiscordRaidEventMessage(env, eventId);
 
   return corsResponse({ ok: true, event: updated }, env);
 }
@@ -405,6 +406,7 @@ async function handleDeleteRaidEvent(request, env) {
   }
 
   await markRaidEventDeleted(env, eventId);
+  await updateDiscordRaidEventMessage(env, eventId, { deleted: true });
   return corsResponse({ ok: true }, env);
 }
 
@@ -430,6 +432,7 @@ async function handleAddRaidEventMember(request, env) {
 
   const lastJoinedAt = current.reduce((max, participant) => Math.max(max, Number(participant.joinedAt || 0)), 0);
   await saveRaidParticipant(env, eventId, createClanRaidParticipant(member, user.userId, 'clan', Math.max(Date.now(), lastJoinedAt + 1)));
+  await updateDiscordRaidEventMessage(env, eventId);
   return corsResponse({ ok: true }, env);
 }
 
@@ -447,6 +450,7 @@ async function handleJoinRaidEvent(request, env) {
   const alreadyJoined = current.some((participant) => participant.userId === participantKey || participant.userId === user.userId);
 
   await saveRaidParticipant(env, eventId, createAuthRaidParticipant(user, profile, user.userId));
+  await updateDiscordRaidEventMessage(env, eventId);
   return corsResponse({ ok: true }, env);
 }
 
@@ -461,6 +465,7 @@ async function handleLeaveRaidEvent(request, env) {
   if (event && await canManageRaidEventWithProfile(env, event, user, profile)) {
     await deleteRaidParticipant(env, eventId, event.creatorUserId);
   }
+  await updateDiscordRaidEventMessage(env, eventId);
   return corsResponse({ ok: true }, env);
 }
 
@@ -1610,6 +1615,50 @@ async function saveActivityTeamCache(env, instanceId, report) {
   ).run();
 }
 
+async function ensureRaidDiscordMessagesTable(env) {
+  await env.DLM_DB.prepare(`
+    CREATE TABLE IF NOT EXISTS raid_discord_messages (
+      event_id TEXT PRIMARY KEY,
+      message_id TEXT NOT NULL,
+      created_at INTEGER NOT NULL,
+      updated_at INTEGER NOT NULL
+    )
+  `).run();
+}
+
+async function getRaidDiscordMessage(env, eventId) {
+  const row = await env.DLM_DB.prepare(`
+    SELECT message_id, created_at, updated_at
+    FROM raid_discord_messages
+    WHERE event_id = ?
+  `).bind(eventId).first();
+  return row ? {
+    messageId: row.message_id,
+    createdAt: row.created_at || 0,
+    updatedAt: row.updated_at || 0
+  } : null;
+}
+
+async function saveRaidDiscordMessage(env, eventId, messageId) {
+  const now = Date.now();
+  await env.DLM_DB.prepare(`
+    INSERT INTO raid_discord_messages (
+      event_id, message_id, created_at, updated_at
+    ) VALUES (?, ?, ?, ?)
+    ON CONFLICT(event_id) DO UPDATE SET
+      message_id = excluded.message_id,
+      updated_at = excluded.updated_at
+  `).bind(eventId, messageId, now, now).run();
+}
+
+async function touchRaidDiscordMessage(env, eventId) {
+  await env.DLM_DB.prepare(`
+    UPDATE raid_discord_messages
+    SET updated_at = ?
+    WHERE event_id = ?
+  `).bind(Date.now(), eventId).run();
+}
+
 async function listRaidEvents(env, startIso, endIso) {
   const { results } = await env.DLM_DB.prepare(`
     SELECT event_id, title, activity, description, starts_at, duration_minutes, max_players,
@@ -1920,23 +1969,82 @@ function buildRaidEventCalendar(event, env) {
 async function notifyDiscordRaidEventCreated(env, event) {
   if (!env.DISCORD_WEBHOOK_URL) return;
 
+  await ensureRaidDiscordMessagesTable(env);
+  const payload = buildDiscordRaidEventPayload(env, event);
+
+  try {
+    const response = await fetch(`${env.DISCORD_WEBHOOK_URL}?wait=true`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    });
+    if (!response.ok) {
+      console.warn(`Discord webhook failed ${response.status}: ${await response.text()}`);
+      return;
+    }
+    const message = await response.json().catch(() => ({}));
+    if (message?.id) await saveRaidDiscordMessage(env, event.eventId, message.id);
+  } catch (error) {
+    console.warn('Discord webhook unavailable', error.message);
+  }
+}
+
+async function updateDiscordRaidEventMessage(env, eventId, options = {}) {
+  if (!env.DISCORD_WEBHOOK_URL) return;
+
+  await ensureRaidDiscordMessagesTable(env);
+  const discordMessage = await getRaidDiscordMessage(env, eventId);
+  if (!discordMessage?.messageId) return;
+
+  const event = await getRaidEvent(env, eventId);
+  if (!event) return;
+  const participantMap = await listRaidParticipants(env, [eventId]);
+  const participants = participantMap.get(eventId) || [];
+  const payload = buildDiscordRaidEventPayload(env, {
+    ...event,
+    status: options.deleted ? 'deleted' : event.status,
+    participants
+  });
+
+  try {
+    const response = await fetch(`${env.DISCORD_WEBHOOK_URL}/messages/${discordMessage.messageId}`, {
+      method: 'PATCH',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    });
+    if (!response.ok) {
+      console.warn(`Discord message update failed ${response.status}: ${await response.text()}`);
+      return;
+    }
+    await touchRaidDiscordMessage(env, eventId);
+  } catch (error) {
+    console.warn('Discord message update unavailable', error.message);
+  }
+}
+
+function buildDiscordRaidEventPayload(env, event) {
   const startsAt = new Date(event.startsAt);
   const plannerUrl = new URL('raid-planner.html', env.FRONTEND_URL || 'https://pdoor.github.io/DLM/').toString();
   const participants = (event.participants || [])
     .map((participant, index) => `${index + 1}. ${participant.displayName}`)
     .join('\n') || 'Nessun partecipante';
+  const participantCount = (event.participants || []).length;
+  const deleted = event.status === 'deleted';
+  const title = `${deleted ? '[ANNULLATA] ' : ''}${event.title || event.activity || 'Nuova attivita'}`;
 
-  const payload = {
+  return {
     username: 'DLM Clan Planner',
-    content: 'Nuova attivita proposta nel Clan Planner.',
+    content: deleted
+      ? 'Attivita annullata nel Clan Planner.'
+      : 'Attivita proposta nel Clan Planner.',
     embeds: [{
-      title: event.title || event.activity || 'Nuova attivita',
+      title,
       url: plannerUrl,
-      color: 16763904,
+      color: deleted ? 15158332 : 16763904,
       fields: [
         { name: 'Attivita', value: event.activity || 'Altro', inline: true },
         { name: 'Quando', value: formatDiscordDate(startsAt), inline: true },
-        { name: 'Posti', value: String(event.maxPlayers || '-'), inline: true },
+        { name: 'Partecipanti', value: `${participantCount}/${event.maxPlayers || '-'}`, inline: true },
         { name: 'Creato da', value: event.creatorName || 'Guardiano', inline: true },
         { name: 'Lista', value: trimDiscordField(participants), inline: false }
       ],
@@ -1953,19 +2061,6 @@ async function notifyDiscordRaidEventCreated(env, event) {
       }]
     }]
   };
-
-  try {
-    const response = await fetch(env.DISCORD_WEBHOOK_URL, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(payload)
-    });
-    if (!response.ok) {
-      console.warn(`Discord webhook failed ${response.status}: ${await response.text()}`);
-    }
-  } catch (error) {
-    console.warn('Discord webhook unavailable', error.message);
-  }
 }
 
 function formatDiscordDate(date) {
