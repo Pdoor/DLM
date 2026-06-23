@@ -1,22 +1,107 @@
 {
-  "generatedAt": "2026-06-22T23:24:50.727Z",
+  "generatedAt": "2026-06-23T01:33:21.205Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Mietitrice",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 490,
+      "lastPlayedTimestamp": 1782178332000,
+      "lastActivityTimestamp": 1782177329000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 23/06/2026 01:15",
+      "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-23T01:15:29Z",
+          "instanceId": "16958374043"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-23T01:01:38Z",
+          "instanceId": "16958305428"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-22T20:14:27Z",
+          "instanceId": "16956939752"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-22T20:02:09Z",
+          "instanceId": "16957982595"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-22T19:55:41Z",
+          "instanceId": "16956822988"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-22T19:46:06Z",
+          "instanceId": "16956784687"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-06-22T19:01:26Z",
+          "instanceId": "16956564442"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-22T18:04:08Z",
+          "instanceId": "16956366932"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-06-22T16:19:24Z",
+          "instanceId": "16956035330"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-06-22T15:59:42Z",
+          "instanceId": "16955881055"
+        }
+      ]
+    },
+    {
       "displayName": "Backy#4218",
       "membershipId": "4611686018462448332",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Portatrice d'ira",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/fe993ae64a15b9dfc9d0aed6bcf3124c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1782170673000,
-      "lastActivityTimestamp": 1782169367000,
-      "lastActivityText": "Conquista modalità estrema: La lama di Luce: Personalizzata il 22/06/2026 23:02",
+      "lastPlayedTimestamp": 1782172951000,
+      "lastActivityTimestamp": 1782172439000,
+      "lastActivityText": "Conquista modalità estrema: La lama di Luce: Personalizzata il 22/06/2026 23:53",
       "activities": [
+        {
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-06-22T23:53:59Z",
+          "instanceId": "16957948277"
+        },
+        {
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-06-22T23:38:41Z",
+          "instanceId": "16957876934"
+        },
+        {
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-06-22T23:34:52Z",
+          "instanceId": "16957825795"
+        },
+        {
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-06-22T23:13:46Z",
+          "instanceId": "16957795234"
+        },
         {
           "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
           "period": "2026-06-22T23:02:47Z",
@@ -46,26 +131,6 @@
           "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
           "period": "2026-06-18T00:58:24Z",
           "instanceId": "16927488455"
-        },
-        {
-          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
-          "period": "2026-06-18T00:36:52Z",
-          "instanceId": "16927339004"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata",
-          "period": "2026-06-18T00:30:47Z",
-          "instanceId": "16927236287"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-06-17T17:10:11Z",
-          "instanceId": "16925084761"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-06-17T17:06:55Z",
-          "instanceId": "16924998097"
         }
       ]
     },
@@ -521,71 +586,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-06-17T17:50:52Z",
           "instanceId": "16925217960"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Mietitrice",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 491,
-      "lastPlayedTimestamp": 1782160127000,
-      "lastActivityTimestamp": 1782159267000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 22/06/2026 20:14",
-      "activities": [
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-22T20:14:27Z",
-          "instanceId": "16956939752"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-22T19:55:41Z",
-          "instanceId": "16956822988"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-22T19:46:06Z",
-          "instanceId": "16956784687"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-06-22T19:01:26Z",
-          "instanceId": "16956564442"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-22T18:04:08Z",
-          "instanceId": "16956366932"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-06-22T16:19:24Z",
-          "instanceId": "16956035330"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-06-22T15:59:42Z",
-          "instanceId": "16955881055"
-        },
-        {
-          "name": "Giardino della Salvezza",
-          "period": "2026-06-22T03:14:23Z",
-          "instanceId": "16953663561"
-        },
-        {
-          "name": "Cripta di Pietrafonda",
-          "period": "2026-06-22T02:59:07Z",
-          "instanceId": "16953183632"
-        },
-        {
-          "name": "Pantheon: Calus risplendente: Personalizzata",
-          "period": "2026-06-22T02:41:08Z",
-          "instanceId": "16953102347"
         }
       ]
     },
