@@ -51,6 +51,7 @@ export default {
       if (url.pathname === '/api/activity-team') return await handleActivityTeam(request, env);
       if (url.pathname === '/api/raid-events' && request.method === 'GET') return await handleRaidEvents(request, env);
       if (url.pathname === '/api/raid-events' && request.method === 'POST') return await handleCreateRaidEvent(request, env);
+      if (url.pathname.match(/^\/api\/raid-events\/[^/]+\/calendar\.ics$/) && request.method === 'GET') return await handleRaidEventCalendar(request, env);
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+$/) && request.method === 'PUT') return await handleUpdateRaidEvent(request, env);
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+$/) && request.method === 'DELETE') return await handleDeleteRaidEvent(request, env);
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+\/delete$/) && request.method === 'POST') return await handleDeleteRaidEvent(request, env);
@@ -337,6 +338,21 @@ async function handleCreateRaidEvent(request, env) {
       ]
     }
   }, env, 201);
+}
+
+async function handleRaidEventCalendar(request, env) {
+  const eventId = getEventIdFromPath(new URL(request.url).pathname);
+  const event = await getRaidEvent(env, eventId);
+  if (!event || event.status !== 'scheduled') return textResponse('Evento non trovato', 404);
+
+  const participantMap = await listRaidParticipants(env, [eventId]);
+  const participants = participantMap.get(eventId) || [];
+  const calendar = buildRaidEventCalendar({
+    ...event,
+    participants
+  }, env);
+
+  return calendarResponse(calendar, `${sanitizeFileName(event.title || 'raid-dlm')}.ics`);
 }
 
 async function handleUpdateRaidEvent(request, env) {
@@ -1859,6 +1875,63 @@ function normalizeActivityTeam(instanceId, report) {
   };
 }
 
+function buildRaidEventCalendar(event, env) {
+  const startsAt = new Date(event.startsAt);
+  if (Number.isNaN(startsAt.getTime())) throw new Error('Data evento non valida');
+  const duration = Number(event.durationMinutes || 120);
+  const endsAt = new Date(startsAt.getTime() + duration * 60 * 1000);
+  const participants = (event.participants || [])
+    .map((participant, index) => `${index + 1}. ${participant.displayName}`)
+    .join('\n');
+  const frontendUrl = env.FRONTEND_URL || 'https://pdoor.github.io/DLM/';
+  const plannerUrl = new URL('raid-planner.html', frontendUrl).toString();
+  const description = [
+    event.activity ? `Attivita: ${event.activity}` : '',
+    event.creatorName ? `Proposto da: ${event.creatorName}` : '',
+    event.description || '',
+    participants ? `Lista:\n${participants}` : '',
+    `Raid Planner: ${plannerUrl}`
+  ].filter(Boolean).join('\n\n');
+
+  return [
+    'BEGIN:VCALENDAR',
+    'VERSION:2.0',
+    'PRODID:-//Destiny Lore Masters//Raid Planner//IT',
+    'CALSCALE:GREGORIAN',
+    'METHOD:PUBLISH',
+    'BEGIN:VEVENT',
+    `UID:${escapeIcsText(event.eventId || `${event.startsAt}-${event.title}`)}@destiny-lore-masters`,
+    `DTSTAMP:${formatIcsDate(new Date())}`,
+    `DTSTART:${formatIcsDate(startsAt)}`,
+    `DTEND:${formatIcsDate(endsAt)}`,
+    `SUMMARY:${escapeIcsText(event.title || event.activity || 'Raid Destiny Lore Masters')}`,
+    `DESCRIPTION:${escapeIcsText(description)}`,
+    'LOCATION:Destiny 2',
+    'END:VEVENT',
+    'END:VCALENDAR'
+  ].join('\r\n');
+}
+
+function formatIcsDate(date) {
+  return date.toISOString().replace(/[-:]/g, '').replace(/\.\d{3}Z$/, 'Z');
+}
+
+function escapeIcsText(value) {
+  return String(value || '')
+    .replace(/\\/g, '\\\\')
+    .replace(/\r?\n/g, '\\n')
+    .replace(/,/g, '\\,')
+    .replace(/;/g, '\\;');
+}
+
+function sanitizeFileName(value) {
+  return String(value || 'raid-dlm')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .slice(0, 60) || 'raid-dlm';
+}
+
 function formatDate(timestamp) {
   const date = new Date(timestamp);
   if (Number.isNaN(date.getTime())) return 'N/A';
@@ -1946,6 +2019,18 @@ function corsResponse(body, env, status = 200) {
       'Access-Control-Allow-Origin': '*',
       'Access-Control-Allow-Methods': 'GET,POST,PUT,DELETE,OPTIONS',
       'Access-Control-Allow-Headers': 'Content-Type,x-dlm-admin-secret'
+    }
+  });
+}
+
+function calendarResponse(text, filename) {
+  return new Response(text, {
+    status: 200,
+    headers: {
+      'Content-Type': 'text/calendar; charset=utf-8',
+      'Content-Disposition': `attachment; filename="${filename}"`,
+      'Cache-Control': 'no-store',
+      'Access-Control-Allow-Origin': '*'
     }
   });
 }
