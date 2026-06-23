@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Destiny Lore Master - Clan APP e Raid Planner</title>
     <meta name="description" content="Clan APP e Raid Planner di Destiny Lore Masters. Stato clan, amici Bungie, Hub Stagionale e proposte raid settimanali.">
-    <meta name="dlm-build" content="2026-06-23-refresh-updater">
+    <meta name="dlm-build" content="2026-06-23-hide-marathon-d3">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Destiny Lore Masters">
     <meta property="og:title" content="Destiny Lore Master - Clan APP e Raid Planner">
@@ -197,11 +197,13 @@
             text-align: right;
         }
 
+        /*
         .d3-signatures {
             color: rgba(255, 204, 0, .86);
             font-weight: bold;
             white-space: nowrap;
         }
+        */
 
         .header-side {
             display: grid;
@@ -220,8 +222,7 @@
             display: none;
         }
 
-        .warmind-stats,
-        .marathon-stats {
+        .warmind-stats {
             display: flex;
             align-items: center;
             justify-content: flex-end;
@@ -231,19 +232,19 @@
             line-height: 1.15;
         }
 
+        /*
         .marathon-stats[hidden] {
             display: none;
         }
+        */
 
-        .warmind-label,
-        .marathon-label {
+        .warmind-label {
             color: rgba(255, 204, 0, .72);
             font-weight: bold;
             text-transform: uppercase;
         }
 
-        .warmind-value,
-        .marathon-value {
+        .warmind-value {
             padding: 3px 6px;
             border: 1px solid rgba(255, 255, 255, .12);
             border-radius: 7px;
@@ -251,8 +252,7 @@
             white-space: nowrap;
         }
 
-        .warmind-value strong,
-        .marathon-value strong {
+        .warmind-value strong {
             color: rgba(255, 255, 255, .86);
             font-size: 12px;
         }
@@ -604,8 +604,7 @@
                 justify-items: start;
             }
 
-            .warmind-stats,
-            .marathon-stats {
+            .warmind-stats {
                 flex-wrap: wrap;
                 justify-content: flex-start;
                 gap: 5px;
@@ -670,7 +669,6 @@
             .title-count,
             .last-updated,
             .warmind-stats,
-            .marathon-stats,
             .clan-meta {
                 font-size: 12px;
                 line-height: 1.35;
@@ -738,14 +736,18 @@
                         <span class="warmind-value">PvE <strong id="warmindPve">-</strong></span>
                         <span class="warmind-value">PvP <strong id="warmindPvp">-</strong></span>
                     </div>
+                    <!--
                     <div class="marathon-stats" id="marathonStats" title="Giocatori Marathon online su Steam" hidden>
                         <span class="marathon-label">Marathon players</span>
                         <span class="marathon-value">Steam <strong id="marathonTotal">-</strong></span>
                     </div>
+                    -->
                 </div>
                 <div class="last-updated" id="lastUpdated">
                     <span id="updatedLabel"></span>
+                    <!--
                     <span class="d3-signatures" id="d3Signatures" hidden></span>
+                    -->
                 </div>
             </div>
         </div>
@@ -779,15 +781,15 @@
         const STATIC_DATA_URL = 'data/clan-status.json';
         const PLAYER_ACTIVITY_URL = 'data/player-activity.json';
         const WORKER_BASE_URL = 'https://dlm-notify.gmeluzzi.workers.dev';
-        const D3_SIGNATURES_URL = `${WORKER_BASE_URL}/api/d3-signatures`;
+        // const D3_SIGNATURES_URL = `${WORKER_BASE_URL}/api/d3-signatures`;
         const DLM_USER_STORAGE_KEY = 'dlmNotifyUserId';
         const LIVE_STATUS_INTERVAL_MS = 60000;
-        const APP_BUILD_ID = '2026-06-23-refresh-updater';
+        const APP_BUILD_ID = '2026-06-23-hide-marathon-d3';
 
         let currentMembers = [];
         let currentExternalFriends = [];
         let currentUpdatedLabel = '';
-        let currentD3Signatures = null;
+        // let currentD3Signatures = null;
         let liveStatusTimer = null;
         const activityTeamCache = new Map();
 
@@ -796,10 +798,10 @@
             membersCount: document.getElementById('membersCount'),
             lastUpdated: document.getElementById('lastUpdated'),
             updatedLabel: document.getElementById('updatedLabel'),
-            d3Signatures: document.getElementById('d3Signatures'),
+            // d3Signatures: document.getElementById('d3Signatures'),
             playerStats: document.getElementById('playerStats'),
-            marathonStats: document.getElementById('marathonStats'),
-            marathonTotal: document.getElementById('marathonTotal'),
+            // marathonStats: document.getElementById('marathonStats'),
+            // marathonTotal: document.getElementById('marathonTotal'),
             warmindTotal: document.getElementById('warmindTotal'),
             warmindPve: document.getElementById('warmindPve'),
             warmindPvp: document.getElementById('warmindPvp'),
@@ -955,7 +957,7 @@
                 renderHeaderMeta();
                 renderDashboard();
                 loadPlayerActivityStats();
-                loadD3Signatures();
+                // loadD3Signatures();
                 startLiveStatusPolling();
             } catch (error) {
                 console.error('Errore caricamento dati:', error);
@@ -1137,12 +1139,14 @@
                 elements.warmindTotal.textContent = formatCompactNumber(data.averageConcurrentPlayers);
                 elements.warmindPve.textContent = formatCompactNumber(data.pvePlayers);
                 elements.warmindPvp.textContent = formatCompactNumber(data.pvpPlayers);
+                /*
                 if (Number.isFinite(Number(data.marathonPlayers))) {
                     elements.marathonTotal.textContent = formatCompactNumber(data.marathonPlayers);
                     elements.marathonStats.hidden = false;
                 } else {
                     elements.marathonStats.hidden = true;
                 }
+                */
                 elements.playerStats.hidden = false;
             } catch (error) {
                 console.warn('Statistiche Warmind non disponibili:', error);
@@ -1150,6 +1154,7 @@
             }
         }
 
+        /*
         async function loadD3Signatures() {
             try {
                 const response = await fetch(`${D3_SIGNATURES_URL}?v=${Date.now()}`, { cache: 'no-store' });
@@ -1163,9 +1168,11 @@
                 renderHeaderMeta();
             }
         }
+        */
 
         function renderHeaderMeta() {
             elements.updatedLabel.textContent = currentUpdatedLabel;
+            /*
             if (Number.isFinite(currentD3Signatures) && currentD3Signatures > 0) {
                 elements.d3Signatures.textContent = `Firme D3: ${formatNumber(currentD3Signatures)}`;
                 elements.d3Signatures.hidden = false;
@@ -1173,6 +1180,7 @@
                 elements.d3Signatures.textContent = '';
                 elements.d3Signatures.hidden = true;
             }
+            */
         }
 
         function isStaleSessionMessage(message) {
