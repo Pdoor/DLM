@@ -153,6 +153,31 @@
             backdrop-filter: blur(8px);
         }
 
+        .auth-gate {
+            display: grid;
+            gap: 12px;
+            justify-items: start;
+            margin-bottom: 14px;
+            padding: 18px;
+            border: 1px solid rgba(255, 204, 0, .24);
+            border-radius: 8px;
+            background: rgba(25, 25, 25, .88);
+            backdrop-filter: blur(8px);
+        }
+
+        .auth-gate h2 {
+            margin: 0;
+            font-size: 20px;
+            line-height: 1.25;
+        }
+
+        .auth-gate p {
+            max-width: 680px;
+            margin: 0;
+            color: var(--muted);
+            line-height: 1.45;
+        }
+
         .week-title {
             margin: 0;
             font-size: 18px;
@@ -572,7 +597,13 @@
             </div>
         </header>
 
-        <section class="toolbar" aria-label="Controlli settimana">
+        <section class="auth-gate" id="authGate" hidden>
+            <h2>Raid Planner riservato ai profili Bungie</h2>
+            <p>Accedi con Bungie per visualizzare le proposte raid, creare eventi e partecipare agli appuntamenti del clan.</p>
+            <button class="button" type="button" id="gateLoginButton">Accedi con Bungie</button>
+        </section>
+
+        <section class="toolbar" id="plannerToolbar" aria-label="Controlli settimana">
             <div>
                 <h2 class="week-title" id="weekTitle"></h2>
                 <div class="week-subtitle" id="weekSubtitle"></div>
@@ -588,7 +619,7 @@
 
         <section class="planner-grid" id="plannerGrid" aria-label="Calendario raid settimanale"></section>
 
-        <section class="composer" aria-label="Proponi raid">
+        <section class="composer" id="eventComposer" aria-label="Proponi raid">
             <h2>Proponi un raid</h2>
             <form id="eventForm">
                 <div class="form-grid">
@@ -694,7 +725,10 @@
             hubButton: document.getElementById('hubButton'),
             refreshButton: document.getElementById('refreshButton'),
             loginButton: document.getElementById('loginButton'),
+            gateLoginButton: document.getElementById('gateLoginButton'),
             authState: document.getElementById('authState'),
+            authGate: document.getElementById('authGate'),
+            plannerToolbar: document.getElementById('plannerToolbar'),
             weekTitle: document.getElementById('weekTitle'),
             weekSubtitle: document.getElementById('weekSubtitle'),
             prevWeekButton: document.getElementById('prevWeekButton'),
@@ -703,6 +737,7 @@
             tomorrowButton: document.getElementById('tomorrowButton'),
             nextWeekButton: document.getElementById('nextWeekButton'),
             plannerGrid: document.getElementById('plannerGrid'),
+            eventComposer: document.getElementById('eventComposer'),
             eventForm: document.getElementById('eventForm'),
             titleInput: document.getElementById('titleInput'),
             activityInput: document.getElementById('activityInput'),
@@ -729,6 +764,7 @@
         elements.hubButton.addEventListener('click', () => window.location.href = 'seasonal-hub.html');
         elements.refreshButton.addEventListener('click', refreshPlanner);
         elements.loginButton.addEventListener('click', startLogin);
+        elements.gateLoginButton.addEventListener('click', startLogin);
         elements.modalLoginButton.addEventListener('click', startLogin);
         elements.modalCloseButton.addEventListener('click', closeAuthModal);
         elements.authModal.addEventListener('click', (event) => {
@@ -748,6 +784,11 @@
             captureAuthFromUrl();
             setDefaultFormDate();
             renderAuthState();
+            if (!getUserId()) {
+                events = [];
+                renderWeekFrame();
+                return;
+            }
             renderWeekFrame();
             loadClanMembers();
             loadEvents();
@@ -764,6 +805,13 @@
         }
 
         async function loadEvents() {
+            if (!getUserId()) {
+                events = [];
+                loading = false;
+                renderAuthState();
+                renderWeekFrame();
+                return;
+            }
             loading = true;
             renderWeekFrame();
             try {
@@ -802,6 +850,11 @@
         }
 
         async function refreshPlanner() {
+            if (!getUserId()) {
+                renderAuthState();
+                openAuthModal();
+                return;
+            }
             elements.refreshButton.disabled = true;
             elements.formNotice.textContent = 'Aggiornamento planner...';
             try {
@@ -1147,8 +1200,13 @@
             const authenticated = Boolean(getUserId());
             elements.loginButton.textContent = authenticated ? 'Autenticato' : 'Accedi con Bungie';
             elements.authState.textContent = authenticated
-                ? 'Puoi creare eventi e partecipare.'
-                : 'Visualizzazione libera. Accesso richiesto per creare o partecipare.';
+                ? 'Planner disponibile.'
+                : 'Accesso richiesto.';
+            elements.authGate.hidden = authenticated;
+            elements.plannerToolbar.hidden = !authenticated;
+            elements.plannerGrid.hidden = !authenticated;
+            elements.eventComposer.hidden = !authenticated;
+            elements.refreshButton.disabled = !authenticated;
         }
 
         function renderClanMemberPicker() {
@@ -1256,18 +1314,30 @@
         }
 
         function moveWeek(days) {
+            if (!getUserId()) {
+                openAuthModal();
+                return;
+            }
             activeView = 'week';
             weekStart = addDays(weekStart, days);
             loadEvents();
         }
 
         function showWeekView() {
+            if (!getUserId()) {
+                openAuthModal();
+                return;
+            }
             activeView = 'week';
             weekStart = getMonday(focusDate || new Date());
             loadEvents();
         }
 
         function showDayView(date) {
+            if (!getUserId()) {
+                openAuthModal();
+                return;
+            }
             activeView = 'day';
             focusDate = new Date(date);
             weekStart = getMonday(focusDate);
