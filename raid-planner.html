@@ -798,7 +798,7 @@
             const url = new URL(window.location.href);
             const userId = url.searchParams.get('dlmUser') || url.searchParams.get('userId');
             if (userId) {
-                localStorage.setItem(DLM_USER_STORAGE_KEY, userId);
+                saveUserId(userId);
                 url.searchParams.delete('dlmUser');
                 url.searchParams.delete('userId');
                 window.history.replaceState({}, document.title, url.toString());
@@ -1311,12 +1311,41 @@
         }
 
         function clearAuth() {
-            localStorage.removeItem(DLM_USER_STORAGE_KEY);
+            clearStoredUserId();
             renderAuthState();
         }
 
         function getUserId() {
-            return localStorage.getItem(DLM_USER_STORAGE_KEY);
+            return getStoredUserId();
+        }
+
+        function saveUserId(userId) {
+            const value = String(userId || '').trim();
+            if (!value) return;
+            try { localStorage.setItem(DLM_USER_STORAGE_KEY, value); } catch {}
+            try { sessionStorage.setItem(DLM_USER_STORAGE_KEY, value); } catch {}
+            document.cookie = `${DLM_USER_STORAGE_KEY}=${encodeURIComponent(value)}; path=/DLM/; max-age=2592000; SameSite=Lax; Secure`;
+        }
+
+        function getStoredUserId() {
+            try {
+                const value = localStorage.getItem(DLM_USER_STORAGE_KEY);
+                if (value) return value;
+            } catch {}
+            try {
+                const value = sessionStorage.getItem(DLM_USER_STORAGE_KEY);
+                if (value) return value;
+            } catch {}
+            const cookie = document.cookie
+                .split('; ')
+                .find((item) => item.startsWith(`${DLM_USER_STORAGE_KEY}=`));
+            return cookie ? decodeURIComponent(cookie.split('=').slice(1).join('=')) : '';
+        }
+
+        function clearStoredUserId() {
+            try { localStorage.removeItem(DLM_USER_STORAGE_KEY); } catch {}
+            try { sessionStorage.removeItem(DLM_USER_STORAGE_KEY); } catch {}
+            document.cookie = `${DLM_USER_STORAGE_KEY}=; path=/DLM/; max-age=0; SameSite=Lax; Secure`;
         }
 
         function moveWeek(days) {

@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Destiny Lore Master - Clan APP e Clan Planner</title>
     <meta name="description" content="Clan APP e Clan Planner di Destiny Lore Masters. Stato clan, amici Bungie, Hub Stagionale e proposte settimanali.">
-    <meta name="dlm-build" content="2026-06-24-planner-auth-bridge">
+    <meta name="dlm-build" content="2026-06-24-auth-storage-fallback">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Destiny Lore Masters">
     <meta property="og:title" content="Destiny Lore Master - Clan APP e Clan Planner">
@@ -791,7 +791,7 @@
         // const D3_SIGNATURES_URL = `${WORKER_BASE_URL}/api/d3-signatures`;
         const DLM_USER_STORAGE_KEY = 'dlmNotifyUserId';
         const LIVE_STATUS_INTERVAL_MS = 60000;
-        const APP_BUILD_ID = '2026-06-24-planner-auth-bridge';
+        const APP_BUILD_ID = '2026-06-24-auth-storage-fallback';
 
         let currentMembers = [];
         let currentExternalFriends = [];
@@ -834,7 +834,7 @@
             window.location.href = 'seasonal-hub.html';
         });
         notifyElements.raidPlannerButton.addEventListener('click', () => {
-            const userId = localStorage.getItem(DLM_USER_STORAGE_KEY);
+            const userId = getStoredUserId();
             const plannerUrl = new URL('raid-planner.html', window.location.href);
             if (userId) plannerUrl.searchParams.set('dlmUser', userId);
             window.location.href = plannerUrl.toString();
@@ -865,7 +865,7 @@
             const url = new URL(window.location.href);
             const userId = url.searchParams.get('dlmUser');
             if (userId) {
-                localStorage.setItem(DLM_USER_STORAGE_KEY, userId);
+                saveUserId(userId);
                 url.searchParams.delete('dlmUser');
                 window.history.replaceState({}, document.title, url.toString());
             }
@@ -875,7 +875,7 @@
                 window.history.replaceState({}, document.title, url.toString());
             }
 
-            const storedUserId = localStorage.getItem(DLM_USER_STORAGE_KEY);
+            const storedUserId = getStoredUserId();
             const configured = !WORKER_BASE_URL.includes('YOUR-SUBDOMAIN');
             notifyElements.loginButton.disabled = !configured || Boolean(storedUserId);
             notifyElements.seasonalHubButton.disabled = !storedUserId;
@@ -894,12 +894,41 @@
         }
 
         function startBungieLogin() {
-            if (localStorage.getItem(DLM_USER_STORAGE_KEY)) {
+            if (getStoredUserId()) {
                 notifyElements.status.textContent = 'Accesso Bungie gia completato.';
                 return;
             }
 
             window.location.href = `${WORKER_BASE_URL}/auth/login`;
+        }
+
+        function saveUserId(userId) {
+            const value = String(userId || '').trim();
+            if (!value) return;
+            try { localStorage.setItem(DLM_USER_STORAGE_KEY, value); } catch {}
+            try { sessionStorage.setItem(DLM_USER_STORAGE_KEY, value); } catch {}
+            document.cookie = `${DLM_USER_STORAGE_KEY}=${encodeURIComponent(value)}; path=/DLM/; max-age=2592000; SameSite=Lax; Secure`;
+        }
+
+        function getStoredUserId() {
+            try {
+                const value = localStorage.getItem(DLM_USER_STORAGE_KEY);
+                if (value) return value;
+            } catch {}
+            try {
+                const value = sessionStorage.getItem(DLM_USER_STORAGE_KEY);
+                if (value) return value;
+            } catch {}
+            const cookie = document.cookie
+                .split('; ')
+                .find((item) => item.startsWith(`${DLM_USER_STORAGE_KEY}=`));
+            return cookie ? decodeURIComponent(cookie.split('=').slice(1).join('=')) : '';
+        }
+
+        function clearStoredUserId() {
+            try { localStorage.removeItem(DLM_USER_STORAGE_KEY); } catch {}
+            try { sessionStorage.removeItem(DLM_USER_STORAGE_KEY); } catch {}
+            document.cookie = `${DLM_USER_STORAGE_KEY}=; path=/DLM/; max-age=0; SameSite=Lax; Secure`;
         }
 
         async function readErrorMessage(response) {
@@ -1062,7 +1091,7 @@
         }
 
         async function refreshOnlineExternalFriends() {
-            const userId = localStorage.getItem(DLM_USER_STORAGE_KEY);
+            const userId = getStoredUserId();
             if (!userId || !currentMembers.length) {
                 if (currentExternalFriends.length) {
                     currentExternalFriends = [];
@@ -1078,7 +1107,7 @@
                 if (!response.ok) {
                     const message = await readErrorMessage(response) || 'Stato amici non disponibile.';
                     if (isStaleSessionMessage(message)) {
-                        localStorage.removeItem(DLM_USER_STORAGE_KEY);
+                        clearStoredUserId();
                         initializeNotificationUi();
                         throw new Error('Sessione Bungie non trovata. Effettua di nuovo l accesso.');
                     }
