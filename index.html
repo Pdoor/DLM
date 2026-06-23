@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Destiny Lore Master - Clan APP e Raid Planner</title>
     <meta name="description" content="Clan APP e Raid Planner di Destiny Lore Masters. Stato clan, amici Bungie, Hub Stagionale e proposte raid settimanali.">
-    <meta name="dlm-build" content="2026-06-23-hide-marathon-d3">
+    <meta name="dlm-build" content="2026-06-23-online-count">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Destiny Lore Masters">
     <meta property="og:title" content="Destiny Lore Master - Clan APP e Raid Planner">
@@ -275,6 +275,11 @@
 
         .section-label.online-label {
             color: var(--green);
+        }
+
+        .section-count {
+            color: var(--green);
+            font-weight: bold;
         }
 
         .section-label.offline-label {
@@ -784,7 +789,7 @@
         // const D3_SIGNATURES_URL = `${WORKER_BASE_URL}/api/d3-signatures`;
         const DLM_USER_STORAGE_KEY = 'dlmNotifyUserId';
         const LIVE_STATUS_INTERVAL_MS = 60000;
-        const APP_BUILD_ID = '2026-06-23-hide-marathon-d3';
+        const APP_BUILD_ID = '2026-06-23-online-count';
 
         let currentMembers = [];
         let currentExternalFriends = [];
@@ -980,12 +985,15 @@
 
         function renderMembers(members) {
             let currentSection = '';
+            const onlineCount = members.filter(member => member.isOnline).length;
             members.forEach(member => {
                 const section = member.isOnline ? 'Online' : 'Offline';
                 if (section !== currentSection) {
                     const sectionLabel = document.createElement('div');
                     sectionLabel.className = `section-label ${member.isOnline ? 'online-label' : 'offline-label'}`;
-                    sectionLabel.textContent = section;
+                    sectionLabel.innerHTML = member.isOnline
+                        ? `${section} <span class="section-count">${onlineCount}</span>`
+                        : section;
                     elements.membersList.appendChild(sectionLabel);
                     currentSection = section;
                 }
