@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Destiny Lore Master - Clan APP e Raid Planner</title>
     <meta name="description" content="Clan APP e Raid Planner di Destiny Lore Masters. Stato clan, amici Bungie, Hub Stagionale e proposte raid settimanali.">
+    <meta name="dlm-build" content="2026-06-23-refresh-updater">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Destiny Lore Masters">
     <meta property="og:title" content="Destiny Lore Master - Clan APP e Raid Planner">
@@ -780,6 +781,7 @@
         const D3_SIGNATURES_URL = `${WORKER_BASE_URL}/api/d3-signatures`;
         const DLM_USER_STORAGE_KEY = 'dlmNotifyUserId';
         const LIVE_STATUS_INTERVAL_MS = 60000;
+        const APP_BUILD_ID = '2026-06-23-refresh-updater';
 
         let currentMembers = [];
         let currentExternalFriends = [];
@@ -815,7 +817,7 @@
         };
 
         document.addEventListener('DOMContentLoaded', initializeApp);
-        elements.refreshButton.addEventListener('click', loadStaticData);
+        elements.refreshButton.addEventListener('click', refreshApp);
         notifyElements.loginButton.addEventListener('click', startBungieLogin);
         notifyElements.seasonalHubButton.addEventListener('click', () => {
             window.location.href = 'seasonal-hub.html';
@@ -889,6 +891,43 @@
                 return data.error || data.message || '';
             } catch {
                 return '';
+            }
+        }
+
+        async function refreshApp() {
+            elements.refreshButton.disabled = true;
+            elements.refreshButton.textContent = 'Controllo aggiornamenti...';
+            try {
+                const updated = await reloadIfPublishedAppChanged();
+                if (updated) return;
+                await loadStaticData();
+            } finally {
+                elements.refreshButton.textContent = 'Ricarica dati pubblicati';
+                elements.refreshButton.disabled = false;
+            }
+        }
+
+        async function reloadIfPublishedAppChanged() {
+            try {
+                const url = new URL(window.location.href);
+                url.searchParams.set('appVersionCheck', String(Date.now()));
+                const response = await fetch(url.toString(), {
+                    cache: 'no-store',
+                    headers: { 'Cache-Control': 'no-cache' }
+                });
+                if (!response.ok) return false;
+
+                const html = await response.text();
+                const remoteBuild = html.match(/<meta\s+name=["']dlm-build["']\s+content=["']([^"']+)["']/i)?.[1] || '';
+                if (!remoteBuild || remoteBuild === APP_BUILD_ID) return false;
+
+                const reloadUrl = new URL(window.location.href);
+                reloadUrl.searchParams.set('appRefresh', String(Date.now()));
+                window.location.replace(reloadUrl.toString());
+                return true;
+            } catch (error) {
+                console.warn('Controllo versione app non riuscito:', error);
+                return false;
             }
         }
 
