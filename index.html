@@ -756,6 +756,7 @@
                 <button class="notify-button" id="bungieLoginButton" type="button">Accedi con Bungie</button>
                 <button class="notify-button" id="seasonalHubButton" type="button" disabled>Hub Stagionale</button>
                 <button class="notify-button" id="raidPlannerButton" type="button">Raid Planner</button>
+                <button class="notify-button" id="dimButton" type="button">Apri DIM</button>
             </div>
             <div class="notify-status" id="notifyStatus">Accedi con Bungie per aprire il tuo Hub Stagionale.</div>
         </section>
@@ -813,6 +814,7 @@
             loginButton: document.getElementById('bungieLoginButton'),
             seasonalHubButton: document.getElementById('seasonalHubButton'),
             raidPlannerButton: document.getElementById('raidPlannerButton'),
+            dimButton: document.getElementById('dimButton'),
             status: document.getElementById('notifyStatus')
         };
 
@@ -824,6 +826,9 @@
         });
         notifyElements.raidPlannerButton.addEventListener('click', () => {
             window.location.href = 'raid-planner.html';
+        });
+        notifyElements.dimButton.addEventListener('click', () => {
+            window.open('https://app.destinyitemmanager.com/', '_blank', 'noopener');
         });
         document.querySelector('.close-modal').addEventListener('click', closeModal);
         window.addEventListener('click', (event) => {
