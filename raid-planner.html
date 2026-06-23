@@ -796,10 +796,11 @@
 
         function captureAuthFromUrl() {
             const url = new URL(window.location.href);
-            const userId = url.searchParams.get('dlmUser');
+            const userId = url.searchParams.get('dlmUser') || url.searchParams.get('userId');
             if (userId) {
                 localStorage.setItem(DLM_USER_STORAGE_KEY, userId);
                 url.searchParams.delete('dlmUser');
+                url.searchParams.delete('userId');
                 window.history.replaceState({}, document.title, url.toString());
             }
         }
@@ -825,7 +826,12 @@
                 events = data.events || [];
                 elements.formNotice.textContent = '';
             } catch (error) {
-                elements.plannerGrid.innerHTML = `<div class="error">${escapeHtml(error.message || 'Planner non disponibile.')}</div>`;
+                if (isAuthError(error.message)) {
+                    clearAuth();
+                    openAuthModal();
+                } else {
+                    elements.plannerGrid.innerHTML = `<div class="error">${escapeHtml(error.message || 'Planner non disponibile.')}</div>`;
+                }
             } finally {
                 loading = false;
                 renderWeekFrame();

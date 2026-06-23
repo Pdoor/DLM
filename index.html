@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Destiny Lore Master - Clan APP e Clan Planner</title>
     <meta name="description" content="Clan APP e Clan Planner di Destiny Lore Masters. Stato clan, amici Bungie, Hub Stagionale e proposte settimanali.">
-    <meta name="dlm-build" content="2026-06-23-clan-planner-name">
+    <meta name="dlm-build" content="2026-06-24-planner-auth-bridge">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Destiny Lore Masters">
     <meta property="og:title" content="Destiny Lore Master - Clan APP e Clan Planner">
@@ -791,7 +791,7 @@
         // const D3_SIGNATURES_URL = `${WORKER_BASE_URL}/api/d3-signatures`;
         const DLM_USER_STORAGE_KEY = 'dlmNotifyUserId';
         const LIVE_STATUS_INTERVAL_MS = 60000;
-        const APP_BUILD_ID = '2026-06-23-clan-planner-name';
+        const APP_BUILD_ID = '2026-06-24-planner-auth-bridge';
 
         let currentMembers = [];
         let currentExternalFriends = [];
@@ -834,7 +834,10 @@
             window.location.href = 'seasonal-hub.html';
         });
         notifyElements.raidPlannerButton.addEventListener('click', () => {
-            window.location.href = 'raid-planner.html';
+            const userId = localStorage.getItem(DLM_USER_STORAGE_KEY);
+            const plannerUrl = new URL('raid-planner.html', window.location.href);
+            if (userId) plannerUrl.searchParams.set('dlmUser', userId);
+            window.location.href = plannerUrl.toString();
         });
         notifyElements.dimButton.addEventListener('click', () => {
             window.open('https://app.destinyitemmanager.com/', '_blank', 'noopener');
