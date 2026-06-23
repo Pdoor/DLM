@@ -1,22 +1,612 @@
 {
-  "generatedAt": "2026-06-23T18:22:57.890Z",
+  "generatedAt": "2026-06-23T20:34:55.953Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "ClaudeFj#8206",
+      "membershipId": "4611686018522886434",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
+      "powerLevel": 459,
+      "lastPlayedTimestamp": 1782246590000,
+      "lastActivityTimestamp": 1782246009000,
+      "lastActivityText": "Competitiva: Con matchmaking il 23/06/2026 20:20",
+      "activities": [
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-23T20:20:09Z",
+          "instanceId": "16962053788"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-23T20:04:07Z",
+          "instanceId": "16961979742"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-23T19:51:05Z",
+          "instanceId": "16961919088"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-23T19:22:49Z",
+          "instanceId": "16961813240"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-06-23T19:10:49Z",
+          "instanceId": "16961729432"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-06-23T19:04:15Z",
+          "instanceId": "16961703640"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-06-23T18:56:39Z",
+          "instanceId": "16961672176"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-06-23T18:53:34Z",
+          "instanceId": "16961636673"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-06-23T18:49:16Z",
+          "instanceId": "16961628580"
+        },
+        {
+          "name": "Lago di ombre: Con matchmaking",
+          "period": "2026-06-23T18:32:58Z",
+          "instanceId": "16961607114"
+        }
+      ]
+    },
+    {
+      "displayName": "cRoTator#5820",
+      "membershipId": "4611686018504020156",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Signora del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b9d5b8ffe8c74fc4d634786de3076a07.jpg",
+      "powerLevel": 542,
+      "lastPlayedTimestamp": 1782246849000,
+      "lastActivityTimestamp": 1782245882000,
+      "lastActivityText": "Conquista modalità esperto: Cella Senza Sole: Personalizzata il 23/06/2026 20:18",
+      "activities": [
+        {
+          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
+          "period": "2026-06-23T20:18:02Z",
+          "instanceId": "16962062493"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-06-23T19:12:44Z",
+          "instanceId": "16961906266"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-22T22:29:38Z",
+          "instanceId": "16957535573"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-06-22T22:28:26Z",
+          "instanceId": "16957510512"
+        },
+        {
+          "name": "Casa - Parte I",
+          "period": "2026-06-22T22:20:55Z",
+          "instanceId": "16957504762"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-06-22T22:19:56Z",
+          "instanceId": "16957471927"
+        },
+        {
+          "name": "Casa - Parte II",
+          "period": "2026-06-22T22:08:29Z",
+          "instanceId": "16957467704"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-06-22T22:07:31Z",
+          "instanceId": "16957417190"
+        },
+        {
+          "name": "Regine - Parte II",
+          "period": "2026-06-22T22:00:14Z",
+          "instanceId": "16957410155"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-06-22T21:53:43Z",
+          "instanceId": "16958531961"
+        }
+      ]
+    },
+    {
+      "displayName": "TheEnrageGamer#2674",
+      "membershipId": "4611686018511383140",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Custode della fiamma",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e1c407e098c9493ae8e0e9e7b215fa09.jpg",
+      "powerLevel": 544,
+      "lastPlayedTimestamp": 1782246846000,
+      "lastActivityTimestamp": 1782245882000,
+      "lastActivityText": "Conquista modalità esperto: Cella Senza Sole: Personalizzata il 23/06/2026 20:18",
+      "activities": [
+        {
+          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
+          "period": "2026-06-23T20:18:02Z",
+          "instanceId": "16962062493"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-06-23T19:12:44Z",
+          "instanceId": "16961906266"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-06-23T18:08:03Z",
+          "instanceId": "16961692079"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-06-23T06:38:50Z",
+          "instanceId": "16959733813"
+        },
+        {
+          "name": "Escissione: Solo gioco",
+          "period": "2026-06-23T06:12:29Z",
+          "instanceId": "16959705536"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-22T22:29:38Z",
+          "instanceId": "16957535573"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-06-22T22:28:26Z",
+          "instanceId": "16957510512"
+        },
+        {
+          "name": "Casa - Parte I",
+          "period": "2026-06-22T22:20:55Z",
+          "instanceId": "16957504762"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-06-22T22:19:56Z",
+          "instanceId": "16957471927"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-06-22T21:53:43Z",
+          "instanceId": "16958531961"
+        }
+      ]
+    },
+    {
+      "displayName": "alexcecenko#951",
+      "membershipId": "4611686018463713971",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Trascendente",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b2ac09f5d8482aa5034015113d092ecd.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1782246833000,
+      "lastActivityTimestamp": 1782244023000,
+      "lastActivityText": "Profezia il 23/06/2026 19:47",
+      "activities": [
+        {
+          "name": "Profezia",
+          "period": "2026-06-23T19:47:03Z",
+          "instanceId": "16961990058"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
+          "period": "2026-06-23T19:07:59Z",
+          "instanceId": "16961783671"
+        },
+        {
+          "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
+          "period": "2026-06-22T21:15:40Z",
+          "instanceId": "16957238591"
+        },
+        {
+          "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
+          "period": "2026-06-22T21:09:23Z",
+          "instanceId": "16957156279"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
+          "period": "2026-06-22T20:19:45Z",
+          "instanceId": "16957070443"
+        },
+        {
+          "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
+          "period": "2026-06-22T19:22:42Z",
+          "instanceId": "16956720107"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-06-22T18:38:44Z",
+          "instanceId": "16956507247"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-06-22T18:12:32Z",
+          "instanceId": "16956446488"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-06-22T18:08:22Z",
+          "instanceId": "16956337208"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-06-22T17:38:21Z",
+          "instanceId": "16956330840"
+        }
+      ]
+    },
+    {
+      "displayName": "mitoflo#6589",
+      "membershipId": "4611686018441699415",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatrice",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/55a2f41a0bf4b3383d38fe9398e2911b.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1782246884000,
+      "lastActivityTimestamp": 1782244023000,
+      "lastActivityText": "Profezia il 23/06/2026 19:47",
+      "activities": [
+        {
+          "name": "Profezia",
+          "period": "2026-06-23T19:47:03Z",
+          "instanceId": "16961990058"
+        },
+        {
+          "name": "Terreni di Prova: Personalizzata",
+          "period": "2026-06-23T13:35:32Z",
+          "instanceId": "16960895178"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Fortezza Scarlatta: Personalizzata",
+          "period": "2026-06-23T13:11:22Z",
+          "instanceId": "16960841728"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Fortezza Scarlatta: Personalizzata",
+          "period": "2026-06-23T13:06:53Z",
+          "instanceId": "16960771783"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-06-22T18:01:10Z",
+          "instanceId": "16956345849"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-06-22T17:47:43Z",
+          "instanceId": "16956273226"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-06-22T17:20:04Z",
+          "instanceId": "16956146789"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-06-22T17:07:39Z",
+          "instanceId": "16956128530"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-06-20T12:44:27Z",
+          "instanceId": "16942640137"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-06-20T12:32:08Z",
+          "instanceId": "16942469441"
+        }
+      ]
+    },
+    {
+      "displayName": "TheAnOnymous166#8849",
+      "membershipId": "4611686018528729550",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/55a2f41a0bf4b3383d38fe9398e2911b.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1782245739000,
+      "lastActivityTimestamp": 1782244023000,
+      "lastActivityText": "Profezia il 23/06/2026 19:47",
+      "activities": [
+        {
+          "name": "Profezia",
+          "period": "2026-06-23T19:47:03Z",
+          "instanceId": "16961990058"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
+          "period": "2026-06-23T19:07:59Z",
+          "instanceId": "16961783671"
+        },
+        {
+          "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
+          "period": "2026-06-22T21:15:40Z",
+          "instanceId": "16957238591"
+        },
+        {
+          "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
+          "period": "2026-06-22T21:09:23Z",
+          "instanceId": "16957156279"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
+          "period": "2026-06-22T20:19:45Z",
+          "instanceId": "16957070443"
+        },
+        {
+          "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
+          "period": "2026-06-22T19:22:42Z",
+          "instanceId": "16956720107"
+        },
+        {
+          "name": "Pantheon: Calus risplendente: Personalizzata",
+          "period": "2026-06-21T19:55:46Z",
+          "instanceId": "16951065663"
+        },
+        {
+          "name": "Pantheon: Calus risplendente: Personalizzata",
+          "period": "2026-06-21T19:46:17Z",
+          "instanceId": "16950933475"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-21T19:40:43Z",
+          "instanceId": "16950902014"
+        },
+        {
+          "name": "Pantheon: Calus risplendente: Personalizzata",
+          "period": "2026-06-21T19:18:09Z",
+          "instanceId": "16950914446"
+        }
+      ]
+    },
+    {
+      "displayName": "BLUE_JAY_5642#1205",
+      "membershipId": "4611686018506353436",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Signora del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8bde4cceae744ef8108f5a9bbd3c2738.jpg",
+      "powerLevel": 408,
+      "lastPlayedTimestamp": 1782246718000,
+      "lastActivityTimestamp": 1782243335000,
+      "lastActivityText": "Modalità del mondo: audace: Audace il 23/06/2026 19:35",
+      "activities": [
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-06-23T19:35:35Z",
+          "instanceId": "16961962575"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-06-23T18:47:24Z",
+          "instanceId": "16961812430"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-06-23T13:35:52Z",
+          "instanceId": "16960962588"
+        },
+        {
+          "name": "La caduta di un Kell: Personalizzata",
+          "period": "2026-06-23T13:30:23Z",
+          "instanceId": "16960851773"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-06-23T12:07:56Z",
+          "instanceId": "16960839296"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-06-22T09:54:47Z",
+          "instanceId": "16954751212"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-06-21T22:00:10Z",
+          "instanceId": "16951981189"
+        },
+        {
+          "name": "Palude Selina, Venere: Sabotaggio: Con matchmaking",
+          "period": "2026-06-21T20:57:21Z",
+          "instanceId": "16951453852"
+        },
+        {
+          "name": "Fortezza di Hellas, Marte: Caccia alle taglie: Con matchmaking",
+          "period": "2026-06-21T20:49:57Z",
+          "instanceId": "16951361712"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-06-21T14:35:18Z",
+          "instanceId": "16949809241"
+        }
+      ]
+    },
+    {
+      "displayName": "DiciestCloth1#2862",
+      "membershipId": "4611686018442634411",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Flagello di Riven",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/19cac515cd8589401700ec410b042efb.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1782242878000,
+      "lastActivityTimestamp": 1782241679000,
+      "lastActivityText": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata il 23/06/2026 19:07",
+      "activities": [
+        {
+          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
+          "period": "2026-06-23T19:07:59Z",
+          "instanceId": "16961783671"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-06-23T18:26:46Z",
+          "instanceId": "16961567576"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-06-23T13:48:37Z",
+          "instanceId": "16960948719"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-23T13:41:04Z",
+          "instanceId": "16960899526"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Fortezza Scarlatta: Personalizzata",
+          "period": "2026-06-23T13:11:22Z",
+          "instanceId": "16960841728"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-23T12:59:01Z",
+          "instanceId": "16960771119"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-06-23T12:12:44Z",
+          "instanceId": "16961056908"
+        },
+        {
+          "name": "Artesia Mons, Venere: Caccia alle taglie: Con matchmaking",
+          "period": "2026-06-22T18:38:13Z",
+          "instanceId": "16956535511"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-06-22T18:12:32Z",
+          "instanceId": "16956446488"
+        },
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-06-22T18:10:34Z",
+          "instanceId": "16956348732"
+        }
+      ]
+    },
+    {
+      "displayName": "Ghost of Warlock#5159",
+      "membershipId": "4611686018513286564",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1782246882000,
+      "lastActivityTimestamp": 1782241645000,
+      "lastActivityText": "Poligono di Tiro il 23/06/2026 19:07",
+      "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-23T19:07:25Z",
+          "instanceId": "16962016986"
+        },
+        {
+          "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
+          "period": "2026-06-23T15:15:11Z",
+          "instanceId": "16961256909"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-06-23T14:41:56Z",
+          "instanceId": "16961169346"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata",
+          "period": "2026-06-23T14:13:47Z",
+          "instanceId": "16961055075"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata",
+          "period": "2026-06-23T14:01:26Z",
+          "instanceId": "16960948585"
+        },
+        {
+          "name": "La Guerriera: Personalizzata",
+          "period": "2026-06-23T13:43:34Z",
+          "instanceId": "16960914496"
+        },
+        {
+          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
+          "period": "2026-06-23T12:58:16Z",
+          "instanceId": "16960826295"
+        },
+        {
+          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
+          "period": "2026-06-23T12:46:09Z",
+          "instanceId": "16960701551"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-06-23T09:35:27Z",
+          "instanceId": "16960906645"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-06-23T09:23:20Z",
+          "instanceId": "16960204475"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1782238898000,
-      "lastActivityTimestamp": 1782238650000,
-      "lastActivityText": "Il Relitto il 23/06/2026 18:17",
+      "lastPlayedTimestamp": 1782242250000,
+      "lastActivityTimestamp": 1782238866000,
+      "lastActivityText": "Gloria futura: Leggendaria il 23/06/2026 18:21",
       "activities": [
+        {
+          "name": "Gloria futura: Leggendaria",
+          "period": "2026-06-23T18:21:06Z",
+          "instanceId": "16961717370"
+        },
         {
           "name": "Il Relitto",
           "period": "2026-06-23T18:17:30Z",
@@ -61,11 +651,6 @@
           "name": "Terminale Intuitivo: Con matchmaking",
           "period": "2026-06-23T05:31:02Z",
           "instanceId": "16959532973"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-23T05:15:32Z",
-          "instanceId": "16959523534"
         }
       ]
     },
@@ -135,15 +720,80 @@
       ]
     },
     {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Scrittore spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/38f204eb25ac88463cf9b7f50312f82a.jpg",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1782245724000,
+      "lastActivityTimestamp": 1782235812000,
+      "lastActivityText": "La caduta di un Re: Standard il 23/06/2026 17:30",
+      "activities": [
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-06-23T17:30:12Z",
+          "instanceId": "16961993738"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-06-21T15:21:45Z",
+          "instanceId": "16949780745"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-21T14:46:10Z",
+          "instanceId": "16949482691"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-06-20T22:05:17Z",
+          "instanceId": "16945240987"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-06-20T21:49:25Z",
+          "instanceId": "16945180045"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-06-20T21:23:01Z",
+          "instanceId": "16945102479"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-06-20T21:06:55Z",
+          "instanceId": "16944960692"
+        },
+        {
+          "name": "Orlo della Salvezza: Maestro",
+          "period": "2026-06-20T19:22:12Z",
+          "instanceId": "16944868389"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-06-20T18:34:18Z",
+          "instanceId": "16944277991"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-06-20T17:14:08Z",
+          "instanceId": "16943773732"
+        }
+      ]
+    },
+    {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 490,
-      "lastPlayedTimestamp": 1782237421000,
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1782246828000,
       "lastActivityTimestamp": 1782235773000,
       "lastActivityText": "Poligono di Tiro il 23/06/2026 17:29",
       "activities": [
@@ -330,71 +980,6 @@
       ]
     },
     {
-      "displayName": "Ghost of Warlock#5159",
-      "membershipId": "4611686018513286564",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1782237796000,
-      "lastActivityTimestamp": 1782227711000,
-      "lastActivityText": "Conquista modalità gran maestro: La disonorata: Personalizzata il 23/06/2026 15:15",
-      "activities": [
-        {
-          "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
-          "period": "2026-06-23T15:15:11Z",
-          "instanceId": "16961256909"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-06-23T14:41:56Z",
-          "instanceId": "16961169346"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata",
-          "period": "2026-06-23T14:13:47Z",
-          "instanceId": "16961055075"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata",
-          "period": "2026-06-23T14:01:26Z",
-          "instanceId": "16960948585"
-        },
-        {
-          "name": "La Guerriera: Personalizzata",
-          "period": "2026-06-23T13:43:34Z",
-          "instanceId": "16960914496"
-        },
-        {
-          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
-          "period": "2026-06-23T12:58:16Z",
-          "instanceId": "16960826295"
-        },
-        {
-          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
-          "period": "2026-06-23T12:46:09Z",
-          "instanceId": "16960701551"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-06-23T09:35:27Z",
-          "instanceId": "16960906645"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-06-23T09:23:20Z",
-          "instanceId": "16960204475"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-06-23T09:18:08Z",
-          "instanceId": "16960176015"
-        }
-      ]
-    },
-    {
       "displayName": "luxya__13#5940",
       "membershipId": "4611686018555449414",
       "bungieNetMembershipId": "",
@@ -525,80 +1110,15 @@
       ]
     },
     {
-      "displayName": "ClaudeFj#8206",
-      "membershipId": "4611686018522886434",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
-      "powerLevel": 459,
-      "lastPlayedTimestamp": 1782238663000,
-      "lastActivityTimestamp": 1782227416000,
-      "lastActivityText": "Operazione: Scudo del Serafino: Personalizzata il 23/06/2026 15:10",
-      "activities": [
-        {
-          "name": "Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-06-23T15:10:16Z",
-          "instanceId": "16961309249"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-23T14:14:25Z",
-          "instanceId": "16961088839"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-23T14:13:10Z",
-          "instanceId": "16960987864"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-23T13:30:39Z",
-          "instanceId": "16960942731"
-        },
-        {
-          "name": "Miniere di Sale: Personalizzata",
-          "period": "2026-06-23T13:11:41Z",
-          "instanceId": "16960816551"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-06-23T12:03:43Z",
-          "instanceId": "16960601929"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
-          "period": "2026-06-22T18:07:12Z",
-          "instanceId": "16956424698"
-        },
-        {
-          "name": "Logistica R1: Personalizzata",
-          "period": "2026-06-22T17:51:14Z",
-          "instanceId": "16956302969"
-        },
-        {
-          "name": "Logistica R1: Personalizzata",
-          "period": "2026-06-22T17:41:54Z",
-          "instanceId": "16956257636"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-22T16:39:36Z",
-          "instanceId": "16956019659"
-        }
-      ]
-    },
-    {
       "displayName": "No TAG Jay#1042",
       "membershipId": "4611686018465064117",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Portatore di desideri",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 494,
-      "lastPlayedTimestamp": 1782228889000,
+      "powerLevel": 497,
+      "lastPlayedTimestamp": 1782246629000,
       "lastActivityTimestamp": 1782225501000,
       "lastActivityText": "Lega Gare di Astori il 23/06/2026 14:38",
       "activities": [
@@ -655,210 +1175,15 @@
       ]
     },
     {
-      "displayName": "DiciestCloth1#2862",
-      "membershipId": "4611686018442634411",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Flagello di Riven",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/19cac515cd8589401700ec410b042efb.jpg",
-      "powerLevel": 541,
-      "lastPlayedTimestamp": 1782238575000,
-      "lastActivityTimestamp": 1782222517000,
-      "lastActivityText": "Equilibrio: Standard il 23/06/2026 13:48",
-      "activities": [
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-06-23T13:48:37Z",
-          "instanceId": "16960948719"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-23T13:41:04Z",
-          "instanceId": "16960899526"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Fortezza Scarlatta: Personalizzata",
-          "period": "2026-06-23T13:11:22Z",
-          "instanceId": "16960841728"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-23T12:59:01Z",
-          "instanceId": "16960771119"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-23T12:12:44Z",
-          "instanceId": "16961056908"
-        },
-        {
-          "name": "Artesia Mons, Venere: Caccia alle taglie: Con matchmaking",
-          "period": "2026-06-22T18:38:13Z",
-          "instanceId": "16956535511"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-06-22T18:12:32Z",
-          "instanceId": "16956446488"
-        },
-        {
-          "name": "Confluenza: Maestro",
-          "period": "2026-06-22T18:10:34Z",
-          "instanceId": "16956348732"
-        },
-        {
-          "name": "Confluenza: Maestro",
-          "period": "2026-06-22T18:07:35Z",
-          "instanceId": "16956337194"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-06-22T18:00:54Z",
-          "instanceId": "16956327743"
-        }
-      ]
-    },
-    {
-      "displayName": "BLUE_JAY_5642#1205",
-      "membershipId": "4611686018506353436",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Signora del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8bde4cceae744ef8108f5a9bbd3c2738.jpg",
-      "powerLevel": 357,
-      "lastPlayedTimestamp": 1782238514000,
-      "lastActivityTimestamp": 1782221752000,
-      "lastActivityText": "Luna il 23/06/2026 13:35",
-      "activities": [
-        {
-          "name": "Luna",
-          "period": "2026-06-23T13:35:52Z",
-          "instanceId": "16960962588"
-        },
-        {
-          "name": "La caduta di un Kell: Personalizzata",
-          "period": "2026-06-23T13:30:23Z",
-          "instanceId": "16960851773"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-06-23T12:07:56Z",
-          "instanceId": "16960839296"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-06-22T09:54:47Z",
-          "instanceId": "16954751212"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-06-21T22:00:10Z",
-          "instanceId": "16951981189"
-        },
-        {
-          "name": "Palude Selina, Venere: Sabotaggio: Con matchmaking",
-          "period": "2026-06-21T20:57:21Z",
-          "instanceId": "16951453852"
-        },
-        {
-          "name": "Fortezza di Hellas, Marte: Caccia alle taglie: Con matchmaking",
-          "period": "2026-06-21T20:49:57Z",
-          "instanceId": "16951361712"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-06-21T14:35:18Z",
-          "instanceId": "16949809241"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-21T14:05:52Z",
-          "instanceId": "16949324572"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-21T10:45:26Z",
-          "instanceId": "16949446285"
-        }
-      ]
-    },
-    {
-      "displayName": "mitoflo#6589",
-      "membershipId": "4611686018441699415",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatrice",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/55a2f41a0bf4b3383d38fe9398e2911b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1782237758000,
-      "lastActivityTimestamp": 1782221732000,
-      "lastActivityText": "Terreni di Prova: Personalizzata il 23/06/2026 13:35",
-      "activities": [
-        {
-          "name": "Terreni di Prova: Personalizzata",
-          "period": "2026-06-23T13:35:32Z",
-          "instanceId": "16960895178"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Fortezza Scarlatta: Personalizzata",
-          "period": "2026-06-23T13:11:22Z",
-          "instanceId": "16960841728"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Fortezza Scarlatta: Personalizzata",
-          "period": "2026-06-23T13:06:53Z",
-          "instanceId": "16960771783"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-06-22T18:01:10Z",
-          "instanceId": "16956345849"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-06-22T17:47:43Z",
-          "instanceId": "16956273226"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-06-22T17:20:04Z",
-          "instanceId": "16956146789"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-06-22T17:07:39Z",
-          "instanceId": "16956128530"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-06-20T12:44:27Z",
-          "instanceId": "16942640137"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-06-20T12:32:08Z",
-          "instanceId": "16942469441"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-06-20T12:26:11Z",
-          "instanceId": "16942422453"
-        }
-      ]
-    },
-    {
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Fuoriclasse",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/648e5e751cf7560c99bcadc9538487de.png",
       "powerLevel": 326,
-      "lastPlayedTimestamp": 1782220308000,
+      "lastPlayedTimestamp": 1782246859000,
       "lastActivityTimestamp": 1782217626000,
       "lastActivityText": "Poligono di Tiro il 23/06/2026 12:27",
       "activities": [
@@ -911,71 +1236,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-06-21T20:48:54Z",
           "instanceId": "16951329366"
-        }
-      ]
-    },
-    {
-      "displayName": "TheEnrageGamer#2674",
-      "membershipId": "4611686018511383140",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Custode della fiamma",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e1c407e098c9493ae8e0e9e7b215fa09.jpg",
-      "powerLevel": 539,
-      "lastPlayedTimestamp": 1782238944000,
-      "lastActivityTimestamp": 1782196730000,
-      "lastActivityText": "Pallido Cuore il 23/06/2026 06:38",
-      "activities": [
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-23T06:38:50Z",
-          "instanceId": "16959733813"
-        },
-        {
-          "name": "Escissione: Solo gioco",
-          "period": "2026-06-23T06:12:29Z",
-          "instanceId": "16959705536"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-22T22:29:38Z",
-          "instanceId": "16957535573"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-22T22:28:26Z",
-          "instanceId": "16957510512"
-        },
-        {
-          "name": "Casa - Parte I",
-          "period": "2026-06-22T22:20:55Z",
-          "instanceId": "16957504762"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-22T22:19:56Z",
-          "instanceId": "16957471927"
-        },
-        {
-          "name": "Casa - Parte II",
-          "period": "2026-06-22T22:08:29Z",
-          "instanceId": "16957467704"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-22T22:07:31Z",
-          "instanceId": "16957417190"
-        },
-        {
-          "name": "Regine - Parte II",
-          "period": "2026-06-22T22:00:14Z",
-          "instanceId": "16957410155"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-22T21:53:43Z",
-          "instanceId": "16958531961"
         }
       ]
     },
@@ -1045,80 +1305,15 @@
       ]
     },
     {
-      "displayName": "alexcecenko#951",
-      "membershipId": "4611686018463713971",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Trascendente",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b2ac09f5d8482aa5034015113d092ecd.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1782164163000,
-      "lastActivityTimestamp": 1782162940000,
-      "lastActivityText": "Conquista modalità gran maestro: La disonorata: Personalizzata il 22/06/2026 21:15",
-      "activities": [
-        {
-          "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
-          "period": "2026-06-22T21:15:40Z",
-          "instanceId": "16957238591"
-        },
-        {
-          "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
-          "period": "2026-06-22T21:09:23Z",
-          "instanceId": "16957156279"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
-          "period": "2026-06-22T20:19:45Z",
-          "instanceId": "16957070443"
-        },
-        {
-          "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
-          "period": "2026-06-22T19:22:42Z",
-          "instanceId": "16956720107"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-22T18:38:44Z",
-          "instanceId": "16956507247"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-06-22T18:12:32Z",
-          "instanceId": "16956446488"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-06-22T18:08:22Z",
-          "instanceId": "16956337208"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-06-22T17:38:21Z",
-          "instanceId": "16956330840"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-06-22T17:07:22Z",
-          "instanceId": "16956122612"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-21T21:08:15Z",
-          "instanceId": "16951404072"
-        }
-      ]
-    },
-    {
       "displayName": "nubires#8588",
       "membershipId": "4611686018433412718",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "AUDACE",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
       "powerLevel": 508,
-      "lastPlayedTimestamp": 1782238942000,
+      "lastPlayedTimestamp": 1782239232000,
       "lastActivityTimestamp": 1782162940000,
       "lastActivityText": "Conquista modalità gran maestro: La disonorata: Personalizzata il 22/06/2026 21:15",
       "activities": [
@@ -1171,71 +1366,6 @@
           "name": "Pantheon: Morgeth soverchiante: Personalizzata",
           "period": "2026-06-19T14:40:33Z",
           "instanceId": "16936625821"
-        }
-      ]
-    },
-    {
-      "displayName": "TheAnOnymous166#8849",
-      "membershipId": "4611686018528729550",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/55a2f41a0bf4b3383d38fe9398e2911b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1782163832000,
-      "lastActivityTimestamp": 1782162940000,
-      "lastActivityText": "Conquista modalità gran maestro: La disonorata: Personalizzata il 22/06/2026 21:15",
-      "activities": [
-        {
-          "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
-          "period": "2026-06-22T21:15:40Z",
-          "instanceId": "16957238591"
-        },
-        {
-          "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
-          "period": "2026-06-22T21:09:23Z",
-          "instanceId": "16957156279"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
-          "period": "2026-06-22T20:19:45Z",
-          "instanceId": "16957070443"
-        },
-        {
-          "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
-          "period": "2026-06-22T19:22:42Z",
-          "instanceId": "16956720107"
-        },
-        {
-          "name": "Pantheon: Calus risplendente: Personalizzata",
-          "period": "2026-06-21T19:55:46Z",
-          "instanceId": "16951065663"
-        },
-        {
-          "name": "Pantheon: Calus risplendente: Personalizzata",
-          "period": "2026-06-21T19:46:17Z",
-          "instanceId": "16950933475"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-21T19:40:43Z",
-          "instanceId": "16950902014"
-        },
-        {
-          "name": "Pantheon: Calus risplendente: Personalizzata",
-          "period": "2026-06-21T19:18:09Z",
-          "instanceId": "16950914446"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-06-21T15:06:29Z",
-          "instanceId": "16949593238"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-06-21T14:13:19Z",
-          "instanceId": "16949376175"
         }
       ]
     },
@@ -1305,71 +1435,6 @@
       ]
     },
     {
-      "displayName": "cRoTator#5820",
-      "membershipId": "4611686018504020156",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b531d829e55b6f13555e8cae172dc0b3.jpg",
-      "powerLevel": 534,
-      "lastPlayedTimestamp": 1782238945000,
-      "lastActivityTimestamp": 1782147151000,
-      "lastActivityText": "Requiem: Leggendaria il 22/06/2026 16:52",
-      "activities": [
-        {
-          "name": "Requiem: Leggendaria",
-          "period": "2026-06-22T16:52:31Z",
-          "instanceId": "16956109659"
-        },
-        {
-          "name": "Esegesi: Leggendaria",
-          "period": "2026-06-22T15:53:07Z",
-          "instanceId": "16955879647"
-        },
-        {
-          "name": "Tentazione: Leggendaria",
-          "period": "2026-06-22T15:30:16Z",
-          "instanceId": "16955765656"
-        },
-        {
-          "name": "Tentazione: Leggendaria",
-          "period": "2026-06-22T07:39:46Z",
-          "instanceId": "16954292345"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-19T10:07:31Z",
-          "instanceId": "16935672333"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-11T21:14:47Z",
-          "instanceId": "16885599176"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-05T19:44:57Z",
-          "instanceId": "16863953351"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-05T19:34:04Z",
-          "instanceId": "16863932036"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-05T19:22:06Z",
-          "instanceId": "16863916283"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-05T18:53:23Z",
-          "instanceId": "16863871610"
-        }
-      ]
-    },
-    {
       "displayName": "Jhonny#3878",
       "membershipId": "4611686018489632599",
       "bungieNetMembershipId": "",
@@ -1431,71 +1496,6 @@
           "name": "Nessus, Centauro Instabile",
           "period": "2026-06-22T15:29:19Z",
           "instanceId": "16955708192"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Scrittore spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/38f204eb25ac88463cf9b7f50312f82a.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1782238932000,
-      "lastActivityTimestamp": 1782055305000,
-      "lastActivityText": "Orlo della Salvezza: Standard il 21/06/2026 15:21",
-      "activities": [
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-06-21T15:21:45Z",
-          "instanceId": "16949780745"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-21T14:46:10Z",
-          "instanceId": "16949482691"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-06-20T22:05:17Z",
-          "instanceId": "16945240987"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-06-20T21:49:25Z",
-          "instanceId": "16945180045"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-06-20T21:23:01Z",
-          "instanceId": "16945102479"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-06-20T21:06:55Z",
-          "instanceId": "16944960692"
-        },
-        {
-          "name": "Orlo della Salvezza: Maestro",
-          "period": "2026-06-20T19:22:12Z",
-          "instanceId": "16944868389"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-06-20T18:34:18Z",
-          "instanceId": "16944277991"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-06-20T17:14:08Z",
-          "instanceId": "16943773732"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-06-20T17:04:37Z",
-          "instanceId": "16943709433"
         }
       ]
     },
