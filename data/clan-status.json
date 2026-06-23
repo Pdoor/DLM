@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T22:50:26.987Z",
+  "generatedAt": "2026-06-23T23:36:59.592Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,12 +8,12 @@
       "displayName": "No TAG Jay#1042",
       "membershipId": "4611686018465064117",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Portatore di desideri",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 500,
-      "lastPlayedTimestamp": 1782254841000,
+      "powerLevel": 502,
+      "lastPlayedTimestamp": 1782256097000,
       "lastActivityTimestamp": 1782254288000,
       "lastActivityText": "Lega Gare di Astori il 23/06/2026 22:38",
       "activities": [
@@ -73,12 +73,12 @@
       "displayName": "BLUE_JAY_5642#1205",
       "membershipId": "4611686018506353436",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8bde4cceae744ef8108f5a9bbd3c2738.jpg",
-      "powerLevel": 407,
-      "lastPlayedTimestamp": 1782254875000,
+      "powerLevel": 393,
+      "lastPlayedTimestamp": 1782255663000,
       "lastActivityTimestamp": 1782253109000,
       "lastActivityText": "La caduta di un Kell: Personalizzata il 23/06/2026 22:18",
       "activities": [
@@ -1893,64 +1893,64 @@
       "displayName": "Pdor#2087",
       "membershipId": "4611686018441724933",
       "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatrice",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 440,
-      "lastPlayedTimestamp": 1782137986000,
-      "lastActivityTimestamp": 1781827217000,
-      "lastActivityText": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata il 19/06/2026 00:00",
+      "powerLevel": 442,
+      "lastPlayedTimestamp": 1782257557000,
+      "lastActivityTimestamp": 1781880033000,
+      "lastActivityText": "Pantheon: Morgeth soverchiante: Personalizzata il 19/06/2026 14:40",
       "activities": [
         {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-19T00:00:17Z",
-          "instanceId": "16933095035"
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-19T14:40:33Z",
+          "instanceId": "16936625821"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-19T14:38:42Z",
+          "instanceId": "16936504584"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-19T14:26:45Z",
+          "instanceId": "16936492959"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-19T14:14:10Z",
+          "instanceId": "16936436473"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-19T14:12:31Z",
+          "instanceId": "16936401105"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-19T13:59:08Z",
+          "instanceId": "16936387828"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-19T00:03:59Z",
+          "instanceId": "16933112054"
         },
         {
           "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-18T23:57:09Z",
-          "instanceId": "16933080287"
+          "period": "2026-06-18T23:10:48Z",
+          "instanceId": "16932920306"
         },
         {
-          "name": "La Città Sognante",
-          "period": "2025-03-10T20:31:55Z",
-          "instanceId": "15975519970"
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-06-18T22:56:51Z",
+          "instanceId": "16932825958"
         },
         {
-          "name": "Il trono infranto",
-          "period": "2025-03-10T20:25:14Z",
-          "instanceId": "15975518132"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2025-03-07T20:53:14Z",
-          "instanceId": "15967469153"
-        },
-        {
-          "name": "Dottrina dilaniata: Normale",
-          "period": "2025-02-14T21:28:42Z",
-          "instanceId": "15903398635"
-        },
-        {
-          "name": "Dottrina dilaniata: Normale",
-          "period": "2025-02-14T17:26:01Z",
-          "instanceId": "15902617748"
-        },
-        {
-          "name": "Dottrina dilaniata: Normale",
-          "period": "2025-02-14T17:10:31Z",
-          "instanceId": "15902579196"
-        },
-        {
-          "name": "Osservazione",
-          "period": "2025-02-05T18:15:17Z",
-          "instanceId": "15866701846"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2025-02-02T13:31:10Z",
-          "instanceId": "15856075163"
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-18T21:26:59Z",
+          "instanceId": "16932369988"
         }
       ]
     },
