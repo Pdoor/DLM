@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T22:40:20.949Z",
+  "generatedAt": "2026-06-23T22:50:26.987Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,16 @@
       "className": "Titani",
       "title": "Portatore di desideri",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 497,
-      "lastPlayedTimestamp": 1782254312000,
-      "lastActivityTimestamp": 1782253393000,
-      "lastActivityText": "Partita veloce: Normale il 23/06/2026 22:23",
+      "powerLevel": 500,
+      "lastPlayedTimestamp": 1782254841000,
+      "lastActivityTimestamp": 1782254288000,
+      "lastActivityText": "Lega Gare di Astori il 23/06/2026 22:38",
       "activities": [
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-06-23T22:38:08Z",
+          "instanceId": "16962641447"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-06-23T22:23:13Z",
@@ -61,11 +66,6 @@
           "name": "Lega Gare di Astori",
           "period": "2026-06-14T12:40:24Z",
           "instanceId": "16903787119"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-06-14T12:33:34Z",
-          "instanceId": "16903760244"
         }
       ]
     },
@@ -77,11 +77,16 @@
       "className": "Cacciatori",
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8bde4cceae744ef8108f5a9bbd3c2738.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1782254393000,
-      "lastActivityTimestamp": 1782250811000,
-      "lastActivityText": "Vox obscura: Personalizzata il 23/06/2026 21:40",
+      "powerLevel": 407,
+      "lastPlayedTimestamp": 1782254875000,
+      "lastActivityTimestamp": 1782253109000,
+      "lastActivityText": "La caduta di un Kell: Personalizzata il 23/06/2026 22:18",
       "activities": [
+        {
+          "name": "La caduta di un Kell: Personalizzata",
+          "period": "2026-06-23T22:18:29Z",
+          "instanceId": "16962642710"
+        },
         {
           "name": "Vox obscura: Personalizzata",
           "period": "2026-06-23T21:40:11Z",
@@ -126,11 +131,6 @@
           "name": "Luna",
           "period": "2026-06-22T09:54:47Z",
           "instanceId": "16954751212"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-06-21T22:00:10Z",
-          "instanceId": "16951981189"
         }
       ]
     },
