@@ -315,27 +315,32 @@ async function handleCreateRaidEvent(request, env) {
   for (const [index, member] of selectedMembers.entries()) {
     await saveRaidParticipant(env, event.eventId, createClanRaidParticipant(member, user.userId, 'clan', now + index + 1));
   }
+  const participants = [
+    {
+      userId: getPlannerParticipantKey(user, profile),
+      displayName: profile.displayName,
+      membershipId: profile.membershipId,
+      participantType: 'auth',
+      joinedAt: event.createdAt
+    },
+    ...selectedMembers.map((member) => ({
+      userId: `bungie:${member.membershipId}`,
+      displayName: member.displayName,
+      membershipId: member.membershipId,
+      participantType: 'clan',
+      joinedAt: event.createdAt
+    }))
+  ];
+  await notifyDiscordRaidEventCreated(env, {
+    ...event,
+    participants
+  });
 
   return corsResponse({
     ok: true,
     event: {
       ...event,
-      participants: [
-        {
-          userId: getPlannerParticipantKey(user, profile),
-          displayName: profile.displayName,
-          membershipId: profile.membershipId,
-          participantType: 'auth',
-          joinedAt: event.createdAt
-        },
-        ...selectedMembers.map((member) => ({
-          userId: `bungie:${member.membershipId}`,
-          displayName: member.displayName,
-          membershipId: member.membershipId,
-          participantType: 'clan',
-          joinedAt: event.createdAt
-        }))
-      ]
+      participants
     }
   }, env, 201);
 }
@@ -1910,6 +1915,68 @@ function buildRaidEventCalendar(event, env) {
     'END:VEVENT',
     'END:VCALENDAR'
   ].join('\r\n');
+}
+
+async function notifyDiscordRaidEventCreated(env, event) {
+  if (!env.DISCORD_WEBHOOK_URL) return;
+
+  const startsAt = new Date(event.startsAt);
+  const plannerUrl = new URL('raid-planner.html', env.FRONTEND_URL || 'https://pdoor.github.io/DLM/').toString();
+  const participants = (event.participants || [])
+    .map((participant, index) => `${index + 1}. ${participant.displayName}`)
+    .join('\n') || 'Nessun partecipante';
+
+  const payload = {
+    username: 'DLM Clan Planner',
+    content: 'Nuova attivita proposta nel Clan Planner.',
+    embeds: [{
+      title: event.title || event.activity || 'Nuova attivita',
+      url: plannerUrl,
+      color: 16763904,
+      fields: [
+        { name: 'Attivita', value: event.activity || 'Altro', inline: true },
+        { name: 'Quando', value: formatDiscordDate(startsAt), inline: true },
+        { name: 'Posti', value: String(event.maxPlayers || '-'), inline: true },
+        { name: 'Creato da', value: event.creatorName || 'Guardiano', inline: true },
+        { name: 'Lista', value: trimDiscordField(participants), inline: false }
+      ],
+      description: event.description ? trimDiscordField(event.description) : undefined,
+      footer: { text: 'Destiny Lore Masters - Clan Planner' }
+    }]
+  };
+
+  try {
+    const response = await fetch(env.DISCORD_WEBHOOK_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    });
+    if (!response.ok) {
+      console.warn(`Discord webhook failed ${response.status}: ${await response.text()}`);
+    }
+  } catch (error) {
+    console.warn('Discord webhook unavailable', error.message);
+  }
+}
+
+function formatDiscordDate(date) {
+  if (Number.isNaN(date.getTime())) return 'Data non disponibile';
+  return date.toLocaleDateString('it-IT', {
+    weekday: 'long',
+    day: '2-digit',
+    month: 'long',
+    year: 'numeric',
+    timeZone: 'Europe/Rome'
+  }) + ' ' + date.toLocaleTimeString('it-IT', {
+    hour: '2-digit',
+    minute: '2-digit',
+    timeZone: 'Europe/Rome'
+  });
+}
+
+function trimDiscordField(value) {
+  const text = cleanText(value).slice(0, 950);
+  return text || '-';
 }
 
 function formatIcsDate(date) {
