@@ -1942,6 +1942,15 @@ async function notifyDiscordRaidEventCreated(env, event) {
       ],
       description: event.description ? trimDiscordField(event.description) : undefined,
       footer: { text: 'Destiny Lore Masters - Clan Planner' }
+    }],
+    components: [{
+      type: 1,
+      components: [{
+        type: 2,
+        style: 5,
+        label: 'Apri Clan Planner per aggiungerti all\'attivita',
+        url: plannerUrl
+      }]
     }]
   };
 
