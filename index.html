@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Destiny Lore Master - Clan APP e Raid Planner</title>
     <meta name="description" content="Clan APP e Raid Planner di Destiny Lore Masters. Stato clan, amici Bungie, Hub Stagionale e proposte raid settimanali.">
-    <meta name="dlm-build" content="2026-06-23-hide-clan-meta">
+    <meta name="dlm-build" content="2026-06-23-hub-raid-login-copy">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Destiny Lore Masters">
     <meta property="og:title" content="Destiny Lore Master - Clan APP e Raid Planner">
@@ -767,7 +767,7 @@
                 <button class="notify-button" id="raidPlannerButton" type="button">Raid Planner</button>
                 <button class="notify-button" id="dimButton" type="button">Apri DIM</button>
             </div>
-            <div class="notify-status" id="notifyStatus">Accedi con Bungie per aprire il tuo Hub Stagionale.</div>
+            <div class="notify-status" id="notifyStatus">Accedi con Bungie per il tuo HUB Stagionale e per il Raid planner.</div>
         </section>
 
         <div id="membersList"></div>
@@ -791,7 +791,7 @@
         // const D3_SIGNATURES_URL = `${WORKER_BASE_URL}/api/d3-signatures`;
         const DLM_USER_STORAGE_KEY = 'dlmNotifyUserId';
         const LIVE_STATUS_INTERVAL_MS = 60000;
-        const APP_BUILD_ID = '2026-06-23-hide-clan-meta';
+        const APP_BUILD_ID = '2026-06-23-hub-raid-login-copy';
 
         let currentMembers = [];
         let currentExternalFriends = [];
@@ -886,7 +886,7 @@
                 notifyElements.status.textContent = 'Accesso Bungie registrato. Hub Stagionale disponibile.';
             } else {
                 notifyElements.loginButton.textContent = 'Accedi con Bungie';
-                notifyElements.status.textContent = 'Accedi con Bungie per aprire il tuo Hub Stagionale.';
+                notifyElements.status.textContent = 'Accedi con Bungie per il tuo HUB Stagionale e per il Raid planner.';
             }
         }
 
