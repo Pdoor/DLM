@@ -1509,8 +1509,10 @@
             if (!confirmed) return false;
 
             try {
-                openCalendarEvent(raidEvent);
-                elements.formNotice.textContent = 'Calendario aperto. Conferma l\'aggiunta nell\'app Calendario.';
+                const opened = openCalendarEvent(raidEvent);
+                if (opened) {
+                    elements.formNotice.textContent = 'Calendario aperto. Conferma l\'aggiunta nell\'app Calendario.';
+                }
                 return true;
             } catch (error) {
                 elements.formNotice.textContent = error.message || 'Calendario non disponibile.';
@@ -1520,7 +1522,11 @@
 
         function openCalendarEvent(raidEvent) {
             const url = `${WORKER_BASE_URL}/api/raid-events/${encodeURIComponent(raidEvent.eventId)}/calendar.ics`;
-            window.location.assign(url);
+            const opened = window.open(url, '_blank', 'noopener');
+            if (opened) return true;
+
+            elements.formNotice.innerHTML = `Evento salvato. <a href="${escapeHtml(url)}" target="_blank" rel="noopener">Apri calendario</a> per aggiungerlo all'agenda.`;
+            return false;
         }
 
         async function readErrorMessage(response) {
