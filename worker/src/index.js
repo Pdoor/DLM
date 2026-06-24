@@ -59,6 +59,7 @@ export default {
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+$/) && request.method === 'DELETE') return await handleDeleteRaidEvent(request, env);
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+\/delete$/) && request.method === 'POST') return await handleDeleteRaidEvent(request, env);
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+\/add-member$/) && request.method === 'POST') return await handleAddRaidEventMember(request, env);
+      if (url.pathname.match(/^\/api\/raid-events\/[^/]+\/remove-member$/) && request.method === 'POST') return await handleRemoveRaidEventMember(request, env);
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+\/join$/) && request.method === 'POST') return await handleJoinRaidEvent(request, env);
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+\/leave$/) && request.method === 'POST') return await handleLeaveRaidEvent(request, env);
       if (url.pathname === '/api/debug/friends-shape') return await handleFriendsShapeDebug(request, env);
@@ -331,7 +332,8 @@ async function handleRaidEvents(request, env) {
     viewerCanDelegateMembers: viewerDelegateStatus.canDelegateMembers,
     events: await Promise.all(events.map(async (event) => {
       const eventParticipants = participants.get(event.eventId) || [];
-      const viewerCanManage = await canManageRaidEventForUser(env, event, userId, viewerKey, eventParticipants);
+      const viewerCanManage = viewerDelegateStatus.isClanAdmin
+        || await canManageRaidEventForUser(env, event, userId, viewerKey, eventParticipants);
       return {
         ...event,
         viewerJoined: Boolean(eventParticipants.some((participant) => {
@@ -440,8 +442,10 @@ async function handleUpdateRaidEvent(request, env) {
 
   await updateRaidEvent(env, updated);
   if (canDelegateMembers) await deleteRaidParticipantsByType(env, eventId, ['clan', 'reserve']);
-  await deleteRaidParticipant(env, eventId, user.userId);
-  await saveRaidParticipant(env, eventId, createAuthRaidParticipant(user, profile, user.userId, now));
+  if (existing.creatorUserId === user.userId) {
+    await deleteRaidParticipant(env, eventId, user.userId);
+    await saveRaidParticipant(env, eventId, createAuthRaidParticipant(user, profile, user.userId, now));
+  }
   for (const [index, member] of selectedMembers.entries()) {
     await saveRaidParticipant(env, eventId, createClanRaidParticipant(member, user.userId, 'clan', now + index + 1));
   }
@@ -495,6 +499,31 @@ async function handleAddRaidEventMember(request, env) {
   return corsResponse({ ok: true }, env);
 }
 
+async function handleRemoveRaidEventMember(request, env) {
+  const eventId = getEventIdFromPath(new URL(request.url).pathname);
+  const body = await readJsonBody(request);
+  const user = await requirePlannerUser(env, body.userId);
+  const event = await getRaidEvent(env, eventId);
+  if (!event) return corsResponse({ error: 'Evento non trovato' }, env, 404);
+
+  const profile = await getPlannerUserProfile(env, user);
+  if (!await canManageRaidEventWithProfile(env, event, user, profile)) {
+    return corsResponse({ error: 'Non puoi rimuovere membri da questo evento' }, env, 403);
+  }
+
+  const participantUserId = String(body.participantUserId || '').trim();
+  if (!participantUserId) return corsResponse({ error: 'Partecipante non valido' }, env, 400);
+
+  const participants = await listRaidParticipants(env, [eventId]);
+  const current = participants.get(eventId) || [];
+  const participant = current.find((item) => item.userId === participantUserId);
+  if (!participant) return corsResponse({ error: 'Partecipante non trovato' }, env, 404);
+
+  await deleteRaidParticipant(env, eventId, participantUserId);
+  await updateDiscordRaidEventMessage(env, eventId);
+  return corsResponse({ ok: true }, env);
+}
+
 async function handleJoinRaidEvent(request, env) {
   const eventId = getEventIdFromPath(new URL(request.url).pathname);
   const body = await readJsonBody(request);
@@ -521,7 +550,7 @@ async function handleLeaveRaidEvent(request, env) {
   const event = await getRaidEvent(env, eventId);
   await deleteRaidParticipant(env, eventId, getPlannerParticipantKey(user, profile));
   await deleteRaidParticipant(env, eventId, user.userId);
-  if (event && await canManageRaidEventWithProfile(env, event, user, profile)) {
+  if (event && event.creatorUserId === user.userId) {
     await deleteRaidParticipant(env, eventId, event.creatorUserId);
   }
   await updateDiscordRaidEventMessage(env, eventId);
@@ -1374,6 +1403,7 @@ async function canManageRaidEventForUser(env, event, userId, viewerKey, particip
 async function canManageRaidEventWithProfile(env, event, user, profile) {
   const participantKey = getPlannerParticipantKey(user, profile);
   if (event.creatorUserId === user.userId) return true;
+  if (await isPlannerUserClanAdmin(env, user, profile)) return true;
   const participants = await listRaidParticipants(env, [event.eventId]);
   return canManageRaidEventForUser(env, event, user.userId, participantKey, participants.get(event.eventId) || []);
 }

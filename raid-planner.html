@@ -1051,7 +1051,7 @@
             const allParticipants = raidEvent.participants || [];
             const participants = allParticipants;
             const userId = getUserId();
-            const isCreator = Boolean(raidEvent.viewerCanManage || (userId && raidEvent.creatorUserId === userId));
+            const canManageEvent = Boolean(raidEvent.viewerCanManage || (userId && raidEvent.creatorUserId === userId));
             const joined = Boolean(raidEvent.viewerJoined || (userId && allParticipants.some((participant) => participant.userId === userId)));
             const maxPlayers = Number(raidEvent.maxPlayers || 0);
             const reserveCount = Math.max(0, participants.length - maxPlayers);
@@ -1087,7 +1087,12 @@
             seatRow.append(seats, button);
             card.appendChild(seatRow);
 
-            if (isCreator) {
+            if (canManageEvent && participants.length) {
+                const removeList = createParticipantRemoveList(raidEvent, participants);
+                if (removeList) card.appendChild(removeList);
+            }
+
+            if (canManageEvent) {
                 const addMember = canDelegateMembers ? createCardMemberAdder(raidEvent, participants) : null;
                 if (addMember) card.appendChild(addMember);
 
@@ -1110,6 +1115,30 @@
                 card.appendChild(actions);
             }
             return card;
+        }
+
+        function createParticipantRemoveList(raidEvent, participants) {
+            const wrapper = document.createElement('div');
+            wrapper.className = 'selected-member-list';
+
+            participants.forEach((participant, index) => {
+                const item = document.createElement('div');
+                item.className = 'selected-member-item';
+
+                const label = document.createElement('span');
+                label.textContent = `${index + 1}. ${participant.displayName}`;
+
+                const removeButton = document.createElement('button');
+                removeButton.className = 'mini-button';
+                removeButton.type = 'button';
+                removeButton.textContent = 'Rimuovi';
+                removeButton.addEventListener('click', () => removeParticipantFromCard(raidEvent, participant, removeButton));
+
+                item.append(label, removeButton);
+                wrapper.appendChild(item);
+            });
+
+            return wrapper;
         }
 
         function createCardMemberAdder(raidEvent, participants) {
@@ -1168,6 +1197,39 @@
                     openAuthModal();
                 } else {
                     elements.formNotice.textContent = error.message || 'Aggiunta membro non riuscita.';
+                }
+            } finally {
+                button.disabled = false;
+            }
+        }
+
+        async function removeParticipantFromCard(raidEvent, participant, button) {
+            const userId = getUserId();
+            if (!userId) {
+                openAuthModal();
+                return;
+            }
+
+            const confirmed = window.confirm(`Rimuovere ${participant.displayName} da "${raidEvent.title}"?`);
+            if (!confirmed) return;
+
+            button.disabled = true;
+            try {
+                const response = await fetch(`${WORKER_BASE_URL}/api/raid-events/${encodeURIComponent(raidEvent.eventId)}/remove-member`, {
+                    method: 'POST',
+                    ...jsonRequestBody({
+                        userId,
+                        participantUserId: participant.userId
+                    })
+                });
+                if (!response.ok) throw new Error(await readErrorMessage(response) || 'Rimozione membro non riuscita.');
+                await loadEvents();
+            } catch (error) {
+                if (isAuthError(error.message)) {
+                    clearAuth();
+                    openAuthModal();
+                } else {
+                    elements.formNotice.textContent = error.message || 'Rimozione membro non riuscita.';
                 }
             } finally {
                 button.disabled = false;
