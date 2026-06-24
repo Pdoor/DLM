@@ -79,7 +79,7 @@
         .refresh-box {
             background-color: rgba(68, 68, 68, .88);
             backdrop-filter: blur(8px);
-            padding: 11px 52px 11px 11px;
+            padding: 11px;
             border-radius: 8px;
             color: var(--text);
             text-align: center;
@@ -125,10 +125,7 @@
         }
 
         .settings-button {
-            position: absolute;
-            top: 18px;
-            right: 18px;
-            z-index: 2;
+            justify-self: end;
             width: 38px;
             min-width: 38px;
             padding: 8px;
@@ -756,7 +753,6 @@
 </head>
 <body>
     <div class="container">
-        <button class="notify-button settings-button" id="settingsButton" type="button" hidden title="Impostazioni admin">&#9881;</button>
         <button class="refresh-box" id="refreshButton" type="button">Ricarica dati pubblicati</button>
 
         <div class="status-bar">
@@ -769,6 +765,7 @@
                 </h1>
             </div>
             <div class="header-side">
+                <button class="notify-button settings-button" id="settingsButton" type="button" hidden title="Impostazioni admin">&#9881;</button>
                 <div class="player-stats" id="playerStats" hidden>
                     <div class="warmind-stats" title="Stima Warmind.io, finestra ultime 3 ore">
                         <span class="warmind-label">D2 onLine players</span>
