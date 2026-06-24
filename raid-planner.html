@@ -675,7 +675,7 @@
                         <label for="descriptionInput">Note</label>
                         <textarea id="descriptionInput" name="description" maxlength="280" placeholder="Orario flessibile, richieste, checkpoint, esperienza richiesta..."></textarea>
                     </div>
-                    <div class="field full">
+                    <div class="field full" id="delegatedMembersField" hidden>
                         <label>Membri clan da aggiungere</label>
                         <div class="clan-picker">
                             <div class="clan-picker-head">
@@ -728,6 +728,7 @@
         let focusDate = new Date();
         let loading = false;
         let plannerError = '';
+        let canDelegateMembers = false;
 
         const elements = {
             homeButton: document.getElementById('homeButton'),
@@ -755,6 +756,7 @@
             durationInput: document.getElementById('durationInput'),
             maxPlayersInput: document.getElementById('maxPlayersInput'),
             descriptionInput: document.getElementById('descriptionInput'),
+            delegatedMembersField: document.getElementById('delegatedMembersField'),
             clanMemberGrid: document.getElementById('clanMemberGrid'),
             clanMemberSelect: document.getElementById('clanMemberSelect'),
             addClanMemberButton: document.getElementById('addClanMemberButton'),
@@ -834,7 +836,9 @@
                 });
                 if (!response.ok) throw new Error(await readErrorMessage(response) || 'Planner non disponibile.');
                 const data = await response.json();
+                canDelegateMembers = Boolean(data.viewerCanDelegateMembers);
                 events = data.events || [];
+                renderDelegatedMemberControls();
                 elements.formNotice.textContent = '';
             } catch (error) {
                 if (isAuthError(error.message)) {
@@ -857,6 +861,7 @@
                 clanMembers = (data.members || [])
                     .filter((member) => member.membershipId && member.displayName)
                     .sort((a, b) => a.displayName.localeCompare(b.displayName, 'it'));
+                renderDelegatedMemberControls();
                 renderClanMemberPicker();
             } catch (error) {
                 elements.clanMemberSelect.innerHTML = '<option>Membri clan non disponibili</option>';
@@ -899,7 +904,7 @@
                 durationMinutes: Number(elements.durationInput.value),
                 maxPlayers: Number(elements.maxPlayersInput.value),
                 description: elements.descriptionInput.value,
-                clanMembers: getSelectedClanMembers()
+                clanMembers: canDelegateMembers ? getSelectedClanMembers() : []
             };
 
             elements.createButton.disabled = true;
@@ -1072,7 +1077,7 @@
             card.appendChild(seatRow);
 
             if (isCreator) {
-                const addMember = createCardMemberAdder(raidEvent, participants);
+                const addMember = canDelegateMembers ? createCardMemberAdder(raidEvent, participants) : null;
                 if (addMember) card.appendChild(addMember);
 
                 const actions = document.createElement('div');
@@ -1169,9 +1174,11 @@
             elements.maxPlayersInput.value = String(raidEvent.maxPlayers || 6);
             elements.descriptionInput.value = raidEvent.description || '';
 
-            selectedClanMemberIds = (raidEvent.participants || [])
-                .filter((participant) => ['clan', 'reserve'].includes(participant.participantType) && participant.membershipId)
-                .map((participant) => participant.membershipId);
+            selectedClanMemberIds = canDelegateMembers
+                ? (raidEvent.participants || [])
+                    .filter((participant) => ['clan', 'reserve'].includes(participant.participantType) && participant.membershipId)
+                    .map((participant) => participant.membershipId)
+                : [];
 
             elements.createButton.textContent = 'Salva modifiche';
             elements.cancelEditButton.hidden = false;
@@ -1222,6 +1229,11 @@
         }
 
         function renderClanMemberPicker() {
+            renderDelegatedMemberControls();
+            if (!canDelegateMembers) {
+                selectedClanMemberIds = [];
+                return;
+            }
             elements.clanPickerCount.textContent = `${selectedClanMemberIds.length} aggiunti`;
 
             if (!clanMembers.length) {
@@ -1252,7 +1264,19 @@
             renderSelectedMemberList();
         }
 
+        function renderDelegatedMemberControls() {
+            elements.delegatedMembersField.hidden = !canDelegateMembers;
+            if (!canDelegateMembers) {
+                selectedClanMemberIds = [];
+                elements.clanPickerCount.textContent = '0 aggiunti';
+                elements.clanMemberSelect.disabled = true;
+                elements.addClanMemberButton.disabled = true;
+                elements.selectedMemberList.innerHTML = '';
+            }
+        }
+
         function addSelectedClanMember() {
+            if (!canDelegateMembers) return;
             const membershipId = elements.clanMemberSelect.value;
             if (!membershipId || selectedClanMemberIds.includes(membershipId)) return;
             selectedClanMemberIds.push(membershipId);

@@ -7,6 +7,7 @@ const FRIENDS_PATH = '/Platform/Social/Friends/';
 const GROUP_ID = '5420062';
 const GROUP_TYPE_CLAN = 1;
 const GROUP_FILTER_ALL = 0;
+const CLAN_ADMIN_MEMBER_TYPES = new Set([3, 4, 5]);
 const D3_PETITION_URL = 'https://www.change.org/p/petition-sony-to-develop-destiny-3';
 const FRIEND_DETAILS_COMPONENTS = '200';
 const FRIEND_DETAILS_CACHE_TTL_MS = 15 * 60 * 1000;
@@ -276,6 +277,7 @@ async function handleRaidEvents(request, env) {
   const weekEnd = new Date(weekStart);
   weekEnd.setUTCDate(weekEnd.getUTCDate() + 7);
   const viewerKey = userId ? await getPlannerViewerParticipantKey(env, userId) : '';
+  const viewerCanDelegateMembers = userId ? await canUserDelegateClanMembers(env, userId) : false;
 
   const events = await listRaidEvents(env, weekStart.toISOString(), weekEnd.toISOString());
   const participants = events.length
@@ -285,6 +287,7 @@ async function handleRaidEvents(request, env) {
   return corsResponse({
     weekStart: weekStart.toISOString(),
     weekEnd: weekEnd.toISOString(),
+    viewerCanDelegateMembers,
     events: await Promise.all(events.map(async (event) => {
       const eventParticipants = participants.get(event.eventId) || [];
       const viewerCanManage = await canManageRaidEventForUser(env, event, userId, viewerKey, eventParticipants);
@@ -307,7 +310,13 @@ async function handleCreateRaidEvent(request, env) {
   const user = await requirePlannerUser(env, body.userId);
   const profile = await getPlannerUserProfile(env, user);
   const event = normalizeRaidEventInput(body, user, profile);
-  const selectedMembers = normalizePlannerClanMembers(body.clanMembers, profile, 24);
+  const canDelegateMembers = await isPlannerUserClanAdmin(env, user, profile);
+  if (!canDelegateMembers && Array.isArray(body.clanMembers) && body.clanMembers.length) {
+    return corsResponse({ error: 'Solo gli admin del clan possono aggiungere membri delegati' }, env, 403);
+  }
+  const selectedMembers = canDelegateMembers
+    ? normalizePlannerClanMembers(body.clanMembers, profile, 24)
+    : [];
   const now = Date.now();
 
   await saveRaidEvent(env, event);
@@ -379,11 +388,17 @@ async function handleUpdateRaidEvent(request, env) {
     createdAt: existing.createdAt,
     updatedAt: Date.now()
   };
-  const selectedMembers = normalizePlannerClanMembers(body.clanMembers, profile, 24);
+  const canDelegateMembers = await isPlannerUserClanAdmin(env, user, profile);
+  if (!canDelegateMembers && Array.isArray(body.clanMembers) && body.clanMembers.length) {
+    return corsResponse({ error: 'Solo gli admin del clan possono aggiungere membri delegati' }, env, 403);
+  }
+  const selectedMembers = canDelegateMembers
+    ? normalizePlannerClanMembers(body.clanMembers, profile, 24)
+    : [];
   const now = Date.now();
 
   await updateRaidEvent(env, updated);
-  await deleteRaidParticipantsByType(env, eventId, ['clan', 'reserve']);
+  if (canDelegateMembers) await deleteRaidParticipantsByType(env, eventId, ['clan', 'reserve']);
   await deleteRaidParticipant(env, eventId, user.userId);
   await saveRaidParticipant(env, eventId, createAuthRaidParticipant(user, profile, user.userId, now));
   for (const [index, member] of selectedMembers.entries()) {
@@ -420,6 +435,9 @@ async function handleAddRaidEventMember(request, env) {
   const profile = await getPlannerUserProfile(env, user);
   if (!await canManageRaidEventWithProfile(env, event, user, profile)) {
     return corsResponse({ error: 'Solo il promoter puo aggiungere membri' }, env, 403);
+  }
+  if (!await isPlannerUserClanAdmin(env, user, profile)) {
+    return corsResponse({ error: 'Solo gli admin del clan possono aggiungere membri delegati' }, env, 403);
   }
 
   const member = normalizePlannerClanMembers([body.member], profile, 1)[0];
@@ -1227,6 +1245,43 @@ async function getPlannerViewerParticipantKey(env, userId) {
   } catch {
     return '';
   }
+}
+
+async function canUserDelegateClanMembers(env, userId) {
+  try {
+    const user = await getUser(env, userId);
+    if (!user) return false;
+    const freshUser = await ensureAccessToken(env, user);
+    const profile = await getPlannerUserProfile(env, freshUser);
+    return isPlannerUserClanAdmin(env, freshUser, profile);
+  } catch (error) {
+    console.warn(`Clan admin check unavailable for ${userId}`, error.message);
+    return false;
+  }
+}
+
+async function isPlannerUserClanAdmin(env, user, profile) {
+  const membershipId = String(profile?.membershipId || user?.bungieMembershipId || '');
+  if (!membershipId) return false;
+
+  try {
+    let page = 1;
+    let hasMore = true;
+    while (hasMore) {
+      const data = await bungieFetch(`/Platform/GroupV2/${GROUP_ID}/Members/?currentpage=${page}`, env, user.accessToken);
+      const members = data.Response?.results || [];
+      const match = members.find((member) => {
+        return String(member.destinyUserInfo?.membershipId || member.membershipId || '') === membershipId;
+      });
+      if (match) return CLAN_ADMIN_MEMBER_TYPES.has(Number(match.memberType));
+      hasMore = Boolean(data.Response?.hasMore);
+      page += 1;
+    }
+  } catch (error) {
+    console.warn(`Clan admin check failed for ${membershipId}`, error.message);
+  }
+
+  return false;
 }
 
 function getPlannerParticipantKey(user, profile) {
