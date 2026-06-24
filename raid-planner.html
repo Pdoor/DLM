@@ -929,7 +929,7 @@
                 resetEventForm();
                 elements.formNotice.textContent = message;
                 await loadEvents();
-                if (!wasEditing) promptCalendarDownload(savedEvent);
+                if (!wasEditing) promptCalendarDownload(events.find((item) => item.eventId === savedEvent.eventId) || savedEvent);
             } catch (error) {
                 if (isAuthError(error.message)) {
                     clearAuth();
@@ -975,7 +975,7 @@
                 });
                 if (!response.ok) throw new Error(await readErrorMessage(response) || 'Operazione non riuscita.');
                 await loadEvents();
-                if (!joined && raidEvent) promptCalendarDownload(raidEvent);
+                if (!joined && raidEvent) promptCalendarDownload(events.find((item) => item.eventId === eventId) || raidEvent);
             } catch (error) {
                 if (isAuthError(error.message)) {
                     clearAuth();
@@ -1504,22 +1504,96 @@
         }
 
         function promptCalendarDownload(raidEvent) {
-            if (!raidEvent?.eventId) return;
+            if (!raidEvent?.startsAt) return;
             const confirmed = window.confirm('Vuoi aggiungere questo evento al calendario del dispositivo?');
             if (!confirmed) return;
 
             try {
-                openCalendarEvent(raidEvent);
-                elements.formNotice.textContent = 'Calendario aperto. Conferma l\'aggiunta nell\'app Calendario.';
+                downloadCalendarEvent(raidEvent);
+                elements.formNotice.textContent = 'File calendario generato. Conferma l\'aggiunta nell\'app Calendario.';
             } catch (error) {
-                elements.formNotice.textContent = error.message || 'Calendario non disponibile.';
+                showRemoteCalendarFallback(raidEvent, error);
             }
         }
 
-        function openCalendarEvent(raidEvent) {
+        function downloadCalendarEvent(raidEvent) {
+            const ics = buildCalendarEvent(raidEvent);
+            const blob = new Blob([ics], { type: 'text/calendar;charset=utf-8' });
+            const url = URL.createObjectURL(blob);
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = `${sanitizeFileName(raidEvent.title || 'dlm-clan-planner')}.ics`;
+            link.rel = 'noopener';
+            document.body.appendChild(link);
+            link.click();
+            link.remove();
+            setTimeout(() => URL.revokeObjectURL(url), 2000);
+        }
+
+        function buildCalendarEvent(raidEvent) {
+            const startsAt = new Date(raidEvent.startsAt);
+            if (Number.isNaN(startsAt.getTime())) throw new Error('Data evento non valida.');
+            const duration = Number(raidEvent.durationMinutes || 120);
+            const endsAt = new Date(startsAt.getTime() + duration * 60 * 1000);
+            const participants = (raidEvent.participants || [])
+                .map((participant, index) => `${index + 1}. ${participant.displayName}`)
+                .join('\n');
+            const plannerUrl = new URL('raid-planner.html', window.location.href).toString();
+            const description = [
+                raidEvent.activity ? `Attivita: ${raidEvent.activity}` : '',
+                raidEvent.creatorName ? `Proposto da: ${raidEvent.creatorName}` : '',
+                raidEvent.description || '',
+                participants ? `Lista:\n${participants}` : '',
+                `Clan Planner: ${plannerUrl}`
+            ].filter(Boolean).join('\n\n');
+
+            return [
+                'BEGIN:VCALENDAR',
+                'VERSION:2.0',
+                'PRODID:-//Destiny Lore Masters//Clan Planner//IT',
+                'CALSCALE:GREGORIAN',
+                'METHOD:PUBLISH',
+                'BEGIN:VEVENT',
+                `UID:${escapeIcsText(raidEvent.eventId || `${raidEvent.startsAt}-${raidEvent.title}`)}@destiny-lore-masters`,
+                `DTSTAMP:${formatIcsDate(new Date())}`,
+                `DTSTART:${formatIcsDate(startsAt)}`,
+                `DTEND:${formatIcsDate(endsAt)}`,
+                `SUMMARY:${escapeIcsText(raidEvent.title || raidEvent.activity || 'Evento Destiny Lore Masters')}`,
+                `DESCRIPTION:${escapeIcsText(description)}`,
+                'LOCATION:Destiny 2',
+                'END:VEVENT',
+                'END:VCALENDAR'
+            ].join('\r\n');
+        }
+
+        function showRemoteCalendarFallback(raidEvent, error) {
+            if (!raidEvent?.eventId) {
+                elements.formNotice.textContent = error.message || 'Calendario non disponibile.';
+                return;
+            }
+
             const url = `${WORKER_BASE_URL}/api/raid-events/${encodeURIComponent(raidEvent.eventId)}/calendar.ics`;
-            const opened = window.open(url, '_blank', 'noopener');
-            if (!opened) window.location.href = url;
+            elements.formNotice.innerHTML = `Calendario non aperto automaticamente. <a href="${escapeHtml(url)}" target="_blank" rel="noopener">Apri file calendario</a>.`;
+        }
+
+        function formatIcsDate(date) {
+            return date.toISOString().replace(/[-:]/g, '').replace(/\.\d{3}Z$/, 'Z');
+        }
+
+        function escapeIcsText(value) {
+            return String(value || '')
+                .replace(/\\/g, '\\\\')
+                .replace(/\r?\n/g, '\\n')
+                .replace(/,/g, '\\,')
+                .replace(/;/g, '\\;');
+        }
+
+        function sanitizeFileName(value) {
+            return String(value || 'dlm-clan-planner')
+                .toLowerCase()
+                .replace(/[^a-z0-9]+/g, '-')
+                .replace(/^-+|-+$/g, '')
+                .slice(0, 60) || 'dlm-clan-planner';
         }
 
         async function readErrorMessage(response) {
