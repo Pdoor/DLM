@@ -838,7 +838,7 @@
                 const data = await response.json();
                 canDelegateMembers = Boolean(data.viewerCanDelegateMembers);
                 events = data.events || [];
-                renderDelegatedMemberControls();
+                renderClanMemberPicker();
                 elements.formNotice.textContent = '';
             } catch (error) {
                 if (isAuthError(error.message)) {
