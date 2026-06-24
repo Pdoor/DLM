@@ -70,6 +70,7 @@
         }
 
         .container {
+            position: relative;
             max-width: 860px;
             margin: 0 auto;
             padding: 18px 18px calc(26px + env(safe-area-inset-bottom));
@@ -78,7 +79,7 @@
         .refresh-box {
             background-color: rgba(68, 68, 68, .88);
             backdrop-filter: blur(8px);
-            padding: 11px;
+            padding: 11px 52px 11px 11px;
             border-radius: 8px;
             color: var(--text);
             text-align: center;
@@ -124,6 +125,10 @@
         }
 
         .settings-button {
+            position: absolute;
+            top: 18px;
+            right: 18px;
+            z-index: 2;
             width: 38px;
             min-width: 38px;
             padding: 8px;
@@ -751,6 +756,7 @@
 </head>
 <body>
     <div class="container">
+        <button class="notify-button settings-button" id="settingsButton" type="button" hidden title="Impostazioni admin">&#9881;</button>
         <button class="refresh-box" id="refreshButton" type="button">Ricarica dati pubblicati</button>
 
         <div class="status-bar">
@@ -795,7 +801,6 @@
                 <button class="notify-button" id="seasonalHubButton" type="button" disabled>Hub Stagionale</button>
                 <button class="notify-button" id="raidPlannerButton" type="button">Clan Planner</button>
                 <button class="notify-button" id="dimButton" type="button">Apri DIM</button>
-                <button class="notify-button settings-button" id="settingsButton" type="button" hidden title="Impostazioni admin">&#9881;</button>
             </div>
             <div class="notify-status" id="notifyStatus">Accedi con Bungie per il tuo HUB Stagionale e per il Clan Planner.</div>
         </section>
