@@ -1,74 +1,9 @@
 {
-  "generatedAt": "2026-06-24T09:44:37.035Z",
+  "generatedAt": "2026-06-24T09:53:27.363Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/fc8a4349dc04777c474ec140c7b66d9e.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1782285607000,
-      "lastActivityTimestamp": 1782283459000,
-      "lastActivityText": "Morsa della cupidigia: Standard il 24/06/2026 06:44",
-      "activities": [
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-06-24T06:44:19Z",
-          "instanceId": "16964780976"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-06-24T06:21:41Z",
-          "instanceId": "16964650575"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-06-24T04:46:02Z",
-          "instanceId": "16964333717"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-21T07:13:01Z",
-          "instanceId": "16947846974"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-21T06:59:59Z",
-          "instanceId": "16947801495"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-06-21T06:11:32Z",
-          "instanceId": "16947688081"
-        },
-        {
-          "name": "La Guerriera: Con matchmaking",
-          "period": "2026-06-21T04:41:29Z",
-          "instanceId": "16947199371"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-06-20T12:05:59Z",
-          "instanceId": "16942350896"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-19T16:07:17Z",
-          "instanceId": "16936937231"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-06-19T15:35:41Z",
-          "instanceId": "16936868894"
-        }
-      ]
-    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -976,6 +911,71 @@
           "name": "Nessus, Centauro Instabile",
           "period": "2026-06-23T09:23:20Z",
           "instanceId": "16960204475"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1782294608000,
+      "lastActivityTimestamp": 1782238866000,
+      "lastActivityText": "Gloria futura: Leggendaria il 23/06/2026 18:21",
+      "activities": [
+        {
+          "name": "Gloria futura: Leggendaria",
+          "period": "2026-06-23T18:21:06Z",
+          "instanceId": "16961717370"
+        },
+        {
+          "name": "Il Relitto",
+          "period": "2026-06-23T18:17:30Z",
+          "instanceId": "16961499382"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-06-23T18:05:06Z",
+          "instanceId": "16961491025"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-06-23T18:03:09Z",
+          "instanceId": "16961439110"
+        },
+        {
+          "name": "Giardini Exodus 2A: Maestro",
+          "period": "2026-06-23T17:52:43Z",
+          "instanceId": "16961433191"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-06-23T17:45:42Z",
+          "instanceId": "16961399029"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-06-23T06:21:11Z",
+          "instanceId": "16959714859"
+        },
+        {
+          "name": "Terreni di Prova: Con matchmaking",
+          "period": "2026-06-23T06:04:11Z",
+          "instanceId": "16959661317"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-06-23T05:44:39Z",
+          "instanceId": "16959556352"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-06-23T05:31:02Z",
+          "instanceId": "16959532973"
         }
       ]
     },
