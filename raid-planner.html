@@ -928,8 +928,8 @@
                 };
                 resetEventForm();
                 elements.formNotice.textContent = message;
-                const calendarOpened = !wasEditing && promptCalendarDownload(savedEvent);
-                if (!calendarOpened) await loadEvents();
+                await loadEvents();
+                if (!wasEditing) promptCalendarDownload(savedEvent);
             } catch (error) {
                 if (isAuthError(error.message)) {
                     clearAuth();
@@ -974,8 +974,8 @@
                     ...jsonRequestBody({ userId })
                 });
                 if (!response.ok) throw new Error(await readErrorMessage(response) || 'Operazione non riuscita.');
-                const calendarOpened = !joined && raidEvent && promptCalendarDownload(raidEvent);
-                if (!calendarOpened) await loadEvents();
+                await loadEvents();
+                if (!joined && raidEvent) promptCalendarDownload(raidEvent);
             } catch (error) {
                 if (isAuthError(error.message)) {
                     clearAuth();
@@ -1504,29 +1504,22 @@
         }
 
         function promptCalendarDownload(raidEvent) {
-            if (!raidEvent?.eventId) return false;
+            if (!raidEvent?.eventId) return;
             const confirmed = window.confirm('Vuoi aggiungere questo evento al calendario del dispositivo?');
-            if (!confirmed) return false;
+            if (!confirmed) return;
 
             try {
-                const opened = openCalendarEvent(raidEvent);
-                if (opened) {
-                    elements.formNotice.textContent = 'Calendario aperto. Conferma l\'aggiunta nell\'app Calendario.';
-                }
-                return true;
+                openCalendarEvent(raidEvent);
+                elements.formNotice.textContent = 'Calendario aperto. Conferma l\'aggiunta nell\'app Calendario.';
             } catch (error) {
                 elements.formNotice.textContent = error.message || 'Calendario non disponibile.';
-                return false;
             }
         }
 
         function openCalendarEvent(raidEvent) {
             const url = `${WORKER_BASE_URL}/api/raid-events/${encodeURIComponent(raidEvent.eventId)}/calendar.ics`;
             const opened = window.open(url, '_blank', 'noopener');
-            if (opened) return true;
-
-            elements.formNotice.innerHTML = `Evento salvato. <a href="${escapeHtml(url)}" target="_blank" rel="noopener">Apri calendario</a> per aggiungerlo all'agenda.`;
-            return false;
+            if (!opened) window.location.href = url;
         }
 
         async function readErrorMessage(response) {
