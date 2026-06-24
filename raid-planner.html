@@ -928,8 +928,8 @@
                 };
                 resetEventForm();
                 elements.formNotice.textContent = message;
-                await loadEvents();
-                if (!wasEditing) promptCalendarDownload(savedEvent);
+                const calendarOpened = !wasEditing && promptCalendarDownload(savedEvent);
+                if (!calendarOpened) await loadEvents();
             } catch (error) {
                 if (isAuthError(error.message)) {
                     clearAuth();
@@ -974,8 +974,8 @@
                     ...jsonRequestBody({ userId })
                 });
                 if (!response.ok) throw new Error(await readErrorMessage(response) || 'Operazione non riuscita.');
-                await loadEvents();
-                if (!joined && raidEvent) promptCalendarDownload(raidEvent);
+                const calendarOpened = !joined && raidEvent && promptCalendarDownload(raidEvent);
+                if (!calendarOpened) await loadEvents();
             } catch (error) {
                 if (isAuthError(error.message)) {
                     clearAuth();
@@ -1504,22 +1504,23 @@
         }
 
         function promptCalendarDownload(raidEvent) {
-            if (!raidEvent?.eventId) return;
+            if (!raidEvent?.eventId) return false;
             const confirmed = window.confirm('Vuoi aggiungere questo evento al calendario del dispositivo?');
-            if (!confirmed) return;
+            if (!confirmed) return false;
 
             try {
                 openCalendarEvent(raidEvent);
                 elements.formNotice.textContent = 'Calendario aperto. Conferma l\'aggiunta nell\'app Calendario.';
+                return true;
             } catch (error) {
                 elements.formNotice.textContent = error.message || 'Calendario non disponibile.';
+                return false;
             }
         }
 
         function openCalendarEvent(raidEvent) {
             const url = `${WORKER_BASE_URL}/api/raid-events/${encodeURIComponent(raidEvent.eventId)}/calendar.ics`;
-            const opened = window.open(url, '_blank', 'noopener');
-            if (!opened) window.location.href = url;
+            window.location.assign(url);
         }
 
         async function readErrorMessage(response) {
