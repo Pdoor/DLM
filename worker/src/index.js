@@ -315,7 +315,9 @@ async function handleRaidEvents(request, env) {
   const weekEnd = new Date(weekStart);
   weekEnd.setUTCDate(weekEnd.getUTCDate() + 7);
   const viewerKey = userId ? await getPlannerViewerParticipantKey(env, userId) : '';
-  const viewerCanDelegateMembers = userId ? await canUserDelegateClanMembers(env, userId) : false;
+  const viewerDelegateStatus = userId
+    ? await getUserPlannerDelegateStatus(env, userId)
+    : { isClanAdmin: false, canDelegateMembers: false };
 
   const events = await listRaidEvents(env, weekStart.toISOString(), weekEnd.toISOString());
   const participants = events.length
@@ -325,7 +327,8 @@ async function handleRaidEvents(request, env) {
   return corsResponse({
     weekStart: weekStart.toISOString(),
     weekEnd: weekEnd.toISOString(),
-    viewerCanDelegateMembers,
+    viewerIsClanAdmin: viewerDelegateStatus.isClanAdmin,
+    viewerCanDelegateMembers: viewerDelegateStatus.canDelegateMembers,
     events: await Promise.all(events.map(async (event) => {
       const eventParticipants = participants.get(event.eventId) || [];
       const viewerCanManage = await canManageRaidEventForUser(env, event, userId, viewerKey, eventParticipants);
@@ -1286,16 +1289,22 @@ async function getPlannerViewerParticipantKey(env, userId) {
 }
 
 async function canUserDelegateClanMembers(env, userId) {
+  const status = await getUserPlannerDelegateStatus(env, userId);
+  return status.canDelegateMembers;
+}
+
+async function getUserPlannerDelegateStatus(env, userId) {
   try {
     const user = await getUser(env, userId);
-    if (!user) return false;
+    if (!user) return { isClanAdmin: false, canDelegateMembers: false };
     const freshUser = await ensureAccessToken(env, user);
     const profile = await getPlannerUserProfile(env, freshUser);
-    return await isPlannerUserClanAdmin(env, freshUser, profile)
-      && await getPlannerDelegateEnabled(env, freshUser.userId);
+    const isClanAdmin = await isPlannerUserClanAdmin(env, freshUser, profile);
+    const canDelegateMembers = isClanAdmin && await getPlannerDelegateEnabled(env, freshUser.userId);
+    return { isClanAdmin, canDelegateMembers };
   } catch (error) {
     console.warn(`Clan admin check unavailable for ${userId}`, error.message);
-    return false;
+    return { isClanAdmin: false, canDelegateMembers: false };
   }
 }
 

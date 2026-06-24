@@ -728,6 +728,7 @@
         let focusDate = new Date();
         let loading = false;
         let plannerError = '';
+        let isClanAdmin = false;
         let canDelegateMembers = false;
 
         const elements = {
@@ -836,6 +837,7 @@
                 });
                 if (!response.ok) throw new Error(await readErrorMessage(response) || 'Planner non disponibile.');
                 const data = await response.json();
+                isClanAdmin = Boolean(data.viewerIsClanAdmin);
                 canDelegateMembers = Boolean(data.viewerCanDelegateMembers);
                 events = data.events || [];
                 renderClanMemberPicker();
@@ -1265,8 +1267,9 @@
         }
 
         function renderDelegatedMemberControls() {
-            elements.delegatedMembersField.hidden = !canDelegateMembers;
-            if (!canDelegateMembers) {
+            const showDelegatedMembers = isClanAdmin && canDelegateMembers;
+            elements.delegatedMembersField.hidden = !showDelegatedMembers;
+            if (!showDelegatedMembers) {
                 selectedClanMemberIds = [];
                 elements.clanPickerCount.textContent = '0 aggiunti';
                 elements.clanMemberSelect.disabled = true;
