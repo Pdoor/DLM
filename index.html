@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Destiny Lore Master - Clan APP e Clan Planner</title>
     <meta name="description" content="Clan APP e Clan Planner di Destiny Lore Masters. Stato clan, amici Bungie, Hub Stagionale e proposte settimanali.">
-    <meta name="dlm-build" content="2026-06-24-calendar-flow-restore">
+    <meta name="dlm-build" content="2026-06-24-admin-gear-align">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Destiny Lore Masters">
     <meta property="og:title" content="Destiny Lore Master - Clan APP e Clan Planner">
@@ -145,6 +145,7 @@
         }
 
         .status-bar {
+            position: relative;
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -629,11 +630,20 @@
             .status-bar {
                 align-items: flex-start;
                 flex-direction: column;
+                padding-right: 52px;
             }
 
             .header-side {
                 justify-items: start;
                 margin-left: 0;
+            }
+
+            .settings-button {
+                position: absolute;
+                top: 20px;
+                right: 0;
+                justify-self: auto;
+                margin: 0;
             }
 
             .player-stats {
@@ -841,7 +851,7 @@
         // const D3_SIGNATURES_URL = `${WORKER_BASE_URL}/api/d3-signatures`;
         const DLM_USER_STORAGE_KEY = 'dlmNotifyUserId';
         const LIVE_STATUS_INTERVAL_MS = 60000;
-        const APP_BUILD_ID = '2026-06-24-calendar-flow-restore';
+        const APP_BUILD_ID = '2026-06-24-admin-gear-align';
 
         let currentMembers = [];
         let currentExternalFriends = [];
