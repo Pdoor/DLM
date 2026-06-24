@@ -1053,7 +1053,9 @@
             const userId = getUserId();
             const isCreator = Boolean(raidEvent.viewerCanManage || (userId && raidEvent.creatorUserId === userId));
             const joined = Boolean(raidEvent.viewerJoined || (userId && allParticipants.some((participant) => participant.userId === userId)));
-            const full = participants.length >= raidEvent.maxPlayers;
+            const maxPlayers = Number(raidEvent.maxPlayers || 0);
+            const reserveCount = Math.max(0, participants.length - maxPlayers);
+            const full = maxPlayers > 0 && participants.length >= maxPlayers;
             const card = document.createElement('div');
             card.className = 'raid-card';
 
@@ -1074,7 +1076,7 @@
 
             const seats = document.createElement('span');
             seats.className = `seats ${full ? 'full' : ''}`;
-            seats.textContent = `${participants.length} in lista · ${raidEvent.maxPlayers} posti`;
+            seats.textContent = `${participants.length} in lista - ${maxPlayers || '-'} posti${reserveCount ? ` - ${reserveCount} ${reserveCount === 1 ? 'riserva' : 'riserve'}` : ''}`;
 
             const button = document.createElement('button');
             button.className = `join-button ${joined ? 'joined' : ''}`;
