@@ -50,6 +50,8 @@ export default {
       if (url.pathname === '/api/friends-status') return await handleFriendsStatus(request, env);
       if (url.pathname === '/api/friends-details') return await handleFriendsDetails(request, env);
       if (url.pathname === '/api/activity-team') return await handleActivityTeam(request, env);
+      if (url.pathname === '/api/planner-settings' && request.method === 'GET') return await handlePlannerSettings(request, env);
+      if (url.pathname === '/api/planner-settings' && request.method === 'POST') return await handleUpdatePlannerSettings(request, env);
       if (url.pathname === '/api/raid-events' && request.method === 'GET') return await handleRaidEvents(request, env);
       if (url.pathname === '/api/raid-events' && request.method === 'POST') return await handleCreateRaidEvent(request, env);
       if (url.pathname.match(/^\/api\/raid-events\/[^/]+\/calendar\.ics$/) && request.method === 'GET') return await handleRaidEventCalendar(request, env);
@@ -270,6 +272,42 @@ async function handleActivityTeam(request, env) {
   return corsResponse(normalized, env);
 }
 
+async function handlePlannerSettings(request, env) {
+  assertEnv(env, ['BUNGIE_API_KEY']);
+  const url = new URL(request.url);
+  const userId = url.searchParams.get('userId') || '';
+  const user = await requirePlannerUser(env, userId);
+  const profile = await getPlannerUserProfile(env, user);
+  const isClanAdmin = await isPlannerUserClanAdmin(env, user, profile);
+  const delegatedMemberPlanningEnabled = isClanAdmin
+    ? await getPlannerDelegateEnabled(env, user.userId)
+    : false;
+
+  return corsResponse({
+    isClanAdmin,
+    delegatedMemberPlanningEnabled
+  }, env);
+}
+
+async function handleUpdatePlannerSettings(request, env) {
+  assertEnv(env, ['BUNGIE_API_KEY']);
+  const body = await readJsonBody(request);
+  const user = await requirePlannerUser(env, body.userId);
+  const profile = await getPlannerUserProfile(env, user);
+  const isClanAdmin = await isPlannerUserClanAdmin(env, user, profile);
+  if (!isClanAdmin) {
+    return corsResponse({ error: 'Solo gli admin del clan possono abilitare questa funzione' }, env, 403);
+  }
+
+  const enabled = Boolean(body.delegatedMemberPlanningEnabled);
+  await savePlannerDelegateSetting(env, user.userId, enabled);
+  return corsResponse({
+    ok: true,
+    isClanAdmin,
+    delegatedMemberPlanningEnabled: enabled
+  }, env);
+}
+
 async function handleRaidEvents(request, env) {
   const url = new URL(request.url);
   const weekStart = parseWeekStart(url.searchParams.get('weekStart'));
@@ -310,7 +348,7 @@ async function handleCreateRaidEvent(request, env) {
   const user = await requirePlannerUser(env, body.userId);
   const profile = await getPlannerUserProfile(env, user);
   const event = normalizeRaidEventInput(body, user, profile);
-  const canDelegateMembers = await isPlannerUserClanAdmin(env, user, profile);
+  const canDelegateMembers = await canPlannerUserDelegateMembers(env, user, profile);
   if (!canDelegateMembers && Array.isArray(body.clanMembers) && body.clanMembers.length) {
     return corsResponse({ error: 'Solo gli admin del clan possono aggiungere membri delegati' }, env, 403);
   }
@@ -388,7 +426,7 @@ async function handleUpdateRaidEvent(request, env) {
     createdAt: existing.createdAt,
     updatedAt: Date.now()
   };
-  const canDelegateMembers = await isPlannerUserClanAdmin(env, user, profile);
+  const canDelegateMembers = await canPlannerUserDelegateMembers(env, user, profile);
   if (!canDelegateMembers && Array.isArray(body.clanMembers) && body.clanMembers.length) {
     return corsResponse({ error: 'Solo gli admin del clan possono aggiungere membri delegati' }, env, 403);
   }
@@ -436,7 +474,7 @@ async function handleAddRaidEventMember(request, env) {
   if (!await canManageRaidEventWithProfile(env, event, user, profile)) {
     return corsResponse({ error: 'Solo il promoter puo aggiungere membri' }, env, 403);
   }
-  if (!await isPlannerUserClanAdmin(env, user, profile)) {
+  if (!await canPlannerUserDelegateMembers(env, user, profile)) {
     return corsResponse({ error: 'Solo gli admin del clan possono aggiungere membri delegati' }, env, 403);
   }
 
@@ -1253,11 +1291,17 @@ async function canUserDelegateClanMembers(env, userId) {
     if (!user) return false;
     const freshUser = await ensureAccessToken(env, user);
     const profile = await getPlannerUserProfile(env, freshUser);
-    return isPlannerUserClanAdmin(env, freshUser, profile);
+    return await isPlannerUserClanAdmin(env, freshUser, profile)
+      && await getPlannerDelegateEnabled(env, freshUser.userId);
   } catch (error) {
     console.warn(`Clan admin check unavailable for ${userId}`, error.message);
     return false;
   }
+}
+
+async function canPlannerUserDelegateMembers(env, user, profile) {
+  return await isPlannerUserClanAdmin(env, user, profile)
+    && await getPlannerDelegateEnabled(env, user.userId);
 }
 
 async function isPlannerUserClanAdmin(env, user, profile) {
@@ -1712,6 +1756,40 @@ async function touchRaidDiscordMessage(env, eventId) {
     SET updated_at = ?
     WHERE event_id = ?
   `).bind(Date.now(), eventId).run();
+}
+
+async function ensurePlannerDelegateSettingsTable(env) {
+  await env.DLM_DB.prepare(`
+    CREATE TABLE IF NOT EXISTS planner_delegate_settings (
+      user_id TEXT PRIMARY KEY,
+      enabled INTEGER NOT NULL DEFAULT 0,
+      created_at INTEGER NOT NULL,
+      updated_at INTEGER NOT NULL
+    )
+  `).run();
+}
+
+async function getPlannerDelegateEnabled(env, userId) {
+  await ensurePlannerDelegateSettingsTable(env);
+  const row = await env.DLM_DB.prepare(`
+    SELECT enabled
+    FROM planner_delegate_settings
+    WHERE user_id = ?
+  `).bind(userId).first();
+  return Boolean(row?.enabled);
+}
+
+async function savePlannerDelegateSetting(env, userId, enabled) {
+  await ensurePlannerDelegateSettingsTable(env);
+  const now = Date.now();
+  await env.DLM_DB.prepare(`
+    INSERT INTO planner_delegate_settings (
+      user_id, enabled, created_at, updated_at
+    ) VALUES (?, ?, ?, ?)
+    ON CONFLICT(user_id) DO UPDATE SET
+      enabled = excluded.enabled,
+      updated_at = excluded.updated_at
+  `).bind(userId, enabled ? 1 : 0, now, now).run();
 }
 
 async function listRaidEvents(env, startIso, endIso) {

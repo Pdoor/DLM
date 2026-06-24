@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Destiny Lore Master - Clan APP e Clan Planner</title>
     <meta name="description" content="Clan APP e Clan Planner di Destiny Lore Masters. Stato clan, amici Bungie, Hub Stagionale e proposte settimanali.">
-    <meta name="dlm-build" content="2026-06-24-stable-week-planner">
+    <meta name="dlm-build" content="2026-06-24-admin-delegate-settings">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Destiny Lore Masters">
     <meta property="og:title" content="Destiny Lore Master - Clan APP e Clan Planner">
@@ -121,6 +121,14 @@
         .notify-button:disabled {
             cursor: not-allowed;
             opacity: .55;
+        }
+
+        .settings-button {
+            width: 38px;
+            min-width: 38px;
+            padding: 8px;
+            font-size: 17px;
+            line-height: 1;
         }
 
         .notify-status {
@@ -485,6 +493,27 @@
             position: relative;
         }
 
+        .settings-panel {
+            display: grid;
+            gap: 12px;
+        }
+
+        .settings-row {
+            display: grid;
+            gap: 6px;
+            color: var(--muted);
+            font-size: 13px;
+            line-height: 1.4;
+        }
+
+        .settings-row label {
+            display: flex;
+            align-items: flex-start;
+            gap: 8px;
+            color: var(--text);
+            font-weight: bold;
+        }
+
         .modal-title {
             margin: 0 36px 4px 0;
             font-size: 20px;
@@ -766,6 +795,7 @@
                 <button class="notify-button" id="seasonalHubButton" type="button" disabled>Hub Stagionale</button>
                 <button class="notify-button" id="raidPlannerButton" type="button">Clan Planner</button>
                 <button class="notify-button" id="dimButton" type="button">Apri DIM</button>
+                <button class="notify-button settings-button" id="settingsButton" type="button" hidden title="Impostazioni admin">&#9881;</button>
             </div>
             <div class="notify-status" id="notifyStatus">Accedi con Bungie per il tuo HUB Stagionale e per il Clan Planner.</div>
         </section>
@@ -782,6 +812,24 @@
         </div>
     </div>
 
+    <div id="settingsModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="settingsModalTitle">
+        <div class="modal-content">
+            <button class="close-modal" id="settingsCloseButton" type="button" aria-label="Chiudi">&times;</button>
+            <h2 class="modal-title" id="settingsModalTitle">Impostazioni admin</h2>
+            <div class="settings-panel">
+                <div class="settings-row">
+                    <label>
+                        <input id="delegateMembersToggle" type="checkbox">
+                        Abilita per me la pianificazione delegata dei membri
+                    </label>
+                    <span>Default disabilitato. Se attivo, solo tu potrai aggiungere altri membri agli eventi dal Clan Planner. Gli altri membri aggiunti da te non avranno automaticamente l'agenda del device impegnata.</span>
+                </div>
+                <button class="notify-button" id="saveSettingsButton" type="button">Salva impostazioni</button>
+                <div class="notify-status" id="settingsStatus"></div>
+            </div>
+        </div>
+    </div>
+
     <script>
         const GROUP_ID = '5420062';
         const REMOTE_GROUP_ID = '6761737';
@@ -791,7 +839,7 @@
         // const D3_SIGNATURES_URL = `${WORKER_BASE_URL}/api/d3-signatures`;
         const DLM_USER_STORAGE_KEY = 'dlmNotifyUserId';
         const LIVE_STATUS_INTERVAL_MS = 60000;
-        const APP_BUILD_ID = '2026-06-24-stable-week-planner';
+        const APP_BUILD_ID = '2026-06-24-admin-delegate-settings';
 
         let currentMembers = [];
         let currentExternalFriends = [];
@@ -824,6 +872,12 @@
             seasonalHubButton: document.getElementById('seasonalHubButton'),
             raidPlannerButton: document.getElementById('raidPlannerButton'),
             dimButton: document.getElementById('dimButton'),
+            settingsButton: document.getElementById('settingsButton'),
+            settingsModal: document.getElementById('settingsModal'),
+            settingsCloseButton: document.getElementById('settingsCloseButton'),
+            delegateMembersToggle: document.getElementById('delegateMembersToggle'),
+            saveSettingsButton: document.getElementById('saveSettingsButton'),
+            settingsStatus: document.getElementById('settingsStatus'),
             status: document.getElementById('notifyStatus')
         };
 
@@ -842,6 +896,12 @@
         });
         notifyElements.dimButton.addEventListener('click', () => {
             window.open('https://app.destinyitemmanager.com/', '_blank', 'noopener');
+        });
+        notifyElements.settingsButton.addEventListener('click', openSettingsModal);
+        notifyElements.settingsCloseButton.addEventListener('click', closeSettingsModal);
+        notifyElements.saveSettingsButton.addEventListener('click', savePlannerSettings);
+        notifyElements.settingsModal.addEventListener('click', (event) => {
+            if (event.target === notifyElements.settingsModal) closeSettingsModal();
         });
         document.querySelector('.close-modal').addEventListener('click', closeModal);
         window.addEventListener('click', (event) => {
@@ -888,9 +948,11 @@
             } else if (storedUserId) {
                 notifyElements.loginButton.textContent = 'Autenticato';
                 notifyElements.status.textContent = 'Accesso Bungie registrato. Clan Planner e Hub Stagionale disponibili.';
+                loadPlannerSettings();
             } else {
                 notifyElements.loginButton.textContent = 'Accedi con Bungie';
                 notifyElements.status.textContent = 'Accedi con Bungie per il tuo HUB Stagionale e per il Clan Planner.';
+                notifyElements.settingsButton.hidden = true;
             }
         }
 
@@ -900,6 +962,67 @@
             }
 
             window.location.href = `${WORKER_BASE_URL}/auth/login`;
+        }
+
+        async function loadPlannerSettings() {
+            const userId = getStoredUserId();
+            if (!userId) return;
+
+            try {
+                const response = await fetch(`${WORKER_BASE_URL}/api/planner-settings?userId=${encodeURIComponent(userId)}&v=${Date.now()}`, {
+                    cache: 'no-store'
+                });
+                if (!response.ok) throw new Error(await readErrorMessage(response) || 'Impostazioni non disponibili.');
+                const data = await response.json();
+                notifyElements.settingsButton.hidden = !data.isClanAdmin;
+                notifyElements.delegateMembersToggle.checked = Boolean(data.delegatedMemberPlanningEnabled);
+                notifyElements.settingsStatus.textContent = data.isClanAdmin
+                    ? 'Funzione riservata agli admin del clan.'
+                    : '';
+            } catch (error) {
+                console.warn('Impostazioni planner non disponibili:', error);
+                notifyElements.settingsButton.hidden = true;
+            }
+        }
+
+        function openSettingsModal() {
+            notifyElements.settingsModal.style.display = 'flex';
+            loadPlannerSettings();
+        }
+
+        function closeSettingsModal() {
+            notifyElements.settingsModal.style.display = 'none';
+        }
+
+        async function savePlannerSettings() {
+            const userId = getStoredUserId();
+            if (!userId) {
+                notifyElements.settingsStatus.textContent = 'Accesso Bungie richiesto.';
+                return;
+            }
+
+            notifyElements.saveSettingsButton.disabled = true;
+            notifyElements.settingsStatus.textContent = 'Salvataggio...';
+            try {
+                const response = await fetch(`${WORKER_BASE_URL}/api/planner-settings`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'text/plain;charset=UTF-8' },
+                    body: JSON.stringify({
+                        userId,
+                        delegatedMemberPlanningEnabled: notifyElements.delegateMembersToggle.checked
+                    })
+                });
+                if (!response.ok) throw new Error(await readErrorMessage(response) || 'Salvataggio non riuscito.');
+                const data = await response.json();
+                notifyElements.delegateMembersToggle.checked = Boolean(data.delegatedMemberPlanningEnabled);
+                notifyElements.settingsStatus.textContent = data.delegatedMemberPlanningEnabled
+                    ? 'Pianificazione delegata abilitata per il tuo profilo.'
+                    : 'Pianificazione delegata disabilitata per il tuo profilo.';
+            } catch (error) {
+                notifyElements.settingsStatus.textContent = error.message || 'Salvataggio non riuscito.';
+            } finally {
+                notifyElements.saveSettingsButton.disabled = false;
+            }
         }
 
         function saveUserId(userId) {
