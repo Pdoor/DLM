@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T22:05:44.069Z",
+  "generatedAt": "2026-06-25T23:54:18.561Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,50 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 502,
-      "lastPlayedTimestamp": 1782425099000,
-      "lastActivityTimestamp": 1782424561000,
-      "lastActivityText": "Neomuna il 25/06/2026 21:56",
+      "powerLevel": 486,
+      "lastPlayedTimestamp": 1782428787000,
+      "lastActivityTimestamp": 1782428709000,
+      "lastActivityText": "Neomuna il 25/06/2026 23:05",
       "activities": [
+        {
+          "name": "Neomuna",
+          "period": "2026-06-25T23:05:09Z",
+          "instanceId": "16972629123"
+        },
+        {
+          "name": "Partizione: ordigno",
+          "period": "2026-06-25T22:53:16Z",
+          "instanceId": "16972603288"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-06-25T22:51:51Z",
+          "instanceId": "16972557593"
+        },
+        {
+          "name": "Sovraccarico terminale: PA",
+          "period": "2026-06-25T22:40:27Z",
+          "instanceId": "16972550973"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-06-25T22:37:06Z",
+          "instanceId": "16972508367"
+        },
+        {
+          "name": "Sovraccarico terminale: PA",
+          "period": "2026-06-25T22:09:41Z",
+          "instanceId": "16972495263"
+        },
+        {
+          "name": "Sovraccarico terminale: PA",
+          "period": "2026-06-25T21:58:08Z",
+          "instanceId": "16972391720"
+        },
         {
           "name": "Neomuna",
           "period": "2026-06-25T21:56:01Z",
@@ -31,41 +66,136 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-06-25T20:21:41Z",
           "instanceId": "16972012012"
+        }
+      ]
+    },
+    {
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/19c19292462c171c82216996684fea0d.jpg",
+      "powerLevel": 286,
+      "lastPlayedTimestamp": 1782428673000,
+      "lastActivityTimestamp": 1782425966000,
+      "lastActivityText": "Ultimo desiderio: Standard il 25/06/2026 22:19",
+      "activities": [
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-25T22:19:26Z",
+          "instanceId": "16972465423"
         },
         {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-25T20:13:34Z",
-          "instanceId": "16971984959"
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-25T21:54:37Z",
+          "instanceId": "16972400108"
         },
         {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-25T20:06:21Z",
-          "instanceId": "16971955807"
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-25T21:11:43Z",
+          "instanceId": "16972307586"
         },
         {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-25T19:59:21Z",
-          "instanceId": "16971927213"
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-25T20:51:20Z",
+          "instanceId": "16972172951"
         },
         {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-25T19:49:45Z",
-          "instanceId": "16971892762"
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-25T19:15:50Z",
+          "instanceId": "16972096325"
         },
         {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-25T19:42:25Z",
-          "instanceId": "16971866009"
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-25T18:42:55Z",
+          "instanceId": "16971825102"
         },
         {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-25T19:34:24Z",
-          "instanceId": "16971834331"
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-06-24T19:56:18Z",
+          "instanceId": "16967443533"
         },
         {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-25T19:26:22Z",
-          "instanceId": "16971805847"
+          "name": "Poligono di Tiro",
+          "period": "2026-06-21T12:23:01Z",
+          "instanceId": "16948879646"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-06-21T11:52:02Z",
+          "instanceId": "16948751114"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-06-21T11:50:27Z",
+          "instanceId": "16948785260"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Scrittore spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/38f204eb25ac88463cf9b7f50312f82a.jpg",
+      "powerLevel": 403,
+      "lastPlayedTimestamp": 1782426622000,
+      "lastActivityTimestamp": 1782425966000,
+      "lastActivityText": "Ultimo desiderio: Standard il 25/06/2026 22:19",
+      "activities": [
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-25T22:19:26Z",
+          "instanceId": "16972465423"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-25T21:54:37Z",
+          "instanceId": "16972400108"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-25T21:11:43Z",
+          "instanceId": "16972307586"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-25T20:51:20Z",
+          "instanceId": "16972172951"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-25T19:15:50Z",
+          "instanceId": "16972096325"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-25T18:42:55Z",
+          "instanceId": "16971825102"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-06-24T19:56:18Z",
+          "instanceId": "16967443533"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-06-23T17:30:12Z",
+          "instanceId": "16961993738"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-06-21T15:21:45Z",
+          "instanceId": "16949780745"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-21T14:46:10Z",
+          "instanceId": "16949482691"
         }
       ]
     },
@@ -77,8 +207,8 @@
       "className": "Cacciatori",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 444,
-      "lastPlayedTimestamp": 1782424824000,
+      "powerLevel": 432,
+      "lastPlayedTimestamp": 1782431632000,
       "lastActivityTimestamp": 1782422631000,
       "lastActivityText": "Operazione: Scudo del Serafino: Personalizzata il 25/06/2026 21:23",
       "activities": [
@@ -196,136 +326,6 @@
           "name": "Profezia",
           "period": "2026-06-23T19:47:03Z",
           "instanceId": "16961990058"
-        }
-      ]
-    },
-    {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/19c19292462c171c82216996684fea0d.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1782425085000,
-      "lastActivityTimestamp": 1782421903000,
-      "lastActivityText": "Ultimo desiderio: Standard il 25/06/2026 21:11",
-      "activities": [
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-25T21:11:43Z",
-          "instanceId": "16972307586"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-25T20:51:20Z",
-          "instanceId": "16972172951"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-25T19:15:50Z",
-          "instanceId": "16972096325"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-25T18:42:55Z",
-          "instanceId": "16971825102"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-06-24T19:56:18Z",
-          "instanceId": "16967443533"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-21T12:23:01Z",
-          "instanceId": "16948879646"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-21T11:52:02Z",
-          "instanceId": "16948751114"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-06-21T11:50:27Z",
-          "instanceId": "16948785260"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-06-20T22:05:17Z",
-          "instanceId": "16945240987"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-06-20T21:49:25Z",
-          "instanceId": "16945180045"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Scrittore spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/38f204eb25ac88463cf9b7f50312f82a.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1782425097000,
-      "lastActivityTimestamp": 1782421903000,
-      "lastActivityText": "Ultimo desiderio: Standard il 25/06/2026 21:11",
-      "activities": [
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-25T21:11:43Z",
-          "instanceId": "16972307586"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-25T20:51:20Z",
-          "instanceId": "16972172951"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-25T19:15:50Z",
-          "instanceId": "16972096325"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-25T18:42:55Z",
-          "instanceId": "16971825102"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-06-24T19:56:18Z",
-          "instanceId": "16967443533"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-06-23T17:30:12Z",
-          "instanceId": "16961993738"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-06-21T15:21:45Z",
-          "instanceId": "16949780745"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-21T14:46:10Z",
-          "instanceId": "16949482691"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-06-20T22:05:17Z",
-          "instanceId": "16945240987"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-06-20T21:49:25Z",
-          "instanceId": "16945180045"
         }
       ]
     },
@@ -528,12 +528,12 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 458,
-      "lastPlayedTimestamp": 1782424665000,
+      "lastPlayedTimestamp": 1782426872000,
       "lastActivityTimestamp": 1782421583000,
       "lastActivityText": "Operazione: Scudo del Serafino: Personalizzata il 25/06/2026 21:06",
       "activities": [
@@ -593,12 +593,12 @@
       "displayName": "ClaudeFj#8206",
       "membershipId": "4611686018522886434",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
       "powerLevel": 473,
-      "lastPlayedTimestamp": 1782425093000,
+      "lastPlayedTimestamp": 1782426963000,
       "lastActivityTimestamp": 1782421583000,
       "lastActivityText": "Operazione: Scudo del Serafino: Personalizzata il 25/06/2026 21:06",
       "activities": [
@@ -658,12 +658,12 @@
       "displayName": "mattia08pro#6310",
       "membershipId": "4611686018513701477",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Intrepido",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/dac5ae759ce9556eaf49d6f8776713f5.jpg",
       "powerLevel": 512,
-      "lastPlayedTimestamp": 1782425115000,
+      "lastPlayedTimestamp": 1782427107000,
       "lastActivityTimestamp": 1782421583000,
       "lastActivityText": "Operazione: Scudo del Serafino: Personalizzata il 25/06/2026 21:06",
       "activities": [
@@ -781,71 +781,6 @@
           "name": "Caldera: Personalizzata",
           "period": "2026-06-16T17:46:18Z",
           "instanceId": "16918813699"
-        }
-      ]
-    },
-    {
-      "displayName": "BLUE_JAY_5642#1205",
-      "membershipId": "4611686018506353436",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Signora del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8bde4cceae744ef8108f5a9bbd3c2738.jpg",
-      "powerLevel": 375,
-      "lastPlayedTimestamp": 1782425081000,
-      "lastActivityTimestamp": 1782416417000,
-      "lastActivityText": "Cosmodromo il 25/06/2026 19:40",
-      "activities": [
-        {
-          "name": "Cosmodromo",
-          "period": "2026-06-25T19:40:17Z",
-          "instanceId": "16972021265"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-06-25T18:23:02Z",
-          "instanceId": "16971833034"
-        },
-        {
-          "name": "Il setaccio",
-          "period": "2026-06-25T17:43:01Z",
-          "instanceId": "16971538051"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-25T17:01:43Z",
-          "instanceId": "16971409119"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-25T14:59:38Z",
-          "instanceId": "16971037248"
-        },
-        {
-          "name": "Il messaggio: Normale",
-          "period": "2026-06-25T13:55:22Z",
-          "instanceId": "16970857822"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-25T13:54:12Z",
-          "instanceId": "16970672852"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-06-25T13:15:17Z",
-          "instanceId": "16970668570"
-        },
-        {
-          "name": "Derealizzazione: Personalizzata",
-          "period": "2026-06-25T12:44:21Z",
-          "instanceId": "16970539924"
-        },
-        {
-          "name": "Invasione",
-          "period": "2026-06-25T12:35:51Z",
-          "instanceId": "16970461691"
         }
       ]
     },
@@ -1951,6 +1886,71 @@
           "name": "Nessus, Centauro Instabile",
           "period": "2026-06-22T15:29:19Z",
           "instanceId": "16955708192"
+        }
+      ]
+    },
+    {
+      "displayName": "BLUE_JAY_5642#1205",
+      "membershipId": "4611686018506353436",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b531d829e55b6f13555e8cae172dc0b3.jpg",
+      "powerLevel": 306,
+      "lastPlayedTimestamp": 1782428370000,
+      "lastActivityTimestamp": 1782138564000,
+      "lastActivityText": "La Città Sognante il 22/06/2026 14:29",
+      "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-06-22T14:29:24Z",
+          "instanceId": "16955521137"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-06-22T12:51:20Z",
+          "instanceId": "16955335442"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-06-17T21:18:46Z",
+          "instanceId": "16926324648"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-15T20:04:06Z",
+          "instanceId": "16913127676"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-15T19:45:59Z",
+          "instanceId": "16913043027"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-15T18:21:04Z",
+          "instanceId": "16912509467"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-15T18:10:10Z",
+          "instanceId": "16912413889"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-15T17:55:11Z",
+          "instanceId": "16912356678"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-15T17:43:20Z",
+          "instanceId": "16912279687"
+        },
+        {
+          "name": "Missione: L'invito: Normale",
+          "period": "2025-10-29T18:22:21Z",
+          "instanceId": "16607282075"
         }
       ]
     },
