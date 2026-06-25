@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T12:26:09.586Z",
+  "generatedAt": "2026-06-25T13:12:13.826Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,21 @@
       "className": "Cacciatori",
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8bde4cceae744ef8108f5a9bbd3c2738.jpg",
-      "powerLevel": 416,
-      "lastPlayedTimestamp": 1782390056000,
-      "lastActivityTimestamp": 1782387986000,
-      "lastActivityText": "Sfida degli Anziani: Con matchmaking il 25/06/2026 11:46",
+      "powerLevel": 422,
+      "lastPlayedTimestamp": 1782393105000,
+      "lastActivityTimestamp": 1782391461000,
+      "lastActivityText": "Derealizzazione: Personalizzata il 25/06/2026 12:44",
       "activities": [
+        {
+          "name": "Derealizzazione: Personalizzata",
+          "period": "2026-06-25T12:44:21Z",
+          "instanceId": "16970539924"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-06-25T12:35:51Z",
+          "instanceId": "16970461691"
+        },
         {
           "name": "Sfida degli Anziani: Con matchmaking",
           "period": "2026-06-25T11:46:26Z",
@@ -53,19 +63,74 @@
           "instanceId": "16970014208"
         },
         {
-          "name": "Zona Morta Europea",
-          "period": "2026-06-24T21:09:01Z",
-          "instanceId": "16967772008"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-06-24T20:14:03Z",
-          "instanceId": "16967429408"
-        },
-        {
           "name": "Lega Gare di Astori",
           "period": "2026-06-24T18:35:59Z",
           "instanceId": "16967796056"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1782392970000,
+      "lastActivityTimestamp": 1782391371000,
+      "lastActivityText": "Conquista modalità esperto: Luna: Personalizzata il 25/06/2026 12:42",
+      "activities": [
+        {
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-06-25T12:42:51Z",
+          "instanceId": "16970537642"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-06-25T12:34:43Z",
+          "instanceId": "16970462241"
+        },
+        {
+          "name": "Resistenza crescente",
+          "period": "2026-06-25T12:29:28Z",
+          "instanceId": "16970446065"
+        },
+        {
+          "name": "Campi di battaglia: Condotto: Con matchmaking",
+          "period": "2026-06-25T10:42:08Z",
+          "instanceId": "16970212834"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-06-25T09:57:10Z",
+          "instanceId": "16970116825"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-06-25T09:39:56Z",
+          "instanceId": "16970069981"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-06-25T09:20:22Z",
+          "instanceId": "16970056180"
+        },
+        {
+          "name": "Labirinto di Veles: Maestro",
+          "period": "2026-06-25T08:46:14Z",
+          "instanceId": "16969988383"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-06-25T08:40:23Z",
+          "instanceId": "16970476015"
+        },
+        {
+          "name": "Labirinto di Veles: Maestro",
+          "period": "2026-06-25T08:22:24Z",
+          "instanceId": "16969929562"
         }
       ]
     },
@@ -196,71 +261,6 @@
           "name": "Poligono di Tiro",
           "period": "2026-06-17T19:10:25Z",
           "instanceId": "16925645891"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1782385213000,
-      "lastActivityTimestamp": 1782384128000,
-      "lastActivityText": "Campi di battaglia: Condotto: Con matchmaking il 25/06/2026 10:42",
-      "activities": [
-        {
-          "name": "Campi di battaglia: Condotto: Con matchmaking",
-          "period": "2026-06-25T10:42:08Z",
-          "instanceId": "16970212834"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-06-25T09:57:10Z",
-          "instanceId": "16970116825"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-06-25T09:39:56Z",
-          "instanceId": "16970069981"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-06-25T09:20:22Z",
-          "instanceId": "16970056180"
-        },
-        {
-          "name": "Labirinto di Veles: Maestro",
-          "period": "2026-06-25T08:46:14Z",
-          "instanceId": "16969988383"
-        },
-        {
-          "name": "Labirinto di Veles: Maestro",
-          "period": "2026-06-25T08:22:24Z",
-          "instanceId": "16969929562"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-06-25T08:09:50Z",
-          "instanceId": "16969894494"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Audace",
-          "period": "2026-06-24T16:17:44Z",
-          "instanceId": "16966599080"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-06-24T14:46:21Z",
-          "instanceId": "16966047830"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-06-24T14:09:37Z",
-          "instanceId": "16965960256"
         }
       ]
     },
@@ -658,12 +658,12 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 496,
-      "lastPlayedTimestamp": 1782342875000,
+      "lastPlayedTimestamp": 1782393059000,
       "lastActivityTimestamp": 1782339721000,
       "lastActivityText": "La fine di Crota: Standard il 24/06/2026 22:22",
       "activities": [
