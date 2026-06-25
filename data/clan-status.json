@@ -1,9 +1,139 @@
 {
-  "generatedAt": "2026-06-25T01:33:14.171Z",
+  "generatedAt": "2026-06-25T06:13:56.749Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Krikka93#463",
+      "membershipId": "4611686018504053383",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatrice",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
+      "powerLevel": 518,
+      "lastPlayedTimestamp": 1782367914000,
+      "lastActivityTimestamp": 1782366264000,
+      "lastActivityText": "La corrotta: Con matchmaking il 25/06/2026 05:44",
+      "activities": [
+        {
+          "name": "La corrotta: Con matchmaking",
+          "period": "2026-06-25T05:44:24Z",
+          "instanceId": "16969529540"
+        },
+        {
+          "name": "La corrotta: Con matchmaking",
+          "period": "2026-06-25T05:30:18Z",
+          "instanceId": "16969488419"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-20T20:04:39Z",
+          "instanceId": "16945260471"
+        },
+        {
+          "name": "Bis in evidenza: Mente Consacrata: Pantheon",
+          "period": "2026-06-20T20:02:51Z",
+          "instanceId": "16944553771"
+        },
+        {
+          "name": "Bis in evidenza: Mente Consacrata: Pantheon",
+          "period": "2026-06-20T20:00:43Z",
+          "instanceId": "16944546007"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-20T19:58:24Z",
+          "instanceId": "16944528286"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-20T19:46:45Z",
+          "instanceId": "16944524959"
+        },
+        {
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-06-17T17:10:11Z",
+          "instanceId": "16925084761"
+        },
+        {
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-06-17T17:06:55Z",
+          "instanceId": "16924998097"
+        },
+        {
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-06-17T17:01:49Z",
+          "instanceId": "16924985924"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/fc8a4349dc04777c474ec140c7b66d9e.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1782367110000,
+      "lastActivityTimestamp": 1782366133000,
+      "lastActivityText": "Labirinto di Veles: Maestro il 25/06/2026 05:42",
+      "activities": [
+        {
+          "name": "Labirinto di Veles: Maestro",
+          "period": "2026-06-25T05:42:13Z",
+          "instanceId": "16969522681"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-06-25T05:32:13Z",
+          "instanceId": "16969475151"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-06-25T05:01:33Z",
+          "instanceId": "16969443804"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-06-24T06:44:19Z",
+          "instanceId": "16964780976"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-06-24T06:21:41Z",
+          "instanceId": "16964650575"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-06-24T04:46:02Z",
+          "instanceId": "16964333717"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-21T07:13:01Z",
+          "instanceId": "16947846974"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-21T06:59:59Z",
+          "instanceId": "16947801495"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-06-21T06:11:32Z",
+          "instanceId": "16947688081"
+        },
+        {
+          "name": "La Guerriera: Con matchmaking",
+          "period": "2026-06-21T04:41:29Z",
+          "instanceId": "16947199371"
+        }
+      ]
+    },
     {
       "displayName": "nubires#8588",
       "membershipId": "4611686018433412718",
@@ -911,71 +1041,6 @@
           "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
           "period": "2026-06-23T12:12:44Z",
           "instanceId": "16961056908"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1782322624000,
-      "lastActivityTimestamp": 1782317864000,
-      "lastActivityText": "Fuoco e ghiaccio: Audace il 24/06/2026 16:17",
-      "activities": [
-        {
-          "name": "Fuoco e ghiaccio: Audace",
-          "period": "2026-06-24T16:17:44Z",
-          "instanceId": "16966599080"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-06-24T14:46:21Z",
-          "instanceId": "16966047830"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-06-24T14:09:37Z",
-          "instanceId": "16965960256"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-06-24T13:52:59Z",
-          "instanceId": "16965846478"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-06-24T13:32:10Z",
-          "instanceId": "16965776444"
-        },
-        {
-          "name": "Gloria futura: Leggendaria",
-          "period": "2026-06-23T18:21:06Z",
-          "instanceId": "16961717370"
-        },
-        {
-          "name": "Il Relitto",
-          "period": "2026-06-23T18:17:30Z",
-          "instanceId": "16961499382"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-06-23T18:05:06Z",
-          "instanceId": "16961491025"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-06-23T18:03:09Z",
-          "instanceId": "16961439110"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-06-23T17:52:43Z",
-          "instanceId": "16961433191"
         }
       ]
     },
@@ -1951,71 +2016,6 @@
           "name": "Volta di Vetro: Standard",
           "period": "2025-03-18T21:20:54Z",
           "instanceId": "16000654087"
-        }
-      ]
-    },
-    {
-      "displayName": "Krikka93#463",
-      "membershipId": "4611686018504053383",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatrice",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1781994050000,
-      "lastActivityTimestamp": 1781985879000,
-      "lastActivityText": "Pantheon: Morgeth soverchiante: Personalizzata il 20/06/2026 20:04",
-      "activities": [
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-06-20T20:04:39Z",
-          "instanceId": "16945260471"
-        },
-        {
-          "name": "Bis in evidenza: Mente Consacrata: Pantheon",
-          "period": "2026-06-20T20:02:51Z",
-          "instanceId": "16944553771"
-        },
-        {
-          "name": "Bis in evidenza: Mente Consacrata: Pantheon",
-          "period": "2026-06-20T20:00:43Z",
-          "instanceId": "16944546007"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-06-20T19:58:24Z",
-          "instanceId": "16944528286"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-20T19:46:45Z",
-          "instanceId": "16944524959"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-06-17T17:10:11Z",
-          "instanceId": "16925084761"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-06-17T17:06:55Z",
-          "instanceId": "16924998097"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-06-17T17:01:49Z",
-          "instanceId": "16924985924"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-06-17T16:48:55Z",
-          "instanceId": "16924962439"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-17T09:59:52Z",
-          "instanceId": "16923609734"
         }
       ]
     },
