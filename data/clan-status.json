@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T23:10:13.614Z",
+  "generatedAt": "2026-06-25T01:33:14.171Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,16 @@
       "className": "Stregoni",
       "title": "AUDACE",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 501,
-      "lastPlayedTimestamp": 1782341795000,
-      "lastActivityTimestamp": 1782341604000,
-      "lastActivityText": "Neomuna il 24/06/2026 22:53",
+      "powerLevel": 507,
+      "lastPlayedTimestamp": 1782345984000,
+      "lastActivityTimestamp": 1782343652000,
+      "lastActivityText": "Impero: Leggendaria il 24/06/2026 23:27",
       "activities": [
+        {
+          "name": "Impero: Leggendaria",
+          "period": "2026-06-24T23:27:32Z",
+          "instanceId": "16968111943"
+        },
         {
           "name": "Neomuna",
           "period": "2026-06-24T22:53:24Z",
@@ -61,11 +66,6 @@
           "name": "Zona Morta Europea",
           "period": "2026-06-21T23:15:55Z",
           "instanceId": "16952103866"
-        },
-        {
-          "name": "Creazione: Personalizzata",
-          "period": "2026-06-21T21:24:19Z",
-          "instanceId": "16951526630"
         }
       ]
     },
@@ -73,15 +73,20 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 507,
-      "lastPlayedTimestamp": 1782342469000,
-      "lastActivityTimestamp": 1782339077000,
-      "lastActivityText": "Azzardo: Con matchmaking il 24/06/2026 22:11",
+      "powerLevel": 496,
+      "lastPlayedTimestamp": 1782342875000,
+      "lastActivityTimestamp": 1782339721000,
+      "lastActivityText": "La fine di Crota: Standard il 24/06/2026 22:22",
       "activities": [
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-24T22:22:01Z",
+          "instanceId": "16967925811"
+        },
         {
           "name": "Azzardo: Con matchmaking",
           "period": "2026-06-24T22:11:17Z",
@@ -126,11 +131,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-06-24T18:12:08Z",
           "instanceId": "16966766693"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-24T17:58:04Z",
-          "instanceId": "16966705302"
         }
       ]
     },
@@ -1763,64 +1763,64 @@
       "displayName": "Death Shadow#7398",
       "membershipId": "4611686018440690721",
       "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Guardia della Regina",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 377,
-      "lastPlayedTimestamp": 1782049595000,
-      "lastActivityTimestamp": 1782049201000,
-      "lastActivityText": "Poligono di Tiro il 21/06/2026 13:40",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Leggenda",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
+      "powerLevel": 415,
+      "lastPlayedTimestamp": 1782343593000,
+      "lastActivityTimestamp": 1782043381000,
+      "lastActivityText": "Sfida degli Anziani: Con matchmaking il 21/06/2026 12:03",
       "activities": [
         {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-21T13:40:01Z",
-          "instanceId": "16949157069"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-06-21T12:48:53Z",
-          "instanceId": "16948967499"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-17T19:33:09Z",
-          "instanceId": "16925703185"
-        },
-        {
-          "name": "Bis in evidenza: Mente Consacrata: Pantheon",
-          "period": "2026-06-17T19:32:15Z",
-          "instanceId": "16925679225"
+          "name": "Sfida degli Anziani: Con matchmaking",
+          "period": "2026-06-21T12:03:01Z",
+          "instanceId": "16948928624"
         },
         {
           "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-06-17T19:29:06Z",
-          "instanceId": "16925663878"
+          "period": "2026-06-20T20:04:39Z",
+          "instanceId": "16945260471"
         },
         {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-17T19:23:50Z",
-          "instanceId": "16925660376"
+          "name": "Bis in evidenza: Mente Consacrata: Pantheon",
+          "period": "2026-06-20T20:00:43Z",
+          "instanceId": "16944546007"
         },
         {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-06-16T15:27:15Z",
-          "instanceId": "16918705400"
+          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
+          "period": "2026-06-20T15:41:30Z",
+          "instanceId": "16943390256"
         },
         {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-05-23T19:57:29Z",
-          "instanceId": "16848539946"
+          "name": "La Città Sognante",
+          "period": "2026-06-19T23:25:54Z",
+          "instanceId": "16939073568"
         },
         {
-          "name": "Logistica R1: Personalizzata",
-          "period": "2025-08-23T14:51:49Z",
-          "instanceId": "16489830282"
+          "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
+          "period": "2026-06-19T22:15:57Z",
+          "instanceId": "16938782606"
         },
         {
-          "name": "Bis: Personalizzata",
-          "period": "2025-08-23T14:04:28Z",
-          "instanceId": "16490311525"
+          "name": "Pantheon: Calus risplendente: Personalizzata",
+          "period": "2026-06-18T22:15:01Z",
+          "instanceId": "16932600750"
+        },
+        {
+          "name": "Pantheon: Calus risplendente: Personalizzata",
+          "period": "2026-06-18T22:10:48Z",
+          "instanceId": "16932582096"
+        },
+        {
+          "name": "Pantheon: Calus risplendente: Personalizzata",
+          "period": "2026-06-18T22:06:00Z",
+          "instanceId": "16932560547"
+        },
+        {
+          "name": "Pantheon: Calus risplendente: Personalizzata",
+          "period": "2026-06-18T22:01:55Z",
+          "instanceId": "16932528766"
         }
       ]
     },
