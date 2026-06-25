@@ -2208,7 +2208,7 @@ function buildDiscordRaidEventPayload(env, event) {
     username: 'DLM Clan Planner',
     content: deleted
       ? 'Attivita annullata nel Clan Planner.'
-      : 'Attivita proposta nel Clan Planner.',
+      : 'Attivita proposta nel Clan Planner - click sul titolo in blu per aggiungerti.',
     embeds: [{
       title,
       url: plannerUrl,
