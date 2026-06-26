@@ -1,9 +1,139 @@
 {
-  "generatedAt": "2026-06-26T08:08:41.805Z",
+  "generatedAt": "2026-06-26T09:46:09.675Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Paltrix94#5760",
+      "membershipId": "4611686018516491359",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
+      "powerLevel": 456,
+      "lastPlayedTimestamp": 1782466541000,
+      "lastActivityTimestamp": 1782465806000,
+      "lastActivityText": "Partita veloce: Normale il 26/06/2026 09:23",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-26T09:23:26Z",
+          "instanceId": "16974696100"
+        },
+        {
+          "name": "Lago di ombre: Personalizzata",
+          "period": "2026-06-25T09:48:56Z",
+          "instanceId": "16970105680"
+        },
+        {
+          "name": "Lago di ombre: Personalizzata",
+          "period": "2026-06-25T09:46:59Z",
+          "instanceId": "16970074882"
+        },
+        {
+          "name": "Lago di ombre: Personalizzata",
+          "period": "2026-06-25T09:18:10Z",
+          "instanceId": "16970063883"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-24T22:09:59Z",
+          "instanceId": "16967714886"
+        },
+        {
+          "name": "Lago di ombre: Personalizzata",
+          "period": "2026-06-24T21:37:00Z",
+          "instanceId": "16967667626"
+        },
+        {
+          "name": "Eliostasi: Personalizzata",
+          "period": "2026-06-21T13:59:34Z",
+          "instanceId": "16949301379"
+        },
+        {
+          "name": "La caduta di un Kell: Personalizzata",
+          "period": "2026-06-21T13:13:52Z",
+          "instanceId": "16949190240"
+        },
+        {
+          "name": "Sfida degli Anziani: Con matchmaking",
+          "period": "2026-06-21T11:52:54Z",
+          "instanceId": "16948902261"
+        },
+        {
+          "name": "Spedizione: Europa: Con matchmaking",
+          "period": "2026-06-20T20:59:46Z",
+          "instanceId": "16944915725"
+        }
+      ]
+    },
+    {
+      "displayName": "BLUE_JAY_5642#1205",
+      "membershipId": "4611686018506353436",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Signora del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8bde4cceae744ef8108f5a9bbd3c2738.jpg",
+      "powerLevel": 428,
+      "lastPlayedTimestamp": 1782466104000,
+      "lastActivityTimestamp": 1782464538000,
+      "lastActivityText": "La Città Sognante il 26/06/2026 09:02",
+      "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-06-26T09:02:18Z",
+          "instanceId": "16974682614"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-26T08:35:33Z",
+          "instanceId": "16974596426"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-26T08:16:14Z",
+          "instanceId": "16974571480"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-06-25T21:40:48Z",
+          "instanceId": "16972487585"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-06-25T19:40:17Z",
+          "instanceId": "16972021265"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-06-25T18:23:02Z",
+          "instanceId": "16971833034"
+        },
+        {
+          "name": "Il setaccio",
+          "period": "2026-06-25T17:43:01Z",
+          "instanceId": "16971538051"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-06-25T17:01:43Z",
+          "instanceId": "16971409119"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-06-25T14:59:38Z",
+          "instanceId": "16971037248"
+        },
+        {
+          "name": "Il messaggio: Normale",
+          "period": "2026-06-25T13:55:22Z",
+          "instanceId": "16970857822"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -337,7 +467,7 @@
       "className": "Cacciatori",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 432,
+      "powerLevel": 381,
       "lastPlayedTimestamp": 1782431984000,
       "lastActivityTimestamp": 1782425843000,
       "lastActivityText": "Fuoco e ghiaccio: Audace il 25/06/2026 22:17",
@@ -658,12 +788,12 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 458,
-      "lastPlayedTimestamp": 1782426872000,
+      "lastPlayedTimestamp": 1782467126000,
       "lastActivityTimestamp": 1782421583000,
       "lastActivityText": "Operazione: Scudo del Serafino: Personalizzata il 25/06/2026 21:06",
       "activities": [
@@ -1236,71 +1366,6 @@
           "name": "Zona Morta Europea",
           "period": "2026-06-23T21:21:25Z",
           "instanceId": "16962348106"
-        }
-      ]
-    },
-    {
-      "displayName": "Paltrix94#5760",
-      "membershipId": "4611686018516491359",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
-      "powerLevel": 454,
-      "lastPlayedTimestamp": 1782381807000,
-      "lastActivityTimestamp": 1782380936000,
-      "lastActivityText": "Lago di ombre: Personalizzata il 25/06/2026 09:48",
-      "activities": [
-        {
-          "name": "Lago di ombre: Personalizzata",
-          "period": "2026-06-25T09:48:56Z",
-          "instanceId": "16970105680"
-        },
-        {
-          "name": "Lago di ombre: Personalizzata",
-          "period": "2026-06-25T09:46:59Z",
-          "instanceId": "16970074882"
-        },
-        {
-          "name": "Lago di ombre: Personalizzata",
-          "period": "2026-06-25T09:18:10Z",
-          "instanceId": "16970063883"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-06-24T22:09:59Z",
-          "instanceId": "16967714886"
-        },
-        {
-          "name": "Lago di ombre: Personalizzata",
-          "period": "2026-06-24T21:37:00Z",
-          "instanceId": "16967667626"
-        },
-        {
-          "name": "Eliostasi: Personalizzata",
-          "period": "2026-06-21T13:59:34Z",
-          "instanceId": "16949301379"
-        },
-        {
-          "name": "La caduta di un Kell: Personalizzata",
-          "period": "2026-06-21T13:13:52Z",
-          "instanceId": "16949190240"
-        },
-        {
-          "name": "Sfida degli Anziani: Con matchmaking",
-          "period": "2026-06-21T11:52:54Z",
-          "instanceId": "16948902261"
-        },
-        {
-          "name": "Spedizione: Europa: Con matchmaking",
-          "period": "2026-06-20T20:59:46Z",
-          "instanceId": "16944915725"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Personalizzata",
-          "period": "2026-06-20T16:54:52Z",
-          "instanceId": "16943707185"
         }
       ]
     },
@@ -1886,71 +1951,6 @@
           "name": "Nessus, Centauro Instabile",
           "period": "2026-06-22T15:29:19Z",
           "instanceId": "16955708192"
-        }
-      ]
-    },
-    {
-      "displayName": "BLUE_JAY_5642#1205",
-      "membershipId": "4611686018506353436",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b531d829e55b6f13555e8cae172dc0b3.jpg",
-      "powerLevel": 306,
-      "lastPlayedTimestamp": 1782428370000,
-      "lastActivityTimestamp": 1782138564000,
-      "lastActivityText": "La Città Sognante il 22/06/2026 14:29",
-      "activities": [
-        {
-          "name": "La Città Sognante",
-          "period": "2026-06-22T14:29:24Z",
-          "instanceId": "16955521137"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-06-22T12:51:20Z",
-          "instanceId": "16955335442"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-17T21:18:46Z",
-          "instanceId": "16926324648"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-15T20:04:06Z",
-          "instanceId": "16913127676"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-15T19:45:59Z",
-          "instanceId": "16913043027"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-15T18:21:04Z",
-          "instanceId": "16912509467"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-15T18:10:10Z",
-          "instanceId": "16912413889"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-15T17:55:11Z",
-          "instanceId": "16912356678"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-15T17:43:20Z",
-          "instanceId": "16912279687"
-        },
-        {
-          "name": "Missione: L'invito: Normale",
-          "period": "2025-10-29T18:22:21Z",
-          "instanceId": "16607282075"
         }
       ]
     },
