@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-06-28T01:35:44.693Z",
+  "generatedAt": "2026-06-28T06:24:57.247Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1782625055000,
+      "lastActivityTimestamp": 1782621941000,
+      "lastActivityText": "Sovraccarico terminale: AZ il 28/06/2026 04:45",
+      "activities": [
+        {
+          "name": "Sovraccarico terminale: AZ",
+          "period": "2026-06-28T04:45:41Z",
+          "instanceId": "16984309806"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-06-28T04:43:00Z",
+          "instanceId": "16984096683"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-06-27T18:06:51Z",
+          "instanceId": "16981367911"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-27T14:21:10Z",
+          "instanceId": "16981040858"
+        },
+        {
+          "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
+          "period": "2026-06-27T14:05:09Z",
+          "instanceId": "16980392594"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-06-27T13:34:07Z",
+          "instanceId": "16980276904"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-06-27T12:55:57Z",
+          "instanceId": "16980209463"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-06-27T04:58:49Z",
+          "instanceId": "16978759815"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-06-26T19:44:59Z",
+          "instanceId": "16976858828"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-26T19:21:34Z",
+          "instanceId": "16976449006"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -39,6 +104,11 @@
         },
         {
           "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-27T23:57:20Z",
+          "instanceId": "16983918807"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
           "period": "2026-06-27T23:49:46Z",
           "instanceId": "16982838629"
         },
@@ -61,11 +131,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-06-27T20:51:15Z",
           "instanceId": "16982060168"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-27T19:52:49Z",
-          "instanceId": "16981838459"
         }
       ]
     },
@@ -785,71 +850,6 @@
       ]
     },
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1782584756000,
-      "lastActivityTimestamp": 1782583611000,
-      "lastActivityText": "Cella Senza Sole: Con matchmaking il 27/06/2026 18:06",
-      "activities": [
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-06-27T18:06:51Z",
-          "instanceId": "16981367911"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-27T14:21:10Z",
-          "instanceId": "16981040858"
-        },
-        {
-          "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
-          "period": "2026-06-27T14:05:09Z",
-          "instanceId": "16980392594"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-06-27T13:34:07Z",
-          "instanceId": "16980276904"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-06-27T12:55:57Z",
-          "instanceId": "16980209463"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-06-27T04:58:49Z",
-          "instanceId": "16978759815"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-26T19:44:59Z",
-          "instanceId": "16976858828"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-26T19:21:34Z",
-          "instanceId": "16976449006"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-26T17:38:40Z",
-          "instanceId": "16976087611"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-06-26T17:02:19Z",
-          "instanceId": "16975992948"
-        }
-      ]
-    },
-    {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
@@ -1178,12 +1178,12 @@
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1782565210000,
+      "powerLevel": 543,
+      "lastPlayedTimestamp": 1782627527000,
       "lastActivityTimestamp": 1782563289000,
       "lastActivityText": "Conquista modalità gran maestro: Fortezza Scarlatta: Personalizzata il 27/06/2026 12:28",
       "activities": [
