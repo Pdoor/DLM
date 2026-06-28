@@ -1,19 +1,84 @@
 {
-  "generatedAt": "2026-06-27T23:08:50.843Z",
+  "generatedAt": "2026-06-28T01:35:44.693Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 510,
+      "lastPlayedTimestamp": 1782607744000,
+      "lastActivityTimestamp": 1782606211000,
+      "lastActivityText": "Impero: Leggendaria il 28/06/2026 00:23",
+      "activities": [
+        {
+          "name": "Impero: Leggendaria",
+          "period": "2026-06-28T00:23:31Z",
+          "instanceId": "16982969459"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-28T00:19:59Z",
+          "instanceId": "16982964563"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-28T00:13:38Z",
+          "instanceId": "16982932414"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-28T00:06:04Z",
+          "instanceId": "16982904675"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-27T23:49:46Z",
+          "instanceId": "16982838629"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-27T21:13:46Z",
+          "instanceId": "16982163920"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-27T21:05:43Z",
+          "instanceId": "16982129577"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-27T20:57:47Z",
+          "instanceId": "16982088688"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-27T20:51:15Z",
+          "instanceId": "16982060168"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-27T19:52:49Z",
+          "instanceId": "16981838459"
+        }
+      ]
+    },
+    {
       "displayName": "alexcecenko#951",
       "membershipId": "4611686018463713971",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Trascendente",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/55a2f41a0bf4b3383d38fe9398e2911b.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1782601647000,
+      "lastPlayedTimestamp": 1782601868000,
       "lastActivityTimestamp": 1782599969000,
       "lastActivityText": "Osservatorio Celeste: Personalizzata il 27/06/2026 22:39",
       "activities": [
@@ -26,6 +91,11 @@
           "name": "Miniere di Sale: Personalizzata",
           "period": "2026-06-27T22:32:27Z",
           "instanceId": "16982503712"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-27T22:27:16Z",
+          "instanceId": "16982679717"
         },
         {
           "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
@@ -61,11 +131,6 @@
           "name": "Profezia",
           "period": "2026-06-23T19:47:03Z",
           "instanceId": "16961990058"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
-          "period": "2026-06-23T19:07:59Z",
-          "instanceId": "16961783671"
         }
       ]
     },
@@ -138,15 +203,20 @@
       "displayName": "mattia08pro#6310",
       "membershipId": "4611686018513701477",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Intrepido",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/dac5ae759ce9556eaf49d6f8776713f5.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1782601513000,
-      "lastActivityTimestamp": 1782598906000,
-      "lastActivityText": "Cosmodromo il 27/06/2026 22:21",
+      "powerLevel": 511,
+      "lastPlayedTimestamp": 1782603855000,
+      "lastActivityTimestamp": 1782599236000,
+      "lastActivityText": "Poligono di Tiro il 27/06/2026 22:27",
       "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-27T22:27:16Z",
+          "instanceId": "16982679717"
+        },
         {
           "name": "Cosmodromo",
           "period": "2026-06-27T22:21:46Z",
@@ -191,11 +261,6 @@
           "name": "Poligono di Tiro",
           "period": "2026-06-27T20:04:39Z",
           "instanceId": "16981864410"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-27T14:21:10Z",
-          "instanceId": "16981040858"
         }
       ]
     },
@@ -326,71 +391,6 @@
           "name": "Ultimo desiderio: Standard",
           "period": "2026-06-27T12:23:37Z",
           "instanceId": "16980289987"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 512,
-      "lastPlayedTimestamp": 1782595210000,
-      "lastActivityTimestamp": 1782594826000,
-      "lastActivityText": "Azzardo: Con matchmaking il 27/06/2026 21:13",
-      "activities": [
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-27T21:13:46Z",
-          "instanceId": "16982163920"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-27T21:05:43Z",
-          "instanceId": "16982129577"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-27T20:57:47Z",
-          "instanceId": "16982088688"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-27T20:51:15Z",
-          "instanceId": "16982060168"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-27T19:52:49Z",
-          "instanceId": "16981838459"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-27T18:48:38Z",
-          "instanceId": "16981504930"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-27T18:41:18Z",
-          "instanceId": "16981466873"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-27T18:35:07Z",
-          "instanceId": "16981441253"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-27T18:26:59Z",
-          "instanceId": "16981406910"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-27T18:20:31Z",
-          "instanceId": "16981373657"
         }
       ]
     },
@@ -1958,12 +1958,12 @@
       "displayName": "No TAG Jay#1042",
       "membershipId": "4611686018465064117",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Portatore di desideri",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
       "powerLevel": 505,
-      "lastPlayedTimestamp": 1782601295000,
+      "lastPlayedTimestamp": 1782603871000,
       "lastActivityTimestamp": 1782415306000,
       "lastActivityText": "Partita veloce: maestro: Maestro il 25/06/2026 19:21",
       "activities": [
