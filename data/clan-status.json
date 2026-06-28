@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T09:44:02.870Z",
+  "generatedAt": "2026-06-28T11:49:31.149Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,30 @@
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/55a2f41a0bf4b3383d38fe9398e2911b.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1782639737000,
-      "lastActivityTimestamp": 1782638840000,
-      "lastActivityText": "Partita veloce: Normale il 28/06/2026 09:27",
+      "lastPlayedTimestamp": 1782647335000,
+      "lastActivityTimestamp": 1782644742000,
+      "lastActivityText": "Neomuna il 28/06/2026 11:05",
       "activities": [
+        {
+          "name": "Neomuna",
+          "period": "2026-06-28T11:05:42Z",
+          "instanceId": "16985416834"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-06-28T10:15:23Z",
+          "instanceId": "16985270722"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-06-28T09:59:07Z",
+          "instanceId": "16985185645"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-06-28T09:49:27Z",
+          "instanceId": "16985145544"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-06-28T09:27:20Z",
@@ -46,26 +66,71 @@
           "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
           "period": "2026-06-27T19:33:11Z",
           "instanceId": "16981749377"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1782644154000,
+      "lastActivityTimestamp": 1782643643000,
+      "lastActivityText": "Precetto Dorato: Maestro il 28/06/2026 10:47",
+      "activities": [
+        {
+          "name": "Precetto Dorato: Maestro",
+          "period": "2026-06-28T10:47:23Z",
+          "instanceId": "16985303447"
         },
         {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-06-27T19:15:29Z",
-          "instanceId": "16981655666"
+          "name": "Neomuna",
+          "period": "2026-06-28T10:44:19Z",
+          "instanceId": "16985275744"
         },
         {
-          "name": "Profezia",
-          "period": "2026-06-27T18:28:29Z",
-          "instanceId": "16981532308"
+          "name": "Precetto Dorato: Maestro",
+          "period": "2026-06-28T10:30:40Z",
+          "instanceId": "16985267155"
         },
         {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-27T17:35:34Z",
-          "instanceId": "16981224276"
+          "name": "Neomuna",
+          "period": "2026-06-28T10:28:05Z",
+          "instanceId": "16985231660"
         },
         {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-27T17:31:54Z",
-          "instanceId": "16981148838"
+          "name": "Precetto Dorato: Maestro",
+          "period": "2026-06-28T09:47:48Z",
+          "instanceId": "16985143240"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-06-28T09:45:35Z",
+          "instanceId": "16985115425"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-06-28T09:26:34Z",
+          "instanceId": "16985108207"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-06-28T08:52:19Z",
+          "instanceId": "16984988124"
+        },
+        {
+          "name": "Sovraccarico terminale: AZ",
+          "period": "2026-06-28T04:45:41Z",
+          "instanceId": "16984309806"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-06-28T04:43:00Z",
+          "instanceId": "16984096683"
         }
       ]
     },
@@ -73,15 +138,45 @@
       "displayName": "mattia08pro#6310",
       "membershipId": "4611686018513701477",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Intrepido",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/dac5ae759ce9556eaf49d6f8776713f5.jpg",
-      "powerLevel": 514,
-      "lastPlayedTimestamp": 1782639797000,
-      "lastActivityTimestamp": 1782638268000,
-      "lastActivityText": "Avamposto dei cabal: Personalizzata il 28/06/2026 09:17",
+      "powerLevel": 493,
+      "lastPlayedTimestamp": 1782643727000,
+      "lastActivityTimestamp": 1782643344000,
+      "lastActivityText": "Azzardo: Con matchmaking il 28/06/2026 10:42",
       "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-28T10:42:24Z",
+          "instanceId": "16985280071"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-28T10:35:37Z",
+          "instanceId": "16985261470"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-28T10:20:11Z",
+          "instanceId": "16985224770"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-28T10:10:48Z",
+          "instanceId": "16985202560"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-28T10:03:02Z",
+          "instanceId": "16985177065"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-28T09:54:46Z",
+          "instanceId": "16985154973"
+        },
         {
           "name": "Avamposto dei cabal: Personalizzata",
           "period": "2026-06-28T09:17:48Z",
@@ -101,26 +196,51 @@
           "name": "Poligono di Tiro",
           "period": "2026-06-27T22:27:16Z",
           "instanceId": "16982679717"
+        }
+      ]
+    },
+    {
+      "displayName": "alexcecenko#951",
+      "membershipId": "4611686018463713971",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/3a22886784f7e2d8c5b41159d5c776d0.jpg",
+      "powerLevel": 542,
+      "lastPlayedTimestamp": 1782646933000,
+      "lastActivityTimestamp": 1782641082000,
+      "lastActivityText": "Neomuna il 28/06/2026 10:04",
+      "activities": [
+        {
+          "name": "Neomuna",
+          "period": "2026-06-28T10:04:42Z",
+          "instanceId": "16985258280"
         },
         {
-          "name": "Cosmodromo",
-          "period": "2026-06-27T22:21:46Z",
-          "instanceId": "16982449423"
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-06-28T09:33:23Z",
+          "instanceId": "16985126454"
         },
         {
-          "name": "Cosmodromo",
-          "period": "2026-06-27T22:06:15Z",
-          "instanceId": "16982435201"
+          "name": "Poligono di Tiro",
+          "period": "2026-06-27T22:17:10Z",
+          "instanceId": "16982450664"
         },
         {
-          "name": "Cosmodromo",
-          "period": "2026-06-27T21:48:38Z",
-          "instanceId": "16982365251"
+          "name": "Poligono di Tiro",
+          "period": "2026-06-27T21:56:26Z",
+          "instanceId": "16982402590"
         },
         {
-          "name": "Cosmodromo",
-          "period": "2026-06-27T21:30:04Z",
-          "instanceId": "16982277170"
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-06-27T21:42:20Z",
+          "instanceId": "16982301620"
+        },
+        {
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-06-27T21:39:09Z",
+          "instanceId": "16982258876"
         },
         {
           "name": "Poligono di Tiro",
@@ -131,6 +251,81 @@
           "name": "Lega Gare di Astori",
           "period": "2026-06-27T20:47:17Z",
           "instanceId": "16982047714"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-06-27T20:41:10Z",
+          "instanceId": "16982010639"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-06-27T20:39:10Z",
+          "instanceId": "16981979316"
+        }
+      ]
+    },
+    {
+      "displayName": "Jhonny#3878",
+      "membershipId": "4611686018489632599",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/55a2f41a0bf4b3383d38fe9398e2911b.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1782640690000,
+      "lastActivityTimestamp": 1782637473000,
+      "lastActivityText": "Zona Morta Europea il 28/06/2026 09:04",
+      "activities": [
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-06-28T09:04:33Z",
+          "instanceId": "16985145613"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-06-28T08:01:15Z",
+          "instanceId": "16984995742"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-06-28T07:43:09Z",
+          "instanceId": "16984811027"
+        },
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-06-28T07:38:32Z",
+          "instanceId": "16984755277"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-06-28T07:21:11Z",
+          "instanceId": "16984740441"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-06-27T15:30:19Z",
+          "instanceId": "16980720655"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-06-27T15:18:38Z",
+          "instanceId": "16980615344"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-06-27T15:12:16Z",
+          "instanceId": "16980592073"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-06-27T09:40:02Z",
+          "instanceId": "16979648470"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-06-27T07:33:16Z",
+          "instanceId": "16979261954"
         }
       ]
     },
@@ -200,136 +395,6 @@
       ]
     },
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1782639791000,
-      "lastActivityTimestamp": 1782636739000,
-      "lastActivityText": "Neomuna il 28/06/2026 08:52",
-      "activities": [
-        {
-          "name": "Neomuna",
-          "period": "2026-06-28T08:52:19Z",
-          "instanceId": "16984988124"
-        },
-        {
-          "name": "Sovraccarico terminale: AZ",
-          "period": "2026-06-28T04:45:41Z",
-          "instanceId": "16984309806"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-06-28T04:43:00Z",
-          "instanceId": "16984096683"
-        },
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-06-27T18:06:51Z",
-          "instanceId": "16981367911"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-27T14:21:10Z",
-          "instanceId": "16981040858"
-        },
-        {
-          "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
-          "period": "2026-06-27T14:05:09Z",
-          "instanceId": "16980392594"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-06-27T13:34:07Z",
-          "instanceId": "16980276904"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-06-27T12:55:57Z",
-          "instanceId": "16980209463"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-06-27T04:58:49Z",
-          "instanceId": "16978759815"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-26T19:44:59Z",
-          "instanceId": "16976858828"
-        }
-      ]
-    },
-    {
-      "displayName": "Jhonny#3878",
-      "membershipId": "4611686018489632599",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/55a2f41a0bf4b3383d38fe9398e2911b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1782639831000,
-      "lastActivityTimestamp": 1782633675000,
-      "lastActivityText": "Cosmodromo il 28/06/2026 08:01",
-      "activities": [
-        {
-          "name": "Cosmodromo",
-          "period": "2026-06-28T08:01:15Z",
-          "instanceId": "16984995742"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-06-28T07:43:09Z",
-          "instanceId": "16984811027"
-        },
-        {
-          "name": "Confluenza: Maestro",
-          "period": "2026-06-28T07:38:32Z",
-          "instanceId": "16984755277"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-06-28T07:21:11Z",
-          "instanceId": "16984740441"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-27T15:30:19Z",
-          "instanceId": "16980720655"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-06-27T15:18:38Z",
-          "instanceId": "16980615344"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-06-27T15:12:16Z",
-          "instanceId": "16980592073"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-06-27T09:40:02Z",
-          "instanceId": "16979648470"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-06-27T07:33:16Z",
-          "instanceId": "16979261954"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-06-26T16:33:19Z",
-          "instanceId": "16976722073"
-        }
-      ]
-    },
-    {
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
@@ -338,7 +403,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1782633838000,
+      "lastPlayedTimestamp": 1782644979000,
       "lastActivityTimestamp": 1782633036000,
       "lastActivityText": "Conquista modalità gran maestro: Eliostato: Personalizzata il 28/06/2026 07:50",
       "activities": [
@@ -586,71 +651,6 @@
           "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
           "period": "2026-06-26T22:55:32Z",
           "instanceId": "16977308420"
-        }
-      ]
-    },
-    {
-      "displayName": "alexcecenko#951",
-      "membershipId": "4611686018463713971",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/3a22886784f7e2d8c5b41159d5c776d0.jpg",
-      "powerLevel": 547,
-      "lastPlayedTimestamp": 1782639806000,
-      "lastActivityTimestamp": 1782598630000,
-      "lastActivityText": "Poligono di Tiro il 27/06/2026 22:17",
-      "activities": [
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-27T22:17:10Z",
-          "instanceId": "16982450664"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-27T21:56:26Z",
-          "instanceId": "16982402590"
-        },
-        {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-06-27T21:42:20Z",
-          "instanceId": "16982301620"
-        },
-        {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-06-27T21:39:09Z",
-          "instanceId": "16982258876"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-27T21:15:46Z",
-          "instanceId": "16982216709"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-06-27T20:47:17Z",
-          "instanceId": "16982047714"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-06-27T20:41:10Z",
-          "instanceId": "16982010639"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-06-27T20:39:10Z",
-          "instanceId": "16981979316"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-06-27T20:34:00Z",
-          "instanceId": "16981955019"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-06-27T20:25:48Z",
-          "instanceId": "16981941387"
         }
       ]
     },
@@ -1113,12 +1113,12 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 503,
-      "lastPlayedTimestamp": 1782582736000,
+      "lastPlayedTimestamp": 1782646102000,
       "lastActivityTimestamp": 1782581734000,
       "lastActivityText": "Deserto perpetuo: Standard il 27/06/2026 17:35",
       "activities": [
