@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T21:08:49.491Z",
+  "generatedAt": "2026-06-28T22:36:04.363Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,40 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 513,
-      "lastPlayedTimestamp": 1782680857000,
-      "lastActivityTimestamp": 1782680441000,
-      "lastActivityText": "Azzardo: Con matchmaking il 28/06/2026 21:00",
+      "powerLevel": 516,
+      "lastPlayedTimestamp": 1782683435000,
+      "lastActivityTimestamp": 1782683078000,
+      "lastActivityText": "Azzardo: Con matchmaking il 28/06/2026 21:44",
       "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-28T21:44:38Z",
+          "instanceId": "16987934959"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-28T21:31:04Z",
+          "instanceId": "16987878390"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-28T21:24:17Z",
+          "instanceId": "16987844499"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-28T21:17:00Z",
+          "instanceId": "16987811283"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-28T21:08:55Z",
+          "instanceId": "16987773923"
+        },
         {
           "name": "Azzardo: Con matchmaking",
           "period": "2026-06-28T21:00:41Z",
@@ -41,31 +66,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-06-28T14:53:02Z",
           "instanceId": "16986105889"
-        },
-        {
-          "name": "Impero: Leggendaria",
-          "period": "2026-06-28T00:23:31Z",
-          "instanceId": "16982969459"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-28T00:19:59Z",
-          "instanceId": "16982964563"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-28T00:13:38Z",
-          "instanceId": "16982932414"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-28T00:06:04Z",
-          "instanceId": "16982904675"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-27T23:57:20Z",
-          "instanceId": "16983918807"
         }
       ]
     },
@@ -73,15 +73,20 @@
       "displayName": "No TAG Jay#1042",
       "membershipId": "4611686018465064117",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Portatore di desideri",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
       "powerLevel": 502,
-      "lastPlayedTimestamp": 1782679869000,
-      "lastActivityTimestamp": 1782678096000,
-      "lastActivityText": "Poligono di Tiro il 28/06/2026 20:21",
+      "lastPlayedTimestamp": 1782682150000,
+      "lastActivityTimestamp": 1782682034000,
+      "lastActivityText": "Partita veloce: Normale il 28/06/2026 21:27",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-28T21:27:14Z",
+          "instanceId": "16987872032"
+        },
         {
           "name": "Poligono di Tiro",
           "period": "2026-06-28T20:21:36Z",
@@ -126,11 +131,136 @@
           "name": "Campi di battaglia: Appiglio: Personalizzata",
           "period": "2026-06-24T16:03:34Z",
           "instanceId": "16966322823"
+        }
+      ]
+    },
+    {
+      "displayName": "nubires#8588",
+      "membershipId": "4611686018433412718",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
+      "powerLevel": 506,
+      "lastPlayedTimestamp": 1782683358000,
+      "lastActivityTimestamp": 1782681622000,
+      "lastActivityText": "Palude Selina, Venere: Caccia alle taglie: Con matchmaking il 28/06/2026 21:20",
+      "activities": [
+        {
+          "name": "Palude Selina, Venere: Caccia alle taglie: Con matchmaking",
+          "period": "2026-06-28T21:20:22Z",
+          "instanceId": "16987897560"
         },
         {
-          "name": "Europa",
-          "period": "2026-06-24T15:23:40Z",
-          "instanceId": "16966126622"
+          "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
+          "period": "2026-06-28T18:36:45Z",
+          "instanceId": "16987112585"
+        },
+        {
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-06-28T18:08:25Z",
+          "instanceId": "16987029104"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-06-28T18:01:35Z",
+          "instanceId": "16986946988"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-28T17:55:47Z",
+          "instanceId": "16986934320"
+        },
+        {
+          "name": "Spira: Con matchmaking",
+          "period": "2026-06-28T09:03:01Z",
+          "instanceId": "16985070293"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-28T08:37:39Z",
+          "instanceId": "16984953479"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-06-27T14:51:25Z",
+          "instanceId": "16980507502"
+        },
+        {
+          "name": "Partita privata",
+          "period": "2026-06-27T14:23:09Z",
+          "instanceId": "16980433698"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-06-27T13:34:07Z",
+          "instanceId": "16980276904"
+        }
+      ]
+    },
+    {
+      "displayName": "Drgaming117#3508",
+      "membershipId": "4611686018475016637",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1782686133000,
+      "lastActivityTimestamp": 1782681385000,
+      "lastActivityText": "Pantheon: Calus risplendente: Personalizzata il 28/06/2026 21:16",
+      "activities": [
+        {
+          "name": "Pantheon: Calus risplendente: Personalizzata",
+          "period": "2026-06-28T21:16:25Z",
+          "instanceId": "16988043164"
+        },
+        {
+          "name": "Pantheon: Calus risplendente: Personalizzata",
+          "period": "2026-06-26T19:21:41Z",
+          "instanceId": "16976571160"
+        },
+        {
+          "name": "Pantheon: Calus risplendente: Personalizzata",
+          "period": "2026-06-26T19:13:26Z",
+          "instanceId": "16976393863"
+        },
+        {
+          "name": "Pantheon: Calus risplendente: Personalizzata",
+          "period": "2026-06-26T18:44:07Z",
+          "instanceId": "16976386337"
+        },
+        {
+          "name": "Pantheon: Calus risplendente: Personalizzata",
+          "period": "2026-06-26T18:33:23Z",
+          "instanceId": "16976272808"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-06-25T18:40:34Z",
+          "instanceId": "16972255791"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-06-25T17:45:53Z",
+          "instanceId": "16971872953"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-06-25T16:13:38Z",
+          "instanceId": "16971404165"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-06-25T15:05:23Z",
+          "instanceId": "16971102609"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-06-24T17:16:45Z",
+          "instanceId": "16967610315"
         }
       ]
     },
@@ -138,15 +268,20 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Scrittore spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 455,
-      "lastPlayedTimestamp": 1782680890000,
-      "lastActivityTimestamp": 1782675766000,
-      "lastActivityText": "La caduta di un Re: Standard il 28/06/2026 19:42",
+      "powerLevel": 456,
+      "lastPlayedTimestamp": 1782683510000,
+      "lastActivityTimestamp": 1782680438000,
+      "lastActivityText": "Profezia il 28/06/2026 21:00",
       "activities": [
+        {
+          "name": "Profezia",
+          "period": "2026-06-28T21:00:38Z",
+          "instanceId": "16987944441"
+        },
         {
           "name": "La caduta di un Re: Standard",
           "period": "2026-06-28T19:42:46Z",
@@ -186,11 +321,6 @@
           "name": "Ultimo desiderio: Standard",
           "period": "2026-06-28T15:13:18Z",
           "instanceId": "16986189270"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-28T15:02:11Z",
-          "instanceId": "16986158262"
         },
         {
           "name": "Ultimo desiderio: Standard",
@@ -326,71 +456,6 @@
           "name": "Zona Morta Europea",
           "period": "2026-06-28T16:02:33Z",
           "instanceId": "16986366195"
-        }
-      ]
-    },
-    {
-      "displayName": "nubires#8588",
-      "membershipId": "4611686018433412718",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "AUDACE",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 503,
-      "lastPlayedTimestamp": 1782680846000,
-      "lastActivityTimestamp": 1782671805000,
-      "lastActivityText": "Conquista modalità maestro: Fortezza della Guida: Personalizzata il 28/06/2026 18:36",
-      "activities": [
-        {
-          "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
-          "period": "2026-06-28T18:36:45Z",
-          "instanceId": "16987112585"
-        },
-        {
-          "name": "Conquista modalità esperto: Luna: Personalizzata",
-          "period": "2026-06-28T18:08:25Z",
-          "instanceId": "16987029104"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-06-28T18:01:35Z",
-          "instanceId": "16986946988"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-28T17:55:47Z",
-          "instanceId": "16986934320"
-        },
-        {
-          "name": "Spira: Con matchmaking",
-          "period": "2026-06-28T09:03:01Z",
-          "instanceId": "16985070293"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-28T08:37:39Z",
-          "instanceId": "16984953479"
-        },
-        {
-          "name": "Invasione",
-          "period": "2026-06-27T14:51:25Z",
-          "instanceId": "16980507502"
-        },
-        {
-          "name": "Partita privata",
-          "period": "2026-06-27T14:23:09Z",
-          "instanceId": "16980433698"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-06-27T13:34:07Z",
-          "instanceId": "16980276904"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-06-27T12:55:57Z",
-          "instanceId": "16980209463"
         }
       ]
     },
@@ -1821,71 +1886,6 @@
           "name": "Luna",
           "period": "2026-06-10T19:12:16Z",
           "instanceId": "16878658082"
-        }
-      ]
-    },
-    {
-      "displayName": "Drgaming117#3508",
-      "membershipId": "4611686018475016637",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 476,
-      "lastPlayedTimestamp": 1782680887000,
-      "lastActivityTimestamp": 1782501701000,
-      "lastActivityText": "Pantheon: Calus risplendente: Personalizzata il 26/06/2026 19:21",
-      "activities": [
-        {
-          "name": "Pantheon: Calus risplendente: Personalizzata",
-          "period": "2026-06-26T19:21:41Z",
-          "instanceId": "16976571160"
-        },
-        {
-          "name": "Pantheon: Calus risplendente: Personalizzata",
-          "period": "2026-06-26T19:13:26Z",
-          "instanceId": "16976393863"
-        },
-        {
-          "name": "Pantheon: Calus risplendente: Personalizzata",
-          "period": "2026-06-26T18:44:07Z",
-          "instanceId": "16976386337"
-        },
-        {
-          "name": "Pantheon: Calus risplendente: Personalizzata",
-          "period": "2026-06-26T18:33:23Z",
-          "instanceId": "16976272808"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-25T18:40:34Z",
-          "instanceId": "16972255791"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-25T17:45:53Z",
-          "instanceId": "16971872953"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-25T16:13:38Z",
-          "instanceId": "16971404165"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-25T15:05:23Z",
-          "instanceId": "16971102609"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-24T17:16:45Z",
-          "instanceId": "16967610315"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-23T17:12:00Z",
-          "instanceId": "16961324847"
         }
       ]
     },
