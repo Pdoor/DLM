@@ -1,74 +1,9 @@
 {
-  "generatedAt": "2026-06-29T05:14:19.526Z",
+  "generatedAt": "2026-06-29T10:09:47.797Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "RICERCATO",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 494,
-      "lastPlayedTimestamp": 1782710023000,
-      "lastActivityTimestamp": 1782709876000,
-      "lastActivityText": "Zona Morta Europea il 29/06/2026 05:11",
-      "activities": [
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-06-29T05:11:16Z",
-          "instanceId": "16989739009"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-29T04:53:53Z",
-          "instanceId": "16989723983"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-29T04:45:41Z",
-          "instanceId": "16989670608"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-29T04:34:02Z",
-          "instanceId": "16989631121"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-29T04:25:50Z",
-          "instanceId": "16989602059"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-29T04:18:17Z",
-          "instanceId": "16989575702"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-29T04:11:38Z",
-          "instanceId": "16989548267"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-29T03:56:50Z",
-          "instanceId": "16989493196"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-29T03:49:31Z",
-          "instanceId": "16989466614"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-29T03:42:32Z",
-          "instanceId": "16989440742"
-        }
-      ]
-    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -78,10 +13,30 @@
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1782709963000,
-      "lastActivityTimestamp": 1782709005000,
-      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 29/06/2026 04:56",
+      "lastPlayedTimestamp": 1782727758000,
+      "lastActivityTimestamp": 1782725188000,
+      "lastActivityText": "La Guerriera: Con matchmaking il 29/06/2026 09:26",
       "activities": [
+        {
+          "name": "La Guerriera: Con matchmaking",
+          "period": "2026-06-29T09:26:28Z",
+          "instanceId": "16990379936"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-06-29T06:36:17Z",
+          "instanceId": "16990018841"
+        },
+        {
+          "name": "Terreni di Prova: Con matchmaking",
+          "period": "2026-06-29T05:29:39Z",
+          "instanceId": "16989829161"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-06-29T05:13:52Z",
+          "instanceId": "16989763691"
+        },
         {
           "name": "Il Ponte di Vetro: Con matchmaking",
           "period": "2026-06-29T04:56:45Z",
@@ -111,26 +66,6 @@
           "name": "Neomuna",
           "period": "2026-06-28T13:56:16Z",
           "instanceId": "16985868381"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-06-28T13:32:55Z",
-          "instanceId": "16985836878"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-06-28T13:15:23Z",
-          "instanceId": "16985755251"
-        },
-        {
-          "name": "Precetto Dorato: Maestro",
-          "period": "2026-06-28T13:02:47Z",
-          "instanceId": "16985703803"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-06-28T12:55:58Z",
-          "instanceId": "16985672689"
         }
       ]
     },
@@ -138,15 +73,20 @@
       "displayName": "No TAG Jay#1042",
       "membershipId": "4611686018465064117",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Portatore di desideri",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 502,
-      "lastPlayedTimestamp": 1782695037000,
-      "lastActivityTimestamp": 1782691160000,
-      "lastActivityText": "Partita veloce: Normale il 28/06/2026 23:59",
+      "powerLevel": 507,
+      "lastPlayedTimestamp": 1782727746000,
+      "lastActivityTimestamp": 1782724643000,
+      "lastActivityText": "Partita veloce: Normale il 29/06/2026 09:17",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-29T09:17:23Z",
+          "instanceId": "16990364535"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-06-28T23:59:20Z",
@@ -191,11 +131,71 @@
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-06-28T11:52:25Z",
           "instanceId": "16985517022"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 505,
+      "lastPlayedTimestamp": 1782712629000,
+      "lastActivityTimestamp": 1782712348000,
+      "lastActivityText": "Poligono di Tiro il 29/06/2026 05:52",
+      "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-29T05:52:28Z",
+          "instanceId": "16989873667"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-29T05:45:33Z",
+          "instanceId": "16989859672"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-29T05:37:36Z",
+          "instanceId": "16989834598"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-29T05:30:10Z",
+          "instanceId": "16989812546"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-06-29T05:19:12Z",
+          "instanceId": "16989759562"
+        },
+        {
+          "name": "Covo dei Saccheggiatori: Esperto",
+          "period": "2026-06-29T05:18:38Z",
+          "instanceId": "16989757849"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-06-29T05:18:03Z",
+          "instanceId": "16989756181"
+        },
+        {
+          "name": "Covo dei Saccheggiatori: Maestro",
+          "period": "2026-06-29T05:13:07Z",
+          "instanceId": "16989753917"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-06-29T05:11:16Z",
+          "instanceId": "16989739009"
         },
         {
           "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-25T19:21:46Z",
-          "instanceId": "16971821210"
+          "period": "2026-06-29T05:08:54Z",
+          "instanceId": "16989797366"
         }
       ]
     },
@@ -1638,7 +1638,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 439,
-      "lastPlayedTimestamp": 1782564369000,
+      "lastPlayedTimestamp": 1782718787000,
       "lastActivityTimestamp": 1782563959000,
       "lastActivityText": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata il 27/06/2026 12:39",
       "activities": [
