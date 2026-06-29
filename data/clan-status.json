@@ -1,74 +1,9 @@
 {
-  "generatedAt": "2026-06-29T10:09:47.797Z",
+  "generatedAt": "2026-06-29T14:35:18.684Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1782727758000,
-      "lastActivityTimestamp": 1782725188000,
-      "lastActivityText": "La Guerriera: Con matchmaking il 29/06/2026 09:26",
-      "activities": [
-        {
-          "name": "La Guerriera: Con matchmaking",
-          "period": "2026-06-29T09:26:28Z",
-          "instanceId": "16990379936"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-06-29T06:36:17Z",
-          "instanceId": "16990018841"
-        },
-        {
-          "name": "Terreni di Prova: Con matchmaking",
-          "period": "2026-06-29T05:29:39Z",
-          "instanceId": "16989829161"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-06-29T05:13:52Z",
-          "instanceId": "16989763691"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-06-29T04:56:45Z",
-          "instanceId": "16989732094"
-        },
-        {
-          "name": "Eliostasi: Personalizzata",
-          "period": "2026-06-28T15:03:47Z",
-          "instanceId": "16986259401"
-        },
-        {
-          "name": "Eliostasi: Personalizzata",
-          "period": "2026-06-28T14:11:14Z",
-          "instanceId": "16986083753"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-06-28T14:05:41Z",
-          "instanceId": "16985895239"
-        },
-        {
-          "name": "Precetto Dorato: Maestro",
-          "period": "2026-06-28T13:59:47Z",
-          "instanceId": "16985890410"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-06-28T13:56:16Z",
-          "instanceId": "16985868381"
-        }
-      ]
-    },
     {
       "displayName": "No TAG Jay#1042",
       "membershipId": "4611686018465064117",
@@ -77,11 +12,21 @@
       "className": "Titani",
       "title": "Portatore di desideri",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 507,
-      "lastPlayedTimestamp": 1782727746000,
-      "lastActivityTimestamp": 1782724643000,
-      "lastActivityText": "Partita veloce: Normale il 29/06/2026 09:17",
+      "powerLevel": 506,
+      "lastPlayedTimestamp": 1782741492000,
+      "lastActivityTimestamp": 1782740665000,
+      "lastActivityText": "Partita veloce: Normale il 29/06/2026 13:44",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-29T13:44:25Z",
+          "instanceId": "16990959793"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-06-29T10:49:11Z",
+          "instanceId": "16990546031"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-06-29T09:17:23Z",
@@ -121,16 +66,201 @@
           "name": "La caduta di un Kell: Personalizzata",
           "period": "2026-06-28T15:18:21Z",
           "instanceId": "16986188999"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1782743614000,
+      "lastActivityTimestamp": 1782739216000,
+      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 29/06/2026 13:20",
+      "activities": [
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-06-29T13:20:16Z",
+          "instanceId": "16990933179"
         },
         {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-28T12:57:07Z",
-          "instanceId": "16985685801"
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-06-29T12:40:50Z",
+          "instanceId": "16990803865"
         },
         {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-28T11:52:25Z",
-          "instanceId": "16985517022"
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-06-29T10:20:17Z",
+          "instanceId": "16990485923"
+        },
+        {
+          "name": "La Guerriera: Con matchmaking",
+          "period": "2026-06-29T09:26:28Z",
+          "instanceId": "16990379936"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-06-29T06:36:17Z",
+          "instanceId": "16990018841"
+        },
+        {
+          "name": "Terreni di Prova: Con matchmaking",
+          "period": "2026-06-29T05:29:39Z",
+          "instanceId": "16989829161"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-06-29T05:13:52Z",
+          "instanceId": "16989763691"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-06-29T04:56:45Z",
+          "instanceId": "16989732094"
+        },
+        {
+          "name": "Eliostasi: Personalizzata",
+          "period": "2026-06-28T15:03:47Z",
+          "instanceId": "16986259401"
+        },
+        {
+          "name": "Eliostasi: Personalizzata",
+          "period": "2026-06-28T14:11:14Z",
+          "instanceId": "16986083753"
+        }
+      ]
+    },
+    {
+      "displayName": "Krikka93#463",
+      "membershipId": "4611686018504053383",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b106d6e61f40071114fd9dfd8fe64c2d.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1782738726000,
+      "lastActivityTimestamp": 1782737944000,
+      "lastActivityText": "La Guerriera: Personalizzata il 29/06/2026 12:59",
+      "activities": [
+        {
+          "name": "La Guerriera: Personalizzata",
+          "period": "2026-06-29T12:59:04Z",
+          "instanceId": "16990839144"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-06-29T12:42:11Z",
+          "instanceId": "16990795536"
+        },
+        {
+          "name": "Terreni di Prova: Personalizzata",
+          "period": "2026-06-29T12:36:17Z",
+          "instanceId": "16990761049"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-06-29T12:17:15Z",
+          "instanceId": "16990741828"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-06-27T07:59:42Z",
+          "instanceId": "16979620517"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-06-27T07:53:05Z",
+          "instanceId": "16979321506"
+        },
+        {
+          "name": "Riproposta in evidenza: Gahlran: Pantheon",
+          "period": "2026-06-17T11:10:08Z",
+          "instanceId": "16923663784"
+        },
+        {
+          "name": "Riproposta in evidenza: Gahlran: Pantheon",
+          "period": "2026-06-16T19:14:47Z",
+          "instanceId": "16919339039"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-06-15T19:17:56Z",
+          "instanceId": "16913068982"
+        },
+        {
+          "name": "Pantheon: Calus risplendente: Personalizzata",
+          "period": "2026-06-15T18:32:04Z",
+          "instanceId": "16913070447"
+        }
+      ]
+    },
+    {
+      "displayName": "DiciestCloth1#2862",
+      "membershipId": "4611686018442634411",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Flagello di Riven",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/743c54f5c10234c2f014b3ca828fc55f.jpg",
+      "powerLevel": 510,
+      "lastPlayedTimestamp": 1782732452000,
+      "lastActivityTimestamp": 1782732145000,
+      "lastActivityText": "Rovina della Signora della Guerra: Standard il 29/06/2026 11:22",
+      "activities": [
+        {
+          "name": "Rovina della Signora della Guerra: Standard",
+          "period": "2026-06-29T11:22:25Z",
+          "instanceId": "16990595063"
+        },
+        {
+          "name": "Cripta di Pietrafonda",
+          "period": "2026-06-29T10:54:39Z",
+          "instanceId": "16990549718"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-06-28T15:26:55Z",
+          "instanceId": "16986334494"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-06-28T15:25:32Z",
+          "instanceId": "16986204890"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-06-28T15:22:14Z",
+          "instanceId": "16986190976"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-06-28T15:05:56Z",
+          "instanceId": "16986180810"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-06-28T15:03:41Z",
+          "instanceId": "16986117698"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-06-28T14:41:50Z",
+          "instanceId": "16986110243"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-06-28T14:40:04Z",
+          "instanceId": "16986022030"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-06-28T13:13:04Z",
+          "instanceId": "16986701537"
         }
       ]
     },
@@ -915,71 +1045,6 @@
       ]
     },
     {
-      "displayName": "DiciestCloth1#2862",
-      "membershipId": "4611686018442634411",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Flagello di Riven",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/743c54f5c10234c2f014b3ca828fc55f.jpg",
-      "powerLevel": 541,
-      "lastPlayedTimestamp": 1782662242000,
-      "lastActivityTimestamp": 1782660415000,
-      "lastActivityText": "Deserto perpetuo: Standard il 28/06/2026 15:26",
-      "activities": [
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T15:26:55Z",
-          "instanceId": "16986334494"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T15:25:32Z",
-          "instanceId": "16986204890"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T15:22:14Z",
-          "instanceId": "16986190976"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T15:05:56Z",
-          "instanceId": "16986180810"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T15:03:41Z",
-          "instanceId": "16986117698"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T14:41:50Z",
-          "instanceId": "16986110243"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T14:40:04Z",
-          "instanceId": "16986022030"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T14:38:49Z",
-          "instanceId": "16986017727"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T13:52:55Z",
-          "instanceId": "16986008571"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-28T13:13:04Z",
-          "instanceId": "16986701537"
-        }
-      ]
-    },
-    {
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
@@ -1756,71 +1821,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-06-24T22:09:59Z",
           "instanceId": "16967714886"
-        }
-      ]
-    },
-    {
-      "displayName": "Krikka93#463",
-      "membershipId": "4611686018504053383",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatrice",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
-      "powerLevel": 517,
-      "lastPlayedTimestamp": 1782552958000,
-      "lastActivityTimestamp": 1782547182000,
-      "lastActivityText": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata il 27/06/2026 07:59",
-      "activities": [
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-27T07:59:42Z",
-          "instanceId": "16979620517"
-        },
-        {
-          "name": "Campi di battaglia: Nucleo: Con matchmaking",
-          "period": "2026-06-27T07:30:22Z",
-          "instanceId": "16979267245"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-06-27T07:14:09Z",
-          "instanceId": "16979235538"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-25T06:02:06Z",
-          "instanceId": "16969577436"
-        },
-        {
-          "name": "La corrotta: Con matchmaking",
-          "period": "2026-06-25T05:44:24Z",
-          "instanceId": "16969529540"
-        },
-        {
-          "name": "La corrotta: Con matchmaking",
-          "period": "2026-06-25T05:30:18Z",
-          "instanceId": "16969488419"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-06-20T20:04:39Z",
-          "instanceId": "16945260471"
-        },
-        {
-          "name": "Bis in evidenza: Mente Consacrata: Pantheon",
-          "period": "2026-06-20T20:02:51Z",
-          "instanceId": "16944553771"
-        },
-        {
-          "name": "Bis in evidenza: Mente Consacrata: Pantheon",
-          "period": "2026-06-20T20:00:43Z",
-          "instanceId": "16944546007"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-06-20T19:58:24Z",
-          "instanceId": "16944528286"
         }
       ]
     },
