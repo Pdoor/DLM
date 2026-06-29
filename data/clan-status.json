@@ -1,22 +1,92 @@
 {
-  "generatedAt": "2026-06-29T21:53:43.143Z",
+  "generatedAt": "2026-06-29T23:03:02.708Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "ClaudeFj#8206",
+      "membershipId": "4611686018522886434",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
+      "powerLevel": 478,
+      "lastPlayedTimestamp": 1782772791000,
+      "lastActivityTimestamp": 1782771844000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 29/06/2026 22:24",
+      "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-29T22:24:04Z",
+          "instanceId": "16992814254"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-29T22:02:19Z",
+          "instanceId": "16992717850"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-27T09:41:42Z",
+          "instanceId": "16979591353"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-27T09:30:10Z",
+          "instanceId": "16979589350"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-27T09:20:17Z",
+          "instanceId": "16979556648"
+        },
+        {
+          "name": "Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-06-25T21:06:23Z",
+          "instanceId": "16972313675"
+        },
+        {
+          "name": "Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-06-25T21:04:56Z",
+          "instanceId": "16972151578"
+        },
+        {
+          "name": "La fine di Crota: Maestro",
+          "period": "2026-06-25T20:34:23Z",
+          "instanceId": "16972160237"
+        },
+        {
+          "name": "Lago di ombre: Personalizzata",
+          "period": "2026-06-25T09:48:56Z",
+          "instanceId": "16970105680"
+        },
+        {
+          "name": "Lago di ombre: Personalizzata",
+          "period": "2026-06-25T09:46:59Z",
+          "instanceId": "16970074882"
+        }
+      ]
+    },
+    {
       "displayName": "alexcecenko#951",
       "membershipId": "4611686018463713971",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Leggenda",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/d27e8ff42082bb9a237522a9a306e3ac.jpg",
       "powerLevel": 518,
-      "lastPlayedTimestamp": 1782769970000,
-      "lastActivityTimestamp": 1782767170000,
-      "lastActivityText": "Operazione: Scudo del Serafino: Personalizzata il 29/06/2026 21:06",
+      "lastPlayedTimestamp": 1782770481000,
+      "lastActivityTimestamp": 1782770090000,
+      "lastActivityText": "La Città Sognante il 29/06/2026 21:54",
       "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-06-29T21:54:50Z",
+          "instanceId": "16992664962"
+        },
         {
           "name": "Operazione: Scudo del Serafino: Personalizzata",
           "period": "2026-06-29T21:06:10Z",
@@ -61,11 +131,6 @@
           "name": "Deserto perpetuo: Standard",
           "period": "2026-06-28T15:25:32Z",
           "instanceId": "16986204890"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T15:22:14Z",
-          "instanceId": "16986190976"
         }
       ]
     },
@@ -1703,7 +1768,7 @@
       "title": "Portatrice d'ira",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/fe993ae64a15b9dfc9d0aed6bcf3124c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1782579969000,
+      "lastPlayedTimestamp": 1782772154000,
       "lastActivityTimestamp": 1782570070000,
       "lastActivityText": "La fine di Crota: Standard il 27/06/2026 14:21",
       "activities": [
@@ -1821,71 +1886,6 @@
           "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
           "period": "2026-06-27T10:25:33Z",
           "instanceId": "16980257875"
-        }
-      ]
-    },
-    {
-      "displayName": "ClaudeFj#8206",
-      "membershipId": "4611686018522886434",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
-      "powerLevel": 479,
-      "lastPlayedTimestamp": 1782553367000,
-      "lastActivityTimestamp": 1782553302000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 27/06/2026 09:41",
-      "activities": [
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-27T09:41:42Z",
-          "instanceId": "16979591353"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-27T09:30:10Z",
-          "instanceId": "16979589350"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-27T09:20:17Z",
-          "instanceId": "16979556648"
-        },
-        {
-          "name": "Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-06-25T21:06:23Z",
-          "instanceId": "16972313675"
-        },
-        {
-          "name": "Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-06-25T21:04:56Z",
-          "instanceId": "16972151578"
-        },
-        {
-          "name": "La fine di Crota: Maestro",
-          "period": "2026-06-25T20:34:23Z",
-          "instanceId": "16972160237"
-        },
-        {
-          "name": "Lago di ombre: Personalizzata",
-          "period": "2026-06-25T09:48:56Z",
-          "instanceId": "16970105680"
-        },
-        {
-          "name": "Lago di ombre: Personalizzata",
-          "period": "2026-06-25T09:46:59Z",
-          "instanceId": "16970074882"
-        },
-        {
-          "name": "Lago di ombre: Personalizzata",
-          "period": "2026-06-25T09:18:10Z",
-          "instanceId": "16970063883"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-06-24T22:09:59Z",
-          "instanceId": "16967714886"
         }
       ]
     },
@@ -2417,8 +2417,8 @@
       "className": "Stregoni",
       "title": "Acquanauta",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8fff442ea3ccb655437e333a1edf48c8.jpg",
-      "powerLevel": 457,
-      "lastPlayedTimestamp": 1782770000000,
+      "powerLevel": 500,
+      "lastPlayedTimestamp": 1782774151000,
       "lastActivityTimestamp": 1768164966000,
       "lastActivityText": "Avamposto di Tharsis il 11/01/2026 20:56",
       "activities": [
