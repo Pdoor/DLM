@@ -1,14 +1,144 @@
 {
-  "generatedAt": "2026-06-30T01:31:55.556Z",
+  "generatedAt": "2026-06-30T06:18:22.806Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "Krikka93#463",
+      "membershipId": "4611686018504053383",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatrice",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1782799901000,
+      "lastActivityTimestamp": 1782799479000,
+      "lastActivityText": "Morsa della cupidigia: Standard il 30/06/2026 06:04",
+      "activities": [
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-06-30T06:04:39Z",
+          "instanceId": "16994571412"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-06-30T05:33:46Z",
+          "instanceId": "16994516475"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-06-27T07:59:42Z",
+          "instanceId": "16979620517"
+        },
+        {
+          "name": "Campi di battaglia: Nucleo: Con matchmaking",
+          "period": "2026-06-27T07:30:22Z",
+          "instanceId": "16979267245"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-06-27T07:14:09Z",
+          "instanceId": "16979235538"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-25T06:02:06Z",
+          "instanceId": "16969577436"
+        },
+        {
+          "name": "La corrotta: Con matchmaking",
+          "period": "2026-06-25T05:44:24Z",
+          "instanceId": "16969529540"
+        },
+        {
+          "name": "La corrotta: Con matchmaking",
+          "period": "2026-06-25T05:30:18Z",
+          "instanceId": "16969488419"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-06-20T20:04:39Z",
+          "instanceId": "16945260471"
+        },
+        {
+          "name": "Bis in evidenza: Mente Consacrata: Pantheon",
+          "period": "2026-06-20T20:02:51Z",
+          "instanceId": "16944553771"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b98115713999de65cac82a37b83a2815.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1782800123000,
+      "lastActivityTimestamp": 1782799262000,
+      "lastActivityText": "Cosmodromo il 30/06/2026 06:01",
+      "activities": [
+        {
+          "name": "Cosmodromo",
+          "period": "2026-06-30T06:01:02Z",
+          "instanceId": "16994569780"
+        },
+        {
+          "name": "Giardini Exodus 2A: Maestro",
+          "period": "2026-06-30T05:39:42Z",
+          "instanceId": "16994543244"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-06-30T05:35:05Z",
+          "instanceId": "16994478263"
+        },
+        {
+          "name": "Giardini Exodus 2A: Maestro",
+          "period": "2026-06-30T05:15:13Z",
+          "instanceId": "16994448535"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-06-30T05:07:36Z",
+          "instanceId": "16994398956"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-06-28T10:25:51Z",
+          "instanceId": "16985222701"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-06-26T06:36:33Z",
+          "instanceId": "16974326439"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-06-26T06:28:40Z",
+          "instanceId": "16974286044"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-06-26T06:17:17Z",
+          "instanceId": "16974265833"
+        },
+        {
+          "name": "Spirale invertita: Con matchmaking",
+          "period": "2026-06-26T05:51:39Z",
+          "instanceId": "16974229297"
+        }
+      ]
+    },
+    {
       "displayName": "Harbinger#2400",
       "membershipId": "4611686018477535812",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Leggenda",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/9b7605c2a5f63881e025595c4371ba45.jpg",
@@ -720,71 +850,6 @@
       ]
     },
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1782757761000,
-      "lastActivityTimestamp": 1782756306000,
-      "lastActivityText": "Bunker dei caduti: Con matchmaking il 29/06/2026 18:05",
-      "activities": [
-        {
-          "name": "Bunker dei caduti: Con matchmaking",
-          "period": "2026-06-29T18:05:06Z",
-          "instanceId": "16991824257"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-06-29T17:47:31Z",
-          "instanceId": "16991745757"
-        },
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-06-29T17:06:28Z",
-          "instanceId": "16991618340"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-29T16:38:49Z",
-          "instanceId": "16991489962"
-        },
-        {
-          "name": "Terreni di Prova: Con matchmaking",
-          "period": "2026-06-29T15:21:32Z",
-          "instanceId": "16991262702"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-06-29T14:28:04Z",
-          "instanceId": "16991104940"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-06-29T13:20:16Z",
-          "instanceId": "16990933179"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-06-29T12:40:50Z",
-          "instanceId": "16990803865"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-06-29T10:20:17Z",
-          "instanceId": "16990485923"
-        },
-        {
-          "name": "La Guerriera: Con matchmaking",
-          "period": "2026-06-29T09:26:28Z",
-          "instanceId": "16990379936"
-        }
-      ]
-    },
-    {
       "displayName": "mitoflo#6589",
       "membershipId": "4611686018441699415",
       "bungieNetMembershipId": "",
@@ -911,71 +976,6 @@
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-06-27T09:41:42Z",
           "instanceId": "16979591353"
-        }
-      ]
-    },
-    {
-      "displayName": "Krikka93#463",
-      "membershipId": "4611686018504053383",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b106d6e61f40071114fd9dfd8fe64c2d.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1782738726000,
-      "lastActivityTimestamp": 1782737944000,
-      "lastActivityText": "La Guerriera: Personalizzata il 29/06/2026 12:59",
-      "activities": [
-        {
-          "name": "La Guerriera: Personalizzata",
-          "period": "2026-06-29T12:59:04Z",
-          "instanceId": "16990839144"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-06-29T12:42:11Z",
-          "instanceId": "16990795536"
-        },
-        {
-          "name": "Terreni di Prova: Personalizzata",
-          "period": "2026-06-29T12:36:17Z",
-          "instanceId": "16990761049"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-06-29T12:17:15Z",
-          "instanceId": "16990741828"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-27T07:59:42Z",
-          "instanceId": "16979620517"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-27T07:53:05Z",
-          "instanceId": "16979321506"
-        },
-        {
-          "name": "Riproposta in evidenza: Gahlran: Pantheon",
-          "period": "2026-06-17T11:10:08Z",
-          "instanceId": "16923663784"
-        },
-        {
-          "name": "Riproposta in evidenza: Gahlran: Pantheon",
-          "period": "2026-06-16T19:14:47Z",
-          "instanceId": "16919339039"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-06-15T19:17:56Z",
-          "instanceId": "16913068982"
-        },
-        {
-          "name": "Pantheon: Calus risplendente: Personalizzata",
-          "period": "2026-06-15T18:32:04Z",
-          "instanceId": "16913070447"
         }
       ]
     },
