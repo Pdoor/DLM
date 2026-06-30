@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-06-29T23:03:02.708Z",
+  "generatedAt": "2026-06-30T01:31:55.556Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Harbinger#2400",
+      "membershipId": "4611686018477535812",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Leggenda",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/9b7605c2a5f63881e025595c4371ba45.jpg",
+      "powerLevel": 440,
+      "lastPlayedTimestamp": 1782783007000,
+      "lastActivityTimestamp": 1782780833000,
+      "lastActivityText": "Conquista modalità esperto: Luna: Personalizzata il 30/06/2026 00:53",
+      "activities": [
+        {
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-06-30T00:53:53Z",
+          "instanceId": "16993359844"
+        },
+        {
+          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
+          "period": "2026-06-30T00:29:21Z",
+          "instanceId": "16993348739"
+        },
+        {
+          "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
+          "period": "2026-06-29T23:59:26Z",
+          "instanceId": "16993234950"
+        },
+        {
+          "name": "La caduta di un Kell: Personalizzata",
+          "period": "2026-06-29T23:13:12Z",
+          "instanceId": "16993057441"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-06-29T22:54:22Z",
+          "instanceId": "16992938863"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-29T22:36:23Z",
+          "instanceId": "16992858960"
+        },
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-06-29T21:49:58Z",
+          "instanceId": "16992757941"
+        },
+        {
+          "name": "Il trono infranto",
+          "period": "2026-06-29T21:22:11Z",
+          "instanceId": "16992614120"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-06-29T21:20:02Z",
+          "instanceId": "16992507688"
+        },
+        {
+          "name": "Il Pozzo Cieco",
+          "period": "2026-06-28T16:51:43Z",
+          "instanceId": "16986604614"
+        }
+      ]
+    },
     {
       "displayName": "ClaudeFj#8206",
       "membershipId": "4611686018522886434",
@@ -413,6 +478,11 @@
           "instanceId": "16992157885"
         },
         {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-06-29T19:41:11Z",
+          "instanceId": "16993086926"
+        },
+        {
           "name": "Cella Senza Sole: Con matchmaking",
           "period": "2026-06-29T19:29:33Z",
           "instanceId": "16992106458"
@@ -451,11 +521,6 @@
           "name": "Cripta di Pietrafonda",
           "period": "2026-06-29T17:09:31Z",
           "instanceId": "16991583317"
-        },
-        {
-          "name": "Rovina della Signora della Guerra: Standard",
-          "period": "2026-06-29T11:22:25Z",
-          "instanceId": "16990595063"
         }
       ]
     },
@@ -2413,12 +2478,12 @@
       "displayName": "No TAG Jay#1042",
       "membershipId": "4611686018465064117",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Acquanauta",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8fff442ea3ccb655437e333a1edf48c8.jpg",
-      "powerLevel": 500,
-      "lastPlayedTimestamp": 1782774151000,
+      "powerLevel": 503,
+      "lastPlayedTimestamp": 1782778607000,
       "lastActivityTimestamp": 1768164966000,
       "lastActivityText": "Avamposto di Tharsis il 11/01/2026 20:56",
       "activities": [
