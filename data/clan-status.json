@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T21:16:13.283Z",
+  "generatedAt": "2026-06-30T22:51:43.603Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,35 @@
       "displayName": "nubires#8588",
       "membershipId": "4611686018433412718",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 503,
-      "lastPlayedTimestamp": 1782854148000,
-      "lastActivityTimestamp": 1782853083000,
-      "lastActivityText": "Morsa della cupidigia: Standard il 30/06/2026 20:58",
+      "powerLevel": 517,
+      "lastPlayedTimestamp": 1782858041000,
+      "lastActivityTimestamp": 1782857528000,
+      "lastActivityText": "Controllo: Con matchmaking il 30/06/2026 22:12",
       "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-30T22:12:08Z",
+          "instanceId": "16997176852"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-30T21:56:09Z",
+          "instanceId": "16997138511"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-30T21:41:49Z",
+          "instanceId": "16997096729"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-30T21:27:29Z",
+          "instanceId": "16997049407"
+        },
         {
           "name": "Morsa della cupidigia: Standard",
           "period": "2026-06-30T20:58:03Z",
@@ -46,26 +66,71 @@
           "name": "Palude Selina, Venere: Caccia alle taglie: Con matchmaking",
           "period": "2026-06-28T21:20:22Z",
           "instanceId": "16987897560"
+        }
+      ]
+    },
+    {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/31c293834397c4a5dcebdc97b222874e.jpg",
+      "powerLevel": 360,
+      "lastPlayedTimestamp": 1782859467000,
+      "lastActivityTimestamp": 1782857406000,
+      "lastActivityText": "Controllo: Con matchmaking il 30/06/2026 22:10",
+      "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-30T22:10:06Z",
+          "instanceId": "16997190727"
         },
         {
-          "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
-          "period": "2026-06-28T18:36:45Z",
-          "instanceId": "16987112585"
+          "name": "Tifone Imperatore: Personalizzata",
+          "period": "2026-06-30T15:20:52Z",
+          "instanceId": "16995981940"
         },
         {
-          "name": "Conquista modalità esperto: Luna: Personalizzata",
-          "period": "2026-06-28T18:08:25Z",
-          "instanceId": "16987029104"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-06-28T18:01:35Z",
-          "instanceId": "16986946988"
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-06-29T20:21:27Z",
+          "instanceId": "16992343687"
         },
         {
           "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-28T17:55:47Z",
-          "instanceId": "16986934320"
+          "period": "2026-06-29T19:26:26Z",
+          "instanceId": "16992109751"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-29T17:16:03Z",
+          "instanceId": "16991618085"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-29T17:03:34Z",
+          "instanceId": "16991575325"
+        },
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-06-29T15:01:50Z",
+          "instanceId": "16991267346"
+        },
+        {
+          "name": "La Guerriera: Con matchmaking",
+          "period": "2026-06-29T14:46:05Z",
+          "instanceId": "16991145022"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-06-28T14:49:44Z",
+          "instanceId": "16986160348"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-06-28T14:31:47Z",
+          "instanceId": "16986030743"
         }
       ]
     },
@@ -196,6 +261,71 @@
           "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
           "period": "2026-06-27T19:55:03Z",
           "instanceId": "16981850708"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Scrittore spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
+      "powerLevel": 460,
+      "lastPlayedTimestamp": 1782850957000,
+      "lastActivityTimestamp": 1782846834000,
+      "lastActivityText": "Volta di Vetro: Standard il 30/06/2026 19:13",
+      "activities": [
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-06-30T19:13:54Z",
+          "instanceId": "16997019806"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-06-30T18:16:21Z",
+          "instanceId": "16996594682"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-06-30T17:26:46Z",
+          "instanceId": "16996369680"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-06-29T18:41:40Z",
+          "instanceId": "16992059065"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-06-29T18:26:35Z",
+          "instanceId": "16991876224"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-06-29T17:21:58Z",
+          "instanceId": "16991904718"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-06-29T16:57:02Z",
+          "instanceId": "16991617687"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-06-28T21:00:38Z",
+          "instanceId": "16987944441"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-06-28T19:42:46Z",
+          "instanceId": "16987440356"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-28T19:08:08Z",
+          "instanceId": "16987307471"
         }
       ]
     },
@@ -391,71 +521,6 @@
           "name": "Morsa della cupidigia: Standard",
           "period": "2026-06-25T05:01:33Z",
           "instanceId": "16969443804"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Scrittore spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 460,
-      "lastPlayedTimestamp": 1782850957000,
-      "lastActivityTimestamp": 1782843381000,
-      "lastActivityText": "La caduta di un Re: Standard il 30/06/2026 18:16",
-      "activities": [
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-06-30T18:16:21Z",
-          "instanceId": "16996594682"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-06-30T17:26:46Z",
-          "instanceId": "16996369680"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-06-29T18:41:40Z",
-          "instanceId": "16992059065"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-06-29T18:26:35Z",
-          "instanceId": "16991876224"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-06-29T17:21:58Z",
-          "instanceId": "16991904718"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-06-29T16:57:02Z",
-          "instanceId": "16991617687"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-06-28T21:00:38Z",
-          "instanceId": "16987944441"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-06-28T19:42:46Z",
-          "instanceId": "16987440356"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-28T19:08:08Z",
-          "instanceId": "16987307471"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-28T18:41:37Z",
-          "instanceId": "16987174854"
         }
       ]
     },
@@ -1041,71 +1106,6 @@
           "name": "La Guerriera: Personalizzata",
           "period": "2026-06-29T15:30:15Z",
           "instanceId": "16991279644"
-        }
-      ]
-    },
-    {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f6bb9e6d08d8881be22dfa2b79f7b2af.jpg",
-      "powerLevel": 359,
-      "lastPlayedTimestamp": 1782834326000,
-      "lastActivityTimestamp": 1782832852000,
-      "lastActivityText": "Tifone Imperatore: Personalizzata il 30/06/2026 15:20",
-      "activities": [
-        {
-          "name": "Tifone Imperatore: Personalizzata",
-          "period": "2026-06-30T15:20:52Z",
-          "instanceId": "16995981940"
-        },
-        {
-          "name": "Miniere di Sale: Personalizzata",
-          "period": "2026-06-29T20:21:27Z",
-          "instanceId": "16992343687"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-29T19:26:26Z",
-          "instanceId": "16992109751"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-06-29T17:16:03Z",
-          "instanceId": "16991618085"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-06-29T17:03:34Z",
-          "instanceId": "16991575325"
-        },
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-06-29T15:01:50Z",
-          "instanceId": "16991267346"
-        },
-        {
-          "name": "La Guerriera: Con matchmaking",
-          "period": "2026-06-29T14:46:05Z",
-          "instanceId": "16991145022"
-        },
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-06-28T14:49:44Z",
-          "instanceId": "16986160348"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-28T14:31:47Z",
-          "instanceId": "16986030743"
-        },
-        {
-          "name": "Impero: Audace",
-          "period": "2026-06-26T20:15:02Z",
-          "instanceId": "16976692251"
         }
       ]
     },
