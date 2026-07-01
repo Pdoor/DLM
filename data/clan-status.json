@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-01T21:08:36.126Z",
+  "generatedAt": "2026-07-01T22:48:49.697Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Harbinger#2400",
+      "membershipId": "4611686018477535812",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Leggenda",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/9b7605c2a5f63881e025595c4371ba45.jpg",
+      "powerLevel": 462,
+      "lastPlayedTimestamp": 1782946070000,
+      "lastActivityTimestamp": 1782943831000,
+      "lastActivityText": "Profezia il 01/07/2026 22:10",
+      "activities": [
+        {
+          "name": "Profezia",
+          "period": "2026-07-01T22:10:31Z",
+          "instanceId": "17001046203"
+        },
+        {
+          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
+          "period": "2026-07-01T21:34:50Z",
+          "instanceId": "17000957747"
+        },
+        {
+          "name": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking",
+          "period": "2026-07-01T14:17:54Z",
+          "instanceId": "16999636678"
+        },
+        {
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-06-30T00:53:53Z",
+          "instanceId": "16993359844"
+        },
+        {
+          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
+          "period": "2026-06-30T00:29:21Z",
+          "instanceId": "16993348739"
+        },
+        {
+          "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
+          "period": "2026-06-29T23:59:26Z",
+          "instanceId": "16993234950"
+        },
+        {
+          "name": "La caduta di un Kell: Personalizzata",
+          "period": "2026-06-29T23:13:12Z",
+          "instanceId": "16993057441"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-06-29T22:54:22Z",
+          "instanceId": "16992938863"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-06-29T22:36:23Z",
+          "instanceId": "16992858960"
+        },
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-06-29T21:49:58Z",
+          "instanceId": "16992757941"
+        }
+      ]
+    },
     {
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
@@ -258,12 +323,12 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 502,
-      "lastPlayedTimestamp": 1782928361000,
+      "powerLevel": 466,
+      "lastPlayedTimestamp": 1782946052000,
       "lastActivityTimestamp": 1782926532000,
       "lastActivityText": "Conquista modalità gran maestro: Eliostato: Personalizzata il 01/07/2026 17:22",
       "activities": [
@@ -706,71 +771,6 @@
           "name": "Cosmodromo",
           "period": "2026-06-29T19:07:34Z",
           "instanceId": "16992045858"
-        }
-      ]
-    },
-    {
-      "displayName": "Harbinger#2400",
-      "membershipId": "4611686018477535812",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Leggenda",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/9b7605c2a5f63881e025595c4371ba45.jpg",
-      "powerLevel": 440,
-      "lastPlayedTimestamp": 1782916319000,
-      "lastActivityTimestamp": 1782915474000,
-      "lastActivityText": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking il 01/07/2026 14:17",
-      "activities": [
-        {
-          "name": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking",
-          "period": "2026-07-01T14:17:54Z",
-          "instanceId": "16999636678"
-        },
-        {
-          "name": "Conquista modalità esperto: Luna: Personalizzata",
-          "period": "2026-06-30T00:53:53Z",
-          "instanceId": "16993359844"
-        },
-        {
-          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
-          "period": "2026-06-30T00:29:21Z",
-          "instanceId": "16993348739"
-        },
-        {
-          "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
-          "period": "2026-06-29T23:59:26Z",
-          "instanceId": "16993234950"
-        },
-        {
-          "name": "La caduta di un Kell: Personalizzata",
-          "period": "2026-06-29T23:13:12Z",
-          "instanceId": "16993057441"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-06-29T22:54:22Z",
-          "instanceId": "16992938863"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-29T22:36:23Z",
-          "instanceId": "16992858960"
-        },
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-06-29T21:49:58Z",
-          "instanceId": "16992757941"
-        },
-        {
-          "name": "Il trono infranto",
-          "period": "2026-06-29T21:22:11Z",
-          "instanceId": "16992614120"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-06-29T21:20:02Z",
-          "instanceId": "16992507688"
         }
       ]
     },
@@ -2018,7 +2018,7 @@
       "title": "Leggenda",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
       "powerLevel": 420,
-      "lastPlayedTimestamp": 1782908664000,
+      "lastPlayedTimestamp": 1782941959000,
       "lastActivityTimestamp": 1782584909000,
       "lastActivityText": "Profezia il 27/06/2026 18:28",
       "activities": [
