@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T19:22:10.758Z",
+  "generatedAt": "2026-07-01T21:08:36.126Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,30 @@
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/00836c62f46b3fff6bae07fbf39dd2b2.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1782933674000,
-      "lastActivityTimestamp": 1782931683000,
-      "lastActivityText": "Volta di Vetro: Standard il 01/07/2026 18:48",
+      "powerLevel": 216,
+      "lastPlayedTimestamp": 1782939299000,
+      "lastActivityTimestamp": 1782938146000,
+      "lastActivityText": "Ultimo desiderio: Standard il 01/07/2026 20:35",
       "activities": [
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-01T20:35:46Z",
+          "instanceId": "17000722475"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-07-01T19:44:18Z",
+          "instanceId": "17000649511"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-07-01T19:12:53Z",
+          "instanceId": "17000480025"
+        },
         {
           "name": "Volta di Vetro: Standard",
           "period": "2026-07-01T18:48:03Z",
@@ -48,15 +63,30 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Scrittore spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1782933710000,
-      "lastActivityTimestamp": 1782931683000,
-      "lastActivityText": "Volta di Vetro: Standard il 01/07/2026 18:48",
+      "powerLevel": 478,
+      "lastPlayedTimestamp": 1782939246000,
+      "lastActivityTimestamp": 1782938146000,
+      "lastActivityText": "Ultimo desiderio: Standard il 01/07/2026 20:35",
       "activities": [
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-01T20:35:46Z",
+          "instanceId": "17000722475"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-07-01T19:44:18Z",
+          "instanceId": "17000649511"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-07-01T19:12:53Z",
+          "instanceId": "17000480025"
+        },
         {
           "name": "Volta di Vetro: Standard",
           "period": "2026-07-01T18:48:03Z",
@@ -89,23 +119,8 @@
         },
         {
           "name": "La caduta di un Re: Standard",
-          "period": "2026-06-29T18:26:35Z",
-          "instanceId": "16991876224"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
           "period": "2026-06-29T17:21:58Z",
           "instanceId": "16991904718"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-06-29T16:57:02Z",
-          "instanceId": "16991617687"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-06-28T21:00:38Z",
-          "instanceId": "16987944441"
         }
       ]
     },
