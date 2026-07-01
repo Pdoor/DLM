@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-06-30T22:51:43.603Z",
+  "generatedAt": "2026-07-01T00:13:11.460Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/31c293834397c4a5dcebdc97b222874e.jpg",
+      "powerLevel": 360,
+      "lastPlayedTimestamp": 1782860141000,
+      "lastActivityTimestamp": 1782858845000,
+      "lastActivityText": "La caduta di un Kell: Personalizzata il 30/06/2026 22:34",
+      "activities": [
+        {
+          "name": "La caduta di un Kell: Personalizzata",
+          "period": "2026-06-30T22:34:05Z",
+          "instanceId": "16997291744"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-30T22:10:06Z",
+          "instanceId": "16997190727"
+        },
+        {
+          "name": "Tifone Imperatore: Personalizzata",
+          "period": "2026-06-30T15:20:52Z",
+          "instanceId": "16995981940"
+        },
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-06-29T20:21:27Z",
+          "instanceId": "16992343687"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-06-29T19:26:26Z",
+          "instanceId": "16992109751"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-29T17:16:03Z",
+          "instanceId": "16991618085"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-29T17:03:34Z",
+          "instanceId": "16991575325"
+        },
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-06-29T15:01:50Z",
+          "instanceId": "16991267346"
+        },
+        {
+          "name": "La Guerriera: Con matchmaking",
+          "period": "2026-06-29T14:46:05Z",
+          "instanceId": "16991145022"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-06-28T14:49:44Z",
+          "instanceId": "16986160348"
+        }
+      ]
+    },
     {
       "displayName": "nubires#8588",
       "membershipId": "4611686018433412718",
@@ -66,71 +131,6 @@
           "name": "Palude Selina, Venere: Caccia alle taglie: Con matchmaking",
           "period": "2026-06-28T21:20:22Z",
           "instanceId": "16987897560"
-        }
-      ]
-    },
-    {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/31c293834397c4a5dcebdc97b222874e.jpg",
-      "powerLevel": 360,
-      "lastPlayedTimestamp": 1782859467000,
-      "lastActivityTimestamp": 1782857406000,
-      "lastActivityText": "Controllo: Con matchmaking il 30/06/2026 22:10",
-      "activities": [
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-06-30T22:10:06Z",
-          "instanceId": "16997190727"
-        },
-        {
-          "name": "Tifone Imperatore: Personalizzata",
-          "period": "2026-06-30T15:20:52Z",
-          "instanceId": "16995981940"
-        },
-        {
-          "name": "Miniere di Sale: Personalizzata",
-          "period": "2026-06-29T20:21:27Z",
-          "instanceId": "16992343687"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-06-29T19:26:26Z",
-          "instanceId": "16992109751"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-06-29T17:16:03Z",
-          "instanceId": "16991618085"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-06-29T17:03:34Z",
-          "instanceId": "16991575325"
-        },
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-06-29T15:01:50Z",
-          "instanceId": "16991267346"
-        },
-        {
-          "name": "La Guerriera: Con matchmaking",
-          "period": "2026-06-29T14:46:05Z",
-          "instanceId": "16991145022"
-        },
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-06-28T14:49:44Z",
-          "instanceId": "16986160348"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-28T14:31:47Z",
-          "instanceId": "16986030743"
         }
       ]
     },
