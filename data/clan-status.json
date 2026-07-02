@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T11:09:36.089Z",
+  "generatedAt": "2026-07-02T13:19:03.414Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,26 @@
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cd907b1677ccced0b2e3f6b6df86ec49.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1782990488000,
-      "lastActivityTimestamp": 1782989693000,
-      "lastActivityText": "Cosmodromo il 02/07/2026 10:54",
+      "powerLevel": 518,
+      "lastPlayedTimestamp": 1782998195000,
+      "lastActivityTimestamp": 1782991861000,
+      "lastActivityText": "Modalità del mondo: audace: Audace il 02/07/2026 11:31",
       "activities": [
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-07-02T11:31:01Z",
+          "instanceId": "17003090120"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-07-02T11:03:18Z",
+          "instanceId": "17003058649"
+        },
+        {
+          "name": "Missione: Rischio di collasso: Normale",
+          "period": "2026-07-02T10:55:21Z",
+          "instanceId": "17003075108"
+        },
         {
           "name": "Cosmodromo",
           "period": "2026-07-02T10:54:53Z",
@@ -51,21 +66,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-02T04:55:16Z",
           "instanceId": "17002327455"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-02T04:42:09Z",
-          "instanceId": "17002286870"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-07-01T18:34:27Z",
-          "instanceId": "17000317191"
-        },
-        {
-          "name": "La Guerriera: Con matchmaking",
-          "period": "2026-07-01T18:19:44Z",
-          "instanceId": "17000264420"
         }
       ]
     },
