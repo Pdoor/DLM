@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-02T04:42:19.233Z",
+  "generatedAt": "2026-07-02T08:14:32.194Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cd907b1677ccced0b2e3f6b6df86ec49.jpg",
+      "powerLevel": 518,
+      "lastPlayedTimestamp": 1782974811000,
+      "lastActivityTimestamp": 1782971549000,
+      "lastActivityText": "Esplosione: Con matchmaking il 02/07/2026 05:52",
+      "activities": [
+        {
+          "name": "Esplosione: Con matchmaking",
+          "period": "2026-07-02T05:52:29Z",
+          "instanceId": "17002471565"
+        },
+        {
+          "name": "Esplosione: Con matchmaking",
+          "period": "2026-07-02T05:43:26Z",
+          "instanceId": "17002445236"
+        },
+        {
+          "name": "Esplosione: Con matchmaking",
+          "period": "2026-07-02T05:34:30Z",
+          "instanceId": "17002424225"
+        },
+        {
+          "name": "Esplosione: Con matchmaking",
+          "period": "2026-07-02T05:25:16Z",
+          "instanceId": "17002399474"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-02T05:07:35Z",
+          "instanceId": "17002361651"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-02T04:55:16Z",
+          "instanceId": "17002327455"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-02T04:42:09Z",
+          "instanceId": "17002286870"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-07-01T18:34:27Z",
+          "instanceId": "17000317191"
+        },
+        {
+          "name": "La Guerriera: Con matchmaking",
+          "period": "2026-07-01T18:19:44Z",
+          "instanceId": "17000264420"
+        },
+        {
+          "name": "Fortezza della Guida: Con matchmaking",
+          "period": "2026-07-01T17:56:59Z",
+          "instanceId": "17000214480"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -251,71 +316,6 @@
           "name": "La caduta di un Re: Standard",
           "period": "2026-06-29T17:21:58Z",
           "instanceId": "16991904718"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cd907b1677ccced0b2e3f6b6df86ec49.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1782967177000,
-      "lastActivityTimestamp": 1782930867000,
-      "lastActivityText": "Morsa della cupidigia: Standard il 01/07/2026 18:34",
-      "activities": [
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-07-01T18:34:27Z",
-          "instanceId": "17000317191"
-        },
-        {
-          "name": "La Guerriera: Con matchmaking",
-          "period": "2026-07-01T18:19:44Z",
-          "instanceId": "17000264420"
-        },
-        {
-          "name": "Fortezza della Guida: Con matchmaking",
-          "period": "2026-07-01T17:56:59Z",
-          "instanceId": "17000214480"
-        },
-        {
-          "name": "Il Ponte di Vetro",
-          "period": "2026-07-01T14:42:41Z",
-          "instanceId": "16999676903"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-01T13:54:56Z",
-          "instanceId": "16999550238"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-07-01T12:37:20Z",
-          "instanceId": "16999390105"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-01T12:11:17Z",
-          "instanceId": "16999324949"
-        },
-        {
-          "name": "Bunker dei caduti: Con matchmaking",
-          "period": "2026-06-29T18:05:06Z",
-          "instanceId": "16991824257"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-06-29T17:47:31Z",
-          "instanceId": "16991745757"
-        },
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-06-29T17:06:28Z",
-          "instanceId": "16991618340"
         }
       ]
     },
