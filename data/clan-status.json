@@ -1,74 +1,9 @@
 {
-  "generatedAt": "2026-07-02T21:15:00.525Z",
+  "generatedAt": "2026-07-02T22:39:11.886Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
-    {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/31c293834397c4a5dcebdc97b222874e.jpg",
-      "powerLevel": 189,
-      "lastPlayedTimestamp": 1783026810000,
-      "lastActivityTimestamp": 1783025766000,
-      "lastActivityText": "Controllo: Con matchmaking il 02/07/2026 20:56",
-      "activities": [
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-02T20:56:06Z",
-          "instanceId": "17004628906"
-        },
-        {
-          "name": "Scalata: Campagna cooperativa",
-          "period": "2026-07-02T17:04:26Z",
-          "instanceId": "17004001240"
-        },
-        {
-          "name": "Misure disperate: Normale",
-          "period": "2026-07-02T16:27:25Z",
-          "instanceId": "17003887544"
-        },
-        {
-          "name": "L'astuta: Normale",
-          "period": "2026-07-02T15:59:18Z",
-          "instanceId": "17003786680"
-        },
-        {
-          "name": "Gli Spettri: Normale",
-          "period": "2026-07-02T15:27:49Z",
-          "instanceId": "17003698928"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-02T15:05:48Z",
-          "instanceId": "17003599001"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-07-02T14:48:00Z",
-          "instanceId": "17003562742"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-01T15:43:13Z",
-          "instanceId": "16999826169"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-01T15:28:33Z",
-          "instanceId": "16999790991"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-01T15:13:05Z",
-          "instanceId": "16999753511"
-        }
-      ]
-    },
     {
       "displayName": "mattia08pro#6310",
       "membershipId": "4611686018513701477",
@@ -78,10 +13,35 @@
       "title": "Intrepido",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/dac5ae759ce9556eaf49d6f8776713f5.jpg",
       "powerLevel": 481,
-      "lastPlayedTimestamp": 1783026799000,
-      "lastActivityTimestamp": 1783025449000,
-      "lastActivityText": "Controllo: Con matchmaking il 02/07/2026 20:50",
+      "lastPlayedTimestamp": 1783031529000,
+      "lastActivityTimestamp": 1783030546000,
+      "lastActivityText": "Controllo: Con matchmaking il 02/07/2026 22:15",
       "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-02T22:15:46Z",
+          "instanceId": "17004885124"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-02T21:57:30Z",
+          "instanceId": "17004826019"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-02T21:45:02Z",
+          "instanceId": "17004775244"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-02T21:23:37Z",
+          "instanceId": "17004710949"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-02T21:11:20Z",
+          "instanceId": "17004675594"
+        },
         {
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-02T20:50:49Z",
@@ -106,31 +66,6 @@
           "name": "Lega Gare di Astori",
           "period": "2026-07-02T16:25:46Z",
           "instanceId": "17003802095"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-02T16:15:54Z",
-          "instanceId": "17003774339"
-        },
-        {
-          "name": "Terminale Intuitivo: Personalizzata",
-          "period": "2026-07-02T16:01:07Z",
-          "instanceId": "17003752466"
-        },
-        {
-          "name": "Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-07-02T15:20:04Z",
-          "instanceId": "17003702662"
-        },
-        {
-          "name": "Scalata: Normale",
-          "period": "2026-07-02T13:59:48Z",
-          "instanceId": "17003447105"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-30T16:27:41Z",
-          "instanceId": "16996140949"
         }
       ]
     },
@@ -142,11 +77,21 @@
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 541,
-      "lastPlayedTimestamp": 1783026887000,
-      "lastActivityTimestamp": 1783025193000,
-      "lastActivityText": "Dualità: Maestro il 02/07/2026 20:46",
+      "powerLevel": 516,
+      "lastPlayedTimestamp": 1783031918000,
+      "lastActivityTimestamp": 1783029577000,
+      "lastActivityText": "Comando del Vespro: Normale il 02/07/2026 21:59",
       "activities": [
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-07-02T21:59:37Z",
+          "instanceId": "17004861439"
+        },
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-07-02T21:02:37Z",
+          "instanceId": "17004778473"
+        },
         {
           "name": "Dualità: Maestro",
           "period": "2026-07-02T20:46:33Z",
@@ -186,16 +131,71 @@
           "name": "La radice degli incubi: Maestro",
           "period": "2026-07-01T16:57:09Z",
           "instanceId": "17000068498"
+        }
+      ]
+    },
+    {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/31c293834397c4a5dcebdc97b222874e.jpg",
+      "powerLevel": 189,
+      "lastPlayedTimestamp": 1783028199000,
+      "lastActivityTimestamp": 1783027407000,
+      "lastActivityText": "Controllo: Con matchmaking il 02/07/2026 21:23",
+      "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-02T21:23:27Z",
+          "instanceId": "17004720756"
         },
         {
-          "name": "Rovina della Signora della Guerra: Standard",
-          "period": "2026-07-01T16:31:08Z",
-          "instanceId": "16999964591"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-02T21:10:09Z",
+          "instanceId": "17004674210"
         },
         {
-          "name": "Comando del Vespro: Maestro",
-          "period": "2026-07-01T16:02:10Z",
-          "instanceId": "16999917890"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-02T20:56:06Z",
+          "instanceId": "17004628906"
+        },
+        {
+          "name": "Scalata: Campagna cooperativa",
+          "period": "2026-07-02T17:04:26Z",
+          "instanceId": "17004001240"
+        },
+        {
+          "name": "Misure disperate: Normale",
+          "period": "2026-07-02T16:27:25Z",
+          "instanceId": "17003887544"
+        },
+        {
+          "name": "L'astuta: Normale",
+          "period": "2026-07-02T15:59:18Z",
+          "instanceId": "17003786680"
+        },
+        {
+          "name": "Gli Spettri: Normale",
+          "period": "2026-07-02T15:27:49Z",
+          "instanceId": "17003698928"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-02T15:05:48Z",
+          "instanceId": "17003599001"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-07-02T14:48:00Z",
+          "instanceId": "17003562742"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-01T15:43:13Z",
+          "instanceId": "16999826169"
         }
       ]
     },
