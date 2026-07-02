@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-01T22:48:49.697Z",
+  "generatedAt": "2026-07-02T00:14:23.779Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 498,
+      "lastPlayedTimestamp": 1782947912000,
+      "lastActivityTimestamp": 1782947524000,
+      "lastActivityText": "Azzardo: Con matchmaking il 01/07/2026 23:12",
+      "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-01T23:12:04Z",
+          "instanceId": "17001193608"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-01T23:05:00Z",
+          "instanceId": "17001167679"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-01T22:55:04Z",
+          "instanceId": "17001137412"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-01T22:45:55Z",
+          "instanceId": "17001111018"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
+          "period": "2026-07-01T17:22:12Z",
+          "instanceId": "17000154893"
+        },
+        {
+          "name": "La radice degli incubi: Maestro",
+          "period": "2026-07-01T16:57:09Z",
+          "instanceId": "17000068498"
+        },
+        {
+          "name": "Rovina della Signora della Guerra: Standard",
+          "period": "2026-07-01T16:31:08Z",
+          "instanceId": "16999964591"
+        },
+        {
+          "name": "Comando del Vespro: Maestro",
+          "period": "2026-07-01T16:02:10Z",
+          "instanceId": "16999917890"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-07-01T04:31:38Z",
+          "instanceId": "16998432174"
+        },
+        {
+          "name": "Esplosione: Con matchmaking",
+          "period": "2026-07-01T04:15:40Z",
+          "instanceId": "16998361501"
+        }
+      ]
+    },
     {
       "displayName": "Harbinger#2400",
       "membershipId": "4611686018477535812",
@@ -13,10 +78,20 @@
       "title": "Leggenda",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/9b7605c2a5f63881e025595c4371ba45.jpg",
       "powerLevel": 462,
-      "lastPlayedTimestamp": 1782946070000,
-      "lastActivityTimestamp": 1782943831000,
-      "lastActivityText": "Profezia il 01/07/2026 22:10",
+      "lastPlayedTimestamp": 1782951224000,
+      "lastActivityTimestamp": 1782947231000,
+      "lastActivityText": "Dualità: Standard il 01/07/2026 23:07",
       "activities": [
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-07-01T23:07:11Z",
+          "instanceId": "17001282342"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-07-01T22:32:57Z",
+          "instanceId": "17001155197"
+        },
         {
           "name": "Profezia",
           "period": "2026-07-01T22:10:31Z",
@@ -56,16 +131,6 @@
           "name": "La disonorata: Personalizzata",
           "period": "2026-06-29T22:54:22Z",
           "instanceId": "16992938863"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-29T22:36:23Z",
-          "instanceId": "16992858960"
-        },
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-06-29T21:49:58Z",
-          "instanceId": "16992757941"
         }
       ]
     },
@@ -316,71 +381,6 @@
           "name": "Terminale Intuitivo",
           "period": "2026-07-01T14:00:19Z",
           "instanceId": "16999555106"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 466,
-      "lastPlayedTimestamp": 1782946052000,
-      "lastActivityTimestamp": 1782926532000,
-      "lastActivityText": "Conquista modalità gran maestro: Eliostato: Personalizzata il 01/07/2026 17:22",
-      "activities": [
-        {
-          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
-          "period": "2026-07-01T17:22:12Z",
-          "instanceId": "17000154893"
-        },
-        {
-          "name": "La radice degli incubi: Maestro",
-          "period": "2026-07-01T16:57:09Z",
-          "instanceId": "17000068498"
-        },
-        {
-          "name": "Rovina della Signora della Guerra: Standard",
-          "period": "2026-07-01T16:31:08Z",
-          "instanceId": "16999964591"
-        },
-        {
-          "name": "Comando del Vespro: Maestro",
-          "period": "2026-07-01T16:02:10Z",
-          "instanceId": "16999917890"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-01T04:31:38Z",
-          "instanceId": "16998432174"
-        },
-        {
-          "name": "Esplosione: Con matchmaking",
-          "period": "2026-07-01T04:15:40Z",
-          "instanceId": "16998361501"
-        },
-        {
-          "name": "Esplosione: Con matchmaking",
-          "period": "2026-07-01T04:06:22Z",
-          "instanceId": "16998331419"
-        },
-        {
-          "name": "Esplosione: Con matchmaking",
-          "period": "2026-07-01T03:58:51Z",
-          "instanceId": "16998305369"
-        },
-        {
-          "name": "Esplosione: Con matchmaking",
-          "period": "2026-07-01T03:50:05Z",
-          "instanceId": "16998283529"
-        },
-        {
-          "name": "Esplosione: Con matchmaking",
-          "period": "2026-07-01T03:42:09Z",
-          "instanceId": "16998258083"
         }
       ]
     },
