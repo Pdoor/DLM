@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-03T19:59:00.140Z",
+  "generatedAt": "2026-07-03T21:18:50.984Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "melu#5401",
+      "membershipId": "4611686018459542288",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e452c62485491a02fbc0e36f06d301d2.jpg",
+      "powerLevel": 338,
+      "lastPlayedTimestamp": 1783112461000,
+      "lastActivityTimestamp": 1783111878000,
+      "lastActivityText": "Competitiva: Con matchmaking il 03/07/2026 20:51",
+      "activities": [
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-07-03T20:51:18Z",
+          "instanceId": "17008722253"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-22T21:53:34Z",
+          "instanceId": "16957372139"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-22T21:41:48Z",
+          "instanceId": "16957327875"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-22T19:29:51Z",
+          "instanceId": "16956707310"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-22T19:21:37Z",
+          "instanceId": "16956673352"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-22T19:10:46Z",
+          "instanceId": "16956628739"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-21T20:50:40Z",
+          "instanceId": "16951315868"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-21T20:39:22Z",
+          "instanceId": "16951267811"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-21T20:29:37Z",
+          "instanceId": "16951201404"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-21T20:15:43Z",
+          "instanceId": "16951139100"
+        }
+      ]
+    },
     {
       "displayName": "mattia08pro#6310",
       "membershipId": "4611686018513701477",
@@ -12,11 +77,41 @@
       "className": "Cacciatori",
       "title": "Intrepido",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/dac5ae759ce9556eaf49d6f8776713f5.jpg",
-      "powerLevel": 499,
-      "lastPlayedTimestamp": 1783108666000,
-      "lastActivityTimestamp": 1783107781000,
-      "lastActivityText": "Controllo: Con matchmaking il 03/07/2026 19:43",
+      "powerLevel": 434,
+      "lastPlayedTimestamp": 1783113486000,
+      "lastActivityTimestamp": 1783111797000,
+      "lastActivityText": "Controllo: Con matchmaking il 03/07/2026 20:49",
       "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T20:49:57Z",
+          "instanceId": "17008706347"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T20:36:04Z",
+          "instanceId": "17008670942"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T20:23:00Z",
+          "instanceId": "17008623004"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T20:08:42Z",
+          "instanceId": "17008568028"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T19:58:38Z",
+          "instanceId": "17008524248"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T19:51:58Z",
+          "instanceId": "17008489104"
+        },
         {
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-03T19:43:01Z",
@@ -36,36 +131,6 @@
           "name": "Labirinto di Veles: Maestro",
           "period": "2026-07-03T15:50:16Z",
           "instanceId": "17007659099"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-03T15:38:30Z",
-          "instanceId": "17007635992"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T15:31:23Z",
-          "instanceId": "17007598858"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T14:48:51Z",
-          "instanceId": "17007475372"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T14:35:59Z",
-          "instanceId": "17007435991"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T14:24:02Z",
-          "instanceId": "17007408152"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T14:06:33Z",
-          "instanceId": "17007362587"
         }
       ]
     },
@@ -73,15 +138,55 @@
       "displayName": "TheAnOnymous166#8849",
       "membershipId": "4611686018528729550",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 544,
-      "lastPlayedTimestamp": 1783108712000,
-      "lastActivityTimestamp": 1783107781000,
-      "lastActivityText": "Controllo: Con matchmaking il 03/07/2026 19:43",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783112622000,
+      "lastActivityTimestamp": 1783111797000,
+      "lastActivityText": "Controllo: Con matchmaking il 03/07/2026 20:49",
       "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T20:49:57Z",
+          "instanceId": "17008706347"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T20:48:23Z",
+          "instanceId": "17008718174"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T20:36:04Z",
+          "instanceId": "17008670942"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T20:23:00Z",
+          "instanceId": "17008623004"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T20:20:06Z",
+          "instanceId": "17008603743"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T20:08:42Z",
+          "instanceId": "17008568028"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T19:58:38Z",
+          "instanceId": "17008524248"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T19:51:58Z",
+          "instanceId": "17008489104"
+        },
         {
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-03T19:43:01Z",
@@ -91,46 +196,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-03T19:38:59Z",
           "instanceId": "17008456343"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-03T19:11:26Z",
-          "instanceId": "17008363859"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-03T18:59:45Z",
-          "instanceId": "17008318712"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-03T15:53:53Z",
-          "instanceId": "17007747999"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-07-03T15:51:05Z",
-          "instanceId": "17007648540"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-07-03T14:23:35Z",
-          "instanceId": "17007427164"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-02T19:18:41Z",
-          "instanceId": "17004297805"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-02T19:16:41Z",
-          "instanceId": "17004283304"
-        },
-        {
-          "name": "Scalata: Campagna cooperativa",
-          "period": "2026-07-02T17:04:26Z",
-          "instanceId": "17004001240"
         }
       ]
     },
@@ -138,15 +203,20 @@
       "displayName": "TheEnrageGamer#2674",
       "membershipId": "4611686018511383140",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Custode della fiamma",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e1c407e098c9493ae8e0e9e7b215fa09.jpg",
-      "powerLevel": 543,
-      "lastPlayedTimestamp": 1783108553000,
-      "lastActivityTimestamp": 1783107347000,
-      "lastActivityText": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata il 03/07/2026 19:35",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783108776000,
+      "lastActivityTimestamp": 1783108258000,
+      "lastActivityText": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata il 03/07/2026 19:50",
       "activities": [
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-07-03T19:50:58Z",
+          "instanceId": "17008496992"
+        },
         {
           "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
           "period": "2026-07-03T19:35:47Z",
@@ -191,11 +261,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-02T16:00:32Z",
           "instanceId": "17003746490"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-01T16:33:10Z",
-          "instanceId": "16999957132"
         }
       ]
     },
@@ -268,64 +333,64 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 502,
-      "lastPlayedTimestamp": 1783102988000,
-      "lastActivityTimestamp": 1783102790000,
-      "lastActivityText": "Poligono di Tiro il 03/07/2026 18:19",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 520,
+      "lastPlayedTimestamp": 1783113364000,
+      "lastActivityTimestamp": 1783101066000,
+      "lastActivityText": "Azzardo: Con matchmaking il 03/07/2026 17:51",
       "activities": [
         {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-03T18:19:50Z",
-          "instanceId": "17008146485"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-07-02T22:49:40Z",
-          "instanceId": "17005043641"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-07-02T21:59:37Z",
-          "instanceId": "17004861439"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-07-02T21:02:37Z",
-          "instanceId": "17004778473"
-        },
-        {
-          "name": "Dualità: Maestro",
-          "period": "2026-07-02T20:46:33Z",
-          "instanceId": "17004599923"
-        },
-        {
-          "name": "Rovina della Signora della Guerra: Standard",
-          "period": "2026-07-02T14:26:01Z",
-          "instanceId": "17003521897"
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-03T17:51:06Z",
+          "instanceId": "17008058583"
         },
         {
           "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-01T23:12:04Z",
-          "instanceId": "17001193608"
+          "period": "2026-07-03T17:43:48Z",
+          "instanceId": "17008028524"
         },
         {
           "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-01T23:05:00Z",
-          "instanceId": "17001167679"
+          "period": "2026-07-03T17:35:55Z",
+          "instanceId": "17008006281"
         },
         {
           "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-01T22:55:04Z",
-          "instanceId": "17001137412"
+          "period": "2026-07-03T16:13:37Z",
+          "instanceId": "17007729490"
         },
         {
           "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-01T22:45:55Z",
-          "instanceId": "17001111018"
+          "period": "2026-07-03T15:56:44Z",
+          "instanceId": "17007672795"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-03T15:50:13Z",
+          "instanceId": "17007655752"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-03T15:42:51Z",
+          "instanceId": "17007633277"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-03T04:28:42Z",
+          "instanceId": "17006082670"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-03T04:20:13Z",
+          "instanceId": "17006052211"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-03T03:54:32Z",
+          "instanceId": "17005970112"
         }
       ]
     },
@@ -2276,71 +2341,6 @@
           "name": "Luna",
           "period": "2026-06-10T19:12:16Z",
           "instanceId": "16878658082"
-        }
-      ]
-    },
-    {
-      "displayName": "melu#5401",
-      "membershipId": "4611686018459542288",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e452c62485491a02fbc0e36f06d301d2.jpg",
-      "powerLevel": 338,
-      "lastPlayedTimestamp": 1782165230000,
-      "lastActivityTimestamp": 1782165214000,
-      "lastActivityText": "Competitiva: Con matchmaking il 22/06/2026 21:53",
-      "activities": [
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-22T21:53:34Z",
-          "instanceId": "16957372139"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-22T21:41:48Z",
-          "instanceId": "16957327875"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-22T19:29:51Z",
-          "instanceId": "16956707310"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-22T19:21:37Z",
-          "instanceId": "16956673352"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-22T19:10:46Z",
-          "instanceId": "16956628739"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-21T20:50:40Z",
-          "instanceId": "16951315868"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-21T20:39:22Z",
-          "instanceId": "16951267811"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-21T20:29:37Z",
-          "instanceId": "16951201404"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-21T20:15:43Z",
-          "instanceId": "16951139100"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-21T20:05:30Z",
-          "instanceId": "16951073858"
         }
       ]
     },
