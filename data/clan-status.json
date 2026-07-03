@@ -1,22 +1,92 @@
 {
-  "generatedAt": "2026-07-03T04:28:27.166Z",
+  "generatedAt": "2026-07-03T07:47:33.042Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8da28f98a37e45634070e8666484bbf9.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783060941000,
+      "lastActivityTimestamp": 1783060312000,
+      "lastActivityText": "Pallido Cuore il 03/07/2026 06:31",
+      "activities": [
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-03T06:31:52Z",
+          "instanceId": "17006431709"
+        },
+        {
+          "name": "Casa - Parte II",
+          "period": "2026-07-03T06:05:14Z",
+          "instanceId": "17006405254"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-03T06:04:07Z",
+          "instanceId": "17006338366"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-03T05:40:49Z",
+          "instanceId": "17006334528"
+        },
+        {
+          "name": "Casa - Parte I",
+          "period": "2026-07-03T05:28:11Z",
+          "instanceId": "17006273005"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-03T05:25:57Z",
+          "instanceId": "17006237463"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-07-03T04:40:13Z",
+          "instanceId": "17006113942"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-03T04:38:32Z",
+          "instanceId": "17006096016"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-01T06:35:15Z",
+          "instanceId": "16998742228"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-01T06:16:14Z",
+          "instanceId": "16998700691"
+        }
+      ]
+    },
+    {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
       "powerLevel": 444,
-      "lastPlayedTimestamp": 1783052802000,
-      "lastActivityTimestamp": 1783052413000,
-      "lastActivityText": "Azzardo: Con matchmaking il 03/07/2026 04:20",
+      "lastPlayedTimestamp": 1783053348000,
+      "lastActivityTimestamp": 1783052922000,
+      "lastActivityText": "Azzardo: Con matchmaking il 03/07/2026 04:28",
       "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-03T04:28:42Z",
+          "instanceId": "17006082670"
+        },
         {
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-03T04:20:13Z",
@@ -61,11 +131,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-03T02:30:27Z",
           "instanceId": "17005684423"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-03T02:21:12Z",
-          "instanceId": "17005649251"
         }
       ]
     },
@@ -723,12 +788,12 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 509,
-      "lastPlayedTimestamp": 1783015161000,
+      "lastPlayedTimestamp": 1783064716000,
       "lastActivityTimestamp": 1783008805000,
       "lastActivityText": "Tronomondo di Savathûn il 02/07/2026 16:13",
       "activities": [
@@ -1106,71 +1171,6 @@
           "name": "Modalità del mondo: audace: Audace",
           "period": "2026-06-30T13:44:57Z",
           "instanceId": "16995677070"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8da28f98a37e45634070e8666484bbf9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1783052808000,
-      "lastActivityTimestamp": 1782887715000,
-      "lastActivityText": "Cosmodromo il 01/07/2026 06:35",
-      "activities": [
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-01T06:35:15Z",
-          "instanceId": "16998742228"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-01T06:16:14Z",
-          "instanceId": "16998700691"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-07-01T05:58:24Z",
-          "instanceId": "16998645495"
-        },
-        {
-          "name": "Vegliante del niente: Con matchmaking",
-          "period": "2026-07-01T05:39:09Z",
-          "instanceId": "16998593727"
-        },
-        {
-          "name": "Vegliante del niente: Con matchmaking",
-          "period": "2026-07-01T05:23:18Z",
-          "instanceId": "16998557108"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-07-01T05:00:21Z",
-          "instanceId": "16998506233"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-06-30T18:19:05Z",
-          "instanceId": "16996470052"
-        },
-        {
-          "name": "Bis in evidenza: Primo Ribelle: Pantheon",
-          "period": "2026-06-30T18:02:57Z",
-          "instanceId": "16996437305"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-27T07:59:42Z",
-          "instanceId": "16979620517"
-        },
-        {
-          "name": "Bis in evidenza: Morgeth: Pantheon",
-          "period": "2026-06-27T06:13:06Z",
-          "instanceId": "16979220611"
         }
       ]
     },
