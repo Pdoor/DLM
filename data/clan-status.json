@@ -1,22 +1,157 @@
 {
-  "generatedAt": "2026-07-04T07:24:28.733Z",
+  "generatedAt": "2026-07-04T09:38:08.869Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "Jhonny#3878",
+      "membershipId": "4611686018489632599",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783157660000,
+      "lastActivityTimestamp": 1783157086000,
+      "lastActivityText": "Tronomondo di Savathûn il 04/07/2026 09:24",
+      "activities": [
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-07-04T09:24:46Z",
+          "instanceId": "17011134691"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-07-04T09:18:58Z",
+          "instanceId": "17011111371"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-07-04T09:07:36Z",
+          "instanceId": "17011097074"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-04T08:49:33Z",
+          "instanceId": "17011069389"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-04T08:07:44Z",
+          "instanceId": "17011020411"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-04T07:53:38Z",
+          "instanceId": "17010939627"
+        },
+        {
+          "name": "Impero: Leggendaria",
+          "period": "2026-07-03T16:41:23Z",
+          "instanceId": "17007912185"
+        },
+        {
+          "name": "Gloria futura: Audace",
+          "period": "2026-07-03T16:15:42Z",
+          "instanceId": "17007797482"
+        },
+        {
+          "name": "Requiem: Normale",
+          "period": "2026-07-03T15:49:12Z",
+          "instanceId": "17007693104"
+        },
+        {
+          "name": "Escissione: Solo gioco",
+          "period": "2026-07-03T15:25:37Z",
+          "instanceId": "17007613940"
+        }
+      ]
+    },
+    {
+      "displayName": "TheAnOnymous166#8849",
+      "membershipId": "4611686018528729550",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783153966000,
+      "lastActivityTimestamp": 1783153437000,
+      "lastActivityText": "Zona Morta Europea il 04/07/2026 08:23",
+      "activities": [
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-04T08:23:57Z",
+          "instanceId": "17010984411"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-04T08:19:13Z",
+          "instanceId": "17010977549"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-04T08:16:59Z",
+          "instanceId": "17010965861"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-07-04T08:15:19Z",
+          "instanceId": "17010961238"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-04T08:11:47Z",
+          "instanceId": "17010956807"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-04T08:02:34Z",
+          "instanceId": "17010949168"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-07-04T07:51:21Z",
+          "instanceId": "17010926748"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-04T07:46:04Z",
+          "instanceId": "17010899262"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T20:49:57Z",
+          "instanceId": "17008706347"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T20:48:23Z",
+          "instanceId": "17008718174"
+        }
+      ]
+    },
+    {
       "displayName": "Pdor#2087",
       "membershipId": "4611686018441724933",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 487,
-      "lastPlayedTimestamp": 1783149812000,
-      "lastActivityTimestamp": 1783148747000,
-      "lastActivityText": "Comando del Vespro: Normale il 04/07/2026 07:05",
+      "powerLevel": 450,
+      "lastPlayedTimestamp": 1783154737000,
+      "lastActivityTimestamp": 1783149169000,
+      "lastActivityText": "Comando del Vespro: Normale il 04/07/2026 07:12",
       "activities": [
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-07-04T07:12:49Z",
+          "instanceId": "17011030184"
+        },
         {
           "name": "Comando del Vespro: Normale",
           "period": "2026-07-04T07:05:47Z",
@@ -56,11 +191,6 @@
           "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
           "period": "2026-06-27T12:30:49Z",
           "instanceId": "16980038852"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-27T12:22:33Z",
-          "instanceId": "16980023287"
         },
         {
           "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
@@ -395,71 +525,6 @@
       ]
     },
     {
-      "displayName": "TheAnOnymous166#8849",
-      "membershipId": "4611686018528729550",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1783112622000,
-      "lastActivityTimestamp": 1783111797000,
-      "lastActivityText": "Controllo: Con matchmaking il 03/07/2026 20:49",
-      "activities": [
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T20:49:57Z",
-          "instanceId": "17008706347"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T20:48:23Z",
-          "instanceId": "17008718174"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T20:36:04Z",
-          "instanceId": "17008670942"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T20:23:00Z",
-          "instanceId": "17008623004"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T20:20:06Z",
-          "instanceId": "17008603743"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T20:08:42Z",
-          "instanceId": "17008568028"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T19:58:38Z",
-          "instanceId": "17008524248"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T19:51:58Z",
-          "instanceId": "17008489104"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T19:43:01Z",
-          "instanceId": "17008462521"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T19:38:59Z",
-          "instanceId": "17008456343"
-        }
-      ]
-    },
-    {
       "displayName": "TheEnrageGamer#2674",
       "membershipId": "4611686018511383140",
       "bungieNetMembershipId": "",
@@ -586,71 +651,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-02T20:56:06Z",
           "instanceId": "17004628906"
-        }
-      ]
-    },
-    {
-      "displayName": "Jhonny#3878",
-      "membershipId": "4611686018489632599",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1783149710000,
-      "lastActivityTimestamp": 1783096883000,
-      "lastActivityText": "Impero: Leggendaria il 03/07/2026 16:41",
-      "activities": [
-        {
-          "name": "Impero: Leggendaria",
-          "period": "2026-07-03T16:41:23Z",
-          "instanceId": "17007912185"
-        },
-        {
-          "name": "Gloria futura: Audace",
-          "period": "2026-07-03T16:15:42Z",
-          "instanceId": "17007797482"
-        },
-        {
-          "name": "Requiem: Normale",
-          "period": "2026-07-03T15:49:12Z",
-          "instanceId": "17007693104"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-03T15:27:27Z",
-          "instanceId": "17007568218"
-        },
-        {
-          "name": "Escissione: Solo gioco",
-          "period": "2026-07-03T15:25:37Z",
-          "instanceId": "17007613940"
-        },
-        {
-          "name": "Scalata: Campagna cooperativa",
-          "period": "2026-07-02T17:04:26Z",
-          "instanceId": "17004001240"
-        },
-        {
-          "name": "Misure disperate: Normale",
-          "period": "2026-07-02T16:27:25Z",
-          "instanceId": "17003887544"
-        },
-        {
-          "name": "L'astuta: Normale",
-          "period": "2026-07-02T15:59:18Z",
-          "instanceId": "17003786680"
-        },
-        {
-          "name": "L'astuta: Normale",
-          "period": "2026-07-02T15:58:19Z",
-          "instanceId": "17003710237"
-        },
-        {
-          "name": "L'astuta: Leggenda",
-          "period": "2026-07-02T15:57:20Z",
-          "instanceId": "17003706941"
         }
       ]
     },
@@ -988,7 +988,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
       "powerLevel": 303,
-      "lastPlayedTimestamp": 1783118977000,
+      "lastPlayedTimestamp": 1783155555000,
       "lastActivityTimestamp": 1783019077000,
       "lastActivityText": "La radice degli incubi: Standard il 02/07/2026 19:04",
       "activities": [
@@ -1893,12 +1893,12 @@
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1783146266000,
+      "lastPlayedTimestamp": 1783157864000,
       "lastActivityTimestamp": 1782660415000,
       "lastActivityText": "Deserto perpetuo: Standard il 28/06/2026 15:26",
       "activities": [
@@ -1958,12 +1958,12 @@
       "displayName": "luxya__13#5940",
       "membershipId": "4611686018555449414",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1b2c28a8998818b74ff0509d1d7ed7.jpg",
       "powerLevel": 523,
-      "lastPlayedTimestamp": 1782662299000,
+      "lastPlayedTimestamp": 1783157862000,
       "lastActivityTimestamp": 1782660415000,
       "lastActivityText": "Deserto perpetuo: Standard il 28/06/2026 15:26",
       "activities": [
