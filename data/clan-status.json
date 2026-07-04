@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T22:30:00.886Z",
+  "generatedAt": "2026-07-04T23:37:24.514Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "DiciestCloth1#2862",
       "membershipId": "4611686018442634411",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Flagello di Riven",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/3af421a09f12b3515fbc785db556c45b.jpg",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 547,
-      "lastPlayedTimestamp": 1783204187000,
-      "lastActivityTimestamp": 1783203810000,
-      "lastActivityText": "Nessus, Centauro Instabile il 04/07/2026 22:23",
+      "lastPlayedTimestamp": 1783205201000,
+      "lastActivityTimestamp": 1783204550000,
+      "lastActivityText": "Tronomondo di Savathûn il 04/07/2026 22:35",
       "activities": [
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-07-04T22:35:50Z",
+          "instanceId": "17013587571"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-04T22:29:46Z",
+          "instanceId": "17013574092"
+        },
         {
           "name": "Nessus, Centauro Instabile",
           "period": "2026-07-04T22:23:30Z",
@@ -56,81 +66,6 @@
           "name": "Volta di Vetro: Standard",
           "period": "2026-07-04T21:14:10Z",
           "instanceId": "17013341918"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-07-04T20:23:26Z",
-          "instanceId": "17013293123"
-        },
-        {
-          "name": "La fine di Crota: Maestro",
-          "period": "2026-07-04T18:20:56Z",
-          "instanceId": "17012811100"
-        }
-      ]
-    },
-    {
-      "displayName": "Harbinger#2400",
-      "membershipId": "4611686018477535812",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Leggenda",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/9b7605c2a5f63881e025595c4371ba45.jpg",
-      "powerLevel": 447,
-      "lastPlayedTimestamp": 1783204045000,
-      "lastActivityTimestamp": 1783202752000,
-      "lastActivityText": "Scalata: Normale il 04/07/2026 22:05",
-      "activities": [
-        {
-          "name": "Scalata: Normale",
-          "period": "2026-07-04T22:05:52Z",
-          "instanceId": "17013532310"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-07-04T21:42:29Z",
-          "instanceId": "17013453904"
-        },
-        {
-          "name": "Dissenso: Normale",
-          "period": "2026-07-04T21:10:14Z",
-          "instanceId": "17013357482"
-        },
-        {
-          "name": "Impero: Audace",
-          "period": "2026-07-04T20:48:12Z",
-          "instanceId": "17013277665"
-        },
-        {
-          "name": "Gloria futura: Audace",
-          "period": "2026-07-04T20:32:39Z",
-          "instanceId": "17013201518"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-04T20:29:00Z",
-          "instanceId": "17013149402"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-04T20:22:29Z",
-          "instanceId": "17013137013"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-04T20:11:14Z",
-          "instanceId": "17013111909"
-        },
-        {
-          "name": "Requiem: Normale",
-          "period": "2026-07-04T19:54:16Z",
-          "instanceId": "17013064496"
-        },
-        {
-          "name": "Gli Spettri: Normale",
-          "period": "2026-07-04T19:11:05Z",
-          "instanceId": "17013003489"
         }
       ]
     },
@@ -1247,8 +1182,8 @@
       "className": "Cacciatori",
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b531d829e55b6f13555e8cae172dc0b3.jpg",
-      "powerLevel": 448,
-      "lastPlayedTimestamp": 1783069437000,
+      "powerLevel": 451,
+      "lastPlayedTimestamp": 1783207495000,
       "lastActivityTimestamp": 1783065826000,
       "lastActivityText": "Nessus, Centauro Instabile il 03/07/2026 08:03",
       "activities": [
