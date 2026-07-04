@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T19:46:20.985Z",
+  "generatedAt": "2026-07-04T21:04:22.587Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,40 @@
       "title": "Leggenda",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/9b7605c2a5f63881e025595c4371ba45.jpg",
       "powerLevel": 447,
-      "lastPlayedTimestamp": 1783194143000,
-      "lastActivityTimestamp": 1783190690000,
-      "lastActivityText": "L'astuta: Normale il 04/07/2026 18:44",
+      "lastPlayedTimestamp": 1783198888000,
+      "lastActivityTimestamp": 1783197159000,
+      "lastActivityText": "Gloria futura: Audace il 04/07/2026 20:32",
       "activities": [
+        {
+          "name": "Gloria futura: Audace",
+          "period": "2026-07-04T20:32:39Z",
+          "instanceId": "17013201518"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-04T20:29:00Z",
+          "instanceId": "17013149402"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-04T20:22:29Z",
+          "instanceId": "17013137013"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-04T20:11:14Z",
+          "instanceId": "17013111909"
+        },
+        {
+          "name": "Requiem: Normale",
+          "period": "2026-07-04T19:54:16Z",
+          "instanceId": "17013064496"
+        },
+        {
+          "name": "Gli Spettri: Normale",
+          "period": "2026-07-04T19:11:05Z",
+          "instanceId": "17013003489"
+        },
         {
           "name": "L'astuta: Normale",
           "period": "2026-07-04T18:44:50Z",
@@ -36,36 +66,6 @@
           "name": "Ultimo desiderio: Standard",
           "period": "2026-07-04T17:06:13Z",
           "instanceId": "17012429779"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-04T16:56:46Z",
-          "instanceId": "17012409818"
-        },
-        {
-          "name": "Misure disperate: Normale",
-          "period": "2026-07-04T16:23:13Z",
-          "instanceId": "17012348449"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-04T16:15:21Z",
-          "instanceId": "17012244972"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-04T16:05:40Z",
-          "instanceId": "17012225619"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-02T02:34:08Z",
-          "instanceId": "17001868576"
-        },
-        {
-          "name": "Spettri del Profondo: Standard",
-          "period": "2026-07-02T01:47:08Z",
-          "instanceId": "17001808613"
         }
       ]
     },
@@ -73,12 +73,12 @@
       "displayName": "DiciestCloth1#2862",
       "membershipId": "4611686018442634411",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Flagello di Riven",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/3af421a09f12b3515fbc785db556c45b.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1783191568000,
+      "lastPlayedTimestamp": 1783198933000,
       "lastActivityTimestamp": 1783189256000,
       "lastActivityText": "La fine di Crota: Maestro il 04/07/2026 18:20",
       "activities": [
@@ -391,71 +391,6 @@
           "name": "Pallido Cuore",
           "period": "2026-07-04T15:49:40Z",
           "instanceId": "17012139314"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 440,
-      "lastPlayedTimestamp": 1783187118000,
-      "lastActivityTimestamp": 1783185458000,
-      "lastActivityText": "Comando del Vespro: Maestro il 04/07/2026 17:17",
-      "activities": [
-        {
-          "name": "Comando del Vespro: Maestro",
-          "period": "2026-07-04T17:17:38Z",
-          "instanceId": "17012540036"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-04T16:56:40Z",
-          "instanceId": "17012382232"
-        },
-        {
-          "name": "Comando del Vespro: Maestro",
-          "period": "2026-07-04T16:21:37Z",
-          "instanceId": "17012677591"
-        },
-        {
-          "name": "Comando del Vespro: Maestro",
-          "period": "2026-07-04T15:27:02Z",
-          "instanceId": "17012508314"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-04T14:59:45Z",
-          "instanceId": "17011987375"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-04T14:50:13Z",
-          "instanceId": "17011952127"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-04T14:43:16Z",
-          "instanceId": "17011929973"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-04T05:03:35Z",
-          "instanceId": "17010430829"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-04T04:35:23Z",
-          "instanceId": "17010344405"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-04T04:27:37Z",
-          "instanceId": "17010303431"
         }
       ]
     },
@@ -1045,67 +980,67 @@
       ]
     },
     {
-      "displayName": "nubires#8588",
-      "membershipId": "4611686018433412718",
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 518,
-      "lastPlayedTimestamp": 1783118942000,
-      "lastActivityTimestamp": 1783118366000,
-      "lastActivityText": "Controllo: Con matchmaking il 03/07/2026 22:39",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 457,
+      "lastPlayedTimestamp": 1783199015000,
+      "lastActivityTimestamp": 1783136207000,
+      "lastActivityText": "Controllo: Con matchmaking il 04/07/2026 03:36",
       "activities": [
         {
           "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T22:39:26Z",
-          "instanceId": "17009111525"
+          "period": "2026-07-04T03:36:47Z",
+          "instanceId": "17010136985"
         },
         {
           "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T22:31:12Z",
-          "instanceId": "17009074665"
-        },
-        {
-          "name": "Pinnacolo dell'Osservatrice: Maestro",
-          "period": "2026-07-01T03:24:18Z",
-          "instanceId": "16998304811"
+          "period": "2026-07-04T03:25:53Z",
+          "instanceId": "17010101165"
         },
         {
           "name": "Controllo: Con matchmaking",
-          "period": "2026-06-30T22:12:08Z",
-          "instanceId": "16997176852"
+          "period": "2026-07-04T03:18:36Z",
+          "instanceId": "17010062287"
         },
         {
           "name": "Controllo: Con matchmaking",
-          "period": "2026-06-30T21:56:09Z",
-          "instanceId": "16997138511"
+          "period": "2026-07-04T03:11:16Z",
+          "instanceId": "17010035605"
         },
         {
           "name": "Controllo: Con matchmaking",
-          "period": "2026-06-30T21:41:49Z",
-          "instanceId": "16997096729"
+          "period": "2026-07-04T03:01:26Z",
+          "instanceId": "17010007594"
         },
         {
           "name": "Controllo: Con matchmaking",
-          "period": "2026-06-30T21:27:29Z",
-          "instanceId": "16997049407"
+          "period": "2026-07-04T02:51:10Z",
+          "instanceId": "17009971356"
         },
         {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-06-30T20:58:03Z",
-          "instanceId": "16996949873"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-04T02:32:10Z",
+          "instanceId": "17009910719"
         },
         {
-          "name": "Invasione",
-          "period": "2026-06-29T20:58:33Z",
-          "instanceId": "16992431757"
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-03T21:28:22Z",
+          "instanceId": "17008842907"
         },
         {
-          "name": "Invasione",
-          "period": "2026-06-29T20:57:29Z",
-          "instanceId": "16992411908"
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-03T21:20:35Z",
+          "instanceId": "17008821543"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-03T17:51:06Z",
+          "instanceId": "17008058583"
         }
       ]
     },
@@ -2601,6 +2536,71 @@
           "name": "Missione: Saturnismo: Leggendaria",
           "period": "2025-07-22T21:02:51Z",
           "instanceId": "16335278824"
+        }
+      ]
+    },
+    {
+      "displayName": "nubires#8588",
+      "membershipId": "4611686018433412718",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "MMXXI",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/becc37f099968a886493ad99c982afd6.jpg",
+      "powerLevel": 10,
+      "lastPlayedTimestamp": 1783196234000,
+      "lastActivityTimestamp": 1742332854000,
+      "lastActivityText": "Volta di Vetro: Standard il 18/03/2025 21:20",
+      "activities": [
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2025-03-18T21:20:54Z",
+          "instanceId": "16000654087"
+        },
+        {
+          "name": "Dottrina dilaniata: Normale",
+          "period": "2025-03-17T16:31:38Z",
+          "instanceId": "15997183597"
+        },
+        {
+          "name": "Dottrina dilaniata: Normale",
+          "period": "2025-03-13T22:18:00Z",
+          "instanceId": "15984567084"
+        },
+        {
+          "name": "Dottrina dilaniata: Normale",
+          "period": "2025-03-04T20:27:21Z",
+          "instanceId": "15960356445"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2025-02-26T22:51:07Z",
+          "instanceId": "15944568232"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2025-02-26T22:37:14Z",
+          "instanceId": "15944522164"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2025-02-26T22:34:52Z",
+          "instanceId": "15944507999"
+        },
+        {
+          "name": "Dottrina dilaniata: Normale",
+          "period": "2025-02-22T00:13:20Z",
+          "instanceId": "15929733591"
+        },
+        {
+          "name": "Dottrina dilaniata: Normale",
+          "period": "2025-02-21T12:43:19Z",
+          "instanceId": "15928217523"
+        },
+        {
+          "name": "Dottrina dilaniata: Normale",
+          "period": "2025-02-21T10:03:12Z",
+          "instanceId": "15928197804"
         }
       ]
     }
