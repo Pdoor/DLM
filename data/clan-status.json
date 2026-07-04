@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T00:10:26.149Z",
+  "generatedAt": "2026-07-04T04:21:31.889Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -66,71 +66,6 @@
           "name": "Invasione",
           "period": "2026-06-29T20:57:29Z",
           "instanceId": "16992411908"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "RICERCATO",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 520,
-      "lastPlayedTimestamp": 1783114461000,
-      "lastActivityTimestamp": 1783114102000,
-      "lastActivityText": "Azzardo: Con matchmaking il 03/07/2026 21:28",
-      "activities": [
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-03T21:28:22Z",
-          "instanceId": "17008842907"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-03T21:20:35Z",
-          "instanceId": "17008821543"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-03T17:51:06Z",
-          "instanceId": "17008058583"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-03T17:43:48Z",
-          "instanceId": "17008028524"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-03T17:35:55Z",
-          "instanceId": "17008006281"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-03T16:13:37Z",
-          "instanceId": "17007729490"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-03T15:56:44Z",
-          "instanceId": "17007672795"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-03T15:50:13Z",
-          "instanceId": "17007655752"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-03T15:42:51Z",
-          "instanceId": "17007633277"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-03T04:28:42Z",
-          "instanceId": "17006082670"
         }
       ]
     },
@@ -456,6 +391,71 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-02T20:56:06Z",
           "instanceId": "17004628906"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 469,
+      "lastPlayedTimestamp": 1783138787000,
+      "lastActivityTimestamp": 1783102790000,
+      "lastActivityText": "Poligono di Tiro il 03/07/2026 18:19",
+      "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-07-03T18:19:50Z",
+          "instanceId": "17008146485"
+        },
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-07-02T22:49:40Z",
+          "instanceId": "17005043641"
+        },
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-07-02T21:59:37Z",
+          "instanceId": "17004861439"
+        },
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-07-02T21:02:37Z",
+          "instanceId": "17004778473"
+        },
+        {
+          "name": "Dualità: Maestro",
+          "period": "2026-07-02T20:46:33Z",
+          "instanceId": "17004599923"
+        },
+        {
+          "name": "Rovina della Signora della Guerra: Standard",
+          "period": "2026-07-02T14:26:01Z",
+          "instanceId": "17003521897"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-01T23:12:04Z",
+          "instanceId": "17001193608"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-01T23:05:00Z",
+          "instanceId": "17001167679"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-01T22:55:04Z",
+          "instanceId": "17001137412"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-01T22:45:55Z",
+          "instanceId": "17001111018"
         }
       ]
     },
