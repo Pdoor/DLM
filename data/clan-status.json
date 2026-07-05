@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T19:52:42.012Z",
+  "generatedAt": "2026-07-05T21:08:06.490Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,30 @@
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/80f5aec4b03c7613d8628b7b7077b936.jpg",
-      "powerLevel": 191,
-      "lastPlayedTimestamp": 1783281127000,
-      "lastActivityTimestamp": 1783280359000,
-      "lastActivityText": "Controllo: Con matchmaking il 05/07/2026 19:39",
+      "powerLevel": 237,
+      "lastPlayedTimestamp": 1783284429000,
+      "lastActivityTimestamp": 1783282798000,
+      "lastActivityText": "Controllo: Con matchmaking il 05/07/2026 20:19",
       "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-05T20:19:58Z",
+          "instanceId": "17017606131"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-05T20:06:04Z",
+          "instanceId": "17017553888"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-05T19:53:13Z",
+          "instanceId": "17017489021"
+        },
         {
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-05T19:39:19Z",
@@ -51,21 +66,71 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-03T17:35:37Z",
           "instanceId": "17008012582"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
+      "powerLevel": 481,
+      "lastPlayedTimestamp": 1783282737000,
+      "lastActivityTimestamp": 1783281264000,
+      "lastActivityText": "Rovina della Signora della Guerra: Standard il 05/07/2026 19:54",
+      "activities": [
+        {
+          "name": "Rovina della Signora della Guerra: Standard",
+          "period": "2026-07-05T19:54:24Z",
+          "instanceId": "17017553694"
         },
         {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T17:14:06Z",
-          "instanceId": "17007951647"
+          "name": "Rovina della Signora della Guerra: Standard",
+          "period": "2026-07-05T19:48:55Z",
+          "instanceId": "17017447344"
         },
         {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T13:21:08Z",
-          "instanceId": "17007242670"
+          "name": "Rovina della Signora della Guerra: Standard",
+          "period": "2026-07-05T19:29:19Z",
+          "instanceId": "17017424986"
         },
         {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T13:07:12Z",
-          "instanceId": "17007206295"
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-07-05T16:26:28Z",
+          "instanceId": "17016787991"
+        },
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-07-05T12:12:22Z",
+          "instanceId": "17016239721"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-07-04T16:56:07Z",
+          "instanceId": "17012465039"
+        },
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-07-02T19:04:37Z",
+          "instanceId": "17004594825"
+        },
+        {
+          "name": "La radice degli incubi: Maestro",
+          "period": "2026-07-02T16:55:31Z",
+          "instanceId": "17003880873"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-07-02T16:32:21Z",
+          "instanceId": "17003821555"
+        },
+        {
+          "name": "Sotto assedio: Normale",
+          "period": "2026-07-02T16:16:14Z",
+          "instanceId": "17003802543"
         }
       ]
     },
@@ -73,12 +138,12 @@
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Gloriosa",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/648e5e751cf7560c99bcadc9538487de.png",
       "powerLevel": 427,
-      "lastPlayedTimestamp": 1783281135000,
+      "lastPlayedTimestamp": 1783281333000,
       "lastActivityTimestamp": 1783280327000,
       "lastActivityText": "Controllo: Con matchmaking il 05/07/2026 19:38",
       "activities": [
@@ -131,71 +196,6 @@
           "name": "La Città Sognante",
           "period": "2026-06-10T01:39:07Z",
           "instanceId": "16874248406"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 481,
-      "lastPlayedTimestamp": 1783281128000,
-      "lastActivityTimestamp": 1783279759000,
-      "lastActivityText": "Rovina della Signora della Guerra: Standard il 05/07/2026 19:29",
-      "activities": [
-        {
-          "name": "Rovina della Signora della Guerra: Standard",
-          "period": "2026-07-05T19:29:19Z",
-          "instanceId": "17017424986"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-07-05T16:26:28Z",
-          "instanceId": "17016787991"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-07-05T12:12:22Z",
-          "instanceId": "17016239721"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-04T16:56:07Z",
-          "instanceId": "17012465039"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-07-02T19:04:37Z",
-          "instanceId": "17004594825"
-        },
-        {
-          "name": "La radice degli incubi: Maestro",
-          "period": "2026-07-02T16:55:31Z",
-          "instanceId": "17003880873"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-02T16:32:21Z",
-          "instanceId": "17003821555"
-        },
-        {
-          "name": "Sotto assedio: Normale",
-          "period": "2026-07-02T16:16:14Z",
-          "instanceId": "17003802543"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-01T20:35:46Z",
-          "instanceId": "17000722475"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-07-01T19:44:18Z",
-          "instanceId": "17000649511"
         }
       ]
     },
@@ -293,6 +293,11 @@
           "instanceId": "17016751762"
         },
         {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-05T16:07:46Z",
+          "instanceId": "17017621988"
+        },
+        {
           "name": "La caduta di un Kell: Personalizzata",
           "period": "2026-07-05T15:32:10Z",
           "instanceId": "17016533038"
@@ -316,11 +321,6 @@
           "name": "Ultimo desiderio: Standard",
           "period": "2026-07-05T13:01:04Z",
           "instanceId": "17016169298"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-07-04T22:35:50Z",
-          "instanceId": "17013587571"
         },
         {
           "name": "Pallido Cuore",
@@ -1041,6 +1041,71 @@
           "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
           "period": "2026-06-27T10:25:33Z",
           "instanceId": "16980257875"
+        }
+      ]
+    },
+    {
+      "displayName": "nubires#8588",
+      "membershipId": "4611686018433412718",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
+      "powerLevel": 518,
+      "lastPlayedTimestamp": 1783284002000,
+      "lastActivityTimestamp": 1783118366000,
+      "lastActivityText": "Controllo: Con matchmaking il 03/07/2026 22:39",
+      "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T22:39:26Z",
+          "instanceId": "17009111525"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T22:31:12Z",
+          "instanceId": "17009074665"
+        },
+        {
+          "name": "Pinnacolo dell'Osservatrice: Maestro",
+          "period": "2026-07-01T03:24:18Z",
+          "instanceId": "16998304811"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-30T22:12:08Z",
+          "instanceId": "16997176852"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-30T21:56:09Z",
+          "instanceId": "16997138511"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-30T21:41:49Z",
+          "instanceId": "16997096729"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-30T21:27:29Z",
+          "instanceId": "16997049407"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-06-30T20:58:03Z",
+          "instanceId": "16996949873"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-06-29T20:58:33Z",
+          "instanceId": "16992431757"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-06-29T20:57:29Z",
+          "instanceId": "16992411908"
         }
       ]
     },
@@ -2471,71 +2536,6 @@
           "name": "Missione: Saturnismo: Leggendaria",
           "period": "2025-07-22T21:02:51Z",
           "instanceId": "16335278824"
-        }
-      ]
-    },
-    {
-      "displayName": "nubires#8588",
-      "membershipId": "4611686018433412718",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "MMXXI",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/becc37f099968a886493ad99c982afd6.jpg",
-      "powerLevel": 10,
-      "lastPlayedTimestamp": 1783196234000,
-      "lastActivityTimestamp": 1742332854000,
-      "lastActivityText": "Volta di Vetro: Standard il 18/03/2025 21:20",
-      "activities": [
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2025-03-18T21:20:54Z",
-          "instanceId": "16000654087"
-        },
-        {
-          "name": "Dottrina dilaniata: Normale",
-          "period": "2025-03-17T16:31:38Z",
-          "instanceId": "15997183597"
-        },
-        {
-          "name": "Dottrina dilaniata: Normale",
-          "period": "2025-03-13T22:18:00Z",
-          "instanceId": "15984567084"
-        },
-        {
-          "name": "Dottrina dilaniata: Normale",
-          "period": "2025-03-04T20:27:21Z",
-          "instanceId": "15960356445"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2025-02-26T22:51:07Z",
-          "instanceId": "15944568232"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2025-02-26T22:37:14Z",
-          "instanceId": "15944522164"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2025-02-26T22:34:52Z",
-          "instanceId": "15944507999"
-        },
-        {
-          "name": "Dottrina dilaniata: Normale",
-          "period": "2025-02-22T00:13:20Z",
-          "instanceId": "15929733591"
-        },
-        {
-          "name": "Dottrina dilaniata: Normale",
-          "period": "2025-02-21T12:43:19Z",
-          "instanceId": "15928217523"
-        },
-        {
-          "name": "Dottrina dilaniata: Normale",
-          "period": "2025-02-21T10:03:12Z",
-          "instanceId": "15928197804"
         }
       ]
     }
