@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-05T03:57:45.695Z",
+  "generatedAt": "2026-07-05T07:34:58.000Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/80f5aec4b03c7613d8628b7b7077b936.jpg",
+      "powerLevel": 517,
+      "lastPlayedTimestamp": 1783234878000,
+      "lastActivityTimestamp": 1783234030000,
+      "lastActivityText": "Controllo: Con matchmaking il 05/07/2026 06:47",
+      "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-05T06:47:10Z",
+          "instanceId": "17015141098"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-05T05:58:52Z",
+          "instanceId": "17015005840"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-05T05:43:11Z",
+          "instanceId": "17014961836"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-05T05:19:30Z",
+          "instanceId": "17014873590"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-07-03T17:48:59Z",
+          "instanceId": "17008086978"
+        },
+        {
+          "name": "Eliostasi: Personalizzata",
+          "period": "2026-07-03T15:19:00Z",
+          "instanceId": "17007697575"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-03T14:00:58Z",
+          "instanceId": "17007534150"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-07-03T13:43:24Z",
+          "instanceId": "17007312813"
+        },
+        {
+          "name": "Terreni di Prova: Con matchmaking",
+          "period": "2026-07-03T13:38:00Z",
+          "instanceId": "17007290228"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-03T13:29:58Z",
+          "instanceId": "17007247497"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -14,9 +79,14 @@
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 453,
       "lastPlayedTimestamp": 1783221207000,
-      "lastActivityTimestamp": 1783213129000,
-      "lastActivityText": "Comando del Vespro: Maestro il 05/07/2026 00:58",
+      "lastActivityTimestamp": 1783213508000,
+      "lastActivityText": "Comando del Vespro: Maestro il 05/07/2026 01:05",
       "activities": [
+        {
+          "name": "Comando del Vespro: Maestro",
+          "period": "2026-07-05T01:05:08Z",
+          "instanceId": "17014704588"
+        },
         {
           "name": "Comando del Vespro: Maestro",
           "period": "2026-07-05T00:58:49Z",
@@ -61,11 +131,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-04T14:43:16Z",
           "instanceId": "17011929973"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-04T05:03:35Z",
-          "instanceId": "17010430829"
         }
       ]
     },
@@ -131,71 +196,6 @@
           "name": "Ultimo desiderio: Standard",
           "period": "2026-07-04T21:23:34Z",
           "instanceId": "17013369061"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cd907b1677ccced0b2e3f6b6df86ec49.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1783190998000,
-      "lastActivityTimestamp": 1783188103000,
-      "lastActivityText": "Cosmodromo il 04/07/2026 18:01",
-      "activities": [
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-04T18:01:43Z",
-          "instanceId": "17012780848"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-07-04T17:24:26Z",
-          "instanceId": "17012604538"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-07-04T17:03:21Z",
-          "instanceId": "17012437601"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-07-04T16:42:14Z",
-          "instanceId": "17012378497"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-04T16:08:34Z",
-          "instanceId": "17012295434"
-        },
-        {
-          "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
-          "period": "2026-07-04T14:30:08Z",
-          "instanceId": "17011908181"
-        },
-        {
-          "name": "La caduta di un Kell: Personalizzata",
-          "period": "2026-07-04T14:11:10Z",
-          "instanceId": "17011825091"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-07-04T14:04:13Z",
-          "instanceId": "17011794206"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-07-04T13:36:55Z",
-          "instanceId": "17011759843"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-07-04T13:17:32Z",
-          "instanceId": "17011700829"
         }
       ]
     },
@@ -727,8 +727,8 @@
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 546,
-      "lastPlayedTimestamp": 1783159637000,
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783235065000,
       "lastActivityTimestamp": 1783157636000,
       "lastActivityText": "Conquista modalità gran maestro: Eliostato: Personalizzata il 04/07/2026 09:33",
       "activities": [
