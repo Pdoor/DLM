@@ -1,74 +1,9 @@
 {
-  "generatedAt": "2026-07-04T23:37:24.514Z",
+  "generatedAt": "2026-07-05T03:57:45.695Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
-    {
-      "displayName": "DiciestCloth1#2862",
-      "membershipId": "4611686018442634411",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Flagello di Riven",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 547,
-      "lastPlayedTimestamp": 1783205201000,
-      "lastActivityTimestamp": 1783204550000,
-      "lastActivityText": "Tronomondo di Savathûn il 04/07/2026 22:35",
-      "activities": [
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-07-04T22:35:50Z",
-          "instanceId": "17013587571"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-04T22:29:46Z",
-          "instanceId": "17013574092"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-07-04T22:23:30Z",
-          "instanceId": "17013548278"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-04T22:21:15Z",
-          "instanceId": "17013534659"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-04T22:19:47Z",
-          "instanceId": "17013526612"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-07-04T22:14:38Z",
-          "instanceId": "17013522117"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-04T22:09:07Z",
-          "instanceId": "17013506715"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-04T22:07:24Z",
-          "instanceId": "17013487994"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-04T21:23:34Z",
-          "instanceId": "17013369061"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-07-04T21:14:10Z",
-          "instanceId": "17013341918"
-        }
-      ]
-    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -77,11 +12,16 @@
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 488,
-      "lastPlayedTimestamp": 1783199237000,
-      "lastActivityTimestamp": 1783193352000,
-      "lastActivityText": "Comando del Vespro: Maestro il 04/07/2026 19:29",
+      "powerLevel": 453,
+      "lastPlayedTimestamp": 1783221207000,
+      "lastActivityTimestamp": 1783213129000,
+      "lastActivityText": "Comando del Vespro: Maestro il 05/07/2026 00:58",
       "activities": [
+        {
+          "name": "Comando del Vespro: Maestro",
+          "period": "2026-07-05T00:58:49Z",
+          "instanceId": "17014475574"
+        },
         {
           "name": "Comando del Vespro: Maestro",
           "period": "2026-07-04T19:29:12Z",
@@ -126,11 +66,71 @@
           "name": "Poligono di Tiro",
           "period": "2026-07-04T05:03:35Z",
           "instanceId": "17010430829"
+        }
+      ]
+    },
+    {
+      "displayName": "DiciestCloth1#2862",
+      "membershipId": "4611686018442634411",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Flagello di Riven",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 547,
+      "lastPlayedTimestamp": 1783205201000,
+      "lastActivityTimestamp": 1783204550000,
+      "lastActivityText": "Tronomondo di Savathûn il 04/07/2026 22:35",
+      "activities": [
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-07-04T22:35:50Z",
+          "instanceId": "17013587571"
         },
         {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-04T04:35:23Z",
-          "instanceId": "17010344405"
+          "name": "La Città Sognante",
+          "period": "2026-07-04T22:29:46Z",
+          "instanceId": "17013574092"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-04T22:27:34Z",
+          "instanceId": "17014302799"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-07-04T22:23:30Z",
+          "instanceId": "17013548278"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-04T22:21:15Z",
+          "instanceId": "17013534659"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-07-04T22:19:47Z",
+          "instanceId": "17013526612"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-07-04T22:14:38Z",
+          "instanceId": "17013522117"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-04T22:09:07Z",
+          "instanceId": "17013506715"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-04T22:07:24Z",
+          "instanceId": "17013487994"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-04T21:23:34Z",
+          "instanceId": "17013369061"
         }
       ]
     },
@@ -1248,7 +1248,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
       "powerLevel": 303,
-      "lastPlayedTimestamp": 1783185854000,
+      "lastPlayedTimestamp": 1783210757000,
       "lastActivityTimestamp": 1783019077000,
       "lastActivityText": "La radice degli incubi: Standard il 02/07/2026 19:04",
       "activities": [
