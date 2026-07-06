@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-05T22:32:24.291Z",
+  "generatedAt": "2026-07-06T00:12:35.830Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "nubires#8588",
+      "membershipId": "4611686018433412718",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
+      "powerLevel": 518,
+      "lastPlayedTimestamp": 1783292492000,
+      "lastActivityTimestamp": 1783291812000,
+      "lastActivityText": "Controllo: Con matchmaking il 05/07/2026 22:50",
+      "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-05T22:50:12Z",
+          "instanceId": "17018186774"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T22:39:26Z",
+          "instanceId": "17009111525"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T22:31:12Z",
+          "instanceId": "17009074665"
+        },
+        {
+          "name": "Pinnacolo dell'Osservatrice: Maestro",
+          "period": "2026-07-01T03:24:18Z",
+          "instanceId": "16998304811"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-30T22:12:08Z",
+          "instanceId": "16997176852"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-30T21:56:09Z",
+          "instanceId": "16997138511"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-30T21:41:49Z",
+          "instanceId": "16997096729"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-30T21:27:29Z",
+          "instanceId": "16997049407"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-06-30T20:58:03Z",
+          "instanceId": "16996949873"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-06-29T20:58:33Z",
+          "instanceId": "16992431757"
+        }
+      ]
+    },
     {
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
@@ -793,7 +858,7 @@
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 453,
-      "lastPlayedTimestamp": 1783221207000,
+      "lastPlayedTimestamp": 1783294060000,
       "lastActivityTimestamp": 1783213508000,
       "lastActivityText": "Comando del Vespro: Maestro il 05/07/2026 01:05",
       "activities": [
@@ -1041,71 +1106,6 @@
           "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
           "period": "2026-06-27T10:25:33Z",
           "instanceId": "16980257875"
-        }
-      ]
-    },
-    {
-      "displayName": "nubires#8588",
-      "membershipId": "4611686018433412718",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 518,
-      "lastPlayedTimestamp": 1783290637000,
-      "lastActivityTimestamp": 1783118366000,
-      "lastActivityText": "Controllo: Con matchmaking il 03/07/2026 22:39",
-      "activities": [
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T22:39:26Z",
-          "instanceId": "17009111525"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T22:31:12Z",
-          "instanceId": "17009074665"
-        },
-        {
-          "name": "Pinnacolo dell'Osservatrice: Maestro",
-          "period": "2026-07-01T03:24:18Z",
-          "instanceId": "16998304811"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-06-30T22:12:08Z",
-          "instanceId": "16997176852"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-06-30T21:56:09Z",
-          "instanceId": "16997138511"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-06-30T21:41:49Z",
-          "instanceId": "16997096729"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-06-30T21:27:29Z",
-          "instanceId": "16997049407"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-06-30T20:58:03Z",
-          "instanceId": "16996949873"
-        },
-        {
-          "name": "Invasione",
-          "period": "2026-06-29T20:58:33Z",
-          "instanceId": "16992431757"
-        },
-        {
-          "name": "Invasione",
-          "period": "2026-06-29T20:57:29Z",
-          "instanceId": "16992411908"
         }
       ]
     },
