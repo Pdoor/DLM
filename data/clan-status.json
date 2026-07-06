@@ -1,14 +1,79 @@
 {
-  "generatedAt": "2026-07-06T18:59:23.427Z",
+  "generatedAt": "2026-07-06T20:56:57.648Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/80f5aec4b03c7613d8628b7b7077b936.jpg",
+      "powerLevel": 237,
+      "lastPlayedTimestamp": 1783370982000,
+      "lastActivityTimestamp": 1783370118000,
+      "lastActivityText": "Controllo: Con matchmaking il 06/07/2026 20:35",
+      "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-06T20:35:18Z",
+          "instanceId": "17021754099"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-06T20:24:20Z",
+          "instanceId": "17021723690"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-06T20:10:53Z",
+          "instanceId": "17021686840"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-05T20:19:58Z",
+          "instanceId": "17017606131"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-05T20:06:04Z",
+          "instanceId": "17017553888"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-05T19:53:13Z",
+          "instanceId": "17017489021"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-05T19:39:19Z",
+          "instanceId": "17017435273"
+        },
+        {
+          "name": "Spirale invertita: Personalizzata",
+          "period": "2026-07-04T13:08:42Z",
+          "instanceId": "17011722928"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Personalizzata",
+          "period": "2026-07-04T12:44:34Z",
+          "instanceId": "17011617666"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T18:50:19Z",
+          "instanceId": "17008288477"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
@@ -66,71 +131,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-06T06:45:15Z",
           "instanceId": "17019743394"
-        }
-      ]
-    },
-    {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
-      "powerLevel": 303,
-      "lastPlayedTimestamp": 1783359420000,
-      "lastActivityTimestamp": 1783359304000,
-      "lastActivityText": "Neomuna il 06/07/2026 17:35",
-      "activities": [
-        {
-          "name": "Neomuna",
-          "period": "2026-07-06T17:35:04Z",
-          "instanceId": "17021175150"
-        },
-        {
-          "name": "Al limite: Normale",
-          "period": "2026-07-06T17:20:48Z",
-          "instanceId": "17021164468"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-06T17:16:08Z",
-          "instanceId": "17021122295"
-        },
-        {
-          "name": "Rischio: Normale",
-          "period": "2026-07-06T16:55:49Z",
-          "instanceId": "17021101702"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-06T16:50:13Z",
-          "instanceId": "17021050493"
-        },
-        {
-          "name": "Rischio: Leggendaria",
-          "period": "2026-07-06T13:00:08Z",
-          "instanceId": "17020433516"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-06T12:43:17Z",
-          "instanceId": "17020420353"
-        },
-        {
-          "name": "Caduta: Normale",
-          "period": "2026-07-06T12:08:00Z",
-          "instanceId": "17020379490"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-06T12:03:24Z",
-          "instanceId": "17020311713"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-07-02T19:04:37Z",
-          "instanceId": "17004594825"
         }
       ]
     },
@@ -463,12 +463,12 @@
       "displayName": "ClaudeFj#8206",
       "membershipId": "4611686018522886434",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
       "powerLevel": 481,
-      "lastPlayedTimestamp": 1783345700000,
+      "lastPlayedTimestamp": 1783370741000,
       "lastActivityTimestamp": 1783345543000,
       "lastActivityText": "La lama di Luce: Personalizzata il 06/07/2026 13:45",
       "activities": [
@@ -528,12 +528,12 @@
       "displayName": "Paltrix94#5760",
       "membershipId": "4611686018516491359",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
       "powerLevel": 479,
-      "lastPlayedTimestamp": 1783345700000,
+      "lastPlayedTimestamp": 1783371280000,
       "lastActivityTimestamp": 1783345543000,
       "lastActivityText": "La lama di Luce: Personalizzata il 06/07/2026 13:45",
       "activities": [
@@ -785,71 +785,6 @@
       ]
     },
     {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/80f5aec4b03c7613d8628b7b7077b936.jpg",
-      "powerLevel": 237,
-      "lastPlayedTimestamp": 1783284429000,
-      "lastActivityTimestamp": 1783282798000,
-      "lastActivityText": "Controllo: Con matchmaking il 05/07/2026 20:19",
-      "activities": [
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-05T20:19:58Z",
-          "instanceId": "17017606131"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-05T20:06:04Z",
-          "instanceId": "17017553888"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-05T19:53:13Z",
-          "instanceId": "17017489021"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-05T19:39:19Z",
-          "instanceId": "17017435273"
-        },
-        {
-          "name": "Spirale invertita: Personalizzata",
-          "period": "2026-07-04T13:08:42Z",
-          "instanceId": "17011722928"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Personalizzata",
-          "period": "2026-07-04T12:44:34Z",
-          "instanceId": "17011617666"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T18:50:19Z",
-          "instanceId": "17008288477"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T18:35:27Z",
-          "instanceId": "17008234311"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T17:45:56Z",
-          "instanceId": "17008047551"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T17:35:37Z",
-          "instanceId": "17008012582"
-        }
-      ]
-    },
-    {
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
       "bungieNetMembershipId": "",
@@ -988,7 +923,7 @@
       "title": "Trascendente",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/55a2f41a0bf4b3383d38fe9398e2911b.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1783269059000,
+      "lastPlayedTimestamp": 1783364934000,
       "lastActivityTimestamp": 1783267799000,
       "lastActivityText": "Pallido Cuore il 05/07/2026 16:09",
       "activities": [
@@ -1951,6 +1886,71 @@
           "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
           "period": "2026-06-23T22:12:50Z",
           "instanceId": "16963621077"
+        }
+      ]
+    },
+    {
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/19c19292462c171c82216996684fea0d.jpg",
+      "powerLevel": 339,
+      "lastPlayedTimestamp": 1783364496000,
+      "lastActivityTimestamp": 1782661307000,
+      "lastActivityText": "Ultimo desiderio: Standard il 28/06/2026 15:41",
+      "activities": [
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T15:41:47Z",
+          "instanceId": "16986344347"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T15:29:04Z",
+          "instanceId": "16986276031"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T15:21:00Z",
+          "instanceId": "16986223965"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T15:13:18Z",
+          "instanceId": "16986189270"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T15:02:11Z",
+          "instanceId": "16986158262"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T14:43:55Z",
+          "instanceId": "16986112613"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T14:33:26Z",
+          "instanceId": "16987074569"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T14:22:56Z",
+          "instanceId": "16986000019"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T14:13:14Z",
+          "instanceId": "16985960243"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T14:04:15Z",
+          "instanceId": "16985924374"
         }
       ]
     },
