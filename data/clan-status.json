@@ -1,22 +1,232 @@
 {
-  "generatedAt": "2026-07-06T16:39:16.991Z",
+  "generatedAt": "2026-07-06T18:59:23.427Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 482,
+      "lastPlayedTimestamp": 1783364260000,
+      "lastActivityTimestamp": 1783363433000,
+      "lastActivityText": "Caccia all'incubo: disperazione: Avanzata il 06/07/2026 18:43",
+      "activities": [
+        {
+          "name": "Caccia all'incubo: disperazione: Avanzata",
+          "period": "2026-07-06T18:43:53Z",
+          "instanceId": "17021382169"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-06T18:32:23Z",
+          "instanceId": "17021369608"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-07-06T17:57:19Z",
+          "instanceId": "17021274637"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-07-06T17:13:05Z",
+          "instanceId": "17021164785"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-06T10:44:24Z",
+          "instanceId": "17020186175"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-06T10:15:48Z",
+          "instanceId": "17020118575"
+        },
+        {
+          "name": "Giardini Exodus 2A: Maestro",
+          "period": "2026-07-06T10:05:44Z",
+          "instanceId": "17020109709"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-06T10:03:28Z",
+          "instanceId": "17020092299"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-06T09:53:09Z",
+          "instanceId": "17020084843"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-06T06:45:15Z",
+          "instanceId": "17019743394"
+        }
+      ]
+    },
+    {
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
+      "powerLevel": 303,
+      "lastPlayedTimestamp": 1783359420000,
+      "lastActivityTimestamp": 1783359304000,
+      "lastActivityText": "Neomuna il 06/07/2026 17:35",
+      "activities": [
+        {
+          "name": "Neomuna",
+          "period": "2026-07-06T17:35:04Z",
+          "instanceId": "17021175150"
+        },
+        {
+          "name": "Al limite: Normale",
+          "period": "2026-07-06T17:20:48Z",
+          "instanceId": "17021164468"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-07-06T17:16:08Z",
+          "instanceId": "17021122295"
+        },
+        {
+          "name": "Rischio: Normale",
+          "period": "2026-07-06T16:55:49Z",
+          "instanceId": "17021101702"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-07-06T16:50:13Z",
+          "instanceId": "17021050493"
+        },
+        {
+          "name": "Rischio: Leggendaria",
+          "period": "2026-07-06T13:00:08Z",
+          "instanceId": "17020433516"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-07-06T12:43:17Z",
+          "instanceId": "17020420353"
+        },
+        {
+          "name": "Caduta: Normale",
+          "period": "2026-07-06T12:08:00Z",
+          "instanceId": "17020379490"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-07-06T12:03:24Z",
+          "instanceId": "17020311713"
+        },
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-07-02T19:04:37Z",
+          "instanceId": "17004594825"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
+      "powerLevel": 467,
+      "lastPlayedTimestamp": 1783359225000,
+      "lastActivityTimestamp": 1783358448000,
+      "lastActivityText": "Al limite: Normale il 06/07/2026 17:20",
+      "activities": [
+        {
+          "name": "Al limite: Normale",
+          "period": "2026-07-06T17:20:48Z",
+          "instanceId": "17021164468"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-07-06T17:16:08Z",
+          "instanceId": "17021122295"
+        },
+        {
+          "name": "Rischio: Normale",
+          "period": "2026-07-06T16:55:49Z",
+          "instanceId": "17021101702"
+        },
+        {
+          "name": "Rovina della Signora della Guerra: Standard",
+          "period": "2026-07-05T19:54:24Z",
+          "instanceId": "17017553694"
+        },
+        {
+          "name": "Rovina della Signora della Guerra: Standard",
+          "period": "2026-07-05T19:48:55Z",
+          "instanceId": "17017447344"
+        },
+        {
+          "name": "Rovina della Signora della Guerra: Standard",
+          "period": "2026-07-05T19:29:19Z",
+          "instanceId": "17017424986"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-07-05T16:26:28Z",
+          "instanceId": "17016787991"
+        },
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-07-05T12:12:22Z",
+          "instanceId": "17016239721"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-07-04T16:56:07Z",
+          "instanceId": "17012465039"
+        },
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-07-02T19:04:37Z",
+          "instanceId": "17004594825"
+        }
+      ]
+    },
+    {
       "displayName": "TheEnrageGamer#2674",
       "membershipId": "4611686018511383140",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Custode della fiamma",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e1c407e098c9493ae8e0e9e7b215fa09.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1783355936000,
-      "lastActivityTimestamp": 1783355126000,
-      "lastActivityText": "Controllo: Con matchmaking il 06/07/2026 16:25",
+      "lastPlayedTimestamp": 1783358066000,
+      "lastActivityTimestamp": 1783357421000,
+      "lastActivityText": "Controllo: Con matchmaking il 06/07/2026 17:03",
       "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-06T17:03:41Z",
+          "instanceId": "17021105303"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-06T16:49:22Z",
+          "instanceId": "17021061352"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-06T16:38:42Z",
+          "instanceId": "17021028878"
+        },
         {
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-06T16:25:26Z",
@@ -51,21 +261,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-03T18:56:33Z",
           "instanceId": "17008307505"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T18:43:23Z",
-          "instanceId": "17008244245"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T18:31:46Z",
-          "instanceId": "17008211941"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T18:22:10Z",
-          "instanceId": "17008167852"
         }
       ]
     },
@@ -73,15 +268,20 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a5181bb652131991d04ca0d7dfc6cf91.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1783355792000,
-      "lastActivityTimestamp": 1783352171000,
-      "lastActivityText": "La disonorata: Personalizzata il 06/07/2026 15:36",
+      "lastPlayedTimestamp": 1783356281000,
+      "lastActivityTimestamp": 1783352961000,
+      "lastActivityText": "Oblazione: Lignaggio il 06/07/2026 15:49",
       "activities": [
+        {
+          "name": "Oblazione: Lignaggio",
+          "period": "2026-07-06T15:49:21Z",
+          "instanceId": "17021089200"
+        },
         {
           "name": "La disonorata: Personalizzata",
           "period": "2026-07-06T15:36:11Z",
@@ -126,11 +326,6 @@
           "name": "Luna",
           "period": "2026-07-05T10:16:09Z",
           "instanceId": "17015646008"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-07-05T10:04:54Z",
-          "instanceId": "17015607285"
         }
       ]
     },
@@ -138,12 +333,12 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 533,
-      "lastPlayedTimestamp": 1783355947000,
+      "powerLevel": 521,
+      "lastPlayedTimestamp": 1783357234000,
       "lastActivityTimestamp": 1783351983000,
       "lastActivityText": "Esplosione: Con matchmaking il 06/07/2026 15:33",
       "activities": [
@@ -156,6 +351,11 @@
           "name": "Neomuna",
           "period": "2026-07-06T15:25:18Z",
           "instanceId": "17020796961"
+        },
+        {
+          "name": "Comando del Vespro: Maestro",
+          "period": "2026-07-06T14:38:05Z",
+          "instanceId": "17021009835"
         },
         {
           "name": "Controllo: Con matchmaking",
@@ -191,11 +391,6 @@
           "name": "Comando del Vespro: Maestro",
           "period": "2026-07-05T01:05:08Z",
           "instanceId": "17014704588"
-        },
-        {
-          "name": "Comando del Vespro: Maestro",
-          "period": "2026-07-05T00:58:49Z",
-          "instanceId": "17014475574"
         }
       ]
     },
@@ -261,71 +456,6 @@
           "name": "Lega Gare di Astori",
           "period": "2026-07-05T15:42:27Z",
           "instanceId": "17016507739"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cd907b1677ccced0b2e3f6b6df86ec49.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1783355664000,
-      "lastActivityTimestamp": 1783351052000,
-      "lastActivityText": "Oblazione: Lignaggio il 06/07/2026 15:17",
-      "activities": [
-        {
-          "name": "Oblazione: Lignaggio",
-          "period": "2026-07-06T15:17:32Z",
-          "instanceId": "17020809895"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-04T18:01:43Z",
-          "instanceId": "17012780848"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-07-04T17:24:26Z",
-          "instanceId": "17012604538"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-07-04T17:03:21Z",
-          "instanceId": "17012437601"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-07-04T16:42:14Z",
-          "instanceId": "17012378497"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-04T16:08:34Z",
-          "instanceId": "17012295434"
-        },
-        {
-          "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
-          "period": "2026-07-04T14:30:08Z",
-          "instanceId": "17011908181"
-        },
-        {
-          "name": "La caduta di un Kell: Personalizzata",
-          "period": "2026-07-04T14:11:10Z",
-          "instanceId": "17011825091"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-07-04T14:04:13Z",
-          "instanceId": "17011794206"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-07-04T13:36:55Z",
-          "instanceId": "17011759843"
         }
       ]
     },
@@ -525,71 +655,6 @@
       ]
     },
     {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
-      "powerLevel": 303,
-      "lastPlayedTimestamp": 1783355536000,
-      "lastActivityTimestamp": 1783342808000,
-      "lastActivityText": "Rischio: Leggendaria il 06/07/2026 13:00",
-      "activities": [
-        {
-          "name": "Rischio: Leggendaria",
-          "period": "2026-07-06T13:00:08Z",
-          "instanceId": "17020433516"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-06T12:43:17Z",
-          "instanceId": "17020420353"
-        },
-        {
-          "name": "Caduta: Normale",
-          "period": "2026-07-06T12:08:00Z",
-          "instanceId": "17020379490"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-06T12:03:24Z",
-          "instanceId": "17020311713"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-07-02T19:04:37Z",
-          "instanceId": "17004594825"
-        },
-        {
-          "name": "La radice degli incubi: Maestro",
-          "period": "2026-07-02T16:55:31Z",
-          "instanceId": "17003880873"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-02T16:32:21Z",
-          "instanceId": "17003821555"
-        },
-        {
-          "name": "Sotto assedio: Normale",
-          "period": "2026-07-02T16:16:14Z",
-          "instanceId": "17003802543"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-02T16:06:16Z",
-          "instanceId": "17003758407"
-        },
-        {
-          "name": "Primo contatto: Normale",
-          "period": "2026-07-02T15:55:21Z",
-          "instanceId": "17003730713"
-        }
-      ]
-    },
-    {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
@@ -781,71 +846,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-03T17:35:37Z",
           "instanceId": "17008012582"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 481,
-      "lastPlayedTimestamp": 1783282737000,
-      "lastActivityTimestamp": 1783281264000,
-      "lastActivityText": "Rovina della Signora della Guerra: Standard il 05/07/2026 19:54",
-      "activities": [
-        {
-          "name": "Rovina della Signora della Guerra: Standard",
-          "period": "2026-07-05T19:54:24Z",
-          "instanceId": "17017553694"
-        },
-        {
-          "name": "Rovina della Signora della Guerra: Standard",
-          "period": "2026-07-05T19:48:55Z",
-          "instanceId": "17017447344"
-        },
-        {
-          "name": "Rovina della Signora della Guerra: Standard",
-          "period": "2026-07-05T19:29:19Z",
-          "instanceId": "17017424986"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-07-05T16:26:28Z",
-          "instanceId": "17016787991"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-07-05T12:12:22Z",
-          "instanceId": "17016239721"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-04T16:56:07Z",
-          "instanceId": "17012465039"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-07-02T19:04:37Z",
-          "instanceId": "17004594825"
-        },
-        {
-          "name": "La radice degli incubi: Maestro",
-          "period": "2026-07-02T16:55:31Z",
-          "instanceId": "17003880873"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-02T16:32:21Z",
-          "instanceId": "17003821555"
-        },
-        {
-          "name": "Sotto assedio: Normale",
-          "period": "2026-07-02T16:16:14Z",
-          "instanceId": "17003802543"
         }
       ]
     },
