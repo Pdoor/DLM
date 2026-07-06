@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T04:53:41.952Z",
+  "generatedAt": "2026-07-06T09:03:44.954Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,64 +8,129 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/80f5aec4b03c7613d8628b7b7077b936.jpg",
-      "powerLevel": 456,
-      "lastPlayedTimestamp": 1783313392000,
-      "lastActivityTimestamp": 1783311999000,
-      "lastActivityText": "Controllo: Con matchmaking il 06/07/2026 04:26",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783320982000,
+      "lastActivityTimestamp": 1783320315000,
+      "lastActivityText": "Controllo: Con matchmaking il 06/07/2026 06:45",
       "activities": [
         {
           "name": "Controllo: Con matchmaking",
-          "period": "2026-07-06T04:26:39Z",
-          "instanceId": "17019388203"
-        },
-        {
-          "name": "Oblazione: Lignaggio",
-          "period": "2026-07-05T16:24:27Z",
-          "instanceId": "17016788146"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-07-05T16:09:32Z",
-          "instanceId": "17016627834"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-05T15:33:54Z",
-          "instanceId": "17016504073"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-05T14:28:44Z",
-          "instanceId": "17016282699"
-        },
-        {
-          "name": "Campi di battaglia: Condotto: Con matchmaking",
-          "period": "2026-07-05T13:50:43Z",
-          "instanceId": "17016179181"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-07-05T13:21:39Z",
-          "instanceId": "17016079570"
-        },
-        {
-          "name": "Oblazione: Lignaggio",
-          "period": "2026-07-05T10:49:44Z",
-          "instanceId": "17015693550"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-07-05T10:34:42Z",
-          "instanceId": "17015679129"
+          "period": "2026-07-06T06:45:15Z",
+          "instanceId": "17019743394"
         },
         {
           "name": "Controllo: Con matchmaking",
-          "period": "2026-07-05T07:00:35Z",
-          "instanceId": "17015729415"
+          "period": "2026-07-06T06:30:11Z",
+          "instanceId": "17019715648"
+        },
+        {
+          "name": "Campi di battaglia: Condotto: Personalizzata",
+          "period": "2026-06-30T17:11:35Z",
+          "instanceId": "16996313174"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Personalizzata",
+          "period": "2026-06-30T16:47:35Z",
+          "instanceId": "16996253095"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
+          "period": "2026-06-30T16:03:55Z",
+          "instanceId": "16996175665"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-06-30T15:57:00Z",
+          "instanceId": "16996033675"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
+          "period": "2026-06-30T15:28:29Z",
+          "instanceId": "16995972018"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata",
+          "period": "2026-06-30T14:42:17Z",
+          "instanceId": "16995919323"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-06-30T14:14:16Z",
+          "instanceId": "16995758239"
+        },
+        {
+          "name": "Bunker dei caduti: Con matchmaking",
+          "period": "2026-06-30T13:49:51Z",
+          "instanceId": "16995690297"
+        }
+      ]
+    },
+    {
+      "displayName": "Ghost of Warlock#5159",
+      "membershipId": "4611686018513286564",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783321700000,
+      "lastActivityTimestamp": 1783318839000,
+      "lastActivityText": "Campi di battaglia: Discesa: Con matchmaking il 06/07/2026 06:20",
+      "activities": [
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-06T06:20:39Z",
+          "instanceId": "17019706379"
+        },
+        {
+          "name": "D.A.G.A. caduta: Con matchmaking",
+          "period": "2026-07-05T19:20:12Z",
+          "instanceId": "17017368270"
+        },
+        {
+          "name": "Spedizione: Europa: Con matchmaking",
+          "period": "2026-07-05T19:02:41Z",
+          "instanceId": "17017293738"
+        },
+        {
+          "name": "Spedizione: Cosmodromo: Con matchmaking",
+          "period": "2026-07-05T13:09:55Z",
+          "instanceId": "17016051201"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-07-05T12:55:40Z",
+          "instanceId": "17016008657"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
+          "period": "2026-07-04T09:33:56Z",
+          "instanceId": "17011157014"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-06-28T15:26:55Z",
+          "instanceId": "16986334494"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-06-28T15:25:32Z",
+          "instanceId": "16986204890"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-06-28T15:22:14Z",
+          "instanceId": "16986190976"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-06-28T15:05:56Z",
+          "instanceId": "16986180810"
         }
       ]
     },
@@ -395,71 +460,6 @@
       ]
     },
     {
-      "displayName": "Ghost of Warlock#5159",
-      "membershipId": "4611686018513286564",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 487,
-      "lastPlayedTimestamp": 1783281009000,
-      "lastActivityTimestamp": 1783279212000,
-      "lastActivityText": "D.A.G.A. caduta: Con matchmaking il 05/07/2026 19:20",
-      "activities": [
-        {
-          "name": "D.A.G.A. caduta: Con matchmaking",
-          "period": "2026-07-05T19:20:12Z",
-          "instanceId": "17017368270"
-        },
-        {
-          "name": "Spedizione: Europa: Con matchmaking",
-          "period": "2026-07-05T19:02:41Z",
-          "instanceId": "17017293738"
-        },
-        {
-          "name": "Spedizione: Cosmodromo: Con matchmaking",
-          "period": "2026-07-05T13:09:55Z",
-          "instanceId": "17016051201"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-07-05T12:55:40Z",
-          "instanceId": "17016008657"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
-          "period": "2026-07-04T09:33:56Z",
-          "instanceId": "17011157014"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T15:26:55Z",
-          "instanceId": "16986334494"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T15:25:32Z",
-          "instanceId": "16986204890"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T15:22:14Z",
-          "instanceId": "16986190976"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T15:05:56Z",
-          "instanceId": "16986180810"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T15:03:41Z",
-          "instanceId": "16986117698"
-        }
-      ]
-    },
-    {
       "displayName": "DiciestCloth1#2862",
       "membershipId": "4611686018442634411",
       "bungieNetMembershipId": "",
@@ -658,12 +658,12 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 508,
-      "lastPlayedTimestamp": 1783269662000,
+      "lastPlayedTimestamp": 1783328506000,
       "lastActivityTimestamp": 1783267974000,
       "lastActivityText": "Conservazione il 05/07/2026 16:12",
       "activities": [
