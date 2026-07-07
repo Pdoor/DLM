@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T07:46:02.533Z",
+  "generatedAt": "2026-07-07T11:13:32.751Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,45 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1783407302000,
-      "lastActivityTimestamp": 1783405605000,
-      "lastActivityText": "Luna il 07/07/2026 06:26",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1783422581000,
+      "lastActivityTimestamp": 1783421846000,
+      "lastActivityText": "Controllo: Con matchmaking il 07/07/2026 10:57",
       "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-07T10:57:26Z",
+          "instanceId": "17024149944"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-07T10:35:49Z",
+          "instanceId": "17024119845"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-07T10:22:09Z",
+          "instanceId": "17024093664"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-07T09:48:35Z",
+          "instanceId": "17024040542"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-07T09:34:46Z",
+          "instanceId": "17024015508"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-07T09:15:35Z",
+          "instanceId": "17023986224"
+        },
         {
           "name": "Luna",
           "period": "2026-07-07T06:26:45Z",
@@ -36,36 +66,201 @@
           "name": "Europa",
           "period": "2026-07-06T18:32:23Z",
           "instanceId": "17021369608"
+        }
+      ]
+    },
+    {
+      "displayName": "ClaudeFj#8206",
+      "membershipId": "4611686018522886434",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
+      "powerLevel": 485,
+      "lastPlayedTimestamp": 1783420754000,
+      "lastActivityTimestamp": 1783419721000,
+      "lastActivityText": "Trafficante d'armi: Personalizzata il 07/07/2026 10:22",
+      "activities": [
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-07-07T10:22:01Z",
+          "instanceId": "17024104913"
+        },
+        {
+          "name": "Liminalità: Personalizzata",
+          "period": "2026-07-07T10:07:16Z",
+          "instanceId": "17024054964"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-07-07T09:45:14Z",
+          "instanceId": "17024035167"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-07-06T22:13:13Z",
+          "instanceId": "17022118992"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-07-06T21:51:12Z",
+          "instanceId": "17022041593"
         },
         {
           "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-07-06T17:57:19Z",
-          "instanceId": "17021274637"
+          "period": "2026-07-06T21:16:20Z",
+          "instanceId": "17021922731"
         },
         {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-07-06T17:13:05Z",
-          "instanceId": "17021164785"
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-07-06T20:57:56Z",
+          "instanceId": "17021847950"
         },
         {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-07-06T10:44:24Z",
-          "instanceId": "17020186175"
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-07-06T13:45:43Z",
+          "instanceId": "17020535051"
         },
         {
-          "name": "Cosmodromo",
-          "period": "2026-07-06T10:15:48Z",
-          "instanceId": "17020118575"
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-07-06T13:33:14Z",
+          "instanceId": "17020520254"
         },
         {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-07-06T10:05:44Z",
-          "instanceId": "17020109709"
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-07-06T13:24:27Z",
+          "instanceId": "17020497359"
+        }
+      ]
+    },
+    {
+      "displayName": "mattia08pro#6310",
+      "membershipId": "4611686018513701477",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Intrepido",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/dac5ae759ce9556eaf49d6f8776713f5.jpg",
+      "powerLevel": 531,
+      "lastPlayedTimestamp": 1783422614000,
+      "lastActivityTimestamp": 1783419721000,
+      "lastActivityText": "Trafficante d'armi: Personalizzata il 07/07/2026 10:22",
+      "activities": [
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-07-07T10:22:01Z",
+          "instanceId": "17024104913"
         },
         {
-          "name": "Cosmodromo",
-          "period": "2026-07-06T10:03:28Z",
-          "instanceId": "17020092299"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-07T09:46:33Z",
+          "instanceId": "17024029717"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T20:49:57Z",
+          "instanceId": "17008706347"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T20:36:04Z",
+          "instanceId": "17008670942"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T20:23:00Z",
+          "instanceId": "17008623004"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T20:08:42Z",
+          "instanceId": "17008568028"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T19:58:38Z",
+          "instanceId": "17008524248"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T19:51:58Z",
+          "instanceId": "17008489104"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T19:43:01Z",
+          "instanceId": "17008462521"
+        },
+        {
+          "name": "Labirinto di Veles: Maestro",
+          "period": "2026-07-03T15:58:54Z",
+          "instanceId": "17007681478"
+        }
+      ]
+    },
+    {
+      "displayName": "Paltrix94#5760",
+      "membershipId": "4611686018516491359",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
+      "powerLevel": 526,
+      "lastPlayedTimestamp": 1783422796000,
+      "lastActivityTimestamp": 1783419721000,
+      "lastActivityText": "Trafficante d'armi: Personalizzata il 07/07/2026 10:22",
+      "activities": [
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-07-07T10:22:01Z",
+          "instanceId": "17024104913"
+        },
+        {
+          "name": "Liminalità: Personalizzata",
+          "period": "2026-07-07T10:07:16Z",
+          "instanceId": "17024054964"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-07-07T09:45:14Z",
+          "instanceId": "17024035167"
+        },
+        {
+          "name": "Logistica R1: Personalizzata",
+          "period": "2026-07-07T08:58:27Z",
+          "instanceId": "17023948373"
+        },
+        {
+          "name": "Logistica R1: Personalizzata",
+          "period": "2026-07-07T08:53:33Z",
+          "instanceId": "17023933133"
+        },
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-07-07T08:42:48Z",
+          "instanceId": "17023922954"
+        },
+        {
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-07-07T08:39:00Z",
+          "instanceId": "17023906181"
+        },
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-07-07T08:30:34Z",
+          "instanceId": "17023899840"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-07-06T22:13:13Z",
+          "instanceId": "17022118992"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-07-06T21:51:12Z",
+          "instanceId": "17022041593"
         }
       ]
     },
@@ -196,136 +391,6 @@
           "name": "Ultimo desiderio: Standard",
           "period": "2026-07-05T13:01:04Z",
           "instanceId": "17016169298"
-        }
-      ]
-    },
-    {
-      "displayName": "ClaudeFj#8206",
-      "membershipId": "4611686018522886434",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
-      "powerLevel": 483,
-      "lastPlayedTimestamp": 1783377510000,
-      "lastActivityTimestamp": 1783375993000,
-      "lastActivityText": "Cella Senza Sole: Personalizzata il 06/07/2026 22:13",
-      "activities": [
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-07-06T22:13:13Z",
-          "instanceId": "17022118992"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-07-06T21:51:12Z",
-          "instanceId": "17022041593"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-07-06T21:16:20Z",
-          "instanceId": "17021922731"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-07-06T20:57:56Z",
-          "instanceId": "17021847950"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-07-06T13:45:43Z",
-          "instanceId": "17020535051"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-07-06T13:33:14Z",
-          "instanceId": "17020520254"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-07-06T13:24:27Z",
-          "instanceId": "17020497359"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-07-06T13:08:11Z",
-          "instanceId": "17020475858"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-06T09:52:42Z",
-          "instanceId": "17020101525"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-06T09:39:15Z",
-          "instanceId": "17020071211"
-        }
-      ]
-    },
-    {
-      "displayName": "Paltrix94#5760",
-      "membershipId": "4611686018516491359",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
-      "powerLevel": 484,
-      "lastPlayedTimestamp": 1783377310000,
-      "lastActivityTimestamp": 1783375993000,
-      "lastActivityText": "Cella Senza Sole: Personalizzata il 06/07/2026 22:13",
-      "activities": [
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-07-06T22:13:13Z",
-          "instanceId": "17022118992"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-07-06T21:51:12Z",
-          "instanceId": "17022041593"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-07-06T21:16:20Z",
-          "instanceId": "17021922731"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-07-06T20:57:56Z",
-          "instanceId": "17021847950"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-07-06T13:45:43Z",
-          "instanceId": "17020535051"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-07-06T13:33:14Z",
-          "instanceId": "17020520254"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-07-06T13:24:27Z",
-          "instanceId": "17020497359"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-07-06T13:08:11Z",
-          "instanceId": "17020475858"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-06T09:52:42Z",
-          "instanceId": "17020101525"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-06T09:39:15Z",
-          "instanceId": "17020071211"
         }
       ]
     },
@@ -723,12 +788,12 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 510,
-      "lastPlayedTimestamp": 1783340364000,
+      "lastPlayedTimestamp": 1783422325000,
       "lastActivityTimestamp": 1783336221000,
       "lastActivityText": "Cosmodromo il 06/07/2026 11:10",
       "activities": [
@@ -1236,71 +1301,6 @@
           "name": "Competitiva: Con matchmaking",
           "period": "2026-06-21T20:15:43Z",
           "instanceId": "16951139100"
-        }
-      ]
-    },
-    {
-      "displayName": "mattia08pro#6310",
-      "membershipId": "4611686018513701477",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Intrepido",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/dac5ae759ce9556eaf49d6f8776713f5.jpg",
-      "powerLevel": 402,
-      "lastPlayedTimestamp": 1783113973000,
-      "lastActivityTimestamp": 1783111797000,
-      "lastActivityText": "Controllo: Con matchmaking il 03/07/2026 20:49",
-      "activities": [
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T20:49:57Z",
-          "instanceId": "17008706347"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T20:36:04Z",
-          "instanceId": "17008670942"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T20:23:00Z",
-          "instanceId": "17008623004"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T20:08:42Z",
-          "instanceId": "17008568028"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T19:58:38Z",
-          "instanceId": "17008524248"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T19:51:58Z",
-          "instanceId": "17008489104"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T19:43:01Z",
-          "instanceId": "17008462521"
-        },
-        {
-          "name": "Labirinto di Veles: Maestro",
-          "period": "2026-07-03T15:58:54Z",
-          "instanceId": "17007681478"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-03T15:57:36Z",
-          "instanceId": "17007663755"
-        },
-        {
-          "name": "Labirinto di Veles: Maestro",
-          "period": "2026-07-03T15:50:16Z",
-          "instanceId": "17007659099"
         }
       ]
     },
