@@ -1,14 +1,79 @@
 {
-  "generatedAt": "2026-07-07T03:54:56.692Z",
+  "generatedAt": "2026-07-07T07:46:02.533Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783407302000,
+      "lastActivityTimestamp": 1783405605000,
+      "lastActivityText": "Luna il 07/07/2026 06:26",
+      "activities": [
+        {
+          "name": "Luna",
+          "period": "2026-07-07T06:26:45Z",
+          "instanceId": "17023699160"
+        },
+        {
+          "name": "Caccia all'incubo: tormento: Avanzata",
+          "period": "2026-07-07T06:14:58Z",
+          "instanceId": "17023626427"
+        },
+        {
+          "name": "Caccia all'incubo: disperazione: Avanzata",
+          "period": "2026-07-06T18:43:53Z",
+          "instanceId": "17021382169"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-06T18:32:23Z",
+          "instanceId": "17021369608"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-07-06T17:57:19Z",
+          "instanceId": "17021274637"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-07-06T17:13:05Z",
+          "instanceId": "17021164785"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-06T10:44:24Z",
+          "instanceId": "17020186175"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-06T10:15:48Z",
+          "instanceId": "17020118575"
+        },
+        {
+          "name": "Giardini Exodus 2A: Maestro",
+          "period": "2026-07-06T10:05:44Z",
+          "instanceId": "17020109709"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-06T10:03:28Z",
+          "instanceId": "17020092299"
+        }
+      ]
+    },
+    {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
@@ -326,71 +391,6 @@
           "name": "La Fortezza Scarlatta: Personalizzata",
           "period": "2026-07-04T12:44:34Z",
           "instanceId": "17011617666"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 482,
-      "lastPlayedTimestamp": 1783364260000,
-      "lastActivityTimestamp": 1783363433000,
-      "lastActivityText": "Caccia all'incubo: disperazione: Avanzata il 06/07/2026 18:43",
-      "activities": [
-        {
-          "name": "Caccia all'incubo: disperazione: Avanzata",
-          "period": "2026-07-06T18:43:53Z",
-          "instanceId": "17021382169"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-06T18:32:23Z",
-          "instanceId": "17021369608"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-07-06T17:57:19Z",
-          "instanceId": "17021274637"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-07-06T17:13:05Z",
-          "instanceId": "17021164785"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-07-06T10:44:24Z",
-          "instanceId": "17020186175"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-06T10:15:48Z",
-          "instanceId": "17020118575"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-07-06T10:05:44Z",
-          "instanceId": "17020109709"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-06T10:03:28Z",
-          "instanceId": "17020092299"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-06T09:53:09Z",
-          "instanceId": "17020084843"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-06T06:45:15Z",
-          "instanceId": "17019743394"
         }
       ]
     },
