@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-08T03:55:49.760Z",
+  "generatedAt": "2026-07-08T06:33:48.934Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cd907b1677ccced0b2e3f6b6df86ec49.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783489779000,
+      "lastActivityTimestamp": 1783488525000,
+      "lastActivityText": "Luna il 08/07/2026 05:28",
+      "activities": [
+        {
+          "name": "Luna",
+          "period": "2026-07-08T05:28:45Z",
+          "instanceId": "17027287550"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-07-08T05:16:00Z",
+          "instanceId": "17027229766"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-07T18:24:38Z",
+          "instanceId": "17024988439"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-07T18:16:18Z",
+          "instanceId": "17024903651"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-07-07T15:12:23Z",
+          "instanceId": "17024752121"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
+          "period": "2026-07-07T14:46:32Z",
+          "instanceId": "17024703430"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
+          "period": "2026-07-07T14:35:02Z",
+          "instanceId": "17024631491"
+        },
+        {
+          "name": "Oblazione: Lignaggio",
+          "period": "2026-07-06T15:49:21Z",
+          "instanceId": "17021089200"
+        },
+        {
+          "name": "Oblazione: Lignaggio",
+          "period": "2026-07-06T15:17:32Z",
+          "instanceId": "17020809895"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-04T18:01:43Z",
+          "instanceId": "17012780848"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -326,71 +391,6 @@
           "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
           "period": "2026-07-07T14:46:32Z",
           "instanceId": "17024703430"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cd907b1677ccced0b2e3f6b6df86ec49.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1783448907000,
-      "lastActivityTimestamp": 1783448678000,
-      "lastActivityText": "Campi di battaglia: Discesa: Con matchmaking il 07/07/2026 18:24",
-      "activities": [
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-07-07T18:24:38Z",
-          "instanceId": "17024988439"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-07T18:16:18Z",
-          "instanceId": "17024903651"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-07-07T15:12:23Z",
-          "instanceId": "17024752121"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
-          "period": "2026-07-07T14:46:32Z",
-          "instanceId": "17024703430"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
-          "period": "2026-07-07T14:35:02Z",
-          "instanceId": "17024631491"
-        },
-        {
-          "name": "Oblazione: Lignaggio",
-          "period": "2026-07-06T15:49:21Z",
-          "instanceId": "17021089200"
-        },
-        {
-          "name": "Oblazione: Lignaggio",
-          "period": "2026-07-06T15:17:32Z",
-          "instanceId": "17020809895"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-04T18:01:43Z",
-          "instanceId": "17012780848"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-07-04T17:24:26Z",
-          "instanceId": "17012604538"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-07-04T17:03:21Z",
-          "instanceId": "17012437601"
         }
       ]
     },
@@ -2341,6 +2341,71 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-06-17T17:50:52Z",
           "instanceId": "16925217960"
+        }
+      ]
+    },
+    {
+      "displayName": "Fizzy ITA#1876",
+      "membershipId": "4611686018525526318",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cbc31643e9d1d82b2aa08db8d78e537e.jpg",
+      "powerLevel": 304,
+      "lastPlayedTimestamp": 1781644931000,
+      "lastActivityTimestamp": 1781644143000,
+      "lastActivityText": "Competitiva: Con matchmaking il 16/06/2026 21:09",
+      "activities": [
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-16T21:09:03Z",
+          "instanceId": "16919846819"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-16T20:51:00Z",
+          "instanceId": "16921091478"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-16T20:41:54Z",
+          "instanceId": "16919709945"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-16T20:33:29Z",
+          "instanceId": "16919660452"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-16T20:21:23Z",
+          "instanceId": "16919614509"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-15T21:25:01Z",
+          "instanceId": "16913564340"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-15T21:16:31Z",
+          "instanceId": "16913506991"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-06-15T20:44:08Z",
+          "instanceId": "16913389497"
+        },
+        {
+          "name": "Rischio / Ricompensa",
+          "period": "2026-06-14T20:22:12Z",
+          "instanceId": "16906510958"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-06-14T20:05:45Z",
+          "instanceId": "16906434161"
         }
       ]
     },
