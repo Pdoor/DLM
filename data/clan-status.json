@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T17:43:06.516Z",
+  "generatedAt": "2026-07-08T19:41:25.073Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,26 @@
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 495,
-      "lastPlayedTimestamp": 1783532572000,
-      "lastActivityTimestamp": 1783529483000,
-      "lastActivityText": "Comando del Vespro: Normale il 08/07/2026 16:51",
+      "powerLevel": 530,
+      "lastPlayedTimestamp": 1783539645000,
+      "lastActivityTimestamp": 1783536210000,
+      "lastActivityText": "Poligono di Tiro il 08/07/2026 18:43",
       "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-07-08T18:43:30Z",
+          "instanceId": "17029080730"
+        },
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-07-08T17:59:58Z",
+          "instanceId": "17029004673"
+        },
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-07-08T17:41:33Z",
+          "instanceId": "17028917499"
+        },
         {
           "name": "Comando del Vespro: Normale",
           "period": "2026-07-08T16:51:23Z",
@@ -51,21 +66,71 @@
           "name": "Comando del Vespro: Normale",
           "period": "2026-07-08T14:06:47Z",
           "instanceId": "17028389849"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783537121000,
+      "lastActivityTimestamp": 1783536095000,
+      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 08/07/2026 18:41",
+      "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-08T18:41:35Z",
+          "instanceId": "17029101511"
         },
         {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-08T03:24:13Z",
-          "instanceId": "17026848056"
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-07-08T14:59:16Z",
+          "instanceId": "17028470438"
         },
         {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-07-08T01:56:26Z",
-          "instanceId": "17026861373"
+          "name": "La Città Sognante",
+          "period": "2026-07-08T14:45:30Z",
+          "instanceId": "17028403740"
         },
         {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-07-07T21:35:17Z",
-          "instanceId": "17026626360"
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-08T13:44:40Z",
+          "instanceId": "17028255541"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-08T13:02:50Z",
+          "instanceId": "17028175436"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-08T12:44:45Z",
+          "instanceId": "17028120965"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-08T11:22:52Z",
+          "instanceId": "17027957487"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-08T10:33:47Z",
+          "instanceId": "17027866697"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-08T09:04:55Z",
+          "instanceId": "17027719977"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-07-08T08:58:14Z",
+          "instanceId": "17027693944"
         }
       ]
     },
@@ -73,12 +138,12 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 515,
-      "lastPlayedTimestamp": 1783532254000,
+      "powerLevel": 517,
+      "lastPlayedTimestamp": 1783537229000,
       "lastActivityTimestamp": 1783529369000,
       "lastActivityText": "Campi di battaglia: Nucleo: Personalizzata il 08/07/2026 16:49",
       "activities": [
@@ -270,10 +335,10 @@
       "bungieNetMembershipId": "",
       "isOnline": false,
       "className": "Stregoni",
-      "title": "",
+      "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a5181bb652131991d04ca0d7dfc6cf91.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1783529387000,
+      "lastPlayedTimestamp": 1783534615000,
       "lastActivityTimestamp": 1783528756000,
       "lastActivityText": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata il 08/07/2026 16:39",
       "activities": [
@@ -456,71 +521,6 @@
           "name": "Terminale Intuitivo: Con matchmaking",
           "period": "2026-07-05T16:02:33Z",
           "instanceId": "17016595743"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1783523969000,
-      "lastActivityTimestamp": 1783522756000,
-      "lastActivityText": "Conquista modalità esperto: Luna: Personalizzata il 08/07/2026 14:59",
-      "activities": [
-        {
-          "name": "Conquista modalità esperto: Luna: Personalizzata",
-          "period": "2026-07-08T14:59:16Z",
-          "instanceId": "17028470438"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-08T14:45:30Z",
-          "instanceId": "17028403740"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-08T13:44:40Z",
-          "instanceId": "17028255541"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-07-08T13:02:50Z",
-          "instanceId": "17028175436"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-08T12:44:45Z",
-          "instanceId": "17028120965"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-07-08T11:22:52Z",
-          "instanceId": "17027957487"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-08T10:33:47Z",
-          "instanceId": "17027866697"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-08T09:04:55Z",
-          "instanceId": "17027719977"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-07-08T08:58:14Z",
-          "instanceId": "17027693944"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-07-08T08:54:27Z",
-          "instanceId": "17027682310"
         }
       ]
     },
@@ -858,7 +858,7 @@
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
       "powerLevel": 467,
-      "lastPlayedTimestamp": 1783359225000,
+      "lastPlayedTimestamp": 1783536820000,
       "lastActivityTimestamp": 1783358448000,
       "lastActivityText": "Al limite: Normale il 06/07/2026 17:20",
       "activities": [
@@ -911,71 +911,6 @@
           "name": "La radice degli incubi: Standard",
           "period": "2026-07-02T19:04:37Z",
           "instanceId": "17004594825"
-        }
-      ]
-    },
-    {
-      "displayName": "TheEnrageGamer#2674",
-      "membershipId": "4611686018511383140",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Custode della fiamma",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e1c407e098c9493ae8e0e9e7b215fa09.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1783358066000,
-      "lastActivityTimestamp": 1783357421000,
-      "lastActivityText": "Controllo: Con matchmaking il 06/07/2026 17:03",
-      "activities": [
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-06T17:03:41Z",
-          "instanceId": "17021105303"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-06T16:49:22Z",
-          "instanceId": "17021061352"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-06T16:38:42Z",
-          "instanceId": "17021028878"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-06T16:25:26Z",
-          "instanceId": "17020991542"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-06T15:40:59Z",
-          "instanceId": "17020865708"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-06T15:29:36Z",
-          "instanceId": "17020828449"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-06T15:21:00Z",
-          "instanceId": "17020806818"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-07-03T19:50:58Z",
-          "instanceId": "17008496992"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-07-03T19:35:47Z",
-          "instanceId": "17008463371"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T18:56:33Z",
-          "instanceId": "17008307505"
         }
       ]
     },
@@ -1366,6 +1301,71 @@
           "name": "Competitiva: Con matchmaking",
           "period": "2026-06-21T20:15:43Z",
           "instanceId": "16951139100"
+        }
+      ]
+    },
+    {
+      "displayName": "TheEnrageGamer#2674",
+      "membershipId": "4611686018511383140",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Custode della fiamma",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e1c407e098c9493ae8e0e9e7b215fa09.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783538922000,
+      "lastActivityTimestamp": 1783106119000,
+      "lastActivityText": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata il 03/07/2026 19:15",
+      "activities": [
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-07-03T19:15:19Z",
+          "instanceId": "17008382193"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-07-03T19:09:44Z",
+          "instanceId": "17008333174"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-06-30T07:39:43Z",
+          "instanceId": "16994814468"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-28T12:54:35Z",
+          "instanceId": "16985683940"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-28T12:41:41Z",
+          "instanceId": "16986581006"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-27T21:35:18Z",
+          "instanceId": "16982279170"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-27T21:17:47Z",
+          "instanceId": "16982208822"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-27T21:04:10Z",
+          "instanceId": "16982138329"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-27T20:50:12Z",
+          "instanceId": "16982072278"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-27T20:37:36Z",
+          "instanceId": "16982001295"
         }
       ]
     },
@@ -1898,7 +1898,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/19c19292462c171c82216996684fea0d.jpg",
       "powerLevel": 339,
-      "lastPlayedTimestamp": 1783364496000,
+      "lastPlayedTimestamp": 1783536484000,
       "lastActivityTimestamp": 1782661307000,
       "lastActivityText": "Ultimo desiderio: Standard il 28/06/2026 15:41",
       "activities": [
