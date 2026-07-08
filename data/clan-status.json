@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T00:02:20.400Z",
+  "generatedAt": "2026-07-08T03:55:49.760Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,64 +8,64 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 505,
-      "lastPlayedTimestamp": 1783468789000,
-      "lastActivityTimestamp": 1783466902000,
-      "lastActivityText": "Comando del Vespro: Normale il 07/07/2026 23:28",
+      "powerLevel": 515,
+      "lastPlayedTimestamp": 1783481180000,
+      "lastActivityTimestamp": 1783481053000,
+      "lastActivityText": "Poligono di Tiro il 08/07/2026 03:24",
       "activities": [
         {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-07-07T23:28:22Z",
-          "instanceId": "17026061126"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-07-07T23:07:04Z",
-          "instanceId": "17025943474"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-07-07T22:11:32Z",
-          "instanceId": "17025879507"
-        },
-        {
           "name": "Poligono di Tiro",
-          "period": "2026-07-07T22:03:26Z",
-          "instanceId": "17025690226"
+          "period": "2026-07-08T03:24:13Z",
+          "instanceId": "17026848056"
         },
         {
           "name": "Comando del Vespro: Normale",
-          "period": "2026-07-07T21:49:47Z",
-          "instanceId": "17025659462"
+          "period": "2026-07-08T01:56:26Z",
+          "instanceId": "17026861373"
         },
         {
           "name": "Comando del Vespro: Normale",
-          "period": "2026-07-07T21:40:14Z",
-          "instanceId": "17025623667"
+          "period": "2026-07-08T01:34:35Z",
+          "instanceId": "17026535724"
         },
         {
           "name": "Comando del Vespro: Normale",
-          "period": "2026-07-07T21:24:41Z",
-          "instanceId": "17025590070"
+          "period": "2026-07-08T01:22:06Z",
+          "instanceId": "17026434132"
         },
         {
           "name": "Comando del Vespro: Normale",
-          "period": "2026-07-07T21:07:23Z",
-          "instanceId": "17025537506"
+          "period": "2026-07-08T00:48:54Z",
+          "instanceId": "17026306659"
         },
         {
           "name": "Comando del Vespro: Normale",
-          "period": "2026-07-07T20:19:58Z",
-          "instanceId": "17025482954"
+          "period": "2026-07-08T00:20:15Z",
+          "instanceId": "17026373804"
         },
         {
           "name": "Comando del Vespro: Normale",
-          "period": "2026-07-07T19:04:54Z",
-          "instanceId": "17025120132"
+          "period": "2026-07-07T23:39:49Z",
+          "instanceId": "17026598657"
+        },
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-07-07T22:45:14Z",
+          "instanceId": "17026244595"
+        },
+        {
+          "name": "Comando del Vespro: Maestro",
+          "period": "2026-07-07T22:33:17Z",
+          "instanceId": "17026331702"
+        },
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-07-07T21:35:17Z",
+          "instanceId": "17026626360"
         }
       ]
     },
