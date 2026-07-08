@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T21:13:58.664Z",
+  "generatedAt": "2026-07-08T22:34:11.998Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "nubires#8588",
       "membershipId": "4611686018433412718",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 516,
-      "lastPlayedTimestamp": 1783545227000,
-      "lastActivityTimestamp": 1783542984000,
-      "lastActivityText": "Morsa della cupidigia: Standard il 08/07/2026 20:36",
+      "powerLevel": 518,
+      "lastPlayedTimestamp": 1783548224000,
+      "lastActivityTimestamp": 1783547713000,
+      "lastActivityText": "Competitiva: Con matchmaking il 08/07/2026 21:55",
       "activities": [
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-07-08T21:55:13Z",
+          "instanceId": "17029699899"
+        },
+        {
+          "name": "I sussurri: Personalizzata",
+          "period": "2026-07-08T20:39:23Z",
+          "instanceId": "17029579655"
+        },
         {
           "name": "Morsa della cupidigia: Standard",
           "period": "2026-07-08T20:36:24Z",
@@ -56,16 +66,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-06-30T21:56:09Z",
           "instanceId": "16997138511"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-06-30T21:41:49Z",
-          "instanceId": "16997096729"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-06-30T21:27:29Z",
-          "instanceId": "16997049407"
         }
       ]
     },
@@ -131,6 +131,71 @@
           "name": "Comando del Vespro: Normale",
           "period": "2026-07-08T14:47:21Z",
           "instanceId": "17028414615"
+        }
+      ]
+    },
+    {
+      "displayName": "TheEnrageGamer#2674",
+      "membershipId": "4611686018511383140",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Custode della fiamma",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e1c407e098c9493ae8e0e9e7b215fa09.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783545391000,
+      "lastActivityTimestamp": 1783540349000,
+      "lastActivityText": "Volta di Vetro: Standard il 08/07/2026 19:52",
+      "activities": [
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-07-08T19:52:29Z",
+          "instanceId": "17029485531"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-07-03T19:15:19Z",
+          "instanceId": "17008382193"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-07-03T19:09:44Z",
+          "instanceId": "17008333174"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-06-30T07:39:43Z",
+          "instanceId": "16994814468"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-28T12:54:35Z",
+          "instanceId": "16985683940"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-28T12:41:41Z",
+          "instanceId": "16986581006"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-27T21:35:18Z",
+          "instanceId": "16982279170"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-27T21:17:47Z",
+          "instanceId": "16982208822"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-27T21:04:10Z",
+          "instanceId": "16982138329"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-06-27T20:50:12Z",
+          "instanceId": "16982072278"
         }
       ]
     },
@@ -1630,71 +1695,6 @@
       ]
     },
     {
-      "displayName": "TheEnrageGamer#2674",
-      "membershipId": "4611686018511383140",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Custode della fiamma",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/041f8e2f986949994b7ca8f008b75ff4.jpg",
-      "powerLevel": 482,
-      "lastPlayedTimestamp": 1783545030000,
-      "lastActivityTimestamp": 1782804147000,
-      "lastActivityText": "Partita veloce: Normale il 30/06/2026 07:22",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-06-30T07:22:27Z",
-          "instanceId": "16994790422"
-        },
-        {
-          "name": "Cripta di Pietrafonda",
-          "period": "2026-06-28T18:27:58Z",
-          "instanceId": "16987121035"
-        },
-        {
-          "name": "Cripta di Pietrafonda",
-          "period": "2026-06-28T18:03:48Z",
-          "instanceId": "16986976486"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-06-28T15:19:55Z",
-          "instanceId": "16986415752"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-06-26T16:26:40Z",
-          "instanceId": "16975821603"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-26T16:25:04Z",
-          "instanceId": "16975802985"
-        },
-        {
-          "name": "Il Vacuo - Parte I",
-          "period": "2026-06-26T16:12:21Z",
-          "instanceId": "16975798801"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-26T16:11:23Z",
-          "instanceId": "16975756623"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-06-25T21:10:58Z",
-          "instanceId": "16972178925"
-        },
-        {
-          "name": "Iconoclastia: Normale",
-          "period": "2026-06-25T20:42:42Z",
-          "instanceId": "16972170709"
-        }
-      ]
-    },
-    {
       "displayName": "Krikka93#463",
       "membershipId": "4611686018504053383",
       "bungieNetMembershipId": "",
@@ -2353,7 +2353,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cbc31643e9d1d82b2aa08db8d78e537e.jpg",
       "powerLevel": 304,
-      "lastPlayedTimestamp": 1781644931000,
+      "lastPlayedTimestamp": 1783547035000,
       "lastActivityTimestamp": 1781644143000,
       "lastActivityText": "Competitiva: Con matchmaking il 16/06/2026 21:09",
       "activities": [
