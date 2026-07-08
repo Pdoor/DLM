@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T11:25:24.788Z",
+  "generatedAt": "2026-07-08T13:08:37.922Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -11,12 +11,22 @@
       "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cd907b1677ccced0b2e3f6b6df86ec49.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1783509896000,
-      "lastActivityTimestamp": 1783506827000,
-      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 08/07/2026 10:33",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783516080000,
+      "lastActivityTimestamp": 1783514685000,
+      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 08/07/2026 12:44",
       "activities": [
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-08T12:44:45Z",
+          "instanceId": "17028120965"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-08T11:22:52Z",
+          "instanceId": "17027957487"
+        },
         {
           "name": "Il Ponte di Vetro: Con matchmaking",
           "period": "2026-07-08T10:33:47Z",
@@ -56,16 +66,6 @@
           "name": "Campi di battaglia: Discesa: Con matchmaking",
           "period": "2026-07-07T18:24:38Z",
           "instanceId": "17024988439"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-07T18:16:18Z",
-          "instanceId": "17024903651"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-07-07T15:12:23Z",
-          "instanceId": "17024752121"
         }
       ]
     },
@@ -663,7 +663,7 @@
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 513,
-      "lastPlayedTimestamp": 1783509757000,
+      "lastPlayedTimestamp": 1783516091000,
       "lastActivityTimestamp": 1783424288000,
       "lastActivityText": "Osservatorio Celeste: Personalizzata il 07/07/2026 11:38",
       "activities": [
