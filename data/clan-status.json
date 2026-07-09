@@ -1,22 +1,92 @@
 {
-  "generatedAt": "2026-07-09T04:32:32.308Z",
+  "generatedAt": "2026-07-09T08:32:27.731Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783580309000,
+      "lastActivityTimestamp": 1783577502000,
+      "lastActivityText": "La Città Sognante il 09/07/2026 06:11",
+      "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-09T06:11:42Z",
+          "instanceId": "17031380334"
+        },
+        {
+          "name": "Pinnacolo di Savathûn: Con matchmaking",
+          "period": "2026-07-09T05:35:03Z",
+          "instanceId": "17031230169"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-08T18:41:35Z",
+          "instanceId": "17029101511"
+        },
+        {
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-07-08T14:59:16Z",
+          "instanceId": "17028470438"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-08T14:45:30Z",
+          "instanceId": "17028403740"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-08T13:44:40Z",
+          "instanceId": "17028255541"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-08T13:02:50Z",
+          "instanceId": "17028175436"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-08T12:44:45Z",
+          "instanceId": "17028120965"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-08T11:22:52Z",
+          "instanceId": "17027957487"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-08T10:33:47Z",
+          "instanceId": "17027866697"
+        }
+      ]
+    },
+    {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 500,
-      "lastPlayedTimestamp": 1783571519000,
-      "lastActivityTimestamp": 1783570121000,
-      "lastActivityText": "Azzardo: Con matchmaking il 09/07/2026 04:08",
+      "lastPlayedTimestamp": 1783572233000,
+      "lastActivityTimestamp": 1783570215000,
+      "lastActivityText": "Zona Morta Europea il 09/07/2026 04:10",
       "activities": [
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-09T04:10:15Z",
+          "instanceId": "17031047126"
+        },
         {
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-09T04:08:41Z",
@@ -61,11 +131,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-09T03:10:09Z",
           "instanceId": "17030767987"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-08T23:36:10Z",
-          "instanceId": "17030026998"
         }
       ]
     },
@@ -200,80 +265,15 @@
       ]
     },
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1783537121000,
-      "lastActivityTimestamp": 1783536095000,
-      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 08/07/2026 18:41",
-      "activities": [
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-08T18:41:35Z",
-          "instanceId": "17029101511"
-        },
-        {
-          "name": "Conquista modalità esperto: Luna: Personalizzata",
-          "period": "2026-07-08T14:59:16Z",
-          "instanceId": "17028470438"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-08T14:45:30Z",
-          "instanceId": "17028403740"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-08T13:44:40Z",
-          "instanceId": "17028255541"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-07-08T13:02:50Z",
-          "instanceId": "17028175436"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-08T12:44:45Z",
-          "instanceId": "17028120965"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-07-08T11:22:52Z",
-          "instanceId": "17027957487"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-08T10:33:47Z",
-          "instanceId": "17027866697"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-08T09:04:55Z",
-          "instanceId": "17027719977"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-07-08T08:58:14Z",
-          "instanceId": "17027693944"
-        }
-      ]
-    },
-    {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 517,
-      "lastPlayedTimestamp": 1783537229000,
+      "lastPlayedTimestamp": 1783582275000,
       "lastActivityTimestamp": 1783529369000,
       "lastActivityText": "Campi di battaglia: Nucleo: Personalizzata il 08/07/2026 16:49",
       "activities": [
