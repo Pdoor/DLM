@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T20:21:49.472Z",
+  "generatedAt": "2026-07-09T22:01:09.524Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,46 @@
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 450,
-      "lastPlayedTimestamp": 1783628354000,
-      "lastActivityTimestamp": 1783627834000,
-      "lastActivityText": "Azzardo: Con matchmaking il 09/07/2026 20:10",
+      "powerLevel": 460,
+      "lastPlayedTimestamp": 1783634441000,
+      "lastActivityTimestamp": 1783633707000,
+      "lastActivityText": "Azzardo: Con matchmaking il 09/07/2026 21:48",
       "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-09T21:48:27Z",
+          "instanceId": "17033514626"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-09T21:41:35Z",
+          "instanceId": "17033493725"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-09T21:36:04Z",
+          "instanceId": "17033473654"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-09T21:24:28Z",
+          "instanceId": "17033468081"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-09T21:07:22Z",
+          "instanceId": "17033414946"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-09T20:53:24Z",
+          "instanceId": "17033361193"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-09T20:39:22Z",
+          "instanceId": "17033322697"
+        },
         {
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-09T20:10:34Z",
@@ -31,41 +66,6 @@
           "name": "Pantheon: Calus risplendente: Personalizzata",
           "period": "2026-07-09T18:12:31Z",
           "instanceId": "17032991274"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-09T17:29:39Z",
-          "instanceId": "17032774894"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-09T15:28:46Z",
-          "instanceId": "17032420474"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-09T15:17:25Z",
-          "instanceId": "17032374481"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-09T04:10:15Z",
-          "instanceId": "17031047126"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-09T04:08:41Z",
-          "instanceId": "17030962330"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-09T04:02:37Z",
-          "instanceId": "17030937951"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-09T03:55:55Z",
-          "instanceId": "17030918110"
         }
       ]
     },
@@ -1443,7 +1443,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
       "powerLevel": 405,
-      "lastPlayedTimestamp": 1783523078000,
+      "lastPlayedTimestamp": 1783628725000,
       "lastActivityTimestamp": 1782919537000,
       "lastActivityText": "Campo di battaglia Colpo: Marte: Personalizzata il 01/07/2026 15:25",
       "activities": [
