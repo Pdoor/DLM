@@ -1,74 +1,9 @@
 {
-  "generatedAt": "2026-07-09T18:01:28.425Z",
+  "generatedAt": "2026-07-09T20:21:49.472Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1783620000000,
-      "lastActivityTimestamp": 1783618820000,
-      "lastActivityText": "La Città Sognante il 09/07/2026 17:40",
-      "activities": [
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-09T17:40:20Z",
-          "instanceId": "17032734302"
-        },
-        {
-          "name": "Camera del Chiarore Stellare: Maestro",
-          "period": "2026-07-09T17:14:33Z",
-          "instanceId": "17032698400"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-09T17:03:35Z",
-          "instanceId": "17032651968"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-09T16:57:42Z",
-          "instanceId": "17032614460"
-        },
-        {
-          "name": "Baia dei Desideri Annegati: Maestro",
-          "period": "2026-07-09T16:44:07Z",
-          "instanceId": "17032605624"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-09T16:34:27Z",
-          "instanceId": "17032570142"
-        },
-        {
-          "name": "Baia dei Desideri Annegati: Maestro",
-          "period": "2026-07-09T16:22:27Z",
-          "instanceId": "17032545373"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-09T16:20:15Z",
-          "instanceId": "17032514179"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-09T16:13:24Z",
-          "instanceId": "17032501357"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-07-09T11:09:10Z",
-          "instanceId": "17031811047"
-        }
-      ]
-    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -77,11 +12,26 @@
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 529,
-      "lastPlayedTimestamp": 1783620015000,
-      "lastActivityTimestamp": 1783618179000,
-      "lastActivityText": "Cosmodromo il 09/07/2026 17:29",
+      "powerLevel": 450,
+      "lastPlayedTimestamp": 1783628354000,
+      "lastActivityTimestamp": 1783627834000,
+      "lastActivityText": "Azzardo: Con matchmaking il 09/07/2026 20:10",
       "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-09T20:10:34Z",
+          "instanceId": "17033212147"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-09T20:03:17Z",
+          "instanceId": "17033188066"
+        },
+        {
+          "name": "Pantheon: Calus risplendente: Personalizzata",
+          "period": "2026-07-09T18:12:31Z",
+          "instanceId": "17032991274"
+        },
         {
           "name": "Cosmodromo",
           "period": "2026-07-09T17:29:39Z",
@@ -116,21 +66,201 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-09T03:55:55Z",
           "instanceId": "17030918110"
+        }
+      ]
+    },
+    {
+      "displayName": "nubires#8588",
+      "membershipId": "4611686018433412718",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
+      "powerLevel": 516,
+      "lastPlayedTimestamp": 1783627080000,
+      "lastActivityTimestamp": 1783623093000,
+      "lastActivityText": "Comando del Vespro: Normale il 09/07/2026 18:51",
+      "activities": [
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-07-09T18:51:33Z",
+          "instanceId": "17033154427"
         },
         {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-09T03:47:28Z",
-          "instanceId": "17030891489"
+          "name": "Caldera: Personalizzata",
+          "period": "2026-07-09T18:18:29Z",
+          "instanceId": "17032869852"
         },
         {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-09T03:39:20Z",
-          "instanceId": "17030864882"
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-07-08T21:55:13Z",
+          "instanceId": "17029699899"
         },
         {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-09T03:33:32Z",
-          "instanceId": "17030842389"
+          "name": "I sussurri: Personalizzata",
+          "period": "2026-07-08T20:39:23Z",
+          "instanceId": "17029579655"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-07-08T20:36:24Z",
+          "instanceId": "17029422793"
+        },
+        {
+          "name": "Logistica R1: Personalizzata",
+          "period": "2026-07-08T20:26:49Z",
+          "instanceId": "17029407479"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-05T22:50:12Z",
+          "instanceId": "17018186774"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T22:39:26Z",
+          "instanceId": "17009111525"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-03T22:31:12Z",
+          "instanceId": "17009074665"
+        },
+        {
+          "name": "Pinnacolo dell'Osservatrice: Maestro",
+          "period": "2026-07-01T03:24:18Z",
+          "instanceId": "16998304811"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783622480000,
+      "lastActivityTimestamp": 1783621439000,
+      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 09/07/2026 18:23",
+      "activities": [
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-09T18:23:59Z",
+          "instanceId": "17032909960"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-09T18:02:55Z",
+          "instanceId": "17032794725"
+        },
+        {
+          "name": "Camera del Chiarore Stellare: Maestro",
+          "period": "2026-07-09T17:44:03Z",
+          "instanceId": "17032791037"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-09T17:40:20Z",
+          "instanceId": "17032734302"
+        },
+        {
+          "name": "Camera del Chiarore Stellare: Maestro",
+          "period": "2026-07-09T17:14:33Z",
+          "instanceId": "17032698400"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-09T17:03:35Z",
+          "instanceId": "17032651968"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-09T16:57:42Z",
+          "instanceId": "17032614460"
+        },
+        {
+          "name": "Baia dei Desideri Annegati: Maestro",
+          "period": "2026-07-09T16:44:07Z",
+          "instanceId": "17032605624"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-09T16:34:27Z",
+          "instanceId": "17032570142"
+        },
+        {
+          "name": "Baia dei Desideri Annegati: Maestro",
+          "period": "2026-07-09T16:22:27Z",
+          "instanceId": "17032545373"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a5181bb652131991d04ca0d7dfc6cf91.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783621552000,
+      "lastActivityTimestamp": 1783620567000,
+      "lastActivityText": "Campi di battaglia: Condotto: Personalizzata il 09/07/2026 18:09",
+      "activities": [
+        {
+          "name": "Campi di battaglia: Condotto: Personalizzata",
+          "period": "2026-07-09T18:09:27Z",
+          "instanceId": "17032855224"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-07-09T17:51:08Z",
+          "instanceId": "17032834602"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-07-09T16:03:07Z",
+          "instanceId": "17032484235"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-07-09T15:50:56Z",
+          "instanceId": "17032455661"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-09T15:32:02Z",
+          "instanceId": "17032429962"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-09T15:26:50Z",
+          "instanceId": "17032377152"
+        },
+        {
+          "name": "Lago di ombre: Personalizzata",
+          "period": "2026-07-09T14:53:59Z",
+          "instanceId": "17032350477"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-07-09T14:08:27Z",
+          "instanceId": "17032246187"
+        },
+        {
+          "name": "Eliostasi: Personalizzata",
+          "period": "2026-07-09T13:20:27Z",
+          "instanceId": "17032118806"
+        },
+        {
+          "name": "La Tana dei Diavoli",
+          "period": "2026-07-09T13:05:16Z",
+          "instanceId": "17032058290"
         }
       ]
     },
@@ -261,136 +391,6 @@
           "name": "Conservazione",
           "period": "2026-07-09T09:36:33Z",
           "instanceId": "17031696787"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a5181bb652131991d04ca0d7dfc6cf91.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1783620047000,
-      "lastActivityTimestamp": 1783612987000,
-      "lastActivityText": "La culla del male: Personalizzata il 09/07/2026 16:03",
-      "activities": [
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-09T16:03:07Z",
-          "instanceId": "17032484235"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-07-09T15:50:56Z",
-          "instanceId": "17032455661"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-09T15:32:02Z",
-          "instanceId": "17032429962"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-09T15:26:50Z",
-          "instanceId": "17032377152"
-        },
-        {
-          "name": "Lago di ombre: Personalizzata",
-          "period": "2026-07-09T14:53:59Z",
-          "instanceId": "17032350477"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-07-09T14:08:27Z",
-          "instanceId": "17032246187"
-        },
-        {
-          "name": "Eliostasi: Personalizzata",
-          "period": "2026-07-09T13:20:27Z",
-          "instanceId": "17032118806"
-        },
-        {
-          "name": "La Tana dei Diavoli",
-          "period": "2026-07-09T13:05:16Z",
-          "instanceId": "17032058290"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-09T13:00:19Z",
-          "instanceId": "17032028921"
-        },
-        {
-          "name": "La Kell dell'Oscurità",
-          "period": "2026-07-09T12:53:27Z",
-          "instanceId": "17032021125"
-        }
-      ]
-    },
-    {
-      "displayName": "nubires#8588",
-      "membershipId": "4611686018433412718",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 518,
-      "lastPlayedTimestamp": 1783548224000,
-      "lastActivityTimestamp": 1783547713000,
-      "lastActivityText": "Competitiva: Con matchmaking il 08/07/2026 21:55",
-      "activities": [
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-07-08T21:55:13Z",
-          "instanceId": "17029699899"
-        },
-        {
-          "name": "I sussurri: Personalizzata",
-          "period": "2026-07-08T20:39:23Z",
-          "instanceId": "17029579655"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-07-08T20:36:24Z",
-          "instanceId": "17029422793"
-        },
-        {
-          "name": "Logistica R1: Personalizzata",
-          "period": "2026-07-08T20:26:49Z",
-          "instanceId": "17029407479"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-05T22:50:12Z",
-          "instanceId": "17018186774"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T22:39:26Z",
-          "instanceId": "17009111525"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-03T22:31:12Z",
-          "instanceId": "17009074665"
-        },
-        {
-          "name": "Pinnacolo dell'Osservatrice: Maestro",
-          "period": "2026-07-01T03:24:18Z",
-          "instanceId": "16998304811"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-06-30T22:12:08Z",
-          "instanceId": "16997176852"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-06-30T21:56:09Z",
-          "instanceId": "16997138511"
         }
       ]
     },
