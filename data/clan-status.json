@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-08T22:34:11.998Z",
+  "generatedAt": "2026-07-09T00:16:32.501Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 526,
+      "lastPlayedTimestamp": 1783554170000,
+      "lastActivityTimestamp": 1783553770000,
+      "lastActivityText": "Azzardo: Con matchmaking il 08/07/2026 23:36",
+      "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-08T23:36:10Z",
+          "instanceId": "17030026998"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-08T23:29:48Z",
+          "instanceId": "17030005837"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-08T23:22:48Z",
+          "instanceId": "17029984366"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-08T23:15:22Z",
+          "instanceId": "17029961281"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-08T23:05:34Z",
+          "instanceId": "17029931272"
+        },
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-07-08T20:08:13Z",
+          "instanceId": "17029433878"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-07-08T18:43:30Z",
+          "instanceId": "17029080730"
+        },
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-07-08T17:59:58Z",
+          "instanceId": "17029004673"
+        },
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-07-08T17:41:33Z",
+          "instanceId": "17028917499"
+        },
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-07-08T16:51:23Z",
+          "instanceId": "17028861001"
+        }
+      ]
+    },
     {
       "displayName": "nubires#8588",
       "membershipId": "4611686018433412718",
@@ -66,71 +131,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-06-30T21:56:09Z",
           "instanceId": "16997138511"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 531,
-      "lastPlayedTimestamp": 1783541311000,
-      "lastActivityTimestamp": 1783541293000,
-      "lastActivityText": "Centro Città: Con matchmaking il 08/07/2026 20:08",
-      "activities": [
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-07-08T20:08:13Z",
-          "instanceId": "17029433878"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-08T18:43:30Z",
-          "instanceId": "17029080730"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-07-08T17:59:58Z",
-          "instanceId": "17029004673"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-07-08T17:41:33Z",
-          "instanceId": "17028917499"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-07-08T16:51:23Z",
-          "instanceId": "17028861001"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-07-08T16:50:06Z",
-          "instanceId": "17028728513"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-07-08T16:00:58Z",
-          "instanceId": "17028709621"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-07-08T15:02:24Z",
-          "instanceId": "17028585405"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-07-08T14:57:31Z",
-          "instanceId": "17028414684"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-07-08T14:47:21Z",
-          "instanceId": "17028414615"
         }
       ]
     },
