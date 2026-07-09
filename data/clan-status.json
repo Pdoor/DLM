@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T22:01:09.524Z",
+  "generatedAt": "2026-07-09T23:46:57.457Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 460,
-      "lastPlayedTimestamp": 1783634441000,
-      "lastActivityTimestamp": 1783633707000,
-      "lastActivityText": "Azzardo: Con matchmaking il 09/07/2026 21:48",
+      "powerLevel": 521,
+      "lastPlayedTimestamp": 1783635091000,
+      "lastActivityTimestamp": 1783634722000,
+      "lastActivityText": "Azzardo: Con matchmaking il 09/07/2026 22:05",
       "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-09T22:05:22Z",
+          "instanceId": "17033567320"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-09T21:55:44Z",
+          "instanceId": "17033540803"
+        },
         {
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-09T21:48:27Z",
@@ -56,16 +66,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-09T20:10:34Z",
           "instanceId": "17033212147"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-09T20:03:17Z",
-          "instanceId": "17033188066"
-        },
-        {
-          "name": "Pantheon: Calus risplendente: Personalizzata",
-          "period": "2026-07-09T18:12:31Z",
-          "instanceId": "17032991274"
         }
       ]
     },
