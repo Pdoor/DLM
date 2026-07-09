@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T08:32:27.731Z",
+  "generatedAt": "2026-07-09T12:10:32.690Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,45 @@
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1783580309000,
-      "lastActivityTimestamp": 1783577502000,
-      "lastActivityText": "La Città Sognante il 09/07/2026 06:11",
+      "lastPlayedTimestamp": 1783595368000,
+      "lastActivityTimestamp": 1783595350000,
+      "lastActivityText": "Nessus, Centauro Instabile il 09/07/2026 11:09",
       "activities": [
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-07-09T11:09:10Z",
+          "instanceId": "17031811047"
+        },
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-07-09T10:58:52Z",
+          "instanceId": "17031810254"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-07-09T10:53:23Z",
+          "instanceId": "17031791851"
+        },
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-07-09T10:43:31Z",
+          "instanceId": "17031782368"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-07-09T10:42:03Z",
+          "instanceId": "17031766909"
+        },
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-07-09T10:27:57Z",
+          "instanceId": "17031759787"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-07-09T10:19:36Z",
+          "instanceId": "17031742048"
+        },
         {
           "name": "La Città Sognante",
           "period": "2026-07-09T06:11:42Z",
@@ -31,41 +66,71 @@
           "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
           "period": "2026-07-08T18:41:35Z",
           "instanceId": "17029101511"
+        }
+      ]
+    },
+    {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 517,
+      "lastPlayedTimestamp": 1783594834000,
+      "lastActivityTimestamp": 1783592925000,
+      "lastActivityText": "Tifone Imperatore: Personalizzata il 09/07/2026 10:28",
+      "activities": [
+        {
+          "name": "Tifone Imperatore: Personalizzata",
+          "period": "2026-07-09T10:28:45Z",
+          "instanceId": "17031779341"
         },
         {
-          "name": "Conquista modalità esperto: Luna: Personalizzata",
-          "period": "2026-07-08T14:59:16Z",
-          "instanceId": "17028470438"
+          "name": "Conservazione",
+          "period": "2026-07-09T09:36:33Z",
+          "instanceId": "17031696787"
         },
         {
-          "name": "La Città Sognante",
-          "period": "2026-07-08T14:45:30Z",
-          "instanceId": "17028403740"
+          "name": "Conservazione",
+          "period": "2026-07-09T09:07:49Z",
+          "instanceId": "17031650130"
         },
         {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-08T13:44:40Z",
-          "instanceId": "17028255541"
+          "name": "Campi di battaglia: Nucleo: Personalizzata",
+          "period": "2026-07-08T16:49:29Z",
+          "instanceId": "17028778900"
         },
         {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-07-08T13:02:50Z",
-          "instanceId": "17028175436"
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-07-08T16:16:23Z",
+          "instanceId": "17028686192"
         },
         {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-08T12:44:45Z",
-          "instanceId": "17028120965"
+          "name": "Conservazione",
+          "period": "2026-07-08T16:11:12Z",
+          "instanceId": "17028622835"
         },
         {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-07-08T11:22:52Z",
-          "instanceId": "17027957487"
+          "name": "Osservatorio Celeste: Personalizzata",
+          "period": "2026-07-07T11:38:08Z",
+          "instanceId": "17024229346"
         },
         {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-08T10:33:47Z",
-          "instanceId": "17027866697"
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-07-07T11:19:52Z",
+          "instanceId": "17024198912"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-06T11:10:21Z",
+          "instanceId": "17020321070"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-07-06T08:25:34Z",
+          "instanceId": "17020093747"
         }
       ]
     },
@@ -265,71 +330,6 @@
       ]
     },
     {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 517,
-      "lastPlayedTimestamp": 1783582275000,
-      "lastActivityTimestamp": 1783529369000,
-      "lastActivityText": "Campi di battaglia: Nucleo: Personalizzata il 08/07/2026 16:49",
-      "activities": [
-        {
-          "name": "Campi di battaglia: Nucleo: Personalizzata",
-          "period": "2026-07-08T16:49:29Z",
-          "instanceId": "17028778900"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-07-08T16:16:23Z",
-          "instanceId": "17028686192"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-07-08T16:11:12Z",
-          "instanceId": "17028622835"
-        },
-        {
-          "name": "Osservatorio Celeste: Personalizzata",
-          "period": "2026-07-07T11:38:08Z",
-          "instanceId": "17024229346"
-        },
-        {
-          "name": "Miniere di Sale: Personalizzata",
-          "period": "2026-07-07T11:19:52Z",
-          "instanceId": "17024198912"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-06T11:10:21Z",
-          "instanceId": "17020321070"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-07-06T08:25:34Z",
-          "instanceId": "17020093747"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-07-05T16:12:54Z",
-          "instanceId": "17016683626"
-        },
-        {
-          "name": "La caduta di un Kell: Personalizzata",
-          "period": "2026-07-05T15:32:10Z",
-          "instanceId": "17016533038"
-        },
-        {
-          "name": "Rovina della Signora della Guerra: Standard",
-          "period": "2026-07-05T14:45:02Z",
-          "instanceId": "17016430823"
-        }
-      ]
-    },
-    {
       "displayName": "ClaudeFj#8206",
       "membershipId": "4611686018522886434",
       "bungieNetMembershipId": "",
@@ -338,7 +338,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
       "powerLevel": 490,
-      "lastPlayedTimestamp": 1783530544000,
+      "lastPlayedTimestamp": 1783592603000,
       "lastActivityTimestamp": 1783529369000,
       "lastActivityText": "Campi di battaglia: Nucleo: Personalizzata il 08/07/2026 16:49",
       "activities": [
@@ -463,12 +463,12 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a5181bb652131991d04ca0d7dfc6cf91.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1783534615000,
+      "lastPlayedTimestamp": 1783599011000,
       "lastActivityTimestamp": 1783528756000,
       "lastActivityText": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata il 08/07/2026 16:39",
       "activities": [
