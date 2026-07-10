@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-10T07:41:35.241Z",
+  "generatedAt": "2026-07-10T11:10:20.053Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 520,
+      "lastPlayedTimestamp": 1783681627000,
+      "lastActivityTimestamp": 1783678935000,
+      "lastActivityText": "Conservazione il 10/07/2026 10:22",
+      "activities": [
+        {
+          "name": "Conservazione",
+          "period": "2026-07-10T10:22:15Z",
+          "instanceId": "17035573377"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-07-09T16:25:05Z",
+          "instanceId": "17032563532"
+        },
+        {
+          "name": "Caldera: Personalizzata",
+          "period": "2026-07-09T15:24:48Z",
+          "instanceId": "17032399888"
+        },
+        {
+          "name": "Osservatorio Celeste: Personalizzata",
+          "period": "2026-07-09T14:50:15Z",
+          "instanceId": "17032323199"
+        },
+        {
+          "name": "Logistica R1: Personalizzata",
+          "period": "2026-07-09T14:00:49Z",
+          "instanceId": "17032185696"
+        },
+        {
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-07-09T13:38:41Z",
+          "instanceId": "17032135596"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-09T13:28:14Z",
+          "instanceId": "17032101670"
+        },
+        {
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-07-09T13:04:33Z",
+          "instanceId": "17032060509"
+        },
+        {
+          "name": "Creazione: Personalizzata",
+          "period": "2026-07-09T12:34:55Z",
+          "instanceId": "17032000062"
+        },
+        {
+          "name": "Tifone Imperatore: Personalizzata",
+          "period": "2026-07-09T10:28:45Z",
+          "instanceId": "17031779341"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -12,8 +77,8 @@
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 456,
-      "lastPlayedTimestamp": 1783667804000,
+      "powerLevel": 487,
+      "lastPlayedTimestamp": 1783681286000,
       "lastActivityTimestamp": 1783665773000,
       "lastActivityText": "La Guerriera: Con matchmaking il 10/07/2026 06:42",
       "activities": [
@@ -326,71 +391,6 @@
           "name": "La Città Sognante",
           "period": "2026-07-08T15:10:57Z",
           "instanceId": "17028451474"
-        }
-      ]
-    },
-    {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 520,
-      "lastPlayedTimestamp": 1783615298000,
-      "lastActivityTimestamp": 1783614305000,
-      "lastActivityText": "Conservazione il 09/07/2026 16:25",
-      "activities": [
-        {
-          "name": "Conservazione",
-          "period": "2026-07-09T16:25:05Z",
-          "instanceId": "17032563532"
-        },
-        {
-          "name": "Caldera: Personalizzata",
-          "period": "2026-07-09T15:24:48Z",
-          "instanceId": "17032399888"
-        },
-        {
-          "name": "Osservatorio Celeste: Personalizzata",
-          "period": "2026-07-09T14:50:15Z",
-          "instanceId": "17032323199"
-        },
-        {
-          "name": "Logistica R1: Personalizzata",
-          "period": "2026-07-09T14:00:49Z",
-          "instanceId": "17032185696"
-        },
-        {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-07-09T13:38:41Z",
-          "instanceId": "17032135596"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-09T13:28:14Z",
-          "instanceId": "17032101670"
-        },
-        {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-07-09T13:04:33Z",
-          "instanceId": "17032060509"
-        },
-        {
-          "name": "Creazione: Personalizzata",
-          "period": "2026-07-09T12:34:55Z",
-          "instanceId": "17032000062"
-        },
-        {
-          "name": "Tifone Imperatore: Personalizzata",
-          "period": "2026-07-09T10:28:45Z",
-          "instanceId": "17031779341"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-07-09T09:36:33Z",
-          "instanceId": "17031696787"
         }
       ]
     },
