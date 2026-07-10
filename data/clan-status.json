@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-10T11:10:20.053Z",
+  "generatedAt": "2026-07-10T13:28:32.825Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 486,
+      "lastPlayedTimestamp": 1783690067000,
+      "lastActivityTimestamp": 1783680921000,
+      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 10/07/2026 10:55",
+      "activities": [
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-10T10:55:21Z",
+          "instanceId": "17035629154"
+        },
+        {
+          "name": "La Guerriera: Con matchmaking",
+          "period": "2026-07-10T06:42:53Z",
+          "instanceId": "17035189730"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-10T05:59:29Z",
+          "instanceId": "17035098467"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-10T05:41:57Z",
+          "instanceId": "17035059373"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-10T05:05:36Z",
+          "instanceId": "17034963425"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-06T05:33:21Z",
+          "instanceId": "17019570330"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-06T04:49:05Z",
+          "instanceId": "17019446908"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-06T04:26:39Z",
+          "instanceId": "17019388203"
+        },
+        {
+          "name": "Oblazione: Lignaggio",
+          "period": "2026-07-05T16:24:27Z",
+          "instanceId": "17016788146"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-07-05T16:09:32Z",
+          "instanceId": "17016627834"
+        }
+      ]
+    },
     {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
@@ -13,7 +78,7 @@
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 520,
-      "lastPlayedTimestamp": 1783681627000,
+      "lastPlayedTimestamp": 1783690063000,
       "lastActivityTimestamp": 1783678935000,
       "lastActivityText": "Conservazione il 10/07/2026 10:22",
       "activities": [
@@ -66,71 +131,6 @@
           "name": "Tifone Imperatore: Personalizzata",
           "period": "2026-07-09T10:28:45Z",
           "instanceId": "17031779341"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 487,
-      "lastPlayedTimestamp": 1783681286000,
-      "lastActivityTimestamp": 1783665773000,
-      "lastActivityText": "La Guerriera: Con matchmaking il 10/07/2026 06:42",
-      "activities": [
-        {
-          "name": "La Guerriera: Con matchmaking",
-          "period": "2026-07-10T06:42:53Z",
-          "instanceId": "17035189730"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-07-10T05:59:29Z",
-          "instanceId": "17035098467"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-10T05:41:57Z",
-          "instanceId": "17035059373"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-10T05:05:36Z",
-          "instanceId": "17034963425"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-06T05:33:21Z",
-          "instanceId": "17019570330"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-06T04:49:05Z",
-          "instanceId": "17019446908"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-06T04:26:39Z",
-          "instanceId": "17019388203"
-        },
-        {
-          "name": "Oblazione: Lignaggio",
-          "period": "2026-07-05T16:24:27Z",
-          "instanceId": "17016788146"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-07-05T16:09:32Z",
-          "instanceId": "17016627834"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-05T15:33:54Z",
-          "instanceId": "17016504073"
         }
       ]
     },
@@ -1898,7 +1898,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/19c19292462c171c82216996684fea0d.jpg",
       "powerLevel": 339,
-      "lastPlayedTimestamp": 1783599203000,
+      "lastPlayedTimestamp": 1783684233000,
       "lastActivityTimestamp": 1782661307000,
       "lastActivityText": "Ultimo desiderio: Standard il 28/06/2026 15:41",
       "activities": [
