@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T23:46:57.457Z",
+  "generatedAt": "2026-07-10T03:49:50.779Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,26 @@
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 521,
-      "lastPlayedTimestamp": 1783635091000,
-      "lastActivityTimestamp": 1783634722000,
-      "lastActivityText": "Azzardo: Con matchmaking il 09/07/2026 22:05",
+      "powerLevel": 527,
+      "lastPlayedTimestamp": 1783642121000,
+      "lastActivityTimestamp": 1783641822000,
+      "lastActivityText": "Azzardo: Con matchmaking il 10/07/2026 00:03",
       "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-10T00:03:42Z",
+          "instanceId": "17033953079"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-09T23:57:46Z",
+          "instanceId": "17033933575"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-07-09T23:55:14Z",
+          "instanceId": "17033910305"
+        },
         {
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-09T22:05:22Z",
@@ -51,21 +66,6 @@
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-07-09T21:07:22Z",
           "instanceId": "17033414946"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-09T20:53:24Z",
-          "instanceId": "17033361193"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-09T20:39:22Z",
-          "instanceId": "17033322697"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-09T20:10:34Z",
-          "instanceId": "17033212147"
         }
       ]
     },
