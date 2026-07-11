@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-11T10:00:41.847Z",
+  "generatedAt": "2026-07-11T11:16:07.163Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783767898000,
+      "lastActivityTimestamp": 1783767798000,
+      "lastActivityText": "La Città Sognante il 11/07/2026 11:03",
+      "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-11T11:03:18Z",
+          "instanceId": "17039378118"
+        },
+        {
+          "name": "Riposo dell'Afelio: Maestro",
+          "period": "2026-07-11T10:54:14Z",
+          "instanceId": "17039375997"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-11T10:51:15Z",
+          "instanceId": "17039358134"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-11T10:46:54Z",
+          "instanceId": "17039351559"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-07-11T10:22:48Z",
+          "instanceId": "17039344808"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-09T18:23:59Z",
+          "instanceId": "17032909960"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-09T18:02:55Z",
+          "instanceId": "17032794725"
+        },
+        {
+          "name": "Camera del Chiarore Stellare: Maestro",
+          "period": "2026-07-09T17:44:03Z",
+          "instanceId": "17032791037"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-09T17:40:20Z",
+          "instanceId": "17032734302"
+        },
+        {
+          "name": "Camera del Chiarore Stellare: Maestro",
+          "period": "2026-07-09T17:14:33Z",
+          "instanceId": "17032698400"
+        }
+      ]
+    },
     {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
@@ -13,10 +78,15 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a5181bb652131991d04ca0d7dfc6cf91.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1783761466000,
-      "lastActivityTimestamp": 1783759681000,
-      "lastActivityText": "Oblazione: Animanutrito il 11/07/2026 08:48",
+      "lastPlayedTimestamp": 1783765224000,
+      "lastActivityTimestamp": 1783764651000,
+      "lastActivityText": "La Tana dei Diavoli il 11/07/2026 10:10",
       "activities": [
+        {
+          "name": "La Tana dei Diavoli",
+          "period": "2026-07-11T10:10:51Z",
+          "instanceId": "17039299276"
+        },
         {
           "name": "Oblazione: Animanutrito",
           "period": "2026-07-11T08:48:01Z",
@@ -61,11 +131,6 @@
           "name": "Oblazione: Lignaggio",
           "period": "2026-07-10T16:34:05Z",
           "instanceId": "17036357433"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-07-10T16:19:18Z",
-          "instanceId": "17036352834"
         }
       ]
     },
@@ -196,71 +261,6 @@
           "name": "La lama di Luce: Con matchmaking",
           "period": "2026-07-07T13:24:23Z",
           "instanceId": "17024466047"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1783753789000,
-      "lastActivityTimestamp": 1783752711000,
-      "lastActivityText": "Corrente dell'iper-rete: Con matchmaking il 11/07/2026 06:51",
-      "activities": [
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-07-11T06:51:51Z",
-          "instanceId": "17038910204"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-07-11T06:11:39Z",
-          "instanceId": "17038812026"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-07-11T05:53:52Z",
-          "instanceId": "17038758397"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-07-10T17:56:30Z",
-          "instanceId": "17036616366"
-        },
-        {
-          "name": "Oblazione: Animanutrito",
-          "period": "2026-07-10T17:26:53Z",
-          "instanceId": "17036544182"
-        },
-        {
-          "name": "Oblazione: Lignaggio",
-          "period": "2026-07-10T16:35:09Z",
-          "instanceId": "17036462552"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-07-10T16:19:18Z",
-          "instanceId": "17036352834"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
-          "period": "2026-07-10T15:58:15Z",
-          "instanceId": "17036301336"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
-          "period": "2026-07-10T15:36:38Z",
-          "instanceId": "17036230391"
-        },
-        {
-          "name": "Primo contatto: Maestro",
-          "period": "2026-07-10T14:46:37Z",
-          "instanceId": "17036173506"
         }
       ]
     },
