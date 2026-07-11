@@ -1,22 +1,287 @@
 {
-  "generatedAt": "2026-07-11T19:45:53.535Z",
+  "generatedAt": "2026-07-11T20:56:48.905Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "cRoTator#5820",
-      "membershipId": "4611686018504020156",
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
       "isOnline": true,
       "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 522,
+      "lastPlayedTimestamp": 1783803340000,
+      "lastActivityTimestamp": 1783801739000,
+      "lastActivityText": "Bunker dei caduti: Con matchmaking il 11/07/2026 20:28",
+      "activities": [
+        {
+          "name": "Bunker dei caduti: Con matchmaking",
+          "period": "2026-07-11T20:28:59Z",
+          "instanceId": "17041030269"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-07-11T20:10:46Z",
+          "instanceId": "17040963089"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-11T19:40:31Z",
+          "instanceId": "17040845395"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-11T17:28:26Z",
+          "instanceId": "17040401581"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-07-11T17:01:49Z",
+          "instanceId": "17040364583"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-07-11T08:47:54Z",
+          "instanceId": "17039170610"
+        },
+        {
+          "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
+          "period": "2026-07-10T13:13:35Z",
+          "instanceId": "17036057309"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-07-10T10:22:15Z",
+          "instanceId": "17035573377"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-07-09T16:25:05Z",
+          "instanceId": "17032563532"
+        },
+        {
+          "name": "Caldera: Personalizzata",
+          "period": "2026-07-09T15:24:48Z",
+          "instanceId": "17032399888"
+        }
+      ]
+    },
+    {
+      "displayName": "DiciestCloth1#2862",
+      "membershipId": "4611686018442634411",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Flagello di Riven",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 547,
+      "lastPlayedTimestamp": 1783803320000,
+      "lastActivityTimestamp": 1783801739000,
+      "lastActivityText": "Bunker dei caduti: Con matchmaking il 11/07/2026 20:28",
+      "activities": [
+        {
+          "name": "Bunker dei caduti: Con matchmaking",
+          "period": "2026-07-11T20:28:59Z",
+          "instanceId": "17041030269"
+        },
+        {
+          "name": "Bunker dei caduti: Con matchmaking",
+          "period": "2026-07-11T20:27:44Z",
+          "instanceId": "17041034779"
+        },
+        {
+          "name": "Bunker dei caduti: Con matchmaking",
+          "period": "2026-07-11T20:26:40Z",
+          "instanceId": "17041020610"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-07-11T20:10:46Z",
+          "instanceId": "17040963089"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-11T19:40:31Z",
+          "instanceId": "17040845395"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-07-11T19:29:17Z",
+          "instanceId": "17040837259"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-11T14:19:48Z",
+          "instanceId": "17039834799"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-07-11T14:04:26Z",
+          "instanceId": "17039808929"
+        },
+        {
+          "name": "Fortezza di Hellas, Marte: Caccia alle taglie: Con matchmaking",
+          "period": "2026-07-11T13:44:05Z",
+          "instanceId": "17039770980"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-07-11T12:45:20Z",
+          "instanceId": "17039652401"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 533,
+      "lastPlayedTimestamp": 1783801257000,
+      "lastActivityTimestamp": 1783800720000,
+      "lastActivityText": "Azzardo: Con matchmaking il 11/07/2026 20:12",
+      "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-11T20:12:00Z",
+          "instanceId": "17040941339"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-11T20:03:51Z",
+          "instanceId": "17040913107"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-11T19:56:13Z",
+          "instanceId": "17040882525"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-11T02:39:59Z",
+          "instanceId": "17038168877"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-11T02:19:03Z",
+          "instanceId": "17038083144"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-11T02:11:54Z",
+          "instanceId": "17038058764"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-11T02:05:17Z",
+          "instanceId": "17038035618"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-11T01:58:55Z",
+          "instanceId": "17038014704"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-07-10T19:06:06Z",
+          "instanceId": "17036792048"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-10T15:08:18Z",
+          "instanceId": "17036145957"
+        }
+      ]
+    },
+    {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/80f5aec4b03c7613d8628b7b7077b936.jpg",
+      "powerLevel": 391,
+      "lastPlayedTimestamp": 1783802421000,
+      "lastActivityTimestamp": 1783799728000,
+      "lastActivityText": "Bunker dei caduti: Con matchmaking il 11/07/2026 19:55",
+      "activities": [
+        {
+          "name": "Bunker dei caduti: Con matchmaking",
+          "period": "2026-07-11T19:55:28Z",
+          "instanceId": "17040925992"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-11T15:34:22Z",
+          "instanceId": "17040078027"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-11T15:22:06Z",
+          "instanceId": "17040020828"
+        },
+        {
+          "name": "Pinnacolo di Savathûn: Personalizzata",
+          "period": "2026-07-11T15:18:43Z",
+          "instanceId": "17039985887"
+        },
+        {
+          "name": "Logistica R1: Personalizzata",
+          "period": "2026-07-11T14:58:05Z",
+          "instanceId": "17039947594"
+        },
+        {
+          "name": "Controllo Impetuoso: Con matchmaking",
+          "period": "2026-07-11T13:56:11Z",
+          "instanceId": "17039772538"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-11T13:38:57Z",
+          "instanceId": "17039737660"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-11T13:14:47Z",
+          "instanceId": "17039676745"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-07-10T20:09:54Z",
+          "instanceId": "17036982015"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Personalizzata",
+          "period": "2026-07-10T14:16:58Z",
+          "instanceId": "17036061265"
+        }
+      ]
+    },
+    {
+      "displayName": "cRoTator#5820",
+      "membershipId": "4611686018504020156",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b531d829e55b6f13555e8cae172dc0b3.jpg",
-      "powerLevel": 436,
-      "lastPlayedTimestamp": 1783799131000,
-      "lastActivityTimestamp": 1783797817000,
-      "lastActivityText": "Campi di battaglia: Condotto: Personalizzata il 11/07/2026 19:23",
+      "powerLevel": 459,
+      "lastPlayedTimestamp": 1783799554000,
+      "lastActivityTimestamp": 1783797956000,
+      "lastActivityText": "Pinnacolo di Savathûn: Personalizzata il 11/07/2026 19:25",
       "activities": [
+        {
+          "name": "Pinnacolo di Savathûn: Personalizzata",
+          "period": "2026-07-11T19:25:56Z",
+          "instanceId": "17040822690"
+        },
         {
           "name": "Campi di battaglia: Condotto: Personalizzata",
           "period": "2026-07-11T19:23:37Z",
@@ -61,11 +326,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-07-07T12:00:02Z",
           "instanceId": "17024270318"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-07-03T08:03:46Z",
-          "instanceId": "17006718701"
         }
       ]
     },
@@ -73,15 +333,20 @@
       "displayName": "TheEnrageGamer#2674",
       "membershipId": "4611686018511383140",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Custode della fiamma",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e1c407e098c9493ae8e0e9e7b215fa09.jpg",
       "powerLevel": 548,
       "lastPlayedTimestamp": 1783799138000,
-      "lastActivityTimestamp": 1783797817000,
-      "lastActivityText": "Campi di battaglia: Condotto: Personalizzata il 11/07/2026 19:23",
+      "lastActivityTimestamp": 1783797956000,
+      "lastActivityText": "Pinnacolo di Savathûn: Personalizzata il 11/07/2026 19:25",
       "activities": [
+        {
+          "name": "Pinnacolo di Savathûn: Personalizzata",
+          "period": "2026-07-11T19:25:56Z",
+          "instanceId": "17040822690"
+        },
         {
           "name": "Campi di battaglia: Condotto: Personalizzata",
           "period": "2026-07-11T19:23:37Z",
@@ -126,11 +391,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-06T15:29:36Z",
           "instanceId": "17020828449"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-06T15:21:00Z",
-          "instanceId": "17020806818"
         }
       ]
     },
@@ -138,7 +398,7 @@
       "displayName": "adgarolp#8945",
       "membershipId": "4611686018479100387",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Glorioso",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
@@ -525,71 +785,6 @@
       ]
     },
     {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 521,
-      "lastPlayedTimestamp": 1783799113000,
-      "lastActivityTimestamp": 1783790906000,
-      "lastActivityText": "Partita veloce: Normale il 11/07/2026 17:28",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-11T17:28:26Z",
-          "instanceId": "17040401581"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-07-11T17:01:49Z",
-          "instanceId": "17040364583"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-07-11T08:47:54Z",
-          "instanceId": "17039170610"
-        },
-        {
-          "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
-          "period": "2026-07-10T13:13:35Z",
-          "instanceId": "17036057309"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-07-10T10:22:15Z",
-          "instanceId": "17035573377"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-07-09T16:25:05Z",
-          "instanceId": "17032563532"
-        },
-        {
-          "name": "Caldera: Personalizzata",
-          "period": "2026-07-09T15:24:48Z",
-          "instanceId": "17032399888"
-        },
-        {
-          "name": "Osservatorio Celeste: Personalizzata",
-          "period": "2026-07-09T14:50:15Z",
-          "instanceId": "17032323199"
-        },
-        {
-          "name": "Logistica R1: Personalizzata",
-          "period": "2026-07-09T14:00:49Z",
-          "instanceId": "17032185696"
-        },
-        {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-07-09T13:38:41Z",
-          "instanceId": "17032135596"
-        }
-      ]
-    },
-    {
       "displayName": "Jhonny#3878",
       "membershipId": "4611686018489632599",
       "bungieNetMembershipId": "",
@@ -651,136 +846,6 @@
           "name": "Lega Gare di Astori",
           "period": "2026-07-09T16:07:29Z",
           "instanceId": "17032490772"
-        }
-      ]
-    },
-    {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/80f5aec4b03c7613d8628b7b7077b936.jpg",
-      "powerLevel": 387,
-      "lastPlayedTimestamp": 1783785308000,
-      "lastActivityTimestamp": 1783784062000,
-      "lastActivityText": "Partita veloce: Normale il 11/07/2026 15:34",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-11T15:34:22Z",
-          "instanceId": "17040078027"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-11T15:22:06Z",
-          "instanceId": "17040020828"
-        },
-        {
-          "name": "Pinnacolo di Savathûn: Personalizzata",
-          "period": "2026-07-11T15:18:43Z",
-          "instanceId": "17039985887"
-        },
-        {
-          "name": "Logistica R1: Personalizzata",
-          "period": "2026-07-11T14:58:05Z",
-          "instanceId": "17039947594"
-        },
-        {
-          "name": "Controllo Impetuoso: Con matchmaking",
-          "period": "2026-07-11T13:56:11Z",
-          "instanceId": "17039772538"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-11T13:38:57Z",
-          "instanceId": "17039737660"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-11T13:14:47Z",
-          "instanceId": "17039676745"
-        },
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-07-10T20:09:54Z",
-          "instanceId": "17036982015"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Personalizzata",
-          "period": "2026-07-10T14:16:58Z",
-          "instanceId": "17036061265"
-        },
-        {
-          "name": "Il Tecnocrate: Personalizzata",
-          "period": "2026-07-08T16:15:13Z",
-          "instanceId": "17028692302"
-        }
-      ]
-    },
-    {
-      "displayName": "DiciestCloth1#2862",
-      "membershipId": "4611686018442634411",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Flagello di Riven",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 546,
-      "lastPlayedTimestamp": 1783799047000,
-      "lastActivityTimestamp": 1783779588000,
-      "lastActivityText": "Cosmodromo il 11/07/2026 14:19",
-      "activities": [
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-11T14:19:48Z",
-          "instanceId": "17039834799"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-07-11T14:04:26Z",
-          "instanceId": "17039808929"
-        },
-        {
-          "name": "Fortezza di Hellas, Marte: Caccia alle taglie: Con matchmaking",
-          "period": "2026-07-11T13:44:05Z",
-          "instanceId": "17039770980"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-07-11T12:45:20Z",
-          "instanceId": "17039652401"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-07-07T20:33:31Z",
-          "instanceId": "17025499001"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-06T22:14:27Z",
-          "instanceId": "17022083203"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-06T22:03:17Z",
-          "instanceId": "17022046147"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-06T21:55:38Z",
-          "instanceId": "17022021294"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-05T16:37:32Z",
-          "instanceId": "17016751762"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-05T16:07:46Z",
-          "instanceId": "17017621988"
         }
       ]
     },
@@ -911,71 +976,6 @@
           "name": "Riproposta in evidenza: Gahlran: Pantheon",
           "period": "2026-06-16T19:14:47Z",
           "instanceId": "16919339039"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 502,
-      "lastPlayedTimestamp": 1783737615000,
-      "lastActivityTimestamp": 1783737599000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 11/07/2026 02:39",
-      "activities": [
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-11T02:39:59Z",
-          "instanceId": "17038168877"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-11T02:19:03Z",
-          "instanceId": "17038083144"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-11T02:11:54Z",
-          "instanceId": "17038058764"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-11T02:05:17Z",
-          "instanceId": "17038035618"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-11T01:58:55Z",
-          "instanceId": "17038014704"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-10T19:06:06Z",
-          "instanceId": "17036792048"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-10T15:08:18Z",
-          "instanceId": "17036145957"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-10T14:57:21Z",
-          "instanceId": "17036117546"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-10T00:03:42Z",
-          "instanceId": "17033953079"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-09T23:57:46Z",
-          "instanceId": "17033933575"
         }
       ]
     },
