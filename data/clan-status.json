@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T20:56:48.905Z",
+  "generatedAt": "2026-07-11T21:57:39.796Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,25 @@
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 522,
-      "lastPlayedTimestamp": 1783803340000,
-      "lastActivityTimestamp": 1783801739000,
-      "lastActivityText": "Bunker dei caduti: Con matchmaking il 11/07/2026 20:28",
+      "lastPlayedTimestamp": 1783807029000,
+      "lastActivityTimestamp": 1783805908000,
+      "lastActivityText": "La Fortezza Scarlatta: Personalizzata il 11/07/2026 21:38",
       "activities": [
+        {
+          "name": "La Fortezza Scarlatta: Personalizzata",
+          "period": "2026-07-11T21:38:28Z",
+          "instanceId": "17041250408"
+        },
+        {
+          "name": "Ora zero: Personalizzata",
+          "period": "2026-07-11T21:11:43Z",
+          "instanceId": "17041194098"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-07-11T20:48:14Z",
+          "instanceId": "17041082540"
+        },
         {
           "name": "Bunker dei caduti: Con matchmaking",
           "period": "2026-07-11T20:28:59Z",
@@ -51,21 +66,6 @@
           "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
           "period": "2026-07-10T13:13:35Z",
           "instanceId": "17036057309"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-07-10T10:22:15Z",
-          "instanceId": "17035573377"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-07-09T16:25:05Z",
-          "instanceId": "17032563532"
-        },
-        {
-          "name": "Caldera: Personalizzata",
-          "period": "2026-07-09T15:24:48Z",
-          "instanceId": "17032399888"
         }
       ]
     },
@@ -78,10 +78,30 @@
       "title": "Flagello di Riven",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 547,
-      "lastPlayedTimestamp": 1783803320000,
-      "lastActivityTimestamp": 1783801739000,
-      "lastActivityText": "Bunker dei caduti: Con matchmaking il 11/07/2026 20:28",
+      "lastPlayedTimestamp": 1783807045000,
+      "lastActivityTimestamp": 1783805908000,
+      "lastActivityText": "La Fortezza Scarlatta: Personalizzata il 11/07/2026 21:38",
       "activities": [
+        {
+          "name": "La Fortezza Scarlatta: Personalizzata",
+          "period": "2026-07-11T21:38:28Z",
+          "instanceId": "17041250408"
+        },
+        {
+          "name": "Ora zero: Personalizzata",
+          "period": "2026-07-11T21:11:43Z",
+          "instanceId": "17041194098"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-07-11T20:48:14Z",
+          "instanceId": "17041082540"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-07-11T20:46:46Z",
+          "instanceId": "17041085424"
+        },
         {
           "name": "Bunker dei caduti: Con matchmaking",
           "period": "2026-07-11T20:28:59Z",
@@ -111,26 +131,6 @@
           "name": "Promessa del Discepolo: Standard",
           "period": "2026-07-11T19:29:17Z",
           "instanceId": "17040837259"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-11T14:19:48Z",
-          "instanceId": "17039834799"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-07-11T14:04:26Z",
-          "instanceId": "17039808929"
-        },
-        {
-          "name": "Fortezza di Hellas, Marte: Caccia alle taglie: Con matchmaking",
-          "period": "2026-07-11T13:44:05Z",
-          "instanceId": "17039770980"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-07-11T12:45:20Z",
-          "instanceId": "17039652401"
         }
       ]
     },
