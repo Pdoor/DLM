@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-12T18:28:53.173Z",
+  "generatedAt": "2026-07-12T19:46:25.598Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 534,
+      "lastPlayedTimestamp": 1783883392000,
+      "lastActivityTimestamp": 1783882207000,
+      "lastActivityText": "Schianto dell'Esodo: Personalizzata il 12/07/2026 18:50",
+      "activities": [
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-07-12T18:50:07Z",
+          "instanceId": "17044741388"
+        },
+        {
+          "name": "Riproposta in evidenza: Gahlran: Pantheon",
+          "period": "2026-07-12T18:36:51Z",
+          "instanceId": "17044644843"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-12T15:08:04Z",
+          "instanceId": "17044009781"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-12T15:00:50Z",
+          "instanceId": "17043987165"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-12T14:54:09Z",
+          "instanceId": "17043964418"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-12T14:46:01Z",
+          "instanceId": "17043941486"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-12T14:39:03Z",
+          "instanceId": "17043922303"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-11T20:12:00Z",
+          "instanceId": "17040941339"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-11T20:03:51Z",
+          "instanceId": "17040913107"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-11T19:56:13Z",
+          "instanceId": "17040882525"
+        }
+      ]
+    },
     {
       "displayName": "mattia08pro#6310",
       "membershipId": "4611686018513701477",
@@ -395,71 +460,6 @@
       ]
     },
     {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 533,
-      "lastPlayedTimestamp": 1783880432000,
-      "lastActivityTimestamp": 1783868884000,
-      "lastActivityText": "Azzardo: Con matchmaking il 12/07/2026 15:08",
-      "activities": [
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-12T15:08:04Z",
-          "instanceId": "17044009781"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-12T15:00:50Z",
-          "instanceId": "17043987165"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-12T14:54:09Z",
-          "instanceId": "17043964418"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-12T14:46:01Z",
-          "instanceId": "17043941486"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-12T14:39:03Z",
-          "instanceId": "17043922303"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-11T20:12:00Z",
-          "instanceId": "17040941339"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-11T20:03:51Z",
-          "instanceId": "17040913107"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-11T19:56:13Z",
-          "instanceId": "17040882525"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-11T02:39:59Z",
-          "instanceId": "17038168877"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-11T02:19:03Z",
-          "instanceId": "17038083144"
-        }
-      ]
-    },
-    {
       "displayName": "DiciestCloth1#2862",
       "membershipId": "4611686018442634411",
       "bungieNetMembershipId": "",
@@ -528,12 +528,12 @@
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 482,
-      "lastPlayedTimestamp": 1783868561000,
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783885449000,
       "lastActivityTimestamp": 1783867570000,
       "lastActivityText": "Tronomondo di Savathûn il 12/07/2026 14:46",
       "activities": [
