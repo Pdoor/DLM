@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T21:58:59.357Z",
+  "generatedAt": "2026-07-12T23:00:18.511Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,35 @@
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 530,
-      "lastPlayedTimestamp": 1783893296000,
-      "lastActivityTimestamp": 1783888937000,
-      "lastActivityText": "Pallido Cuore il 12/07/2026 20:42",
+      "lastPlayedTimestamp": 1783897170000,
+      "lastActivityTimestamp": 1783895807000,
+      "lastActivityText": "Controllo: Con matchmaking il 12/07/2026 22:36",
       "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-12T22:36:47Z",
+          "instanceId": "17045493735"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-12T22:25:43Z",
+          "instanceId": "17045459244"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-12T22:12:48Z",
+          "instanceId": "17045419429"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-12T22:03:02Z",
+          "instanceId": "17045377690"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-12T21:54:17Z",
+          "instanceId": "17045347763"
+        },
         {
           "name": "Pallido Cuore",
           "period": "2026-07-12T20:42:17Z",
@@ -41,31 +66,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-12T15:08:04Z",
           "instanceId": "17044009781"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-12T15:00:50Z",
-          "instanceId": "17043987165"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-12T14:54:09Z",
-          "instanceId": "17043964418"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-12T14:46:01Z",
-          "instanceId": "17043941486"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-12T14:39:03Z",
-          "instanceId": "17043922303"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-11T20:12:00Z",
-          "instanceId": "17040941339"
         }
       ]
     },
