@@ -1,22 +1,97 @@
 {
-  "generatedAt": "2026-07-12T12:04:25.381Z",
+  "generatedAt": "2026-07-12T14:06:09.896Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "DiciestCloth1#2862",
+      "membershipId": "4611686018442634411",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Flagello di Riven",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783864112000,
+      "lastActivityTimestamp": 1783863664000,
+      "lastActivityText": "Orlo della Salvezza: Standard il 12/07/2026 13:41",
+      "activities": [
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-07-12T13:41:04Z",
+          "instanceId": "17043765304"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-07-12T13:30:11Z",
+          "instanceId": "17043748092"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-07-12T13:21:06Z",
+          "instanceId": "17043721201"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-07-12T13:12:54Z",
+          "instanceId": "17043697598"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-07-12T13:07:59Z",
+          "instanceId": "17043678379"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-07-12T13:01:36Z",
+          "instanceId": "17043666643"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-07-12T12:41:55Z",
+          "instanceId": "17043651341"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-11T21:55:28Z",
+          "instanceId": "17041284836"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Personalizzata",
+          "period": "2026-07-11T21:38:28Z",
+          "instanceId": "17041250408"
+        },
+        {
+          "name": "Ora zero: Personalizzata",
+          "period": "2026-07-11T21:11:43Z",
+          "instanceId": "17041194098"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 545,
-      "lastPlayedTimestamp": 1783857482000,
-      "lastActivityTimestamp": 1783856177000,
-      "lastActivityText": "La Città Sognante il 12/07/2026 11:36",
+      "lastPlayedTimestamp": 1783864436000,
+      "lastActivityTimestamp": 1783861570000,
+      "lastActivityText": "Trasmigrazione: Normale il 12/07/2026 13:06",
       "activities": [
+        {
+          "name": "Trasmigrazione: Normale",
+          "period": "2026-07-12T13:06:10Z",
+          "instanceId": "17043731555"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-12T12:58:02Z",
+          "instanceId": "17043660339"
+        },
         {
           "name": "La Città Sognante",
           "period": "2026-07-12T11:36:17Z",
@@ -56,16 +131,201 @@
           "name": "La Città Sognante",
           "period": "2026-07-12T06:06:28Z",
           "instanceId": "17042763560"
+        }
+      ]
+    },
+    {
+      "displayName": "ClaudeFj#8206",
+      "membershipId": "4611686018522886434",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
+      "powerLevel": 490,
+      "lastPlayedTimestamp": 1783862628000,
+      "lastActivityTimestamp": 1783861409000,
+      "lastActivityText": "Bunker dei caduti: Con matchmaking il 12/07/2026 13:03",
+      "activities": [
+        {
+          "name": "Bunker dei caduti: Con matchmaking",
+          "period": "2026-07-12T13:03:29Z",
+          "instanceId": "17043705577"
         },
         {
-          "name": "Baia dei Desideri Annegati: Esperto",
-          "period": "2026-07-12T05:56:07Z",
-          "instanceId": "17042757813"
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-07-12T12:43:23Z",
+          "instanceId": "17043650406"
         },
         {
-          "name": "La Città Sognante",
-          "period": "2026-07-12T05:55:27Z",
-          "instanceId": "17042727847"
+          "name": "Campi di battaglia: Nucleo: Personalizzata",
+          "period": "2026-07-08T16:49:29Z",
+          "instanceId": "17028778900"
+        },
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-07-08T16:16:23Z",
+          "instanceId": "17028686192"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-07-08T09:59:20Z",
+          "instanceId": "17027796700"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-07-08T09:11:27Z",
+          "instanceId": "17027767968"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-08T09:09:46Z",
+          "instanceId": "17027728311"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-08T08:55:48Z",
+          "instanceId": "17027702545"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-07-07T10:22:01Z",
+          "instanceId": "17024104913"
+        },
+        {
+          "name": "Liminalità: Personalizzata",
+          "period": "2026-07-07T10:07:16Z",
+          "instanceId": "17024054964"
+        }
+      ]
+    },
+    {
+      "displayName": "Paltrix94#5760",
+      "membershipId": "4611686018516491359",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
+      "powerLevel": 490,
+      "lastPlayedTimestamp": 1783862632000,
+      "lastActivityTimestamp": 1783861409000,
+      "lastActivityText": "Bunker dei caduti: Con matchmaking il 12/07/2026 13:03",
+      "activities": [
+        {
+          "name": "Bunker dei caduti: Con matchmaking",
+          "period": "2026-07-12T13:03:29Z",
+          "instanceId": "17043705577"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-12T12:49:22Z",
+          "instanceId": "17043653450"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-07-12T12:43:23Z",
+          "instanceId": "17043650406"
+        },
+        {
+          "name": "Campi di battaglia: Nucleo: Personalizzata",
+          "period": "2026-07-08T16:49:29Z",
+          "instanceId": "17028778900"
+        },
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-07-08T16:16:23Z",
+          "instanceId": "17028686192"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-07-08T09:59:20Z",
+          "instanceId": "17027796700"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-07-08T09:11:27Z",
+          "instanceId": "17027767968"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-08T09:09:46Z",
+          "instanceId": "17027728311"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-08T08:55:48Z",
+          "instanceId": "17027702545"
+        },
+        {
+          "name": "Tifone Imperatore: Personalizzata",
+          "period": "2026-07-07T14:37:53Z",
+          "instanceId": "17024979875"
+        }
+      ]
+    },
+    {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a0365ded33cd0e97ccda9784b6ed2aa6.jpg",
+      "powerLevel": 394,
+      "lastPlayedTimestamp": 1783857929000,
+      "lastActivityTimestamp": 1783855916000,
+      "lastActivityText": "Cella Senza Sole: Personalizzata il 12/07/2026 11:31",
+      "activities": [
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-07-12T11:31:56Z",
+          "instanceId": "17043524679"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-12T10:24:37Z",
+          "instanceId": "17043355844"
+        },
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-07-12T10:05:31Z",
+          "instanceId": "17043318082"
+        },
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-07-12T09:49:09Z",
+          "instanceId": "17043291257"
+        },
+        {
+          "name": "Bunker dei caduti: Con matchmaking",
+          "period": "2026-07-11T19:55:28Z",
+          "instanceId": "17040925992"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-11T15:34:22Z",
+          "instanceId": "17040078027"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-11T15:22:06Z",
+          "instanceId": "17040020828"
+        },
+        {
+          "name": "Pinnacolo di Savathûn: Personalizzata",
+          "period": "2026-07-11T15:18:43Z",
+          "instanceId": "17039985887"
+        },
+        {
+          "name": "Logistica R1: Personalizzata",
+          "period": "2026-07-11T14:58:05Z",
+          "instanceId": "17039947594"
+        },
+        {
+          "name": "Controllo Impetuoso: Con matchmaking",
+          "period": "2026-07-11T13:56:11Z",
+          "instanceId": "17039772538"
         }
       ]
     },
@@ -131,71 +391,6 @@
           "name": "Tronomondo di Savathûn",
           "period": "2026-07-11T07:48:25Z",
           "instanceId": "17039011631"
-        }
-      ]
-    },
-    {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a0365ded33cd0e97ccda9784b6ed2aa6.jpg",
-      "powerLevel": 394,
-      "lastPlayedTimestamp": 1783857826000,
-      "lastActivityTimestamp": 1783851877000,
-      "lastActivityText": "Controllo: Con matchmaking il 12/07/2026 10:24",
-      "activities": [
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-12T10:24:37Z",
-          "instanceId": "17043355844"
-        },
-        {
-          "name": "Miniere di Sale: Personalizzata",
-          "period": "2026-07-12T10:05:31Z",
-          "instanceId": "17043318082"
-        },
-        {
-          "name": "Miniere di Sale: Personalizzata",
-          "period": "2026-07-12T09:49:09Z",
-          "instanceId": "17043291257"
-        },
-        {
-          "name": "Bunker dei caduti: Con matchmaking",
-          "period": "2026-07-11T19:55:28Z",
-          "instanceId": "17040925992"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-11T15:34:22Z",
-          "instanceId": "17040078027"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-11T15:22:06Z",
-          "instanceId": "17040020828"
-        },
-        {
-          "name": "Pinnacolo di Savathûn: Personalizzata",
-          "period": "2026-07-11T15:18:43Z",
-          "instanceId": "17039985887"
-        },
-        {
-          "name": "Logistica R1: Personalizzata",
-          "period": "2026-07-11T14:58:05Z",
-          "instanceId": "17039947594"
-        },
-        {
-          "name": "Controllo Impetuoso: Con matchmaking",
-          "period": "2026-07-11T13:56:11Z",
-          "instanceId": "17039772538"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-11T13:38:57Z",
-          "instanceId": "17039737660"
         }
       ]
     },
@@ -391,71 +586,6 @@
           "name": "Conservazione",
           "period": "2026-07-11T08:47:54Z",
           "instanceId": "17039170610"
-        }
-      ]
-    },
-    {
-      "displayName": "DiciestCloth1#2862",
-      "membershipId": "4611686018442634411",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Flagello di Riven",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 481,
-      "lastPlayedTimestamp": 1783808103000,
-      "lastActivityTimestamp": 1783806928000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 11/07/2026 21:55",
-      "activities": [
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-11T21:55:28Z",
-          "instanceId": "17041284836"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Personalizzata",
-          "period": "2026-07-11T21:38:28Z",
-          "instanceId": "17041250408"
-        },
-        {
-          "name": "Ora zero: Personalizzata",
-          "period": "2026-07-11T21:11:43Z",
-          "instanceId": "17041194098"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Con matchmaking",
-          "period": "2026-07-11T20:48:14Z",
-          "instanceId": "17041082540"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Con matchmaking",
-          "period": "2026-07-11T20:46:46Z",
-          "instanceId": "17041085424"
-        },
-        {
-          "name": "Bunker dei caduti: Con matchmaking",
-          "period": "2026-07-11T20:28:59Z",
-          "instanceId": "17041030269"
-        },
-        {
-          "name": "Bunker dei caduti: Con matchmaking",
-          "period": "2026-07-11T20:27:44Z",
-          "instanceId": "17041034779"
-        },
-        {
-          "name": "Bunker dei caduti: Con matchmaking",
-          "period": "2026-07-11T20:26:40Z",
-          "instanceId": "17041020610"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-07-11T20:10:46Z",
-          "instanceId": "17040963089"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-11T19:40:31Z",
-          "instanceId": "17040845395"
         }
       ]
     },
@@ -976,136 +1106,6 @@
           "name": "Riproposta in evidenza: Gahlran: Pantheon",
           "period": "2026-06-16T19:14:47Z",
           "instanceId": "16919339039"
-        }
-      ]
-    },
-    {
-      "displayName": "ClaudeFj#8206",
-      "membershipId": "4611686018522886434",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
-      "powerLevel": 490,
-      "lastPlayedTimestamp": 1783592603000,
-      "lastActivityTimestamp": 1783529369000,
-      "lastActivityText": "Campi di battaglia: Nucleo: Personalizzata il 08/07/2026 16:49",
-      "activities": [
-        {
-          "name": "Campi di battaglia: Nucleo: Personalizzata",
-          "period": "2026-07-08T16:49:29Z",
-          "instanceId": "17028778900"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-07-08T16:16:23Z",
-          "instanceId": "17028686192"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-08T09:59:20Z",
-          "instanceId": "17027796700"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-07-08T09:11:27Z",
-          "instanceId": "17027767968"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-08T09:09:46Z",
-          "instanceId": "17027728311"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-08T08:55:48Z",
-          "instanceId": "17027702545"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-07-07T10:22:01Z",
-          "instanceId": "17024104913"
-        },
-        {
-          "name": "Liminalità: Personalizzata",
-          "period": "2026-07-07T10:07:16Z",
-          "instanceId": "17024054964"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-07-07T09:45:14Z",
-          "instanceId": "17024035167"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-07-06T22:13:13Z",
-          "instanceId": "17022118992"
-        }
-      ]
-    },
-    {
-      "displayName": "Paltrix94#5760",
-      "membershipId": "4611686018516491359",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
-      "powerLevel": 490,
-      "lastPlayedTimestamp": 1783787475000,
-      "lastActivityTimestamp": 1783529369000,
-      "lastActivityText": "Campi di battaglia: Nucleo: Personalizzata il 08/07/2026 16:49",
-      "activities": [
-        {
-          "name": "Campi di battaglia: Nucleo: Personalizzata",
-          "period": "2026-07-08T16:49:29Z",
-          "instanceId": "17028778900"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-07-08T16:16:23Z",
-          "instanceId": "17028686192"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-08T09:59:20Z",
-          "instanceId": "17027796700"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-07-08T09:11:27Z",
-          "instanceId": "17027767968"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-08T09:09:46Z",
-          "instanceId": "17027728311"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-08T08:55:48Z",
-          "instanceId": "17027702545"
-        },
-        {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-07-07T14:44:15Z",
-          "instanceId": "17024653441"
-        },
-        {
-          "name": "Tifone Imperatore: Personalizzata",
-          "period": "2026-07-07T14:37:53Z",
-          "instanceId": "17024979875"
-        },
-        {
-          "name": "Campi di battaglia: Condotto: Personalizzata",
-          "period": "2026-07-07T10:59:13Z",
-          "instanceId": "17024173141"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-07-07T10:22:01Z",
-          "instanceId": "17024104913"
         }
       ]
     },
@@ -1828,7 +1828,7 @@
       "displayName": "Neytiri_wave#9364",
       "membershipId": "4611686018530145706",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
