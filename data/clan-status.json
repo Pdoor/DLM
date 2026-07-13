@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T07:49:40.217Z",
+  "generatedAt": "2026-07-13T11:18:31.687Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 545,
-      "lastPlayedTimestamp": 1783924467000,
-      "lastActivityTimestamp": 1783923711000,
-      "lastActivityText": "Camera del Chiarore Stellare: Maestro il 13/07/2026 06:21",
+      "lastPlayedTimestamp": 1783941422000,
+      "lastActivityTimestamp": 1783940766000,
+      "lastActivityText": "La Città Sognante il 13/07/2026 11:06",
       "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-13T11:06:06Z",
+          "instanceId": "17047239732"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-13T11:02:36Z",
+          "instanceId": "17047234646"
+        },
         {
           "name": "Camera del Chiarore Stellare: Maestro",
           "period": "2026-07-13T06:21:51Z",
@@ -53,16 +63,6 @@
           "instanceId": "17043961323"
         },
         {
-          "name": "La Città Sognante",
-          "period": "2026-07-12T14:55:40Z",
-          "instanceId": "17043954636"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-12T14:52:37Z",
-          "instanceId": "17043946726"
-        },
-        {
           "name": "Baia dei Desideri Annegati: Maestro",
           "period": "2026-07-12T11:07:57Z",
           "instanceId": "17044023917"
@@ -77,11 +77,31 @@
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 456,
-      "lastPlayedTimestamp": 1783925288000,
-      "lastActivityTimestamp": 1783923610000,
-      "lastActivityText": "Campi di battaglia: Appiglio: Con matchmaking il 13/07/2026 06:20",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1783938740000,
+      "lastActivityTimestamp": 1783936601000,
+      "lastActivityText": "Avamposto dei cabal: Personalizzata il 13/07/2026 09:56",
       "activities": [
+        {
+          "name": "Avamposto dei cabal: Personalizzata",
+          "period": "2026-07-13T09:56:41Z",
+          "instanceId": "17047182868"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-07-13T09:10:34Z",
+          "instanceId": "17047119101"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-07-13T08:55:36Z",
+          "instanceId": "17047062554"
+        },
+        {
+          "name": "La corrotta: Con matchmaking",
+          "period": "2026-07-13T08:26:59Z",
+          "instanceId": "17047032030"
+        },
         {
           "name": "Campi di battaglia: Appiglio: Con matchmaking",
           "period": "2026-07-13T06:20:10Z",
@@ -111,26 +131,6 @@
           "name": "Tronomondo di Savathûn",
           "period": "2026-07-11T08:02:41Z",
           "instanceId": "17039039075"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-11T07:58:07Z",
-          "instanceId": "17039033858"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-11T07:52:34Z",
-          "instanceId": "17039024519"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-11T07:48:30Z",
-          "instanceId": "17039012899"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-11T07:44:16Z",
-          "instanceId": "17039003751"
         }
       ]
     },
@@ -1378,7 +1378,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1b2c28a8998818b74ff0509d1d7ed7.jpg",
       "powerLevel": 523,
-      "lastPlayedTimestamp": 1783158647000,
+      "lastPlayedTimestamp": 1783940275000,
       "lastActivityTimestamp": 1783157636000,
       "lastActivityText": "Conquista modalità gran maestro: Eliostato: Personalizzata il 04/07/2026 09:33",
       "activities": [
@@ -1703,7 +1703,7 @@
       "title": "Portatore di desideri",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
       "powerLevel": 514,
-      "lastPlayedTimestamp": 1782905130000,
+      "lastPlayedTimestamp": 1783930806000,
       "lastActivityTimestamp": 1782903321000,
       "lastActivityText": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking il 01/07/2026 10:55",
       "activities": [
