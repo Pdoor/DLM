@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T23:00:18.511Z",
+  "generatedAt": "2026-07-13T00:05:31.015Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 530,
-      "lastPlayedTimestamp": 1783897170000,
-      "lastActivityTimestamp": 1783895807000,
-      "lastActivityText": "Controllo: Con matchmaking il 12/07/2026 22:36",
+      "powerLevel": 534,
+      "lastPlayedTimestamp": 1783897888000,
+      "lastActivityTimestamp": 1783897539000,
+      "lastActivityText": "Azzardo: Con matchmaking il 12/07/2026 23:05",
       "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-12T23:05:39Z",
+          "instanceId": "17045574808"
+        },
         {
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-12T22:36:47Z",
@@ -61,11 +66,6 @@
           "name": "Riproposta in evidenza: Gahlran: Pantheon",
           "period": "2026-07-12T18:36:51Z",
           "instanceId": "17044644843"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-12T15:08:04Z",
-          "instanceId": "17044009781"
         }
       ]
     },
@@ -923,7 +923,7 @@
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
       "powerLevel": 515,
-      "lastPlayedTimestamp": 1783796695000,
+      "lastPlayedTimestamp": 1783897628000,
       "lastActivityTimestamp": 1783795977000,
       "lastActivityText": "Equilibrio: Standard il 11/07/2026 18:52",
       "activities": [
