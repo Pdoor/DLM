@@ -1,9 +1,139 @@
 {
-  "generatedAt": "2026-07-13T04:10:21.509Z",
+  "generatedAt": "2026-07-13T07:49:40.217Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1783924467000,
+      "lastActivityTimestamp": 1783923711000,
+      "lastActivityText": "Camera del Chiarore Stellare: Maestro il 13/07/2026 06:21",
+      "activities": [
+        {
+          "name": "Camera del Chiarore Stellare: Maestro",
+          "period": "2026-07-13T06:21:51Z",
+          "instanceId": "17046812704"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-13T06:17:33Z",
+          "instanceId": "17046787695"
+        },
+        {
+          "name": "Oblazione: Immolazione",
+          "period": "2026-07-12T17:01:40Z",
+          "instanceId": "17044479691"
+        },
+        {
+          "name": "Oblazione: Animanutrito",
+          "period": "2026-07-12T16:07:28Z",
+          "instanceId": "17044315074"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-07-12T15:42:40Z",
+          "instanceId": "17044159707"
+        },
+        {
+          "name": "Baia dei Desideri Annegati: Maestro",
+          "period": "2026-07-12T14:59:15Z",
+          "instanceId": "17044006317"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-12T14:58:10Z",
+          "instanceId": "17043961323"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-12T14:55:40Z",
+          "instanceId": "17043954636"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-12T14:52:37Z",
+          "instanceId": "17043946726"
+        },
+        {
+          "name": "Baia dei Desideri Annegati: Maestro",
+          "period": "2026-07-12T11:07:57Z",
+          "instanceId": "17044023917"
+        }
+      ]
+    },
+    {
+      "displayName": "Ghost of Warlock#5159",
+      "membershipId": "4611686018513286564",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
+      "powerLevel": 456,
+      "lastPlayedTimestamp": 1783925288000,
+      "lastActivityTimestamp": 1783923610000,
+      "lastActivityText": "Campi di battaglia: Appiglio: Con matchmaking il 13/07/2026 06:20",
+      "activities": [
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-13T06:20:10Z",
+          "instanceId": "17046804372"
+        },
+        {
+          "name": "La corrotta: Con matchmaking",
+          "period": "2026-07-13T05:51:36Z",
+          "instanceId": "17046772428"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-12T19:40:41Z",
+          "instanceId": "17044894740"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-07-12T14:46:10Z",
+          "instanceId": "17043963930"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-07-12T08:08:45Z",
+          "instanceId": "17043078410"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-07-11T08:02:41Z",
+          "instanceId": "17039039075"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-11T07:58:07Z",
+          "instanceId": "17039033858"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-11T07:52:34Z",
+          "instanceId": "17039024519"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-11T07:48:30Z",
+          "instanceId": "17039012899"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-11T07:44:16Z",
+          "instanceId": "17039003751"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -131,71 +261,6 @@
           "name": "Logistica R1: Personalizzata",
           "period": "2026-07-11T14:58:05Z",
           "instanceId": "17039947594"
-        }
-      ]
-    },
-    {
-      "displayName": "Ghost of Warlock#5159",
-      "membershipId": "4611686018513286564",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1783886381000,
-      "lastActivityTimestamp": 1783885241000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 12/07/2026 19:40",
-      "activities": [
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-12T19:40:41Z",
-          "instanceId": "17044894740"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-07-12T14:46:10Z",
-          "instanceId": "17043963930"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-07-12T08:08:45Z",
-          "instanceId": "17043078410"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-07-11T08:02:41Z",
-          "instanceId": "17039039075"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-11T07:58:07Z",
-          "instanceId": "17039033858"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-11T07:52:34Z",
-          "instanceId": "17039024519"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-11T07:48:30Z",
-          "instanceId": "17039012899"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-11T07:44:16Z",
-          "instanceId": "17039003751"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-07-11T07:42:03Z",
-          "instanceId": "17038994086"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-11T07:39:06Z",
-          "instanceId": "17038989617"
         }
       ]
     },
@@ -456,71 +521,6 @@
           "name": "Cosmodromo",
           "period": "2026-07-12T14:21:20Z",
           "instanceId": "17043867185"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1783878307000,
-      "lastActivityTimestamp": 1783875700000,
-      "lastActivityText": "Oblazione: Immolazione il 12/07/2026 17:01",
-      "activities": [
-        {
-          "name": "Oblazione: Immolazione",
-          "period": "2026-07-12T17:01:40Z",
-          "instanceId": "17044479691"
-        },
-        {
-          "name": "Oblazione: Animanutrito",
-          "period": "2026-07-12T16:07:28Z",
-          "instanceId": "17044315074"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Con matchmaking",
-          "period": "2026-07-12T15:42:40Z",
-          "instanceId": "17044159707"
-        },
-        {
-          "name": "Baia dei Desideri Annegati: Maestro",
-          "period": "2026-07-12T14:59:15Z",
-          "instanceId": "17044006317"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-12T14:58:10Z",
-          "instanceId": "17043961323"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-12T14:55:40Z",
-          "instanceId": "17043954636"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-12T14:52:37Z",
-          "instanceId": "17043946726"
-        },
-        {
-          "name": "Bunker dei caduti: Con matchmaking",
-          "period": "2026-07-12T14:18:51Z",
-          "instanceId": "17043897039"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-12T13:37:57Z",
-          "instanceId": "17043830407"
-        },
-        {
-          "name": "Baia dei Desideri Annegati: Maestro",
-          "period": "2026-07-12T11:07:57Z",
-          "instanceId": "17044023917"
         }
       ]
     },
