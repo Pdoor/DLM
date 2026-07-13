@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T11:18:31.687Z",
+  "generatedAt": "2026-07-13T13:40:24.914Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,30 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 545,
-      "lastPlayedTimestamp": 1783941422000,
-      "lastActivityTimestamp": 1783940766000,
-      "lastActivityText": "La Città Sognante il 13/07/2026 11:06",
+      "lastPlayedTimestamp": 1783948074000,
+      "lastActivityTimestamp": 1783942032000,
+      "lastActivityText": "Camera del Chiarore Stellare: Maestro il 13/07/2026 11:27",
       "activities": [
+        {
+          "name": "Camera del Chiarore Stellare: Maestro",
+          "period": "2026-07-13T11:27:12Z",
+          "instanceId": "17047291350"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-13T11:20:46Z",
+          "instanceId": "17047267737"
+        },
+        {
+          "name": "Camera del Chiarore Stellare: Esperto",
+          "period": "2026-07-13T11:08:30Z",
+          "instanceId": "17047257029"
+        },
         {
           "name": "La Città Sognante",
           "period": "2026-07-13T11:06:06Z",
@@ -51,21 +66,6 @@
           "name": "La Fortezza Scarlatta: Con matchmaking",
           "period": "2026-07-12T15:42:40Z",
           "instanceId": "17044159707"
-        },
-        {
-          "name": "Baia dei Desideri Annegati: Maestro",
-          "period": "2026-07-12T14:59:15Z",
-          "instanceId": "17044006317"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-12T14:58:10Z",
-          "instanceId": "17043961323"
-        },
-        {
-          "name": "Baia dei Desideri Annegati: Maestro",
-          "period": "2026-07-12T11:07:57Z",
-          "instanceId": "17044023917"
         }
       ]
     },
@@ -203,12 +203,12 @@
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
       "powerLevel": 393,
-      "lastPlayedTimestamp": 1783891001000,
+      "lastPlayedTimestamp": 1783949983000,
       "lastActivityTimestamp": 1783888702000,
       "lastActivityText": "Benvenuti alla Frontiera: Normale il 12/07/2026 20:38",
       "activities": [
@@ -338,7 +338,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
       "powerLevel": 495,
-      "lastPlayedTimestamp": 1783880457000,
+      "lastPlayedTimestamp": 1783945429000,
       "lastActivityTimestamp": 1783879806000,
       "lastActivityText": "Terminale Intuitivo: Personalizzata il 12/07/2026 18:10",
       "activities": [
@@ -403,7 +403,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
       "powerLevel": 493,
-      "lastPlayedTimestamp": 1783879282000,
+      "lastPlayedTimestamp": 1783945193000,
       "lastActivityTimestamp": 1783878122000,
       "lastActivityText": "Presagio: Personalizzata il 12/07/2026 17:42",
       "activities": [
@@ -463,12 +463,12 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a5181bb652131991d04ca0d7dfc6cf91.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1783878444000,
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1783949964000,
       "lastActivityTimestamp": 1783875700000,
       "lastActivityText": "Oblazione: Immolazione il 12/07/2026 17:01",
       "activities": [
