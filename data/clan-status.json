@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-14T21:31:53.150Z",
+  "generatedAt": "2026-07-14T23:00:57.643Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
+      "powerLevel": 400,
+      "lastPlayedTimestamp": 1784067279000,
+      "lastActivityTimestamp": 1784067250000,
+      "lastActivityText": "Avamposto di Tharsis il 14/07/2026 22:14",
+      "activities": [
+        {
+          "name": "Avamposto di Tharsis",
+          "period": "2026-07-14T22:14:10Z",
+          "instanceId": "17052349688"
+        },
+        {
+          "name": "Temibile aiutante: Audace",
+          "period": "2026-07-14T21:35:55Z",
+          "instanceId": "17052312521"
+        },
+        {
+          "name": "Benvenuti alla Frontiera: Normale",
+          "period": "2026-07-12T20:38:22Z",
+          "instanceId": "17045140147"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-07-12T11:31:56Z",
+          "instanceId": "17043524679"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-12T10:24:37Z",
+          "instanceId": "17043355844"
+        },
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-07-12T10:05:31Z",
+          "instanceId": "17043318082"
+        },
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-07-12T09:49:09Z",
+          "instanceId": "17043291257"
+        },
+        {
+          "name": "Bunker dei caduti: Con matchmaking",
+          "period": "2026-07-11T19:55:28Z",
+          "instanceId": "17040925992"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-11T15:34:22Z",
+          "instanceId": "17040078027"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-11T15:22:06Z",
+          "instanceId": "17040020828"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -34,6 +99,11 @@
         },
         {
           "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-14T18:21:24Z",
+          "instanceId": "17052368325"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
           "period": "2026-07-14T18:14:16Z",
           "instanceId": "17051714376"
         },
@@ -56,11 +126,6 @@
           "name": "Promessa del Discepolo: Standard",
           "period": "2026-07-14T14:33:19Z",
           "instanceId": "17051295596"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-14T14:15:40Z",
-          "instanceId": "17051141764"
         },
         {
           "name": "La radice degli incubi: Standard",
@@ -586,71 +651,6 @@
           "name": "Orlo della Salvezza: Standard",
           "period": "2026-07-12T13:30:11Z",
           "instanceId": "17043748092"
-        }
-      ]
-    },
-    {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
-      "powerLevel": 400,
-      "lastPlayedTimestamp": 1784064665000,
-      "lastActivityTimestamp": 1783888702000,
-      "lastActivityText": "Benvenuti alla Frontiera: Normale il 12/07/2026 20:38",
-      "activities": [
-        {
-          "name": "Benvenuti alla Frontiera: Normale",
-          "period": "2026-07-12T20:38:22Z",
-          "instanceId": "17045140147"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-07-12T11:31:56Z",
-          "instanceId": "17043524679"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-12T10:24:37Z",
-          "instanceId": "17043355844"
-        },
-        {
-          "name": "Miniere di Sale: Personalizzata",
-          "period": "2026-07-12T10:05:31Z",
-          "instanceId": "17043318082"
-        },
-        {
-          "name": "Miniere di Sale: Personalizzata",
-          "period": "2026-07-12T09:49:09Z",
-          "instanceId": "17043291257"
-        },
-        {
-          "name": "Bunker dei caduti: Con matchmaking",
-          "period": "2026-07-11T19:55:28Z",
-          "instanceId": "17040925992"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-11T15:34:22Z",
-          "instanceId": "17040078027"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-11T15:22:06Z",
-          "instanceId": "17040020828"
-        },
-        {
-          "name": "Pinnacolo di Savathûn: Personalizzata",
-          "period": "2026-07-11T15:18:43Z",
-          "instanceId": "17039985887"
-        },
-        {
-          "name": "Logistica R1: Personalizzata",
-          "period": "2026-07-11T14:58:05Z",
-          "instanceId": "17039947594"
         }
       ]
     },
