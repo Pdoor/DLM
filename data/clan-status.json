@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-14T08:17:26.180Z",
+  "generatedAt": "2026-07-14T10:18:41.945Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784020083000,
+      "lastActivityTimestamp": 1784018128000,
+      "lastActivityText": "Terreni di Prova il 14/07/2026 08:35",
+      "activities": [
+        {
+          "name": "Terreni di Prova",
+          "period": "2026-07-14T08:35:28Z",
+          "instanceId": "17050585058"
+        },
+        {
+          "name": "Schianto dell'Esodo",
+          "period": "2026-07-14T08:31:31Z",
+          "instanceId": "17050530100"
+        },
+        {
+          "name": "Primo contatto: Leggendaria",
+          "period": "2026-07-14T08:09:42Z",
+          "instanceId": "17050512329"
+        },
+        {
+          "name": "Soli e al freddo: Leggendaria",
+          "period": "2026-06-19T16:30:18Z",
+          "instanceId": "16937088956"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Audace",
+          "period": "2026-06-19T16:23:02Z",
+          "instanceId": "16937002880"
+        },
+        {
+          "name": "Cala la Notte: Esperto",
+          "period": "2026-05-24T17:52:39Z",
+          "instanceId": "16849424642"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Personalizzata",
+          "period": "2026-05-13T13:24:53Z",
+          "instanceId": "16841379025"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-05-13T13:23:19Z",
+          "instanceId": "16841378489"
+        },
+        {
+          "name": "Carica: Normale",
+          "period": "2026-05-13T12:40:49Z",
+          "instanceId": "16841378297"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-05-13T12:28:33Z",
+          "instanceId": "16841363215"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -597,8 +662,8 @@
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 522,
-      "lastPlayedTimestamp": 1784016808000,
+      "powerLevel": 514,
+      "lastPlayedTimestamp": 1784024300000,
       "lastActivityTimestamp": 1783806928000,
       "lastActivityText": "Partita veloce: maestro: Maestro il 11/07/2026 21:55",
       "activities": [
@@ -2276,71 +2341,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-06-17T17:50:52Z",
           "instanceId": "16925217960"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1784016936000,
-      "lastActivityTimestamp": 1781886618000,
-      "lastActivityText": "Soli e al freddo: Leggendaria il 19/06/2026 16:30",
-      "activities": [
-        {
-          "name": "Soli e al freddo: Leggendaria",
-          "period": "2026-06-19T16:30:18Z",
-          "instanceId": "16937088956"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Audace",
-          "period": "2026-06-19T16:23:02Z",
-          "instanceId": "16937002880"
-        },
-        {
-          "name": "Cala la Notte: Esperto",
-          "period": "2026-05-24T17:52:39Z",
-          "instanceId": "16849424642"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Personalizzata",
-          "period": "2026-05-13T13:24:53Z",
-          "instanceId": "16841379025"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-05-13T13:23:19Z",
-          "instanceId": "16841378489"
-        },
-        {
-          "name": "Carica: Normale",
-          "period": "2026-05-13T12:40:49Z",
-          "instanceId": "16841378297"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-05-13T12:28:33Z",
-          "instanceId": "16841363215"
-        },
-        {
-          "name": "Avamposto di Tharsis",
-          "period": "2026-05-13T12:23:09Z",
-          "instanceId": "16841358989"
-        },
-        {
-          "name": "Temibile aiutante: Audace",
-          "period": "2026-05-13T11:54:13Z",
-          "instanceId": "16841355603"
-        },
-        {
-          "name": "La Tana dei Diavoli: Personalizzata",
-          "period": "2026-05-12T17:26:34Z",
-          "instanceId": "16840799760"
         }
       ]
     },
