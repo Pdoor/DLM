@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T05:53:43.795Z",
+  "generatedAt": "2026-07-14T08:17:26.180Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -77,8 +77,8 @@
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1783968336000,
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1784009910000,
       "lastActivityTimestamp": 1783967137000,
       "lastActivityText": "Partita veloce: maestro: Maestro il 13/07/2026 18:25",
       "activities": [
@@ -131,71 +131,6 @@
           "name": "La Città Sognante",
           "period": "2026-07-13T06:17:33Z",
           "instanceId": "17046787695"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a5181bb652131991d04ca0d7dfc6cf91.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1783965913000,
-      "lastActivityTimestamp": 1783961681000,
-      "lastActivityText": "Oblazione: Animanutrito il 13/07/2026 16:54",
-      "activities": [
-        {
-          "name": "Oblazione: Animanutrito",
-          "period": "2026-07-13T16:54:41Z",
-          "instanceId": "17048108198"
-        },
-        {
-          "name": "L'Oscura Sacerdotessa: Personalizzata",
-          "period": "2026-07-13T15:48:53Z",
-          "instanceId": "17047829192"
-        },
-        {
-          "name": "La Guerriera: Personalizzata",
-          "period": "2026-07-13T15:32:41Z",
-          "instanceId": "17047783466"
-        },
-        {
-          "name": "Missione bestiale: L'invito: Bestiale",
-          "period": "2026-07-13T14:49:26Z",
-          "instanceId": "17047745131"
-        },
-        {
-          "name": "Perdizione: Esperto",
-          "period": "2026-07-13T14:24:32Z",
-          "instanceId": "17047606942"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-13T14:21:15Z",
-          "instanceId": "17047596525"
-        },
-        {
-          "name": "Riforgiare il passato",
-          "period": "2026-07-13T14:03:17Z",
-          "instanceId": "17047589990"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-13T14:02:25Z",
-          "instanceId": "17047552449"
-        },
-        {
-          "name": "Terreni di Prova",
-          "period": "2026-07-13T13:28:21Z",
-          "instanceId": "17048108578"
-        },
-        {
-          "name": "Oblazione: Immolazione",
-          "period": "2026-07-12T17:01:40Z",
-          "instanceId": "17044479691"
         }
       ]
     },
@@ -658,12 +593,12 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 522,
-      "lastPlayedTimestamp": 1783808555000,
+      "lastPlayedTimestamp": 1784016808000,
       "lastActivityTimestamp": 1783806928000,
       "lastActivityText": "Partita veloce: maestro: Maestro il 11/07/2026 21:55",
       "activities": [
@@ -2341,6 +2276,71 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-06-17T17:50:52Z",
           "instanceId": "16925217960"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784016936000,
+      "lastActivityTimestamp": 1781886618000,
+      "lastActivityText": "Soli e al freddo: Leggendaria il 19/06/2026 16:30",
+      "activities": [
+        {
+          "name": "Soli e al freddo: Leggendaria",
+          "period": "2026-06-19T16:30:18Z",
+          "instanceId": "16937088956"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Audace",
+          "period": "2026-06-19T16:23:02Z",
+          "instanceId": "16937002880"
+        },
+        {
+          "name": "Cala la Notte: Esperto",
+          "period": "2026-05-24T17:52:39Z",
+          "instanceId": "16849424642"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Personalizzata",
+          "period": "2026-05-13T13:24:53Z",
+          "instanceId": "16841379025"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-05-13T13:23:19Z",
+          "instanceId": "16841378489"
+        },
+        {
+          "name": "Carica: Normale",
+          "period": "2026-05-13T12:40:49Z",
+          "instanceId": "16841378297"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-05-13T12:28:33Z",
+          "instanceId": "16841363215"
+        },
+        {
+          "name": "Avamposto di Tharsis",
+          "period": "2026-05-13T12:23:09Z",
+          "instanceId": "16841358989"
+        },
+        {
+          "name": "Temibile aiutante: Audace",
+          "period": "2026-05-13T11:54:13Z",
+          "instanceId": "16841355603"
+        },
+        {
+          "name": "La Tana dei Diavoli: Personalizzata",
+          "period": "2026-05-12T17:26:34Z",
+          "instanceId": "16840799760"
         }
       ]
     },
