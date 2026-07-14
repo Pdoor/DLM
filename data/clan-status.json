@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-14T10:18:41.945Z",
+  "generatedAt": "2026-07-14T11:56:47.432Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 522,
+      "lastPlayedTimestamp": 1784026256000,
+      "lastActivityTimestamp": 1784024740000,
+      "lastActivityText": "La Città Sognante il 14/07/2026 10:25",
+      "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-14T10:25:40Z",
+          "instanceId": "17050717430"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-11T21:55:28Z",
+          "instanceId": "17041284836"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Personalizzata",
+          "period": "2026-07-11T21:38:28Z",
+          "instanceId": "17041250408"
+        },
+        {
+          "name": "Ora zero: Personalizzata",
+          "period": "2026-07-11T21:11:43Z",
+          "instanceId": "17041194098"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-07-11T20:48:14Z",
+          "instanceId": "17041082540"
+        },
+        {
+          "name": "Bunker dei caduti: Con matchmaking",
+          "period": "2026-07-11T20:28:59Z",
+          "instanceId": "17041030269"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-07-11T20:10:46Z",
+          "instanceId": "17040963089"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-11T19:40:31Z",
+          "instanceId": "17040845395"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-11T17:28:26Z",
+          "instanceId": "17040401581"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-07-11T17:01:49Z",
+          "instanceId": "17040364583"
+        }
+      ]
+    },
     {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
@@ -651,71 +716,6 @@
           "name": "Zona Morta Europea",
           "period": "2026-07-12T15:06:08Z",
           "instanceId": "17044010208"
-        }
-      ]
-    },
-    {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 514,
-      "lastPlayedTimestamp": 1784024300000,
-      "lastActivityTimestamp": 1783806928000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 11/07/2026 21:55",
-      "activities": [
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-11T21:55:28Z",
-          "instanceId": "17041284836"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Personalizzata",
-          "period": "2026-07-11T21:38:28Z",
-          "instanceId": "17041250408"
-        },
-        {
-          "name": "Ora zero: Personalizzata",
-          "period": "2026-07-11T21:11:43Z",
-          "instanceId": "17041194098"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Con matchmaking",
-          "period": "2026-07-11T20:48:14Z",
-          "instanceId": "17041082540"
-        },
-        {
-          "name": "Bunker dei caduti: Con matchmaking",
-          "period": "2026-07-11T20:28:59Z",
-          "instanceId": "17041030269"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-07-11T20:10:46Z",
-          "instanceId": "17040963089"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-11T19:40:31Z",
-          "instanceId": "17040845395"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-11T17:28:26Z",
-          "instanceId": "17040401581"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-07-11T17:01:49Z",
-          "instanceId": "17040364583"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-07-11T08:47:54Z",
-          "instanceId": "17039170610"
         }
       ]
     },
