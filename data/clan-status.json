@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T18:41:22.052Z",
+  "generatedAt": "2026-07-14T20:16:57.863Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 531,
-      "lastPlayedTimestamp": 1784054470000,
-      "lastActivityTimestamp": 1784053690000,
-      "lastActivityText": "Azzardo: Con matchmaking il 14/07/2026 18:28",
+      "lastPlayedTimestamp": 1784054865000,
+      "lastActivityTimestamp": 1784054453000,
+      "lastActivityText": "Azzardo: Con matchmaking il 14/07/2026 18:40",
       "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-14T18:40:53Z",
+          "instanceId": "17051786959"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-14T18:34:26Z",
+          "instanceId": "17051764987"
+        },
         {
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-14T18:28:10Z",
@@ -53,19 +63,9 @@
           "instanceId": "17051141764"
         },
         {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-07-14T00:53:05Z",
-          "instanceId": "17049410531"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-07-14T00:26:52Z",
-          "instanceId": "17049345791"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-07-13T23:18:11Z",
-          "instanceId": "17049261395"
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-07-14T13:44:53Z",
+          "instanceId": "17051843904"
         }
       ]
     },
@@ -593,7 +593,7 @@
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
@@ -976,71 +976,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-05T22:50:12Z",
           "instanceId": "17018186774"
-        }
-      ]
-    },
-    {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
-      "powerLevel": 304,
-      "lastPlayedTimestamp": 1783792966000,
-      "lastActivityTimestamp": 1783792890000,
-      "lastActivityText": "Neomuna il 11/07/2026 18:01",
-      "activities": [
-        {
-          "name": "Neomuna",
-          "period": "2026-07-11T18:01:30Z",
-          "instanceId": "17040477409"
-        },
-        {
-          "name": "A testa bassa: Normale",
-          "period": "2026-07-11T17:55:45Z",
-          "instanceId": "17040472036"
-        },
-        {
-          "name": "A testa bassa: Normale",
-          "period": "2026-07-11T17:38:56Z",
-          "instanceId": "17040451147"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-11T17:35:26Z",
-          "instanceId": "17040397380"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Normale",
-          "period": "2026-07-11T17:22:46Z",
-          "instanceId": "17040389315"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-11T17:15:58Z",
-          "instanceId": "17040342690"
-        },
-        {
-          "name": "Non resta molto tempo: Normale",
-          "period": "2026-07-11T16:55:54Z",
-          "instanceId": "17040320471"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-11T16:50:15Z",
-          "instanceId": "17040263524"
-        },
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-07-11T15:57:55Z",
-          "instanceId": "17040200210"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-06T17:35:04Z",
-          "instanceId": "17021175150"
         }
       ]
     },
@@ -1951,6 +1886,71 @@
           "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
           "period": "2026-06-23T22:12:50Z",
           "instanceId": "16963621077"
+        }
+      ]
+    },
+    {
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/19c19292462c171c82216996684fea0d.jpg",
+      "powerLevel": 339,
+      "lastPlayedTimestamp": 1784056585000,
+      "lastActivityTimestamp": 1782661307000,
+      "lastActivityText": "Ultimo desiderio: Standard il 28/06/2026 15:41",
+      "activities": [
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T15:41:47Z",
+          "instanceId": "16986344347"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T15:29:04Z",
+          "instanceId": "16986276031"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T15:21:00Z",
+          "instanceId": "16986223965"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T15:13:18Z",
+          "instanceId": "16986189270"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T15:02:11Z",
+          "instanceId": "16986158262"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T14:43:55Z",
+          "instanceId": "16986112613"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T14:33:26Z",
+          "instanceId": "16987074569"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T14:22:56Z",
+          "instanceId": "16986000019"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T14:13:14Z",
+          "instanceId": "16985960243"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T14:04:15Z",
+          "instanceId": "16985924374"
         }
       ]
     },
