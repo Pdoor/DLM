@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T11:10:31.156Z",
+  "generatedAt": "2026-07-15T12:53:03.886Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1784113724000,
-      "lastActivityTimestamp": 1784107664000,
-      "lastActivityText": "Campi di battaglia: Appiglio: Con matchmaking il 15/07/2026 09:27",
+      "lastPlayedTimestamp": 1784119942000,
+      "lastActivityTimestamp": 1784112546000,
+      "lastActivityText": "Morsa della cupidigia: Maestro il 15/07/2026 10:49",
       "activities": [
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-07-15T10:49:06Z",
+          "instanceId": "17054064806"
+        },
         {
           "name": "Campi di battaglia: Appiglio: Con matchmaking",
           "period": "2026-07-15T09:27:44Z",
@@ -61,11 +66,6 @@
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-07-13T18:25:37Z",
           "instanceId": "17048231575"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-13T18:12:57Z",
-          "instanceId": "17048177895"
         }
       ]
     },
