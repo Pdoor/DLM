@@ -1,19 +1,84 @@
 {
-  "generatedAt": "2026-07-15T16:39:36.372Z",
+  "generatedAt": "2026-07-15T18:12:35.731Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a5181bb652131991d04ca0d7dfc6cf91.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1784137242000,
+      "lastActivityTimestamp": 1784136061000,
+      "lastActivityText": "La Tana dei Diavoli il 15/07/2026 17:21",
+      "activities": [
+        {
+          "name": "La Tana dei Diavoli",
+          "period": "2026-07-15T17:21:01Z",
+          "instanceId": "17054852077"
+        },
+        {
+          "name": "La Tana dei Diavoli",
+          "period": "2026-07-15T17:12:36Z",
+          "instanceId": "17054787904"
+        },
+        {
+          "name": "Lago di ombre",
+          "period": "2026-07-15T16:57:51Z",
+          "instanceId": "17054777524"
+        },
+        {
+          "name": "Trafficante d'armi",
+          "period": "2026-07-15T16:39:59Z",
+          "instanceId": "17054745704"
+        },
+        {
+          "name": "Oblazione: Immolazione",
+          "period": "2026-07-14T16:51:20Z",
+          "instanceId": "17051641920"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-14T16:02:47Z",
+          "instanceId": "17051452566"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-07-14T15:04:35Z",
+          "instanceId": "17051246069"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-14T15:03:17Z",
+          "instanceId": "17051238671"
+        },
+        {
+          "name": "La nuova Kell",
+          "period": "2026-07-14T14:52:11Z",
+          "instanceId": "17051236796"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-14T14:50:14Z",
+          "instanceId": "17051210636"
+        }
+      ]
+    },
+    {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 530,
-      "lastPlayedTimestamp": 1784131891000,
+      "lastPlayedTimestamp": 1784138830000,
       "lastActivityTimestamp": 1784131269000,
       "lastActivityText": "Partita veloce: maestro: Maestro il 15/07/2026 16:01",
       "activities": [
@@ -391,71 +456,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-06-24T18:26:00Z",
           "instanceId": "16966814481"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a5181bb652131991d04ca0d7dfc6cf91.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1784051747000,
-      "lastActivityTimestamp": 1784047880000,
-      "lastActivityText": "Oblazione: Immolazione il 14/07/2026 16:51",
-      "activities": [
-        {
-          "name": "Oblazione: Immolazione",
-          "period": "2026-07-14T16:51:20Z",
-          "instanceId": "17051641920"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-14T16:02:47Z",
-          "instanceId": "17051452566"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-14T15:04:35Z",
-          "instanceId": "17051246069"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-14T15:03:17Z",
-          "instanceId": "17051238671"
-        },
-        {
-          "name": "La nuova Kell",
-          "period": "2026-07-14T14:52:11Z",
-          "instanceId": "17051236796"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-14T14:50:14Z",
-          "instanceId": "17051210636"
-        },
-        {
-          "name": "Oblazione: Immolazione",
-          "period": "2026-07-14T13:49:36Z",
-          "instanceId": "17051204067"
-        },
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-07-14T13:21:47Z",
-          "instanceId": "17051058082"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-14T07:26:37Z",
-          "instanceId": "17050444935"
-        },
-        {
-          "name": "Pinnacolo di Savathûn: Personalizzata",
-          "period": "2026-07-14T06:54:10Z",
-          "instanceId": "17050405651"
         }
       ]
     },
@@ -988,7 +988,7 @@
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
       "powerLevel": 515,
-      "lastPlayedTimestamp": 1784072139000,
+      "lastPlayedTimestamp": 1784135004000,
       "lastActivityTimestamp": 1783795977000,
       "lastActivityText": "Equilibrio: Standard il 11/07/2026 18:52",
       "activities": [
