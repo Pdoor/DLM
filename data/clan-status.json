@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-15T04:09:04.524Z",
+  "generatedAt": "2026-07-15T06:37:17.109Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784097376000,
+      "lastActivityTimestamp": 1784095480000,
+      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 15/07/2026 06:04",
+      "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-15T06:04:40Z",
+          "instanceId": "17053638482"
+        },
+        {
+          "name": "Oblazione: Immolazione",
+          "period": "2026-07-14T16:51:20Z",
+          "instanceId": "17051641920"
+        },
+        {
+          "name": "Oblazione: Immolazione",
+          "period": "2026-07-14T13:49:36Z",
+          "instanceId": "17051204067"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-07-14T13:21:47Z",
+          "instanceId": "17051058082"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-14T12:08:56Z",
+          "instanceId": "17050910845"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-13T18:25:37Z",
+          "instanceId": "17048231575"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-13T18:12:57Z",
+          "instanceId": "17048177895"
+        },
+        {
+          "name": "Oblazione: Animanutrito",
+          "period": "2026-07-13T16:54:41Z",
+          "instanceId": "17048108198"
+        },
+        {
+          "name": "Camera del Chiarore Stellare: Maestro",
+          "period": "2026-07-13T11:27:12Z",
+          "instanceId": "17047291350"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-13T11:20:46Z",
+          "instanceId": "17047267737"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -196,71 +261,6 @@
           "name": "Pinnacolo di Savathûn: Personalizzata",
           "period": "2026-07-14T06:54:10Z",
           "instanceId": "17050405651"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1784051551000,
-      "lastActivityTimestamp": 1784047880000,
-      "lastActivityText": "Oblazione: Immolazione il 14/07/2026 16:51",
-      "activities": [
-        {
-          "name": "Oblazione: Immolazione",
-          "period": "2026-07-14T16:51:20Z",
-          "instanceId": "17051641920"
-        },
-        {
-          "name": "Oblazione: Immolazione",
-          "period": "2026-07-14T13:49:36Z",
-          "instanceId": "17051204067"
-        },
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-07-14T13:21:47Z",
-          "instanceId": "17051058082"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-14T12:08:56Z",
-          "instanceId": "17050910845"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-13T18:25:37Z",
-          "instanceId": "17048231575"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-13T18:12:57Z",
-          "instanceId": "17048177895"
-        },
-        {
-          "name": "Oblazione: Animanutrito",
-          "period": "2026-07-13T16:54:41Z",
-          "instanceId": "17048108198"
-        },
-        {
-          "name": "Camera del Chiarore Stellare: Maestro",
-          "period": "2026-07-13T11:27:12Z",
-          "instanceId": "17047291350"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-13T11:20:46Z",
-          "instanceId": "17047267737"
-        },
-        {
-          "name": "Camera del Chiarore Stellare: Esperto",
-          "period": "2026-07-13T11:08:30Z",
-          "instanceId": "17047257029"
         }
       ]
     },
