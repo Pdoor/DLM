@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T21:05:00.586Z",
+  "generatedAt": "2026-07-15T22:31:32.733Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 543,
-      "lastPlayedTimestamp": 1784149396000,
-      "lastActivityTimestamp": 1784146178000,
-      "lastActivityText": "Luna il 15/07/2026 20:09",
+      "powerLevel": 541,
+      "lastPlayedTimestamp": 1784152102000,
+      "lastActivityTimestamp": 1784150455000,
+      "lastActivityText": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata il 15/07/2026 21:20",
       "activities": [
+        {
+          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
+          "period": "2026-07-15T21:20:55Z",
+          "instanceId": "17055474007"
+        },
         {
           "name": "Luna",
           "period": "2026-07-15T20:09:38Z",
@@ -38,6 +43,11 @@
           "instanceId": "17055195047"
         },
         {
+          "name": "Equilibrio: Standard",
+          "period": "2026-07-15T19:32:33Z",
+          "instanceId": "17055391508"
+        },
+        {
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-15T19:01:34Z",
           "instanceId": "17055082296"
@@ -56,16 +66,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-15T18:15:38Z",
           "instanceId": "17054956299"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-15T16:01:09Z",
-          "instanceId": "17054643557"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-15T15:29:24Z",
-          "instanceId": "17054575359"
         }
       ]
     },
@@ -333,12 +333,12 @@
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
       "powerLevel": 404,
-      "lastPlayedTimestamp": 1784149402000,
+      "lastPlayedTimestamp": 1784153212000,
       "lastActivityTimestamp": 1784128538000,
       "lastActivityText": "Soli e al freddo: Audace il 15/07/2026 15:15",
       "activities": [
@@ -1052,8 +1052,8 @@
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 405,
-      "lastPlayedTimestamp": 1783791750000,
+      "powerLevel": 465,
+      "lastPlayedTimestamp": 1784151628000,
       "lastActivityTimestamp": 1783791536000,
       "lastActivityText": "A testa bassa: Normale il 11/07/2026 17:38",
       "activities": [
