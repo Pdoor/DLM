@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T06:37:17.109Z",
+  "generatedAt": "2026-07-15T09:12:17.069Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1784097376000,
-      "lastActivityTimestamp": 1784095480000,
-      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 15/07/2026 06:04",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1784100290000,
+      "lastActivityTimestamp": 1784098074000,
+      "lastActivityText": "Terminale Intuitivo: Con matchmaking il 15/07/2026 06:47",
       "activities": [
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-07-15T06:47:54Z",
+          "instanceId": "17053720922"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-07-15T06:27:02Z",
+          "instanceId": "17053698421"
+        },
         {
           "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
           "period": "2026-07-15T06:04:40Z",
@@ -56,16 +66,6 @@
           "name": "Oblazione: Animanutrito",
           "period": "2026-07-13T16:54:41Z",
           "instanceId": "17048108198"
-        },
-        {
-          "name": "Camera del Chiarore Stellare: Maestro",
-          "period": "2026-07-13T11:27:12Z",
-          "instanceId": "17047291350"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-13T11:20:46Z",
-          "instanceId": "17047267737"
         }
       ]
     },
