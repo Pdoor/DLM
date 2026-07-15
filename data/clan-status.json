@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T09:12:17.069Z",
+  "generatedAt": "2026-07-15T11:10:31.156Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1784100290000,
-      "lastActivityTimestamp": 1784098074000,
-      "lastActivityText": "Terminale Intuitivo: Con matchmaking il 15/07/2026 06:47",
+      "lastPlayedTimestamp": 1784113724000,
+      "lastActivityTimestamp": 1784107664000,
+      "lastActivityText": "Campi di battaglia: Appiglio: Con matchmaking il 15/07/2026 09:27",
       "activities": [
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-15T09:27:44Z",
+          "instanceId": "17053952836"
+        },
         {
           "name": "Terminale Intuitivo: Con matchmaking",
           "period": "2026-07-15T06:47:54Z",
@@ -61,11 +66,6 @@
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-07-13T18:12:57Z",
           "instanceId": "17048177895"
-        },
-        {
-          "name": "Oblazione: Animanutrito",
-          "period": "2026-07-13T16:54:41Z",
-          "instanceId": "17048108198"
         }
       ]
     },
