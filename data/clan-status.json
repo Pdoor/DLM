@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T06:23:17.380Z",
+  "generatedAt": "2026-07-16T08:41:40.948Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -79,9 +79,14 @@
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 535,
       "lastPlayedTimestamp": 1784172742000,
-      "lastActivityTimestamp": 1784171637000,
-      "lastActivityText": "Giardini Exodus 2A: Maestro il 16/07/2026 03:13",
+      "lastActivityTimestamp": 1784171861000,
+      "lastActivityText": "Cosmodromo il 16/07/2026 03:17",
       "activities": [
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-16T03:17:41Z",
+          "instanceId": "17057029287"
+        },
         {
           "name": "Giardini Exodus 2A: Maestro",
           "period": "2026-07-16T03:13:57Z",
@@ -121,11 +126,6 @@
           "name": "Luna",
           "period": "2026-07-15T20:09:38Z",
           "instanceId": "17055338266"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-07-15T20:03:18Z",
-          "instanceId": "17055225460"
         },
         {
           "name": "Equilibrio: Standard",
