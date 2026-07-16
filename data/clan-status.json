@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-16T03:48:12.931Z",
+  "generatedAt": "2026-07-16T06:23:17.380Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1784182043000,
+      "lastActivityTimestamp": 1784180672000,
+      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 16/07/2026 05:44",
+      "activities": [
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-16T05:44:32Z",
+          "instanceId": "17056871476"
+        },
+        {
+          "name": "Il Ponte di Vetro: Personalizzata",
+          "period": "2026-07-15T15:35:17Z",
+          "instanceId": "17054599685"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-07-15T14:45:43Z",
+          "instanceId": "17054491189"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-07-15T14:26:18Z",
+          "instanceId": "17054433002"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-07-15T13:30:36Z",
+          "instanceId": "17054319635"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-07-15T13:15:02Z",
+          "instanceId": "17054298036"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-15T12:55:07Z",
+          "instanceId": "17054266968"
+        },
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-07-15T10:49:06Z",
+          "instanceId": "17054064806"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-15T09:27:44Z",
+          "instanceId": "17053952836"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-07-15T06:47:54Z",
+          "instanceId": "17053720922"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -196,71 +261,6 @@
           "name": "Europa",
           "period": "2026-07-14T14:50:14Z",
           "instanceId": "17051210636"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1784132536000,
-      "lastActivityTimestamp": 1784129717000,
-      "lastActivityText": "Il Ponte di Vetro: Personalizzata il 15/07/2026 15:35",
-      "activities": [
-        {
-          "name": "Il Ponte di Vetro: Personalizzata",
-          "period": "2026-07-15T15:35:17Z",
-          "instanceId": "17054599685"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-15T14:45:43Z",
-          "instanceId": "17054491189"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-07-15T14:26:18Z",
-          "instanceId": "17054433002"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-07-15T13:30:36Z",
-          "instanceId": "17054319635"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-07-15T13:15:02Z",
-          "instanceId": "17054298036"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-15T12:55:07Z",
-          "instanceId": "17054266968"
-        },
-        {
-          "name": "Morsa della cupidigia: Maestro",
-          "period": "2026-07-15T10:49:06Z",
-          "instanceId": "17054064806"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-07-15T09:27:44Z",
-          "instanceId": "17053952836"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-07-15T06:47:54Z",
-          "instanceId": "17053720922"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-07-15T06:27:02Z",
-          "instanceId": "17053698421"
         }
       ]
     },
