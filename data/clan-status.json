@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T21:07:28.092Z",
+  "generatedAt": "2026-07-16T22:30:32.228Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,30 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 541,
-      "lastPlayedTimestamp": 1784235979000,
-      "lastActivityTimestamp": 1784235332000,
-      "lastActivityText": "Azzardo: Con matchmaking il 16/07/2026 20:55",
+      "powerLevel": 544,
+      "lastPlayedTimestamp": 1784236966000,
+      "lastActivityTimestamp": 1784236598000,
+      "lastActivityText": "Azzardo: Con matchmaking il 16/07/2026 21:16",
       "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-16T21:16:38Z",
+          "instanceId": "17058733557"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-16T21:10:07Z",
+          "instanceId": "17058715770"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-16T21:03:26Z",
+          "instanceId": "17058696687"
+        },
         {
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-16T20:55:32Z",
@@ -51,21 +66,6 @@
           "name": "Cosmodromo",
           "period": "2026-07-16T03:07:05Z",
           "instanceId": "17056447113"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-07-16T02:49:30Z",
-          "instanceId": "17056439774"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-16T01:56:57Z",
-          "instanceId": "17056246021"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
-          "period": "2026-07-15T21:20:55Z",
-          "instanceId": "17055474007"
         }
       ]
     },
@@ -1053,7 +1053,7 @@
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
       "powerLevel": 515,
-      "lastPlayedTimestamp": 1784135004000,
+      "lastPlayedTimestamp": 1784238871000,
       "lastActivityTimestamp": 1783795977000,
       "lastActivityText": "Equilibrio: Standard il 11/07/2026 18:52",
       "activities": [
@@ -1313,7 +1313,7 @@
       "title": "Leggenda",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/d27e8ff42082bb9a237522a9a306e3ac.jpg",
       "powerLevel": 468,
-      "lastPlayedTimestamp": 1783456957000,
+      "lastPlayedTimestamp": 1784237732000,
       "lastActivityTimestamp": 1783248490000,
       "lastActivityText": "Confluenza: Personalizzata il 05/07/2026 10:48",
       "activities": [
