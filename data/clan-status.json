@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T00:03:06.478Z",
+  "generatedAt": "2026-07-16T03:48:12.931Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,41 @@
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 541,
-      "lastPlayedTimestamp": 1784152102000,
-      "lastActivityTimestamp": 1784150455000,
-      "lastActivityText": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata il 15/07/2026 21:20",
+      "powerLevel": 535,
+      "lastPlayedTimestamp": 1784172742000,
+      "lastActivityTimestamp": 1784171637000,
+      "lastActivityText": "Giardini Exodus 2A: Maestro il 16/07/2026 03:13",
       "activities": [
+        {
+          "name": "Giardini Exodus 2A: Maestro",
+          "period": "2026-07-16T03:13:57Z",
+          "instanceId": "17056472037"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-16T03:13:12Z",
+          "instanceId": "17056461005"
+        },
+        {
+          "name": "Giardini Exodus 2A: Maestro",
+          "period": "2026-07-16T03:09:29Z",
+          "instanceId": "17056457824"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-16T03:07:05Z",
+          "instanceId": "17056447113"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-07-16T02:49:30Z",
+          "instanceId": "17056439774"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-16T01:56:57Z",
+          "instanceId": "17056246021"
+        },
         {
           "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
           "period": "2026-07-15T21:20:55Z",
@@ -33,39 +63,9 @@
           "instanceId": "17055225460"
         },
         {
-          "name": "Pallido Cuore",
-          "period": "2026-07-15T20:00:21Z",
-          "instanceId": "17055214839"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-15T19:42:12Z",
-          "instanceId": "17055195047"
-        },
-        {
           "name": "Equilibrio: Standard",
           "period": "2026-07-15T19:32:33Z",
           "instanceId": "17055391508"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-15T19:01:34Z",
-          "instanceId": "17055082296"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-15T18:29:34Z",
-          "instanceId": "17055019453"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-15T18:22:32Z",
-          "instanceId": "17054973293"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-15T18:15:38Z",
-          "instanceId": "17054956299"
         }
       ]
     },
