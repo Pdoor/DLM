@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T08:41:40.948Z",
+  "generatedAt": "2026-07-16T11:04:26.920Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,30 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1784182043000,
-      "lastActivityTimestamp": 1784180672000,
-      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 16/07/2026 05:44",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784199755000,
+      "lastActivityTimestamp": 1784197501000,
+      "lastActivityText": "La Città Sognante il 16/07/2026 10:25",
       "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-16T10:25:01Z",
+          "instanceId": "17057336136"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-16T10:00:16Z",
+          "instanceId": "17057289114"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-07-16T09:23:26Z",
+          "instanceId": "17057237428"
+        },
         {
           "name": "Il Ponte di Vetro: Con matchmaking",
           "period": "2026-07-16T05:44:32Z",
@@ -51,21 +66,6 @@
           "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
           "period": "2026-07-15T12:55:07Z",
           "instanceId": "17054266968"
-        },
-        {
-          "name": "Morsa della cupidigia: Maestro",
-          "period": "2026-07-15T10:49:06Z",
-          "instanceId": "17054064806"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-07-15T09:27:44Z",
-          "instanceId": "17053952836"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-07-15T06:47:54Z",
-          "instanceId": "17053720922"
         }
       ]
     },
