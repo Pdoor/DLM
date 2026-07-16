@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T22:31:32.733Z",
+  "generatedAt": "2026-07-16T00:03:06.478Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -66,6 +66,71 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-15T18:15:38Z",
           "instanceId": "17054956299"
+        }
+      ]
+    },
+    {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
+      "powerLevel": 404,
+      "lastPlayedTimestamp": 1784153212000,
+      "lastActivityTimestamp": 1784149365000,
+      "lastActivityText": "Rovina della Signora della Guerra: Standard il 15/07/2026 21:02",
+      "activities": [
+        {
+          "name": "Rovina della Signora della Guerra: Standard",
+          "period": "2026-07-15T21:02:45Z",
+          "instanceId": "17055692732"
+        },
+        {
+          "name": "Soli e al freddo: Audace",
+          "period": "2026-07-15T15:15:38Z",
+          "instanceId": "17054606291"
+        },
+        {
+          "name": "Il Relitto",
+          "period": "2026-07-15T13:35:07Z",
+          "instanceId": "17054316113"
+        },
+        {
+          "name": "Avamposto di Tharsis",
+          "period": "2026-07-14T22:14:10Z",
+          "instanceId": "17052349688"
+        },
+        {
+          "name": "Temibile aiutante: Audace",
+          "period": "2026-07-14T21:35:55Z",
+          "instanceId": "17052312521"
+        },
+        {
+          "name": "Benvenuti alla Frontiera: Normale",
+          "period": "2026-07-12T20:38:22Z",
+          "instanceId": "17045140147"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-07-12T11:31:56Z",
+          "instanceId": "17043524679"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-12T10:24:37Z",
+          "instanceId": "17043355844"
+        },
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-07-12T10:05:31Z",
+          "instanceId": "17043318082"
+        },
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-07-12T09:49:09Z",
+          "instanceId": "17043291257"
         }
       ]
     },
@@ -326,71 +391,6 @@
           "name": "Terminale Intuitivo: Personalizzata",
           "period": "2026-07-12T18:10:06Z",
           "instanceId": "17044587032"
-        }
-      ]
-    },
-    {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
-      "powerLevel": 404,
-      "lastPlayedTimestamp": 1784153212000,
-      "lastActivityTimestamp": 1784128538000,
-      "lastActivityText": "Soli e al freddo: Audace il 15/07/2026 15:15",
-      "activities": [
-        {
-          "name": "Soli e al freddo: Audace",
-          "period": "2026-07-15T15:15:38Z",
-          "instanceId": "17054606291"
-        },
-        {
-          "name": "Il Relitto",
-          "period": "2026-07-15T13:35:07Z",
-          "instanceId": "17054316113"
-        },
-        {
-          "name": "Avamposto di Tharsis",
-          "period": "2026-07-14T22:14:10Z",
-          "instanceId": "17052349688"
-        },
-        {
-          "name": "Temibile aiutante: Audace",
-          "period": "2026-07-14T21:35:55Z",
-          "instanceId": "17052312521"
-        },
-        {
-          "name": "Benvenuti alla Frontiera: Normale",
-          "period": "2026-07-12T20:38:22Z",
-          "instanceId": "17045140147"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-07-12T11:31:56Z",
-          "instanceId": "17043524679"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-12T10:24:37Z",
-          "instanceId": "17043355844"
-        },
-        {
-          "name": "Miniere di Sale: Personalizzata",
-          "period": "2026-07-12T10:05:31Z",
-          "instanceId": "17043318082"
-        },
-        {
-          "name": "Miniere di Sale: Personalizzata",
-          "period": "2026-07-12T09:49:09Z",
-          "instanceId": "17043291257"
-        },
-        {
-          "name": "Bunker dei caduti: Con matchmaking",
-          "period": "2026-07-11T19:55:28Z",
-          "instanceId": "17040925992"
         }
       ]
     },
