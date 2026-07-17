@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T13:49:19.279Z",
+  "generatedAt": "2026-07-17T15:18:06.271Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784295536000,
-      "lastActivityTimestamp": 1784294717000,
-      "lastActivityText": "La fine di Crota: Standard il 17/07/2026 13:25",
+      "lastPlayedTimestamp": 1784301086000,
+      "lastActivityTimestamp": 1784299055000,
+      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 17/07/2026 14:37",
       "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-17T14:37:35Z",
+          "instanceId": "17060966159"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-07-17T13:59:14Z",
+          "instanceId": "17060890301"
+        },
         {
           "name": "La fine di Crota: Standard",
           "period": "2026-07-17T13:25:17Z",
@@ -56,16 +66,6 @@
           "name": "Corrente dell'iper-rete: Con matchmaking",
           "period": "2026-07-17T05:44:51Z",
           "instanceId": "17060089061"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-07-16T18:44:45Z",
-          "instanceId": "17058356305"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-16T18:15:49Z",
-          "instanceId": "17058286094"
         }
       ]
     },
@@ -528,12 +528,12 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a5181bb652131991d04ca0d7dfc6cf91.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784214692000,
+      "lastPlayedTimestamp": 1784301463000,
       "lastActivityTimestamp": 1784213659000,
       "lastActivityText": "La culla del male: Personalizzata il 16/07/2026 14:54",
       "activities": [
