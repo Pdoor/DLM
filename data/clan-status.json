@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T10:19:28.363Z",
+  "generatedAt": "2026-07-17T11:53:34.102Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 522,
-      "lastPlayedTimestamp": 1784283464000,
-      "lastActivityTimestamp": 1784282675000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 17/07/2026 10:04",
+      "lastPlayedTimestamp": 1784287467000,
+      "lastActivityTimestamp": 1784286514000,
+      "lastActivityText": "Logistica R1: Personalizzata il 17/07/2026 11:08",
       "activities": [
+        {
+          "name": "Logistica R1: Personalizzata",
+          "period": "2026-07-17T11:08:34Z",
+          "instanceId": "17060579919"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-17T10:29:26Z",
+          "instanceId": "17060523303"
+        },
         {
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-07-17T10:04:35Z",
@@ -56,16 +66,6 @@
           "name": "Trafficante d'armi: Con matchmaking",
           "period": "2026-07-11T20:10:46Z",
           "instanceId": "17040963089"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-11T19:40:31Z",
-          "instanceId": "17040845395"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-11T17:28:26Z",
-          "instanceId": "17040401581"
         }
       ]
     },
@@ -78,10 +78,20 @@
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784283535000,
-      "lastActivityTimestamp": 1784272452000,
-      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 17/07/2026 07:14",
+      "lastPlayedTimestamp": 1784289128000,
+      "lastActivityTimestamp": 1784285675000,
+      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 17/07/2026 10:54",
       "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-17T10:54:35Z",
+          "instanceId": "17060566489"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-17T10:15:19Z",
+          "instanceId": "17060503177"
+        },
         {
           "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
           "period": "2026-07-17T07:14:12Z",
@@ -121,16 +131,6 @@
           "name": "Corrente dell'iper-rete: Con matchmaking",
           "period": "2026-07-16T17:27:56Z",
           "instanceId": "17058164586"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-16T14:54:19Z",
-          "instanceId": "17057812411"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-16T14:47:33Z",
-          "instanceId": "17057774770"
         }
       ]
     },
