@@ -1,19 +1,84 @@
 {
-  "generatedAt": "2026-07-17T08:24:17.965Z",
+  "generatedAt": "2026-07-17T10:19:28.363Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 522,
+      "lastPlayedTimestamp": 1784283464000,
+      "lastActivityTimestamp": 1784282675000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 17/07/2026 10:04",
+      "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-17T10:04:35Z",
+          "instanceId": "17060486373"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-14T10:25:40Z",
+          "instanceId": "17050717430"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-11T21:55:28Z",
+          "instanceId": "17041284836"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Personalizzata",
+          "period": "2026-07-11T21:38:28Z",
+          "instanceId": "17041250408"
+        },
+        {
+          "name": "Ora zero: Personalizzata",
+          "period": "2026-07-11T21:11:43Z",
+          "instanceId": "17041194098"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-07-11T20:48:14Z",
+          "instanceId": "17041082540"
+        },
+        {
+          "name": "Bunker dei caduti: Con matchmaking",
+          "period": "2026-07-11T20:28:59Z",
+          "instanceId": "17041030269"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-07-11T20:10:46Z",
+          "instanceId": "17040963089"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-11T19:40:31Z",
+          "instanceId": "17040845395"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-11T17:28:26Z",
+          "instanceId": "17040401581"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784273382000,
+      "lastPlayedTimestamp": 1784283535000,
       "lastActivityTimestamp": 1784272452000,
       "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 17/07/2026 07:14",
       "activities": [
@@ -651,71 +716,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-03T20:49:57Z",
           "instanceId": "17008706347"
-        }
-      ]
-    },
-    {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 522,
-      "lastPlayedTimestamp": 1784026256000,
-      "lastActivityTimestamp": 1784024740000,
-      "lastActivityText": "La Città Sognante il 14/07/2026 10:25",
-      "activities": [
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-14T10:25:40Z",
-          "instanceId": "17050717430"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-11T21:55:28Z",
-          "instanceId": "17041284836"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Personalizzata",
-          "period": "2026-07-11T21:38:28Z",
-          "instanceId": "17041250408"
-        },
-        {
-          "name": "Ora zero: Personalizzata",
-          "period": "2026-07-11T21:11:43Z",
-          "instanceId": "17041194098"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Con matchmaking",
-          "period": "2026-07-11T20:48:14Z",
-          "instanceId": "17041082540"
-        },
-        {
-          "name": "Bunker dei caduti: Con matchmaking",
-          "period": "2026-07-11T20:28:59Z",
-          "instanceId": "17041030269"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-07-11T20:10:46Z",
-          "instanceId": "17040963089"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-11T19:40:31Z",
-          "instanceId": "17040845395"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-11T17:28:26Z",
-          "instanceId": "17040401581"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-07-11T17:01:49Z",
-          "instanceId": "17040364583"
         }
       ]
     },
