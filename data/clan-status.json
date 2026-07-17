@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-17T11:53:34.102Z",
+  "generatedAt": "2026-07-17T13:49:19.279Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784295536000,
+      "lastActivityTimestamp": 1784294717000,
+      "lastActivityText": "La fine di Crota: Standard il 17/07/2026 13:25",
+      "activities": [
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-07-17T13:25:17Z",
+          "instanceId": "17060804030"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-07-17T11:17:32Z",
+          "instanceId": "17060644646"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-17T10:54:35Z",
+          "instanceId": "17060566489"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-17T10:15:19Z",
+          "instanceId": "17060503177"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-17T07:14:12Z",
+          "instanceId": "17060249557"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-17T06:32:44Z",
+          "instanceId": "17060180791"
+        },
+        {
+          "name": "Giardino della Salvezza",
+          "period": "2026-07-17T06:09:24Z",
+          "instanceId": "17060234591"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-07-17T05:44:51Z",
+          "instanceId": "17060089061"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-07-16T18:44:45Z",
+          "instanceId": "17058356305"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-16T18:15:49Z",
+          "instanceId": "17058286094"
+        }
+      ]
+    },
     {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
@@ -66,71 +131,6 @@
           "name": "Trafficante d'armi: Con matchmaking",
           "period": "2026-07-11T20:10:46Z",
           "instanceId": "17040963089"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1784289128000,
-      "lastActivityTimestamp": 1784285675000,
-      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 17/07/2026 10:54",
-      "activities": [
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-17T10:54:35Z",
-          "instanceId": "17060566489"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-17T10:15:19Z",
-          "instanceId": "17060503177"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-17T07:14:12Z",
-          "instanceId": "17060249557"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-17T06:32:44Z",
-          "instanceId": "17060180791"
-        },
-        {
-          "name": "Giardino della Salvezza",
-          "period": "2026-07-17T06:09:24Z",
-          "instanceId": "17060234591"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-07-17T05:44:51Z",
-          "instanceId": "17060089061"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-07-16T18:44:45Z",
-          "instanceId": "17058356305"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-16T18:15:49Z",
-          "instanceId": "17058286094"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-07-16T17:53:00Z",
-          "instanceId": "17058273259"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-07-16T17:27:56Z",
-          "instanceId": "17058164586"
         }
       ]
     },
