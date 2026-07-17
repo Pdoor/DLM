@@ -1,87 +1,27 @@
 {
-  "generatedAt": "2026-07-17T03:15:18.663Z",
+  "generatedAt": "2026-07-17T06:00:25.932Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1784258046000,
-      "lastActivityTimestamp": 1784256455000,
-      "lastActivityText": "Azzardo: Con matchmaking il 17/07/2026 02:47",
-      "activities": [
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-17T02:47:35Z",
-          "instanceId": "17059638137"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-17T02:41:12Z",
-          "instanceId": "17059618411"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-17T02:33:45Z",
-          "instanceId": "17059599649"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-17T02:25:34Z",
-          "instanceId": "17059579680"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-17T02:17:04Z",
-          "instanceId": "17059554085"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-17T02:09:33Z",
-          "instanceId": "17059531112"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-16T21:16:38Z",
-          "instanceId": "17058733557"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-16T21:10:07Z",
-          "instanceId": "17058715770"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-16T21:03:26Z",
-          "instanceId": "17058696687"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-16T20:55:32Z",
-          "instanceId": "17058677178"
-        }
-      ]
-    },
-    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784228068000,
-      "lastActivityTimestamp": 1784227485000,
-      "lastActivityText": "Campi di battaglia: Oracolo: Con matchmaking il 16/07/2026 18:44",
+      "lastPlayedTimestamp": 1784267957000,
+      "lastActivityTimestamp": 1784267091000,
+      "lastActivityText": "Corrente dell'iper-rete: Con matchmaking il 17/07/2026 05:44",
       "activities": [
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-07-17T05:44:51Z",
+          "instanceId": "17060089061"
+        },
         {
           "name": "Campi di battaglia: Oracolo: Con matchmaking",
           "period": "2026-07-16T18:44:45Z",
@@ -126,11 +66,71 @@
           "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
           "period": "2026-07-16T13:52:24Z",
           "instanceId": "17057681924"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 541,
+      "lastPlayedTimestamp": 1784258769000,
+      "lastActivityTimestamp": 1784257854000,
+      "lastActivityText": "Cripta di Pietrafonda il 17/07/2026 03:10",
+      "activities": [
+        {
+          "name": "Cripta di Pietrafonda",
+          "period": "2026-07-17T03:10:54Z",
+          "instanceId": "17059707022"
         },
         {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-16T13:34:41Z",
-          "instanceId": "17057644671"
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-17T02:47:35Z",
+          "instanceId": "17059638137"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-17T02:41:12Z",
+          "instanceId": "17059618411"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-17T02:33:45Z",
+          "instanceId": "17059599649"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-17T02:25:34Z",
+          "instanceId": "17059579680"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-17T02:17:04Z",
+          "instanceId": "17059554085"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-17T02:09:33Z",
+          "instanceId": "17059531112"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-16T21:16:38Z",
+          "instanceId": "17058733557"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-16T21:10:07Z",
+          "instanceId": "17058715770"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-16T21:03:26Z",
+          "instanceId": "17058696687"
         }
       ]
     },
