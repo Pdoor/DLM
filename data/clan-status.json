@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T18:10:31.809Z",
+  "generatedAt": "2026-07-17T19:41:05.594Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a5181bb652131991d04ca0d7dfc6cf91.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784311813000,
-      "lastActivityTimestamp": 1784309298000,
-      "lastActivityText": "Campi di battaglia: Discesa: Personalizzata il 17/07/2026 17:28",
+      "lastPlayedTimestamp": 1784311991000,
+      "lastActivityTimestamp": 1784310724000,
+      "lastActivityText": "Terreni di Prova: Personalizzata il 17/07/2026 17:52",
       "activities": [
+        {
+          "name": "Terreni di Prova: Personalizzata",
+          "period": "2026-07-17T17:52:04Z",
+          "instanceId": "17061428547"
+        },
         {
           "name": "Campi di battaglia: Discesa: Personalizzata",
           "period": "2026-07-17T17:28:18Z",
@@ -61,11 +66,6 @@
           "name": "La culla del male: Personalizzata",
           "period": "2026-07-16T14:47:33Z",
           "instanceId": "17057774770"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
-          "period": "2026-07-16T14:34:14Z",
-          "instanceId": "17057760092"
         }
       ]
     },
@@ -135,6 +135,71 @@
       ]
     },
     {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
+      "powerLevel": 415,
+      "lastPlayedTimestamp": 1784316553000,
+      "lastActivityTimestamp": 1784308750000,
+      "lastActivityText": "La caduta di un Re: Standard il 17/07/2026 17:19",
+      "activities": [
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-07-17T17:19:10Z",
+          "instanceId": "17061497648"
+        },
+        {
+          "name": "Pinnacolo dell'Osservatrice: Maestro",
+          "period": "2026-07-16T17:12:54Z",
+          "instanceId": "17058126676"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-07-16T17:06:01Z",
+          "instanceId": "17058099745"
+        },
+        {
+          "name": "A testa bassa: Normale",
+          "period": "2026-07-11T17:38:56Z",
+          "instanceId": "17040451147"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-07-11T17:35:26Z",
+          "instanceId": "17040397380"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Normale",
+          "period": "2026-07-11T17:22:46Z",
+          "instanceId": "17040389315"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-07-11T17:15:58Z",
+          "instanceId": "17040342690"
+        },
+        {
+          "name": "Non resta molto tempo: Normale",
+          "period": "2026-07-11T16:55:54Z",
+          "instanceId": "17040320471"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-07-11T16:50:15Z",
+          "instanceId": "17040263524"
+        },
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-07-11T15:57:55Z",
+          "instanceId": "17040200210"
+        }
+      ]
+    },
+    {
       "displayName": "Jhonny#3878",
       "membershipId": "4611686018489632599",
       "bungieNetMembershipId": "",
@@ -196,6 +261,71 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-17T15:47:49Z",
           "instanceId": "17061101243"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 442,
+      "lastPlayedTimestamp": 1784311912000,
+      "lastActivityTimestamp": 1784306531000,
+      "lastActivityText": "Pinnacolo dell'Osservatrice: Standard il 17/07/2026 16:42",
+      "activities": [
+        {
+          "name": "Pinnacolo dell'Osservatrice: Standard",
+          "period": "2026-07-17T16:42:11Z",
+          "instanceId": "17061224603"
+        },
+        {
+          "name": "Pinnacolo dell'Osservatrice: Standard",
+          "period": "2026-07-17T16:36:44Z",
+          "instanceId": "17061211670"
+        },
+        {
+          "name": "Pinnacolo dell'Osservatrice: Standard",
+          "period": "2026-07-17T16:31:37Z",
+          "instanceId": "17061198668"
+        },
+        {
+          "name": "Pinnacolo dell'Osservatrice: Standard",
+          "period": "2026-07-17T16:25:27Z",
+          "instanceId": "17061187288"
+        },
+        {
+          "name": "Pinnacolo dell'Osservatrice: Standard",
+          "period": "2026-07-17T16:18:43Z",
+          "instanceId": "17061171882"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-07-16T20:21:45Z",
+          "instanceId": "17058579739"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-07-16T20:20:48Z",
+          "instanceId": "17058568112"
+        },
+        {
+          "name": "Gloria futura: Audace",
+          "period": "2026-07-16T19:08:23Z",
+          "instanceId": "17058443097"
+        },
+        {
+          "name": "Il Relitto",
+          "period": "2026-07-16T19:05:51Z",
+          "instanceId": "17058376927"
+        },
+        {
+          "name": "Il lungo inganno: Audace",
+          "period": "2026-07-16T18:47:59Z",
+          "instanceId": "17058370804"
         }
       ]
     },
@@ -326,136 +456,6 @@
           "name": "Trafficante d'armi: Con matchmaking",
           "period": "2026-07-11T20:10:46Z",
           "instanceId": "17040963089"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 541,
-      "lastPlayedTimestamp": 1784311799000,
-      "lastActivityTimestamp": 1784257854000,
-      "lastActivityText": "Cripta di Pietrafonda il 17/07/2026 03:10",
-      "activities": [
-        {
-          "name": "Cripta di Pietrafonda",
-          "period": "2026-07-17T03:10:54Z",
-          "instanceId": "17059707022"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-17T02:47:35Z",
-          "instanceId": "17059638137"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-17T02:41:12Z",
-          "instanceId": "17059618411"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-17T02:33:45Z",
-          "instanceId": "17059599649"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-17T02:25:34Z",
-          "instanceId": "17059579680"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-17T02:17:04Z",
-          "instanceId": "17059554085"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-17T02:09:33Z",
-          "instanceId": "17059531112"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-16T21:16:38Z",
-          "instanceId": "17058733557"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-16T21:10:07Z",
-          "instanceId": "17058715770"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-16T21:03:26Z",
-          "instanceId": "17058696687"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 543,
-      "lastPlayedTimestamp": 1784311728000,
-      "lastActivityTimestamp": 1784221974000,
-      "lastActivityText": "Pinnacolo dell'Osservatrice: Maestro il 16/07/2026 17:12",
-      "activities": [
-        {
-          "name": "Pinnacolo dell'Osservatrice: Maestro",
-          "period": "2026-07-16T17:12:54Z",
-          "instanceId": "17058126676"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-16T17:06:01Z",
-          "instanceId": "17058099745"
-        },
-        {
-          "name": "A testa bassa: Normale",
-          "period": "2026-07-11T17:38:56Z",
-          "instanceId": "17040451147"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-11T17:35:26Z",
-          "instanceId": "17040397380"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Normale",
-          "period": "2026-07-11T17:22:46Z",
-          "instanceId": "17040389315"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-11T17:15:58Z",
-          "instanceId": "17040342690"
-        },
-        {
-          "name": "Non resta molto tempo: Normale",
-          "period": "2026-07-11T16:55:54Z",
-          "instanceId": "17040320471"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-11T16:50:15Z",
-          "instanceId": "17040263524"
-        },
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-07-11T15:57:55Z",
-          "instanceId": "17040200210"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-07-11T15:40:31Z",
-          "instanceId": "17040058909"
         }
       ]
     },
