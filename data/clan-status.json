@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T23:31:43.120Z",
+  "generatedAt": "2026-07-17T03:15:18.663Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,45 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 544,
-      "lastPlayedTimestamp": 1784236966000,
-      "lastActivityTimestamp": 1784236598000,
-      "lastActivityText": "Azzardo: Con matchmaking il 16/07/2026 21:16",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1784258046000,
+      "lastActivityTimestamp": 1784256455000,
+      "lastActivityText": "Azzardo: Con matchmaking il 17/07/2026 02:47",
       "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-17T02:47:35Z",
+          "instanceId": "17059638137"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-17T02:41:12Z",
+          "instanceId": "17059618411"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-17T02:33:45Z",
+          "instanceId": "17059599649"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-17T02:25:34Z",
+          "instanceId": "17059579680"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-17T02:17:04Z",
+          "instanceId": "17059554085"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-17T02:09:33Z",
+          "instanceId": "17059531112"
+        },
         {
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-16T21:16:38Z",
@@ -36,36 +66,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-16T20:55:32Z",
           "instanceId": "17058677178"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-16T20:45:47Z",
-          "instanceId": "17058652183"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-16T03:17:41Z",
-          "instanceId": "17057029287"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-07-16T03:13:57Z",
-          "instanceId": "17056472037"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-16T03:13:12Z",
-          "instanceId": "17056461005"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-07-16T03:09:29Z",
-          "instanceId": "17056457824"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-16T03:07:05Z",
-          "instanceId": "17056447113"
         }
       ]
     },
