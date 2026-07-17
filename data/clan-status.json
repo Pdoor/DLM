@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T06:00:25.932Z",
+  "generatedAt": "2026-07-17T08:24:17.965Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,30 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784267957000,
-      "lastActivityTimestamp": 1784267091000,
-      "lastActivityText": "Corrente dell'iper-rete: Con matchmaking il 17/07/2026 05:44",
+      "lastPlayedTimestamp": 1784273382000,
+      "lastActivityTimestamp": 1784272452000,
+      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 17/07/2026 07:14",
       "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-17T07:14:12Z",
+          "instanceId": "17060249557"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-17T06:32:44Z",
+          "instanceId": "17060180791"
+        },
+        {
+          "name": "Giardino della Salvezza",
+          "period": "2026-07-17T06:09:24Z",
+          "instanceId": "17060234591"
+        },
         {
           "name": "Corrente dell'iper-rete: Con matchmaking",
           "period": "2026-07-17T05:44:51Z",
@@ -51,21 +66,6 @@
           "name": "La culla del male: Personalizzata",
           "period": "2026-07-16T14:47:33Z",
           "instanceId": "17057774770"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
-          "period": "2026-07-16T14:34:14Z",
-          "instanceId": "17057760092"
-        },
-        {
-          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
-          "period": "2026-07-16T14:12:31Z",
-          "instanceId": "17057709951"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-07-16T13:52:24Z",
-          "instanceId": "17057681924"
         }
       ]
     },
