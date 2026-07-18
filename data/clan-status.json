@@ -1,9 +1,139 @@
 {
-  "generatedAt": "2026-07-18T09:59:38.011Z",
+  "generatedAt": "2026-07-18T11:14:12.556Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784373159000,
+      "lastActivityTimestamp": 1784370843000,
+      "lastActivityText": "Osservatorio Celeste: Personalizzata il 18/07/2026 10:34",
+      "activities": [
+        {
+          "name": "Osservatorio Celeste: Personalizzata",
+          "period": "2026-07-18T10:34:03Z",
+          "instanceId": "17064073002"
+        },
+        {
+          "name": "Lago di ombre: Con matchmaking",
+          "period": "2026-07-18T10:03:30Z",
+          "instanceId": "17064037067"
+        },
+        {
+          "name": "Il Tecnocrate: Con matchmaking",
+          "period": "2026-07-18T06:28:34Z",
+          "instanceId": "17063601235"
+        },
+        {
+          "name": "Il Tecnocrate: Con matchmaking",
+          "period": "2026-07-18T06:09:06Z",
+          "instanceId": "17063560959"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-07-07T14:09:08Z",
+          "instanceId": "17024589424"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-07-07T14:00:20Z",
+          "instanceId": "17024556362"
+        },
+        {
+          "name": "Caccia all'incubo: disperazione: Avanzata",
+          "period": "2026-07-07T13:15:41Z",
+          "instanceId": "17024436001"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-07-07T12:44:41Z",
+          "instanceId": "17024372287"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-07-07T11:27:58Z",
+          "instanceId": "17024216463"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-07T10:57:26Z",
+          "instanceId": "17024149944"
+        }
+      ]
+    },
+    {
+      "displayName": "Ghost of Warlock#5159",
+      "membershipId": "4611686018513286564",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784370485000,
+      "lastActivityTimestamp": 1784368084000,
+      "lastActivityText": "La Fortezza Scarlatta: Personalizzata il 18/07/2026 09:48",
+      "activities": [
+        {
+          "name": "La Fortezza Scarlatta: Personalizzata",
+          "period": "2026-07-18T09:48:04Z",
+          "instanceId": "17064040469"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-07-18T08:40:56Z",
+          "instanceId": "17063866345"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-18T08:17:12Z",
+          "instanceId": "17063826415"
+        },
+        {
+          "name": "Il Tecnocrate: Con matchmaking",
+          "period": "2026-07-18T07:42:57Z",
+          "instanceId": "17063757004"
+        },
+        {
+          "name": "Lago di ombre: Con matchmaking",
+          "period": "2026-07-17T21:11:54Z",
+          "instanceId": "17061967702"
+        },
+        {
+          "name": "L'Oscura Sacerdotessa: Personalizzata",
+          "period": "2026-07-13T15:13:19Z",
+          "instanceId": "17047750706"
+        },
+        {
+          "name": "Avamposto dei cabal: Personalizzata",
+          "period": "2026-07-13T09:56:41Z",
+          "instanceId": "17047182868"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-07-13T09:10:34Z",
+          "instanceId": "17047119101"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-07-13T08:55:36Z",
+          "instanceId": "17047062554"
+        },
+        {
+          "name": "La corrotta: Con matchmaking",
+          "period": "2026-07-13T08:26:59Z",
+          "instanceId": "17047032030"
+        }
+      ]
+    },
     {
       "displayName": "Jhonny#3878",
       "membershipId": "4611686018489632599",
@@ -70,71 +200,6 @@
       ]
     },
     {
-      "displayName": "Ghost of Warlock#5159",
-      "membershipId": "4611686018513286564",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1784368699000,
-      "lastActivityTimestamp": 1784364056000,
-      "lastActivityText": "Luna il 18/07/2026 08:40",
-      "activities": [
-        {
-          "name": "Luna",
-          "period": "2026-07-18T08:40:56Z",
-          "instanceId": "17063866345"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-18T08:17:12Z",
-          "instanceId": "17063826415"
-        },
-        {
-          "name": "Il Tecnocrate: Con matchmaking",
-          "period": "2026-07-18T07:42:57Z",
-          "instanceId": "17063757004"
-        },
-        {
-          "name": "Lago di ombre: Con matchmaking",
-          "period": "2026-07-17T21:11:54Z",
-          "instanceId": "17061967702"
-        },
-        {
-          "name": "L'Oscura Sacerdotessa: Personalizzata",
-          "period": "2026-07-13T15:13:19Z",
-          "instanceId": "17047750706"
-        },
-        {
-          "name": "Avamposto dei cabal: Personalizzata",
-          "period": "2026-07-13T09:56:41Z",
-          "instanceId": "17047182868"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-07-13T09:10:34Z",
-          "instanceId": "17047119101"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-07-13T08:55:36Z",
-          "instanceId": "17047062554"
-        },
-        {
-          "name": "La corrotta: Con matchmaking",
-          "period": "2026-07-13T08:26:59Z",
-          "instanceId": "17047032030"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-07-13T06:20:10Z",
-          "instanceId": "17046804372"
-        }
-      ]
-    },
-    {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
@@ -196,71 +261,6 @@
           "name": "Il trono infranto",
           "period": "2026-07-17T15:15:40Z",
           "instanceId": "17061018768"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1784368693000,
-      "lastActivityTimestamp": 1784356114000,
-      "lastActivityText": "Il Tecnocrate: Con matchmaking il 18/07/2026 06:28",
-      "activities": [
-        {
-          "name": "Il Tecnocrate: Con matchmaking",
-          "period": "2026-07-18T06:28:34Z",
-          "instanceId": "17063601235"
-        },
-        {
-          "name": "Il Tecnocrate: Con matchmaking",
-          "period": "2026-07-18T06:09:06Z",
-          "instanceId": "17063560959"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-07-07T14:09:08Z",
-          "instanceId": "17024589424"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-07-07T14:00:20Z",
-          "instanceId": "17024556362"
-        },
-        {
-          "name": "Caccia all'incubo: disperazione: Avanzata",
-          "period": "2026-07-07T13:15:41Z",
-          "instanceId": "17024436001"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-07-07T12:44:41Z",
-          "instanceId": "17024372287"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-07-07T11:27:58Z",
-          "instanceId": "17024216463"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-07T10:57:26Z",
-          "instanceId": "17024149944"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-07T10:35:49Z",
-          "instanceId": "17024119845"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-07T10:22:09Z",
-          "instanceId": "17024093664"
         }
       ]
     },
