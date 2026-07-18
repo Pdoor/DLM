@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T17:59:25.476Z",
+  "generatedAt": "2026-07-18T19:18:27.904Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "KIT HAMWORTH#5503",
       "membershipId": "4611686018513251845",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2660c7e16c0824a9e2ab167cede1fcab.jpg",
-      "powerLevel": 325,
-      "lastPlayedTimestamp": 1784391717000,
-      "lastActivityTimestamp": 1784391700000,
-      "lastActivityText": "Il Relitto il 18/07/2026 16:21",
+      "powerLevel": 332,
+      "lastPlayedTimestamp": 1784402286000,
+      "lastActivityTimestamp": 1784401448000,
+      "lastActivityText": "Il Relitto il 18/07/2026 19:04",
       "activities": [
+        {
+          "name": "Il Relitto",
+          "period": "2026-07-18T19:04:08Z",
+          "instanceId": "17065388485"
+        },
         {
           "name": "Il Relitto",
           "period": "2026-07-18T16:21:40Z",
@@ -61,11 +66,71 @@
           "name": "Avamposto di Tharsis",
           "period": "2025-12-26T19:27:20Z",
           "instanceId": "16714353417"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784400074000,
+      "lastActivityTimestamp": 1784399366000,
+      "lastActivityText": "La disonorata: Con matchmaking il 18/07/2026 18:29",
+      "activities": [
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-07-18T18:29:26Z",
+          "instanceId": "17065304990"
         },
         {
-          "name": "Avamposto di Tharsis",
-          "period": "2025-12-26T05:28:22Z",
-          "instanceId": "16714100515"
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-07-18T17:59:36Z",
+          "instanceId": "17065211468"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-07-18T15:09:33Z",
+          "instanceId": "17064727370"
+        },
+        {
+          "name": "La Tana dei Diavoli: Personalizzata",
+          "period": "2026-07-18T14:49:58Z",
+          "instanceId": "17064664157"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-18T14:40:58Z",
+          "instanceId": "17064602211"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-18T13:57:59Z",
+          "instanceId": "17064598422"
+        },
+        {
+          "name": "Lago di ombre: Con matchmaking",
+          "period": "2026-07-18T13:42:54Z",
+          "instanceId": "17064467325"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-07-18T13:23:47Z",
+          "instanceId": "17064433786"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-17T14:37:35Z",
+          "instanceId": "17060966159"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-07-17T13:59:14Z",
+          "instanceId": "17060890301"
         }
       ]
     },
@@ -73,12 +138,12 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
       "powerLevel": 476,
-      "lastPlayedTimestamp": 1784397104000,
+      "lastPlayedTimestamp": 1784397862000,
       "lastActivityTimestamp": 1784390212000,
       "lastActivityText": "La caduta di un Re: Standard il 18/07/2026 15:56",
       "activities": [
@@ -135,71 +200,6 @@
       ]
     },
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1784397453000,
-      "lastActivityTimestamp": 1784387373000,
-      "lastActivityText": "La culla del male: Personalizzata il 18/07/2026 15:09",
-      "activities": [
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-18T15:09:33Z",
-          "instanceId": "17064727370"
-        },
-        {
-          "name": "La Tana dei Diavoli: Personalizzata",
-          "period": "2026-07-18T14:49:58Z",
-          "instanceId": "17064664157"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-18T14:40:58Z",
-          "instanceId": "17064602211"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-18T13:57:59Z",
-          "instanceId": "17064598422"
-        },
-        {
-          "name": "Lago di ombre: Con matchmaking",
-          "period": "2026-07-18T13:42:54Z",
-          "instanceId": "17064467325"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-07-18T13:23:47Z",
-          "instanceId": "17064433786"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-17T14:37:35Z",
-          "instanceId": "17060966159"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-07-17T13:59:14Z",
-          "instanceId": "17060890301"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-07-17T13:25:17Z",
-          "instanceId": "17060804030"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-07-17T11:17:32Z",
-          "instanceId": "17060644646"
-        }
-      ]
-    },
-    {
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
@@ -208,7 +208,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784393642000,
+      "lastPlayedTimestamp": 1784399856000,
       "lastActivityTimestamp": 1784376142000,
       "lastActivityText": "Bunker dei caduti: Con matchmaking il 18/07/2026 12:02",
       "activities": [
@@ -398,12 +398,12 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 544,
-      "lastPlayedTimestamp": 1784343690000,
+      "lastPlayedTimestamp": 1784402187000,
       "lastActivityTimestamp": 1784343244000,
       "lastActivityText": "Azzardo: Con matchmaking il 18/07/2026 02:54",
       "activities": [
@@ -788,12 +788,12 @@
       "displayName": "DiciestCloth1#2862",
       "membershipId": "4611686018442634411",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Flagello di Riven",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 546,
-      "lastPlayedTimestamp": 1784220504000,
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784402248000,
       "lastActivityTimestamp": 1784219705000,
       "lastActivityText": "Poligono di Tiro il 16/07/2026 16:35",
       "activities": [
@@ -1308,12 +1308,12 @@
       "displayName": "TheAnOnymous166#8849",
       "membershipId": "4611686018528729550",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1783762097000,
+      "lastPlayedTimestamp": 1784402228000,
       "lastActivityTimestamp": 1783449960000,
       "lastActivityText": "Europa il 07/07/2026 18:46",
       "activities": [
