@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T14:02:20.688Z",
+  "generatedAt": "2026-07-18T15:30:33.541Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,25 @@
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784383206000,
-      "lastActivityTimestamp": 1784382174000,
-      "lastActivityText": "Lago di ombre: Con matchmaking il 18/07/2026 13:42",
+      "lastPlayedTimestamp": 1784388572000,
+      "lastActivityTimestamp": 1784386198000,
+      "lastActivityText": "La Tana dei Diavoli: Personalizzata il 18/07/2026 14:49",
       "activities": [
+        {
+          "name": "La Tana dei Diavoli: Personalizzata",
+          "period": "2026-07-18T14:49:58Z",
+          "instanceId": "17064664157"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-18T14:40:58Z",
+          "instanceId": "17064602211"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-18T13:57:59Z",
+          "instanceId": "17064598422"
+        },
         {
           "name": "Lago di ombre: Con matchmaking",
           "period": "2026-07-18T13:42:54Z",
@@ -51,21 +66,71 @@
           "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
           "period": "2026-07-17T10:54:35Z",
           "instanceId": "17060566489"
+        }
+      ]
+    },
+    {
+      "displayName": "KIT HAMWORTH#5503",
+      "membershipId": "4611686018513251845",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2660c7e16c0824a9e2ab167cede1fcab.jpg",
+      "powerLevel": 325,
+      "lastPlayedTimestamp": 1784388266000,
+      "lastActivityTimestamp": 1784380919000,
+      "lastActivityText": "Fuoco e ghiaccio: Audace il 18/07/2026 13:21",
+      "activities": [
+        {
+          "name": "Fuoco e ghiaccio: Audace",
+          "period": "2026-07-18T13:21:59Z",
+          "instanceId": "17064632452"
         },
         {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-17T10:15:19Z",
-          "instanceId": "17060503177"
+          "name": "Fuoco e ghiaccio: Audace",
+          "period": "2026-06-27T22:12:23Z",
+          "instanceId": "16982571709"
         },
         {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-17T07:14:12Z",
-          "instanceId": "17060249557"
+          "name": "Soli e al freddo: Audace",
+          "period": "2026-06-27T16:20:00Z",
+          "instanceId": "16980969108"
         },
         {
-          "name": "Giardino della Salvezza",
-          "period": "2026-07-17T06:09:24Z",
-          "instanceId": "17060234591"
+          "name": "Il Relitto",
+          "period": "2026-06-26T19:59:15Z",
+          "instanceId": "16976578511"
+        },
+        {
+          "name": "Il Relitto",
+          "period": "2026-06-26T19:55:10Z",
+          "instanceId": "16976545050"
+        },
+        {
+          "name": "Il Relitto",
+          "period": "2025-12-26T21:47:46Z",
+          "instanceId": "16714045649"
+        },
+        {
+          "name": "Avamposto di Tharsis",
+          "period": "2025-12-26T21:38:19Z",
+          "instanceId": "16714034232"
+        },
+        {
+          "name": "Avamposto di Tharsis",
+          "period": "2025-12-26T20:59:52Z",
+          "instanceId": "16714239225"
+        },
+        {
+          "name": "Avamposto di Tharsis",
+          "period": "2025-12-26T19:27:20Z",
+          "instanceId": "16714353417"
+        },
+        {
+          "name": "Avamposto di Tharsis",
+          "period": "2025-12-26T05:28:22Z",
+          "instanceId": "16714100515"
         }
       ]
     },
@@ -1951,71 +2016,6 @@
           "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
           "period": "2026-06-23T22:12:50Z",
           "instanceId": "16963621077"
-        }
-      ]
-    },
-    {
-      "displayName": "KIT HAMWORTH#5503",
-      "membershipId": "4611686018513251845",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2660c7e16c0824a9e2ab167cede1fcab.jpg",
-      "powerLevel": 325,
-      "lastPlayedTimestamp": 1784381166000,
-      "lastActivityTimestamp": 1782598343000,
-      "lastActivityText": "Fuoco e ghiaccio: Audace il 27/06/2026 22:12",
-      "activities": [
-        {
-          "name": "Fuoco e ghiaccio: Audace",
-          "period": "2026-06-27T22:12:23Z",
-          "instanceId": "16982571709"
-        },
-        {
-          "name": "Soli e al freddo: Audace",
-          "period": "2026-06-27T16:20:00Z",
-          "instanceId": "16980969108"
-        },
-        {
-          "name": "Il Relitto",
-          "period": "2026-06-26T19:59:15Z",
-          "instanceId": "16976578511"
-        },
-        {
-          "name": "Il Relitto",
-          "period": "2026-06-26T19:55:10Z",
-          "instanceId": "16976545050"
-        },
-        {
-          "name": "Il Relitto",
-          "period": "2025-12-26T21:47:46Z",
-          "instanceId": "16714045649"
-        },
-        {
-          "name": "Avamposto di Tharsis",
-          "period": "2025-12-26T21:38:19Z",
-          "instanceId": "16714034232"
-        },
-        {
-          "name": "Avamposto di Tharsis",
-          "period": "2025-12-26T20:59:52Z",
-          "instanceId": "16714239225"
-        },
-        {
-          "name": "Temibile aiutante: Audace",
-          "period": "2025-12-26T20:55:20Z",
-          "instanceId": "16714022948"
-        },
-        {
-          "name": "Avamposto di Tharsis",
-          "period": "2025-12-26T19:27:20Z",
-          "instanceId": "16714353417"
-        },
-        {
-          "name": "Avamposto di Tharsis",
-          "period": "2025-12-26T05:28:22Z",
-          "instanceId": "16714100515"
         }
       ]
     },
