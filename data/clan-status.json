@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-18T04:08:30.750Z",
+  "generatedAt": "2026-07-18T06:29:46.652Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784356133000,
+      "lastActivityTimestamp": 1784354946000,
+      "lastActivityText": "Il Tecnocrate: Con matchmaking il 18/07/2026 06:09",
+      "activities": [
+        {
+          "name": "Il Tecnocrate: Con matchmaking",
+          "period": "2026-07-18T06:09:06Z",
+          "instanceId": "17063560959"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-07-07T14:09:08Z",
+          "instanceId": "17024589424"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-07-07T14:00:20Z",
+          "instanceId": "17024556362"
+        },
+        {
+          "name": "Caccia all'incubo: disperazione: Avanzata",
+          "period": "2026-07-07T13:15:41Z",
+          "instanceId": "17024436001"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-07-07T12:44:41Z",
+          "instanceId": "17024372287"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-07-07T11:27:58Z",
+          "instanceId": "17024216463"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-07T10:57:26Z",
+          "instanceId": "17024149944"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-07T10:35:49Z",
+          "instanceId": "17024119845"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-07T10:22:09Z",
+          "instanceId": "17024093664"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-07T09:48:35Z",
+          "instanceId": "17024040542"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -391,71 +456,6 @@
           "name": "La culla del male: Personalizzata",
           "period": "2026-07-16T14:47:33Z",
           "instanceId": "17057774770"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1784310677000,
-      "lastActivityTimestamp": 1784309298000,
-      "lastActivityText": "Campi di battaglia: Discesa: Personalizzata il 17/07/2026 17:28",
-      "activities": [
-        {
-          "name": "Campi di battaglia: Discesa: Personalizzata",
-          "period": "2026-07-17T17:28:18Z",
-          "instanceId": "17061377541"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-07-17T17:20:44Z",
-          "instanceId": "17061312513"
-        },
-        {
-          "name": "Lago di ombre: Con matchmaking",
-          "period": "2026-07-17T17:06:40Z",
-          "instanceId": "17061306903"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
-          "period": "2026-07-17T15:56:38Z",
-          "instanceId": "17061189531"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-07-11T06:51:51Z",
-          "instanceId": "17038910204"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-07-11T06:11:39Z",
-          "instanceId": "17038812026"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-07-11T05:53:52Z",
-          "instanceId": "17038758397"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-07-10T17:56:30Z",
-          "instanceId": "17036616366"
-        },
-        {
-          "name": "Oblazione: Animanutrito",
-          "period": "2026-07-10T17:26:53Z",
-          "instanceId": "17036544182"
-        },
-        {
-          "name": "Oblazione: Lignaggio",
-          "period": "2026-07-10T16:35:09Z",
-          "instanceId": "17036462552"
         }
       ]
     },
