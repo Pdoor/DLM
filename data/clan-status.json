@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-18T00:58:42.526Z",
+  "generatedAt": "2026-07-18T04:08:30.750Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 544,
+      "lastPlayedTimestamp": 1784343690000,
+      "lastActivityTimestamp": 1784343244000,
+      "lastActivityText": "Azzardo: Con matchmaking il 18/07/2026 02:54",
+      "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-18T02:54:04Z",
+          "instanceId": "17062974780"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-18T02:45:31Z",
+          "instanceId": "17062945500"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-18T02:38:18Z",
+          "instanceId": "17062924073"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-18T02:30:59Z",
+          "instanceId": "17062901217"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-18T02:09:19Z",
+          "instanceId": "17062823930"
+        },
+        {
+          "name": "Giardini Exodus 2A: Maestro",
+          "period": "2026-07-18T02:04:59Z",
+          "instanceId": "17062812441"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-18T02:01:48Z",
+          "instanceId": "17062798481"
+        },
+        {
+          "name": "Giardini Exodus 2A: Maestro",
+          "period": "2026-07-18T01:57:06Z",
+          "instanceId": "17062789477"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-18T01:54:40Z",
+          "instanceId": "17062773348"
+        },
+        {
+          "name": "Giardini Exodus 2A: Esperto",
+          "period": "2026-07-18T01:51:01Z",
+          "instanceId": "17062765919"
+        }
+      ]
+    },
     {
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
@@ -131,71 +196,6 @@
           "name": "Neomuna",
           "period": "2026-07-11T17:35:26Z",
           "instanceId": "17040397380"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 540,
-      "lastPlayedTimestamp": 1784329041000,
-      "lastActivityTimestamp": 1784328855000,
-      "lastActivityText": "Azzardo: Con matchmaking il 17/07/2026 22:54",
-      "activities": [
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-17T22:54:15Z",
-          "instanceId": "17062251269"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-17T22:30:38Z",
-          "instanceId": "17062199303"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-17T22:02:28Z",
-          "instanceId": "17062113573"
-        },
-        {
-          "name": "Cripta di Pietrafonda",
-          "period": "2026-07-17T03:10:54Z",
-          "instanceId": "17059707022"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-17T02:47:35Z",
-          "instanceId": "17059638137"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-17T02:41:12Z",
-          "instanceId": "17059618411"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-17T02:33:45Z",
-          "instanceId": "17059599649"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-17T02:25:34Z",
-          "instanceId": "17059579680"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-17T02:17:04Z",
-          "instanceId": "17059554085"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-17T02:09:33Z",
-          "instanceId": "17059531112"
         }
       ]
     },
@@ -1118,7 +1118,7 @@
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
       "powerLevel": 515,
-      "lastPlayedTimestamp": 1784238871000,
+      "lastPlayedTimestamp": 1784339865000,
       "lastActivityTimestamp": 1783795977000,
       "lastActivityText": "Equilibrio: Standard il 11/07/2026 18:52",
       "activities": [
