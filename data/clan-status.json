@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T01:05:50.243Z",
+  "generatedAt": "2026-07-19T04:51:30.781Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 549,
-      "lastPlayedTimestamp": 1784423134000,
-      "lastActivityTimestamp": 1784422679000,
-      "lastActivityText": "Azzardo: Con matchmaking il 19/07/2026 00:57",
+      "powerLevel": 509,
+      "lastPlayedTimestamp": 1784427865000,
+      "lastActivityTimestamp": 1784422989000,
+      "lastActivityText": "Azzardo: Con matchmaking il 19/07/2026 01:03",
       "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-19T01:03:09Z",
+          "instanceId": "17066500667"
+        },
         {
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-19T00:57:59Z",
@@ -26,6 +31,11 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-19T00:52:20Z",
           "instanceId": "17066457968"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-07-19T00:15:55Z",
+          "instanceId": "17066669558"
         },
         {
           "name": "Azzardo: Con matchmaking",
@@ -56,16 +66,6 @@
           "name": "Cosmodromo",
           "period": "2026-07-18T02:09:19Z",
           "instanceId": "17062823930"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-07-18T02:04:59Z",
-          "instanceId": "17062812441"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-18T02:01:48Z",
-          "instanceId": "17062798481"
         }
       ]
     },
