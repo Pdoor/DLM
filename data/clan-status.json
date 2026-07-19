@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T17:03:44.675Z",
+  "generatedAt": "2026-07-19T18:29:41.760Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,46 @@
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1784480599000,
-      "lastActivityTimestamp": 1784479309000,
-      "lastActivityText": "La disonorata: Con matchmaking il 19/07/2026 16:41",
+      "powerLevel": 549,
+      "lastPlayedTimestamp": 1784485664000,
+      "lastActivityTimestamp": 1784484392000,
+      "lastActivityText": "Partita veloce: Normale il 19/07/2026 18:06",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-19T18:06:32Z",
+          "instanceId": "17069062664"
+        },
+        {
+          "name": "Fortezza della Guida: Con matchmaking",
+          "period": "2026-07-19T17:39:25Z",
+          "instanceId": "17068999784"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-19T17:37:43Z",
+          "instanceId": "17068931849"
+        },
+        {
+          "name": "Il trono infranto",
+          "period": "2026-07-19T17:35:26Z",
+          "instanceId": "17068924181"
+        },
+        {
+          "name": "Il trono infranto",
+          "period": "2026-07-19T17:34:11Z",
+          "instanceId": "17068920628"
+        },
+        {
+          "name": "Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-07-19T17:32:48Z",
+          "instanceId": "17068915619"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-07-19T17:00:59Z",
+          "instanceId": "17068906113"
+        },
         {
           "name": "La disonorata: Con matchmaking",
           "period": "2026-07-19T16:41:49Z",
@@ -31,41 +66,6 @@
           "name": "La Tana dei Diavoli",
           "period": "2026-07-19T16:07:55Z",
           "instanceId": "17068695347"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-19T16:03:10Z",
-          "instanceId": "17068663121"
-        },
-        {
-          "name": "Non resta molto tempo: Leggendaria",
-          "period": "2026-07-19T15:36:25Z",
-          "instanceId": "17068640163"
-        },
-        {
-          "name": "Rivelazione R1: Esperto",
-          "period": "2026-07-19T15:28:59Z",
-          "instanceId": "17068592804"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-07-19T15:10:19Z",
-          "instanceId": "17068550488"
-        },
-        {
-          "name": "Primo contatto: Leggendaria",
-          "period": "2026-07-19T14:56:40Z",
-          "instanceId": "17068497082"
-        },
-        {
-          "name": "La Fortezza Scarlatta",
-          "period": "2026-07-18T08:05:07Z",
-          "instanceId": "17063826957"
-        },
-        {
-          "name": "La Fortezza Scarlatta",
-          "period": "2026-07-18T07:52:04Z",
-          "instanceId": "17063776247"
         }
       ]
     },
@@ -73,15 +73,25 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784480500000,
-      "lastActivityTimestamp": 1784479309000,
-      "lastActivityText": "La disonorata: Con matchmaking il 19/07/2026 16:41",
+      "lastPlayedTimestamp": 1784483982000,
+      "lastActivityTimestamp": 1784482765000,
+      "lastActivityText": "Fortezza della Guida: Con matchmaking il 19/07/2026 17:39",
       "activities": [
+        {
+          "name": "Fortezza della Guida: Con matchmaking",
+          "period": "2026-07-19T17:39:25Z",
+          "instanceId": "17068999784"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-07-19T17:00:59Z",
+          "instanceId": "17068906113"
+        },
         {
           "name": "La disonorata: Con matchmaking",
           "period": "2026-07-19T16:41:49Z",
@@ -121,16 +131,71 @@
           "name": "La disonorata: Con matchmaking",
           "period": "2026-07-18T17:59:36Z",
           "instanceId": "17065211468"
+        }
+      ]
+    },
+    {
+      "displayName": "Jhonny#3878",
+      "membershipId": "4611686018489632599",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2521e23050bd55aa31a0e910fa93c0b6.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784481150000,
+      "lastActivityTimestamp": 1784480966000,
+      "lastActivityText": "Corte della Vedova: Con matchmaking il 19/07/2026 17:09",
+      "activities": [
+        {
+          "name": "Corte della Vedova: Con matchmaking",
+          "period": "2026-07-19T17:09:26Z",
+          "instanceId": "17068964712"
         },
         {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-18T15:09:33Z",
-          "instanceId": "17064727370"
+          "name": "Sfida degli Anziani: Con matchmaking",
+          "period": "2026-07-19T16:44:20Z",
+          "instanceId": "17068840561"
         },
         {
-          "name": "La Tana dei Diavoli: Personalizzata",
-          "period": "2026-07-18T14:49:58Z",
-          "instanceId": "17064664157"
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-19T16:20:33Z",
+          "instanceId": "17068760947"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-19T16:08:05Z",
+          "instanceId": "17068686837"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-19T16:01:10Z",
+          "instanceId": "17068661212"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-19T15:20:10Z",
+          "instanceId": "17068627023"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-19T14:46:22Z",
+          "instanceId": "17068525672"
+        },
+        {
+          "name": "Ora zero: Personalizzata",
+          "period": "2026-07-19T13:56:07Z",
+          "instanceId": "17068432378"
+        },
+        {
+          "name": "Ora zero: Personalizzata",
+          "period": "2026-07-19T13:52:49Z",
+          "instanceId": "17068305491"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-07-19T09:06:00Z",
+          "instanceId": "17067785776"
         }
       ]
     },
@@ -200,71 +265,6 @@
       ]
     },
     {
-      "displayName": "Jhonny#3878",
-      "membershipId": "4611686018489632599",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2521e23050bd55aa31a0e910fa93c0b6.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1784480614000,
-      "lastActivityTimestamp": 1784478033000,
-      "lastActivityText": "Ultimo desiderio: Standard il 19/07/2026 16:20",
-      "activities": [
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-19T16:20:33Z",
-          "instanceId": "17068760947"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-19T16:08:05Z",
-          "instanceId": "17068686837"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-19T16:01:10Z",
-          "instanceId": "17068661212"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-19T15:20:10Z",
-          "instanceId": "17068627023"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-19T14:46:22Z",
-          "instanceId": "17068525672"
-        },
-        {
-          "name": "Ora zero: Personalizzata",
-          "period": "2026-07-19T13:56:07Z",
-          "instanceId": "17068432378"
-        },
-        {
-          "name": "Ora zero: Personalizzata",
-          "period": "2026-07-19T13:52:49Z",
-          "instanceId": "17068305491"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-07-19T09:06:00Z",
-          "instanceId": "17067785776"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-07-19T09:04:09Z",
-          "instanceId": "17067738262"
-        },
-        {
-          "name": "I sussurri: Personalizzata",
-          "period": "2026-07-19T08:38:54Z",
-          "instanceId": "17067727803"
-        }
-      ]
-    },
-    {
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
@@ -273,7 +273,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784472190000,
+      "lastPlayedTimestamp": 1784483349000,
       "lastActivityTimestamp": 1784470823000,
       "lastActivityText": "Luna il 19/07/2026 14:20",
       "activities": [
@@ -533,7 +533,7 @@
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 509,
-      "lastPlayedTimestamp": 1784427865000,
+      "lastPlayedTimestamp": 1784481753000,
       "lastActivityTimestamp": 1784422989000,
       "lastActivityText": "Azzardo: Con matchmaking il 19/07/2026 01:03",
       "activities": [
@@ -1378,7 +1378,7 @@
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
       "powerLevel": 515,
-      "lastPlayedTimestamp": 1784470875000,
+      "lastPlayedTimestamp": 1784482790000,
       "lastActivityTimestamp": 1783795977000,
       "lastActivityText": "Equilibrio: Standard il 11/07/2026 18:52",
       "activities": [
