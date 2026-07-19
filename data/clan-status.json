@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-18T23:29:14.552Z",
+  "generatedAt": "2026-07-19T01:05:50.243Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 549,
+      "lastPlayedTimestamp": 1784423134000,
+      "lastActivityTimestamp": 1784422679000,
+      "lastActivityText": "Azzardo: Con matchmaking il 19/07/2026 00:57",
+      "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-19T00:57:59Z",
+          "instanceId": "17066476214"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-19T00:52:20Z",
+          "instanceId": "17066457968"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-18T19:30:18Z",
+          "instanceId": "17065483340"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-18T02:54:04Z",
+          "instanceId": "17062974780"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-18T02:45:31Z",
+          "instanceId": "17062945500"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-18T02:38:18Z",
+          "instanceId": "17062924073"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-18T02:30:59Z",
+          "instanceId": "17062901217"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-18T02:09:19Z",
+          "instanceId": "17062823930"
+        },
+        {
+          "name": "Giardini Exodus 2A: Maestro",
+          "period": "2026-07-18T02:04:59Z",
+          "instanceId": "17062812441"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-18T02:01:48Z",
+          "instanceId": "17062798481"
+        }
+      ]
+    },
     {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
@@ -391,71 +456,6 @@
           "name": "Esplosione: Con matchmaking",
           "period": "2026-07-04T13:03:41Z",
           "instanceId": "17011631549"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 544,
-      "lastPlayedTimestamp": 1784403417000,
-      "lastActivityTimestamp": 1784403018000,
-      "lastActivityText": "Azzardo: Con matchmaking il 18/07/2026 19:30",
-      "activities": [
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-18T19:30:18Z",
-          "instanceId": "17065483340"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-18T02:54:04Z",
-          "instanceId": "17062974780"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-18T02:45:31Z",
-          "instanceId": "17062945500"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-18T02:38:18Z",
-          "instanceId": "17062924073"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-18T02:30:59Z",
-          "instanceId": "17062901217"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-18T02:09:19Z",
-          "instanceId": "17062823930"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-07-18T02:04:59Z",
-          "instanceId": "17062812441"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-18T02:01:48Z",
-          "instanceId": "17062798481"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-07-18T01:57:06Z",
-          "instanceId": "17062789477"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-18T01:54:40Z",
-          "instanceId": "17062773348"
         }
       ]
     },
