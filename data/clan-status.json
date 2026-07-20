@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T21:44:57.377Z",
+  "generatedAt": "2026-07-20T23:04:37.504Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "ClaudeFj#8206",
       "membershipId": "4611686018522886434",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
       "powerLevel": 510,
-      "lastPlayedTimestamp": 1784583764000,
-      "lastActivityTimestamp": 1784582443000,
-      "lastActivityText": "Bunker dei caduti: Con matchmaking il 20/07/2026 21:20",
+      "lastPlayedTimestamp": 1784585476000,
+      "lastActivityTimestamp": 1784585475000,
+      "lastActivityText": "Partita veloce: Normale il 20/07/2026 22:11",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-20T22:11:15Z",
+          "instanceId": "17073029850"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-20T22:00:28Z",
+          "instanceId": "17072996939"
+        },
         {
           "name": "Bunker dei caduti: Con matchmaking",
           "period": "2026-07-20T21:20:43Z",
@@ -56,16 +66,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-07-16T16:45:19Z",
           "instanceId": "17058057228"
-        },
-        {
-          "name": "Vegliante del niente: Personalizzata",
-          "period": "2026-07-16T16:14:57Z",
-          "instanceId": "17058002176"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-07-16T15:40:58Z",
-          "instanceId": "17057918055"
         }
       ]
     },
@@ -73,15 +73,25 @@
       "displayName": "Paltrix94#5760",
       "membershipId": "4611686018516491359",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
-      "powerLevel": 508,
-      "lastPlayedTimestamp": 1784583755000,
-      "lastActivityTimestamp": 1784582443000,
-      "lastActivityText": "Bunker dei caduti: Con matchmaking il 20/07/2026 21:20",
+      "powerLevel": 509,
+      "lastPlayedTimestamp": 1784585479000,
+      "lastActivityTimestamp": 1784585475000,
+      "lastActivityText": "Partita veloce: Normale il 20/07/2026 22:11",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-20T22:11:15Z",
+          "instanceId": "17073029850"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-20T22:00:28Z",
+          "instanceId": "17072996939"
+        },
         {
           "name": "Bunker dei caduti: Con matchmaking",
           "period": "2026-07-20T21:20:43Z",
@@ -121,16 +131,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-07-17T15:19:59Z",
           "instanceId": "17061041788"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-16T16:45:19Z",
-          "instanceId": "17058057228"
-        },
-        {
-          "name": "Vegliante del niente: Personalizzata",
-          "period": "2026-07-16T16:14:57Z",
-          "instanceId": "17058002176"
         }
       ]
     },
