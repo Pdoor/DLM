@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-19T23:04:40.485Z",
+  "generatedAt": "2026-07-20T01:06:37.527Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784505798000,
+      "lastActivityTimestamp": 1784505344000,
+      "lastActivityText": "Azzardo: Con matchmaking il 19/07/2026 23:55",
+      "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-19T23:55:44Z",
+          "instanceId": "17070101302"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-19T23:46:30Z",
+          "instanceId": "17070076925"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-19T23:39:02Z",
+          "instanceId": "17070055825"
+        },
+        {
+          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
+          "period": "2026-07-19T23:09:27Z",
+          "instanceId": "17070004431"
+        },
+        {
+          "name": "Derealizzazione: Personalizzata",
+          "period": "2026-07-19T19:24:00Z",
+          "instanceId": "17069379072"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-19T01:03:09Z",
+          "instanceId": "17066500667"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-19T00:57:59Z",
+          "instanceId": "17066476214"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-19T00:52:20Z",
+          "instanceId": "17066457968"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-19T00:46:15Z",
+          "instanceId": "17067159563"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-07-19T00:15:55Z",
+          "instanceId": "17066669558"
+        }
+      ]
+    },
     {
       "displayName": "Backy#4218",
       "membershipId": "4611686018462448332",
@@ -131,71 +196,6 @@
           "name": "La caduta di un Re: Standard",
           "period": "2026-07-18T11:30:27Z",
           "instanceId": "17064277404"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 549,
-      "lastPlayedTimestamp": 1784492432000,
-      "lastActivityTimestamp": 1784489040000,
-      "lastActivityText": "Derealizzazione: Personalizzata il 19/07/2026 19:24",
-      "activities": [
-        {
-          "name": "Derealizzazione: Personalizzata",
-          "period": "2026-07-19T19:24:00Z",
-          "instanceId": "17069379072"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-19T01:03:09Z",
-          "instanceId": "17066500667"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-19T00:57:59Z",
-          "instanceId": "17066476214"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-19T00:52:20Z",
-          "instanceId": "17066457968"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-19T00:46:15Z",
-          "instanceId": "17067159563"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-07-19T00:15:55Z",
-          "instanceId": "17066669558"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-18T19:30:18Z",
-          "instanceId": "17065483340"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-18T02:54:04Z",
-          "instanceId": "17062974780"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-18T02:45:31Z",
-          "instanceId": "17062945500"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-18T02:38:18Z",
-          "instanceId": "17062924073"
         }
       ]
     },
