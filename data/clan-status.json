@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T21:15:49.343Z",
+  "generatedAt": "2026-07-21T22:28:11.285Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,26 @@
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6ba69610e621b042b70caa39105b937b.jpg",
-      "powerLevel": 349,
-      "lastPlayedTimestamp": 1784668521000,
-      "lastActivityTimestamp": 1784667081000,
-      "lastActivityText": "L'arrivo: Leggenda il 21/07/2026 20:51",
+      "powerLevel": 543,
+      "lastPlayedTimestamp": 1784672755000,
+      "lastActivityTimestamp": 1784672463000,
+      "lastActivityText": "La caduta di un Re: Standard il 21/07/2026 22:21",
       "activities": [
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-07-21T22:21:03Z",
+          "instanceId": "17076093123"
+        },
+        {
+          "name": "Vegliante del niente: Personalizzata",
+          "period": "2026-07-21T21:33:15Z",
+          "instanceId": "17076005441"
+        },
+        {
+          "name": "L'arrivo: Leggenda",
+          "period": "2026-07-21T21:12:44Z",
+          "instanceId": "17075913630"
+        },
         {
           "name": "L'arrivo: Leggenda",
           "period": "2026-07-21T20:51:21Z",
@@ -51,21 +66,6 @@
           "name": "La caduta di un Re: Standard",
           "period": "2026-07-17T19:44:02Z",
           "instanceId": "17061911975"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-11T18:01:30Z",
-          "instanceId": "17040477409"
-        },
-        {
-          "name": "A testa bassa: Normale",
-          "period": "2026-07-11T17:55:45Z",
-          "instanceId": "17040472036"
-        },
-        {
-          "name": "A testa bassa: Normale",
-          "period": "2026-07-11T17:38:56Z",
-          "instanceId": "17040451147"
         }
       ]
     },
@@ -77,11 +77,26 @@
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 486,
-      "lastPlayedTimestamp": 1784668502000,
-      "lastActivityTimestamp": 1784667081000,
-      "lastActivityText": "L'arrivo: Leggenda il 21/07/2026 20:51",
+      "powerLevel": 543,
+      "lastPlayedTimestamp": 1784672744000,
+      "lastActivityTimestamp": 1784672463000,
+      "lastActivityText": "La caduta di un Re: Standard il 21/07/2026 22:21",
       "activities": [
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-07-21T22:21:03Z",
+          "instanceId": "17076093123"
+        },
+        {
+          "name": "Vegliante del niente: Personalizzata",
+          "period": "2026-07-21T21:33:15Z",
+          "instanceId": "17076005441"
+        },
+        {
+          "name": "L'arrivo: Leggenda",
+          "period": "2026-07-21T21:12:44Z",
+          "instanceId": "17075913630"
+        },
         {
           "name": "L'arrivo: Leggenda",
           "period": "2026-07-21T20:51:21Z",
@@ -114,23 +129,73 @@
         },
         {
           "name": "La caduta di un Re: Standard",
-          "period": "2026-07-20T18:50:37Z",
-          "instanceId": "17072503975"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-07-20T18:45:21Z",
-          "instanceId": "17072481066"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-07-20T18:37:24Z",
-          "instanceId": "17072468270"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
           "period": "2026-07-20T17:36:29Z",
           "instanceId": "17072639672"
+        }
+      ]
+    },
+    {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
+      "powerLevel": 408,
+      "lastPlayedTimestamp": 1784671450000,
+      "lastActivityTimestamp": 1784664027000,
+      "lastActivityText": "Rovina della Signora della Guerra: Standard il 21/07/2026 20:00",
+      "activities": [
+        {
+          "name": "Rovina della Signora della Guerra: Standard",
+          "period": "2026-07-21T20:00:27Z",
+          "instanceId": "17076057468"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Audace",
+          "period": "2026-07-20T20:40:54Z",
+          "instanceId": "17072825017"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Audace",
+          "period": "2026-07-20T13:37:29Z",
+          "instanceId": "17071849384"
+        },
+        {
+          "name": "Rovina della Signora della Guerra: Standard",
+          "period": "2026-07-17T22:05:07Z",
+          "instanceId": "17062307559"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Audace",
+          "period": "2026-07-17T21:36:51Z",
+          "instanceId": "17062040709"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Audace",
+          "period": "2026-07-16T15:38:29Z",
+          "instanceId": "17058079377"
+        },
+        {
+          "name": "Rovina della Signora della Guerra: Standard",
+          "period": "2026-07-15T21:02:45Z",
+          "instanceId": "17055692732"
+        },
+        {
+          "name": "Soli e al freddo: Audace",
+          "period": "2026-07-15T15:15:38Z",
+          "instanceId": "17054606291"
+        },
+        {
+          "name": "Il Relitto",
+          "period": "2026-07-15T13:35:07Z",
+          "instanceId": "17054316113"
+        },
+        {
+          "name": "Avamposto di Tharsis",
+          "period": "2026-07-14T22:14:10Z",
+          "instanceId": "17052349688"
         }
       ]
     },
@@ -586,71 +651,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-19T23:46:30Z",
           "instanceId": "17070076925"
-        }
-      ]
-    },
-    {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
-      "powerLevel": 408,
-      "lastPlayedTimestamp": 1784668488000,
-      "lastActivityTimestamp": 1784580054000,
-      "lastActivityText": "Fuoco e ghiaccio: Audace il 20/07/2026 20:40",
-      "activities": [
-        {
-          "name": "Fuoco e ghiaccio: Audace",
-          "period": "2026-07-20T20:40:54Z",
-          "instanceId": "17072825017"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Audace",
-          "period": "2026-07-20T13:37:29Z",
-          "instanceId": "17071849384"
-        },
-        {
-          "name": "Rovina della Signora della Guerra: Standard",
-          "period": "2026-07-17T22:05:07Z",
-          "instanceId": "17062307559"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Audace",
-          "period": "2026-07-17T21:36:51Z",
-          "instanceId": "17062040709"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Audace",
-          "period": "2026-07-16T15:38:29Z",
-          "instanceId": "17058079377"
-        },
-        {
-          "name": "Rovina della Signora della Guerra: Standard",
-          "period": "2026-07-15T21:02:45Z",
-          "instanceId": "17055692732"
-        },
-        {
-          "name": "Soli e al freddo: Audace",
-          "period": "2026-07-15T15:15:38Z",
-          "instanceId": "17054606291"
-        },
-        {
-          "name": "Il Relitto",
-          "period": "2026-07-15T13:35:07Z",
-          "instanceId": "17054316113"
-        },
-        {
-          "name": "Avamposto di Tharsis",
-          "period": "2026-07-14T22:14:10Z",
-          "instanceId": "17052349688"
-        },
-        {
-          "name": "Temibile aiutante: Audace",
-          "period": "2026-07-14T21:35:55Z",
-          "instanceId": "17052312521"
         }
       ]
     },
