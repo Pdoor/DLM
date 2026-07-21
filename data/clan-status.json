@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-21T01:00:40.548Z",
+  "generatedAt": "2026-07-21T04:25:03.562Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784607875000,
+      "lastActivityTimestamp": 1784605938000,
+      "lastActivityText": "Morsa della cupidigia: Maestro il 21/07/2026 03:52",
+      "activities": [
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-07-21T03:52:18Z",
+          "instanceId": "17073921722"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-21T03:25:01Z",
+          "instanceId": "17073854140"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-21T03:12:48Z",
+          "instanceId": "17073821259"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-21T03:03:30Z",
+          "instanceId": "17073804802"
+        },
+        {
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-07-20T19:42:47Z",
+          "instanceId": "17072624087"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-07-20T19:27:19Z",
+          "instanceId": "17072588009"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-19T23:55:44Z",
+          "instanceId": "17070101302"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-19T23:46:30Z",
+          "instanceId": "17070076925"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-19T23:39:02Z",
+          "instanceId": "17070055825"
+        },
+        {
+          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
+          "period": "2026-07-19T23:09:27Z",
+          "instanceId": "17070004431"
+        }
+      ]
+    },
     {
       "displayName": "ClaudeFj#8206",
       "membershipId": "4611686018522886434",
@@ -200,71 +265,6 @@
       ]
     },
     {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 549,
-      "lastPlayedTimestamp": 1784576916000,
-      "lastActivityTimestamp": 1784576567000,
-      "lastActivityText": "Conquista modalità estrema: La lama di Luce: Personalizzata il 20/07/2026 19:42",
-      "activities": [
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-07-20T19:42:47Z",
-          "instanceId": "17072624087"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-20T19:27:19Z",
-          "instanceId": "17072588009"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-19T23:55:44Z",
-          "instanceId": "17070101302"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-19T23:46:30Z",
-          "instanceId": "17070076925"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-19T23:39:02Z",
-          "instanceId": "17070055825"
-        },
-        {
-          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
-          "period": "2026-07-19T23:09:27Z",
-          "instanceId": "17070004431"
-        },
-        {
-          "name": "Derealizzazione: Personalizzata",
-          "period": "2026-07-19T19:24:00Z",
-          "instanceId": "17069379072"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-19T01:03:09Z",
-          "instanceId": "17066500667"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-19T00:46:15Z",
-          "instanceId": "17067159563"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-07-19T00:15:55Z",
-          "instanceId": "17066669558"
-        }
-      ]
-    },
-    {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
@@ -398,12 +398,12 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784573979000,
+      "lastPlayedTimestamp": 1784607841000,
       "lastActivityTimestamp": 1784568745000,
       "lastActivityText": "Pallido Cuore il 20/07/2026 17:32",
       "activities": [
