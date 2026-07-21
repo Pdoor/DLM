@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-21T07:11:24.971Z",
+  "generatedAt": "2026-07-21T10:04:09.037Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 523,
+      "lastPlayedTimestamp": 1784628221000,
+      "lastActivityTimestamp": 1784626810000,
+      "lastActivityText": "Partita veloce: Normale il 21/07/2026 09:40",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-21T09:40:10Z",
+          "instanceId": "17074522677"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-18T21:08:08Z",
+          "instanceId": "17065978900"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-18T21:05:33Z",
+          "instanceId": "17065771777"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-18T21:02:15Z",
+          "instanceId": "17065760210"
+        },
+        {
+          "name": "Logistica R1: Personalizzata",
+          "period": "2026-07-17T11:08:34Z",
+          "instanceId": "17060579919"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-17T10:29:26Z",
+          "instanceId": "17060523303"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-17T10:04:35Z",
+          "instanceId": "17060486373"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-14T10:25:40Z",
+          "instanceId": "17050717430"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-11T21:55:28Z",
+          "instanceId": "17041284836"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Personalizzata",
+          "period": "2026-07-11T21:38:28Z",
+          "instanceId": "17041250408"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -13,7 +78,7 @@
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784617847000,
+      "lastPlayedTimestamp": 1784627991000,
       "lastActivityTimestamp": 1784612131000,
       "lastActivityText": "Pallido Cuore il 21/07/2026 05:35",
       "activities": [
@@ -21,6 +86,11 @@
           "name": "Pallido Cuore",
           "period": "2026-07-21T05:35:31Z",
           "instanceId": "17074172372"
+        },
+        {
+          "name": "Rovesciamento",
+          "period": "2026-07-21T04:40:23Z",
+          "instanceId": "17074320657"
         },
         {
           "name": "Neomuna",
@@ -61,11 +131,6 @@
           "name": "Fortezza della Guida: Con matchmaking",
           "period": "2026-07-20T09:02:13Z",
           "instanceId": "17071390679"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-07-20T07:01:16Z",
-          "instanceId": "17071192573"
         }
       ]
     },
@@ -99,6 +164,11 @@
         },
         {
           "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-21T03:18:21Z",
+          "instanceId": "17074328998"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
           "period": "2026-07-21T03:12:48Z",
           "instanceId": "17073821259"
         },
@@ -126,11 +196,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-19T23:46:30Z",
           "instanceId": "17070076925"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-19T23:39:02Z",
-          "instanceId": "17070055825"
         }
       ]
     },
@@ -846,71 +911,6 @@
           "name": "Il Relitto",
           "period": "2026-07-18T19:04:08Z",
           "instanceId": "17065388485"
-        }
-      ]
-    },
-    {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 519,
-      "lastPlayedTimestamp": 1784412978000,
-      "lastActivityTimestamp": 1784408888000,
-      "lastActivityText": "Ultimo desiderio: Standard il 18/07/2026 21:08",
-      "activities": [
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-18T21:08:08Z",
-          "instanceId": "17065978900"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-18T21:05:33Z",
-          "instanceId": "17065771777"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-18T21:02:15Z",
-          "instanceId": "17065760210"
-        },
-        {
-          "name": "Logistica R1: Personalizzata",
-          "period": "2026-07-17T11:08:34Z",
-          "instanceId": "17060579919"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-17T10:29:26Z",
-          "instanceId": "17060523303"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-17T10:04:35Z",
-          "instanceId": "17060486373"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-14T10:25:40Z",
-          "instanceId": "17050717430"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-11T21:55:28Z",
-          "instanceId": "17041284836"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Personalizzata",
-          "period": "2026-07-11T21:38:28Z",
-          "instanceId": "17041250408"
-        },
-        {
-          "name": "Ora zero: Personalizzata",
-          "period": "2026-07-11T21:11:43Z",
-          "instanceId": "17041194098"
         }
       ]
     },
