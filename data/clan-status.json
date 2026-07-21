@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-07-21T14:35:57.195Z",
+  "generatedAt": "2026-07-21T16:26:18.184Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
+      "displayName": "Alex25222#495",
+      "membershipId": "4611686018443374059",
       "bungieNetMembershipId": "",
       "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "className": "Titani",
+      "title": "Signora del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/93fb4dc92cd3cd0489bb9566a5c74448.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784644448000,
-      "lastActivityTimestamp": 1784640446000,
-      "lastActivityText": "Ultimo desiderio: Standard il 21/07/2026 13:27",
+      "lastPlayedTimestamp": 1784651159000,
+      "lastActivityTimestamp": 1784649157000,
+      "lastActivityText": "Tronomondo di Savathûn il 21/07/2026 15:52",
       "activities": [
         {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-07-21T15:52:37Z",
+          "instanceId": "17075126902"
+        },
+        {
+          "name": "Ricordi della perdita",
+          "period": "2026-07-21T15:36:39Z",
+          "instanceId": "17075124920"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-07-21T15:25:44Z",
+          "instanceId": "17075092053"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Leggendaria",
+          "period": "2026-07-20T10:27:27Z",
+          "instanceId": "17071959856"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Audace",
+          "period": "2026-07-20T09:12:44Z",
+          "instanceId": "17071471523"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-19T09:13:24Z",
+          "instanceId": "17067773092"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-19T08:58:55Z",
+          "instanceId": "17067745075"
+        },
+        {
           "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-21T13:27:26Z",
-          "instanceId": "17074863439"
+          "period": "2026-07-18T21:08:08Z",
+          "instanceId": "17065978900"
         },
         {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-07-21T13:00:18Z",
-          "instanceId": "17074815753"
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-18T21:05:33Z",
+          "instanceId": "17065771777"
         },
         {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-07-21T11:18:49Z",
-          "instanceId": "17074664734"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-21T10:30:41Z",
-          "instanceId": "17074615766"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-21T09:55:25Z",
-          "instanceId": "17074555464"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-21T05:35:31Z",
-          "instanceId": "17074172372"
-        },
-        {
-          "name": "Rovesciamento",
-          "period": "2026-07-21T04:40:23Z",
-          "instanceId": "17074320657"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-21T04:23:40Z",
-          "instanceId": "17074100435"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-20T17:32:25Z",
-          "instanceId": "17072504382"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-20T14:45:54Z",
-          "instanceId": "17072059677"
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-18T21:02:15Z",
+          "instanceId": "17065760210"
         }
       ]
     },
@@ -73,15 +73,20 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 524,
-      "lastPlayedTimestamp": 1784644283000,
-      "lastActivityTimestamp": 1784638648000,
-      "lastActivityText": "Conservazione il 21/07/2026 12:57",
+      "lastPlayedTimestamp": 1784647983000,
+      "lastActivityTimestamp": 1784644589000,
+      "lastActivityText": "Presagio: Personalizzata il 21/07/2026 14:36",
       "activities": [
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-07-21T14:36:29Z",
+          "instanceId": "17075071332"
+        },
         {
           "name": "Conservazione",
           "period": "2026-07-21T12:57:28Z",
@@ -126,11 +131,71 @@
           "name": "Partita veloce: Normale",
           "period": "2026-07-21T09:40:10Z",
           "instanceId": "17074522677"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784650929000,
+      "lastActivityTimestamp": 1784641537000,
+      "lastActivityText": "Pallido Cuore il 21/07/2026 13:45",
+      "activities": [
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-21T13:45:37Z",
+          "instanceId": "17075040135"
         },
         {
           "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-18T21:08:08Z",
-          "instanceId": "17065978900"
+          "period": "2026-07-21T13:27:26Z",
+          "instanceId": "17074863439"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-07-21T13:00:18Z",
+          "instanceId": "17074815753"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-07-21T11:18:49Z",
+          "instanceId": "17074664734"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-21T10:30:41Z",
+          "instanceId": "17074615766"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-21T09:55:25Z",
+          "instanceId": "17074555464"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-21T05:35:31Z",
+          "instanceId": "17074172372"
+        },
+        {
+          "name": "Rovesciamento",
+          "period": "2026-07-21T04:40:23Z",
+          "instanceId": "17074320657"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-07-21T04:23:40Z",
+          "instanceId": "17074100435"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-20T17:32:25Z",
+          "instanceId": "17072504382"
         }
       ]
     },
@@ -138,12 +203,12 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
       "powerLevel": 480,
-      "lastPlayedTimestamp": 1784637917000,
+      "lastPlayedTimestamp": 1784651152000,
       "lastActivityTimestamp": 1784635092000,
       "lastActivityText": "La caduta di un Re: Standard il 21/07/2026 11:58",
       "activities": [
@@ -593,12 +658,12 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1784637203000,
+      "lastPlayedTimestamp": 1784651096000,
       "lastActivityTimestamp": 1784554455000,
       "lastActivityText": "Neomuna il 20/07/2026 13:34",
       "activities": [
@@ -781,71 +846,6 @@
           "name": "Ora zero: Personalizzata",
           "period": "2026-07-19T13:56:07Z",
           "instanceId": "17068432378"
-        }
-      ]
-    },
-    {
-      "displayName": "Alex25222#495",
-      "membershipId": "4611686018443374059",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Signora del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/93fb4dc92cd3cd0489bb9566a5c74448.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1784631026000,
-      "lastActivityTimestamp": 1784543247000,
-      "lastActivityText": "Fuoco e ghiaccio: Leggendaria il 20/07/2026 10:27",
-      "activities": [
-        {
-          "name": "Fuoco e ghiaccio: Leggendaria",
-          "period": "2026-07-20T10:27:27Z",
-          "instanceId": "17071959856"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Audace",
-          "period": "2026-07-20T09:12:44Z",
-          "instanceId": "17071471523"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-19T09:13:24Z",
-          "instanceId": "17067773092"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-19T08:58:55Z",
-          "instanceId": "17067745075"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-18T21:08:08Z",
-          "instanceId": "17065978900"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-18T21:05:33Z",
-          "instanceId": "17065771777"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-18T21:02:15Z",
-          "instanceId": "17065760210"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-18T20:33:51Z",
-          "instanceId": "17065689833"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-18T20:17:20Z",
-          "instanceId": "17065653074"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-18T20:04:26Z",
-          "instanceId": "17065609807"
         }
       ]
     },
@@ -1048,12 +1048,12 @@
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6ba69610e621b042b70caa39105b937b.jpg",
       "powerLevel": 348,
-      "lastPlayedTimestamp": 1784575854000,
+      "lastPlayedTimestamp": 1784650770000,
       "lastActivityTimestamp": 1784333391000,
       "lastActivityText": "Ultimo desiderio: Standard il 18/07/2026 00:09",
       "activities": [
@@ -1633,12 +1633,12 @@
       "displayName": "luxya__13#5940",
       "membershipId": "4611686018555449414",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1b2c28a8998818b74ff0509d1d7ed7.jpg",
       "powerLevel": 523,
-      "lastPlayedTimestamp": 1783940275000,
+      "lastPlayedTimestamp": 1784650870000,
       "lastActivityTimestamp": 1783157636000,
       "lastActivityText": "Conquista modalità gran maestro: Eliostato: Personalizzata il 04/07/2026 09:33",
       "activities": [
