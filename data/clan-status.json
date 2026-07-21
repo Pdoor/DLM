@@ -1,87 +1,32 @@
 {
-  "generatedAt": "2026-07-21T12:09:34.213Z",
+  "generatedAt": "2026-07-21T14:35:57.195Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 523,
-      "lastPlayedTimestamp": 1784635742000,
-      "lastActivityTimestamp": 1784634293000,
-      "lastActivityText": "Partita veloce: Normale il 21/07/2026 11:44",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-21T11:44:53Z",
-          "instanceId": "17074690920"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-21T11:35:25Z",
-          "instanceId": "17074674726"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-21T10:50:54Z",
-          "instanceId": "17074622388"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-21T10:37:31Z",
-          "instanceId": "17074597492"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-21T10:20:12Z",
-          "instanceId": "17074579467"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-21T09:54:13Z",
-          "instanceId": "17074542665"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-21T09:40:10Z",
-          "instanceId": "17074522677"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-18T21:08:08Z",
-          "instanceId": "17065978900"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-18T21:05:33Z",
-          "instanceId": "17065771777"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-18T21:02:15Z",
-          "instanceId": "17065760210"
-        }
-      ]
-    },
-    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784632808000,
-      "lastActivityTimestamp": 1784632729000,
-      "lastActivityText": "Campi di battaglia: Oracolo: Con matchmaking il 21/07/2026 11:18",
+      "lastPlayedTimestamp": 1784644448000,
+      "lastActivityTimestamp": 1784640446000,
+      "lastActivityText": "Ultimo desiderio: Standard il 21/07/2026 13:27",
       "activities": [
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-21T13:27:26Z",
+          "instanceId": "17074863439"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-07-21T13:00:18Z",
+          "instanceId": "17074815753"
+        },
         {
           "name": "Campi di battaglia: Oracolo: Con matchmaking",
           "period": "2026-07-21T11:18:49Z",
@@ -121,16 +66,136 @@
           "name": "Pallido Cuore",
           "period": "2026-07-20T14:45:54Z",
           "instanceId": "17072059677"
+        }
+      ]
+    },
+    {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 524,
+      "lastPlayedTimestamp": 1784644283000,
+      "lastActivityTimestamp": 1784638648000,
+      "lastActivityText": "Conservazione il 21/07/2026 12:57",
+      "activities": [
+        {
+          "name": "Conservazione",
+          "period": "2026-07-21T12:57:28Z",
+          "instanceId": "17074809527"
         },
         {
-          "name": "Pallido Cuore",
-          "period": "2026-07-20T14:15:14Z",
-          "instanceId": "17071911918"
+          "name": "Conservazione",
+          "period": "2026-07-21T11:58:51Z",
+          "instanceId": "17074785906"
         },
         {
-          "name": "Cosmodromo",
-          "period": "2026-07-20T14:00:33Z",
-          "instanceId": "17071856773"
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-21T11:44:53Z",
+          "instanceId": "17074690920"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-21T11:35:25Z",
+          "instanceId": "17074674726"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-21T10:50:54Z",
+          "instanceId": "17074622388"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-21T10:37:31Z",
+          "instanceId": "17074597492"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-21T10:20:12Z",
+          "instanceId": "17074579467"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-21T09:54:13Z",
+          "instanceId": "17074542665"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-21T09:40:10Z",
+          "instanceId": "17074522677"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-18T21:08:08Z",
+          "instanceId": "17065978900"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
+      "powerLevel": 480,
+      "lastPlayedTimestamp": 1784637917000,
+      "lastActivityTimestamp": 1784635092000,
+      "lastActivityText": "La caduta di un Re: Standard il 21/07/2026 11:58",
+      "activities": [
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-07-21T11:58:12Z",
+          "instanceId": "17074766814"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-07-20T18:50:37Z",
+          "instanceId": "17072503975"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-07-20T18:45:21Z",
+          "instanceId": "17072481066"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-07-20T18:37:24Z",
+          "instanceId": "17072468270"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-07-20T18:32:28Z",
+          "instanceId": "17072442384"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-07-20T17:36:29Z",
+          "instanceId": "17072639672"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-07-20T14:16:02Z",
+          "instanceId": "17072043524"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-07-20T13:35:33Z",
+          "instanceId": "17071853255"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-07-20T12:06:55Z",
+          "instanceId": "17071685743"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-07-20T11:21:19Z",
+          "instanceId": "17071620349"
         }
       ]
     },
@@ -395,71 +460,6 @@
       ]
     },
     {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1784635607000,
-      "lastActivityTimestamp": 1784573437000,
-      "lastActivityText": "La caduta di un Re: Standard il 20/07/2026 18:50",
-      "activities": [
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-07-20T18:50:37Z",
-          "instanceId": "17072503975"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-07-20T18:45:21Z",
-          "instanceId": "17072481066"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-07-20T18:37:24Z",
-          "instanceId": "17072468270"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-07-20T18:32:28Z",
-          "instanceId": "17072442384"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-07-20T17:36:29Z",
-          "instanceId": "17072639672"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-07-20T14:16:02Z",
-          "instanceId": "17072043524"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-07-20T13:35:33Z",
-          "instanceId": "17071853255"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-07-20T12:06:55Z",
-          "instanceId": "17071685743"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-07-20T11:21:19Z",
-          "instanceId": "17071620349"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-07-19T20:00:16Z",
-          "instanceId": "17069773454"
-        }
-      ]
-    },
-    {
       "displayName": "Backy#4218",
       "membershipId": "4611686018462448332",
       "bungieNetMembershipId": "",
@@ -598,7 +598,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1784554516000,
+      "lastPlayedTimestamp": 1784637203000,
       "lastActivityTimestamp": 1784554455000,
       "lastActivityText": "Neomuna il 20/07/2026 13:34",
       "activities": [
