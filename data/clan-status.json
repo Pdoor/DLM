@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T22:28:11.285Z",
+  "generatedAt": "2026-07-21T23:32:24.743Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6ba69610e621b042b70caa39105b937b.jpg",
-      "powerLevel": 543,
-      "lastPlayedTimestamp": 1784672755000,
-      "lastActivityTimestamp": 1784672463000,
-      "lastActivityText": "La caduta di un Re: Standard il 21/07/2026 22:21",
+      "powerLevel": 349,
+      "lastPlayedTimestamp": 1784675043000,
+      "lastActivityTimestamp": 1784672695000,
+      "lastActivityText": "La caduta di un Re: Standard il 21/07/2026 22:24",
       "activities": [
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-07-21T22:24:55Z",
+          "instanceId": "17076239055"
+        },
         {
           "name": "La caduta di un Re: Standard",
           "period": "2026-07-21T22:21:03Z",
@@ -61,11 +66,6 @@
           "name": "La caduta di un Re: Standard",
           "period": "2026-07-17T22:38:06Z",
           "instanceId": "17062450045"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-07-17T19:44:02Z",
-          "instanceId": "17061911975"
         }
       ]
     },
@@ -73,15 +73,20 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 543,
-      "lastPlayedTimestamp": 1784672744000,
-      "lastActivityTimestamp": 1784672463000,
-      "lastActivityText": "La caduta di un Re: Standard il 21/07/2026 22:21",
+      "powerLevel": 488,
+      "lastPlayedTimestamp": 1784675007000,
+      "lastActivityTimestamp": 1784672695000,
+      "lastActivityText": "La caduta di un Re: Standard il 21/07/2026 22:24",
       "activities": [
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-07-21T22:24:55Z",
+          "instanceId": "17076239055"
+        },
         {
           "name": "La caduta di un Re: Standard",
           "period": "2026-07-21T22:21:03Z",
@@ -126,11 +131,6 @@
           "name": "La caduta di un Re: Standard",
           "period": "2026-07-21T11:58:12Z",
           "instanceId": "17074766814"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-07-20T17:36:29Z",
-          "instanceId": "17072639672"
         }
       ]
     },
