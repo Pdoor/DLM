@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T10:04:09.037Z",
+  "generatedAt": "2026-07-21T12:09:34.213Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,40 @@
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 523,
-      "lastPlayedTimestamp": 1784628221000,
-      "lastActivityTimestamp": 1784626810000,
-      "lastActivityText": "Partita veloce: Normale il 21/07/2026 09:40",
+      "lastPlayedTimestamp": 1784635742000,
+      "lastActivityTimestamp": 1784634293000,
+      "lastActivityText": "Partita veloce: Normale il 21/07/2026 11:44",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-21T11:44:53Z",
+          "instanceId": "17074690920"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-21T11:35:25Z",
+          "instanceId": "17074674726"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-21T10:50:54Z",
+          "instanceId": "17074622388"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-21T10:37:31Z",
+          "instanceId": "17074597492"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-21T10:20:12Z",
+          "instanceId": "17074579467"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-21T09:54:13Z",
+          "instanceId": "17074542665"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-07-21T09:40:10Z",
@@ -36,36 +66,6 @@
           "name": "Ultimo desiderio: Standard",
           "period": "2026-07-18T21:02:15Z",
           "instanceId": "17065760210"
-        },
-        {
-          "name": "Logistica R1: Personalizzata",
-          "period": "2026-07-17T11:08:34Z",
-          "instanceId": "17060579919"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-17T10:29:26Z",
-          "instanceId": "17060523303"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-17T10:04:35Z",
-          "instanceId": "17060486373"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-14T10:25:40Z",
-          "instanceId": "17050717430"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-11T21:55:28Z",
-          "instanceId": "17041284836"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Personalizzata",
-          "period": "2026-07-11T21:38:28Z",
-          "instanceId": "17041250408"
         }
       ]
     },
@@ -73,15 +73,30 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784627991000,
-      "lastActivityTimestamp": 1784612131000,
-      "lastActivityText": "Pallido Cuore il 21/07/2026 05:35",
+      "lastPlayedTimestamp": 1784632808000,
+      "lastActivityTimestamp": 1784632729000,
+      "lastActivityText": "Campi di battaglia: Oracolo: Con matchmaking il 21/07/2026 11:18",
       "activities": [
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-07-21T11:18:49Z",
+          "instanceId": "17074664734"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-21T10:30:41Z",
+          "instanceId": "17074615766"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-21T09:55:25Z",
+          "instanceId": "17074555464"
+        },
         {
           "name": "Pallido Cuore",
           "period": "2026-07-21T05:35:31Z",
@@ -116,21 +131,6 @@
           "name": "Cosmodromo",
           "period": "2026-07-20T14:00:33Z",
           "instanceId": "17071856773"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-07-20T13:44:21Z",
-          "instanceId": "17071824092"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-07-20T09:38:23Z",
-          "instanceId": "17071465143"
-        },
-        {
-          "name": "Fortezza della Guida: Con matchmaking",
-          "period": "2026-07-20T09:02:13Z",
-          "instanceId": "17071390679"
         }
       ]
     },
@@ -398,12 +398,12 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 469,
-      "lastPlayedTimestamp": 1784573993000,
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1784635607000,
       "lastActivityTimestamp": 1784573437000,
       "lastActivityText": "La caduta di un Re: Standard il 20/07/2026 18:50",
       "activities": [
@@ -793,7 +793,7 @@
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/93fb4dc92cd3cd0489bb9566a5c74448.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784545416000,
+      "lastPlayedTimestamp": 1784631026000,
       "lastActivityTimestamp": 1784543247000,
       "lastActivityText": "Fuoco e ghiaccio: Leggendaria il 20/07/2026 10:27",
       "activities": [
