@@ -1,22 +1,92 @@
 {
-  "generatedAt": "2026-07-21T04:25:03.562Z",
+  "generatedAt": "2026-07-21T07:11:24.971Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784617847000,
+      "lastActivityTimestamp": 1784612131000,
+      "lastActivityText": "Pallido Cuore il 21/07/2026 05:35",
+      "activities": [
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-21T05:35:31Z",
+          "instanceId": "17074172372"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-07-21T04:23:40Z",
+          "instanceId": "17074100435"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-20T17:32:25Z",
+          "instanceId": "17072504382"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-20T14:45:54Z",
+          "instanceId": "17072059677"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-20T14:15:14Z",
+          "instanceId": "17071911918"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-20T14:00:33Z",
+          "instanceId": "17071856773"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-07-20T13:44:21Z",
+          "instanceId": "17071824092"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-07-20T09:38:23Z",
+          "instanceId": "17071465143"
+        },
+        {
+          "name": "Fortezza della Guida: Con matchmaking",
+          "period": "2026-07-20T09:02:13Z",
+          "instanceId": "17071390679"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-07-20T07:01:16Z",
+          "instanceId": "17071192573"
+        }
+      ]
+    },
+    {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784607875000,
-      "lastActivityTimestamp": 1784605938000,
-      "lastActivityText": "Morsa della cupidigia: Maestro il 21/07/2026 03:52",
+      "lastPlayedTimestamp": 1784608071000,
+      "lastActivityTimestamp": 1784607855000,
+      "lastActivityText": "La Città Sognante il 21/07/2026 04:24",
       "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-21T04:24:15Z",
+          "instanceId": "17074000479"
+        },
         {
           "name": "Morsa della cupidigia: Maestro",
           "period": "2026-07-21T03:52:18Z",
@@ -61,11 +131,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-19T23:39:02Z",
           "instanceId": "17070055825"
-        },
-        {
-          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
-          "period": "2026-07-19T23:09:27Z",
-          "instanceId": "17070004431"
         }
       ]
     },
@@ -391,71 +456,6 @@
           "name": "La Città Sognante",
           "period": "2026-06-27T13:49:20Z",
           "instanceId": "16980295074"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1784607841000,
-      "lastActivityTimestamp": 1784568745000,
-      "lastActivityText": "Pallido Cuore il 20/07/2026 17:32",
-      "activities": [
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-20T17:32:25Z",
-          "instanceId": "17072504382"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-20T14:45:54Z",
-          "instanceId": "17072059677"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-20T14:15:14Z",
-          "instanceId": "17071911918"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-20T14:00:33Z",
-          "instanceId": "17071856773"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-07-20T13:44:21Z",
-          "instanceId": "17071824092"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-07-20T09:38:23Z",
-          "instanceId": "17071465143"
-        },
-        {
-          "name": "Fortezza della Guida: Con matchmaking",
-          "period": "2026-07-20T09:02:13Z",
-          "instanceId": "17071390679"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-07-20T07:01:16Z",
-          "instanceId": "17071192573"
-        },
-        {
-          "name": "Vegliante del niente: Con matchmaking",
-          "period": "2026-07-20T06:31:44Z",
-          "instanceId": "17071152949"
-        },
-        {
-          "name": "Fortezza della Guida: Con matchmaking",
-          "period": "2026-07-19T17:39:25Z",
-          "instanceId": "17068999784"
         }
       ]
     },
