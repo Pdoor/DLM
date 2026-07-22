@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-22T03:16:33.065Z",
+  "generatedAt": "2026-07-22T06:11:24.464Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784700634000,
+      "lastActivityTimestamp": 1784697668000,
+      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 22/07/2026 05:21",
+      "activities": [
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-22T05:21:08Z",
+          "instanceId": "17077237225"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-21T17:56:55Z",
+          "instanceId": "17075481354"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-21T16:57:54Z",
+          "instanceId": "17075380017"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-21T16:46:14Z",
+          "instanceId": "17075280847"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-21T13:45:37Z",
+          "instanceId": "17075040135"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-21T13:27:26Z",
+          "instanceId": "17074863439"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-07-21T13:00:18Z",
+          "instanceId": "17074815753"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-07-21T11:18:49Z",
+          "instanceId": "17074664734"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-21T10:30:41Z",
+          "instanceId": "17074615766"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-21T09:55:25Z",
+          "instanceId": "17074555464"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -326,71 +391,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-19T08:58:55Z",
           "instanceId": "17067745075"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1784658730000,
-      "lastActivityTimestamp": 1784656615000,
-      "lastActivityText": "Pallido Cuore il 21/07/2026 17:56",
-      "activities": [
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-21T17:56:55Z",
-          "instanceId": "17075481354"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-21T16:57:54Z",
-          "instanceId": "17075380017"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-21T16:46:14Z",
-          "instanceId": "17075280847"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-21T13:45:37Z",
-          "instanceId": "17075040135"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-21T13:27:26Z",
-          "instanceId": "17074863439"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-07-21T13:00:18Z",
-          "instanceId": "17074815753"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-07-21T11:18:49Z",
-          "instanceId": "17074664734"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-21T10:30:41Z",
-          "instanceId": "17074615766"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-21T09:55:25Z",
-          "instanceId": "17074555464"
-        },
-        {
-          "name": "Rovesciamento",
-          "period": "2026-07-21T04:40:23Z",
-          "instanceId": "17074320657"
         }
       ]
     },
