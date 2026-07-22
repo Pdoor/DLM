@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T09:10:28.215Z",
+  "generatedAt": "2026-07-22T11:26:20.191Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,20 @@
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784707349000,
-      "lastActivityTimestamp": 1784703259000,
-      "lastActivityText": "Zona Morta Europea il 22/07/2026 06:54",
+      "lastPlayedTimestamp": 1784719138000,
+      "lastActivityTimestamp": 1784717836000,
+      "lastActivityText": "La lama di Luce: Con matchmaking il 22/07/2026 10:57",
       "activities": [
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-07-22T10:57:16Z",
+          "instanceId": "17077725602"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-22T10:37:45Z",
+          "instanceId": "17077699612"
+        },
         {
           "name": "Zona Morta Europea",
           "period": "2026-07-22T06:54:19Z",
@@ -56,16 +66,266 @@
           "name": "Ultimo desiderio: Standard",
           "period": "2026-07-21T13:27:26Z",
           "instanceId": "17074863439"
+        }
+      ]
+    },
+    {
+      "displayName": "Alex25222#495",
+      "membershipId": "4611686018443374059",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Signora del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784719571000,
+      "lastActivityTimestamp": 1784716102000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 22/07/2026 10:28",
+      "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-22T10:28:22Z",
+          "instanceId": "17077683742"
         },
         {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-07-21T13:00:18Z",
-          "instanceId": "17074815753"
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-21T18:10:50Z",
+          "instanceId": "17075461713"
         },
         {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-07-21T11:18:49Z",
-          "instanceId": "17074664734"
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-21T17:55:32Z",
+          "instanceId": "17075426735"
+        },
+        {
+          "name": "Il rituale: Leggenda",
+          "period": "2026-07-21T16:09:09Z",
+          "instanceId": "17075244608"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-07-21T15:52:37Z",
+          "instanceId": "17075126902"
+        },
+        {
+          "name": "Ricordi della perdita",
+          "period": "2026-07-21T15:36:39Z",
+          "instanceId": "17075124920"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-07-21T15:25:44Z",
+          "instanceId": "17075092053"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Leggendaria",
+          "period": "2026-07-20T10:27:27Z",
+          "instanceId": "17071959856"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Audace",
+          "period": "2026-07-20T09:12:44Z",
+          "instanceId": "17071471523"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-19T09:13:24Z",
+          "instanceId": "17067773092"
+        }
+      ]
+    },
+    {
+      "displayName": "ClaudeFj#8206",
+      "membershipId": "4611686018522886434",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
+      "powerLevel": 511,
+      "lastPlayedTimestamp": 1784716089000,
+      "lastActivityTimestamp": 1784713787000,
+      "lastActivityText": "La Fortezza Scarlatta: Con matchmaking il 22/07/2026 09:49",
+      "activities": [
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-07-22T09:49:47Z",
+          "instanceId": "17077649021"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-22T09:27:23Z",
+          "instanceId": "17077611875"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-07-21T17:03:00Z",
+          "instanceId": "17075305001"
+        },
+        {
+          "name": "La corrotta: Con matchmaking",
+          "period": "2026-07-21T16:41:05Z",
+          "instanceId": "17075267649"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-20T22:11:15Z",
+          "instanceId": "17073029850"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-20T22:00:28Z",
+          "instanceId": "17072996939"
+        },
+        {
+          "name": "Bunker dei caduti: Con matchmaking",
+          "period": "2026-07-20T21:20:43Z",
+          "instanceId": "17072922290"
+        },
+        {
+          "name": "La corrotta: Con matchmaking",
+          "period": "2026-07-20T20:56:55Z",
+          "instanceId": "17072849819"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-20T10:42:25Z",
+          "instanceId": "17071516773"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-20T10:02:11Z",
+          "instanceId": "17071465104"
+        }
+      ]
+    },
+    {
+      "displayName": "Paltrix94#5760",
+      "membershipId": "4611686018516491359",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
+      "powerLevel": 513,
+      "lastPlayedTimestamp": 1784716090000,
+      "lastActivityTimestamp": 1784713787000,
+      "lastActivityText": "La Fortezza Scarlatta: Con matchmaking il 22/07/2026 09:49",
+      "activities": [
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-07-22T09:49:47Z",
+          "instanceId": "17077649021"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-22T09:27:23Z",
+          "instanceId": "17077611875"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-22T09:15:15Z",
+          "instanceId": "17077581546"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-07-21T17:03:00Z",
+          "instanceId": "17075305001"
+        },
+        {
+          "name": "La corrotta: Con matchmaking",
+          "period": "2026-07-21T16:41:05Z",
+          "instanceId": "17075267649"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-20T22:11:15Z",
+          "instanceId": "17073029850"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-20T22:00:28Z",
+          "instanceId": "17072996939"
+        },
+        {
+          "name": "Bunker dei caduti: Con matchmaking",
+          "period": "2026-07-20T21:20:43Z",
+          "instanceId": "17072922290"
+        },
+        {
+          "name": "La corrotta: Con matchmaking",
+          "period": "2026-07-20T20:56:55Z",
+          "instanceId": "17072849819"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-20T10:42:25Z",
+          "instanceId": "17071516773"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1784715437000,
+      "lastActivityTimestamp": 1784713374000,
+      "lastActivityText": "Pallido Cuore il 22/07/2026 09:42",
+      "activities": [
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-22T09:42:54Z",
+          "instanceId": "17077653819"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-21T16:46:14Z",
+          "instanceId": "17075280847"
+        },
+        {
+          "name": "Iconoclastia: Leggendaria",
+          "period": "2026-07-21T15:49:29Z",
+          "instanceId": "17075240436"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-07-20T13:34:15Z",
+          "instanceId": "17071780238"
+        },
+        {
+          "name": "Non resta molto tempo: Leggendaria",
+          "period": "2026-07-20T12:53:34Z",
+          "instanceId": "17071773310"
+        },
+        {
+          "name": "Spirale invertita",
+          "period": "2026-07-19T18:25:34Z",
+          "instanceId": "17069187804"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-19T18:06:32Z",
+          "instanceId": "17069062664"
+        },
+        {
+          "name": "Fortezza della Guida: Con matchmaking",
+          "period": "2026-07-19T17:39:25Z",
+          "instanceId": "17068999784"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-19T17:37:43Z",
+          "instanceId": "17068931849"
+        },
+        {
+          "name": "Il trono infranto",
+          "period": "2026-07-19T17:35:26Z",
+          "instanceId": "17068924181"
         }
       ]
     },
@@ -330,266 +590,6 @@
       ]
     },
     {
-      "displayName": "Alex25222#495",
-      "membershipId": "4611686018443374059",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Signora del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/93fb4dc92cd3cd0489bb9566a5c74448.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1784664946000,
-      "lastActivityTimestamp": 1784657450000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 21/07/2026 18:10",
-      "activities": [
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-21T18:10:50Z",
-          "instanceId": "17075461713"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-21T17:55:32Z",
-          "instanceId": "17075426735"
-        },
-        {
-          "name": "Il rituale: Leggenda",
-          "period": "2026-07-21T16:09:09Z",
-          "instanceId": "17075244608"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-07-21T15:52:37Z",
-          "instanceId": "17075126902"
-        },
-        {
-          "name": "Ricordi della perdita",
-          "period": "2026-07-21T15:36:39Z",
-          "instanceId": "17075124920"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-07-21T15:25:44Z",
-          "instanceId": "17075092053"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Leggendaria",
-          "period": "2026-07-20T10:27:27Z",
-          "instanceId": "17071959856"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Audace",
-          "period": "2026-07-20T09:12:44Z",
-          "instanceId": "17071471523"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-19T09:13:24Z",
-          "instanceId": "17067773092"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-19T08:58:55Z",
-          "instanceId": "17067745075"
-        }
-      ]
-    },
-    {
-      "displayName": "ClaudeFj#8206",
-      "membershipId": "4611686018522886434",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6da65dd82b872253a3e345127bde7349.jpg",
-      "powerLevel": 510,
-      "lastPlayedTimestamp": 1784654325000,
-      "lastActivityTimestamp": 1784653380000,
-      "lastActivityText": "La lama di Luce: Con matchmaking il 21/07/2026 17:03",
-      "activities": [
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-07-21T17:03:00Z",
-          "instanceId": "17075305001"
-        },
-        {
-          "name": "La corrotta: Con matchmaking",
-          "period": "2026-07-21T16:41:05Z",
-          "instanceId": "17075267649"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-20T22:11:15Z",
-          "instanceId": "17073029850"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-20T22:00:28Z",
-          "instanceId": "17072996939"
-        },
-        {
-          "name": "Bunker dei caduti: Con matchmaking",
-          "period": "2026-07-20T21:20:43Z",
-          "instanceId": "17072922290"
-        },
-        {
-          "name": "La corrotta: Con matchmaking",
-          "period": "2026-07-20T20:56:55Z",
-          "instanceId": "17072849819"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-20T10:42:25Z",
-          "instanceId": "17071516773"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-20T10:02:11Z",
-          "instanceId": "17071465104"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-07-20T09:29:12Z",
-          "instanceId": "17071423920"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-20T09:15:57Z",
-          "instanceId": "17071398676"
-        }
-      ]
-    },
-    {
-      "displayName": "Paltrix94#5760",
-      "membershipId": "4611686018516491359",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
-      "powerLevel": 509,
-      "lastPlayedTimestamp": 1784709750000,
-      "lastActivityTimestamp": 1784653380000,
-      "lastActivityText": "La lama di Luce: Con matchmaking il 21/07/2026 17:03",
-      "activities": [
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-07-21T17:03:00Z",
-          "instanceId": "17075305001"
-        },
-        {
-          "name": "La corrotta: Con matchmaking",
-          "period": "2026-07-21T16:41:05Z",
-          "instanceId": "17075267649"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-20T22:11:15Z",
-          "instanceId": "17073029850"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-20T22:00:28Z",
-          "instanceId": "17072996939"
-        },
-        {
-          "name": "Bunker dei caduti: Con matchmaking",
-          "period": "2026-07-20T21:20:43Z",
-          "instanceId": "17072922290"
-        },
-        {
-          "name": "La corrotta: Con matchmaking",
-          "period": "2026-07-20T20:56:55Z",
-          "instanceId": "17072849819"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-20T10:42:25Z",
-          "instanceId": "17071516773"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-20T10:02:11Z",
-          "instanceId": "17071465104"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-07-20T09:29:12Z",
-          "instanceId": "17071423920"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-20T09:15:57Z",
-          "instanceId": "17071398676"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1784653233000,
-      "lastActivityTimestamp": 1784652374000,
-      "lastActivityText": "Pallido Cuore il 21/07/2026 16:46",
-      "activities": [
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-21T16:46:14Z",
-          "instanceId": "17075280847"
-        },
-        {
-          "name": "Iconoclastia: Leggendaria",
-          "period": "2026-07-21T15:49:29Z",
-          "instanceId": "17075240436"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-20T13:34:15Z",
-          "instanceId": "17071780238"
-        },
-        {
-          "name": "Non resta molto tempo: Leggendaria",
-          "period": "2026-07-20T12:53:34Z",
-          "instanceId": "17071773310"
-        },
-        {
-          "name": "Spirale invertita",
-          "period": "2026-07-19T18:25:34Z",
-          "instanceId": "17069187804"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-19T18:06:32Z",
-          "instanceId": "17069062664"
-        },
-        {
-          "name": "Fortezza della Guida: Con matchmaking",
-          "period": "2026-07-19T17:39:25Z",
-          "instanceId": "17068999784"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-07-19T17:37:43Z",
-          "instanceId": "17068931849"
-        },
-        {
-          "name": "Il trono infranto",
-          "period": "2026-07-19T17:35:26Z",
-          "instanceId": "17068924181"
-        },
-        {
-          "name": "Il trono infranto",
-          "period": "2026-07-19T17:34:11Z",
-          "instanceId": "17068920628"
-        }
-      ]
-    },
-    {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
@@ -597,8 +597,8 @@
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 524,
-      "lastPlayedTimestamp": 1784647983000,
+      "powerLevel": 526,
+      "lastPlayedTimestamp": 1784717797000,
       "lastActivityTimestamp": 1784644589000,
       "lastActivityText": "Presagio: Personalizzata il 21/07/2026 14:36",
       "activities": [
