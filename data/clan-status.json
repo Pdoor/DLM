@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T06:11:24.464Z",
+  "generatedAt": "2026-07-22T09:10:28.215Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784700634000,
-      "lastActivityTimestamp": 1784697668000,
-      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 22/07/2026 05:21",
+      "lastPlayedTimestamp": 1784707349000,
+      "lastActivityTimestamp": 1784703259000,
+      "lastActivityText": "Zona Morta Europea il 22/07/2026 06:54",
       "activities": [
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-22T06:54:19Z",
+          "instanceId": "17077471062"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-07-22T06:37:59Z",
+          "instanceId": "17077359280"
+        },
         {
           "name": "Il Ponte di Vetro: Con matchmaking",
           "period": "2026-07-22T05:21:08Z",
@@ -56,16 +66,6 @@
           "name": "Campi di battaglia: Oracolo: Con matchmaking",
           "period": "2026-07-21T11:18:49Z",
           "instanceId": "17074664734"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-21T10:30:41Z",
-          "instanceId": "17074615766"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-21T09:55:25Z",
-          "instanceId": "17074555464"
         }
       ]
     },
@@ -463,12 +463,12 @@
       "displayName": "Paltrix94#5760",
       "membershipId": "4611686018516491359",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/cc46632e2fe7f7ec633b849b70389b12.jpg",
       "powerLevel": 509,
-      "lastPlayedTimestamp": 1784654305000,
+      "lastPlayedTimestamp": 1784709750000,
       "lastActivityTimestamp": 1784653380000,
       "lastActivityText": "La lama di Luce: Con matchmaking il 21/07/2026 17:03",
       "activities": [
