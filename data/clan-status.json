@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-23T00:04:42.178Z",
+  "generatedAt": "2026-07-23T03:55:42.078Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784774286000,
+      "lastActivityTimestamp": 1784773886000,
+      "lastActivityText": "Azzardo: Con matchmaking il 23/07/2026 02:31",
+      "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-23T02:31:26Z",
+          "instanceId": "17079787372"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-23T02:24:54Z",
+          "instanceId": "17079768499"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-07-22T01:49:16Z",
+          "instanceId": "17076656085"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-21T04:24:15Z",
+          "instanceId": "17074000479"
+        },
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-07-21T03:52:18Z",
+          "instanceId": "17073921722"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-21T03:25:01Z",
+          "instanceId": "17073854140"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-21T03:18:21Z",
+          "instanceId": "17074328998"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-21T03:12:48Z",
+          "instanceId": "17073821259"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-21T03:03:30Z",
+          "instanceId": "17073804802"
+        },
+        {
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-07-20T19:42:47Z",
+          "instanceId": "17072624087"
+        }
+      ]
+    },
     {
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
@@ -586,71 +651,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-07-20T10:42:25Z",
           "instanceId": "17071516773"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 549,
-      "lastPlayedTimestamp": 1784753586000,
-      "lastActivityTimestamp": 1784684956000,
-      "lastActivityText": "Nessus, Centauro Instabile il 22/07/2026 01:49",
-      "activities": [
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-07-22T01:49:16Z",
-          "instanceId": "17076656085"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-21T04:24:15Z",
-          "instanceId": "17074000479"
-        },
-        {
-          "name": "Morsa della cupidigia: Maestro",
-          "period": "2026-07-21T03:52:18Z",
-          "instanceId": "17073921722"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-21T03:25:01Z",
-          "instanceId": "17073854140"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-21T03:18:21Z",
-          "instanceId": "17074328998"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-21T03:12:48Z",
-          "instanceId": "17073821259"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-21T03:03:30Z",
-          "instanceId": "17073804802"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-07-20T19:42:47Z",
-          "instanceId": "17072624087"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-20T19:27:19Z",
-          "instanceId": "17072588009"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-19T23:55:44Z",
-          "instanceId": "17070101302"
         }
       ]
     },
