@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T20:37:30.447Z",
+  "generatedAt": "2026-07-23T22:08:48.027Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -66,71 +66,6 @@
           "name": "Morsa della cupidigia: Maestro",
           "period": "2026-07-23T13:19:03Z",
           "instanceId": "17080897097"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "RICERCATO",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1784838844000,
-      "lastActivityTimestamp": 1784836098000,
-      "lastActivityText": "Neomuna il 23/07/2026 19:48",
-      "activities": [
-        {
-          "name": "Neomuna",
-          "period": "2026-07-23T19:48:18Z",
-          "instanceId": "17081688765"
-        },
-        {
-          "name": "Palude Selina, Venere: Caccia alle taglie: Con matchmaking",
-          "period": "2026-07-22T20:20:49Z",
-          "instanceId": "17078897733"
-        },
-        {
-          "name": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking",
-          "period": "2026-07-22T19:55:26Z",
-          "instanceId": "17078846880"
-        },
-        {
-          "name": "Artesia Mons, Venere: Caccia alle taglie: Con matchmaking",
-          "period": "2026-07-22T19:34:24Z",
-          "instanceId": "17078793354"
-        },
-        {
-          "name": "Matrice Forgiante, Europa: Contrabbando: Con matchmaking",
-          "period": "2026-07-22T19:16:29Z",
-          "instanceId": "17078755349"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-07-22T01:05:37Z",
-          "instanceId": "17076598060"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-22T00:58:24Z",
-          "instanceId": "17076528569"
-        },
-        {
-          "name": "Pinnacolo dell'Osservatrice: Standard",
-          "period": "2026-07-17T16:42:11Z",
-          "instanceId": "17061224603"
-        },
-        {
-          "name": "Pinnacolo dell'Osservatrice: Standard",
-          "period": "2026-07-17T16:36:44Z",
-          "instanceId": "17061211670"
-        },
-        {
-          "name": "Pinnacolo dell'Osservatrice: Standard",
-          "period": "2026-07-17T16:31:37Z",
-          "instanceId": "17061198668"
         }
       ]
     },
@@ -460,6 +395,71 @@
       ]
     },
     {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1784841710000,
+      "lastActivityTimestamp": 1784773886000,
+      "lastActivityText": "Azzardo: Con matchmaking il 23/07/2026 02:31",
+      "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-23T02:31:26Z",
+          "instanceId": "17079787372"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-23T02:24:54Z",
+          "instanceId": "17079768499"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-07-22T01:49:16Z",
+          "instanceId": "17076656085"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-21T04:24:15Z",
+          "instanceId": "17074000479"
+        },
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-07-21T03:52:18Z",
+          "instanceId": "17073921722"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-21T03:25:01Z",
+          "instanceId": "17073854140"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-21T03:18:21Z",
+          "instanceId": "17074328998"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-21T03:12:48Z",
+          "instanceId": "17073821259"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-21T03:03:30Z",
+          "instanceId": "17073804802"
+        },
+        {
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-07-20T19:42:47Z",
+          "instanceId": "17072624087"
+        }
+      ]
+    },
+    {
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
@@ -533,7 +533,7 @@
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/93fb4dc92cd3cd0489bb9566a5c74448.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784829038000,
+      "lastPlayedTimestamp": 1784842357000,
       "lastActivityTimestamp": 1784743956000,
       "lastActivityText": "Partita veloce: maestro: Maestro il 22/07/2026 18:12",
       "activities": [
@@ -1443,7 +1443,7 @@
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
       "powerLevel": 515,
-      "lastPlayedTimestamp": 1784825333000,
+      "lastPlayedTimestamp": 1784839746000,
       "lastActivityTimestamp": 1783795977000,
       "lastActivityText": "Equilibrio: Standard il 11/07/2026 18:52",
       "activities": [
