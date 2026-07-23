@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-23T03:55:42.078Z",
+  "generatedAt": "2026-07-23T06:34:32.458Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1784788280000,
+      "lastActivityTimestamp": 1784785964000,
+      "lastActivityText": "Campi di battaglia: Discesa: Con matchmaking il 23/07/2026 05:52",
+      "activities": [
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-23T05:52:44Z",
+          "instanceId": "17080251439"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-22T18:11:33Z",
+          "instanceId": "17078595351"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-22T17:52:37Z",
+          "instanceId": "17078548995"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-07-22T17:27:32Z",
+          "instanceId": "17078473281"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-07-22T10:57:16Z",
+          "instanceId": "17077725602"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-22T10:37:45Z",
+          "instanceId": "17077699612"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-22T06:54:19Z",
+          "instanceId": "17077471062"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-07-22T06:37:59Z",
+          "instanceId": "17077359280"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-22T05:21:08Z",
+          "instanceId": "17077237225"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-21T17:56:55Z",
+          "instanceId": "17075481354"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -326,71 +391,6 @@
           "name": "Tronomondo di Savathûn",
           "period": "2026-07-21T15:25:44Z",
           "instanceId": "17075092053"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1784745083000,
-      "lastActivityTimestamp": 1784743893000,
-      "lastActivityText": "Campi di battaglia: Discesa: Con matchmaking il 22/07/2026 18:11",
-      "activities": [
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-07-22T18:11:33Z",
-          "instanceId": "17078595351"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-22T17:52:37Z",
-          "instanceId": "17078548995"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-07-22T17:27:32Z",
-          "instanceId": "17078473281"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-07-22T10:57:16Z",
-          "instanceId": "17077725602"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-22T10:37:45Z",
-          "instanceId": "17077699612"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-22T06:54:19Z",
-          "instanceId": "17077471062"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-07-22T06:37:59Z",
-          "instanceId": "17077359280"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-22T05:21:08Z",
-          "instanceId": "17077237225"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-21T17:56:55Z",
-          "instanceId": "17075481354"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-21T16:57:54Z",
-          "instanceId": "17075380017"
         }
       ]
     },
