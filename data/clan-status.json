@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-23T13:06:04.833Z",
+  "generatedAt": "2026-07-23T15:32:48.842Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784820714000,
+      "lastActivityTimestamp": 1784819482000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 23/07/2026 15:11",
+      "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-23T15:11:22Z",
+          "instanceId": "17081084167"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-23T15:04:51Z",
+          "instanceId": "17081064990"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-22T17:18:02Z",
+          "instanceId": "17078454117"
+        },
+        {
+          "name": "Trafficante d'armi",
+          "period": "2026-07-22T16:43:37Z",
+          "instanceId": "17078408869"
+        },
+        {
+          "name": "Caverna: Esperto",
+          "period": "2026-07-22T16:37:26Z",
+          "instanceId": "17078354797"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-22T16:33:17Z",
+          "instanceId": "17078344307"
+        },
+        {
+          "name": "Trafficante d'armi",
+          "period": "2026-07-22T16:03:10Z",
+          "instanceId": "17078279858"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-22T15:56:53Z",
+          "instanceId": "17078265414"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-22T09:42:54Z",
+          "instanceId": "17077653819"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-21T16:46:14Z",
+          "instanceId": "17075280847"
+        }
+      ]
+    },
     {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
@@ -12,11 +77,41 @@
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1784811872000,
-      "lastActivityTimestamp": 1784807681000,
-      "lastActivityText": "Morsa della cupidigia: Maestro il 23/07/2026 11:54",
+      "powerLevel": 491,
+      "lastPlayedTimestamp": 1784820741000,
+      "lastActivityTimestamp": 1784818695000,
+      "lastActivityText": "Morsa della cupidigia: Maestro il 23/07/2026 14:58",
       "activities": [
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-07-23T14:58:15Z",
+          "instanceId": "17081088046"
+        },
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-07-23T14:27:34Z",
+          "instanceId": "17081027335"
+        },
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-07-23T13:54:41Z",
+          "instanceId": "17080963608"
+        },
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-07-23T13:19:03Z",
+          "instanceId": "17080897097"
+        },
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-07-23T13:11:47Z",
+          "instanceId": "17080879208"
+        },
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-07-23T12:20:56Z",
+          "instanceId": "17080824051"
+        },
         {
           "name": "Morsa della cupidigia: Maestro",
           "period": "2026-07-23T11:54:41Z",
@@ -36,36 +131,6 @@
           "name": "Pallido Cuore",
           "period": "2026-07-22T22:27:12Z",
           "instanceId": "17079175077"
-        },
-        {
-          "name": "Iconoclastia: Campagna cooperativa",
-          "period": "2026-07-22T20:55:09Z",
-          "instanceId": "17079155983"
-        },
-        {
-          "name": "Dissenso: Campagna cooperativa",
-          "period": "2026-07-22T20:12:51Z",
-          "instanceId": "17078932696"
-        },
-        {
-          "name": "Scalata: Campagna cooperativa",
-          "period": "2026-07-22T19:44:30Z",
-          "instanceId": "17078834092"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-07-22T17:28:56Z",
-          "instanceId": "17078763228"
-        },
-        {
-          "name": "Morsa della cupidigia: Maestro",
-          "period": "2026-07-22T15:52:06Z",
-          "instanceId": "17078298395"
-        },
-        {
-          "name": "Morsa della cupidigia: Maestro",
-          "period": "2026-07-22T15:18:11Z",
-          "instanceId": "17078237866"
         }
       ]
     },
@@ -73,15 +138,25 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1784807327000,
-      "lastActivityTimestamp": 1784803781000,
-      "lastActivityText": "Bis in evidenza: Morgeth: Pantheon il 23/07/2026 10:49",
+      "lastPlayedTimestamp": 1784820731000,
+      "lastActivityTimestamp": 1784815437000,
+      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 23/07/2026 14:03",
       "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-23T14:03:57Z",
+          "instanceId": "17080956534"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-23T13:28:19Z",
+          "instanceId": "17080892581"
+        },
         {
           "name": "Bis in evidenza: Morgeth: Pantheon",
           "period": "2026-07-23T10:49:41Z",
@@ -121,16 +196,6 @@
           "name": "La disonorata: Con matchmaking",
           "period": "2026-07-11T05:53:52Z",
           "instanceId": "17038758397"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-07-10T17:56:30Z",
-          "instanceId": "17036616366"
-        },
-        {
-          "name": "Oblazione: Animanutrito",
-          "period": "2026-07-10T17:26:53Z",
-          "instanceId": "17036544182"
         }
       ]
     },
@@ -456,71 +521,6 @@
           "name": "Tronomondo di Savathûn",
           "period": "2026-07-21T15:25:44Z",
           "instanceId": "17075092053"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1784741240000,
-      "lastActivityTimestamp": 1784740682000,
-      "lastActivityText": "Campi di battaglia: Discesa: Con matchmaking il 22/07/2026 17:18",
-      "activities": [
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-07-22T17:18:02Z",
-          "instanceId": "17078454117"
-        },
-        {
-          "name": "Trafficante d'armi",
-          "period": "2026-07-22T16:43:37Z",
-          "instanceId": "17078408869"
-        },
-        {
-          "name": "Caverna: Esperto",
-          "period": "2026-07-22T16:37:26Z",
-          "instanceId": "17078354797"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-22T16:33:17Z",
-          "instanceId": "17078344307"
-        },
-        {
-          "name": "Trafficante d'armi",
-          "period": "2026-07-22T16:03:10Z",
-          "instanceId": "17078279858"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-22T15:56:53Z",
-          "instanceId": "17078265414"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-22T09:42:54Z",
-          "instanceId": "17077653819"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-21T16:46:14Z",
-          "instanceId": "17075280847"
-        },
-        {
-          "name": "Iconoclastia: Leggendaria",
-          "period": "2026-07-21T15:49:29Z",
-          "instanceId": "17075240436"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-20T13:34:15Z",
-          "instanceId": "17071780238"
         }
       ]
     },
@@ -1897,8 +1897,8 @@
       "className": "Titani",
       "title": "Portatore di desideri",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 514,
-      "lastPlayedTimestamp": 1783930806000,
+      "powerLevel": 512,
+      "lastPlayedTimestamp": 1784819588000,
       "lastActivityTimestamp": 1782903321000,
       "lastActivityText": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking il 01/07/2026 10:55",
       "activities": [
