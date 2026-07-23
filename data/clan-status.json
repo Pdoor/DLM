@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T11:26:37.941Z",
+  "generatedAt": "2026-07-23T13:06:04.833Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,21 @@
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 488,
-      "lastPlayedTimestamp": 1784805554000,
-      "lastActivityTimestamp": 1784804837000,
-      "lastActivityText": "Morsa della cupidigia: Maestro il 23/07/2026 11:07",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1784811872000,
+      "lastActivityTimestamp": 1784807681000,
+      "lastActivityText": "Morsa della cupidigia: Maestro il 23/07/2026 11:54",
       "activities": [
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-07-23T11:54:41Z",
+          "instanceId": "17080744976"
+        },
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-07-23T11:27:55Z",
+          "instanceId": "17080707248"
+        },
         {
           "name": "Morsa della cupidigia: Maestro",
           "period": "2026-07-23T11:07:17Z",
@@ -56,16 +66,71 @@
           "name": "Morsa della cupidigia: Maestro",
           "period": "2026-07-22T15:18:11Z",
           "instanceId": "17078237866"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1784807327000,
+      "lastActivityTimestamp": 1784803781000,
+      "lastActivityText": "Bis in evidenza: Morgeth: Pantheon il 23/07/2026 10:49",
+      "activities": [
+        {
+          "name": "Bis in evidenza: Morgeth: Pantheon",
+          "period": "2026-07-23T10:49:41Z",
+          "instanceId": "17080702006"
         },
         {
-          "name": "Morsa della cupidigia: Maestro",
-          "period": "2026-07-22T14:33:15Z",
-          "instanceId": "17078094260"
+          "name": "Campi di battaglia: Discesa: Personalizzata",
+          "period": "2026-07-17T17:28:18Z",
+          "instanceId": "17061377541"
         },
         {
-          "name": "Morsa della cupidigia: Maestro",
-          "period": "2026-07-22T13:32:01Z",
-          "instanceId": "17078045890"
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-07-17T17:20:44Z",
+          "instanceId": "17061312513"
+        },
+        {
+          "name": "Lago di ombre: Con matchmaking",
+          "period": "2026-07-17T17:06:40Z",
+          "instanceId": "17061306903"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
+          "period": "2026-07-17T15:56:38Z",
+          "instanceId": "17061189531"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-07-11T06:51:51Z",
+          "instanceId": "17038910204"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-07-11T06:11:39Z",
+          "instanceId": "17038812026"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-07-11T05:53:52Z",
+          "instanceId": "17038758397"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-07-10T17:56:30Z",
+          "instanceId": "17036616366"
+        },
+        {
+          "name": "Oblazione: Animanutrito",
+          "period": "2026-07-10T17:26:53Z",
+          "instanceId": "17036544182"
         }
       ]
     },
@@ -73,7 +138,7 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
@@ -86,6 +151,11 @@
           "name": "Tifone Imperatore: Personalizzata",
           "period": "2026-07-23T10:05:53Z",
           "instanceId": "17080602268"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-23T07:44:31Z",
+          "instanceId": "17080709451"
         },
         {
           "name": "Presagio: Personalizzata",
@@ -126,11 +196,6 @@
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-07-21T10:20:12Z",
           "instanceId": "17074579467"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-21T09:54:13Z",
-          "instanceId": "17074542665"
         }
       ]
     },
@@ -1041,71 +1106,6 @@
           "name": "Esplosione: Con matchmaking",
           "period": "2026-07-04T13:03:41Z",
           "instanceId": "17011631549"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1784805960000,
-      "lastActivityTimestamp": 1784309298000,
-      "lastActivityText": "Campi di battaglia: Discesa: Personalizzata il 17/07/2026 17:28",
-      "activities": [
-        {
-          "name": "Campi di battaglia: Discesa: Personalizzata",
-          "period": "2026-07-17T17:28:18Z",
-          "instanceId": "17061377541"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-07-17T17:20:44Z",
-          "instanceId": "17061312513"
-        },
-        {
-          "name": "Lago di ombre: Con matchmaking",
-          "period": "2026-07-17T17:06:40Z",
-          "instanceId": "17061306903"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
-          "period": "2026-07-17T15:56:38Z",
-          "instanceId": "17061189531"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-07-11T06:51:51Z",
-          "instanceId": "17038910204"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-07-11T06:11:39Z",
-          "instanceId": "17038812026"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-07-11T05:53:52Z",
-          "instanceId": "17038758397"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-07-10T17:56:30Z",
-          "instanceId": "17036616366"
-        },
-        {
-          "name": "Oblazione: Animanutrito",
-          "period": "2026-07-10T17:26:53Z",
-          "instanceId": "17036544182"
-        },
-        {
-          "name": "Oblazione: Lignaggio",
-          "period": "2026-07-10T16:35:09Z",
-          "instanceId": "17036462552"
         }
       ]
     },
