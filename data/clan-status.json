@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T06:34:32.458Z",
+  "generatedAt": "2026-07-23T09:27:46.334Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1784788280000,
-      "lastActivityTimestamp": 1784785964000,
-      "lastActivityText": "Campi di battaglia: Discesa: Con matchmaking il 23/07/2026 05:52",
+      "lastPlayedTimestamp": 1784793252000,
+      "lastActivityTimestamp": 1784792162000,
+      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 23/07/2026 07:36",
       "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-23T07:36:02Z",
+          "instanceId": "17080403474"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-07-23T06:30:33Z",
+          "instanceId": "17080321069"
+        },
         {
           "name": "Campi di battaglia: Discesa: Con matchmaking",
           "period": "2026-07-23T05:52:44Z",
@@ -56,16 +66,6 @@
           "name": "La lama di Luce: Con matchmaking",
           "period": "2026-07-22T06:37:59Z",
           "instanceId": "17077359280"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-22T05:21:08Z",
-          "instanceId": "17077237225"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-21T17:56:55Z",
-          "instanceId": "17075481354"
         }
       ]
     },
@@ -658,12 +658,12 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 526,
-      "lastPlayedTimestamp": 1784717797000,
+      "lastPlayedTimestamp": 1784798522000,
       "lastActivityTimestamp": 1784644589000,
       "lastActivityText": "Presagio: Personalizzata il 21/07/2026 14:36",
       "activities": [
