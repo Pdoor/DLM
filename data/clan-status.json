@@ -1,19 +1,84 @@
 {
-  "generatedAt": "2026-07-24T12:03:12.510Z",
+  "generatedAt": "2026-07-24T14:21:27.020Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
+      "powerLevel": 497,
+      "lastPlayedTimestamp": 1784902785000,
+      "lastActivityTimestamp": 1784897625000,
+      "lastActivityText": "Morsa della cupidigia: Maestro il 24/07/2026 12:53",
+      "activities": [
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-07-24T12:53:45Z",
+          "instanceId": "17083743693"
+        },
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-07-24T12:41:48Z",
+          "instanceId": "17083717216"
+        },
+        {
+          "name": "Rovesciamento",
+          "period": "2026-07-24T12:39:54Z",
+          "instanceId": "17083830139"
+        },
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-07-24T12:14:32Z",
+          "instanceId": "17083669549"
+        },
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-07-23T19:51:31Z",
+          "instanceId": "17081734892"
+        },
+        {
+          "name": "Rovesciamento",
+          "period": "2026-07-23T18:57:40Z",
+          "instanceId": "17081609713"
+        },
+        {
+          "name": "Rovesciamento",
+          "period": "2026-07-23T18:31:32Z",
+          "instanceId": "17081689490"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-07-23T18:06:16Z",
+          "instanceId": "17081461836"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-23T16:03:40Z",
+          "instanceId": "17081186280"
+        },
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-07-23T15:37:58Z",
+          "instanceId": "17081145640"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784890289000,
+      "lastPlayedTimestamp": 1784901157000,
       "lastActivityTimestamp": 1784889674000,
       "lastActivityText": "Lago di ombre: Con matchmaking il 24/07/2026 10:41",
       "activities": [
@@ -131,71 +196,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-21T03:18:21Z",
           "instanceId": "17074328998"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 495,
-      "lastPlayedTimestamp": 1784838200000,
-      "lastActivityTimestamp": 1784836291000,
-      "lastActivityText": "Morsa della cupidigia: Maestro il 23/07/2026 19:51",
-      "activities": [
-        {
-          "name": "Morsa della cupidigia: Maestro",
-          "period": "2026-07-23T19:51:31Z",
-          "instanceId": "17081734892"
-        },
-        {
-          "name": "Rovesciamento",
-          "period": "2026-07-23T18:57:40Z",
-          "instanceId": "17081609713"
-        },
-        {
-          "name": "Rovesciamento",
-          "period": "2026-07-23T18:31:32Z",
-          "instanceId": "17081689490"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-07-23T18:06:16Z",
-          "instanceId": "17081461836"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-23T16:03:40Z",
-          "instanceId": "17081186280"
-        },
-        {
-          "name": "Morsa della cupidigia: Maestro",
-          "period": "2026-07-23T15:37:58Z",
-          "instanceId": "17081145640"
-        },
-        {
-          "name": "Morsa della cupidigia: Maestro",
-          "period": "2026-07-23T14:58:15Z",
-          "instanceId": "17081088046"
-        },
-        {
-          "name": "Morsa della cupidigia: Maestro",
-          "period": "2026-07-23T14:27:34Z",
-          "instanceId": "17081027335"
-        },
-        {
-          "name": "Morsa della cupidigia: Maestro",
-          "period": "2026-07-23T13:54:41Z",
-          "instanceId": "17080963608"
-        },
-        {
-          "name": "Morsa della cupidigia: Maestro",
-          "period": "2026-07-23T13:19:03Z",
-          "instanceId": "17080897097"
         }
       ]
     },
