@@ -1,87 +1,32 @@
 {
-  "generatedAt": "2026-07-24T07:35:40.770Z",
+  "generatedAt": "2026-07-24T10:24:08.469Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1784878511000,
-      "lastActivityTimestamp": 1784874427000,
-      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 24/07/2026 06:27",
-      "activities": [
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-07-24T06:27:07Z",
-          "instanceId": "17083179130"
-        },
-        {
-          "name": "Bis in evidenza: Morgeth: Pantheon",
-          "period": "2026-07-24T05:58:32Z",
-          "instanceId": "17083155885"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-07-24T05:40:30Z",
-          "instanceId": "17083209153"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-07-23T18:09:17Z",
-          "instanceId": "17081449323"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-07-23T16:49:48Z",
-          "instanceId": "17081330372"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-23T14:26:08Z",
-          "instanceId": "17081256463"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-23T14:03:57Z",
-          "instanceId": "17080956534"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-23T13:28:19Z",
-          "instanceId": "17080892581"
-        },
-        {
-          "name": "Bis in evidenza: Morgeth: Pantheon",
-          "period": "2026-07-23T10:49:41Z",
-          "instanceId": "17080702006"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Personalizzata",
-          "period": "2026-07-17T17:28:18Z",
-          "instanceId": "17061377541"
-        }
-      ]
-    },
-    {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1784857111000,
-      "lastActivityTimestamp": 1784854428000,
-      "lastActivityText": "Equilibrio: Standard il 24/07/2026 00:53",
+      "powerLevel": 518,
+      "lastPlayedTimestamp": 1784888626000,
+      "lastActivityTimestamp": 1784886730000,
+      "lastActivityText": "Caccia all'incubo: disperazione: Maestro il 24/07/2026 09:52",
       "activities": [
+        {
+          "name": "Caccia all'incubo: disperazione: Maestro",
+          "period": "2026-07-24T09:52:10Z",
+          "instanceId": "17083459943"
+        },
+        {
+          "name": "Caccia all'incubo: disperazione: Avanzata",
+          "period": "2026-07-24T09:45:45Z",
+          "instanceId": "17083455489"
+        },
         {
           "name": "Equilibrio: Standard",
           "period": "2026-07-24T00:53:48Z",
@@ -121,16 +66,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-21T03:18:21Z",
           "instanceId": "17074328998"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-21T03:12:48Z",
-          "instanceId": "17073821259"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-21T03:03:30Z",
-          "instanceId": "17073804802"
         }
       ]
     },
@@ -911,6 +846,71 @@
           "name": "Ora zero: Personalizzata",
           "period": "2026-07-19T13:56:07Z",
           "instanceId": "17068432378"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 547,
+      "lastPlayedTimestamp": 1784888600000,
+      "lastActivityTimestamp": 1784562494000,
+      "lastActivityText": "Luna il 20/07/2026 15:48",
+      "activities": [
+        {
+          "name": "Luna",
+          "period": "2026-07-20T15:48:14Z",
+          "instanceId": "17072084666"
+        },
+        {
+          "name": "Osservatorio Celeste: Personalizzata",
+          "period": "2026-07-18T10:34:03Z",
+          "instanceId": "17064073002"
+        },
+        {
+          "name": "Lago di ombre: Con matchmaking",
+          "period": "2026-07-18T10:03:30Z",
+          "instanceId": "17064037067"
+        },
+        {
+          "name": "Il Tecnocrate: Con matchmaking",
+          "period": "2026-07-18T06:28:34Z",
+          "instanceId": "17063601235"
+        },
+        {
+          "name": "Il Tecnocrate: Con matchmaking",
+          "period": "2026-07-18T06:09:06Z",
+          "instanceId": "17063560959"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-07-07T14:09:08Z",
+          "instanceId": "17024589424"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-07-07T14:00:20Z",
+          "instanceId": "17024556362"
+        },
+        {
+          "name": "Caccia all'incubo: disperazione: Avanzata",
+          "period": "2026-07-07T13:15:41Z",
+          "instanceId": "17024436001"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-07-07T12:44:41Z",
+          "instanceId": "17024372287"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-07-07T11:27:58Z",
+          "instanceId": "17024216463"
         }
       ]
     },
