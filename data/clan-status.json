@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-24T04:50:29.685Z",
+  "generatedAt": "2026-07-24T07:35:40.770Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1784878511000,
+      "lastActivityTimestamp": 1784874427000,
+      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 24/07/2026 06:27",
+      "activities": [
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-07-24T06:27:07Z",
+          "instanceId": "17083179130"
+        },
+        {
+          "name": "Bis in evidenza: Morgeth: Pantheon",
+          "period": "2026-07-24T05:58:32Z",
+          "instanceId": "17083155885"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-07-24T05:40:30Z",
+          "instanceId": "17083209153"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-07-23T18:09:17Z",
+          "instanceId": "17081449323"
+        },
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-07-23T16:49:48Z",
+          "instanceId": "17081330372"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-23T14:26:08Z",
+          "instanceId": "17081256463"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-23T14:03:57Z",
+          "instanceId": "17080956534"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-23T13:28:19Z",
+          "instanceId": "17080892581"
+        },
+        {
+          "name": "Bis in evidenza: Morgeth: Pantheon",
+          "period": "2026-07-23T10:49:41Z",
+          "instanceId": "17080702006"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Personalizzata",
+          "period": "2026-07-17T17:28:18Z",
+          "instanceId": "17061377541"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -196,71 +261,6 @@
           "name": "Luna",
           "period": "2026-07-18T08:40:56Z",
           "instanceId": "17063866345"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1784831331000,
-      "lastActivityTimestamp": 1784830157000,
-      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 23/07/2026 18:09",
-      "activities": [
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-07-23T18:09:17Z",
-          "instanceId": "17081449323"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-07-23T16:49:48Z",
-          "instanceId": "17081330372"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-23T14:26:08Z",
-          "instanceId": "17081256463"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-23T14:03:57Z",
-          "instanceId": "17080956534"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-23T13:28:19Z",
-          "instanceId": "17080892581"
-        },
-        {
-          "name": "Bis in evidenza: Morgeth: Pantheon",
-          "period": "2026-07-23T10:49:41Z",
-          "instanceId": "17080702006"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Personalizzata",
-          "period": "2026-07-17T17:28:18Z",
-          "instanceId": "17061377541"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-07-17T17:20:44Z",
-          "instanceId": "17061312513"
-        },
-        {
-          "name": "Lago di ombre: Con matchmaking",
-          "period": "2026-07-17T17:06:40Z",
-          "instanceId": "17061306903"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
-          "period": "2026-07-17T15:56:38Z",
-          "instanceId": "17061189531"
         }
       ]
     },
