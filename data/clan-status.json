@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T15:55:55.653Z",
+  "generatedAt": "2026-07-24T17:42:50.670Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,50 @@
       "displayName": "Jhonny#3878",
       "membershipId": "4611686018489632599",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2521e23050bd55aa31a0e910fa93c0b6.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784908465000,
-      "lastActivityTimestamp": 1784908124000,
-      "lastActivityText": "Liminalità: Personalizzata il 24/07/2026 15:48",
+      "lastPlayedTimestamp": 1784914424000,
+      "lastActivityTimestamp": 1784913764000,
+      "lastActivityText": "Partita veloce: Normale il 24/07/2026 17:22",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-24T17:22:44Z",
+          "instanceId": "17084223571"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-24T17:11:05Z",
+          "instanceId": "17084199346"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-24T17:03:28Z",
+          "instanceId": "17084197028"
+        },
+        {
+          "name": "Liminalità: Personalizzata",
+          "period": "2026-07-24T16:30:10Z",
+          "instanceId": "17084144622"
+        },
+        {
+          "name": "Liminalità: Personalizzata",
+          "period": "2026-07-24T16:28:42Z",
+          "instanceId": "17084092653"
+        },
+        {
+          "name": "Liminalità: Personalizzata",
+          "period": "2026-07-24T16:19:20Z",
+          "instanceId": "17084089620"
+        },
+        {
+          "name": "Liminalità: Personalizzata",
+          "period": "2026-07-24T15:52:01Z",
+          "instanceId": "17084067221"
+        },
         {
           "name": "Liminalità: Personalizzata",
           "period": "2026-07-24T15:48:44Z",
@@ -31,41 +66,6 @@
           "name": "La disonorata: Personalizzata",
           "period": "2026-07-20T17:00:06Z",
           "instanceId": "17072253987"
-        },
-        {
-          "name": "Corte della Vedova: Con matchmaking",
-          "period": "2026-07-20T16:08:36Z",
-          "instanceId": "17072199385"
-        },
-        {
-          "name": "Corte della Vedova: Con matchmaking",
-          "period": "2026-07-19T17:09:26Z",
-          "instanceId": "17068964712"
-        },
-        {
-          "name": "Sfida degli Anziani: Con matchmaking",
-          "period": "2026-07-19T16:44:20Z",
-          "instanceId": "17068840561"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-19T16:20:33Z",
-          "instanceId": "17068760947"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-19T16:08:05Z",
-          "instanceId": "17068686837"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-19T16:01:10Z",
-          "instanceId": "17068661212"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-19T15:20:10Z",
-          "instanceId": "17068627023"
         }
       ]
     },
@@ -77,11 +77,26 @@
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1784908498000,
-      "lastActivityTimestamp": 1784906375000,
-      "lastActivityText": "Lago di ombre: Con matchmaking il 24/07/2026 15:19",
+      "powerLevel": 546,
+      "lastPlayedTimestamp": 1784914931000,
+      "lastActivityTimestamp": 1784913238000,
+      "lastActivityText": "La disonorata: Personalizzata il 24/07/2026 17:13",
       "activities": [
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-07-24T17:13:58Z",
+          "instanceId": "17084220917"
+        },
+        {
+          "name": "Schianto dell'Esodo: Con matchmaking",
+          "period": "2026-07-24T16:46:02Z",
+          "instanceId": "17084159401"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-07-24T16:06:53Z",
+          "instanceId": "17084077191"
+        },
         {
           "name": "Lago di ombre: Con matchmaking",
           "period": "2026-07-24T15:19:35Z",
@@ -116,21 +131,6 @@
           "name": "Il Tecnocrate: Con matchmaking",
           "period": "2026-07-18T06:28:34Z",
           "instanceId": "17063601235"
-        },
-        {
-          "name": "Il Tecnocrate: Con matchmaking",
-          "period": "2026-07-18T06:09:06Z",
-          "instanceId": "17063560959"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-07-07T14:09:08Z",
-          "instanceId": "17024589424"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-07-07T14:00:20Z",
-          "instanceId": "17024556362"
         }
       ]
     },
@@ -138,15 +138,25 @@
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
       "powerLevel": 415,
-      "lastPlayedTimestamp": 1784907821000,
-      "lastActivityTimestamp": 1784904535000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 24/07/2026 14:48",
+      "lastPlayedTimestamp": 1784912172000,
+      "lastActivityTimestamp": 1784910610000,
+      "lastActivityText": "Liminalità: Personalizzata il 24/07/2026 16:30",
       "activities": [
+        {
+          "name": "Liminalità: Personalizzata",
+          "period": "2026-07-24T16:30:10Z",
+          "instanceId": "17084144622"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-24T16:03:53Z",
+          "instanceId": "17084080908"
+        },
         {
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-07-24T14:48:55Z",
@@ -186,16 +196,6 @@
           "name": "Fuoco e ghiaccio: Audace",
           "period": "2026-07-16T15:38:29Z",
           "instanceId": "17058079377"
-        },
-        {
-          "name": "Rovina della Signora della Guerra: Standard",
-          "period": "2026-07-15T21:02:45Z",
-          "instanceId": "17055692732"
-        },
-        {
-          "name": "Soli e al freddo: Audace",
-          "period": "2026-07-15T15:15:38Z",
-          "instanceId": "17054606291"
         }
       ]
     },
@@ -203,12 +203,12 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 499,
-      "lastPlayedTimestamp": 1784906290000,
+      "powerLevel": 501,
+      "lastPlayedTimestamp": 1784914941000,
       "lastActivityTimestamp": 1784902443000,
       "lastActivityText": "Centro Città: Con matchmaking il 24/07/2026 14:14",
       "activities": [
@@ -663,7 +663,7 @@
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/93fb4dc92cd3cd0489bb9566a5c74448.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784842357000,
+      "lastPlayedTimestamp": 1784911169000,
       "lastActivityTimestamp": 1784743956000,
       "lastActivityText": "Partita veloce: maestro: Maestro il 22/07/2026 18:12",
       "activities": [
