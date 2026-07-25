@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-25T06:22:28.027Z",
+  "generatedAt": "2026-07-25T08:31:26.440Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 546,
+      "lastPlayedTimestamp": 1784967216000,
+      "lastActivityTimestamp": 1784962496000,
+      "lastActivityText": "La culla del male: Con matchmaking il 25/07/2026 06:54",
+      "activities": [
+        {
+          "name": "La culla del male: Con matchmaking",
+          "period": "2026-07-25T06:54:56Z",
+          "instanceId": "17086156038"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-25T06:36:57Z",
+          "instanceId": "17086119263"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-07-24T17:46:06Z",
+          "instanceId": "17084278177"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-07-24T17:13:58Z",
+          "instanceId": "17084220917"
+        },
+        {
+          "name": "Schianto dell'Esodo: Con matchmaking",
+          "period": "2026-07-24T16:46:02Z",
+          "instanceId": "17084159401"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-07-24T16:06:53Z",
+          "instanceId": "17084077191"
+        },
+        {
+          "name": "Lago di ombre: Con matchmaking",
+          "period": "2026-07-24T15:19:35Z",
+          "instanceId": "17083982148"
+        },
+        {
+          "name": "Lago di ombre: Con matchmaking",
+          "period": "2026-07-24T10:41:14Z",
+          "instanceId": "17083527179"
+        },
+        {
+          "name": "Lago di ombre: Con matchmaking",
+          "period": "2026-07-24T10:17:34Z",
+          "instanceId": "17083501810"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-07-20T15:48:14Z",
+          "instanceId": "17072084666"
+        }
+      ]
+    },
     {
       "displayName": "adgarolp#8945",
       "membershipId": "4611686018479100387",
@@ -78,7 +143,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1784933750000,
+      "lastPlayedTimestamp": 1784965541000,
       "lastActivityTimestamp": 1784930925000,
       "lastActivityText": "Sfida degli Anziani: Con matchmaking il 24/07/2026 22:08",
       "activities": [
@@ -261,71 +326,6 @@
           "name": "Rovesciamento",
           "period": "2026-07-23T18:31:32Z",
           "instanceId": "17081689490"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 546,
-      "lastPlayedTimestamp": 1784916015000,
-      "lastActivityTimestamp": 1784915166000,
-      "lastActivityText": "Campi di battaglia: Colosso: Con matchmaking il 24/07/2026 17:46",
-      "activities": [
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-07-24T17:46:06Z",
-          "instanceId": "17084278177"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-07-24T17:13:58Z",
-          "instanceId": "17084220917"
-        },
-        {
-          "name": "Schianto dell'Esodo: Con matchmaking",
-          "period": "2026-07-24T16:46:02Z",
-          "instanceId": "17084159401"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-07-24T16:06:53Z",
-          "instanceId": "17084077191"
-        },
-        {
-          "name": "Lago di ombre: Con matchmaking",
-          "period": "2026-07-24T15:19:35Z",
-          "instanceId": "17083982148"
-        },
-        {
-          "name": "Lago di ombre: Con matchmaking",
-          "period": "2026-07-24T10:41:14Z",
-          "instanceId": "17083527179"
-        },
-        {
-          "name": "Lago di ombre: Con matchmaking",
-          "period": "2026-07-24T10:17:34Z",
-          "instanceId": "17083501810"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-07-20T15:48:14Z",
-          "instanceId": "17072084666"
-        },
-        {
-          "name": "Osservatorio Celeste: Personalizzata",
-          "period": "2026-07-18T10:34:03Z",
-          "instanceId": "17064073002"
-        },
-        {
-          "name": "Lago di ombre: Con matchmaking",
-          "period": "2026-07-18T10:03:30Z",
-          "instanceId": "17064037067"
         }
       ]
     },
