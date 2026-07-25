@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T10:37:47.008Z",
+  "generatedAt": "2026-07-25T12:04:55.159Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,51 @@
       "className": "Stregoni",
       "title": "Pasticcera stellare",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 482,
-      "lastPlayedTimestamp": 1784975811000,
-      "lastActivityTimestamp": 1784974791000,
-      "lastActivityText": "Zona Morta Europea il 25/07/2026 10:19",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784980254000,
+      "lastActivityTimestamp": 1784979403000,
+      "lastActivityText": "La Guerriera il 25/07/2026 11:36",
       "activities": [
+        {
+          "name": "La Guerriera",
+          "period": "2026-07-25T11:36:43Z",
+          "instanceId": "17086591543"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-25T11:35:05Z",
+          "instanceId": "17086581331"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-25T11:11:53Z",
+          "instanceId": "17086552628"
+        },
+        {
+          "name": "La Guerriera",
+          "period": "2026-07-25T11:05:52Z",
+          "instanceId": "17086543280"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-25T10:52:14Z",
+          "instanceId": "17086533405"
+        },
+        {
+          "name": "Nel profondo",
+          "period": "2026-07-25T10:46:36Z",
+          "instanceId": "17086505177"
+        },
+        {
+          "name": "Caccia all'incubo: follia: Avanzata",
+          "period": "2026-07-25T10:46:13Z",
+          "instanceId": "17086511014"
+        },
+        {
+          "name": "IL DESTINO DI CAYDE",
+          "period": "2026-07-25T10:34:08Z",
+          "instanceId": "17086501193"
+        },
         {
           "name": "Zona Morta Europea",
           "period": "2026-07-25T10:19:51Z",
@@ -26,111 +66,6 @@
           "name": "Ultimo desiderio: Standard",
           "period": "2026-07-18T21:08:08Z",
           "instanceId": "17065978900"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-18T21:05:33Z",
-          "instanceId": "17065771777"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-18T21:02:15Z",
-          "instanceId": "17065760210"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-07T18:46:00Z",
-          "instanceId": "17024991750"
-        },
-        {
-          "name": "Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-07-04T15:30:36Z",
-          "instanceId": "17012162435"
-        },
-        {
-          "name": "Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-07-04T15:28:49Z",
-          "instanceId": "17012064769"
-        },
-        {
-          "name": "Rovina della Signora della Guerra: Standard",
-          "period": "2026-07-04T15:27:07Z",
-          "instanceId": "17012059049"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-04T14:38:55Z",
-          "instanceId": "17011913607"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-04T14:29:28Z",
-          "instanceId": "17011890731"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 546,
-      "lastPlayedTimestamp": 1784974313000,
-      "lastActivityTimestamp": 1784969934000,
-      "lastActivityText": "La fine di Crota: Standard il 25/07/2026 08:58",
-      "activities": [
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-07-25T08:58:54Z",
-          "instanceId": "17086379843"
-        },
-        {
-          "name": "La culla del male: Con matchmaking",
-          "period": "2026-07-25T06:54:56Z",
-          "instanceId": "17086156038"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-25T06:36:57Z",
-          "instanceId": "17086119263"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-07-24T17:46:06Z",
-          "instanceId": "17084278177"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-07-24T17:13:58Z",
-          "instanceId": "17084220917"
-        },
-        {
-          "name": "Schianto dell'Esodo: Con matchmaking",
-          "period": "2026-07-24T16:46:02Z",
-          "instanceId": "17084159401"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-07-24T16:06:53Z",
-          "instanceId": "17084077191"
-        },
-        {
-          "name": "Lago di ombre: Con matchmaking",
-          "period": "2026-07-24T15:19:35Z",
-          "instanceId": "17083982148"
-        },
-        {
-          "name": "Lago di ombre: Con matchmaking",
-          "period": "2026-07-24T10:41:14Z",
-          "instanceId": "17083527179"
-        },
-        {
-          "name": "Lago di ombre: Con matchmaking",
-          "period": "2026-07-24T10:17:34Z",
-          "instanceId": "17083501810"
         }
       ]
     },
@@ -662,8 +597,8 @@
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 526,
-      "lastPlayedTimestamp": 1784975806000,
+      "powerLevel": 527,
+      "lastPlayedTimestamp": 1784980956000,
       "lastActivityTimestamp": 1784801153000,
       "lastActivityText": "Tifone Imperatore: Personalizzata il 23/07/2026 10:05",
       "activities": [
@@ -716,6 +651,71 @@
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-07-21T10:20:12Z",
           "instanceId": "17074579467"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1784979596000,
+      "lastActivityTimestamp": 1784792162000,
+      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 23/07/2026 07:36",
+      "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-23T07:36:02Z",
+          "instanceId": "17080403474"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-07-23T06:30:33Z",
+          "instanceId": "17080321069"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-23T05:52:44Z",
+          "instanceId": "17080251439"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-22T18:11:33Z",
+          "instanceId": "17078595351"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-22T17:52:37Z",
+          "instanceId": "17078548995"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-07-22T17:27:32Z",
+          "instanceId": "17078473281"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-07-22T10:57:16Z",
+          "instanceId": "17077725602"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-22T10:37:45Z",
+          "instanceId": "17077699612"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-22T06:54:19Z",
+          "instanceId": "17077471062"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-07-22T06:37:59Z",
+          "instanceId": "17077359280"
         }
       ]
     },
