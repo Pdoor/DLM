@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-25T08:31:26.440Z",
+  "generatedAt": "2026-07-25T10:37:47.008Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "TheAnOnymous166#8849",
+      "membershipId": "4611686018528729550",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Pasticcera stellare",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 482,
+      "lastPlayedTimestamp": 1784975811000,
+      "lastActivityTimestamp": 1784974791000,
+      "lastActivityText": "Zona Morta Europea il 25/07/2026 10:19",
+      "activities": [
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-25T10:19:51Z",
+          "instanceId": "17086485329"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-18T21:08:08Z",
+          "instanceId": "17065978900"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-18T21:05:33Z",
+          "instanceId": "17065771777"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-18T21:02:15Z",
+          "instanceId": "17065760210"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-07T18:46:00Z",
+          "instanceId": "17024991750"
+        },
+        {
+          "name": "Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-07-04T15:30:36Z",
+          "instanceId": "17012162435"
+        },
+        {
+          "name": "Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-07-04T15:28:49Z",
+          "instanceId": "17012064769"
+        },
+        {
+          "name": "Rovina della Signora della Guerra: Standard",
+          "period": "2026-07-04T15:27:07Z",
+          "instanceId": "17012059049"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-04T14:38:55Z",
+          "instanceId": "17011913607"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-04T14:29:28Z",
+          "instanceId": "17011890731"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -13,10 +78,15 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
       "powerLevel": 546,
-      "lastPlayedTimestamp": 1784967216000,
-      "lastActivityTimestamp": 1784962496000,
-      "lastActivityText": "La culla del male: Con matchmaking il 25/07/2026 06:54",
+      "lastPlayedTimestamp": 1784974313000,
+      "lastActivityTimestamp": 1784969934000,
+      "lastActivityText": "La fine di Crota: Standard il 25/07/2026 08:58",
       "activities": [
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-07-25T08:58:54Z",
+          "instanceId": "17086379843"
+        },
         {
           "name": "La culla del male: Con matchmaking",
           "period": "2026-07-25T06:54:56Z",
@@ -61,11 +131,71 @@
           "name": "Lago di ombre: Con matchmaking",
           "period": "2026-07-24T10:17:34Z",
           "instanceId": "17083501810"
+        }
+      ]
+    },
+    {
+      "displayName": "Ghost of Warlock#5159",
+      "membershipId": "4611686018513286564",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1784971536000,
+      "lastActivityTimestamp": 1784969024000,
+      "lastActivityText": "Centro Città: Con matchmaking il 25/07/2026 08:43",
+      "activities": [
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-07-25T08:43:44Z",
+          "instanceId": "17086366146"
+        },
+        {
+          "name": "Sfida degli Anziani: Con matchmaking",
+          "period": "2026-07-24T22:08:45Z",
+          "instanceId": "17084952701"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Personalizzata",
+          "period": "2026-07-23T19:41:27Z",
+          "instanceId": "17081727406"
+        },
+        {
+          "name": "Vegliante del niente: Personalizzata",
+          "period": "2026-07-22T19:59:19Z",
+          "instanceId": "17078803738"
+        },
+        {
+          "name": "Terreni di Prova: Personalizzata",
+          "period": "2026-07-20T13:01:31Z",
+          "instanceId": "17071779834"
+        },
+        {
+          "name": "Vegliante del niente: Con matchmaking",
+          "period": "2026-07-20T07:42:18Z",
+          "instanceId": "17071606230"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-07-20T07:03:01Z",
+          "instanceId": "17071578943"
         },
         {
           "name": "Luna",
-          "period": "2026-07-20T15:48:14Z",
-          "instanceId": "17072084666"
+          "period": "2026-07-19T14:20:23Z",
+          "instanceId": "17068423564"
+        },
+        {
+          "name": "Lago di ombre: Con matchmaking",
+          "period": "2026-07-18T16:35:38Z",
+          "instanceId": "17065728210"
+        },
+        {
+          "name": "Bunker dei caduti: Con matchmaking",
+          "period": "2026-07-18T12:02:22Z",
+          "instanceId": "17064247824"
         }
       ]
     },
@@ -131,71 +261,6 @@
           "name": "Terminale Intuitivo: Personalizzata",
           "period": "2026-06-30T20:14:09Z",
           "instanceId": "16996851344"
-        }
-      ]
-    },
-    {
-      "displayName": "Ghost of Warlock#5159",
-      "membershipId": "4611686018513286564",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1784965541000,
-      "lastActivityTimestamp": 1784930925000,
-      "lastActivityText": "Sfida degli Anziani: Con matchmaking il 24/07/2026 22:08",
-      "activities": [
-        {
-          "name": "Sfida degli Anziani: Con matchmaking",
-          "period": "2026-07-24T22:08:45Z",
-          "instanceId": "17084952701"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Personalizzata",
-          "period": "2026-07-23T19:41:27Z",
-          "instanceId": "17081727406"
-        },
-        {
-          "name": "Vegliante del niente: Personalizzata",
-          "period": "2026-07-22T19:59:19Z",
-          "instanceId": "17078803738"
-        },
-        {
-          "name": "Terreni di Prova: Personalizzata",
-          "period": "2026-07-20T13:01:31Z",
-          "instanceId": "17071779834"
-        },
-        {
-          "name": "Vegliante del niente: Con matchmaking",
-          "period": "2026-07-20T07:42:18Z",
-          "instanceId": "17071606230"
-        },
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-07-20T07:03:01Z",
-          "instanceId": "17071578943"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-07-19T14:20:23Z",
-          "instanceId": "17068423564"
-        },
-        {
-          "name": "Lago di ombre: Con matchmaking",
-          "period": "2026-07-18T16:35:38Z",
-          "instanceId": "17065728210"
-        },
-        {
-          "name": "Bunker dei caduti: Con matchmaking",
-          "period": "2026-07-18T12:02:22Z",
-          "instanceId": "17064247824"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Personalizzata",
-          "period": "2026-07-18T09:48:04Z",
-          "instanceId": "17064040469"
         }
       ]
     },
@@ -593,12 +658,12 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 527,
-      "lastPlayedTimestamp": 1784805549000,
+      "powerLevel": 526,
+      "lastPlayedTimestamp": 1784975806000,
       "lastActivityTimestamp": 1784801153000,
       "lastActivityText": "Tifone Imperatore: Personalizzata il 23/07/2026 10:05",
       "activities": [
@@ -1106,71 +1171,6 @@
           "name": "Poligono di Tiro",
           "period": "2026-07-05T10:35:28Z",
           "instanceId": "17015665078"
-        }
-      ]
-    },
-    {
-      "displayName": "TheAnOnymous166#8849",
-      "membershipId": "4611686018528729550",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1784921263000,
-      "lastActivityTimestamp": 1784408888000,
-      "lastActivityText": "Ultimo desiderio: Standard il 18/07/2026 21:08",
-      "activities": [
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-18T21:08:08Z",
-          "instanceId": "17065978900"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-18T21:05:33Z",
-          "instanceId": "17065771777"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-18T21:02:15Z",
-          "instanceId": "17065760210"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-07T18:46:00Z",
-          "instanceId": "17024991750"
-        },
-        {
-          "name": "Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-07-04T15:30:36Z",
-          "instanceId": "17012162435"
-        },
-        {
-          "name": "Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-07-04T15:28:49Z",
-          "instanceId": "17012064769"
-        },
-        {
-          "name": "Rovina della Signora della Guerra: Standard",
-          "period": "2026-07-04T15:27:07Z",
-          "instanceId": "17012059049"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-04T14:38:55Z",
-          "instanceId": "17011913607"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-04T14:29:28Z",
-          "instanceId": "17011890731"
-        },
-        {
-          "name": "Esplosione: Con matchmaking",
-          "period": "2026-07-04T13:03:41Z",
-          "instanceId": "17011631549"
         }
       ]
     },
