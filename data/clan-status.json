@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T20:13:14.652Z",
+  "generatedAt": "2026-07-26T21:28:44.661Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
       "powerLevel": 422,
-      "lastPlayedTimestamp": 1785096751000,
-      "lastActivityTimestamp": 1785095178000,
-      "lastActivityText": "Partita veloce: Normale il 26/07/2026 19:46",
+      "lastPlayedTimestamp": 1785096890000,
+      "lastActivityTimestamp": 1785096724000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 26/07/2026 20:12",
       "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-26T20:12:04Z",
+          "instanceId": "17091315341"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-07-26T19:46:18Z",
@@ -61,11 +66,71 @@
           "name": "Neomuna",
           "period": "2026-07-24T20:26:55Z",
           "instanceId": "17084649018"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 525,
+      "lastPlayedTimestamp": 1785097121000,
+      "lastActivityTimestamp": 1785095847000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 26/07/2026 19:57",
+      "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-26T19:57:27Z",
+          "instanceId": "17091241504"
         },
         {
-          "name": "Liminalità: Personalizzata",
-          "period": "2026-07-24T16:30:10Z",
-          "instanceId": "17084144622"
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-24T10:14:40Z",
+          "instanceId": "17083491379"
+        },
+        {
+          "name": "Caccia all'incubo: disperazione: Maestro",
+          "period": "2026-07-24T09:52:10Z",
+          "instanceId": "17083459943"
+        },
+        {
+          "name": "Caccia all'incubo: disperazione: Avanzata",
+          "period": "2026-07-24T09:45:45Z",
+          "instanceId": "17083455489"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-07-24T00:53:48Z",
+          "instanceId": "17082509025"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-23T02:31:26Z",
+          "instanceId": "17079787372"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-23T02:24:54Z",
+          "instanceId": "17079768499"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-07-22T01:49:16Z",
+          "instanceId": "17076656085"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-21T04:24:15Z",
+          "instanceId": "17074000479"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-21T03:18:21Z",
+          "instanceId": "17074328998"
         }
       ]
     },
@@ -131,6 +196,71 @@
           "name": "Rissa: Con matchmaking",
           "period": "2026-07-26T18:05:55Z",
           "instanceId": "17090901669"
+        }
+      ]
+    },
+    {
+      "displayName": "DiciestCloth1#2862",
+      "membershipId": "4611686018442634411",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Flagello di Riven",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1785099710000,
+      "lastActivityTimestamp": 1785093413000,
+      "lastActivityText": "La radice degli incubi: Maestro il 26/07/2026 19:16",
+      "activities": [
+        {
+          "name": "La radice degli incubi: Maestro",
+          "period": "2026-07-26T19:16:53Z",
+          "instanceId": "17091263206"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-07-26T17:19:01Z",
+          "instanceId": "17091389396"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-25T17:22:04Z",
+          "instanceId": "17087551438"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-25T16:55:22Z",
+          "instanceId": "17087321843"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-25T16:28:36Z",
+          "instanceId": "17087264290"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-25T16:25:53Z",
+          "instanceId": "17087202222"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-07-25T15:53:45Z",
+          "instanceId": "17087236377"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-25T15:50:10Z",
+          "instanceId": "17087108361"
+        },
+        {
+          "name": "Il trono infranto",
+          "period": "2026-07-25T15:05:35Z",
+          "instanceId": "17087106804"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-07-25T15:01:13Z",
+          "instanceId": "17086993480"
         }
       ]
     },
@@ -658,7 +788,7 @@
       "displayName": "cRoTator#5820",
       "membershipId": "4611686018504020156",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b531d829e55b6f13555e8cae172dc0b3.jpg",
@@ -850,71 +980,6 @@
       ]
     },
     {
-      "displayName": "DiciestCloth1#2862",
-      "membershipId": "4611686018442634411",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Flagello di Riven",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1785096753000,
-      "lastActivityTimestamp": 1785000124000,
-      "lastActivityText": "Ultimo desiderio: Standard il 25/07/2026 17:22",
-      "activities": [
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-25T17:22:04Z",
-          "instanceId": "17087551438"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-25T16:55:22Z",
-          "instanceId": "17087321843"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-25T16:28:36Z",
-          "instanceId": "17087264290"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-25T16:25:53Z",
-          "instanceId": "17087202222"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-07-25T15:53:45Z",
-          "instanceId": "17087236377"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-25T15:50:10Z",
-          "instanceId": "17087108361"
-        },
-        {
-          "name": "Il trono infranto",
-          "period": "2026-07-25T15:05:35Z",
-          "instanceId": "17087106804"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-25T15:01:13Z",
-          "instanceId": "17086993480"
-        },
-        {
-          "name": "Sfida degli Anziani: Con matchmaking",
-          "period": "2026-07-25T13:48:22Z",
-          "instanceId": "17086895139"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Personalizzata",
-          "period": "2026-07-25T13:17:56Z",
-          "instanceId": "17086788313"
-        }
-      ]
-    },
-    {
       "displayName": "Alex25222#495",
       "membershipId": "4611686018443374059",
       "bungieNetMembershipId": "",
@@ -976,71 +1041,6 @@
           "name": "Ricordi della perdita",
           "period": "2026-07-21T15:36:39Z",
           "instanceId": "17075124920"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1785096773000,
-      "lastActivityTimestamp": 1784888080000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 24/07/2026 10:14",
-      "activities": [
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-24T10:14:40Z",
-          "instanceId": "17083491379"
-        },
-        {
-          "name": "Caccia all'incubo: disperazione: Maestro",
-          "period": "2026-07-24T09:52:10Z",
-          "instanceId": "17083459943"
-        },
-        {
-          "name": "Caccia all'incubo: disperazione: Avanzata",
-          "period": "2026-07-24T09:45:45Z",
-          "instanceId": "17083455489"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-07-24T00:53:48Z",
-          "instanceId": "17082509025"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-23T02:31:26Z",
-          "instanceId": "17079787372"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-23T02:24:54Z",
-          "instanceId": "17079768499"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-07-22T01:49:16Z",
-          "instanceId": "17076656085"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-07-21T04:24:15Z",
-          "instanceId": "17074000479"
-        },
-        {
-          "name": "Morsa della cupidigia: Maestro",
-          "period": "2026-07-21T03:52:18Z",
-          "instanceId": "17073921722"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-21T03:18:21Z",
-          "instanceId": "17074328998"
         }
       ]
     },
@@ -1508,7 +1508,7 @@
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
       "powerLevel": 515,
-      "lastPlayedTimestamp": 1785012985000,
+      "lastPlayedTimestamp": 1785098235000,
       "lastActivityTimestamp": 1783795977000,
       "lastActivityText": "Equilibrio: Standard il 11/07/2026 18:52",
       "activities": [
