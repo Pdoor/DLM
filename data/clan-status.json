@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T03:29:26.811Z",
+  "generatedAt": "2026-07-26T06:22:30.313Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -785,71 +785,6 @@
       ]
     },
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 546,
-      "lastPlayedTimestamp": 1784997451000,
-      "lastActivityTimestamp": 1784994825000,
-      "lastActivityText": "La fine di Crota: Standard il 25/07/2026 15:53",
-      "activities": [
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-07-25T15:53:45Z",
-          "instanceId": "17087236377"
-        },
-        {
-          "name": "IL DESTINO DI CAYDE",
-          "period": "2026-07-25T10:42:24Z",
-          "instanceId": "17086520189"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-07-25T08:58:54Z",
-          "instanceId": "17086379843"
-        },
-        {
-          "name": "La culla del male: Con matchmaking",
-          "period": "2026-07-25T06:54:56Z",
-          "instanceId": "17086156038"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-25T06:36:57Z",
-          "instanceId": "17086119263"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-07-24T17:46:06Z",
-          "instanceId": "17084278177"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-07-24T17:13:58Z",
-          "instanceId": "17084220917"
-        },
-        {
-          "name": "Schianto dell'Esodo: Con matchmaking",
-          "period": "2026-07-24T16:46:02Z",
-          "instanceId": "17084159401"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-07-24T16:06:53Z",
-          "instanceId": "17084077191"
-        },
-        {
-          "name": "Lago di ombre: Con matchmaking",
-          "period": "2026-07-24T15:19:35Z",
-          "instanceId": "17083982148"
-        }
-      ]
-    },
-    {
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
       "bungieNetMembershipId": "",
@@ -976,6 +911,71 @@
           "name": "Luna",
           "period": "2026-07-19T14:20:23Z",
           "instanceId": "17068423564"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 506,
+      "lastPlayedTimestamp": 1785046889000,
+      "lastActivityTimestamp": 1784988776000,
+      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 25/07/2026 14:12",
+      "activities": [
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-25T14:12:56Z",
+          "instanceId": "17086911361"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Personalizzata",
+          "period": "2026-07-25T13:17:56Z",
+          "instanceId": "17086788313"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-23T07:36:02Z",
+          "instanceId": "17080403474"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-07-23T06:30:33Z",
+          "instanceId": "17080321069"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-23T05:52:44Z",
+          "instanceId": "17080251439"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-22T18:11:33Z",
+          "instanceId": "17078595351"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-22T17:52:37Z",
+          "instanceId": "17078548995"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-07-22T17:27:32Z",
+          "instanceId": "17078473281"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-07-22T10:57:16Z",
+          "instanceId": "17077725602"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-07-22T10:37:45Z",
+          "instanceId": "17077699612"
         }
       ]
     },
