@@ -1,22 +1,157 @@
 {
-  "generatedAt": "2026-07-26T08:58:14.378Z",
+  "generatedAt": "2026-07-26T10:48:55.037Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "TheAnOnymous166#8849",
+      "membershipId": "4611686018528729550",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Pasticcera stellare",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1785062861000,
+      "lastActivityTimestamp": 1785062699000,
+      "lastActivityText": "Luna il 26/07/2026 10:44",
+      "activities": [
+        {
+          "name": "Luna",
+          "period": "2026-07-26T10:44:59Z",
+          "instanceId": "17089878415"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-07-26T10:37:00Z",
+          "instanceId": "17089871887"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-07-26T10:32:01Z",
+          "instanceId": "17089859143"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-26T10:23:08Z",
+          "instanceId": "17089845087"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-26T10:15:21Z",
+          "instanceId": "17089830650"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-26T09:42:59Z",
+          "instanceId": "17089812820"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-26T09:27:49Z",
+          "instanceId": "17089765440"
+        },
+        {
+          "name": "L'astuta: Normale",
+          "period": "2026-07-26T09:00:28Z",
+          "instanceId": "17089743417"
+        },
+        {
+          "name": "Misure disperate: Normale",
+          "period": "2026-07-26T08:45:45Z",
+          "instanceId": "17089695133"
+        },
+        {
+          "name": "Rovesciamento",
+          "period": "2026-07-26T08:04:58Z",
+          "instanceId": "17089834861"
+        }
+      ]
+    },
+    {
+      "displayName": "alexcecenko#951",
+      "membershipId": "4611686018463713971",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Leggenda",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/d27e8ff42082bb9a237522a9a306e3ac.jpg",
+      "powerLevel": 481,
+      "lastPlayedTimestamp": 1785062894000,
+      "lastActivityTimestamp": 1785061839000,
+      "lastActivityText": "Terminale Intuitivo: Personalizzata il 26/07/2026 10:30",
+      "activities": [
+        {
+          "name": "Terminale Intuitivo: Personalizzata",
+          "period": "2026-07-26T10:30:39Z",
+          "instanceId": "17089856900"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-07-26T10:17:30Z",
+          "instanceId": "17089840502"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-07-26T10:14:31Z",
+          "instanceId": "17089827085"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-26T10:09:54Z",
+          "instanceId": "17089822938"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-26T09:58:37Z",
+          "instanceId": "17089815747"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-07-26T09:52:56Z",
+          "instanceId": "17089793985"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-26T09:43:38Z",
+          "instanceId": "17089782978"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-26T09:27:49Z",
+          "instanceId": "17089765440"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-25T16:43:15Z",
+          "instanceId": "17087293606"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-07-25T15:53:45Z",
+          "instanceId": "17087236377"
+        }
+      ]
+    },
+    {
       "displayName": "Jhonny#3878",
       "membershipId": "4611686018489632599",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2521e23050bd55aa31a0e910fa93c0b6.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1785056213000,
-      "lastActivityTimestamp": 1785055458000,
-      "lastActivityText": "Competitiva: Con matchmaking il 26/07/2026 08:44",
+      "lastPlayedTimestamp": 1785056951000,
+      "lastActivityTimestamp": 1785056313000,
+      "lastActivityText": "Controllo: Con matchmaking il 26/07/2026 08:58",
       "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-26T08:58:33Z",
+          "instanceId": "17089713365"
+        },
         {
           "name": "Competitiva: Con matchmaking",
           "period": "2026-07-26T08:44:18Z",
@@ -61,76 +196,6 @@
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-07-24T17:03:28Z",
           "instanceId": "17084197028"
-        },
-        {
-          "name": "Liminalità: Personalizzata",
-          "period": "2026-07-24T16:30:10Z",
-          "instanceId": "17084144622"
-        }
-      ]
-    },
-    {
-      "displayName": "TheAnOnymous166#8849",
-      "membershipId": "4611686018528729550",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Pasticcera stellare",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1785056093000,
-      "lastActivityTimestamp": 1785053912000,
-      "lastActivityText": "Impero: Audace il 26/07/2026 08:18",
-      "activities": [
-        {
-          "name": "Impero: Audace",
-          "period": "2026-07-26T08:18:32Z",
-          "instanceId": "17089663717"
-        },
-        {
-          "name": "Dissenso: Normale",
-          "period": "2026-07-26T07:53:22Z",
-          "instanceId": "17089617008"
-        },
-        {
-          "name": "Gloria futura: Audace",
-          "period": "2026-07-25T18:46:46Z",
-          "instanceId": "17087625367"
-        },
-        {
-          "name": "Requiem: Normale",
-          "period": "2026-07-25T18:22:36Z",
-          "instanceId": "17087547306"
-        },
-        {
-          "name": "Escissione: Gran maestro",
-          "period": "2026-07-25T17:29:52Z",
-          "instanceId": "17087360981"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-25T17:27:27Z",
-          "instanceId": "17087356868"
-        },
-        {
-          "name": "Escissione: Solo gioco",
-          "period": "2026-07-25T17:26:33Z",
-          "instanceId": "17087394346"
-        },
-        {
-          "name": "Iconoclastia: Normale",
-          "period": "2026-07-25T17:00:07Z",
-          "instanceId": "17087342593"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-07-25T15:53:45Z",
-          "instanceId": "17087236377"
-        },
-        {
-          "name": "Misure disperate: Normale",
-          "period": "2026-07-25T15:12:02Z",
-          "instanceId": "17087087050"
         }
       ]
     },
@@ -716,71 +781,6 @@
           "name": "Campi di battaglia: Colosso: Personalizzata",
           "period": "2026-07-25T13:17:56Z",
           "instanceId": "17086788313"
-        }
-      ]
-    },
-    {
-      "displayName": "alexcecenko#951",
-      "membershipId": "4611686018463713971",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Leggenda",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/d27e8ff42082bb9a237522a9a306e3ac.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1784999050000,
-      "lastActivityTimestamp": 1784997795000,
-      "lastActivityText": "Pallido Cuore il 25/07/2026 16:43",
-      "activities": [
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-25T16:43:15Z",
-          "instanceId": "17087293606"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-07-25T15:53:45Z",
-          "instanceId": "17087236377"
-        },
-        {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-07-05T10:48:10Z",
-          "instanceId": "17015695306"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-06-29T21:54:50Z",
-          "instanceId": "16992664962"
-        },
-        {
-          "name": "Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-06-29T21:06:10Z",
-          "instanceId": "16992549444"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-29T20:33:40Z",
-          "instanceId": "16992376593"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-29T20:32:11Z",
-          "instanceId": "16992308280"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-29T20:30:53Z",
-          "instanceId": "16992302370"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-29T20:28:25Z",
-          "instanceId": "16992293951"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-06-29T20:00:41Z",
-          "instanceId": "16992274508"
         }
       ]
     },
