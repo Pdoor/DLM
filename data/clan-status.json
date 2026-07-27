@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-27T11:53:36.829Z",
+  "generatedAt": "2026-07-27T14:47:40.371Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1785163622000,
+      "lastActivityTimestamp": 1785159021000,
+      "lastActivityText": "Terminale Intuitivo: Con matchmaking il 27/07/2026 13:30",
+      "activities": [
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-07-27T13:30:21Z",
+          "instanceId": "17093296204"
+        },
+        {
+          "name": "Il trono infranto",
+          "period": "2026-07-25T15:05:35Z",
+          "instanceId": "17087106804"
+        },
+        {
+          "name": "La culla del male: Con matchmaking",
+          "period": "2026-07-25T14:58:23Z",
+          "instanceId": "17087032994"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-24T07:15:56Z",
+          "instanceId": "17083319172"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-07-24T06:27:07Z",
+          "instanceId": "17083179130"
+        },
+        {
+          "name": "Bis in evidenza: Morgeth: Pantheon",
+          "period": "2026-07-24T05:58:32Z",
+          "instanceId": "17083155885"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-07-24T05:40:30Z",
+          "instanceId": "17083209153"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-07-23T18:09:17Z",
+          "instanceId": "17081449323"
+        },
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-07-23T16:49:48Z",
+          "instanceId": "17081330372"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-23T14:26:08Z",
+          "instanceId": "17081256463"
+        }
+      ]
+    },
     {
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
@@ -13,10 +78,15 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1785145795000,
-      "lastActivityTimestamp": 1785145078000,
-      "lastActivityText": "Terminale Intuitivo: Con matchmaking il 27/07/2026 09:37",
+      "lastPlayedTimestamp": 1785154545000,
+      "lastActivityTimestamp": 1785153745000,
+      "lastActivityText": "Luna il 27/07/2026 12:02",
       "activities": [
+        {
+          "name": "Luna",
+          "period": "2026-07-27T12:02:25Z",
+          "instanceId": "17093155718"
+        },
         {
           "name": "Terminale Intuitivo: Con matchmaking",
           "period": "2026-07-27T09:37:58Z",
@@ -61,11 +131,6 @@
           "name": "Centro Città: Con matchmaking",
           "period": "2026-07-25T08:43:44Z",
           "instanceId": "17086366146"
-        },
-        {
-          "name": "Sfida degli Anziani: Con matchmaking",
-          "period": "2026-07-24T22:08:45Z",
-          "instanceId": "17084952701"
         }
       ]
     },
@@ -655,71 +720,6 @@
       ]
     },
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 546,
-      "lastPlayedTimestamp": 1785153084000,
-      "lastActivityTimestamp": 1785045097000,
-      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 26/07/2026 05:51",
-      "activities": [
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-07-26T05:51:37Z",
-          "instanceId": "17089354745"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-07-25T15:53:45Z",
-          "instanceId": "17087236377"
-        },
-        {
-          "name": "IL DESTINO DI CAYDE",
-          "period": "2026-07-25T10:42:24Z",
-          "instanceId": "17086520189"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-07-25T08:58:54Z",
-          "instanceId": "17086379843"
-        },
-        {
-          "name": "La culla del male: Con matchmaking",
-          "period": "2026-07-25T06:54:56Z",
-          "instanceId": "17086156038"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-25T06:36:57Z",
-          "instanceId": "17086119263"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-07-24T17:46:06Z",
-          "instanceId": "17084278177"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-07-24T17:13:58Z",
-          "instanceId": "17084220917"
-        },
-        {
-          "name": "Schianto dell'Esodo: Con matchmaking",
-          "period": "2026-07-24T16:46:02Z",
-          "instanceId": "17084159401"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-07-24T16:06:53Z",
-          "instanceId": "17084077191"
-        }
-      ]
-    },
-    {
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
@@ -918,12 +918,12 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 529,
-      "lastPlayedTimestamp": 1785005370000,
+      "powerLevel": 522,
+      "lastPlayedTimestamp": 1785163387000,
       "lastActivityTimestamp": 1785003690000,
       "lastActivityText": "Conservazione il 25/07/2026 18:21",
       "activities": [
