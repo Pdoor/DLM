@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T22:33:57.543Z",
+  "generatedAt": "2026-07-27T00:04:44.001Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -209,9 +209,14 @@
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 548,
       "lastPlayedTimestamp": 1785099710000,
-      "lastActivityTimestamp": 1785093413000,
-      "lastActivityText": "La radice degli incubi: Maestro il 26/07/2026 19:16",
+      "lastActivityTimestamp": 1785093423000,
+      "lastActivityText": "Pantheon: Calus risplendente: Personalizzata il 26/07/2026 19:17",
       "activities": [
+        {
+          "name": "Pantheon: Calus risplendente: Personalizzata",
+          "period": "2026-07-26T19:17:03Z",
+          "instanceId": "17091690657"
+        },
         {
           "name": "La radice degli incubi: Maestro",
           "period": "2026-07-26T19:16:53Z",
@@ -256,11 +261,6 @@
           "name": "Il trono infranto",
           "period": "2026-07-25T15:05:35Z",
           "instanceId": "17087106804"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-25T15:01:13Z",
-          "instanceId": "17086993480"
         }
       ]
     },
