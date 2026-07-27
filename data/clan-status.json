@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T18:57:22.416Z",
+  "generatedAt": "2026-07-27T20:38:00.423Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 492,
-      "lastPlayedTimestamp": 1785178610000,
-      "lastActivityTimestamp": 1785177545000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 27/07/2026 18:39",
+      "powerLevel": 506,
+      "lastPlayedTimestamp": 1785179016000,
+      "lastActivityTimestamp": 1785178266000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 27/07/2026 18:51",
       "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-27T18:51:06Z",
+          "instanceId": "17093932740"
+        },
         {
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-07-27T18:39:05Z",
@@ -61,11 +66,6 @@
           "name": "Vegliante del niente: Personalizzata",
           "period": "2026-07-26T00:27:30Z",
           "instanceId": "17088539238"
-        },
-        {
-          "name": "Trasmigrazione: Leggendaria",
-          "period": "2026-07-25T23:40:05Z",
-          "instanceId": "17088447851"
         }
       ]
     },
@@ -73,15 +73,20 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
       "powerLevel": 548,
       "lastPlayedTimestamp": 1785178549000,
-      "lastActivityTimestamp": 1785175454000,
-      "lastActivityText": "La Guerriera: Personalizzata il 27/07/2026 18:04",
+      "lastActivityTimestamp": 1785177300000,
+      "lastActivityText": "Missione mito: Carica: Mito il 27/07/2026 18:35",
       "activities": [
+        {
+          "name": "Missione mito: Carica: Mito",
+          "period": "2026-07-27T18:35:00Z",
+          "instanceId": "17093962873"
+        },
         {
           "name": "La Guerriera: Personalizzata",
           "period": "2026-07-27T18:04:14Z",
@@ -123,11 +128,6 @@
           "instanceId": "17081142875"
         },
         {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-23T15:27:26Z",
-          "instanceId": "17081122916"
-        },
-        {
           "name": "Pallido Cuore",
           "period": "2026-07-23T14:26:08Z",
           "instanceId": "17081256463"
@@ -135,83 +135,23 @@
       ]
     },
     {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 522,
-      "lastPlayedTimestamp": 1785178601000,
-      "lastActivityTimestamp": 1785175130000,
-      "lastActivityText": "Conservazione il 27/07/2026 17:58",
-      "activities": [
-        {
-          "name": "Conservazione",
-          "period": "2026-07-27T17:58:50Z",
-          "instanceId": "17093822465"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-07-27T17:27:42Z",
-          "instanceId": "17093760501"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-07-27T13:50:04Z",
-          "instanceId": "17093478081"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-07-25T18:21:30Z",
-          "instanceId": "17087580363"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-25T17:22:04Z",
-          "instanceId": "17087551438"
-        },
-        {
-          "name": "Sfida degli Anziani: Con matchmaking",
-          "period": "2026-07-25T13:48:22Z",
-          "instanceId": "17086895139"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Personalizzata",
-          "period": "2026-07-25T13:17:56Z",
-          "instanceId": "17086788313"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-07-25T13:12:45Z",
-          "instanceId": "17086753649"
-        },
-        {
-          "name": "Il Ponte di Vetro: Personalizzata",
-          "period": "2026-07-25T13:08:35Z",
-          "instanceId": "17086745071"
-        },
-        {
-          "name": "Il Ponte di Vetro: Personalizzata",
-          "period": "2026-07-25T13:06:03Z",
-          "instanceId": "17086740399"
-        }
-      ]
-    },
-    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1785178579000,
-      "lastActivityTimestamp": 1785174705000,
-      "lastActivityText": "Modalità del mondo: mito: Mito il 27/07/2026 17:51",
+      "lastPlayedTimestamp": 1785179140000,
+      "lastActivityTimestamp": 1785177300000,
+      "lastActivityText": "Missione mito: Carica: Mito il 27/07/2026 18:35",
       "activities": [
+        {
+          "name": "Missione mito: Carica: Mito",
+          "period": "2026-07-27T18:35:00Z",
+          "instanceId": "17093962873"
+        },
         {
           "name": "Modalità del mondo: mito: Mito",
           "period": "2026-07-27T17:51:45Z",
@@ -256,11 +196,71 @@
           "name": "Terreni di Prova: Con matchmaking",
           "period": "2026-07-26T18:08:55Z",
           "instanceId": "17090921023"
+        }
+      ]
+    },
+    {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 529,
+      "lastPlayedTimestamp": 1785184652000,
+      "lastActivityTimestamp": 1785176591000,
+      "lastActivityText": "Conservazione il 27/07/2026 18:23",
+      "activities": [
+        {
+          "name": "Conservazione",
+          "period": "2026-07-27T18:23:11Z",
+          "instanceId": "17094068452"
         },
         {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-07-26T17:57:33Z",
-          "instanceId": "17090885256"
+          "name": "Conservazione",
+          "period": "2026-07-27T17:58:50Z",
+          "instanceId": "17093822465"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-07-27T17:27:42Z",
+          "instanceId": "17093760501"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-07-27T13:50:04Z",
+          "instanceId": "17093478081"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-07-25T18:21:30Z",
+          "instanceId": "17087580363"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-25T17:22:04Z",
+          "instanceId": "17087551438"
+        },
+        {
+          "name": "Sfida degli Anziani: Con matchmaking",
+          "period": "2026-07-25T13:48:22Z",
+          "instanceId": "17086895139"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Personalizzata",
+          "period": "2026-07-25T13:17:56Z",
+          "instanceId": "17086788313"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-07-25T13:12:45Z",
+          "instanceId": "17086753649"
+        },
+        {
+          "name": "Il Ponte di Vetro: Personalizzata",
+          "period": "2026-07-25T13:08:35Z",
+          "instanceId": "17086745071"
         }
       ]
     },
@@ -858,7 +858,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6ba69610e621b042b70caa39105b937b.jpg",
       "powerLevel": 365,
-      "lastPlayedTimestamp": 1785031687000,
+      "lastPlayedTimestamp": 1785180594000,
       "lastActivityTimestamp": 1785028465000,
       "lastActivityText": "Volta di Vetro: Standard il 26/07/2026 01:14",
       "activities": [
