@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-27T20:38:00.423Z",
+  "generatedAt": "2026-07-27T22:11:45.230Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 530,
+      "lastPlayedTimestamp": 1785185836000,
+      "lastActivityTimestamp": 1785183174000,
+      "lastActivityText": "Conservazione il 27/07/2026 20:12",
+      "activities": [
+        {
+          "name": "Conservazione",
+          "period": "2026-07-27T20:12:54Z",
+          "instanceId": "17094197648"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-07-27T18:23:11Z",
+          "instanceId": "17094068452"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-07-27T17:58:50Z",
+          "instanceId": "17093822465"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-07-27T17:27:42Z",
+          "instanceId": "17093760501"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-07-27T13:50:04Z",
+          "instanceId": "17093478081"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-07-25T18:21:30Z",
+          "instanceId": "17087580363"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-07-25T17:22:04Z",
+          "instanceId": "17087551438"
+        },
+        {
+          "name": "Sfida degli Anziani: Con matchmaking",
+          "period": "2026-07-25T13:48:22Z",
+          "instanceId": "17086895139"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Personalizzata",
+          "period": "2026-07-25T13:17:56Z",
+          "instanceId": "17086788313"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-07-25T13:12:45Z",
+          "instanceId": "17086753649"
+        }
+      ]
+    },
     {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
@@ -200,71 +265,6 @@
       ]
     },
     {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 529,
-      "lastPlayedTimestamp": 1785184652000,
-      "lastActivityTimestamp": 1785176591000,
-      "lastActivityText": "Conservazione il 27/07/2026 18:23",
-      "activities": [
-        {
-          "name": "Conservazione",
-          "period": "2026-07-27T18:23:11Z",
-          "instanceId": "17094068452"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-07-27T17:58:50Z",
-          "instanceId": "17093822465"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-07-27T17:27:42Z",
-          "instanceId": "17093760501"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-07-27T13:50:04Z",
-          "instanceId": "17093478081"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-07-25T18:21:30Z",
-          "instanceId": "17087580363"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-25T17:22:04Z",
-          "instanceId": "17087551438"
-        },
-        {
-          "name": "Sfida degli Anziani: Con matchmaking",
-          "period": "2026-07-25T13:48:22Z",
-          "instanceId": "17086895139"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Personalizzata",
-          "period": "2026-07-25T13:17:56Z",
-          "instanceId": "17086788313"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-07-25T13:12:45Z",
-          "instanceId": "17086753649"
-        },
-        {
-          "name": "Il Ponte di Vetro: Personalizzata",
-          "period": "2026-07-25T13:08:35Z",
-          "instanceId": "17086745071"
-        }
-      ]
-    },
-    {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
@@ -402,8 +402,8 @@
       "className": "Titani",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
-      "powerLevel": 422,
-      "lastPlayedTimestamp": 1785096890000,
+      "powerLevel": 425,
+      "lastPlayedTimestamp": 1785187210000,
       "lastActivityTimestamp": 1785096724000,
       "lastActivityText": "Partita veloce: maestro: Maestro il 26/07/2026 20:12",
       "activities": [
