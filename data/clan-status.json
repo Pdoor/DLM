@@ -1,22 +1,157 @@
 {
-  "generatedAt": "2026-07-28T13:11:22.411Z",
+  "generatedAt": "2026-07-28T15:51:04.616Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
+      "powerLevel": 424,
+      "lastPlayedTimestamp": 1785248863000,
+      "lastActivityTimestamp": 1785246928000,
+      "lastActivityText": "Conquista modalità esperto: Cella Senza Sole: Personalizzata il 28/07/2026 13:55",
+      "activities": [
+        {
+          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
+          "period": "2026-07-28T13:55:28Z",
+          "instanceId": "17096233318"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-28T13:18:37Z",
+          "instanceId": "17096139621"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-26T20:12:04Z",
+          "instanceId": "17091315341"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-26T19:46:18Z",
+          "instanceId": "17091235893"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-26T19:34:43Z",
+          "instanceId": "17091161719"
+        },
+        {
+          "name": "Il lungo inganno: Audace",
+          "period": "2026-07-25T22:01:40Z",
+          "instanceId": "17088161865"
+        },
+        {
+          "name": "Rovina della Signora della Guerra: Standard",
+          "period": "2026-07-25T21:30:11Z",
+          "instanceId": "17088062320"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-25T20:59:25Z",
+          "instanceId": "17088002670"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-25T20:41:03Z",
+          "instanceId": "17087922012"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-25T20:26:05Z",
+          "instanceId": "17087872503"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 546,
+      "lastPlayedTimestamp": 1785251947000,
+      "lastActivityTimestamp": 1785244120000,
+      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 28/07/2026 13:08",
+      "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-28T13:08:40Z",
+          "instanceId": "17096122522"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-28T12:40:13Z",
+          "instanceId": "17096347300"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-28T11:35:31Z",
+          "instanceId": "17095968289"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-28T11:03:06Z",
+          "instanceId": "17095927366"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-28T10:54:39Z",
+          "instanceId": "17095903239"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-28T10:18:02Z",
+          "instanceId": "17095857806"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-28T09:53:15Z",
+          "instanceId": "17095830873"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-28T07:54:15Z",
+          "instanceId": "17095684260"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-07-27T11:56:55Z",
+          "instanceId": "17093144044"
+        },
+        {
+          "name": "Terreni di Prova: Con matchmaking",
+          "period": "2026-07-27T11:41:47Z",
+          "instanceId": "17093129098"
+        }
+      ]
+    },
+    {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
       "powerLevel": 549,
-      "lastPlayedTimestamp": 1785244255000,
-      "lastActivityTimestamp": 1785241375000,
-      "lastActivityText": "Pallido Cuore il 28/07/2026 12:22",
+      "lastPlayedTimestamp": 1785252380000,
+      "lastActivityTimestamp": 1785242413000,
+      "lastActivityText": "Pallido Cuore il 28/07/2026 12:40",
       "activities": [
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-28T12:40:13Z",
+          "instanceId": "17096347300"
+        },
         {
           "name": "Pallido Cuore",
           "period": "2026-07-28T12:22:55Z",
@@ -58,79 +193,9 @@
           "instanceId": "17081173445"
         },
         {
-          "name": "Covo dei Saccheggiatori: Esperto",
-          "period": "2026-07-23T15:56:12Z",
-          "instanceId": "17081167795"
-        },
-        {
           "name": "Pallido Cuore",
           "period": "2026-07-23T14:26:08Z",
           "instanceId": "17081256463"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 546,
-      "lastPlayedTimestamp": 1785244232000,
-      "lastActivityTimestamp": 1785238531000,
-      "lastActivityText": "Campi di battaglia: Appiglio: Con matchmaking il 28/07/2026 11:35",
-      "activities": [
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-07-28T11:35:31Z",
-          "instanceId": "17095968289"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-28T11:03:06Z",
-          "instanceId": "17095927366"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-07-28T10:54:39Z",
-          "instanceId": "17095903239"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-07-28T10:18:02Z",
-          "instanceId": "17095857806"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-07-28T09:53:15Z",
-          "instanceId": "17095830873"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-28T07:54:15Z",
-          "instanceId": "17095684260"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-07-27T11:56:55Z",
-          "instanceId": "17093144044"
-        },
-        {
-          "name": "Terreni di Prova: Con matchmaking",
-          "period": "2026-07-27T11:41:47Z",
-          "instanceId": "17093129098"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-07-26T05:51:37Z",
-          "instanceId": "17089354745"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-07-25T15:53:45Z",
-          "instanceId": "17087236377"
         }
       ]
     },
@@ -207,8 +272,8 @@
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 530,
-      "lastPlayedTimestamp": 1785244094000,
+      "powerLevel": 531,
+      "lastPlayedTimestamp": 1785253830000,
       "lastActivityTimestamp": 1785183174000,
       "lastActivityText": "Conservazione il 27/07/2026 20:12",
       "activities": [
@@ -338,7 +403,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1785169470000,
+      "lastPlayedTimestamp": 1785250248000,
       "lastActivityTimestamp": 1785168338000,
       "lastActivityText": "Terreni di Prova: Con matchmaking il 27/07/2026 16:05",
       "activities": [
@@ -391,71 +456,6 @@
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-07-25T14:16:44Z",
           "instanceId": "17086912912"
-        }
-      ]
-    },
-    {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
-      "powerLevel": 425,
-      "lastPlayedTimestamp": 1785243967000,
-      "lastActivityTimestamp": 1785096724000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 26/07/2026 20:12",
-      "activities": [
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-26T20:12:04Z",
-          "instanceId": "17091315341"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-26T19:46:18Z",
-          "instanceId": "17091235893"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-26T19:34:43Z",
-          "instanceId": "17091161719"
-        },
-        {
-          "name": "Il lungo inganno: Audace",
-          "period": "2026-07-25T22:01:40Z",
-          "instanceId": "17088161865"
-        },
-        {
-          "name": "Rovina della Signora della Guerra: Standard",
-          "period": "2026-07-25T21:30:11Z",
-          "instanceId": "17088062320"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-25T20:59:25Z",
-          "instanceId": "17088002670"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-25T20:41:03Z",
-          "instanceId": "17087922012"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-25T20:26:05Z",
-          "instanceId": "17087872503"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-24T20:38:55Z",
-          "instanceId": "17084669735"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-24T20:26:55Z",
-          "instanceId": "17084649018"
         }
       ]
     },
