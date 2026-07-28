@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-28T02:54:06.307Z",
+  "generatedAt": "2026-07-28T05:52:29.863Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1785217846000,
+      "lastActivityTimestamp": 1785216554000,
+      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 28/07/2026 05:29",
+      "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-28T05:29:14Z",
+          "instanceId": "17095460972"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-28T05:14:23Z",
+          "instanceId": "17095429655"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-28T05:08:27Z",
+          "instanceId": "17095420438"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-28T04:55:45Z",
+          "instanceId": "17095393441"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-28T04:50:51Z",
+          "instanceId": "17095395178"
+        },
+        {
+          "name": "Missione mito: Carica: Mito",
+          "period": "2026-07-27T18:35:00Z",
+          "instanceId": "17093962873"
+        },
+        {
+          "name": "Modalità del mondo: mito: Mito",
+          "period": "2026-07-27T17:51:45Z",
+          "instanceId": "17093868408"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-07-27T11:05:39Z",
+          "instanceId": "17093077210"
+        },
+        {
+          "name": "Terreni di Prova: Con matchmaking",
+          "period": "2026-07-27T11:01:12Z",
+          "instanceId": "17093075920"
+        },
+        {
+          "name": "Esegesi: Normale",
+          "period": "2026-07-27T05:38:53Z",
+          "instanceId": "17092720426"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -261,71 +326,6 @@
           "name": "Pallido Cuore",
           "period": "2026-07-23T14:26:08Z",
           "instanceId": "17081256463"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1785179140000,
-      "lastActivityTimestamp": 1785177300000,
-      "lastActivityText": "Missione mito: Carica: Mito il 27/07/2026 18:35",
-      "activities": [
-        {
-          "name": "Missione mito: Carica: Mito",
-          "period": "2026-07-27T18:35:00Z",
-          "instanceId": "17093962873"
-        },
-        {
-          "name": "Modalità del mondo: mito: Mito",
-          "period": "2026-07-27T17:51:45Z",
-          "instanceId": "17093868408"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-07-27T11:05:39Z",
-          "instanceId": "17093077210"
-        },
-        {
-          "name": "Terreni di Prova: Con matchmaking",
-          "period": "2026-07-27T11:01:12Z",
-          "instanceId": "17093075920"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-07-27T05:55:14Z",
-          "instanceId": "17092678365"
-        },
-        {
-          "name": "Esegesi: Normale",
-          "period": "2026-07-27T05:38:53Z",
-          "instanceId": "17092720426"
-        },
-        {
-          "name": "Terreni di Prova: Con matchmaking",
-          "period": "2026-07-27T05:12:05Z",
-          "instanceId": "17092617276"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-07-27T04:45:53Z",
-          "instanceId": "17092560863"
-        },
-        {
-          "name": "Bunker dei caduti: Con matchmaking",
-          "period": "2026-07-26T18:22:39Z",
-          "instanceId": "17090972791"
-        },
-        {
-          "name": "Terreni di Prova: Con matchmaking",
-          "period": "2026-07-26T18:08:55Z",
-          "instanceId": "17090921023"
         }
       ]
     },
