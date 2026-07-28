@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T08:42:55.964Z",
+  "generatedAt": "2026-07-28T11:22:50.513Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,25 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
       "powerLevel": 547,
-      "lastPlayedTimestamp": 1785226333000,
-      "lastActivityTimestamp": 1785225255000,
-      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 28/07/2026 07:54",
+      "lastPlayedTimestamp": 1785237646000,
+      "lastActivityTimestamp": 1785236079000,
+      "lastActivityText": "Campi di battaglia: Appiglio: Con matchmaking il 28/07/2026 10:54",
       "activities": [
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-28T10:54:39Z",
+          "instanceId": "17095903239"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-28T10:18:02Z",
+          "instanceId": "17095857806"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-28T09:53:15Z",
+          "instanceId": "17095830873"
+        },
         {
           "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
           "period": "2026-07-28T07:54:15Z",
@@ -51,21 +66,6 @@
           "name": "La fine di Crota: Standard",
           "period": "2026-07-25T08:58:54Z",
           "instanceId": "17086379843"
-        },
-        {
-          "name": "La culla del male: Con matchmaking",
-          "period": "2026-07-25T06:54:56Z",
-          "instanceId": "17086156038"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-07-25T06:36:57Z",
-          "instanceId": "17086119263"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-07-24T17:46:06Z",
-          "instanceId": "17084278177"
         }
       ]
     },
