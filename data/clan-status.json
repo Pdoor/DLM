@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-29T20:31:43.801Z",
+  "generatedAt": "2026-07-29T22:04:23.627Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/80f5aec4b03c7613d8628b7b7077b936.jpg",
+      "powerLevel": 430,
+      "lastPlayedTimestamp": 1785360964000,
+      "lastActivityTimestamp": 1785359559000,
+      "lastActivityText": "Spedizione: Europa: Personalizzata il 29/07/2026 21:12",
+      "activities": [
+        {
+          "name": "Spedizione: Europa: Personalizzata",
+          "period": "2026-07-29T21:12:39Z",
+          "instanceId": "17099173645"
+        },
+        {
+          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
+          "period": "2026-07-29T20:24:03Z",
+          "instanceId": "17099101303"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-29T13:16:37Z",
+          "instanceId": "17098313695"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-29T13:01:04Z",
+          "instanceId": "17098289518"
+        },
+        {
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-07-28T21:40:16Z",
+          "instanceId": "17096851245"
+        },
+        {
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-07-28T21:19:02Z",
+          "instanceId": "17096819193"
+        },
+        {
+          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
+          "period": "2026-07-28T13:55:28Z",
+          "instanceId": "17096233318"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-28T13:18:37Z",
+          "instanceId": "17096139621"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-26T20:12:04Z",
+          "instanceId": "17091315341"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-26T19:46:18Z",
+          "instanceId": "17091235893"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -196,71 +261,6 @@
           "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
           "period": "2026-06-30T16:00:51Z",
           "instanceId": "16996111393"
-        }
-      ]
-    },
-    {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/80f5aec4b03c7613d8628b7b7077b936.jpg",
-      "powerLevel": 429,
-      "lastPlayedTimestamp": 1785357059000,
-      "lastActivityTimestamp": 1785330997000,
-      "lastActivityText": "Partita veloce: Normale il 29/07/2026 13:16",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-29T13:16:37Z",
-          "instanceId": "17098313695"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-29T13:01:04Z",
-          "instanceId": "17098289518"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-07-28T21:40:16Z",
-          "instanceId": "17096851245"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-07-28T21:19:02Z",
-          "instanceId": "17096819193"
-        },
-        {
-          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
-          "period": "2026-07-28T13:55:28Z",
-          "instanceId": "17096233318"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-28T13:18:37Z",
-          "instanceId": "17096139621"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-26T20:12:04Z",
-          "instanceId": "17091315341"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-26T19:46:18Z",
-          "instanceId": "17091235893"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-26T19:34:43Z",
-          "instanceId": "17091161719"
-        },
-        {
-          "name": "Il lungo inganno: Audace",
-          "period": "2026-07-25T22:01:40Z",
-          "instanceId": "17088161865"
         }
       ]
     },
@@ -593,12 +593,12 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
       "powerLevel": 533,
-      "lastPlayedTimestamp": 1785276433000,
+      "lastPlayedTimestamp": 1785362607000,
       "lastActivityTimestamp": 1785094981000,
       "lastActivityText": "Partita veloce: maestro: Maestro il 26/07/2026 19:43",
       "activities": [
