@@ -1,74 +1,9 @@
 {
-  "generatedAt": "2026-07-29T09:41:00.381Z",
+  "generatedAt": "2026-07-29T12:04:44.656Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
-    {
-      "displayName": "İda_Toprak_Kava#856",
-      "membershipId": "4611686018556113076",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 404,
-      "lastPlayedTimestamp": 1785317863000,
-      "lastActivityTimestamp": 1785315604000,
-      "lastActivityText": "La Tana dei Diavoli il 29/07/2026 09:00",
-      "activities": [
-        {
-          "name": "La Tana dei Diavoli",
-          "period": "2026-07-29T09:00:04Z",
-          "instanceId": "17098024005"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-29T08:56:38Z",
-          "instanceId": "17098004533"
-        },
-        {
-          "name": "Lago di ombre",
-          "period": "2026-07-29T08:54:24Z",
-          "instanceId": "17098012603"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-29T08:50:00Z",
-          "instanceId": "17097996925"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-15T13:41:54Z",
-          "instanceId": "17054334078"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-07-01T15:25:37Z",
-          "instanceId": "16999793613"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-06-26T12:51:21Z",
-          "instanceId": "16975127416"
-        },
-        {
-          "name": "Rissa: Con matchmaking",
-          "period": "2026-06-24T19:48:46Z",
-          "instanceId": "16967134697"
-        },
-        {
-          "name": "Rissa: Con matchmaking",
-          "period": "2026-06-24T19:38:22Z",
-          "instanceId": "16967105104"
-        },
-        {
-          "name": "Rissa: Con matchmaking",
-          "period": "2026-06-24T19:31:00Z",
-          "instanceId": "16967067524"
-        }
-      ]
-    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -77,11 +12,16 @@
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1785308535000,
-      "lastActivityTimestamp": 1785307639000,
-      "lastActivityText": "Zona Morta Europea il 29/07/2026 06:47",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1785324478000,
+      "lastActivityTimestamp": 1785323293000,
+      "lastActivityText": "Cella Senza Sole: Con matchmaking il 29/07/2026 11:08",
       "activities": [
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-07-29T11:08:13Z",
+          "instanceId": "17098150659"
+        },
         {
           "name": "Zona Morta Europea",
           "period": "2026-07-29T06:47:19Z",
@@ -126,11 +66,71 @@
           "name": "Campi di battaglia: Appiglio: Con matchmaking",
           "period": "2026-07-28T05:14:23Z",
           "instanceId": "17095429655"
+        }
+      ]
+    },
+    {
+      "displayName": "İda_Toprak_Kava#856",
+      "membershipId": "4611686018556113076",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 404,
+      "lastPlayedTimestamp": 1785318231000,
+      "lastActivityTimestamp": 1785316812000,
+      "lastActivityText": "Cosmodromo il 29/07/2026 09:20",
+      "activities": [
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-29T09:20:12Z",
+          "instanceId": "17098045049"
         },
         {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-07-28T05:08:27Z",
-          "instanceId": "17095420438"
+          "name": "La Tana dei Diavoli",
+          "period": "2026-07-29T09:00:04Z",
+          "instanceId": "17098024005"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-29T08:56:38Z",
+          "instanceId": "17098004533"
+        },
+        {
+          "name": "Lago di ombre",
+          "period": "2026-07-29T08:54:24Z",
+          "instanceId": "17098012603"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-29T08:50:00Z",
+          "instanceId": "17097996925"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-15T13:41:54Z",
+          "instanceId": "17054334078"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-07-01T15:25:37Z",
+          "instanceId": "16999793613"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-06-26T12:51:21Z",
+          "instanceId": "16975127416"
+        },
+        {
+          "name": "Rissa: Con matchmaking",
+          "period": "2026-06-24T19:48:46Z",
+          "instanceId": "16967134697"
+        },
+        {
+          "name": "Rissa: Con matchmaking",
+          "period": "2026-06-24T19:38:22Z",
+          "instanceId": "16967105104"
         }
       ]
     },
@@ -593,12 +593,12 @@
       "displayName": "DiciestCloth1#2862",
       "membershipId": "4611686018442634411",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Flagello di Riven",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1785099710000,
+      "lastPlayedTimestamp": 1785326658000,
       "lastActivityTimestamp": 1785093423000,
       "lastActivityText": "Pantheon: Calus risplendente: Personalizzata il 26/07/2026 19:17",
       "activities": [
