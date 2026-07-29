@@ -1,22 +1,97 @@
 {
-  "generatedAt": "2026-07-29T06:36:08.135Z",
+  "generatedAt": "2026-07-29T09:41:00.381Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "İda_Toprak_Kava#856",
+      "membershipId": "4611686018556113076",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 404,
+      "lastPlayedTimestamp": 1785317863000,
+      "lastActivityTimestamp": 1785315604000,
+      "lastActivityText": "La Tana dei Diavoli il 29/07/2026 09:00",
+      "activities": [
+        {
+          "name": "La Tana dei Diavoli",
+          "period": "2026-07-29T09:00:04Z",
+          "instanceId": "17098024005"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-29T08:56:38Z",
+          "instanceId": "17098004533"
+        },
+        {
+          "name": "Lago di ombre",
+          "period": "2026-07-29T08:54:24Z",
+          "instanceId": "17098012603"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-29T08:50:00Z",
+          "instanceId": "17097996925"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-15T13:41:54Z",
+          "instanceId": "17054334078"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-07-01T15:25:37Z",
+          "instanceId": "16999793613"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-06-26T12:51:21Z",
+          "instanceId": "16975127416"
+        },
+        {
+          "name": "Rissa: Con matchmaking",
+          "period": "2026-06-24T19:48:46Z",
+          "instanceId": "16967134697"
+        },
+        {
+          "name": "Rissa: Con matchmaking",
+          "period": "2026-06-24T19:38:22Z",
+          "instanceId": "16967105104"
+        },
+        {
+          "name": "Rissa: Con matchmaking",
+          "period": "2026-06-24T19:31:00Z",
+          "instanceId": "16967067524"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1785306889000,
-      "lastActivityTimestamp": 1785304549000,
-      "lastActivityText": "Cella Senza Sole: Con matchmaking il 29/07/2026 05:55",
+      "lastPlayedTimestamp": 1785308535000,
+      "lastActivityTimestamp": 1785307639000,
+      "lastActivityText": "Zona Morta Europea il 29/07/2026 06:47",
       "activities": [
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-29T06:47:19Z",
+          "instanceId": "17097869898"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-07-29T06:20:46Z",
+          "instanceId": "17097842346"
+        },
         {
           "name": "Cella Senza Sole: Con matchmaking",
           "period": "2026-07-29T05:55:49Z",
@@ -56,16 +131,6 @@
           "name": "Campi di battaglia: Appiglio: Con matchmaking",
           "period": "2026-07-28T05:08:27Z",
           "instanceId": "17095420438"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-07-28T04:55:45Z",
-          "instanceId": "17095393441"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-28T04:50:51Z",
-          "instanceId": "17095395178"
         }
       ]
     },
@@ -1301,71 +1366,6 @@
           "name": "La Città Sognante",
           "period": "2026-06-27T13:49:20Z",
           "instanceId": "16980295074"
-        }
-      ]
-    },
-    {
-      "displayName": "İda_Toprak_Kava#856",
-      "membershipId": "4611686018556113076",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 403,
-      "lastPlayedTimestamp": 1785270765000,
-      "lastActivityTimestamp": 1784122914000,
-      "lastActivityText": "Zona Morta Europea il 15/07/2026 13:41",
-      "activities": [
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-15T13:41:54Z",
-          "instanceId": "17054334078"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-07-01T15:25:37Z",
-          "instanceId": "16999793613"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-06-26T12:51:21Z",
-          "instanceId": "16975127416"
-        },
-        {
-          "name": "Rissa: Con matchmaking",
-          "period": "2026-06-24T19:48:46Z",
-          "instanceId": "16967134697"
-        },
-        {
-          "name": "Rissa: Con matchmaking",
-          "period": "2026-06-24T19:38:22Z",
-          "instanceId": "16967105104"
-        },
-        {
-          "name": "Rissa: Con matchmaking",
-          "period": "2026-06-24T19:31:00Z",
-          "instanceId": "16967067524"
-        },
-        {
-          "name": "Rissa: Con matchmaking",
-          "period": "2026-06-24T19:23:46Z",
-          "instanceId": "16967041254"
-        },
-        {
-          "name": "Rissa: Con matchmaking",
-          "period": "2026-06-24T19:10:42Z",
-          "instanceId": "16966996144"
-        },
-        {
-          "name": "Rissa: Con matchmaking",
-          "period": "2026-06-24T18:38:22Z",
-          "instanceId": "16966861077"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-06-24T18:26:00Z",
-          "instanceId": "16966814481"
         }
       ]
     },
