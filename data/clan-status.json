@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T17:41:18.210Z",
+  "generatedAt": "2026-07-30T19:40:43.000Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,40 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1785433230000,
-      "lastActivityTimestamp": 1785432710000,
-      "lastActivityText": "Spirale invertita il 30/07/2026 17:31",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1785437695000,
+      "lastActivityTimestamp": 1785435731000,
+      "lastActivityText": "Liminalità il 30/07/2026 18:22",
       "activities": [
+        {
+          "name": "Liminalità",
+          "period": "2026-07-30T18:22:11Z",
+          "instanceId": "17101201126"
+        },
+        {
+          "name": "Trafficante d'armi",
+          "period": "2026-07-30T18:06:26Z",
+          "instanceId": "17101142142"
+        },
+        {
+          "name": "La disonorata",
+          "period": "2026-07-30T18:05:50Z",
+          "instanceId": "17101134823"
+        },
+        {
+          "name": "La disonorata",
+          "period": "2026-07-30T17:52:25Z",
+          "instanceId": "17101113657"
+        },
+        {
+          "name": "La culla del male: Con matchmaking",
+          "period": "2026-07-30T17:38:37Z",
+          "instanceId": "17101100548"
+        },
         {
           "name": "Spirale invertita",
           "period": "2026-07-30T17:31:50Z",
@@ -38,34 +63,9 @@
           "instanceId": "17098744190"
         },
         {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-29T17:50:29Z",
-          "instanceId": "17098742226"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-07-29T15:21:07Z",
-          "instanceId": "17098555179"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-29T14:50:00Z",
-          "instanceId": "17098485358"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Personalizzata",
-          "period": "2026-07-29T14:22:15Z",
-          "instanceId": "17098432597"
-        },
-        {
           "name": "La Fortezza Scarlatta: Personalizzata",
           "period": "2026-07-29T14:14:15Z",
           "instanceId": "17098791827"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Personalizzata",
-          "period": "2026-07-29T14:09:46Z",
-          "instanceId": "17098375741"
         }
       ]
     },
@@ -73,15 +73,20 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
       "powerLevel": 547,
-      "lastPlayedTimestamp": 1785433233000,
-      "lastActivityTimestamp": 1785430992000,
-      "lastActivityText": "La culla del male: Con matchmaking il 30/07/2026 17:03",
+      "lastPlayedTimestamp": 1785434327000,
+      "lastActivityTimestamp": 1785433117000,
+      "lastActivityText": "La culla del male: Con matchmaking il 30/07/2026 17:38",
       "activities": [
+        {
+          "name": "La culla del male: Con matchmaking",
+          "period": "2026-07-30T17:38:37Z",
+          "instanceId": "17101100548"
+        },
         {
           "name": "La culla del male: Con matchmaking",
           "period": "2026-07-30T17:03:12Z",
@@ -126,11 +131,6 @@
           "name": "Pallido Cuore",
           "period": "2026-07-28T12:40:13Z",
           "instanceId": "17096347300"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-07-28T11:35:31Z",
-          "instanceId": "17095968289"
         }
       ]
     },
