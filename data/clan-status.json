@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-07-30T13:08:10.616Z",
+  "generatedAt": "2026-07-30T15:33:00.792Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
       "bungieNetMembershipId": "",
       "isOnline": true,
       "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 547,
-      "lastPlayedTimestamp": 1785416705000,
-      "lastActivityTimestamp": 1785415501000,
-      "lastActivityText": "La disonorata: Con matchmaking il 30/07/2026 12:45",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/80f5aec4b03c7613d8628b7b7077b936.jpg",
+      "powerLevel": 363,
+      "lastPlayedTimestamp": 1785425189000,
+      "lastActivityTimestamp": 1785423696000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 30/07/2026 15:01",
       "activities": [
         {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-07-30T12:45:01Z",
-          "instanceId": "17100607416"
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-30T15:01:36Z",
+          "instanceId": "17100830730"
         },
         {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-07-29T15:21:07Z",
-          "instanceId": "17098555179"
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-30T14:43:13Z",
+          "instanceId": "17100802443"
         },
         {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-28T13:08:40Z",
-          "instanceId": "17096122522"
+          "name": "Spedizione: Europa: Personalizzata",
+          "period": "2026-07-29T21:12:39Z",
+          "instanceId": "17099173645"
         },
         {
-          "name": "Pallido Cuore",
-          "period": "2026-07-28T12:40:13Z",
-          "instanceId": "17096347300"
+          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
+          "period": "2026-07-29T20:24:03Z",
+          "instanceId": "17099101303"
         },
         {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-07-28T11:35:31Z",
-          "instanceId": "17095968289"
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-29T13:16:37Z",
+          "instanceId": "17098313695"
         },
         {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-28T11:03:06Z",
-          "instanceId": "17095927366"
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-29T13:01:04Z",
+          "instanceId": "17098289518"
         },
         {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-07-28T10:54:39Z",
-          "instanceId": "17095903239"
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-07-28T21:40:16Z",
+          "instanceId": "17096851245"
         },
         {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-07-28T10:18:02Z",
-          "instanceId": "17095857806"
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-07-28T21:19:02Z",
+          "instanceId": "17096819193"
         },
         {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-07-28T09:53:15Z",
-          "instanceId": "17095830873"
+          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
+          "period": "2026-07-28T13:55:28Z",
+          "instanceId": "17096233318"
         },
         {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-28T07:54:15Z",
-          "instanceId": "17095684260"
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-28T13:18:37Z",
+          "instanceId": "17096139621"
         }
       ]
     },
@@ -77,11 +77,16 @@
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 407,
-      "lastPlayedTimestamp": 1785414481000,
-      "lastActivityTimestamp": 1785412852000,
-      "lastActivityText": "Cosmodromo il 30/07/2026 12:00",
+      "powerLevel": 406,
+      "lastPlayedTimestamp": 1785422992000,
+      "lastActivityTimestamp": 1785421146000,
+      "lastActivityText": "Cosmodromo il 30/07/2026 14:19",
       "activities": [
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-30T14:19:06Z",
+          "instanceId": "17100789968"
+        },
         {
           "name": "Cosmodromo",
           "period": "2026-07-30T12:00:52Z",
@@ -126,76 +131,71 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-29T08:50:00Z",
           "instanceId": "17097996925"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-15T13:41:54Z",
-          "instanceId": "17054334078"
         }
       ]
     },
     {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
       "isOnline": false,
       "className": "Titani",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/80f5aec4b03c7613d8628b7b7077b936.jpg",
-      "powerLevel": 430,
-      "lastPlayedTimestamp": 1785360964000,
-      "lastActivityTimestamp": 1785359559000,
-      "lastActivityText": "Spedizione: Europa: Personalizzata il 29/07/2026 21:12",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 546,
+      "lastPlayedTimestamp": 1785420157000,
+      "lastActivityTimestamp": 1785418529000,
+      "lastActivityText": "Campi di battaglia: Discesa: Con matchmaking il 30/07/2026 13:35",
       "activities": [
         {
-          "name": "Spedizione: Europa: Personalizzata",
-          "period": "2026-07-29T21:12:39Z",
-          "instanceId": "17099173645"
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-30T13:35:29Z",
+          "instanceId": "17100703297"
         },
         {
-          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
-          "period": "2026-07-29T20:24:03Z",
-          "instanceId": "17099101303"
+          "name": "Il Ponte di Vetro: Personalizzata",
+          "period": "2026-07-30T13:28:01Z",
+          "instanceId": "17100693561"
         },
         {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-29T13:16:37Z",
-          "instanceId": "17098313695"
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-07-30T12:45:01Z",
+          "instanceId": "17100607416"
         },
         {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-29T13:01:04Z",
-          "instanceId": "17098289518"
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-07-29T15:21:07Z",
+          "instanceId": "17098555179"
         },
         {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-07-28T21:40:16Z",
-          "instanceId": "17096851245"
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-28T13:08:40Z",
+          "instanceId": "17096122522"
         },
         {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-07-28T21:19:02Z",
-          "instanceId": "17096819193"
+          "name": "Pallido Cuore",
+          "period": "2026-07-28T12:40:13Z",
+          "instanceId": "17096347300"
         },
         {
-          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
-          "period": "2026-07-28T13:55:28Z",
-          "instanceId": "17096233318"
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-28T11:35:31Z",
+          "instanceId": "17095968289"
         },
         {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-28T13:18:37Z",
-          "instanceId": "17096139621"
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-28T11:03:06Z",
+          "instanceId": "17095927366"
         },
         {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-26T20:12:04Z",
-          "instanceId": "17091315341"
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-28T10:54:39Z",
+          "instanceId": "17095903239"
         },
         {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-26T19:46:18Z",
-          "instanceId": "17091235893"
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-28T10:18:02Z",
+          "instanceId": "17095857806"
         }
       ]
     },
@@ -593,12 +593,12 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
       "powerLevel": 533,
-      "lastPlayedTimestamp": 1785362607000,
+      "lastPlayedTimestamp": 1785425511000,
       "lastActivityTimestamp": 1785094981000,
       "lastActivityText": "Partita veloce: maestro: Maestro il 26/07/2026 19:43",
       "activities": [
