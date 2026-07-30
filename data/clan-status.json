@@ -1,74 +1,9 @@
 {
-  "generatedAt": "2026-07-30T08:35:38.752Z",
+  "generatedAt": "2026-07-30T11:12:08.015Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1785395964000,
-      "lastActivityTimestamp": 1785394551000,
-      "lastActivityText": "La culla del male: Personalizzata il 30/07/2026 06:55",
-      "activities": [
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-30T06:55:51Z",
-          "instanceId": "17100234177"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-07-30T06:30:22Z",
-          "instanceId": "17100194051"
-        },
-        {
-          "name": "Il Tecnocrate: Con matchmaking",
-          "period": "2026-07-30T05:58:15Z",
-          "instanceId": "17100145760"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-29T18:38:26Z",
-          "instanceId": "17098888700"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-07-29T18:28:05Z",
-          "instanceId": "17098827675"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-29T18:06:58Z",
-          "instanceId": "17098808663"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-07-29T17:54:47Z",
-          "instanceId": "17098770389"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-29T17:47:38Z",
-          "instanceId": "17098747985"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-07-29T15:21:07Z",
-          "instanceId": "17098555179"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-29T14:50:00Z",
-          "instanceId": "17098485358"
-        }
-      ]
-    },
     {
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
@@ -261,6 +196,71 @@
           "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
           "period": "2026-06-30T16:00:51Z",
           "instanceId": "16996111393"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 376,
+      "lastPlayedTimestamp": 1785408698000,
+      "lastActivityTimestamp": 1785338467000,
+      "lastActivityText": "Campo di battaglia Colpo: Marte: Personalizzata il 29/07/2026 15:21",
+      "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-07-29T15:21:07Z",
+          "instanceId": "17098555179"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-28T13:08:40Z",
+          "instanceId": "17096122522"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-28T12:40:13Z",
+          "instanceId": "17096347300"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-28T11:35:31Z",
+          "instanceId": "17095968289"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-28T11:03:06Z",
+          "instanceId": "17095927366"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-28T10:54:39Z",
+          "instanceId": "17095903239"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-28T10:18:02Z",
+          "instanceId": "17095857806"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-28T09:53:15Z",
+          "instanceId": "17095830873"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-07-28T07:54:15Z",
+          "instanceId": "17095684260"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-07-27T11:56:55Z",
+          "instanceId": "17093144044"
         }
       ]
     },
@@ -468,7 +468,7 @@
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
       "powerLevel": 502,
-      "lastPlayedTimestamp": 1785265898000,
+      "lastPlayedTimestamp": 1785409551000,
       "lastActivityTimestamp": 1785265286000,
       "lastActivityText": "Fortezza: Con matchmaking il 28/07/2026 19:01",
       "activities": [
@@ -918,12 +918,12 @@
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6ba69610e621b042b70caa39105b937b.jpg",
       "powerLevel": 365,
-      "lastPlayedTimestamp": 1785274054000,
+      "lastPlayedTimestamp": 1785409895000,
       "lastActivityTimestamp": 1785028465000,
       "lastActivityText": "Volta di Vetro: Standard il 26/07/2026 01:14",
       "activities": [
