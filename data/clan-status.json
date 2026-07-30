@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-30T05:46:51.449Z",
+  "generatedAt": "2026-07-30T08:35:38.752Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1785395964000,
+      "lastActivityTimestamp": 1785394551000,
+      "lastActivityText": "La culla del male: Personalizzata il 30/07/2026 06:55",
+      "activities": [
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-07-30T06:55:51Z",
+          "instanceId": "17100234177"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-30T06:30:22Z",
+          "instanceId": "17100194051"
+        },
+        {
+          "name": "Il Tecnocrate: Con matchmaking",
+          "period": "2026-07-30T05:58:15Z",
+          "instanceId": "17100145760"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-29T18:38:26Z",
+          "instanceId": "17098888700"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-07-29T18:28:05Z",
+          "instanceId": "17098827675"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-29T18:06:58Z",
+          "instanceId": "17098808663"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-07-29T17:54:47Z",
+          "instanceId": "17098770389"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-29T17:47:38Z",
+          "instanceId": "17098747985"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-07-29T15:21:07Z",
+          "instanceId": "17098555179"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-07-29T14:50:00Z",
+          "instanceId": "17098485358"
+        }
+      ]
+    },
     {
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
@@ -66,71 +131,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-07-26T19:46:18Z",
           "instanceId": "17091235893"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1785390352000,
-      "lastActivityTimestamp": 1785350306000,
-      "lastActivityText": "Europa il 29/07/2026 18:38",
-      "activities": [
-        {
-          "name": "Europa",
-          "period": "2026-07-29T18:38:26Z",
-          "instanceId": "17098888700"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-07-29T18:28:05Z",
-          "instanceId": "17098827675"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-29T18:06:58Z",
-          "instanceId": "17098808663"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-07-29T17:54:47Z",
-          "instanceId": "17098770389"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-29T17:47:38Z",
-          "instanceId": "17098747985"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-07-29T15:21:07Z",
-          "instanceId": "17098555179"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-29T14:50:00Z",
-          "instanceId": "17098485358"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-29T14:41:02Z",
-          "instanceId": "17098472081"
-        },
-        {
-          "name": "Il Ponte di Vetro: Personalizzata",
-          "period": "2026-07-29T14:24:32Z",
-          "instanceId": "17098419870"
-        },
-        {
-          "name": "Vuoto Nascosto: Maestro",
-          "period": "2026-07-29T14:11:01Z",
-          "instanceId": "17098387801"
         }
       ]
     },
