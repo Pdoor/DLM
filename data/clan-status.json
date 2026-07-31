@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-31T00:07:01.064Z",
+  "generatedAt": "2026-07-31T04:02:14.618Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1785464660000,
+      "lastActivityTimestamp": 1785464346000,
+      "lastActivityText": "Azzardo: Con matchmaking il 31/07/2026 02:19",
+      "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-31T02:19:06Z",
+          "instanceId": "17102030018"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-07-31T01:59:05Z",
+          "instanceId": "17101998296"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-07-31T01:36:06Z",
+          "instanceId": "17101969075"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-07-31T01:17:56Z",
+          "instanceId": "17101927622"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-07-31T01:09:12Z",
+          "instanceId": "17101899186"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-31T00:57:44Z",
+          "instanceId": "17101882660"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-07-30T23:30:42Z",
+          "instanceId": "17101793309"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-29T21:37:10Z",
+          "instanceId": "17099203089"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-29T21:17:52Z",
+          "instanceId": "17099173891"
+        },
+        {
+          "name": "Vegliante del niente: Personalizzata",
+          "period": "2026-07-27T23:37:02Z",
+          "instanceId": "17094599145"
+        }
+      ]
+    },
     {
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
@@ -326,71 +391,6 @@
           "name": "Terminale Intuitivo: Con matchmaking",
           "period": "2026-07-27T08:53:38Z",
           "instanceId": "17092921662"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 529,
-      "lastPlayedTimestamp": 1785456407000,
-      "lastActivityTimestamp": 1785361030000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 29/07/2026 21:37",
-      "activities": [
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-29T21:37:10Z",
-          "instanceId": "17099203089"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-29T21:17:52Z",
-          "instanceId": "17099173891"
-        },
-        {
-          "name": "Vegliante del niente: Personalizzata",
-          "period": "2026-07-27T23:37:02Z",
-          "instanceId": "17094599145"
-        },
-        {
-          "name": "Sovraccarico terminale: AZ",
-          "period": "2026-07-27T23:20:24Z",
-          "instanceId": "17094581932"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-27T17:05:05Z",
-          "instanceId": "17093709646"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-07-27T16:42:21Z",
-          "instanceId": "17093651569"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-26T19:57:27Z",
-          "instanceId": "17091241504"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-24T10:14:40Z",
-          "instanceId": "17083491379"
-        },
-        {
-          "name": "Caccia all'incubo: disperazione: Maestro",
-          "period": "2026-07-24T09:52:10Z",
-          "instanceId": "17083459943"
-        },
-        {
-          "name": "Caccia all'incubo: disperazione: Avanzata",
-          "period": "2026-07-24T09:45:45Z",
-          "instanceId": "17083455489"
         }
       ]
     },
