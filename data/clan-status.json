@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-31T21:40:11.037Z",
+  "generatedAt": "2026-07-31T23:07:09.880Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f6bb9e6d08d8881be22dfa2b79f7b2af.jpg",
+      "powerLevel": 275,
+      "lastPlayedTimestamp": 1785536877000,
+      "lastActivityTimestamp": 1785536055000,
+      "lastActivityText": "Controllo: Con matchmaking il 31/07/2026 22:14",
+      "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-31T22:14:15Z",
+          "instanceId": "17103860076"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-31T21:52:40Z",
+          "instanceId": "17103817826"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-31T15:50:32Z",
+          "instanceId": "17103156702"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-31T15:35:29Z",
+          "instanceId": "17103132669"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-31T15:26:18Z",
+          "instanceId": "17103108242"
+        },
+        {
+          "name": "Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-07-30T22:03:33Z",
+          "instanceId": "17101666015"
+        },
+        {
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-07-30T21:51:52Z",
+          "instanceId": "17101540655"
+        },
+        {
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-07-30T15:44:49Z",
+          "instanceId": "17100898400"
+        },
+        {
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-07-30T15:34:17Z",
+          "instanceId": "17100873128"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-30T15:01:36Z",
+          "instanceId": "17100830730"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -131,71 +196,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-31T15:37:37Z",
           "instanceId": "17103124817"
-        }
-      ]
-    },
-    {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f6bb9e6d08d8881be22dfa2b79f7b2af.jpg",
-      "powerLevel": 275,
-      "lastPlayedTimestamp": 1785530163000,
-      "lastActivityTimestamp": 1785513032000,
-      "lastActivityText": "Controllo: Con matchmaking il 31/07/2026 15:50",
-      "activities": [
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-31T15:50:32Z",
-          "instanceId": "17103156702"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-31T15:35:29Z",
-          "instanceId": "17103132669"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-31T15:26:18Z",
-          "instanceId": "17103108242"
-        },
-        {
-          "name": "Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-07-30T22:03:33Z",
-          "instanceId": "17101666015"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-07-30T21:51:52Z",
-          "instanceId": "17101540655"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-07-30T15:44:49Z",
-          "instanceId": "17100898400"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-07-30T15:34:17Z",
-          "instanceId": "17100873128"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-30T15:01:36Z",
-          "instanceId": "17100830730"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-30T14:43:13Z",
-          "instanceId": "17100802443"
-        },
-        {
-          "name": "Spedizione: Europa: Personalizzata",
-          "period": "2026-07-29T21:12:39Z",
-          "instanceId": "17099173645"
         }
       ]
     },
