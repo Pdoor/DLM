@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T22:37:36.986Z",
+  "generatedAt": "2026-07-31T00:07:01.064Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f6bb9e6d08d8881be22dfa2b79f7b2af.jpg",
       "powerLevel": 434,
-      "lastPlayedTimestamp": 1785451024000,
-      "lastActivityTimestamp": 1785448312000,
-      "lastActivityText": "Fortezza: Con matchmaking il 30/07/2026 21:51",
+      "lastPlayedTimestamp": 1785453045000,
+      "lastActivityTimestamp": 1785449013000,
+      "lastActivityText": "Operazione: Scudo del Serafino: Personalizzata il 30/07/2026 22:03",
       "activities": [
+        {
+          "name": "Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-07-30T22:03:33Z",
+          "instanceId": "17101666015"
+        },
         {
           "name": "Fortezza: Con matchmaking",
           "period": "2026-07-30T21:51:52Z",
@@ -61,11 +66,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-07-29T13:01:04Z",
           "instanceId": "17098289518"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-07-28T21:40:16Z",
-          "instanceId": "17096851245"
         }
       ]
     },
@@ -333,12 +333,12 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1785425923000,
+      "powerLevel": 529,
+      "lastPlayedTimestamp": 1785456407000,
       "lastActivityTimestamp": 1785361030000,
       "lastActivityText": "Partita veloce: maestro: Maestro il 29/07/2026 21:37",
       "activities": [
