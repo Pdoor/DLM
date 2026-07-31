@@ -1,22 +1,97 @@
 {
-  "generatedAt": "2026-07-31T17:06:15.444Z",
+  "generatedAt": "2026-07-31T18:54:36.495Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1785521641000,
+      "lastActivityTimestamp": 1785520001000,
+      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking il 31/07/2026 17:46",
+      "activities": [
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-07-31T17:46:41Z",
+          "instanceId": "17103363007"
+        },
+        {
+          "name": "L'Oscura Sacerdotessa: Con matchmaking",
+          "period": "2026-07-31T17:21:53Z",
+          "instanceId": "17103312318"
+        },
+        {
+          "name": "La culla del male: Con matchmaking",
+          "period": "2026-07-31T15:17:29Z",
+          "instanceId": "17103108956"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-07-30T06:55:51Z",
+          "instanceId": "17100234177"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-30T06:30:22Z",
+          "instanceId": "17100194051"
+        },
+        {
+          "name": "Il Tecnocrate: Con matchmaking",
+          "period": "2026-07-30T05:58:15Z",
+          "instanceId": "17100145760"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-29T18:38:26Z",
+          "instanceId": "17098888700"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-07-29T18:28:05Z",
+          "instanceId": "17098827675"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-29T18:06:58Z",
+          "instanceId": "17098808663"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-07-29T17:54:47Z",
+          "instanceId": "17098770389"
+        }
+      ]
+    },
+    {
       "displayName": "İda_Toprak_Kava#856",
       "membershipId": "4611686018556113076",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 413,
-      "lastPlayedTimestamp": 1785517524000,
-      "lastActivityTimestamp": 1785516685000,
-      "lastActivityText": "Cosmodromo il 31/07/2026 16:51",
+      "powerLevel": 414,
+      "lastPlayedTimestamp": 1785518164000,
+      "lastActivityTimestamp": 1785518136000,
+      "lastActivityText": "Partita veloce: Normale il 31/07/2026 17:15",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-31T17:15:36Z",
+          "instanceId": "17103300564"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-31T16:57:14Z",
+          "instanceId": "17103279881"
+        },
         {
           "name": "Cosmodromo",
           "period": "2026-07-31T16:51:25Z",
@@ -56,16 +131,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-31T15:37:37Z",
           "instanceId": "17103124817"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-30T21:45:21Z",
-          "instanceId": "17101538206"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-30T14:19:06Z",
-          "instanceId": "17100789968"
         }
       ]
     },
@@ -135,80 +200,15 @@
       ]
     },
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1785517529000,
-      "lastActivityTimestamp": 1785511049000,
-      "lastActivityText": "La culla del male: Con matchmaking il 31/07/2026 15:17",
-      "activities": [
-        {
-          "name": "La culla del male: Con matchmaking",
-          "period": "2026-07-31T15:17:29Z",
-          "instanceId": "17103108956"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-30T06:55:51Z",
-          "instanceId": "17100234177"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-07-30T06:30:22Z",
-          "instanceId": "17100194051"
-        },
-        {
-          "name": "Il Tecnocrate: Con matchmaking",
-          "period": "2026-07-30T05:58:15Z",
-          "instanceId": "17100145760"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-29T18:38:26Z",
-          "instanceId": "17098888700"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-07-29T18:28:05Z",
-          "instanceId": "17098827675"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-29T18:06:58Z",
-          "instanceId": "17098808663"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-07-29T17:54:47Z",
-          "instanceId": "17098770389"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-29T17:47:38Z",
-          "instanceId": "17098747985"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-07-29T15:21:07Z",
-          "instanceId": "17098555179"
-        }
-      ]
-    },
-    {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1785504568000,
+      "lastPlayedTimestamp": 1785523387000,
       "lastActivityTimestamp": 1785503498000,
       "lastActivityText": "Partita veloce: maestro: Maestro il 31/07/2026 13:11",
       "activities": [
