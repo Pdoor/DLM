@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T12:28:37.269Z",
+  "generatedAt": "2026-07-31T15:03:37.836Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,40 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 546,
-      "lastPlayedTimestamp": 1785500856000,
-      "lastActivityTimestamp": 1785495866000,
-      "lastActivityText": "Campi di battaglia: Appiglio: Con matchmaking il 31/07/2026 11:04",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1785507489000,
+      "lastActivityTimestamp": 1785505876000,
+      "lastActivityText": "La culla del male: Personalizzata il 31/07/2026 13:51",
       "activities": [
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-07-31T13:51:16Z",
+          "instanceId": "17102991421"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-07-31T13:39:40Z",
+          "instanceId": "17102939125"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-07-31T12:45:53Z",
+          "instanceId": "17102882053"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-07-31T12:38:58Z",
+          "instanceId": "17102841775"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-07-31T12:23:37Z",
+          "instanceId": "17102821638"
+        },
         {
           "name": "Campi di battaglia: Appiglio: Con matchmaking",
           "period": "2026-07-31T11:04:26Z",
@@ -41,31 +66,71 @@
           "name": "La disonorata: Con matchmaking",
           "period": "2026-07-30T16:31:17Z",
           "instanceId": "17100973523"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1785504568000,
+      "lastActivityTimestamp": 1785503498000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 31/07/2026 13:11",
+      "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-31T13:11:38Z",
+          "instanceId": "17102900693"
         },
         {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-07-30T13:35:29Z",
-          "instanceId": "17100703297"
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-31T12:50:02Z",
+          "instanceId": "17102870787"
         },
         {
-          "name": "Il Ponte di Vetro: Personalizzata",
-          "period": "2026-07-30T13:28:01Z",
-          "instanceId": "17100693561"
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-31T02:19:06Z",
+          "instanceId": "17102030018"
         },
         {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-07-30T12:45:01Z",
-          "instanceId": "17100607416"
+          "name": "Poligono di Tiro",
+          "period": "2026-07-31T01:59:05Z",
+          "instanceId": "17101998296"
         },
         {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-07-29T15:21:07Z",
-          "instanceId": "17098555179"
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-07-31T01:36:06Z",
+          "instanceId": "17101969075"
         },
         {
-          "name": "Pallido Cuore",
-          "period": "2026-07-28T12:40:13Z",
-          "instanceId": "17096347300"
+          "name": "Poligono di Tiro",
+          "period": "2026-07-31T01:17:56Z",
+          "instanceId": "17101927622"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-07-31T01:09:12Z",
+          "instanceId": "17101899186"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-31T00:57:44Z",
+          "instanceId": "17101882660"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-07-30T23:30:42Z",
+          "instanceId": "17101793309"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-29T21:37:10Z",
+          "instanceId": "17099203089"
         }
       ]
     },
@@ -131,71 +196,6 @@
           "name": "Neomuna",
           "period": "2026-06-15T19:09:59Z",
           "instanceId": "16912775675"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1785464660000,
-      "lastActivityTimestamp": 1785464346000,
-      "lastActivityText": "Azzardo: Con matchmaking il 31/07/2026 02:19",
-      "activities": [
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-31T02:19:06Z",
-          "instanceId": "17102030018"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-31T01:59:05Z",
-          "instanceId": "17101998296"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-31T01:36:06Z",
-          "instanceId": "17101969075"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-31T01:17:56Z",
-          "instanceId": "17101927622"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-07-31T01:09:12Z",
-          "instanceId": "17101899186"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-31T00:57:44Z",
-          "instanceId": "17101882660"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-07-30T23:30:42Z",
-          "instanceId": "17101793309"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-29T21:37:10Z",
-          "instanceId": "17099203089"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-29T21:17:52Z",
-          "instanceId": "17099173891"
-        },
-        {
-          "name": "Vegliante del niente: Personalizzata",
-          "period": "2026-07-27T23:37:02Z",
-          "instanceId": "17094599145"
         }
       ]
     },
