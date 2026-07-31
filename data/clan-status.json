@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T18:54:36.495Z",
+  "generatedAt": "2026-07-31T20:22:46.988Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -203,7 +203,7 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
@@ -1496,71 +1496,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-06T15:29:36Z",
           "instanceId": "17020828449"
-        }
-      ]
-    },
-    {
-      "displayName": "nubires#8588",
-      "membershipId": "4611686018433412718",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 515,
-      "lastPlayedTimestamp": 1785273312000,
-      "lastActivityTimestamp": 1783795977000,
-      "lastActivityText": "Equilibrio: Standard il 11/07/2026 18:52",
-      "activities": [
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-07-11T18:52:57Z",
-          "instanceId": "17040691907"
-        },
-        {
-          "name": "Adamantide, Europa: Contrabbando: Con matchmaking",
-          "period": "2026-07-11T18:17:25Z",
-          "instanceId": "17040593223"
-        },
-        {
-          "name": "Adamantide, Europa: Contrabbando: Con matchmaking",
-          "period": "2026-07-11T17:57:10Z",
-          "instanceId": "17040522192"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-07-09T18:51:33Z",
-          "instanceId": "17033154427"
-        },
-        {
-          "name": "Caldera: Personalizzata",
-          "period": "2026-07-09T18:18:29Z",
-          "instanceId": "17032869852"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-07-08T21:55:13Z",
-          "instanceId": "17029699899"
-        },
-        {
-          "name": "I sussurri: Personalizzata",
-          "period": "2026-07-08T20:39:23Z",
-          "instanceId": "17029579655"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-07-08T20:36:24Z",
-          "instanceId": "17029422793"
-        },
-        {
-          "name": "Logistica R1: Personalizzata",
-          "period": "2026-07-08T20:26:49Z",
-          "instanceId": "17029407479"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-05T22:50:12Z",
-          "instanceId": "17018186774"
         }
       ]
     },
