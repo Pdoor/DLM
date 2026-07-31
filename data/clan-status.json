@@ -1,71 +1,201 @@
 {
-  "generatedAt": "2026-07-31T15:03:37.836Z",
+  "generatedAt": "2026-07-31T17:06:15.444Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
+      "displayName": "İda_Toprak_Kava#856",
+      "membershipId": "4611686018556113076",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 413,
+      "lastPlayedTimestamp": 1785517524000,
+      "lastActivityTimestamp": 1785516685000,
+      "lastActivityText": "Cosmodromo il 31/07/2026 16:51",
+      "activities": [
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-31T16:51:25Z",
+          "instanceId": "17103245459"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-31T16:34:38Z",
+          "instanceId": "17103221376"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-31T16:27:04Z",
+          "instanceId": "17103210110"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-31T16:17:34Z",
+          "instanceId": "17103193801"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-31T16:03:53Z",
+          "instanceId": "17103180315"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-31T15:56:24Z",
+          "instanceId": "17103158327"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-31T15:49:22Z",
+          "instanceId": "17103145962"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-31T15:37:37Z",
+          "instanceId": "17103124817"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-30T21:45:21Z",
+          "instanceId": "17101538206"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-30T14:19:06Z",
+          "instanceId": "17100789968"
+        }
+      ]
+    },
+    {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
       "bungieNetMembershipId": "",
       "isOnline": false,
       "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1785507489000,
-      "lastActivityTimestamp": 1785505876000,
-      "lastActivityText": "La culla del male: Personalizzata il 31/07/2026 13:51",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f6bb9e6d08d8881be22dfa2b79f7b2af.jpg",
+      "powerLevel": 275,
+      "lastPlayedTimestamp": 1785513765000,
+      "lastActivityTimestamp": 1785513032000,
+      "lastActivityText": "Controllo: Con matchmaking il 31/07/2026 15:50",
       "activities": [
         {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-31T13:51:16Z",
-          "instanceId": "17102991421"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-31T15:50:32Z",
+          "instanceId": "17103156702"
         },
         {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-07-31T13:39:40Z",
-          "instanceId": "17102939125"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-31T15:35:29Z",
+          "instanceId": "17103132669"
         },
         {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-31T12:45:53Z",
-          "instanceId": "17102882053"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-31T15:26:18Z",
+          "instanceId": "17103108242"
         },
         {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-31T12:38:58Z",
-          "instanceId": "17102841775"
+          "name": "Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-07-30T22:03:33Z",
+          "instanceId": "17101666015"
         },
         {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-31T12:23:37Z",
-          "instanceId": "17102821638"
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-07-30T21:51:52Z",
+          "instanceId": "17101540655"
         },
         {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-07-31T11:04:26Z",
-          "instanceId": "17102738005"
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-07-30T15:44:49Z",
+          "instanceId": "17100898400"
         },
+        {
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-07-30T15:34:17Z",
+          "instanceId": "17100873128"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-30T15:01:36Z",
+          "instanceId": "17100830730"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-30T14:43:13Z",
+          "instanceId": "17100802443"
+        },
+        {
+          "name": "Spedizione: Europa: Personalizzata",
+          "period": "2026-07-29T21:12:39Z",
+          "instanceId": "17099173645"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1785517529000,
+      "lastActivityTimestamp": 1785511049000,
+      "lastActivityText": "La culla del male: Con matchmaking il 31/07/2026 15:17",
+      "activities": [
         {
           "name": "La culla del male: Con matchmaking",
-          "period": "2026-07-30T17:38:37Z",
-          "instanceId": "17101100548"
+          "period": "2026-07-31T15:17:29Z",
+          "instanceId": "17103108956"
         },
         {
-          "name": "La culla del male: Con matchmaking",
-          "period": "2026-07-30T17:03:12Z",
-          "instanceId": "17101032477"
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-07-30T06:55:51Z",
+          "instanceId": "17100234177"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-30T06:30:22Z",
+          "instanceId": "17100194051"
         },
         {
           "name": "Il Tecnocrate: Con matchmaking",
-          "period": "2026-07-30T16:48:20Z",
-          "instanceId": "17101001373"
+          "period": "2026-07-30T05:58:15Z",
+          "instanceId": "17100145760"
         },
         {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-07-30T16:31:17Z",
-          "instanceId": "17100973523"
+          "name": "Europa",
+          "period": "2026-07-29T18:38:26Z",
+          "instanceId": "17098888700"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-07-29T18:28:05Z",
+          "instanceId": "17098827675"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-29T18:06:58Z",
+          "instanceId": "17098808663"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-07-29T17:54:47Z",
+          "instanceId": "17098770389"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-07-29T17:47:38Z",
+          "instanceId": "17098747985"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-07-29T15:21:07Z",
+          "instanceId": "17098555179"
         }
       ]
     },
@@ -200,136 +330,6 @@
       ]
     },
     {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f6bb9e6d08d8881be22dfa2b79f7b2af.jpg",
-      "powerLevel": 434,
-      "lastPlayedTimestamp": 1785453045000,
-      "lastActivityTimestamp": 1785449013000,
-      "lastActivityText": "Operazione: Scudo del Serafino: Personalizzata il 30/07/2026 22:03",
-      "activities": [
-        {
-          "name": "Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-07-30T22:03:33Z",
-          "instanceId": "17101666015"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-07-30T21:51:52Z",
-          "instanceId": "17101540655"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-07-30T15:44:49Z",
-          "instanceId": "17100898400"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-07-30T15:34:17Z",
-          "instanceId": "17100873128"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-30T15:01:36Z",
-          "instanceId": "17100830730"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-30T14:43:13Z",
-          "instanceId": "17100802443"
-        },
-        {
-          "name": "Spedizione: Europa: Personalizzata",
-          "period": "2026-07-29T21:12:39Z",
-          "instanceId": "17099173645"
-        },
-        {
-          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
-          "period": "2026-07-29T20:24:03Z",
-          "instanceId": "17099101303"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-29T13:16:37Z",
-          "instanceId": "17098313695"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-29T13:01:04Z",
-          "instanceId": "17098289518"
-        }
-      ]
-    },
-    {
-      "displayName": "İda_Toprak_Kava#856",
-      "membershipId": "4611686018556113076",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 405,
-      "lastPlayedTimestamp": 1785448642000,
-      "lastActivityTimestamp": 1785447921000,
-      "lastActivityText": "Cosmodromo il 30/07/2026 21:45",
-      "activities": [
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-30T21:45:21Z",
-          "instanceId": "17101538206"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-30T14:19:06Z",
-          "instanceId": "17100789968"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-30T12:00:52Z",
-          "instanceId": "17100570123"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-30T11:16:24Z",
-          "instanceId": "17100523955"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-29T12:58:56Z",
-          "instanceId": "17098367634"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-29T12:17:44Z",
-          "instanceId": "17098250619"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-29T09:20:12Z",
-          "instanceId": "17098045049"
-        },
-        {
-          "name": "La Tana dei Diavoli",
-          "period": "2026-07-29T09:00:04Z",
-          "instanceId": "17098024005"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-29T08:56:38Z",
-          "instanceId": "17098004533"
-        },
-        {
-          "name": "Lago di ombre",
-          "period": "2026-07-29T08:54:24Z",
-          "instanceId": "17098012603"
-        }
-      ]
-    },
-    {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
@@ -403,7 +403,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1785431451000,
+      "lastPlayedTimestamp": 1785513479000,
       "lastActivityTimestamp": 1785430535000,
       "lastActivityText": "Europa il 30/07/2026 16:55",
       "activities": [
