@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-31T10:07:15.336Z",
+  "generatedAt": "2026-07-31T12:28:37.269Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 546,
+      "lastPlayedTimestamp": 1785500856000,
+      "lastActivityTimestamp": 1785495866000,
+      "lastActivityText": "Campi di battaglia: Appiglio: Con matchmaking il 31/07/2026 11:04",
+      "activities": [
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-07-31T11:04:26Z",
+          "instanceId": "17102738005"
+        },
+        {
+          "name": "La culla del male: Con matchmaking",
+          "period": "2026-07-30T17:38:37Z",
+          "instanceId": "17101100548"
+        },
+        {
+          "name": "La culla del male: Con matchmaking",
+          "period": "2026-07-30T17:03:12Z",
+          "instanceId": "17101032477"
+        },
+        {
+          "name": "Il Tecnocrate: Con matchmaking",
+          "period": "2026-07-30T16:48:20Z",
+          "instanceId": "17101001373"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-07-30T16:31:17Z",
+          "instanceId": "17100973523"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-07-30T13:35:29Z",
+          "instanceId": "17100703297"
+        },
+        {
+          "name": "Il Ponte di Vetro: Personalizzata",
+          "period": "2026-07-30T13:28:01Z",
+          "instanceId": "17100693561"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-07-30T12:45:01Z",
+          "instanceId": "17100607416"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-07-29T15:21:07Z",
+          "instanceId": "17098555179"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-07-28T12:40:13Z",
+          "instanceId": "17096347300"
+        }
+      ]
+    },
     {
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
@@ -326,71 +391,6 @@
           "name": "La Fortezza Scarlatta: Personalizzata",
           "period": "2026-07-29T14:14:15Z",
           "instanceId": "17098791827"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 547,
-      "lastPlayedTimestamp": 1785434327000,
-      "lastActivityTimestamp": 1785433117000,
-      "lastActivityText": "La culla del male: Con matchmaking il 30/07/2026 17:38",
-      "activities": [
-        {
-          "name": "La culla del male: Con matchmaking",
-          "period": "2026-07-30T17:38:37Z",
-          "instanceId": "17101100548"
-        },
-        {
-          "name": "La culla del male: Con matchmaking",
-          "period": "2026-07-30T17:03:12Z",
-          "instanceId": "17101032477"
-        },
-        {
-          "name": "Il Tecnocrate: Con matchmaking",
-          "period": "2026-07-30T16:48:20Z",
-          "instanceId": "17101001373"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-07-30T16:31:17Z",
-          "instanceId": "17100973523"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-07-30T13:35:29Z",
-          "instanceId": "17100703297"
-        },
-        {
-          "name": "Il Ponte di Vetro: Personalizzata",
-          "period": "2026-07-30T13:28:01Z",
-          "instanceId": "17100693561"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-07-30T12:45:01Z",
-          "instanceId": "17100607416"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-07-29T15:21:07Z",
-          "instanceId": "17098555179"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-07-28T13:08:40Z",
-          "instanceId": "17096122522"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-07-28T12:40:13Z",
-          "instanceId": "17096347300"
         }
       ]
     },
