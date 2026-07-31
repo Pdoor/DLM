@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-07-31T07:23:21.244Z",
+  "generatedAt": "2026-07-31T10:07:15.336Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/648e5e751cf7560c99bcadc9538487de.png",
+      "powerLevel": 430,
+      "lastPlayedTimestamp": 1785492114000,
+      "lastActivityTimestamp": 1785491510000,
+      "lastActivityText": "Fortezza: Con matchmaking il 31/07/2026 09:51",
+      "activities": [
+        {
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-07-31T09:51:50Z",
+          "instanceId": "17102662834"
+        },
+        {
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-07-31T09:27:36Z",
+          "instanceId": "17102640665"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-07-26T16:53:33Z",
+          "instanceId": "17090703092"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-07-26T16:46:09Z",
+          "instanceId": "17090686654"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-07-25T15:53:45Z",
+          "instanceId": "17087236377"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-05T19:38:47Z",
+          "instanceId": "17017426667"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-06-29T18:49:16Z",
+          "instanceId": "16991926265"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-06-15T19:20:50Z",
+          "instanceId": "16912822539"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-06-15T19:14:53Z",
+          "instanceId": "16912805167"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-06-15T19:09:59Z",
+          "instanceId": "16912775675"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -716,71 +781,6 @@
           "name": "Rissa: Con matchmaking",
           "period": "2026-07-26T18:05:55Z",
           "instanceId": "17090901669"
-        }
-      ]
-    },
-    {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/648e5e751cf7560c99bcadc9538487de.png",
-      "powerLevel": 427,
-      "lastPlayedTimestamp": 1785084972000,
-      "lastActivityTimestamp": 1785084813000,
-      "lastActivityText": "Lega Gare di Astori il 26/07/2026 16:53",
-      "activities": [
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-26T16:53:33Z",
-          "instanceId": "17090703092"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-26T16:46:09Z",
-          "instanceId": "17090686654"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-07-25T15:53:45Z",
-          "instanceId": "17087236377"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-05T19:38:47Z",
-          "instanceId": "17017426667"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-06-29T18:49:16Z",
-          "instanceId": "16991926265"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-06-15T19:20:50Z",
-          "instanceId": "16912822539"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-06-15T19:14:53Z",
-          "instanceId": "16912805167"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-06-15T19:09:59Z",
-          "instanceId": "16912775675"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-06-15T19:05:21Z",
-          "instanceId": "16912758685"
-        },
-        {
-          "name": "Pantheon: Calus risplendente: Personalizzata",
-          "period": "2026-06-15T18:54:30Z",
-          "instanceId": "16912673205"
         }
       ]
     },
