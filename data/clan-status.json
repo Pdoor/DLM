@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T12:34:07.538Z",
+  "generatedAt": "2026-08-01T14:36:53.417Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,59 +13,59 @@
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1785587426000,
-      "lastActivityTimestamp": 1785578015000,
-      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking il 01/08/2026 09:53",
+      "lastPlayedTimestamp": 1785594917000,
+      "lastActivityTimestamp": 1785593409000,
+      "lastActivityText": "Scalata: Normale il 01/08/2026 14:10",
       "activities": [
+        {
+          "name": "Scalata: Normale",
+          "period": "2026-08-01T14:10:09Z",
+          "instanceId": "17105472447"
+        },
+        {
+          "name": "Requiem: Normale",
+          "period": "2026-08-01T13:52:37Z",
+          "instanceId": "17105424731"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-01T13:47:43Z",
+          "instanceId": "17105397165"
+        },
+        {
+          "name": "Confluenza: Esperto",
+          "period": "2026-08-01T13:43:49Z",
+          "instanceId": "17105393381"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-08-01T13:37:52Z",
+          "instanceId": "17105403000"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-01T13:35:27Z",
+          "instanceId": "17105386568"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-08-01T13:23:15Z",
+          "instanceId": "17105383789"
+        },
+        {
+          "name": "Il Ponte di Vetro: Personalizzata",
+          "period": "2026-08-01T13:00:36Z",
+          "instanceId": "17105345523"
+        },
+        {
+          "name": "L'Oscura Sacerdotessa: Con matchmaking",
+          "period": "2026-08-01T12:34:46Z",
+          "instanceId": "17105290280"
+        },
         {
           "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
           "period": "2026-08-01T09:53:35Z",
           "instanceId": "17105087452"
-        },
-        {
-          "name": "L'Oscura Sacerdotessa: Con matchmaking",
-          "period": "2026-08-01T09:05:02Z",
-          "instanceId": "17105022564"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-08-01T05:00:50Z",
-          "instanceId": "17104671470"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-07-31T17:46:41Z",
-          "instanceId": "17103363007"
-        },
-        {
-          "name": "L'Oscura Sacerdotessa: Con matchmaking",
-          "period": "2026-07-31T17:21:53Z",
-          "instanceId": "17103312318"
-        },
-        {
-          "name": "La culla del male: Con matchmaking",
-          "period": "2026-07-31T15:17:29Z",
-          "instanceId": "17103108956"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-30T06:55:51Z",
-          "instanceId": "17100234177"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-07-30T06:30:22Z",
-          "instanceId": "17100194051"
-        },
-        {
-          "name": "Il Tecnocrate: Con matchmaking",
-          "period": "2026-07-30T05:58:15Z",
-          "instanceId": "17100145760"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-29T18:38:26Z",
-          "instanceId": "17098888700"
         }
       ]
     },
@@ -73,15 +73,20 @@
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1785587627000,
-      "lastActivityTimestamp": 1785569602000,
-      "lastActivityText": "L'Oscura Sacerdotessa: Con matchmaking il 01/08/2026 07:33",
+      "lastPlayedTimestamp": 1785588519000,
+      "lastActivityTimestamp": 1785585407000,
+      "lastActivityText": "Corte della Vedova: Con matchmaking il 01/08/2026 11:56",
       "activities": [
+        {
+          "name": "Corte della Vedova: Con matchmaking",
+          "period": "2026-08-01T11:56:47Z",
+          "instanceId": "17105280022"
+        },
         {
           "name": "L'Oscura Sacerdotessa: Con matchmaking",
           "period": "2026-08-01T07:33:22Z",
@@ -126,11 +131,6 @@
           "name": "Luna",
           "period": "2026-07-27T12:02:25Z",
           "instanceId": "17093155718"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-07-27T09:37:58Z",
-          "instanceId": "17092973822"
         }
       ]
     },
@@ -532,8 +532,8 @@
       "className": "Stregoni",
       "title": "Flagello di Riven",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1785345839000,
+      "powerLevel": 518,
+      "lastPlayedTimestamp": 1785592605000,
       "lastActivityTimestamp": 1785330205000,
       "lastActivityText": "Controllo: Con matchmaking il 29/07/2026 13:03",
       "activities": [
