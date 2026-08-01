@@ -1,22 +1,92 @@
 {
-  "generatedAt": "2026-08-01T21:27:47.063Z",
+  "generatedAt": "2026-08-01T22:30:20.196Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 543,
+      "lastPlayedTimestamp": 1785623384000,
+      "lastActivityTimestamp": 1785620784000,
+      "lastActivityText": "Pallido Cuore il 01/08/2026 21:46",
+      "activities": [
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-01T21:46:24Z",
+          "instanceId": "17106373123"
+        },
+        {
+          "name": "Casa - Parte I",
+          "period": "2026-08-01T21:36:45Z",
+          "instanceId": "17106368150"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-01T21:35:15Z",
+          "instanceId": "17106348135"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-01T21:02:49Z",
+          "instanceId": "17106295278"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-01T20:52:38Z",
+          "instanceId": "17106274707"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-01T20:43:47Z",
+          "instanceId": "17106253839"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-01T20:33:23Z",
+          "instanceId": "17106233876"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-01T20:23:21Z",
+          "instanceId": "17106212532"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-07-31T12:43:05Z",
+          "instanceId": "17102857027"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-07-26T18:28:51Z",
+          "instanceId": "17091648770"
+        }
+      ]
+    },
+    {
       "displayName": "Backy#4218",
       "membershipId": "4611686018462448332",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Portatrice d'ira",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/fe993ae64a15b9dfc9d0aed6bcf3124c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1785619603000,
-      "lastActivityTimestamp": 1785619023000,
-      "lastActivityText": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata il 01/08/2026 21:17",
+      "lastPlayedTimestamp": 1785620725000,
+      "lastActivityTimestamp": 1785619450000,
+      "lastActivityText": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata il 01/08/2026 21:24",
       "activities": [
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-01T21:24:10Z",
+          "instanceId": "17106364615"
+        },
         {
           "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
           "period": "2026-08-01T21:17:03Z",
@@ -61,11 +131,6 @@
           "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
           "period": "2026-06-22T23:34:52Z",
           "instanceId": "16957825795"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-06-22T23:13:46Z",
-          "instanceId": "16957795234"
         }
       ]
     },
@@ -73,15 +138,20 @@
       "displayName": "DiciestCloth1#2862",
       "membershipId": "4611686018442634411",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Flagello di Riven",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1785619629000,
-      "lastActivityTimestamp": 1785619023000,
-      "lastActivityText": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata il 01/08/2026 21:17",
+      "lastPlayedTimestamp": 1785620712000,
+      "lastActivityTimestamp": 1785619450000,
+      "lastActivityText": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata il 01/08/2026 21:24",
       "activities": [
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-01T21:24:10Z",
+          "instanceId": "17106364615"
+        },
         {
           "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
           "period": "2026-08-01T21:17:03Z",
@@ -126,11 +196,6 @@
           "name": "Pantheon: Calus risplendente: Personalizzata",
           "period": "2026-07-26T19:17:03Z",
           "instanceId": "17091690657"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-07-26T17:19:01Z",
-          "instanceId": "17091389396"
         }
       ]
     },
@@ -138,15 +203,20 @@
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1785619581000,
-      "lastActivityTimestamp": 1785619023000,
-      "lastActivityText": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata il 01/08/2026 21:17",
+      "lastPlayedTimestamp": 1785620660000,
+      "lastActivityTimestamp": 1785619450000,
+      "lastActivityText": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata il 01/08/2026 21:24",
       "activities": [
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-01T21:24:10Z",
+          "instanceId": "17106364615"
+        },
         {
           "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
           "period": "2026-08-01T21:17:03Z",
@@ -191,76 +261,6 @@
           "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
           "period": "2026-08-01T07:10:32Z",
           "instanceId": "17104882539"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-30T16:55:35Z",
-          "instanceId": "17101006401"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "RICERCATO",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 480,
-      "lastPlayedTimestamp": 1785619627000,
-      "lastActivityTimestamp": 1785618169000,
-      "lastActivityText": "Controllo: Con matchmaking il 01/08/2026 21:02",
-      "activities": [
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-01T21:02:49Z",
-          "instanceId": "17106295278"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-01T20:52:38Z",
-          "instanceId": "17106274707"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-01T20:43:47Z",
-          "instanceId": "17106253839"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-01T20:33:23Z",
-          "instanceId": "17106233876"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-01T20:23:21Z",
-          "instanceId": "17106212532"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-31T12:43:05Z",
-          "instanceId": "17102857027"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-26T19:43:01Z",
-          "instanceId": "17091193337"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-07-26T19:31:57Z",
-          "instanceId": "17091138280"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-07-26T19:24:22Z",
-          "instanceId": "17091118638"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-07-26T18:28:51Z",
-          "instanceId": "17091648770"
         }
       ]
     },
@@ -2093,7 +2093,7 @@
       "title": "Leggenda",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
       "powerLevel": 420,
-      "lastPlayedTimestamp": 1784678459000,
+      "lastPlayedTimestamp": 1785621173000,
       "lastActivityTimestamp": 1782584909000,
       "lastActivityText": "Profezia il 27/06/2026 18:28",
       "activities": [
