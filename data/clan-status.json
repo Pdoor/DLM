@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T16:04:37.713Z",
+  "generatedAt": "2026-08-01T17:32:54.557Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,25 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1785600192000,
-      "lastActivityTimestamp": 1785598555000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 01/08/2026 15:35",
+      "lastPlayedTimestamp": 1785605531000,
+      "lastActivityTimestamp": 1785603750000,
+      "lastActivityText": "Terreni di Prova il 01/08/2026 17:02",
       "activities": [
+        {
+          "name": "Terreni di Prova",
+          "period": "2026-08-01T17:02:30Z",
+          "instanceId": "17105809170"
+        },
+        {
+          "name": "La Tana dei Diavoli",
+          "period": "2026-08-01T16:30:09Z",
+          "instanceId": "17105743530"
+        },
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-08-01T15:50:19Z",
+          "instanceId": "17105680557"
+        },
         {
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-08-01T15:35:55Z",
@@ -51,21 +66,6 @@
           "name": "La culla del male: Con matchmaking",
           "period": "2026-07-30T17:38:37Z",
           "instanceId": "17101100548"
-        },
-        {
-          "name": "Spirale invertita",
-          "period": "2026-07-30T17:31:50Z",
-          "instanceId": "17101059907"
-        },
-        {
-          "name": "Caverna: Esperto",
-          "period": "2026-07-29T17:56:26Z",
-          "instanceId": "17098753644"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Personalizzata",
-          "period": "2026-07-29T14:14:15Z",
-          "instanceId": "17098791827"
         }
       ]
     },
@@ -73,15 +73,30 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1785597200000,
-      "lastActivityTimestamp": 1785596021000,
-      "lastActivityText": "Il messaggio - Parte III il 01/08/2026 14:53",
+      "lastPlayedTimestamp": 1785605528000,
+      "lastActivityTimestamp": 1785603750000,
+      "lastActivityText": "Terreni di Prova il 01/08/2026 17:02",
       "activities": [
+        {
+          "name": "Terreni di Prova",
+          "period": "2026-08-01T17:02:30Z",
+          "instanceId": "17105809170"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-08-01T16:46:00Z",
+          "instanceId": "17105777584"
+        },
+        {
+          "name": "Oltre",
+          "period": "2026-08-01T16:33:31Z",
+          "instanceId": "17105736570"
+        },
         {
           "name": "Il messaggio - Parte III",
           "period": "2026-08-01T14:53:41Z",
@@ -113,24 +128,74 @@
           "instanceId": "17105397165"
         },
         {
-          "name": "Confluenza: Esperto",
-          "period": "2026-08-01T13:43:49Z",
-          "instanceId": "17105393381"
-        },
-        {
           "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
           "period": "2026-08-01T13:37:52Z",
           "instanceId": "17105403000"
+        }
+      ]
+    },
+    {
+      "displayName": "cRoTator#5820",
+      "membershipId": "4611686018504020156",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Signora del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b531d829e55b6f13555e8cae172dc0b3.jpg",
+      "powerLevel": 463,
+      "lastPlayedTimestamp": 1785605032000,
+      "lastActivityTimestamp": 1785601798000,
+      "lastActivityText": "Il trono infranto il 01/08/2026 16:29",
+      "activities": [
+        {
+          "name": "Il trono infranto",
+          "period": "2026-08-01T16:29:58Z",
+          "instanceId": "17105817311"
         },
         {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-01T13:35:27Z",
-          "instanceId": "17105386568"
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-25T21:41:13Z",
+          "instanceId": "17088087604"
         },
         {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-08-01T13:23:15Z",
-          "instanceId": "17105383789"
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-25T21:18:21Z",
+          "instanceId": "17088041006"
+        },
+        {
+          "name": "Pinnacolo di Savathûn: Personalizzata",
+          "period": "2026-07-11T19:25:56Z",
+          "instanceId": "17040822690"
+        },
+        {
+          "name": "Campi di battaglia: Condotto: Personalizzata",
+          "period": "2026-07-11T19:23:37Z",
+          "instanceId": "17040751956"
+        },
+        {
+          "name": "L'Oscura Sacerdotessa: Personalizzata",
+          "period": "2026-07-11T18:59:25Z",
+          "instanceId": "17040730181"
+        },
+        {
+          "name": "Campi di battaglia: Nucleo: Personalizzata",
+          "period": "2026-07-11T18:56:58Z",
+          "instanceId": "17040658467"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-07T15:34:43Z",
+          "instanceId": "17024780439"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-07T13:10:09Z",
+          "instanceId": "17024421969"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-07T12:37:31Z",
+          "instanceId": "17024350350"
         }
       ]
     },
@@ -976,71 +1041,6 @@
           "name": "Lega Gare di Astori",
           "period": "2026-07-25T22:03:15Z",
           "instanceId": "17088129558"
-        }
-      ]
-    },
-    {
-      "displayName": "cRoTator#5820",
-      "membershipId": "4611686018504020156",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Signora del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b531d829e55b6f13555e8cae172dc0b3.jpg",
-      "powerLevel": 461,
-      "lastPlayedTimestamp": 1785096502000,
-      "lastActivityTimestamp": 1785015673000,
-      "lastActivityText": "Partita veloce: Normale il 25/07/2026 21:41",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-25T21:41:13Z",
-          "instanceId": "17088087604"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-25T21:18:21Z",
-          "instanceId": "17088041006"
-        },
-        {
-          "name": "Pinnacolo di Savathûn: Personalizzata",
-          "period": "2026-07-11T19:25:56Z",
-          "instanceId": "17040822690"
-        },
-        {
-          "name": "Campi di battaglia: Condotto: Personalizzata",
-          "period": "2026-07-11T19:23:37Z",
-          "instanceId": "17040751956"
-        },
-        {
-          "name": "L'Oscura Sacerdotessa: Personalizzata",
-          "period": "2026-07-11T18:59:25Z",
-          "instanceId": "17040730181"
-        },
-        {
-          "name": "Campi di battaglia: Nucleo: Personalizzata",
-          "period": "2026-07-11T18:56:58Z",
-          "instanceId": "17040658467"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-07T15:34:43Z",
-          "instanceId": "17024780439"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-07T13:10:09Z",
-          "instanceId": "17024421969"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-07T12:37:31Z",
-          "instanceId": "17024350350"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-07T12:21:25Z",
-          "instanceId": "17024324473"
         }
       ]
     },
