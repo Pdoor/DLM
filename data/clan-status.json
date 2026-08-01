@@ -1,22 +1,102 @@
 {
-  "generatedAt": "2026-08-01T14:36:53.417Z",
+  "generatedAt": "2026-08-01T16:04:37.713Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1785600192000,
+      "lastActivityTimestamp": 1785598555000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 01/08/2026 15:35",
+      "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-01T15:35:55Z",
+          "instanceId": "17105624127"
+        },
+        {
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-08-01T15:24:02Z",
+          "instanceId": "17105596260"
+        },
+        {
+          "name": "Liminalità",
+          "period": "2026-07-30T18:22:11Z",
+          "instanceId": "17101201126"
+        },
+        {
+          "name": "Trafficante d'armi",
+          "period": "2026-07-30T18:06:26Z",
+          "instanceId": "17101142142"
+        },
+        {
+          "name": "La disonorata",
+          "period": "2026-07-30T18:05:50Z",
+          "instanceId": "17101134823"
+        },
+        {
+          "name": "La disonorata",
+          "period": "2026-07-30T17:52:25Z",
+          "instanceId": "17101113657"
+        },
+        {
+          "name": "La culla del male: Con matchmaking",
+          "period": "2026-07-30T17:38:37Z",
+          "instanceId": "17101100548"
+        },
+        {
+          "name": "Spirale invertita",
+          "period": "2026-07-30T17:31:50Z",
+          "instanceId": "17101059907"
+        },
+        {
+          "name": "Caverna: Esperto",
+          "period": "2026-07-29T17:56:26Z",
+          "instanceId": "17098753644"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Personalizzata",
+          "period": "2026-07-29T14:14:15Z",
+          "instanceId": "17098791827"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1785594917000,
-      "lastActivityTimestamp": 1785593409000,
-      "lastActivityText": "Scalata: Normale il 01/08/2026 14:10",
+      "lastPlayedTimestamp": 1785597200000,
+      "lastActivityTimestamp": 1785596021000,
+      "lastActivityText": "Il messaggio - Parte III il 01/08/2026 14:53",
       "activities": [
+        {
+          "name": "Il messaggio - Parte III",
+          "period": "2026-08-01T14:53:41Z",
+          "instanceId": "17105539007"
+        },
+        {
+          "name": "Il messaggio - Parte II",
+          "period": "2026-08-01T14:44:31Z",
+          "instanceId": "17105514165"
+        },
+        {
+          "name": "Il messaggio - Parte I",
+          "period": "2026-08-01T14:35:05Z",
+          "instanceId": "17105496602"
+        },
         {
           "name": "Scalata: Normale",
           "period": "2026-08-01T14:10:09Z",
@@ -51,21 +131,6 @@
           "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
           "period": "2026-08-01T13:23:15Z",
           "instanceId": "17105383789"
-        },
-        {
-          "name": "Il Ponte di Vetro: Personalizzata",
-          "period": "2026-08-01T13:00:36Z",
-          "instanceId": "17105345523"
-        },
-        {
-          "name": "L'Oscura Sacerdotessa: Con matchmaking",
-          "period": "2026-08-01T12:34:46Z",
-          "instanceId": "17105290280"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-08-01T09:53:35Z",
-          "instanceId": "17105087452"
         }
       ]
     },
@@ -391,71 +456,6 @@
           "name": "Neomuna",
           "period": "2026-06-15T19:09:59Z",
           "instanceId": "16912775675"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1785437695000,
-      "lastActivityTimestamp": 1785435731000,
-      "lastActivityText": "Liminalità il 30/07/2026 18:22",
-      "activities": [
-        {
-          "name": "Liminalità",
-          "period": "2026-07-30T18:22:11Z",
-          "instanceId": "17101201126"
-        },
-        {
-          "name": "Trafficante d'armi",
-          "period": "2026-07-30T18:06:26Z",
-          "instanceId": "17101142142"
-        },
-        {
-          "name": "La disonorata",
-          "period": "2026-07-30T18:05:50Z",
-          "instanceId": "17101134823"
-        },
-        {
-          "name": "La disonorata",
-          "period": "2026-07-30T17:52:25Z",
-          "instanceId": "17101113657"
-        },
-        {
-          "name": "La culla del male: Con matchmaking",
-          "period": "2026-07-30T17:38:37Z",
-          "instanceId": "17101100548"
-        },
-        {
-          "name": "Spirale invertita",
-          "period": "2026-07-30T17:31:50Z",
-          "instanceId": "17101059907"
-        },
-        {
-          "name": "Caverna: Esperto",
-          "period": "2026-07-29T17:56:26Z",
-          "instanceId": "17098753644"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-29T17:54:12Z",
-          "instanceId": "17098751157"
-        },
-        {
-          "name": "Caverna: Esperto",
-          "period": "2026-07-29T17:51:36Z",
-          "instanceId": "17098744190"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Personalizzata",
-          "period": "2026-07-29T14:14:15Z",
-          "instanceId": "17098791827"
         }
       ]
     },
@@ -1825,71 +1825,6 @@
       ]
     },
     {
-      "displayName": "No TAG Jay#1042",
-      "membershipId": "4611686018465064117",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Portatore di desideri",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 512,
-      "lastPlayedTimestamp": 1784940928000,
-      "lastActivityTimestamp": 1782903321000,
-      "lastActivityText": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking il 01/07/2026 10:55",
-      "activities": [
-        {
-          "name": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking",
-          "period": "2026-07-01T10:55:21Z",
-          "instanceId": "16999195025"
-        },
-        {
-          "name": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking",
-          "period": "2026-07-01T10:49:10Z",
-          "instanceId": "16999185046"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-01T10:44:05Z",
-          "instanceId": "16999170293"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-06-30T17:47:11Z",
-          "instanceId": "16996416825"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-30T16:42:57Z",
-          "instanceId": "16996175037"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-30T15:31:49Z",
-          "instanceId": "16996024752"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-30T14:23:32Z",
-          "instanceId": "16995955927"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-30T14:17:16Z",
-          "instanceId": "16995730041"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-30T14:05:39Z",
-          "instanceId": "16995711332"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-30T13:44:57Z",
-          "instanceId": "16995677070"
-        }
-      ]
-    },
-    {
       "displayName": "Kiauz96#3851",
       "membershipId": "4611686018428723992",
       "bungieNetMembershipId": "",
@@ -2601,6 +2536,71 @@
           "name": "Missione: Saturnismo: Leggendaria",
           "period": "2025-07-22T21:02:51Z",
           "instanceId": "16335278824"
+        }
+      ]
+    },
+    {
+      "displayName": "No TAG Jay#1042",
+      "membershipId": "4611686018465064117",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Acquanauta",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8fff442ea3ccb655437e333a1edf48c8.jpg",
+      "powerLevel": 503,
+      "lastPlayedTimestamp": 1785599000000,
+      "lastActivityTimestamp": 1768164966000,
+      "lastActivityText": "Avamposto di Tharsis il 11/01/2026 20:56",
+      "activities": [
+        {
+          "name": "Avamposto di Tharsis",
+          "period": "2026-01-11T20:56:06Z",
+          "instanceId": "16741830332"
+        },
+        {
+          "name": "Gloria futura: Leggendaria",
+          "period": "2026-01-11T20:38:55Z",
+          "instanceId": "16741501753"
+        },
+        {
+          "name": "Il Relitto",
+          "period": "2026-01-11T20:36:43Z",
+          "instanceId": "16741460353"
+        },
+        {
+          "name": "Il lungo inganno: Leggendaria",
+          "period": "2026-01-11T20:18:04Z",
+          "instanceId": "16741457032"
+        },
+        {
+          "name": "Avamposto di Tharsis",
+          "period": "2026-01-11T10:55:17Z",
+          "instanceId": "16741644032"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-01-08T17:39:45Z",
+          "instanceId": "16736828573"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Leggendaria",
+          "period": "2026-01-06T19:10:14Z",
+          "instanceId": "16734288310"
+        },
+        {
+          "name": "Avamposto di Tharsis",
+          "period": "2026-01-06T17:58:00Z",
+          "instanceId": "16734336441"
+        },
+        {
+          "name": "Avamposto di Tharsis",
+          "period": "2026-01-06T16:52:13Z",
+          "instanceId": "16734455425"
+        },
+        {
+          "name": "Avamposto di Tharsis",
+          "period": "2026-01-06T05:14:11Z",
+          "instanceId": "16734443443"
         }
       ]
     }
