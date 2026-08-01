@@ -1,87 +1,27 @@
 {
-  "generatedAt": "2026-08-01T07:30:21.123Z",
+  "generatedAt": "2026-08-01T09:34:22.804Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "Ghost of Warlock#5159",
-      "membershipId": "4611686018513286564",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1785569402000,
-      "lastActivityTimestamp": 1785568232000,
-      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking il 01/08/2026 07:10",
-      "activities": [
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-08-01T07:10:32Z",
-          "instanceId": "17104882539"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-07-30T16:55:35Z",
-          "instanceId": "17101006401"
-        },
-        {
-          "name": "Il Tecnocrate: Con matchmaking",
-          "period": "2026-07-30T16:43:26Z",
-          "instanceId": "17100994304"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-07-30T16:17:03Z",
-          "instanceId": "17100947832"
-        },
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-07-28T19:20:05Z",
-          "instanceId": "17096591391"
-        },
-        {
-          "name": "Terreni di Prova: Con matchmaking",
-          "period": "2026-07-27T16:05:38Z",
-          "instanceId": "17093594653"
-        },
-        {
-          "name": "Terreni di Prova: Con matchmaking",
-          "period": "2026-07-27T15:44:28Z",
-          "instanceId": "17093552038"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-07-27T12:02:25Z",
-          "instanceId": "17093155718"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-07-27T09:37:58Z",
-          "instanceId": "17092973822"
-        },
-        {
-          "name": "Bunker dei caduti: Con matchmaking",
-          "period": "2026-07-27T09:05:44Z",
-          "instanceId": "17092942580"
-        }
-      ]
-    },
-    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1785561620000,
-      "lastActivityTimestamp": 1785560450000,
-      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking il 01/08/2026 05:00",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1785576160000,
+      "lastActivityTimestamp": 1785575102000,
+      "lastActivityText": "L'Oscura Sacerdotessa: Con matchmaking il 01/08/2026 09:05",
       "activities": [
+        {
+          "name": "L'Oscura Sacerdotessa: Con matchmaking",
+          "period": "2026-08-01T09:05:02Z",
+          "instanceId": "17105022564"
+        },
         {
           "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
           "period": "2026-08-01T05:00:50Z",
@@ -126,11 +66,71 @@
           "name": "Bunker E15: Maestro",
           "period": "2026-07-29T18:28:05Z",
           "instanceId": "17098827675"
+        }
+      ]
+    },
+    {
+      "displayName": "Ghost of Warlock#5159",
+      "membershipId": "4611686018513286564",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1785570432000,
+      "lastActivityTimestamp": 1785569602000,
+      "lastActivityText": "L'Oscura Sacerdotessa: Con matchmaking il 01/08/2026 07:33",
+      "activities": [
+        {
+          "name": "L'Oscura Sacerdotessa: Con matchmaking",
+          "period": "2026-08-01T07:33:22Z",
+          "instanceId": "17104906029"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-08-01T07:10:32Z",
+          "instanceId": "17104882539"
         },
         {
           "name": "Europa",
-          "period": "2026-07-29T18:06:58Z",
-          "instanceId": "17098808663"
+          "period": "2026-07-30T16:55:35Z",
+          "instanceId": "17101006401"
+        },
+        {
+          "name": "Il Tecnocrate: Con matchmaking",
+          "period": "2026-07-30T16:43:26Z",
+          "instanceId": "17100994304"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-07-30T16:17:03Z",
+          "instanceId": "17100947832"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-07-28T19:20:05Z",
+          "instanceId": "17096591391"
+        },
+        {
+          "name": "Terreni di Prova: Con matchmaking",
+          "period": "2026-07-27T16:05:38Z",
+          "instanceId": "17093594653"
+        },
+        {
+          "name": "Terreni di Prova: Con matchmaking",
+          "period": "2026-07-27T15:44:28Z",
+          "instanceId": "17093552038"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-07-27T12:02:25Z",
+          "instanceId": "17093155718"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-07-27T09:37:58Z",
+          "instanceId": "17092973822"
         }
       ]
     },
