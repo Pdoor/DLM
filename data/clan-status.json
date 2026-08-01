@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T09:34:22.804Z",
+  "generatedAt": "2026-08-01T11:21:14.237Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1785576160000,
-      "lastActivityTimestamp": 1785575102000,
-      "lastActivityText": "L'Oscura Sacerdotessa: Con matchmaking il 01/08/2026 09:05",
+      "powerLevel": 547,
+      "lastPlayedTimestamp": 1785581804000,
+      "lastActivityTimestamp": 1785578015000,
+      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking il 01/08/2026 09:53",
       "activities": [
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-08-01T09:53:35Z",
+          "instanceId": "17105087452"
+        },
         {
           "name": "L'Oscura Sacerdotessa: Con matchmaking",
           "period": "2026-08-01T09:05:02Z",
@@ -61,11 +66,6 @@
           "name": "Europa",
           "period": "2026-07-29T18:38:26Z",
           "instanceId": "17098888700"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-07-29T18:28:05Z",
-          "instanceId": "17098827675"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1785570432000,
+      "lastPlayedTimestamp": 1785578943000,
       "lastActivityTimestamp": 1785569602000,
       "lastActivityText": "L'Oscura Sacerdotessa: Con matchmaking il 01/08/2026 07:33",
       "activities": [
