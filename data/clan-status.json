@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T17:32:54.557Z",
+  "generatedAt": "2026-08-01T19:16:27.535Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1785605531000,
-      "lastActivityTimestamp": 1785603750000,
-      "lastActivityText": "Terreni di Prova il 01/08/2026 17:02",
+      "lastPlayedTimestamp": 1785607773000,
+      "lastActivityTimestamp": 1785606404000,
+      "lastActivityText": "Campo di battaglia Colpo: Luna: Personalizzata il 01/08/2026 17:46",
       "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-08-01T17:46:44Z",
+          "instanceId": "17105907769"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-08-01T17:21:37Z",
+          "instanceId": "17105859773"
+        },
         {
           "name": "Terreni di Prova",
           "period": "2026-08-01T17:02:30Z",
@@ -56,16 +66,6 @@
           "name": "La disonorata",
           "period": "2026-07-30T18:05:50Z",
           "instanceId": "17101134823"
-        },
-        {
-          "name": "La disonorata",
-          "period": "2026-07-30T17:52:25Z",
-          "instanceId": "17101113657"
-        },
-        {
-          "name": "La culla del male: Con matchmaking",
-          "period": "2026-07-30T17:38:37Z",
-          "instanceId": "17101100548"
         }
       ]
     },
@@ -73,15 +73,25 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1785605528000,
-      "lastActivityTimestamp": 1785603750000,
-      "lastActivityText": "Terreni di Prova il 01/08/2026 17:02",
+      "lastPlayedTimestamp": 1785607773000,
+      "lastActivityTimestamp": 1785606404000,
+      "lastActivityText": "Campo di battaglia Colpo: Luna: Personalizzata il 01/08/2026 17:46",
       "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-08-01T17:46:44Z",
+          "instanceId": "17105907769"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-08-01T17:21:37Z",
+          "instanceId": "17105859773"
+        },
         {
           "name": "Terreni di Prova",
           "period": "2026-08-01T17:02:30Z",
@@ -121,16 +131,6 @@
           "name": "Requiem: Normale",
           "period": "2026-08-01T13:52:37Z",
           "instanceId": "17105424731"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-01T13:47:43Z",
-          "instanceId": "17105397165"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-08-01T13:37:52Z",
-          "instanceId": "17105403000"
         }
       ]
     },
