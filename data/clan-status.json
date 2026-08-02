@@ -1,9 +1,139 @@
 {
-  "generatedAt": "2026-08-02T08:56:17.144Z",
+  "generatedAt": "2026-08-02T10:45:05.138Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1785666843000,
+      "lastActivityTimestamp": 1785665809000,
+      "lastActivityText": "Pinnacolo di Savathûn: Personalizzata il 02/08/2026 10:16",
+      "activities": [
+        {
+          "name": "Pinnacolo di Savathûn: Personalizzata",
+          "period": "2026-08-02T10:16:49Z",
+          "instanceId": "17107732421"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-08-01T17:46:44Z",
+          "instanceId": "17105907769"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-08-01T17:21:37Z",
+          "instanceId": "17105859773"
+        },
+        {
+          "name": "Terreni di Prova",
+          "period": "2026-08-01T17:02:30Z",
+          "instanceId": "17105809170"
+        },
+        {
+          "name": "Terreni di Prova: Personalizzata",
+          "period": "2026-08-01T16:51:53Z",
+          "instanceId": "17106257797"
+        },
+        {
+          "name": "La Tana dei Diavoli",
+          "period": "2026-08-01T16:30:09Z",
+          "instanceId": "17105743530"
+        },
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-08-01T15:50:19Z",
+          "instanceId": "17105680557"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-01T15:35:55Z",
+          "instanceId": "17105624127"
+        },
+        {
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-08-01T15:24:02Z",
+          "instanceId": "17105596260"
+        },
+        {
+          "name": "Liminalità",
+          "period": "2026-07-30T18:22:11Z",
+          "instanceId": "17101201126"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1785667105000,
+      "lastActivityTimestamp": 1785665759000,
+      "lastActivityText": "Vegliante del niente: Con matchmaking il 02/08/2026 10:15",
+      "activities": [
+        {
+          "name": "Vegliante del niente: Con matchmaking",
+          "period": "2026-08-02T10:15:59Z",
+          "instanceId": "17107724184"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-08-02T09:42:27Z",
+          "instanceId": "17107687587"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-08-01T17:46:44Z",
+          "instanceId": "17105907769"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-08-01T17:21:37Z",
+          "instanceId": "17105859773"
+        },
+        {
+          "name": "Terreni di Prova",
+          "period": "2026-08-01T17:02:30Z",
+          "instanceId": "17105809170"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-08-01T16:46:00Z",
+          "instanceId": "17105777584"
+        },
+        {
+          "name": "Oltre",
+          "period": "2026-08-01T16:33:31Z",
+          "instanceId": "17105736570"
+        },
+        {
+          "name": "Il messaggio - Parte III",
+          "period": "2026-08-01T14:53:41Z",
+          "instanceId": "17105539007"
+        },
+        {
+          "name": "Il messaggio - Parte II",
+          "period": "2026-08-01T14:44:31Z",
+          "instanceId": "17105514165"
+        },
+        {
+          "name": "Il messaggio - Parte I",
+          "period": "2026-08-01T14:35:05Z",
+          "instanceId": "17105496602"
+        }
+      ]
+    },
     {
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
@@ -128,9 +258,9 @@
           "instanceId": "17101882660"
         },
         {
-          "name": "Equilibrio: Standard",
-          "period": "2026-07-30T23:30:42Z",
-          "instanceId": "17101793309"
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-07-29T18:01:31Z",
+          "instanceId": "17107632681"
         }
       ]
     },
@@ -261,136 +391,6 @@
           "name": "Pantheon: Calus risplendente: Personalizzata",
           "period": "2026-07-26T19:17:03Z",
           "instanceId": "17091690657"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1785607773000,
-      "lastActivityTimestamp": 1785606404000,
-      "lastActivityText": "Campo di battaglia Colpo: Luna: Personalizzata il 01/08/2026 17:46",
-      "activities": [
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-08-01T17:46:44Z",
-          "instanceId": "17105907769"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-08-01T17:21:37Z",
-          "instanceId": "17105859773"
-        },
-        {
-          "name": "Terreni di Prova",
-          "period": "2026-08-01T17:02:30Z",
-          "instanceId": "17105809170"
-        },
-        {
-          "name": "Terreni di Prova: Personalizzata",
-          "period": "2026-08-01T16:51:53Z",
-          "instanceId": "17106257797"
-        },
-        {
-          "name": "La Tana dei Diavoli",
-          "period": "2026-08-01T16:30:09Z",
-          "instanceId": "17105743530"
-        },
-        {
-          "name": "Miniere di Sale: Personalizzata",
-          "period": "2026-08-01T15:50:19Z",
-          "instanceId": "17105680557"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-01T15:35:55Z",
-          "instanceId": "17105624127"
-        },
-        {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-08-01T15:24:02Z",
-          "instanceId": "17105596260"
-        },
-        {
-          "name": "Liminalità",
-          "period": "2026-07-30T18:22:11Z",
-          "instanceId": "17101201126"
-        },
-        {
-          "name": "Trafficante d'armi",
-          "period": "2026-07-30T18:06:26Z",
-          "instanceId": "17101142142"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1785607773000,
-      "lastActivityTimestamp": 1785606404000,
-      "lastActivityText": "Campo di battaglia Colpo: Luna: Personalizzata il 01/08/2026 17:46",
-      "activities": [
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-08-01T17:46:44Z",
-          "instanceId": "17105907769"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-08-01T17:21:37Z",
-          "instanceId": "17105859773"
-        },
-        {
-          "name": "Terreni di Prova",
-          "period": "2026-08-01T17:02:30Z",
-          "instanceId": "17105809170"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-08-01T16:46:00Z",
-          "instanceId": "17105777584"
-        },
-        {
-          "name": "Oltre",
-          "period": "2026-08-01T16:33:31Z",
-          "instanceId": "17105736570"
-        },
-        {
-          "name": "Il messaggio - Parte III",
-          "period": "2026-08-01T14:53:41Z",
-          "instanceId": "17105539007"
-        },
-        {
-          "name": "Il messaggio - Parte II",
-          "period": "2026-08-01T14:44:31Z",
-          "instanceId": "17105514165"
-        },
-        {
-          "name": "Il messaggio - Parte I",
-          "period": "2026-08-01T14:35:05Z",
-          "instanceId": "17105496602"
-        },
-        {
-          "name": "Scalata: Normale",
-          "period": "2026-08-01T14:10:09Z",
-          "instanceId": "17105472447"
-        },
-        {
-          "name": "Requiem: Normale",
-          "period": "2026-08-01T13:52:37Z",
-          "instanceId": "17105424731"
         }
       ]
     },
