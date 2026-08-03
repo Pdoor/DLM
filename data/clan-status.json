@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-08-03T13:44:09.935Z",
+  "generatedAt": "2026-08-03T16:29:57.676Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
       "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 517,
-      "lastPlayedTimestamp": 1785764568000,
-      "lastActivityTimestamp": 1785761912000,
-      "lastActivityText": "Tronomondo di Savathûn il 03/08/2026 12:58",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 225,
+      "lastPlayedTimestamp": 1785774161000,
+      "lastActivityTimestamp": 1785773491000,
+      "lastActivityText": "Controllo: Con matchmaking il 03/08/2026 16:11",
       "activities": [
         {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-03T12:58:32Z",
-          "instanceId": "17110457590"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-03T16:11:31Z",
+          "instanceId": "17110761792"
         },
         {
-          "name": "Pallido Cuore",
-          "period": "2026-08-03T11:21:41Z",
-          "instanceId": "17110351465"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-03T15:57:35Z",
+          "instanceId": "17110738408"
         },
         {
-          "name": "Pallido Cuore",
-          "period": "2026-08-03T09:10:24Z",
-          "instanceId": "17110297032"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-03T15:40:00Z",
+          "instanceId": "17110712004"
         },
         {
-          "name": "Bunker dei caduti: Con matchmaking",
-          "period": "2026-07-27T15:09:39Z",
-          "instanceId": "17093494089"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-03T15:37:50Z",
+          "instanceId": "17110699331"
         },
         {
-          "name": "Terreni di Prova: Con matchmaking",
-          "period": "2026-07-27T14:33:45Z",
-          "instanceId": "17093411762"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-03T15:20:26Z",
+          "instanceId": "17110680569"
         },
         {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-07-27T13:30:21Z",
-          "instanceId": "17093296204"
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-08-02T20:44:45Z",
+          "instanceId": "17108929054"
         },
         {
-          "name": "Il trono infranto",
-          "period": "2026-07-25T15:05:35Z",
-          "instanceId": "17087106804"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-02T17:39:40Z",
+          "instanceId": "17108497095"
         },
         {
-          "name": "La culla del male: Con matchmaking",
-          "period": "2026-07-25T14:58:23Z",
-          "instanceId": "17087032994"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-02T17:21:01Z",
+          "instanceId": "17108451520"
         },
         {
-          "name": "Pallido Cuore",
-          "period": "2026-07-24T07:15:56Z",
-          "instanceId": "17083319172"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-02T17:08:39Z",
+          "instanceId": "17108425040"
         },
         {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-07-24T05:40:30Z",
-          "instanceId": "17083209153"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-02T16:54:00Z",
+          "instanceId": "17108397709"
         }
       ]
     },
@@ -77,11 +77,21 @@
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 517,
-      "lastPlayedTimestamp": 1785751970000,
-      "lastActivityTimestamp": 1785750884000,
-      "lastActivityText": "Campi di battaglia: Oracolo: Con matchmaking il 03/08/2026 09:54",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1785771162000,
+      "lastActivityTimestamp": 1785769601000,
+      "lastActivityText": "La lama di Luce: Con matchmaking il 03/08/2026 15:06",
       "activities": [
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-03T15:06:41Z",
+          "instanceId": "17110662440"
+        },
+        {
+          "name": "Spedizione: Nessus: Con matchmaking",
+          "period": "2026-08-03T14:37:20Z",
+          "instanceId": "17110611630"
+        },
         {
           "name": "Campi di battaglia: Oracolo: Con matchmaking",
           "period": "2026-08-03T09:54:44Z",
@@ -121,81 +131,71 @@
           "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
           "period": "2026-08-01T20:51:16Z",
           "instanceId": "17106256442"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-01T20:36:14Z",
-          "instanceId": "17106250641"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-01T20:06:49Z",
-          "instanceId": "17106216564"
         }
       ]
     },
     {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 279,
-      "lastPlayedTimestamp": 1785704393000,
-      "lastActivityTimestamp": 1785703485000,
-      "lastActivityText": "Fortezza: Con matchmaking il 02/08/2026 20:44",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1785774360000,
+      "lastActivityTimestamp": 1785768336000,
+      "lastActivityText": "Pallido Cuore il 03/08/2026 14:45",
       "activities": [
         {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-08-02T20:44:45Z",
-          "instanceId": "17108929054"
+          "name": "Pallido Cuore",
+          "period": "2026-08-03T14:45:36Z",
+          "instanceId": "17110619068"
         },
         {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-02T17:39:40Z",
-          "instanceId": "17108497095"
+          "name": "Pallido Cuore",
+          "period": "2026-08-03T13:05:58Z",
+          "instanceId": "17110531804"
         },
         {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-02T17:21:01Z",
-          "instanceId": "17108451520"
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-03T12:58:32Z",
+          "instanceId": "17110457590"
         },
         {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-02T17:08:39Z",
-          "instanceId": "17108425040"
+          "name": "Pallido Cuore",
+          "period": "2026-08-03T11:21:41Z",
+          "instanceId": "17110351465"
         },
         {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-02T16:54:00Z",
-          "instanceId": "17108397709"
+          "name": "Pallido Cuore",
+          "period": "2026-08-03T09:10:24Z",
+          "instanceId": "17110297032"
         },
         {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-02T16:40:10Z",
-          "instanceId": "17108366641"
+          "name": "Bunker dei caduti: Con matchmaking",
+          "period": "2026-07-27T15:09:39Z",
+          "instanceId": "17093494089"
         },
         {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-02T16:24:58Z",
-          "instanceId": "17108338403"
+          "name": "Terreni di Prova: Con matchmaking",
+          "period": "2026-07-27T14:33:45Z",
+          "instanceId": "17093411762"
         },
         {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-02T16:07:19Z",
-          "instanceId": "17108301694"
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-07-27T13:30:21Z",
+          "instanceId": "17093296204"
         },
         {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-02T15:59:02Z",
-          "instanceId": "17108276142"
+          "name": "Il trono infranto",
+          "period": "2026-07-25T15:05:35Z",
+          "instanceId": "17087106804"
         },
         {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-31T22:14:15Z",
-          "instanceId": "17103860076"
+          "name": "La culla del male: Con matchmaking",
+          "period": "2026-07-25T14:58:23Z",
+          "instanceId": "17087032994"
         }
       ]
     },
@@ -268,12 +268,12 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1785694341000,
+      "lastPlayedTimestamp": 1785774338000,
       "lastActivityTimestamp": 1785693217000,
       "lastActivityText": "Pinnacolo di Savathûn: Personalizzata il 02/08/2026 17:53",
       "activities": [
@@ -1825,6 +1825,71 @@
       ]
     },
     {
+      "displayName": "No TAG Jay#1042",
+      "membershipId": "4611686018465064117",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Portatore di desideri",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
+      "powerLevel": 512,
+      "lastPlayedTimestamp": 1785769390000,
+      "lastActivityTimestamp": 1782903321000,
+      "lastActivityText": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking il 01/07/2026 10:55",
+      "activities": [
+        {
+          "name": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking",
+          "period": "2026-07-01T10:55:21Z",
+          "instanceId": "16999195025"
+        },
+        {
+          "name": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking",
+          "period": "2026-07-01T10:49:10Z",
+          "instanceId": "16999185046"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-01T10:44:05Z",
+          "instanceId": "16999170293"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-06-30T17:47:11Z",
+          "instanceId": "16996416825"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-06-30T16:42:57Z",
+          "instanceId": "16996175037"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-06-30T15:31:49Z",
+          "instanceId": "16996024752"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-06-30T14:23:32Z",
+          "instanceId": "16995955927"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-06-30T14:17:16Z",
+          "instanceId": "16995730041"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-06-30T14:05:39Z",
+          "instanceId": "16995711332"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-06-30T13:44:57Z",
+          "instanceId": "16995677070"
+        }
+      ]
+    },
+    {
       "displayName": "Kiauz96#3851",
       "membershipId": "4611686018428723992",
       "bungieNetMembershipId": "",
@@ -2536,71 +2601,6 @@
           "name": "Missione: Saturnismo: Leggendaria",
           "period": "2025-07-22T21:02:51Z",
           "instanceId": "16335278824"
-        }
-      ]
-    },
-    {
-      "displayName": "No TAG Jay#1042",
-      "membershipId": "4611686018465064117",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Acquanauta",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8fff442ea3ccb655437e333a1edf48c8.jpg",
-      "powerLevel": 503,
-      "lastPlayedTimestamp": 1785599000000,
-      "lastActivityTimestamp": 1768164966000,
-      "lastActivityText": "Avamposto di Tharsis il 11/01/2026 20:56",
-      "activities": [
-        {
-          "name": "Avamposto di Tharsis",
-          "period": "2026-01-11T20:56:06Z",
-          "instanceId": "16741830332"
-        },
-        {
-          "name": "Gloria futura: Leggendaria",
-          "period": "2026-01-11T20:38:55Z",
-          "instanceId": "16741501753"
-        },
-        {
-          "name": "Il Relitto",
-          "period": "2026-01-11T20:36:43Z",
-          "instanceId": "16741460353"
-        },
-        {
-          "name": "Il lungo inganno: Leggendaria",
-          "period": "2026-01-11T20:18:04Z",
-          "instanceId": "16741457032"
-        },
-        {
-          "name": "Avamposto di Tharsis",
-          "period": "2026-01-11T10:55:17Z",
-          "instanceId": "16741644032"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-01-08T17:39:45Z",
-          "instanceId": "16736828573"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Leggendaria",
-          "period": "2026-01-06T19:10:14Z",
-          "instanceId": "16734288310"
-        },
-        {
-          "name": "Avamposto di Tharsis",
-          "period": "2026-01-06T17:58:00Z",
-          "instanceId": "16734336441"
-        },
-        {
-          "name": "Avamposto di Tharsis",
-          "period": "2026-01-06T16:52:13Z",
-          "instanceId": "16734455425"
-        },
-        {
-          "name": "Avamposto di Tharsis",
-          "period": "2026-01-06T05:14:11Z",
-          "instanceId": "16734443443"
         }
       ]
     }
