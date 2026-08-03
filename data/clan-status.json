@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T20:14:09.669Z",
+  "generatedAt": "2026-08-03T21:42:27.182Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,60 +12,125 @@
       "className": "Cacciatori",
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 466,
-      "lastPlayedTimestamp": 1785787519000,
-      "lastActivityTimestamp": 1785782929000,
-      "lastActivityText": "Equilibrio: Standard il 03/08/2026 18:48",
+      "powerLevel": 471,
+      "lastPlayedTimestamp": 1785793245000,
+      "lastActivityTimestamp": 1785791662000,
+      "lastActivityText": "Deserto perpetuo (modalità epica): Standard il 03/08/2026 21:14",
       "activities": [
         {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-03T18:48:49Z",
-          "instanceId": "17111140342"
+          "name": "Deserto perpetuo (modalità epica): Standard",
+          "period": "2026-08-03T21:14:22Z",
+          "instanceId": "17111312793"
         },
         {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-02T18:23:44Z",
-          "instanceId": "17108600643"
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-03T21:08:06Z",
+          "instanceId": "17111261455"
         },
         {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-02T17:57:53Z",
-          "instanceId": "17108519408"
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-03T21:02:08Z",
+          "instanceId": "17111253443"
         },
         {
-          "name": "Pinnacolo dell'Osservatrice: Standard",
-          "period": "2026-08-02T15:15:42Z",
-          "instanceId": "17108219522"
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-03T20:54:53Z",
+          "instanceId": "17111242411"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-03T20:48:40Z",
+          "instanceId": "17111228340"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-03T20:41:59Z",
+          "instanceId": "17111217283"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-03T20:35:15Z",
+          "instanceId": "17111205302"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-03T20:27:14Z",
+          "instanceId": "17111192832"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-03T20:21:01Z",
+          "instanceId": "17111179054"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-03T20:13:25Z",
+          "instanceId": "17111167433"
+        }
+      ]
+    },
+    {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 434,
+      "lastPlayedTimestamp": 1785791987000,
+      "lastActivityTimestamp": 1785791224000,
+      "lastActivityText": "Partita veloce: Normale il 03/08/2026 21:07",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-03T21:07:04Z",
+          "instanceId": "17111273174"
+        },
+        {
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-08-03T20:42:25Z",
+          "instanceId": "17111230062"
         },
         {
           "name": "Controllo: Con matchmaking",
-          "period": "2026-08-02T02:03:32Z",
-          "instanceId": "17106901312"
+          "period": "2026-08-03T16:11:31Z",
+          "instanceId": "17110761792"
         },
         {
           "name": "Controllo: Con matchmaking",
-          "period": "2026-08-02T01:50:50Z",
-          "instanceId": "17106876792"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-02T01:36:54Z",
-          "instanceId": "17106829986"
+          "period": "2026-08-03T15:57:35Z",
+          "instanceId": "17110738408"
         },
         {
           "name": "Controllo: Con matchmaking",
-          "period": "2026-08-02T01:36:51Z",
-          "instanceId": "17106848965"
+          "period": "2026-08-03T15:40:00Z",
+          "instanceId": "17110712004"
         },
         {
           "name": "Controllo: Con matchmaking",
-          "period": "2026-08-02T01:07:37Z",
-          "instanceId": "17106787286"
+          "period": "2026-08-03T15:37:50Z",
+          "instanceId": "17110699331"
         },
         {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-02T00:40:54Z",
-          "instanceId": "17106744945"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-03T15:20:26Z",
+          "instanceId": "17110680569"
+        },
+        {
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-08-02T20:44:45Z",
+          "instanceId": "17108929054"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-02T17:39:40Z",
+          "instanceId": "17108497095"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-02T17:21:01Z",
+          "instanceId": "17108451520"
         }
       ]
     },
@@ -131,71 +196,6 @@
           "name": "Pallido Cuore",
           "period": "2026-08-03T09:10:24Z",
           "instanceId": "17110297032"
-        }
-      ]
-    },
-    {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 225,
-      "lastPlayedTimestamp": 1785774161000,
-      "lastActivityTimestamp": 1785773491000,
-      "lastActivityText": "Controllo: Con matchmaking il 03/08/2026 16:11",
-      "activities": [
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-03T16:11:31Z",
-          "instanceId": "17110761792"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-03T15:57:35Z",
-          "instanceId": "17110738408"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-03T15:40:00Z",
-          "instanceId": "17110712004"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-03T15:37:50Z",
-          "instanceId": "17110699331"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-03T15:20:26Z",
-          "instanceId": "17110680569"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-08-02T20:44:45Z",
-          "instanceId": "17108929054"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-02T17:39:40Z",
-          "instanceId": "17108497095"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-02T17:21:01Z",
-          "instanceId": "17108451520"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-02T17:08:39Z",
-          "instanceId": "17108425040"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-02T16:54:00Z",
-          "instanceId": "17108397709"
         }
       ]
     },
