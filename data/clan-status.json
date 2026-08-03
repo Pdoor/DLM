@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T21:42:27.182Z",
+  "generatedAt": "2026-08-03T23:07:22.386Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 471,
-      "lastPlayedTimestamp": 1785793245000,
-      "lastActivityTimestamp": 1785791662000,
-      "lastActivityText": "Deserto perpetuo (modalità epica): Standard il 03/08/2026 21:14",
+      "powerLevel": 472,
+      "lastPlayedTimestamp": 1785794203000,
+      "lastActivityTimestamp": 1785793823000,
+      "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 03/08/2026 21:50",
       "activities": [
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-03T21:50:23Z",
+          "instanceId": "17111333494"
+        },
         {
           "name": "Deserto perpetuo (modalità epica): Standard",
           "period": "2026-08-03T21:14:22Z",
@@ -61,11 +66,6 @@
           "name": "La fine di Crota: Standard",
           "period": "2026-08-03T20:21:01Z",
           "instanceId": "17111179054"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-03T20:13:25Z",
-          "instanceId": "17111167433"
         }
       ]
     },
@@ -1833,7 +1833,7 @@
       "title": "Portatore di desideri",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
       "powerLevel": 512,
-      "lastPlayedTimestamp": 1785769390000,
+      "lastPlayedTimestamp": 1785795548000,
       "lastActivityTimestamp": 1782903321000,
       "lastActivityText": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking il 01/07/2026 10:55",
       "activities": [
