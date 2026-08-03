@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-03T18:21:12.758Z",
+  "generatedAt": "2026-08-03T20:14:09.669Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 466,
+      "lastPlayedTimestamp": 1785787519000,
+      "lastActivityTimestamp": 1785782929000,
+      "lastActivityText": "Equilibrio: Standard il 03/08/2026 18:48",
+      "activities": [
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-03T18:48:49Z",
+          "instanceId": "17111140342"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-02T18:23:44Z",
+          "instanceId": "17108600643"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-02T17:57:53Z",
+          "instanceId": "17108519408"
+        },
+        {
+          "name": "Pinnacolo dell'Osservatrice: Standard",
+          "period": "2026-08-02T15:15:42Z",
+          "instanceId": "17108219522"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-02T02:03:32Z",
+          "instanceId": "17106901312"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-02T01:50:50Z",
+          "instanceId": "17106876792"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-02T01:36:54Z",
+          "instanceId": "17106829986"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-02T01:36:51Z",
+          "instanceId": "17106848965"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-02T01:07:37Z",
+          "instanceId": "17106787286"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-02T00:40:54Z",
+          "instanceId": "17106744945"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -38,6 +103,11 @@
           "instanceId": "17110823306"
         },
         {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-08-03T15:30:49Z",
+          "instanceId": "17111105307"
+        },
+        {
           "name": "Pallido Cuore",
           "period": "2026-08-03T14:45:36Z",
           "instanceId": "17110619068"
@@ -61,11 +131,6 @@
           "name": "Pallido Cuore",
           "period": "2026-08-03T09:10:24Z",
           "instanceId": "17110297032"
-        },
-        {
-          "name": "Bunker dei caduti: Con matchmaking",
-          "period": "2026-07-27T15:09:39Z",
-          "instanceId": "17093494089"
         }
       ]
     },
@@ -153,6 +218,11 @@
           "instanceId": "17110823306"
         },
         {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-08-03T15:30:49Z",
+          "instanceId": "17111105307"
+        },
+        {
           "name": "Pinnacolo di Savathûn: Personalizzata",
           "period": "2026-08-02T17:53:37Z",
           "instanceId": "17108539849"
@@ -191,11 +261,6 @@
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-08-02T15:12:10Z",
           "instanceId": "17108198749"
-        },
-        {
-          "name": "La disonorata",
-          "period": "2026-08-02T14:59:07Z",
-          "instanceId": "17108165110"
         }
       ]
     },
@@ -326,71 +391,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-29T13:03:25Z",
           "instanceId": "17098285083"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 530,
-      "lastPlayedTimestamp": 1785697160000,
-      "lastActivityTimestamp": 1785691702000,
-      "lastActivityText": "Riproposta in evidenza: Gahlran: Pantheon il 02/08/2026 17:28",
-      "activities": [
-        {
-          "name": "Riproposta in evidenza: Gahlran: Pantheon",
-          "period": "2026-08-02T17:28:22Z",
-          "instanceId": "17108458637"
-        },
-        {
-          "name": "Riproposta in evidenza: Gahlran: Pantheon",
-          "period": "2026-08-02T17:13:51Z",
-          "instanceId": "17108439363"
-        },
-        {
-          "name": "Riproposta in evidenza: Gahlran: Pantheon",
-          "period": "2026-08-02T16:40:11Z",
-          "instanceId": "17108959787"
-        },
-        {
-          "name": "Riproposta in evidenza: Gahlran: Pantheon",
-          "period": "2026-08-02T16:15:40Z",
-          "instanceId": "17108340858"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-08-02T14:25:18Z",
-          "instanceId": "17108164499"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-02T02:29:52Z",
-          "instanceId": "17106946179"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-31T13:11:38Z",
-          "instanceId": "17102900693"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-31T12:50:02Z",
-          "instanceId": "17102870787"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-31T02:19:06Z",
-          "instanceId": "17102030018"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-07-29T18:01:31Z",
-          "instanceId": "17107632681"
         }
       ]
     },
