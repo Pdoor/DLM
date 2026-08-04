@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T15:57:10.075Z",
+  "generatedAt": "2026-08-04T17:58:16.663Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,35 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
       "powerLevel": 503,
-      "lastPlayedTimestamp": 1785858457000,
-      "lastActivityTimestamp": 1785857003000,
-      "lastActivityText": "Soli e al freddo: Leggendaria il 04/08/2026 15:23",
+      "lastPlayedTimestamp": 1785866206000,
+      "lastActivityTimestamp": 1785865744000,
+      "lastActivityText": "Nessus, Centauro Instabile il 04/08/2026 17:49",
       "activities": [
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-04T17:49:04Z",
+          "instanceId": "17113058532"
+        },
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-08-04T17:44:12Z",
+          "instanceId": "17113046396"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-04T17:42:31Z",
+          "instanceId": "17113038459"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-08-04T17:22:02Z",
+          "instanceId": "17113021998"
+        },
         {
           "name": "Soli e al freddo: Leggendaria",
           "period": "2026-08-04T15:23:23Z",
@@ -46,26 +66,71 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-04T14:13:21Z",
           "instanceId": "17112737106"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 432,
+      "lastPlayedTimestamp": 1785866227000,
+      "lastActivityTimestamp": 1785864861000,
+      "lastActivityText": "Competitiva: Con matchmaking il 04/08/2026 17:34",
+      "activities": [
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-08-04T17:34:21Z",
+          "instanceId": "17113031890"
         },
         {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-08-04T13:57:55Z",
-          "instanceId": "17112715112"
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-08-04T17:21:26Z",
+          "instanceId": "17113015019"
         },
         {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-08-04T13:43:18Z",
-          "instanceId": "17112692582"
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-08-04T17:02:48Z",
+          "instanceId": "17112986380"
         },
         {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-04T10:38:26Z",
-          "instanceId": "17112468320"
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-08-04T16:48:59Z",
+          "instanceId": "17112962863"
         },
         {
-          "name": "Confluenza: Maestro",
-          "period": "2026-08-04T10:34:54Z",
-          "instanceId": "17112467963"
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-03T21:50:23Z",
+          "instanceId": "17111333494"
+        },
+        {
+          "name": "Deserto perpetuo (modalità epica): Standard",
+          "period": "2026-08-03T21:14:22Z",
+          "instanceId": "17111312793"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-03T21:08:06Z",
+          "instanceId": "17111261455"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-03T21:02:08Z",
+          "instanceId": "17111253443"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-03T20:54:53Z",
+          "instanceId": "17111242411"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-03T20:48:40Z",
+          "instanceId": "17111228340"
         }
       ]
     },
@@ -73,15 +138,40 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 534,
-      "lastPlayedTimestamp": 1785858880000,
-      "lastActivityTimestamp": 1785856988000,
-      "lastActivityText": "Partita veloce: Normale il 04/08/2026 15:23",
+      "powerLevel": 536,
+      "lastPlayedTimestamp": 1785865600000,
+      "lastActivityTimestamp": 1785864318000,
+      "lastActivityText": "Partita veloce: Normale il 04/08/2026 17:25",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-04T17:25:18Z",
+          "instanceId": "17113024889"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-04T17:17:12Z",
+          "instanceId": "17113006657"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-04T16:25:50Z",
+          "instanceId": "17112992251"
+        },
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-08-04T16:10:32Z",
+          "instanceId": "17112911538"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-04T15:39:32Z",
+          "instanceId": "17112876725"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-08-04T15:23:08Z",
@@ -106,31 +196,136 @@
           "name": "Conservazione",
           "period": "2026-08-04T09:53:33Z",
           "instanceId": "17112472936"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 547,
+      "lastPlayedTimestamp": 1785865604000,
+      "lastActivityTimestamp": 1785864266000,
+      "lastActivityText": "La culla del male il 04/08/2026 17:24",
+      "activities": [
+        {
+          "name": "La culla del male",
+          "period": "2026-08-04T17:24:26Z",
+          "instanceId": "17113043705"
         },
         {
-          "name": "Conservazione",
-          "period": "2026-08-04T09:17:37Z",
-          "instanceId": "17112426548"
+          "name": "La culla del male",
+          "period": "2026-08-04T16:51:01Z",
+          "instanceId": "17112954226"
         },
         {
-          "name": "Conservazione",
-          "period": "2026-07-27T20:12:54Z",
-          "instanceId": "17094197648"
+          "name": "Europa",
+          "period": "2026-08-04T16:30:00Z",
+          "instanceId": "17112924332"
         },
         {
-          "name": "Conservazione",
-          "period": "2026-07-27T18:23:11Z",
-          "instanceId": "17094068452"
+          "name": "Soglia dell'Oscurità",
+          "period": "2026-08-04T16:19:44Z",
+          "instanceId": "17112920229"
         },
         {
-          "name": "Conservazione",
-          "period": "2026-07-27T17:58:50Z",
-          "instanceId": "17093822465"
+          "name": "Europa",
+          "period": "2026-08-04T16:17:20Z",
+          "instanceId": "17112907066"
         },
         {
-          "name": "Conservazione",
-          "period": "2026-07-27T17:27:42Z",
-          "instanceId": "17093760501"
+          "name": "Postumi",
+          "period": "2026-08-04T16:06:15Z",
+          "instanceId": "17112903605"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-04T16:00:49Z",
+          "instanceId": "17112887609"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-08-04T14:43:14Z",
+          "instanceId": "17112822024"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-04T14:16:56Z",
+          "instanceId": "17112761521"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-04T13:49:17Z",
+          "instanceId": "17112696552"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1785866134000,
+      "lastActivityTimestamp": 1785863949000,
+      "lastActivityText": "La disonorata: Con matchmaking il 04/08/2026 17:19",
+      "activities": [
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-08-04T17:19:09Z",
+          "instanceId": "17113016484"
+        },
+        {
+          "name": "L'Oscura Sacerdotessa: Con matchmaking",
+          "period": "2026-08-04T17:04:27Z",
+          "instanceId": "17112996653"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-08-04T14:43:14Z",
+          "instanceId": "17112822024"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-04T14:16:56Z",
+          "instanceId": "17112761521"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-04T13:49:17Z",
+          "instanceId": "17112696552"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-08-04T13:45:14Z",
+          "instanceId": "17112686018"
+        },
+        {
+          "name": "Il trono infranto",
+          "period": "2026-08-04T12:54:21Z",
+          "instanceId": "17112680881"
+        },
+        {
+          "name": "Il trono infranto",
+          "period": "2026-08-04T12:32:46Z",
+          "instanceId": "17112613507"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-04T12:31:43Z",
+          "instanceId": "17112603607"
+        },
+        {
+          "name": "Il Tecnocrate: Con matchmaking",
+          "period": "2026-08-04T11:23:13Z",
+          "instanceId": "17112526880"
         }
       ]
     },
@@ -200,136 +395,6 @@
       ]
     },
     {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1785858994000,
-      "lastActivityTimestamp": 1785854594000,
-      "lastActivityText": "La culla del male: Personalizzata il 04/08/2026 14:43",
-      "activities": [
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-08-04T14:43:14Z",
-          "instanceId": "17112822024"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-04T14:16:56Z",
-          "instanceId": "17112761521"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-04T13:49:17Z",
-          "instanceId": "17112696552"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-08-04T13:45:14Z",
-          "instanceId": "17112686018"
-        },
-        {
-          "name": "Il trono infranto",
-          "period": "2026-08-04T12:54:21Z",
-          "instanceId": "17112680881"
-        },
-        {
-          "name": "Il trono infranto",
-          "period": "2026-08-04T12:32:46Z",
-          "instanceId": "17112613507"
-        },
-        {
-          "name": "Il trono infranto",
-          "period": "2026-08-03T15:33:51Z",
-          "instanceId": "17110823306"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-08-03T15:30:49Z",
-          "instanceId": "17111105307"
-        },
-        {
-          "name": "Pinnacolo di Savathûn: Personalizzata",
-          "period": "2026-08-02T17:53:37Z",
-          "instanceId": "17108539849"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-02T17:50:17Z",
-          "instanceId": "17108494760"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1785857000000,
-      "lastActivityTimestamp": 1785854594000,
-      "lastActivityText": "La culla del male: Personalizzata il 04/08/2026 14:43",
-      "activities": [
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-08-04T14:43:14Z",
-          "instanceId": "17112822024"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-04T14:16:56Z",
-          "instanceId": "17112761521"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-04T13:49:17Z",
-          "instanceId": "17112696552"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-08-04T13:45:14Z",
-          "instanceId": "17112686018"
-        },
-        {
-          "name": "Il trono infranto",
-          "period": "2026-08-04T12:54:21Z",
-          "instanceId": "17112680881"
-        },
-        {
-          "name": "Il trono infranto",
-          "period": "2026-08-04T12:32:46Z",
-          "instanceId": "17112613507"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-04T12:31:43Z",
-          "instanceId": "17112603607"
-        },
-        {
-          "name": "Il Tecnocrate: Con matchmaking",
-          "period": "2026-08-04T11:23:13Z",
-          "instanceId": "17112526880"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-04T11:00:24Z",
-          "instanceId": "17112499899"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-04T10:43:07Z",
-          "instanceId": "17112487859"
-        }
-      ]
-    },
-    {
       "displayName": "İda_Toprak_Kava#856",
       "membershipId": "4611686018556113076",
       "bungieNetMembershipId": "",
@@ -395,71 +460,6 @@
       ]
     },
     {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "RICERCATO",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 472,
-      "lastPlayedTimestamp": 1785794203000,
-      "lastActivityTimestamp": 1785793823000,
-      "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 03/08/2026 21:50",
-      "activities": [
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-03T21:50:23Z",
-          "instanceId": "17111333494"
-        },
-        {
-          "name": "Deserto perpetuo (modalità epica): Standard",
-          "period": "2026-08-03T21:14:22Z",
-          "instanceId": "17111312793"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-03T21:08:06Z",
-          "instanceId": "17111261455"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-03T21:02:08Z",
-          "instanceId": "17111253443"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-03T20:54:53Z",
-          "instanceId": "17111242411"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-03T20:48:40Z",
-          "instanceId": "17111228340"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-03T20:41:59Z",
-          "instanceId": "17111217283"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-03T20:35:15Z",
-          "instanceId": "17111205302"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-03T20:27:14Z",
-          "instanceId": "17111192832"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-03T20:21:01Z",
-          "instanceId": "17111179054"
-        }
-      ]
-    },
-    {
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
@@ -468,7 +468,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1785822175000,
+      "lastPlayedTimestamp": 1785864882000,
       "lastActivityTimestamp": 1785769601000,
       "lastActivityText": "La lama di Luce: Con matchmaking il 03/08/2026 15:06",
       "activities": [
