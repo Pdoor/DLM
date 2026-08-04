@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T19:48:26.141Z",
+  "generatedAt": "2026-08-04T21:16:42.289Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,41 @@
       "className": "Titani",
       "title": "Glorioso",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 406,
-      "lastPlayedTimestamp": 1785872849000,
-      "lastActivityTimestamp": 1785871388000,
-      "lastActivityText": "Prova di Forza: Con matchmaking il 04/08/2026 19:23",
+      "powerLevel": 408,
+      "lastPlayedTimestamp": 1785878114000,
+      "lastActivityTimestamp": 1785877502000,
+      "lastActivityText": "Controllo: Con matchmaking il 04/08/2026 21:05",
       "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-04T21:05:02Z",
+          "instanceId": "17113429731"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-04T20:52:54Z",
+          "instanceId": "17113407451"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-04T20:22:58Z",
+          "instanceId": "17113354511"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-04T20:09:17Z",
+          "instanceId": "17113326793"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-04T19:49:40Z",
+          "instanceId": "17113289961"
+        },
+        {
+          "name": "Prova di Forza: Con matchmaking",
+          "period": "2026-08-04T19:33:12Z",
+          "instanceId": "17113263140"
+        },
         {
           "name": "Prova di Forza: Con matchmaking",
           "period": "2026-08-04T19:23:08Z",
@@ -36,36 +66,6 @@
           "name": "Prove di Osiride: Con matchmaking",
           "period": "2026-07-26T19:13:58Z",
           "instanceId": "17091093815"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-07-26T19:04:14Z",
-          "instanceId": "17091066812"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-07-26T18:54:41Z",
-          "instanceId": "17091030903"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-07-26T18:44:04Z",
-          "instanceId": "17091013325"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-07-26T18:33:52Z",
-          "instanceId": "17090975425"
-        },
-        {
-          "name": "Rissa: Con matchmaking",
-          "period": "2026-07-26T18:28:57Z",
-          "instanceId": "17090959723"
-        },
-        {
-          "name": "Rissa: Con matchmaking",
-          "period": "2026-07-26T18:23:04Z",
-          "instanceId": "17090939671"
         }
       ]
     },
@@ -468,7 +468,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
       "powerLevel": 412,
-      "lastPlayedTimestamp": 1785841425000,
+      "lastPlayedTimestamp": 1785876058000,
       "lastActivityTimestamp": 1785841124000,
       "lastActivityText": "Cosmodromo il 04/08/2026 10:58",
       "activities": [
