@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-04T22:37:16.571Z",
+  "generatedAt": "2026-08-05T00:09:26.576Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 454,
+      "lastPlayedTimestamp": 1785888349000,
+      "lastActivityTimestamp": 1785886172000,
+      "lastActivityText": "Competitiva: Con matchmaking il 04/08/2026 23:29",
+      "activities": [
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-08-04T23:29:32Z",
+          "instanceId": "17113697710"
+        },
+        {
+          "name": "Centro Città: Personalizzata",
+          "period": "2026-08-04T19:17:16Z",
+          "instanceId": "17113217327"
+        },
+        {
+          "name": "Centro Città: Personalizzata",
+          "period": "2026-08-04T19:14:26Z",
+          "instanceId": "17113203912"
+        },
+        {
+          "name": "Centro Città: Personalizzata",
+          "period": "2026-08-04T19:08:23Z",
+          "instanceId": "17113198751"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-04T19:04:22Z",
+          "instanceId": "17113201475"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-08-04T18:39:48Z",
+          "instanceId": "17113152443"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-08-04T18:23:57Z",
+          "instanceId": "17113129561"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-08-04T18:06:23Z",
+          "instanceId": "17113094484"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-08-04T17:47:35Z",
+          "instanceId": "17113061230"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-08-04T17:34:21Z",
+          "instanceId": "17113031890"
+        }
+      ]
+    },
     {
       "displayName": "adgarolp#8945",
       "membershipId": "4611686018479100387",
@@ -586,71 +651,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-29T13:03:25Z",
           "instanceId": "17098285083"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1785879554000,
-      "lastActivityTimestamp": 1785691702000,
-      "lastActivityText": "Riproposta in evidenza: Gahlran: Pantheon il 02/08/2026 17:28",
-      "activities": [
-        {
-          "name": "Riproposta in evidenza: Gahlran: Pantheon",
-          "period": "2026-08-02T17:28:22Z",
-          "instanceId": "17108458637"
-        },
-        {
-          "name": "Riproposta in evidenza: Gahlran: Pantheon",
-          "period": "2026-08-02T17:13:51Z",
-          "instanceId": "17108439363"
-        },
-        {
-          "name": "Riproposta in evidenza: Gahlran: Pantheon",
-          "period": "2026-08-02T16:40:11Z",
-          "instanceId": "17108959787"
-        },
-        {
-          "name": "Riproposta in evidenza: Gahlran: Pantheon",
-          "period": "2026-08-02T16:15:40Z",
-          "instanceId": "17108340858"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-08-02T14:25:18Z",
-          "instanceId": "17108164499"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-02T02:29:52Z",
-          "instanceId": "17106946179"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-31T13:11:38Z",
-          "instanceId": "17102900693"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-07-31T12:50:02Z",
-          "instanceId": "17102870787"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-31T02:19:06Z",
-          "instanceId": "17102030018"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-07-29T18:01:31Z",
-          "instanceId": "17107632681"
         }
       ]
     },
