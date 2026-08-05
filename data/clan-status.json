@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T00:09:26.576Z",
+  "generatedAt": "2026-08-05T03:45:38.540Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,30 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 454,
-      "lastPlayedTimestamp": 1785888349000,
-      "lastActivityTimestamp": 1785886172000,
-      "lastActivityText": "Competitiva: Con matchmaking il 04/08/2026 23:29",
+      "powerLevel": 458,
+      "lastPlayedTimestamp": 1785891055000,
+      "lastActivityTimestamp": 1785890542000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 05/08/2026 00:42",
       "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-05T00:42:22Z",
+          "instanceId": "17113855566"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-05T00:30:16Z",
+          "instanceId": "17113822858"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-05T00:17:14Z",
+          "instanceId": "17113798499"
+        },
         {
           "name": "Competitiva: Con matchmaking",
           "period": "2026-08-04T23:29:32Z",
@@ -51,21 +66,6 @@
           "name": "Competitiva: Con matchmaking",
           "period": "2026-08-04T18:23:57Z",
           "instanceId": "17113129561"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-08-04T18:06:23Z",
-          "instanceId": "17113094484"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-08-04T17:47:35Z",
-          "instanceId": "17113061230"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-08-04T17:34:21Z",
-          "instanceId": "17113031890"
         }
       ]
     },
