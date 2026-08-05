@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T14:56:30.745Z",
+  "generatedAt": "2026-08-05T16:46:35.899Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,30 @@
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1785941746000,
-      "lastActivityTimestamp": 1785941169000,
-      "lastActivityText": "Cosmodromo il 05/08/2026 14:46",
+      "lastPlayedTimestamp": 1785948246000,
+      "lastActivityTimestamp": 1785946702000,
+      "lastActivityText": "Profezia il 05/08/2026 16:18",
       "activities": [
+        {
+          "name": "Profezia",
+          "period": "2026-08-05T16:18:22Z",
+          "instanceId": "17115194119"
+        },
+        {
+          "name": "Il Ponte di Vetro: Personalizzata",
+          "period": "2026-08-05T15:39:17Z",
+          "instanceId": "17115111647"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-08-05T15:03:44Z",
+          "instanceId": "17115060367"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-08-05T14:49:44Z",
+          "instanceId": "17115033669"
+        },
         {
           "name": "Cosmodromo",
           "period": "2026-08-05T14:46:09Z",
@@ -46,26 +66,6 @@
           "name": "Ultimo desiderio: Standard",
           "period": "2026-08-02T14:46:19Z",
           "instanceId": "17108162335"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-08-02T14:44:56Z",
-          "instanceId": "17108116063"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-08-02T14:28:26Z",
-          "instanceId": "17108113303"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-08-02T13:29:27Z",
-          "instanceId": "17108010317"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-08-02T11:24:58Z",
-          "instanceId": "17107815530"
         }
       ]
     },
@@ -73,12 +73,12 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 503,
-      "lastPlayedTimestamp": 1785937625000,
+      "powerLevel": 541,
+      "lastPlayedTimestamp": 1785948084000,
       "lastActivityTimestamp": 1785937624000,
       "lastActivityText": "Nessus, Centauro Instabile il 05/08/2026 13:47",
       "activities": [
@@ -138,12 +138,12 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 458,
-      "lastPlayedTimestamp": 1785891055000,
+      "powerLevel": 451,
+      "lastPlayedTimestamp": 1785948330000,
       "lastActivityTimestamp": 1785890542000,
       "lastActivityText": "Partita veloce: maestro: Maestro il 05/08/2026 00:42",
       "activities": [
@@ -532,8 +532,8 @@
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1785870794000,
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1785946307000,
       "lastActivityTimestamp": 1785769601000,
       "lastActivityText": "La lama di Luce: Con matchmaking il 03/08/2026 15:06",
       "activities": [
