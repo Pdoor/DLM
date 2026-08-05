@@ -1,22 +1,122 @@
 {
-  "generatedAt": "2026-08-05T20:09:42.318Z",
+  "generatedAt": "2026-08-05T21:48:55.178Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Mietitrice",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1785965895000,
+      "lastActivityTimestamp": 1785965329000,
+      "lastActivityText": "Equilibrio: Standard il 05/08/2026 21:28",
+      "activities": [
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-05T21:28:49Z",
+          "instanceId": "17115695224"
+        },
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-08-04T23:11:21Z",
+          "instanceId": "17113715987"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-04T22:59:08Z",
+          "instanceId": "17113628088"
+        },
+        {
+          "name": "Riproposta in evidenza: Gahlran: Pantheon",
+          "period": "2026-08-02T17:28:22Z",
+          "instanceId": "17108458637"
+        },
+        {
+          "name": "Riproposta in evidenza: Gahlran: Pantheon",
+          "period": "2026-08-02T17:13:51Z",
+          "instanceId": "17108439363"
+        },
+        {
+          "name": "Riproposta in evidenza: Gahlran: Pantheon",
+          "period": "2026-08-02T16:40:11Z",
+          "instanceId": "17108959787"
+        },
+        {
+          "name": "Riproposta in evidenza: Gahlran: Pantheon",
+          "period": "2026-08-02T16:15:40Z",
+          "instanceId": "17108340858"
+        },
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-08-02T14:25:18Z",
+          "instanceId": "17108164499"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-02T02:29:52Z",
+          "instanceId": "17106946179"
+        },
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-07-29T18:01:31Z",
+          "instanceId": "17107632681"
+        }
+      ]
+    },
+    {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 473,
-      "lastPlayedTimestamp": 1785960352000,
-      "lastActivityTimestamp": 1785950341000,
-      "lastActivityText": "Profezia il 05/08/2026 17:19",
+      "powerLevel": 508,
+      "lastPlayedTimestamp": 1785964275000,
+      "lastActivityTimestamp": 1785964263000,
+      "lastActivityText": "Nessus, Centauro Instabile il 05/08/2026 21:11",
       "activities": [
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-05T21:11:03Z",
+          "instanceId": "17115647144"
+        },
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-08-05T21:07:18Z",
+          "instanceId": "17115646274"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-05T21:06:44Z",
+          "instanceId": "17115639344"
+        },
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-08-05T21:03:16Z",
+          "instanceId": "17115639005"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-05T21:01:52Z",
+          "instanceId": "17115631810"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-08-05T20:13:55Z",
+          "instanceId": "17115632497"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-08-05T20:10:58Z",
+          "instanceId": "17115550983"
+        },
         {
           "name": "Profezia",
           "period": "2026-08-05T17:19:01Z",
@@ -31,41 +131,6 @@
           "name": "Volta di Vetro: Maestro",
           "period": "2026-08-05T14:58:10Z",
           "instanceId": "17115229720"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-05T13:47:04Z",
-          "instanceId": "17114918849"
-        },
-        {
-          "name": "Confluenza: Maestro",
-          "period": "2026-08-05T13:43:15Z",
-          "instanceId": "17114919120"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-05T13:42:31Z",
-          "instanceId": "17114913496"
-        },
-        {
-          "name": "Confluenza: Esperto",
-          "period": "2026-08-05T13:38:29Z",
-          "instanceId": "17114912450"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-05T13:37:57Z",
-          "instanceId": "17114906659"
-        },
-        {
-          "name": "Confluenza: Maestro",
-          "period": "2026-08-05T13:34:22Z",
-          "instanceId": "17114905973"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-05T13:33:34Z",
-          "instanceId": "17114901145"
         }
       ]
     },
@@ -131,71 +196,6 @@
           "name": "Campi di battaglia: Discesa: Con matchmaking",
           "period": "2026-08-02T15:32:40Z",
           "instanceId": "17108251394"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "RICERCATO",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 451,
-      "lastPlayedTimestamp": 1785949076000,
-      "lastActivityTimestamp": 1785947630000,
-      "lastActivityText": "Periferia di Libernia, Marte: Contrabbando: Con matchmaking il 05/08/2026 16:33",
-      "activities": [
-        {
-          "name": "Periferia di Libernia, Marte: Contrabbando: Con matchmaking",
-          "period": "2026-08-05T16:33:50Z",
-          "instanceId": "17115216658"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-05T00:42:22Z",
-          "instanceId": "17113855566"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-05T00:30:16Z",
-          "instanceId": "17113822858"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-05T00:17:14Z",
-          "instanceId": "17113798499"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-08-04T23:29:32Z",
-          "instanceId": "17113697710"
-        },
-        {
-          "name": "Centro Città: Personalizzata",
-          "period": "2026-08-04T19:17:16Z",
-          "instanceId": "17113217327"
-        },
-        {
-          "name": "Centro Città: Personalizzata",
-          "period": "2026-08-04T19:14:26Z",
-          "instanceId": "17113203912"
-        },
-        {
-          "name": "Centro Città: Personalizzata",
-          "period": "2026-08-04T19:08:23Z",
-          "instanceId": "17113198751"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-04T19:04:22Z",
-          "instanceId": "17113201475"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-08-04T18:39:48Z",
-          "instanceId": "17113152443"
         }
       ]
     },
@@ -1703,7 +1703,7 @@
       "title": "Gloriosa",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e452c62485491a02fbc0e36f06d301d2.jpg",
       "powerLevel": 338,
-      "lastPlayedTimestamp": 1783890385000,
+      "lastPlayedTimestamp": 1785963716000,
       "lastActivityTimestamp": 1783111878000,
       "lastActivityText": "Competitiva: Con matchmaking il 03/07/2026 20:51",
       "activities": [
