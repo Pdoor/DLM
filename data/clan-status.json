@@ -1,22 +1,172 @@
 {
-  "generatedAt": "2026-08-06T12:27:12.635Z",
+  "generatedAt": "2026-08-06T14:56:47.727Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "Ghost of Warlock#5159",
+      "membershipId": "4611686018513286564",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786024272000,
+      "lastActivityTimestamp": 1786023156000,
+      "lastActivityText": "La Fortezza Scarlatta: Con matchmaking il 06/08/2026 13:32",
+      "activities": [
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-08-06T13:32:36Z",
+          "instanceId": "17117068790"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-03T15:06:41Z",
+          "instanceId": "17110662440"
+        },
+        {
+          "name": "Spedizione: Nessus: Con matchmaking",
+          "period": "2026-08-03T14:37:20Z",
+          "instanceId": "17110611630"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-08-03T09:54:44Z",
+          "instanceId": "17110259644"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-08-03T09:20:18Z",
+          "instanceId": "17110232403"
+        },
+        {
+          "name": "Spedizione: Europa: Con matchmaking",
+          "period": "2026-08-02T16:12:08Z",
+          "instanceId": "17108314714"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-02T06:51:53Z",
+          "instanceId": "17107507172"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-01T21:24:10Z",
+          "instanceId": "17106364615"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-01T21:17:03Z",
+          "instanceId": "17106318631"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-01T20:53:35Z",
+          "instanceId": "17106288246"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786025721000,
+      "lastActivityTimestamp": 1786023090000,
+      "lastActivityText": "Profezia il 06/08/2026 13:31",
+      "activities": [
+        {
+          "name": "Profezia",
+          "period": "2026-08-06T13:31:30Z",
+          "instanceId": "17117103166"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-08-06T12:52:18Z",
+          "instanceId": "17117021465"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-08-05T13:32:58Z",
+          "instanceId": "17114921662"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-08-05T13:02:38Z",
+          "instanceId": "17114875216"
+        },
+        {
+          "name": "L'Oscura Sacerdotessa: Con matchmaking",
+          "period": "2026-08-05T12:37:12Z",
+          "instanceId": "17114842141"
+        },
+        {
+          "name": "Pinnacolo di Savathûn: Personalizzata",
+          "period": "2026-08-02T17:53:37Z",
+          "instanceId": "17108539849"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-08-02T17:50:17Z",
+          "instanceId": "17108494760"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-02T17:28:42Z",
+          "instanceId": "17108483153"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
+          "period": "2026-08-02T17:13:09Z",
+          "instanceId": "17108439382"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-07-31T13:51:16Z",
+          "instanceId": "17102991421"
+        }
+      ]
+    },
+    {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 450,
-      "lastPlayedTimestamp": 1786019190000,
-      "lastActivityTimestamp": 1786018521000,
-      "lastActivityText": "Azzardo: Con matchmaking il 06/08/2026 12:15",
+      "powerLevel": 512,
+      "lastPlayedTimestamp": 1786023984000,
+      "lastActivityTimestamp": 1786022114000,
+      "lastActivityText": "Volta di Vetro: Standard il 06/08/2026 13:15",
       "activities": [
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-08-06T13:15:14Z",
+          "instanceId": "17117064517"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-08-06T12:44:21Z",
+          "instanceId": "17117017128"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-06T12:21:32Z",
+          "instanceId": "17116963562"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-08-06T12:16:21Z",
+          "instanceId": "17117003749"
+        },
         {
           "name": "Azzardo: Con matchmaking",
           "period": "2026-08-06T12:15:21Z",
@@ -46,26 +196,71 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-08-06T11:17:04Z",
           "instanceId": "17116894069"
+        }
+      ]
+    },
+    {
+      "displayName": "İda_Toprak_Kava#856",
+      "membershipId": "4611686018556113076",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 413,
+      "lastPlayedTimestamp": 1786020621000,
+      "lastActivityTimestamp": 1786018953000,
+      "lastActivityText": "Cosmodromo il 06/08/2026 12:22",
+      "activities": [
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-06T12:22:33Z",
+          "instanceId": "17116991921"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-04T10:58:44Z",
+          "instanceId": "17112493744"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-31T17:15:36Z",
+          "instanceId": "17103300564"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-31T16:57:14Z",
+          "instanceId": "17103279881"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-31T16:51:25Z",
+          "instanceId": "17103245459"
         },
         {
           "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-06T11:10:12Z",
-          "instanceId": "17116886971"
+          "period": "2026-07-31T16:34:38Z",
+          "instanceId": "17103221376"
         },
         {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-05T21:11:03Z",
-          "instanceId": "17115647144"
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-31T16:27:04Z",
+          "instanceId": "17103210110"
         },
         {
-          "name": "Confluenza: Maestro",
-          "period": "2026-08-05T21:07:18Z",
-          "instanceId": "17115646274"
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-31T16:17:34Z",
+          "instanceId": "17103193801"
         },
         {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-05T21:06:44Z",
-          "instanceId": "17115639344"
+          "name": "Cosmodromo",
+          "period": "2026-07-31T16:03:53Z",
+          "instanceId": "17103180315"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-07-31T15:56:24Z",
+          "instanceId": "17103158327"
         }
       ]
     },
@@ -131,71 +326,6 @@
           "name": "Comando del Vespro: Normale",
           "period": "2026-07-29T18:01:31Z",
           "instanceId": "17107632681"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1786018943000,
-      "lastActivityTimestamp": 1785936778000,
-      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking il 05/08/2026 13:32",
-      "activities": [
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-08-05T13:32:58Z",
-          "instanceId": "17114921662"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-08-05T13:02:38Z",
-          "instanceId": "17114875216"
-        },
-        {
-          "name": "L'Oscura Sacerdotessa: Con matchmaking",
-          "period": "2026-08-05T12:37:12Z",
-          "instanceId": "17114842141"
-        },
-        {
-          "name": "Pinnacolo di Savathûn: Personalizzata",
-          "period": "2026-08-02T17:53:37Z",
-          "instanceId": "17108539849"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-02T17:50:17Z",
-          "instanceId": "17108494760"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-02T17:28:42Z",
-          "instanceId": "17108483153"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
-          "period": "2026-08-02T17:13:09Z",
-          "instanceId": "17108439382"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-31T13:51:16Z",
-          "instanceId": "17102991421"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-07-31T13:39:40Z",
-          "instanceId": "17102939125"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-07-31T12:45:53Z",
-          "instanceId": "17102882053"
         }
       ]
     },
@@ -456,136 +586,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-03T15:37:50Z",
           "instanceId": "17110699331"
-        }
-      ]
-    },
-    {
-      "displayName": "İda_Toprak_Kava#856",
-      "membershipId": "4611686018556113076",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 412,
-      "lastPlayedTimestamp": 1786019126000,
-      "lastActivityTimestamp": 1785841124000,
-      "lastActivityText": "Cosmodromo il 04/08/2026 10:58",
-      "activities": [
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-04T10:58:44Z",
-          "instanceId": "17112493744"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-31T17:15:36Z",
-          "instanceId": "17103300564"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-31T16:57:14Z",
-          "instanceId": "17103279881"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-31T16:51:25Z",
-          "instanceId": "17103245459"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-31T16:34:38Z",
-          "instanceId": "17103221376"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-31T16:27:04Z",
-          "instanceId": "17103210110"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-31T16:17:34Z",
-          "instanceId": "17103193801"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-31T16:03:53Z",
-          "instanceId": "17103180315"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-31T15:56:24Z",
-          "instanceId": "17103158327"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-31T15:49:22Z",
-          "instanceId": "17103145962"
-        }
-      ]
-    },
-    {
-      "displayName": "Ghost of Warlock#5159",
-      "membershipId": "4611686018513286564",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1785946307000,
-      "lastActivityTimestamp": 1785769601000,
-      "lastActivityText": "La lama di Luce: Con matchmaking il 03/08/2026 15:06",
-      "activities": [
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-03T15:06:41Z",
-          "instanceId": "17110662440"
-        },
-        {
-          "name": "Spedizione: Nessus: Con matchmaking",
-          "period": "2026-08-03T14:37:20Z",
-          "instanceId": "17110611630"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-08-03T09:54:44Z",
-          "instanceId": "17110259644"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-08-03T09:20:18Z",
-          "instanceId": "17110232403"
-        },
-        {
-          "name": "Spedizione: Europa: Con matchmaking",
-          "period": "2026-08-02T16:12:08Z",
-          "instanceId": "17108314714"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-02T06:51:53Z",
-          "instanceId": "17107507172"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-01T21:24:10Z",
-          "instanceId": "17106364615"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-01T21:17:03Z",
-          "instanceId": "17106318631"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-01T20:53:35Z",
-          "instanceId": "17106288246"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-01T20:51:16Z",
-          "instanceId": "17106256442"
         }
       ]
     },
