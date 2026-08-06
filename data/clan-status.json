@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-06T07:17:32.943Z",
+  "generatedAt": "2026-08-06T10:10:38.686Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786010958000,
+      "lastActivityTimestamp": 1786008981000,
+      "lastActivityText": "Profezia il 06/08/2026 09:36",
+      "activities": [
+        {
+          "name": "Profezia",
+          "period": "2026-08-06T09:36:21Z",
+          "instanceId": "17116822985"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-08-05T16:49:19Z",
+          "instanceId": "17115262992"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-08-05T16:48:26Z",
+          "instanceId": "17115202267"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-08-05T16:47:36Z",
+          "instanceId": "17115200420"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-08-05T16:18:22Z",
+          "instanceId": "17115194119"
+        },
+        {
+          "name": "Il Ponte di Vetro: Personalizzata",
+          "period": "2026-08-05T15:39:17Z",
+          "instanceId": "17115111647"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-08-05T15:22:19Z",
+          "instanceId": "17115483661"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-08-05T15:03:44Z",
+          "instanceId": "17115060367"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-08-05T14:49:44Z",
+          "instanceId": "17115033669"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-05T14:46:09Z",
+          "instanceId": "17115012532"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -131,71 +196,6 @@
           "name": "Volta di Vetro: Maestro",
           "period": "2026-08-05T14:58:10Z",
           "instanceId": "17115229720"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1785950869000,
-      "lastActivityTimestamp": 1785948559000,
-      "lastActivityText": "Profezia il 05/08/2026 16:49",
-      "activities": [
-        {
-          "name": "Profezia",
-          "period": "2026-08-05T16:49:19Z",
-          "instanceId": "17115262992"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-05T16:48:26Z",
-          "instanceId": "17115202267"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-05T16:47:36Z",
-          "instanceId": "17115200420"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-05T16:18:22Z",
-          "instanceId": "17115194119"
-        },
-        {
-          "name": "Il Ponte di Vetro: Personalizzata",
-          "period": "2026-08-05T15:39:17Z",
-          "instanceId": "17115111647"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-08-05T15:22:19Z",
-          "instanceId": "17115483661"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-08-05T15:03:44Z",
-          "instanceId": "17115060367"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-08-05T14:49:44Z",
-          "instanceId": "17115033669"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-05T14:46:09Z",
-          "instanceId": "17115012532"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-08-02T15:32:40Z",
-          "instanceId": "17108251394"
         }
       ]
     },
