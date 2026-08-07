@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T16:02:09.165Z",
+  "generatedAt": "2026-08-07T17:24:39.423Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786118458000,
-      "lastActivityTimestamp": 1786115088000,
-      "lastActivityText": "Centro Città: Con matchmaking il 07/08/2026 15:04",
+      "lastPlayedTimestamp": 1786120512000,
+      "lastActivityTimestamp": 1786120510000,
+      "lastActivityText": "Campi di battaglia: Discesa: Con matchmaking il 07/08/2026 16:35",
       "activities": [
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-08-07T16:35:10Z",
+          "instanceId": "17119438710"
+        },
         {
           "name": "Centro Città: Con matchmaking",
           "period": "2026-08-07T15:04:48Z",
@@ -61,11 +66,6 @@
           "name": "Pallido Cuore",
           "period": "2026-08-04T13:49:17Z",
           "instanceId": "17112696552"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-08-04T13:45:14Z",
-          "instanceId": "17112686018"
         }
       ]
     },
@@ -196,6 +196,71 @@
           "name": "Ultimo desiderio: Standard",
           "period": "2026-08-06T19:18:27Z",
           "instanceId": "17117607918"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Mietitrice",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1786120350000,
+      "lastActivityTimestamp": 1786070384000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 07/08/2026 02:39",
+      "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-07T02:39:44Z",
+          "instanceId": "17118389056"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-07T02:21:04Z",
+          "instanceId": "17118354360"
+        },
+        {
+          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
+          "period": "2026-08-07T01:39:54Z",
+          "instanceId": "17118311960"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-06T19:41:02Z",
+          "instanceId": "17117640082"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-06T19:31:24Z",
+          "instanceId": "17117614598"
+        },
+        {
+          "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
+          "period": "2026-08-06T19:03:43Z",
+          "instanceId": "17117587485"
+        },
+        {
+          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
+          "period": "2026-08-06T18:51:31Z",
+          "instanceId": "17117544583"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-05T21:28:49Z",
+          "instanceId": "17115695224"
+        },
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-08-04T23:11:21Z",
+          "instanceId": "17113715987"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-04T22:59:08Z",
+          "instanceId": "17113628088"
         }
       ]
     },
@@ -456,71 +521,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-31T15:56:24Z",
           "instanceId": "17103158327"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "RICERCATO",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 451,
-      "lastPlayedTimestamp": 1786072175000,
-      "lastActivityTimestamp": 1785947630000,
-      "lastActivityText": "Periferia di Libernia, Marte: Contrabbando: Con matchmaking il 05/08/2026 16:33",
-      "activities": [
-        {
-          "name": "Periferia di Libernia, Marte: Contrabbando: Con matchmaking",
-          "period": "2026-08-05T16:33:50Z",
-          "instanceId": "17115216658"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-05T00:42:22Z",
-          "instanceId": "17113855566"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-05T00:30:16Z",
-          "instanceId": "17113822858"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-05T00:17:14Z",
-          "instanceId": "17113798499"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-08-04T23:29:32Z",
-          "instanceId": "17113697710"
-        },
-        {
-          "name": "Centro Città: Personalizzata",
-          "period": "2026-08-04T19:17:16Z",
-          "instanceId": "17113217327"
-        },
-        {
-          "name": "Centro Città: Personalizzata",
-          "period": "2026-08-04T19:14:26Z",
-          "instanceId": "17113203912"
-        },
-        {
-          "name": "Centro Città: Personalizzata",
-          "period": "2026-08-04T19:08:23Z",
-          "instanceId": "17113198751"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-04T19:04:22Z",
-          "instanceId": "17113201475"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-08-04T18:39:48Z",
-          "instanceId": "17113152443"
         }
       ]
     },
