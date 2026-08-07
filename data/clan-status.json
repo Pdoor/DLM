@@ -1,19 +1,84 @@
 {
-  "generatedAt": "2026-08-07T11:23:40.617Z",
+  "generatedAt": "2026-08-07T12:10:43.903Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
       "isOnline": false,
       "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1786102758000,
+      "lastActivityTimestamp": 1786102271000,
+      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 07/08/2026 11:31",
+      "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-08-07T11:31:11Z",
+          "instanceId": "17119036609"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-08-04T17:58:45Z",
+          "instanceId": "17113094610"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-08-04T17:19:09Z",
+          "instanceId": "17113016484"
+        },
+        {
+          "name": "L'Oscura Sacerdotessa: Con matchmaking",
+          "period": "2026-08-04T17:04:27Z",
+          "instanceId": "17112996653"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-08-04T14:43:14Z",
+          "instanceId": "17112822024"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-04T14:16:56Z",
+          "instanceId": "17112761521"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-04T13:49:17Z",
+          "instanceId": "17112696552"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-08-04T13:45:14Z",
+          "instanceId": "17112686018"
+        },
+        {
+          "name": "Il trono infranto",
+          "period": "2026-08-04T12:54:21Z",
+          "instanceId": "17112680881"
+        },
+        {
+          "name": "Il trono infranto",
+          "period": "2026-08-04T12:32:46Z",
+          "instanceId": "17112613507"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 514,
-      "lastPlayedTimestamp": 1786054522000,
+      "powerLevel": 510,
+      "lastPlayedTimestamp": 1786104628000,
       "lastActivityTimestamp": 1786051031000,
       "lastActivityText": "Volta di Vetro: Maestro il 06/08/2026 21:17",
       "activities": [
@@ -521,71 +586,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-04T20:22:58Z",
           "instanceId": "17113354511"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1786101634000,
-      "lastActivityTimestamp": 1785866325000,
-      "lastActivityText": "Campo di battaglia Colpo: Luna: Personalizzata il 04/08/2026 17:58",
-      "activities": [
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-08-04T17:58:45Z",
-          "instanceId": "17113094610"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-08-04T17:19:09Z",
-          "instanceId": "17113016484"
-        },
-        {
-          "name": "L'Oscura Sacerdotessa: Con matchmaking",
-          "period": "2026-08-04T17:04:27Z",
-          "instanceId": "17112996653"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-08-04T14:43:14Z",
-          "instanceId": "17112822024"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-04T14:16:56Z",
-          "instanceId": "17112761521"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-04T13:49:17Z",
-          "instanceId": "17112696552"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-08-04T13:45:14Z",
-          "instanceId": "17112686018"
-        },
-        {
-          "name": "Il trono infranto",
-          "period": "2026-08-04T12:54:21Z",
-          "instanceId": "17112680881"
-        },
-        {
-          "name": "Il trono infranto",
-          "period": "2026-08-04T12:32:46Z",
-          "instanceId": "17112613507"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-04T12:31:43Z",
-          "instanceId": "17112603607"
         }
       ]
     },
