@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T14:57:35.807Z",
+  "generatedAt": "2026-08-07T16:02:09.165Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,15 @@
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786113309000,
-      "lastActivityTimestamp": 1786111382000,
-      "lastActivityText": "La Città Sognante il 07/08/2026 14:03",
+      "lastPlayedTimestamp": 1786118458000,
+      "lastActivityTimestamp": 1786115088000,
+      "lastActivityText": "Centro Città: Con matchmaking il 07/08/2026 15:04",
       "activities": [
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-08-07T15:04:48Z",
+          "instanceId": "17119351884"
+        },
         {
           "name": "La Città Sognante",
           "period": "2026-08-07T14:03:02Z",
@@ -61,11 +66,71 @@
           "name": "La Città Sognante",
           "period": "2026-08-04T13:45:14Z",
           "instanceId": "17112686018"
+        }
+      ]
+    },
+    {
+      "displayName": "Ghost of Warlock#5159",
+      "membershipId": "4611686018513286564",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786115546000,
+      "lastActivityTimestamp": 1786114491000,
+      "lastActivityText": "Trafficante d'armi: Con matchmaking il 07/08/2026 14:54",
+      "activities": [
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-08-07T14:54:51Z",
+          "instanceId": "17119305412"
         },
         {
-          "name": "Il trono infranto",
-          "period": "2026-08-04T12:54:21Z",
-          "instanceId": "17112680881"
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-08-06T13:32:36Z",
+          "instanceId": "17117068790"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-03T15:06:41Z",
+          "instanceId": "17110662440"
+        },
+        {
+          "name": "Spedizione: Nessus: Con matchmaking",
+          "period": "2026-08-03T14:37:20Z",
+          "instanceId": "17110611630"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-08-03T09:54:44Z",
+          "instanceId": "17110259644"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-08-03T09:20:18Z",
+          "instanceId": "17110232403"
+        },
+        {
+          "name": "Spedizione: Europa: Con matchmaking",
+          "period": "2026-08-02T16:12:08Z",
+          "instanceId": "17108314714"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-02T06:51:53Z",
+          "instanceId": "17107507172"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-01T21:24:10Z",
+          "instanceId": "17106364615"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-01T21:17:03Z",
+          "instanceId": "17106318631"
         }
       ]
     },
@@ -326,71 +391,6 @@
           "name": "La culla del male: Personalizzata",
           "period": "2026-08-04T14:43:14Z",
           "instanceId": "17112822024"
-        }
-      ]
-    },
-    {
-      "displayName": "Ghost of Warlock#5159",
-      "membershipId": "4611686018513286564",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786114639000,
-      "lastActivityTimestamp": 1786023156000,
-      "lastActivityText": "La Fortezza Scarlatta: Con matchmaking il 06/08/2026 13:32",
-      "activities": [
-        {
-          "name": "La Fortezza Scarlatta: Con matchmaking",
-          "period": "2026-08-06T13:32:36Z",
-          "instanceId": "17117068790"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-03T15:06:41Z",
-          "instanceId": "17110662440"
-        },
-        {
-          "name": "Spedizione: Nessus: Con matchmaking",
-          "period": "2026-08-03T14:37:20Z",
-          "instanceId": "17110611630"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-08-03T09:54:44Z",
-          "instanceId": "17110259644"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-08-03T09:20:18Z",
-          "instanceId": "17110232403"
-        },
-        {
-          "name": "Spedizione: Europa: Con matchmaking",
-          "period": "2026-08-02T16:12:08Z",
-          "instanceId": "17108314714"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-02T06:51:53Z",
-          "instanceId": "17107507172"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-01T21:24:10Z",
-          "instanceId": "17106364615"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-01T21:17:03Z",
-          "instanceId": "17106318631"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-01T20:53:35Z",
-          "instanceId": "17106288246"
         }
       ]
     },
