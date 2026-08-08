@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T16:39:36.529Z",
+  "generatedAt": "2026-08-08T17:35:20.702Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786206165000,
-      "lastActivityTimestamp": 1786204879000,
-      "lastActivityText": "Periferia di Libernia, Marte: Contrabbando: Con matchmaking il 08/08/2026 16:01",
+      "lastPlayedTimestamp": 1786210495000,
+      "lastActivityTimestamp": 1786208770000,
+      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 08/08/2026 17:06",
       "activities": [
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-08T17:06:10Z",
+          "instanceId": "17121800923"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-08-08T16:50:12Z",
+          "instanceId": "17121769673"
+        },
         {
           "name": "Periferia di Libernia, Marte: Contrabbando: Con matchmaking",
           "period": "2026-08-08T16:01:19Z",
@@ -56,16 +66,136 @@
           "name": "L'arrivo: Leggenda",
           "period": "2026-08-06T16:58:41Z",
           "instanceId": "17117382015"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 522,
+      "lastPlayedTimestamp": 1786208576000,
+      "lastActivityTimestamp": 1786207238000,
+      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata il 08/08/2026 16:40",
+      "activities": [
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-08-08T16:40:38Z",
+          "instanceId": "17121770248"
         },
         {
-          "name": "La culla del male",
-          "period": "2026-08-04T17:24:26Z",
-          "instanceId": "17113043705"
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-08-08T11:53:57Z",
+          "instanceId": "17121307610"
         },
         {
-          "name": "La culla del male",
-          "period": "2026-08-04T16:51:01Z",
-          "instanceId": "17112954226"
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-08-08T11:28:14Z",
+          "instanceId": "17121272086"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-08-08T11:24:59Z",
+          "instanceId": "17121242802"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-08T11:13:30Z",
+          "instanceId": "17121234913"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-08T11:04:51Z",
+          "instanceId": "17121226670"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-08T10:50:55Z",
+          "instanceId": "17121210347"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-08T10:39:08Z",
+          "instanceId": "17121198583"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-07T20:29:32Z",
+          "instanceId": "17119839661"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-07T20:19:07Z",
+          "instanceId": "17119822299"
+        }
+      ]
+    },
+    {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/648e5e751cf7560c99bcadc9538487de.png",
+      "powerLevel": 429,
+      "lastPlayedTimestamp": 1786206332000,
+      "lastActivityTimestamp": 1786203750000,
+      "lastActivityText": "La caduta di un Re: Standard il 08/08/2026 15:42",
+      "activities": [
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-08T15:42:30Z",
+          "instanceId": "17121760299"
+        },
+        {
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-07-31T09:51:50Z",
+          "instanceId": "17102662834"
+        },
+        {
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-07-31T09:27:36Z",
+          "instanceId": "17102640665"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-07-26T16:53:33Z",
+          "instanceId": "17090703092"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-07-26T16:46:09Z",
+          "instanceId": "17090686654"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-07-25T15:53:45Z",
+          "instanceId": "17087236377"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-05T19:38:47Z",
+          "instanceId": "17017426667"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-06-29T18:49:16Z",
+          "instanceId": "16991926265"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-06-15T19:20:50Z",
+          "instanceId": "16912822539"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-06-15T19:14:53Z",
+          "instanceId": "16912805167"
         }
       ]
     },
@@ -135,80 +265,15 @@
       ]
     },
     {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "RICERCATO",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 468,
-      "lastPlayedTimestamp": 1786201187000,
-      "lastActivityTimestamp": 1786200429000,
-      "lastActivityText": "Prove di Osiride: Con matchmaking il 08/08/2026 14:47",
-      "activities": [
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-08T14:47:09Z",
-          "instanceId": "17121538543"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-08T14:41:24Z",
-          "instanceId": "17121527392"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-08T14:32:00Z",
-          "instanceId": "17121515026"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-08T14:23:25Z",
-          "instanceId": "17121501233"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-07T18:30:34Z",
-          "instanceId": "17119634322"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-07T18:22:17Z",
-          "instanceId": "17119620317"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-07T18:12:20Z",
-          "instanceId": "17119605261"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-07T18:03:56Z",
-          "instanceId": "17119590561"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-07T17:57:42Z",
-          "instanceId": "17119569416"
-        },
-        {
-          "name": "Periferia di Libernia, Marte: Contrabbando: Con matchmaking",
-          "period": "2026-08-05T16:33:50Z",
-          "instanceId": "17115216658"
-        }
-      ]
-    },
-    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786200417000,
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1786210484000,
       "lastActivityTimestamp": 1786192964000,
       "lastActivityText": "Profezia il 08/08/2026 12:42",
       "activities": [
@@ -261,71 +326,6 @@
           "name": "L'Oscura Sacerdotessa: Con matchmaking",
           "period": "2026-08-04T17:04:27Z",
           "instanceId": "17112996653"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 522,
-      "lastPlayedTimestamp": 1786206969000,
-      "lastActivityTimestamp": 1786190037000,
-      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata il 08/08/2026 11:53",
-      "activities": [
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-08-08T11:53:57Z",
-          "instanceId": "17121307610"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-08-08T11:28:14Z",
-          "instanceId": "17121272086"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-08-08T11:24:59Z",
-          "instanceId": "17121242802"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-08T11:13:30Z",
-          "instanceId": "17121234913"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-08T11:04:51Z",
-          "instanceId": "17121226670"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-08T10:50:55Z",
-          "instanceId": "17121210347"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-08T10:39:08Z",
-          "instanceId": "17121198583"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-07T20:29:32Z",
-          "instanceId": "17119839661"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-07T20:19:07Z",
-          "instanceId": "17119822299"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-07T20:12:36Z",
-          "instanceId": "17119809392"
         }
       ]
     },
@@ -456,6 +456,71 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-31T16:17:34Z",
           "instanceId": "17103193801"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Mietitrice",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 542,
+      "lastPlayedTimestamp": 1786210493000,
+      "lastActivityTimestamp": 1786124523000,
+      "lastActivityText": "Equilibrio: Standard il 07/08/2026 17:42",
+      "activities": [
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-07T17:42:03Z",
+          "instanceId": "17119553767"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-07T02:39:44Z",
+          "instanceId": "17118389056"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-07T02:21:04Z",
+          "instanceId": "17118354360"
+        },
+        {
+          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
+          "period": "2026-08-07T01:39:54Z",
+          "instanceId": "17118311960"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-06T19:41:02Z",
+          "instanceId": "17117640082"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-06T19:31:24Z",
+          "instanceId": "17117614598"
+        },
+        {
+          "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
+          "period": "2026-08-06T19:03:43Z",
+          "instanceId": "17117587485"
+        },
+        {
+          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
+          "period": "2026-08-06T18:51:31Z",
+          "instanceId": "17117544583"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-05T21:28:49Z",
+          "instanceId": "17115695224"
+        },
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-08-04T23:11:21Z",
+          "instanceId": "17113715987"
         }
       ]
     },
@@ -846,71 +911,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-07-07T13:10:09Z",
           "instanceId": "17024421969"
-        }
-      ]
-    },
-    {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/648e5e751cf7560c99bcadc9538487de.png",
-      "powerLevel": 429,
-      "lastPlayedTimestamp": 1786206332000,
-      "lastActivityTimestamp": 1785491510000,
-      "lastActivityText": "Fortezza: Con matchmaking il 31/07/2026 09:51",
-      "activities": [
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-07-31T09:51:50Z",
-          "instanceId": "17102662834"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-07-31T09:27:36Z",
-          "instanceId": "17102640665"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-26T16:53:33Z",
-          "instanceId": "17090703092"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-26T16:46:09Z",
-          "instanceId": "17090686654"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-07-25T15:53:45Z",
-          "instanceId": "17087236377"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-05T19:38:47Z",
-          "instanceId": "17017426667"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-06-29T18:49:16Z",
-          "instanceId": "16991926265"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-06-15T19:20:50Z",
-          "instanceId": "16912822539"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-06-15T19:14:53Z",
-          "instanceId": "16912805167"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-06-15T19:09:59Z",
-          "instanceId": "16912775675"
         }
       ]
     },
