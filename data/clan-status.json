@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-08T05:02:29.735Z",
+  "generatedAt": "2026-08-08T06:08:14.769Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Ghost of Warlock#5159",
+      "membershipId": "4611686018513286564",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786169272000,
+      "lastActivityTimestamp": 1786167869000,
+      "lastActivityText": "D.A.G.A. caduta: Con matchmaking il 08/08/2026 05:44",
+      "activities": [
+        {
+          "name": "D.A.G.A. caduta: Con matchmaking",
+          "period": "2026-08-08T05:44:29Z",
+          "instanceId": "17120843557"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-08-07T14:54:51Z",
+          "instanceId": "17119305412"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-08-06T13:32:36Z",
+          "instanceId": "17117068790"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-03T15:06:41Z",
+          "instanceId": "17110662440"
+        },
+        {
+          "name": "Spedizione: Nessus: Con matchmaking",
+          "period": "2026-08-03T14:37:20Z",
+          "instanceId": "17110611630"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-08-03T09:54:44Z",
+          "instanceId": "17110259644"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-08-03T09:20:18Z",
+          "instanceId": "17110232403"
+        },
+        {
+          "name": "Spedizione: Europa: Con matchmaking",
+          "period": "2026-08-02T16:12:08Z",
+          "instanceId": "17108314714"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-02T06:51:53Z",
+          "instanceId": "17107507172"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-01T21:24:10Z",
+          "instanceId": "17106364615"
+        }
+      ]
+    },
     {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
@@ -261,71 +326,6 @@
           "name": "Pallido Cuore",
           "period": "2026-08-04T13:49:17Z",
           "instanceId": "17112696552"
-        }
-      ]
-    },
-    {
-      "displayName": "Ghost of Warlock#5159",
-      "membershipId": "4611686018513286564",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786135250000,
-      "lastActivityTimestamp": 1786114491000,
-      "lastActivityText": "Trafficante d'armi: Con matchmaking il 07/08/2026 14:54",
-      "activities": [
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-08-07T14:54:51Z",
-          "instanceId": "17119305412"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Con matchmaking",
-          "period": "2026-08-06T13:32:36Z",
-          "instanceId": "17117068790"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-03T15:06:41Z",
-          "instanceId": "17110662440"
-        },
-        {
-          "name": "Spedizione: Nessus: Con matchmaking",
-          "period": "2026-08-03T14:37:20Z",
-          "instanceId": "17110611630"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-08-03T09:54:44Z",
-          "instanceId": "17110259644"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-08-03T09:20:18Z",
-          "instanceId": "17110232403"
-        },
-        {
-          "name": "Spedizione: Europa: Con matchmaking",
-          "period": "2026-08-02T16:12:08Z",
-          "instanceId": "17108314714"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-02T06:51:53Z",
-          "instanceId": "17107507172"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-01T21:24:10Z",
-          "instanceId": "17106364615"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-01T21:17:03Z",
-          "instanceId": "17106318631"
         }
       ]
     },
