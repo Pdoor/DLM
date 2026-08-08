@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T19:34:24.170Z",
+  "generatedAt": "2026-08-08T20:35:42.593Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,35 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2660c7e16c0824a9e2ab167cede1fcab.jpg",
       "powerLevel": 356,
-      "lastPlayedTimestamp": 1786217584000,
-      "lastActivityTimestamp": 1786215615000,
-      "lastActivityText": "Modalità del mondo: audace: Audace il 08/08/2026 19:00",
+      "lastPlayedTimestamp": 1786221310000,
+      "lastActivityTimestamp": 1786220813000,
+      "lastActivityText": "Zona Morta Europea il 08/08/2026 20:26",
       "activities": [
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-08T20:26:53Z",
+          "instanceId": "17122193532"
+        },
+        {
+          "name": "Sito di Scavo XII: Esperto",
+          "period": "2026-08-08T20:19:53Z",
+          "instanceId": "17122182054"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-08T20:13:05Z",
+          "instanceId": "17122167601"
+        },
+        {
+          "name": "L'arrivo: Normale",
+          "period": "2026-08-08T19:49:39Z",
+          "instanceId": "17122123293"
+        },
+        {
+          "name": "L'arrivo: Normale",
+          "period": "2026-08-08T19:16:09Z",
+          "instanceId": "17122104482"
+        },
         {
           "name": "Modalità del mondo: audace: Audace",
           "period": "2026-08-08T19:00:15Z",
@@ -41,31 +66,71 @@
           "name": "Profezia",
           "period": "2026-08-08T12:42:44Z",
           "instanceId": "17121530995"
+        }
+      ]
+    },
+    {
+      "displayName": "Ghost of Warlock#5159",
+      "membershipId": "4611686018513286564",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786220721000,
+      "lastActivityTimestamp": 1786218561000,
+      "lastActivityText": "Oblazione: Lignaggio il 08/08/2026 19:49",
+      "activities": [
+        {
+          "name": "Oblazione: Lignaggio",
+          "period": "2026-08-08T19:49:21Z",
+          "instanceId": "17122192827"
         },
         {
-          "name": "Misure disperate: Normale",
-          "period": "2026-08-08T11:59:35Z",
-          "instanceId": "17121317253"
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-08-08T19:19:09Z",
+          "instanceId": "17122078444"
         },
         {
-          "name": "Neomuna",
-          "period": "2026-08-08T11:58:46Z",
-          "instanceId": "17121279528"
+          "name": "D.A.G.A. caduta: Con matchmaking",
+          "period": "2026-08-08T05:56:14Z",
+          "instanceId": "17120863797"
         },
         {
-          "name": "Misure disperate: Normale",
-          "period": "2026-07-25T21:29:55Z",
-          "instanceId": "17088215049"
+          "name": "D.A.G.A. caduta: Con matchmaking",
+          "period": "2026-08-08T05:44:29Z",
+          "instanceId": "17120843557"
         },
         {
-          "name": "Neomuna",
-          "period": "2026-07-25T21:23:09Z",
-          "instanceId": "17088022370"
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-08-07T14:54:51Z",
+          "instanceId": "17119305412"
         },
         {
-          "name": "A testa bassa: Normale",
-          "period": "2026-07-25T21:15:59Z",
-          "instanceId": "17088003831"
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-08-06T13:32:36Z",
+          "instanceId": "17117068790"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-03T15:06:41Z",
+          "instanceId": "17110662440"
+        },
+        {
+          "name": "Spedizione: Nessus: Con matchmaking",
+          "period": "2026-08-03T14:37:20Z",
+          "instanceId": "17110611630"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-08-03T09:54:44Z",
+          "instanceId": "17110259644"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-08-03T09:20:18Z",
+          "instanceId": "17110232403"
         }
       ]
     },
@@ -73,12 +138,12 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 444,
-      "lastPlayedTimestamp": 1786217639000,
+      "lastPlayedTimestamp": 1786218029000,
       "lastActivityTimestamp": 1786215332000,
       "lastActivityText": "Partita veloce: maestro: Maestro il 08/08/2026 18:55",
       "activities": [
@@ -391,71 +456,6 @@
           "name": "Zona Morta Europea",
           "period": "2026-06-15T19:14:53Z",
           "instanceId": "16912805167"
-        }
-      ]
-    },
-    {
-      "displayName": "Ghost of Warlock#5159",
-      "membershipId": "4611686018513286564",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786217641000,
-      "lastActivityTimestamp": 1786168574000,
-      "lastActivityText": "D.A.G.A. caduta: Con matchmaking il 08/08/2026 05:56",
-      "activities": [
-        {
-          "name": "D.A.G.A. caduta: Con matchmaking",
-          "period": "2026-08-08T05:56:14Z",
-          "instanceId": "17120863797"
-        },
-        {
-          "name": "D.A.G.A. caduta: Con matchmaking",
-          "period": "2026-08-08T05:44:29Z",
-          "instanceId": "17120843557"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-08-07T14:54:51Z",
-          "instanceId": "17119305412"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Con matchmaking",
-          "period": "2026-08-06T13:32:36Z",
-          "instanceId": "17117068790"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-03T15:06:41Z",
-          "instanceId": "17110662440"
-        },
-        {
-          "name": "Spedizione: Nessus: Con matchmaking",
-          "period": "2026-08-03T14:37:20Z",
-          "instanceId": "17110611630"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-08-03T09:54:44Z",
-          "instanceId": "17110259644"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-08-03T09:20:18Z",
-          "instanceId": "17110232403"
-        },
-        {
-          "name": "Spedizione: Europa: Con matchmaking",
-          "period": "2026-08-02T16:12:08Z",
-          "instanceId": "17108314714"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-02T06:51:53Z",
-          "instanceId": "17107507172"
         }
       ]
     },
@@ -2023,12 +2023,12 @@
       "displayName": "worldwide504#3324",
       "membershipId": "4611686018554019174",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/648e5e751cf7560c99bcadc9538487de.png",
-      "powerLevel": 301,
-      "lastPlayedTimestamp": 1782672965000,
+      "powerLevel": 304,
+      "lastPlayedTimestamp": 1786221323000,
       "lastActivityTimestamp": 1782671936000,
       "lastActivityText": "Risveglio il 28/06/2026 18:38",
       "activities": [
