@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-08T15:35:03.393Z",
+  "generatedAt": "2026-08-08T16:39:36.529Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786206165000,
+      "lastActivityTimestamp": 1786204879000,
+      "lastActivityText": "Periferia di Libernia, Marte: Contrabbando: Con matchmaking il 08/08/2026 16:01",
+      "activities": [
+        {
+          "name": "Periferia di Libernia, Marte: Contrabbando: Con matchmaking",
+          "period": "2026-08-08T16:01:19Z",
+          "instanceId": "17121714237"
+        },
+        {
+          "name": "Il trono infranto",
+          "period": "2026-08-08T15:56:35Z",
+          "instanceId": "17121656387"
+        },
+        {
+          "name": "Sepolcro: Esperto",
+          "period": "2026-08-08T15:39:25Z",
+          "instanceId": "17121645995"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-08T15:18:03Z",
+          "instanceId": "17121618778"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
+          "period": "2026-08-08T14:57:29Z",
+          "instanceId": "17121575961"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-08-08T14:37:26Z",
+          "instanceId": "17121531083"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-06T17:47:08Z",
+          "instanceId": "17117443000"
+        },
+        {
+          "name": "L'arrivo: Leggenda",
+          "period": "2026-08-06T16:58:41Z",
+          "instanceId": "17117382015"
+        },
+        {
+          "name": "La culla del male",
+          "period": "2026-08-04T17:24:26Z",
+          "instanceId": "17113043705"
+        },
+        {
+          "name": "La culla del male",
+          "period": "2026-08-04T16:51:01Z",
+          "instanceId": "17112954226"
+        }
+      ]
+    },
     {
       "displayName": "KIT HAMWORTH#5503",
       "membershipId": "4611686018513251845",
@@ -66,71 +131,6 @@
           "name": "Neomuna",
           "period": "2026-07-25T20:49:03Z",
           "instanceId": "17087917888"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786203276000,
-      "lastActivityTimestamp": 1786201049000,
-      "lastActivityText": "Conquista modalità gran maestro: Eliostato: Personalizzata il 08/08/2026 14:57",
-      "activities": [
-        {
-          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
-          "period": "2026-08-08T14:57:29Z",
-          "instanceId": "17121575961"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-08-08T14:37:26Z",
-          "instanceId": "17121531083"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-06T17:47:08Z",
-          "instanceId": "17117443000"
-        },
-        {
-          "name": "L'arrivo: Leggenda",
-          "period": "2026-08-06T16:58:41Z",
-          "instanceId": "17117382015"
-        },
-        {
-          "name": "La culla del male",
-          "period": "2026-08-04T17:24:26Z",
-          "instanceId": "17113043705"
-        },
-        {
-          "name": "La culla del male",
-          "period": "2026-08-04T16:51:01Z",
-          "instanceId": "17112954226"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-04T16:30:00Z",
-          "instanceId": "17112924332"
-        },
-        {
-          "name": "Soglia dell'Oscurità",
-          "period": "2026-08-04T16:19:44Z",
-          "instanceId": "17112920229"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-04T16:17:20Z",
-          "instanceId": "17112907066"
-        },
-        {
-          "name": "Postumi",
-          "period": "2026-08-04T16:06:15Z",
-          "instanceId": "17112903605"
         }
       ]
     },
@@ -268,12 +268,12 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
       "powerLevel": 522,
-      "lastPlayedTimestamp": 1786191853000,
+      "lastPlayedTimestamp": 1786206969000,
       "lastActivityTimestamp": 1786190037000,
       "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata il 08/08/2026 11:53",
       "activities": [
@@ -338,7 +338,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786181643000,
+      "lastPlayedTimestamp": 1786206036000,
       "lastActivityTimestamp": 1786168574000,
       "lastActivityText": "D.A.G.A. caduta: Con matchmaking il 08/08/2026 05:56",
       "activities": [
@@ -857,8 +857,8 @@
       "className": "Stregoni",
       "title": "Gloriosa",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/648e5e751cf7560c99bcadc9538487de.png",
-      "powerLevel": 430,
-      "lastPlayedTimestamp": 1785492114000,
+      "powerLevel": 429,
+      "lastPlayedTimestamp": 1786206332000,
       "lastActivityTimestamp": 1785491510000,
       "lastActivityText": "Fortezza: Con matchmaking il 31/07/2026 09:51",
       "activities": [
