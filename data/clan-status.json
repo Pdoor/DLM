@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-08T18:44:28.932Z",
+  "generatedAt": "2026-08-08T19:34:24.170Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "KIT HAMWORTH#5503",
+      "membershipId": "4611686018513251845",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2660c7e16c0824a9e2ab167cede1fcab.jpg",
+      "powerLevel": 356,
+      "lastPlayedTimestamp": 1786217584000,
+      "lastActivityTimestamp": 1786215615000,
+      "lastActivityText": "Modalità del mondo: audace: Audace il 08/08/2026 19:00",
+      "activities": [
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-08-08T19:00:15Z",
+          "instanceId": "17122029540"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-08T18:54:21Z",
+          "instanceId": "17122001716"
+        },
+        {
+          "name": "ALVEARE LUCENTE",
+          "period": "2026-08-08T14:58:36Z",
+          "instanceId": "17121568035"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-08-08T14:53:09Z",
+          "instanceId": "17121547126"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-08-08T12:42:44Z",
+          "instanceId": "17121530995"
+        },
+        {
+          "name": "Misure disperate: Normale",
+          "period": "2026-08-08T11:59:35Z",
+          "instanceId": "17121317253"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-08-08T11:58:46Z",
+          "instanceId": "17121279528"
+        },
+        {
+          "name": "Misure disperate: Normale",
+          "period": "2026-07-25T21:29:55Z",
+          "instanceId": "17088215049"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-07-25T21:23:09Z",
+          "instanceId": "17088022370"
+        },
+        {
+          "name": "A testa bassa: Normale",
+          "period": "2026-07-25T21:15:59Z",
+          "instanceId": "17088003831"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -12,11 +77,21 @@
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 539,
-      "lastPlayedTimestamp": 1786214656000,
-      "lastActivityTimestamp": 1786214498000,
-      "lastActivityText": "Equilibrio: Standard il 08/08/2026 18:41",
+      "powerLevel": 444,
+      "lastPlayedTimestamp": 1786217639000,
+      "lastActivityTimestamp": 1786215332000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 08/08/2026 18:55",
       "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-08T18:55:32Z",
+          "instanceId": "17122022807"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-08T18:43:54Z",
+          "instanceId": "17121990400"
+        },
         {
           "name": "Equilibrio: Standard",
           "period": "2026-08-08T18:41:38Z",
@@ -56,16 +131,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-06T19:41:02Z",
           "instanceId": "17117640082"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-06T19:31:24Z",
-          "instanceId": "17117614598"
-        },
-        {
-          "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
-          "period": "2026-08-06T19:03:43Z",
-          "instanceId": "17117587485"
         }
       ]
     },
@@ -330,80 +395,15 @@
       ]
     },
     {
-      "displayName": "KIT HAMWORTH#5503",
-      "membershipId": "4611686018513251845",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2660c7e16c0824a9e2ab167cede1fcab.jpg",
-      "powerLevel": 356,
-      "lastPlayedTimestamp": 1786202207000,
-      "lastActivityTimestamp": 1786201116000,
-      "lastActivityText": "ALVEARE LUCENTE il 08/08/2026 14:58",
-      "activities": [
-        {
-          "name": "ALVEARE LUCENTE",
-          "period": "2026-08-08T14:58:36Z",
-          "instanceId": "17121568035"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-08-08T14:53:09Z",
-          "instanceId": "17121547126"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-08T12:42:44Z",
-          "instanceId": "17121530995"
-        },
-        {
-          "name": "Misure disperate: Normale",
-          "period": "2026-08-08T11:59:35Z",
-          "instanceId": "17121317253"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-08-08T11:58:46Z",
-          "instanceId": "17121279528"
-        },
-        {
-          "name": "Misure disperate: Normale",
-          "period": "2026-07-25T21:29:55Z",
-          "instanceId": "17088215049"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-25T21:23:09Z",
-          "instanceId": "17088022370"
-        },
-        {
-          "name": "A testa bassa: Normale",
-          "period": "2026-07-25T21:15:59Z",
-          "instanceId": "17088003831"
-        },
-        {
-          "name": "A testa bassa: Normale",
-          "period": "2026-07-25T20:53:00Z",
-          "instanceId": "17087982869"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-07-25T20:49:03Z",
-          "instanceId": "17087917888"
-        }
-      ]
-    },
-    {
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786206036000,
+      "lastPlayedTimestamp": 1786217641000,
       "lastActivityTimestamp": 1786168574000,
       "lastActivityText": "D.A.G.A. caduta: Con matchmaking il 08/08/2026 05:56",
       "activities": [
