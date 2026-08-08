@@ -1,87 +1,37 @@
 {
-  "generatedAt": "2026-08-08T14:36:46.069Z",
+  "generatedAt": "2026-08-08T15:35:03.393Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "RICERCATO",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 432,
-      "lastPlayedTimestamp": 1786199767000,
-      "lastActivityTimestamp": 1786199005000,
-      "lastActivityText": "Prove di Osiride: Con matchmaking il 08/08/2026 14:23",
-      "activities": [
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-08T14:23:25Z",
-          "instanceId": "17121501233"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-07T18:30:34Z",
-          "instanceId": "17119634322"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-07T18:22:17Z",
-          "instanceId": "17119620317"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-07T18:12:20Z",
-          "instanceId": "17119605261"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-07T18:03:56Z",
-          "instanceId": "17119590561"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-07T17:57:42Z",
-          "instanceId": "17119569416"
-        },
-        {
-          "name": "Periferia di Libernia, Marte: Contrabbando: Con matchmaking",
-          "period": "2026-08-05T16:33:50Z",
-          "instanceId": "17115216658"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-05T00:42:22Z",
-          "instanceId": "17113855566"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-05T00:30:16Z",
-          "instanceId": "17113822858"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-05T00:17:14Z",
-          "instanceId": "17113798499"
-        }
-      ]
-    },
-    {
       "displayName": "KIT HAMWORTH#5503",
       "membershipId": "4611686018513251845",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2660c7e16c0824a9e2ab167cede1fcab.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1786199716000,
-      "lastActivityTimestamp": 1786190375000,
-      "lastActivityText": "Misure disperate: Normale il 08/08/2026 11:59",
+      "powerLevel": 356,
+      "lastPlayedTimestamp": 1786202207000,
+      "lastActivityTimestamp": 1786201116000,
+      "lastActivityText": "ALVEARE LUCENTE il 08/08/2026 14:58",
       "activities": [
+        {
+          "name": "ALVEARE LUCENTE",
+          "period": "2026-08-08T14:58:36Z",
+          "instanceId": "17121568035"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-08-08T14:53:09Z",
+          "instanceId": "17121547126"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-08-08T12:42:44Z",
+          "instanceId": "17121530995"
+        },
         {
           "name": "Misure disperate: Normale",
           "period": "2026-08-08T11:59:35Z",
@@ -116,21 +66,136 @@
           "name": "Neomuna",
           "period": "2026-07-25T20:49:03Z",
           "instanceId": "17087917888"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786203276000,
+      "lastActivityTimestamp": 1786201049000,
+      "lastActivityText": "Conquista modalità gran maestro: Eliostato: Personalizzata il 08/08/2026 14:57",
+      "activities": [
+        {
+          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
+          "period": "2026-08-08T14:57:29Z",
+          "instanceId": "17121575961"
         },
         {
-          "name": "Corrente dell'iper-rete: Normale",
-          "period": "2026-07-25T20:29:14Z",
-          "instanceId": "17087907554"
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-08-08T14:37:26Z",
+          "instanceId": "17121531083"
         },
         {
-          "name": "Neomuna",
-          "period": "2026-07-25T20:25:44Z",
-          "instanceId": "17087849848"
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-06T17:47:08Z",
+          "instanceId": "17117443000"
         },
         {
-          "name": "Non resta molto tempo: Normale",
-          "period": "2026-07-25T19:46:14Z",
-          "instanceId": "17087840917"
+          "name": "L'arrivo: Leggenda",
+          "period": "2026-08-06T16:58:41Z",
+          "instanceId": "17117382015"
+        },
+        {
+          "name": "La culla del male",
+          "period": "2026-08-04T17:24:26Z",
+          "instanceId": "17113043705"
+        },
+        {
+          "name": "La culla del male",
+          "period": "2026-08-04T16:51:01Z",
+          "instanceId": "17112954226"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-04T16:30:00Z",
+          "instanceId": "17112924332"
+        },
+        {
+          "name": "Soglia dell'Oscurità",
+          "period": "2026-08-04T16:19:44Z",
+          "instanceId": "17112920229"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-04T16:17:20Z",
+          "instanceId": "17112907066"
+        },
+        {
+          "name": "Postumi",
+          "period": "2026-08-04T16:06:15Z",
+          "instanceId": "17112903605"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 468,
+      "lastPlayedTimestamp": 1786201187000,
+      "lastActivityTimestamp": 1786200429000,
+      "lastActivityText": "Prove di Osiride: Con matchmaking il 08/08/2026 14:47",
+      "activities": [
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-08T14:47:09Z",
+          "instanceId": "17121538543"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-08T14:41:24Z",
+          "instanceId": "17121527392"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-08T14:32:00Z",
+          "instanceId": "17121515026"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-08T14:23:25Z",
+          "instanceId": "17121501233"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-07T18:30:34Z",
+          "instanceId": "17119634322"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-07T18:22:17Z",
+          "instanceId": "17119620317"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-07T18:12:20Z",
+          "instanceId": "17119605261"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-07T18:03:56Z",
+          "instanceId": "17119590561"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-07T17:57:42Z",
+          "instanceId": "17119569416"
+        },
+        {
+          "name": "Periferia di Libernia, Marte: Contrabbando: Con matchmaking",
+          "period": "2026-08-05T16:33:50Z",
+          "instanceId": "17115216658"
         }
       ]
     },
@@ -138,15 +203,20 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786199754000,
-      "lastActivityTimestamp": 1786190375000,
-      "lastActivityText": "Misure disperate: Normale il 08/08/2026 11:59",
+      "lastPlayedTimestamp": 1786200417000,
+      "lastActivityTimestamp": 1786192964000,
+      "lastActivityText": "Profezia il 08/08/2026 12:42",
       "activities": [
+        {
+          "name": "Profezia",
+          "period": "2026-08-08T12:42:44Z",
+          "instanceId": "17121530995"
+        },
         {
           "name": "Misure disperate: Normale",
           "period": "2026-08-08T11:59:35Z",
@@ -191,11 +261,6 @@
           "name": "L'Oscura Sacerdotessa: Con matchmaking",
           "period": "2026-08-04T17:04:27Z",
           "instanceId": "17112996653"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-08-04T14:43:14Z",
-          "instanceId": "17112822024"
         }
       ]
     },
@@ -521,71 +586,6 @@
           "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
           "period": "2026-08-01T20:36:14Z",
           "instanceId": "17106250641"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786199798000,
-      "lastActivityTimestamp": 1786038428000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 06/08/2026 17:47",
-      "activities": [
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-06T17:47:08Z",
-          "instanceId": "17117443000"
-        },
-        {
-          "name": "L'arrivo: Leggenda",
-          "period": "2026-08-06T16:58:41Z",
-          "instanceId": "17117382015"
-        },
-        {
-          "name": "La culla del male",
-          "period": "2026-08-04T17:24:26Z",
-          "instanceId": "17113043705"
-        },
-        {
-          "name": "La culla del male",
-          "period": "2026-08-04T16:51:01Z",
-          "instanceId": "17112954226"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-04T16:30:00Z",
-          "instanceId": "17112924332"
-        },
-        {
-          "name": "Soglia dell'Oscurità",
-          "period": "2026-08-04T16:19:44Z",
-          "instanceId": "17112920229"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-04T16:17:20Z",
-          "instanceId": "17112907066"
-        },
-        {
-          "name": "Postumi",
-          "period": "2026-08-04T16:06:15Z",
-          "instanceId": "17112903605"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-04T16:00:49Z",
-          "instanceId": "17112887609"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-08-04T14:43:14Z",
-          "instanceId": "17112822024"
         }
       ]
     },
