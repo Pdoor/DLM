@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T06:08:14.769Z",
+  "generatedAt": "2026-08-08T07:30:39.134Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786169272000,
-      "lastActivityTimestamp": 1786167869000,
-      "lastActivityText": "D.A.G.A. caduta: Con matchmaking il 08/08/2026 05:44",
+      "lastPlayedTimestamp": 1786169701000,
+      "lastActivityTimestamp": 1786168574000,
+      "lastActivityText": "D.A.G.A. caduta: Con matchmaking il 08/08/2026 05:56",
       "activities": [
+        {
+          "name": "D.A.G.A. caduta: Con matchmaking",
+          "period": "2026-08-08T05:56:14Z",
+          "instanceId": "17120863797"
+        },
         {
           "name": "D.A.G.A. caduta: Con matchmaking",
           "period": "2026-08-08T05:44:29Z",
@@ -61,11 +66,6 @@
           "name": "Poligono di Tiro",
           "period": "2026-08-02T06:51:53Z",
           "instanceId": "17107507172"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-01T21:24:10Z",
-          "instanceId": "17106364615"
         }
       ]
     },
