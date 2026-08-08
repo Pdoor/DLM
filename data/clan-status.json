@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-08T10:03:51.301Z",
+  "generatedAt": "2026-08-08T11:02:14.081Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
+      "powerLevel": 510,
+      "lastPlayedTimestamp": 1786186849000,
+      "lastActivityTimestamp": 1786186255000,
+      "lastActivityText": "Azzardo: Con matchmaking il 08/08/2026 10:50",
+      "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-08T10:50:55Z",
+          "instanceId": "17121210347"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-08T10:39:08Z",
+          "instanceId": "17121198583"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-07T20:29:32Z",
+          "instanceId": "17119839661"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-07T20:19:07Z",
+          "instanceId": "17119822299"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-07T20:12:36Z",
+          "instanceId": "17119809392"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-07T18:37:05Z",
+          "instanceId": "17119645120"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-07T18:26:28Z",
+          "instanceId": "17119625868"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-07T18:17:33Z",
+          "instanceId": "17119610484"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-07T18:03:16Z",
+          "instanceId": "17119587857"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-07T17:51:56Z",
+          "instanceId": "17119569784"
+        }
+      ]
+    },
     {
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
@@ -66,71 +131,6 @@
           "name": "Poligono di Tiro",
           "period": "2026-08-02T06:51:53Z",
           "instanceId": "17107507172"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 517,
-      "lastPlayedTimestamp": 1786134936000,
-      "lastActivityTimestamp": 1786134572000,
-      "lastActivityText": "Azzardo: Con matchmaking il 07/08/2026 20:29",
-      "activities": [
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-07T20:29:32Z",
-          "instanceId": "17119839661"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-07T20:19:07Z",
-          "instanceId": "17119822299"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-07T20:12:36Z",
-          "instanceId": "17119809392"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-07T18:37:05Z",
-          "instanceId": "17119645120"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-07T18:26:28Z",
-          "instanceId": "17119625868"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-07T18:17:33Z",
-          "instanceId": "17119610484"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-07T18:03:16Z",
-          "instanceId": "17119587857"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-07T17:51:56Z",
-          "instanceId": "17119569784"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-07T13:43:34Z",
-          "instanceId": "17119186263"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-07T13:33:09Z",
-          "instanceId": "17119539295"
         }
       ]
     },
@@ -268,12 +268,12 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786120512000,
+      "lastPlayedTimestamp": 1786186865000,
       "lastActivityTimestamp": 1786120510000,
       "lastActivityText": "Campi di battaglia: Discesa: Con matchmaking il 07/08/2026 16:35",
       "activities": [
