@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-08T21:34:59.944Z",
+  "generatedAt": "2026-08-08T22:34:32.613Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 522,
+      "lastPlayedTimestamp": 1786225029000,
+      "lastActivityTimestamp": 1786224657000,
+      "lastActivityText": "Volta di Vetro: Maestro il 08/08/2026 21:30",
+      "activities": [
+        {
+          "name": "Volta di Vetro: Maestro",
+          "period": "2026-08-08T21:30:57Z",
+          "instanceId": "17122327402"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-08-08T16:40:38Z",
+          "instanceId": "17121770248"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-08-08T11:53:57Z",
+          "instanceId": "17121307610"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-08-08T11:28:14Z",
+          "instanceId": "17121272086"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-08-08T11:24:59Z",
+          "instanceId": "17121242802"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-08T11:13:30Z",
+          "instanceId": "17121234913"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-08T11:04:51Z",
+          "instanceId": "17121226670"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-08T10:50:55Z",
+          "instanceId": "17121210347"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-08T10:39:08Z",
+          "instanceId": "17121198583"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-07T20:29:32Z",
+          "instanceId": "17119839661"
+        }
+      ]
+    },
     {
       "displayName": "worldwide504#3324",
       "membershipId": "4611686018554019174",
@@ -391,71 +456,6 @@
           "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
           "period": "2026-08-08T14:57:29Z",
           "instanceId": "17121575961"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1786224876000,
-      "lastActivityTimestamp": 1786207238000,
-      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata il 08/08/2026 16:40",
-      "activities": [
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-08-08T16:40:38Z",
-          "instanceId": "17121770248"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-08-08T11:53:57Z",
-          "instanceId": "17121307610"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-08-08T11:28:14Z",
-          "instanceId": "17121272086"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-08-08T11:24:59Z",
-          "instanceId": "17121242802"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-08T11:13:30Z",
-          "instanceId": "17121234913"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-08T11:04:51Z",
-          "instanceId": "17121226670"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-08T10:50:55Z",
-          "instanceId": "17121210347"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-08T10:39:08Z",
-          "instanceId": "17121198583"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-07T20:29:32Z",
-          "instanceId": "17119839661"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-07T20:19:07Z",
-          "instanceId": "17119822299"
         }
       ]
     },
