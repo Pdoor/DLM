@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-09T08:50:16.722Z",
+  "generatedAt": "2026-08-09T09:44:59.632Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1786267839000,
+      "lastActivityTimestamp": 1786266579000,
+      "lastActivityText": "Profezia il 09/08/2026 09:09",
+      "activities": [
+        {
+          "name": "Profezia",
+          "period": "2026-08-09T09:09:39Z",
+          "instanceId": "17123578004"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-08-08T18:07:14Z",
+          "instanceId": "17121935072"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-08T17:43:15Z",
+          "instanceId": "17121877236"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-08-08T12:42:44Z",
+          "instanceId": "17121530995"
+        },
+        {
+          "name": "Misure disperate: Normale",
+          "period": "2026-08-08T11:59:35Z",
+          "instanceId": "17121317253"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-08-08T10:57:52Z",
+          "instanceId": "17121224941"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-08-07T16:35:10Z",
+          "instanceId": "17119438710"
+        },
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-08-07T15:04:48Z",
+          "instanceId": "17119351884"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-08-07T14:03:02Z",
+          "instanceId": "17119250302"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-08-07T11:31:11Z",
+          "instanceId": "17119036609"
+        }
+      ]
+    },
     {
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
@@ -391,71 +456,6 @@
           "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
           "period": "2026-08-07T01:39:54Z",
           "instanceId": "17118311960"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1786265360000,
-      "lastActivityTimestamp": 1786212434000,
-      "lastActivityText": "Campi di battaglia: Colosso: Con matchmaking il 08/08/2026 18:07",
-      "activities": [
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-08-08T18:07:14Z",
-          "instanceId": "17121935072"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-08T17:43:15Z",
-          "instanceId": "17121877236"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-08T12:42:44Z",
-          "instanceId": "17121530995"
-        },
-        {
-          "name": "Misure disperate: Normale",
-          "period": "2026-08-08T11:59:35Z",
-          "instanceId": "17121317253"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-08-08T10:57:52Z",
-          "instanceId": "17121224941"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-08-07T16:35:10Z",
-          "instanceId": "17119438710"
-        },
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-08-07T15:04:48Z",
-          "instanceId": "17119351884"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-08-07T14:03:02Z",
-          "instanceId": "17119250302"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-08-07T11:31:11Z",
-          "instanceId": "17119036609"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-08-04T17:58:45Z",
-          "instanceId": "17113094610"
         }
       ]
     },
