@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T20:38:14.125Z",
+  "generatedAt": "2026-08-09T21:37:36.662Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,26 @@
       "className": "Titani",
       "title": "Glorioso",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 410,
-      "lastPlayedTimestamp": 1786307676000,
-      "lastActivityTimestamp": 1786306902000,
-      "lastActivityText": "Riforgiare il passato il 09/08/2026 20:21",
+      "powerLevel": 359,
+      "lastPlayedTimestamp": 1786311309000,
+      "lastActivityTimestamp": 1786310065000,
+      "lastActivityText": "Cosmodromo il 09/08/2026 21:14",
       "activities": [
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-09T21:14:25Z",
+          "instanceId": "17124821518"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-09T21:00:41Z",
+          "instanceId": "17124800798"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-09T20:29:22Z",
+          "instanceId": "17124771443"
+        },
         {
           "name": "Riforgiare il passato",
           "period": "2026-08-09T20:21:42Z",
@@ -51,21 +66,6 @@
           "name": "Nessus, Centauro Instabile",
           "period": "2026-08-09T18:37:33Z",
           "instanceId": "17124483702"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-09T18:14:19Z",
-          "instanceId": "17124469646"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-04T22:23:51Z",
-          "instanceId": "17113573232"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-04T22:14:53Z",
-          "instanceId": "17113556991"
         }
       ]
     },
@@ -73,15 +73,20 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1786307880000,
-      "lastActivityTimestamp": 1786301713000,
-      "lastActivityText": "La caduta di un Re: Standard il 09/08/2026 18:55",
+      "powerLevel": 524,
+      "lastPlayedTimestamp": 1786307919000,
+      "lastActivityTimestamp": 1786305101000,
+      "lastActivityText": "Volta di Vetro: Maestro il 09/08/2026 19:51",
       "activities": [
+        {
+          "name": "Volta di Vetro: Maestro",
+          "period": "2026-08-09T19:51:41Z",
+          "instanceId": "17124733481"
+        },
         {
           "name": "La caduta di un Re: Standard",
           "period": "2026-08-09T18:55:13Z",
@@ -126,11 +131,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-08-08T11:04:51Z",
           "instanceId": "17121226670"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-08T10:50:55Z",
-          "instanceId": "17121210347"
         }
       ]
     },
