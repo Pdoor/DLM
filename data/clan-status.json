@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T13:55:23.064Z",
+  "generatedAt": "2026-08-09T14:39:41.861Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,20 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786283672000,
-      "lastActivityTimestamp": 1786281867000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 09/08/2026 13:24",
+      "lastPlayedTimestamp": 1786286374000,
+      "lastActivityTimestamp": 1786284108000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 09/08/2026 14:01",
       "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-09T14:01:48Z",
+          "instanceId": "17123970753"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-09T13:43:57Z",
+          "instanceId": "17123946265"
+        },
         {
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-08-09T13:24:27Z",
@@ -56,16 +66,6 @@
           "name": "Campi di battaglia: Appiglio: Con matchmaking",
           "period": "2026-08-08T16:50:12Z",
           "instanceId": "17121769673"
-        },
-        {
-          "name": "Periferia di Libernia, Marte: Contrabbando: Con matchmaking",
-          "period": "2026-08-08T16:01:19Z",
-          "instanceId": "17121714237"
-        },
-        {
-          "name": "Il trono infranto",
-          "period": "2026-08-08T15:56:35Z",
-          "instanceId": "17121656387"
         }
       ]
     },
@@ -73,12 +73,12 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1786271887000,
+      "lastPlayedTimestamp": 1786286321000,
       "lastActivityTimestamp": 1786270603000,
       "lastActivityText": "Spirale invertita: Con matchmaking il 09/08/2026 10:16",
       "activities": [
@@ -463,64 +463,64 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Mietitrice",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 444,
-      "lastPlayedTimestamp": 1786218029000,
-      "lastActivityTimestamp": 1786215332000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 08/08/2026 18:55",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 490,
+      "lastPlayedTimestamp": 1786286372000,
+      "lastActivityTimestamp": 1786200429000,
+      "lastActivityText": "Prove di Osiride: Con matchmaking il 08/08/2026 14:47",
       "activities": [
         {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-08T18:55:32Z",
-          "instanceId": "17122022807"
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-08T14:47:09Z",
+          "instanceId": "17121538543"
         },
         {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-08T18:43:54Z",
-          "instanceId": "17121990400"
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-08T14:41:24Z",
+          "instanceId": "17121527392"
         },
         {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-08T18:41:38Z",
-          "instanceId": "17121965275"
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-08T14:32:00Z",
+          "instanceId": "17121515026"
         },
         {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-08T17:54:41Z",
-          "instanceId": "17121886429"
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-08T14:23:25Z",
+          "instanceId": "17121501233"
         },
         {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-08-08T17:26:40Z",
-          "instanceId": "17121844212"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-07T18:30:34Z",
+          "instanceId": "17119634322"
         },
         {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-08T17:18:38Z",
-          "instanceId": "17122453403"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-07T18:22:17Z",
+          "instanceId": "17119620317"
         },
         {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-07T17:42:03Z",
-          "instanceId": "17119553767"
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-07T18:12:20Z",
+          "instanceId": "17119605261"
         },
         {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-07T02:39:44Z",
-          "instanceId": "17118389056"
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-07T18:03:56Z",
+          "instanceId": "17119590561"
         },
         {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-07T02:21:04Z",
-          "instanceId": "17118354360"
+          "name": "Pallido Cuore",
+          "period": "2026-08-07T17:57:42Z",
+          "instanceId": "17119569416"
         },
         {
-          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
-          "period": "2026-08-07T01:39:54Z",
-          "instanceId": "17118311960"
+          "name": "Periferia di Libernia, Marte: Contrabbando: Con matchmaking",
+          "period": "2026-08-05T16:33:50Z",
+          "instanceId": "17115216658"
         }
       ]
     },
