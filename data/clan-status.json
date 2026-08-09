@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T10:39:46.391Z",
+  "generatedAt": "2026-08-09T11:34:08.461Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 548,
       "lastPlayedTimestamp": 1786271887000,
-      "lastActivityTimestamp": 1786269696000,
-      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 09/08/2026 10:01",
+      "lastActivityTimestamp": 1786270603000,
+      "lastActivityText": "Spirale invertita: Con matchmaking il 09/08/2026 10:16",
       "activities": [
+        {
+          "name": "Spirale invertita: Con matchmaking",
+          "period": "2026-08-09T10:16:43Z",
+          "instanceId": "17123678338"
+        },
         {
           "name": "La Tana dei Diavoli: Con matchmaking",
           "period": "2026-08-09T10:01:36Z",
@@ -61,11 +66,6 @@
           "name": "Campi di battaglia: Discesa: Con matchmaking",
           "period": "2026-08-07T16:35:10Z",
           "instanceId": "17119438710"
-        },
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-08-07T15:04:48Z",
-          "instanceId": "17119351884"
         }
       ]
     },
