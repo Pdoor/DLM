@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T18:48:46.428Z",
+  "generatedAt": "2026-08-09T19:37:40.792Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,21 @@
       "className": "Titani",
       "title": "Glorioso",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 407,
-      "lastPlayedTimestamp": 1786301227000,
-      "lastActivityTimestamp": 1786300653000,
-      "lastActivityText": "Nessus, Centauro Instabile il 09/08/2026 18:37",
+      "powerLevel": 409,
+      "lastPlayedTimestamp": 1786304133000,
+      "lastActivityTimestamp": 1786301385000,
+      "lastActivityText": "Luna il 09/08/2026 18:49",
       "activities": [
+        {
+          "name": "Luna",
+          "period": "2026-08-09T18:49:45Z",
+          "instanceId": "17124576482"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-09T18:44:14Z",
+          "instanceId": "17124495268"
+        },
         {
           "name": "Nessus, Centauro Instabile",
           "period": "2026-08-09T18:37:33Z",
@@ -56,81 +66,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-08-04T21:44:56Z",
           "instanceId": "17113497269"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-04T21:38:22Z",
-          "instanceId": "17113484611"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-04T21:05:02Z",
-          "instanceId": "17113429731"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "RICERCATO",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 473,
-      "lastPlayedTimestamp": 1786301250000,
-      "lastActivityTimestamp": 1786300523000,
-      "lastActivityText": "Partita veloce: Normale il 09/08/2026 18:35",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-09T18:35:23Z",
-          "instanceId": "17124487365"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-09T18:13:50Z",
-          "instanceId": "17124424206"
-        },
-        {
-          "name": "Attracco Aereo IV: Maestro",
-          "period": "2026-08-09T18:10:40Z",
-          "instanceId": "17124422663"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-09T18:10:05Z",
-          "instanceId": "17124416178"
-        },
-        {
-          "name": "Attracco Aereo IV: Maestro",
-          "period": "2026-08-09T18:06:47Z",
-          "instanceId": "17124415110"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-09T18:06:04Z",
-          "instanceId": "17124409066"
-        },
-        {
-          "name": "Attracco Aereo IV: Maestro",
-          "period": "2026-08-09T18:03:06Z",
-          "instanceId": "17124407539"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-09T18:01:50Z",
-          "instanceId": "17124401326"
-        },
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-08-09T14:26:15Z",
-          "instanceId": "17124060011"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-08T14:47:09Z",
-          "instanceId": "17121538543"
         }
       ]
     },
@@ -196,6 +131,71 @@
           "name": "La Tana dei Diavoli: Con matchmaking",
           "period": "2026-08-08T17:43:15Z",
           "instanceId": "17121877236"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Mietitrice",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786301859000,
+      "lastActivityTimestamp": 1786297474000,
+      "lastActivityText": "Poligono di Tiro il 09/08/2026 17:44",
+      "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-09T17:44:34Z",
+          "instanceId": "17124375829"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-08T18:55:32Z",
+          "instanceId": "17122022807"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-08T18:43:54Z",
+          "instanceId": "17121990400"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-08T18:41:38Z",
+          "instanceId": "17121965275"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-08T17:54:41Z",
+          "instanceId": "17121886429"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-08-08T17:26:40Z",
+          "instanceId": "17121844212"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-08T17:18:38Z",
+          "instanceId": "17122453403"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-07T17:42:03Z",
+          "instanceId": "17119553767"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-07T02:39:44Z",
+          "instanceId": "17118389056"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-07T02:21:04Z",
+          "instanceId": "17118354360"
         }
       ]
     },
@@ -272,8 +272,8 @@
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 517,
-      "lastPlayedTimestamp": 1786301267000,
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1786304152000,
       "lastActivityTimestamp": 1786293325000,
       "lastActivityText": "Volta di Vetro: Maestro il 09/08/2026 16:35",
       "activities": [
