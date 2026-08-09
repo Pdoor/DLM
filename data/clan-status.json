@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T15:36:52.399Z",
+  "generatedAt": "2026-08-09T16:41:49.282Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,26 @@
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 547,
-      "lastPlayedTimestamp": 1786289491000,
-      "lastActivityTimestamp": 1786287813000,
-      "lastActivityText": "Terminale Intuitivo il 09/08/2026 15:03",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786293673000,
+      "lastActivityTimestamp": 1786292022000,
+      "lastActivityText": "Conquista modalità gran maestro: Eliostato: Personalizzata il 09/08/2026 16:13",
       "activities": [
+        {
+          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
+          "period": "2026-08-09T16:13:42Z",
+          "instanceId": "17124229393"
+        },
+        {
+          "name": "Il Ponte di Vetro: Personalizzata",
+          "period": "2026-08-09T15:57:59Z",
+          "instanceId": "17124187376"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Personalizzata",
+          "period": "2026-08-09T15:40:48Z",
+          "instanceId": "17124155628"
+        },
         {
           "name": "Terminale Intuitivo",
           "period": "2026-08-09T15:03:33Z",
@@ -51,21 +66,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-08-09T13:05:42Z",
           "instanceId": "17123874653"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-08T17:58:25Z",
-          "instanceId": "17121915952"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Personalizzata",
-          "period": "2026-08-08T17:54:14Z",
-          "instanceId": "17121873683"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-08T17:33:02Z",
-          "instanceId": "17121866807"
         }
       ]
     },
@@ -73,12 +73,12 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1786286491000,
+      "lastPlayedTimestamp": 1786293663000,
       "lastActivityTimestamp": 1786285643000,
       "lastActivityText": "Profezia il 09/08/2026 14:27",
       "activities": [
@@ -138,7 +138,7 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
@@ -333,12 +333,12 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 522,
-      "lastPlayedTimestamp": 1786225029000,
+      "powerLevel": 544,
+      "lastPlayedTimestamp": 1786293655000,
       "lastActivityTimestamp": 1786224657000,
       "lastActivityText": "Volta di Vetro: Maestro il 08/08/2026 21:30",
       "activities": [
@@ -1118,7 +1118,7 @@
       "title": "Pasticcera stellare",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1785082246000,
+      "lastPlayedTimestamp": 1786290116000,
       "lastActivityTimestamp": 1785070626000,
       "lastActivityText": "Zona Morta Europea il 26/07/2026 12:57",
       "activities": [
