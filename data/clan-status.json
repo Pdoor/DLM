@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T21:37:36.662Z",
+  "generatedAt": "2026-08-09T22:36:12.422Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,21 @@
       "className": "Titani",
       "title": "Glorioso",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 359,
-      "lastPlayedTimestamp": 1786311309000,
-      "lastActivityTimestamp": 1786310065000,
-      "lastActivityText": "Cosmodromo il 09/08/2026 21:14",
+      "powerLevel": 407,
+      "lastPlayedTimestamp": 1786314941000,
+      "lastActivityTimestamp": 1786313021000,
+      "lastActivityText": "Pallido Cuore il 09/08/2026 22:03",
       "activities": [
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-09T22:03:41Z",
+          "instanceId": "17124936702"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-08-09T21:24:25Z",
+          "instanceId": "17124901045"
+        },
         {
           "name": "Cosmodromo",
           "period": "2026-08-09T21:14:25Z",
@@ -56,16 +66,6 @@
           "name": "Luna",
           "period": "2026-08-09T18:49:45Z",
           "instanceId": "17124576482"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-09T18:44:14Z",
-          "instanceId": "17124495268"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-09T18:37:33Z",
-          "instanceId": "17124483702"
         }
       ]
     },
