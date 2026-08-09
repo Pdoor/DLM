@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T22:36:12.422Z",
+  "generatedAt": "2026-08-09T23:36:07.719Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -10,13 +10,23 @@
       "bungieNetMembershipId": "",
       "isOnline": true,
       "className": "Titani",
-      "title": "Glorioso",
+      "title": "Immortale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 407,
-      "lastPlayedTimestamp": 1786314941000,
-      "lastActivityTimestamp": 1786313021000,
-      "lastActivityText": "Pallido Cuore il 09/08/2026 22:03",
+      "powerLevel": 411,
+      "lastPlayedTimestamp": 1786318536000,
+      "lastActivityTimestamp": 1786315347000,
+      "lastActivityText": "Il Pozzo Cieco il 09/08/2026 22:42",
       "activities": [
+        {
+          "name": "Il Pozzo Cieco",
+          "period": "2026-08-09T22:42:27Z",
+          "instanceId": "17125004673"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-09T22:21:47Z",
+          "instanceId": "17124975819"
+        },
         {
           "name": "Pallido Cuore",
           "period": "2026-08-09T22:03:41Z",
@@ -56,16 +66,6 @@
           "name": "La Città Sognante",
           "period": "2026-08-09T19:51:08Z",
           "instanceId": "17124686931"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-09T19:28:22Z",
-          "instanceId": "17124623371"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-09T18:49:45Z",
-          "instanceId": "17124576482"
         }
       ]
     },
