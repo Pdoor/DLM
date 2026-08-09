@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-09T13:00:36.900Z",
+  "generatedAt": "2026-08-09T13:55:23.064Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786283672000,
+      "lastActivityTimestamp": 1786281867000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 09/08/2026 13:24",
+      "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-09T13:24:27Z",
+          "instanceId": "17123916463"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-09T13:18:45Z",
+          "instanceId": "17123898565"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-09T13:05:42Z",
+          "instanceId": "17123874653"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-08T17:58:25Z",
+          "instanceId": "17121915952"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Personalizzata",
+          "period": "2026-08-08T17:54:14Z",
+          "instanceId": "17121873683"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-08T17:33:02Z",
+          "instanceId": "17121866807"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-08T17:06:10Z",
+          "instanceId": "17121800923"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-08-08T16:50:12Z",
+          "instanceId": "17121769673"
+        },
+        {
+          "name": "Periferia di Libernia, Marte: Contrabbando: Con matchmaking",
+          "period": "2026-08-08T16:01:19Z",
+          "instanceId": "17121714237"
+        },
+        {
+          "name": "Il trono infranto",
+          "period": "2026-08-08T15:56:35Z",
+          "instanceId": "17121656387"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -143,7 +208,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786260739000,
+      "lastPlayedTimestamp": 1786283072000,
       "lastActivityTimestamp": 1786259858000,
       "lastActivityText": "Campi di battaglia: Colosso: Con matchmaking il 09/08/2026 07:17",
       "activities": [
@@ -456,71 +521,6 @@
           "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
           "period": "2026-08-07T01:39:54Z",
           "instanceId": "17118311960"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786280276000,
-      "lastActivityTimestamp": 1786211905000,
-      "lastActivityText": "Partita veloce: Normale il 08/08/2026 17:58",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-08T17:58:25Z",
-          "instanceId": "17121915952"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Personalizzata",
-          "period": "2026-08-08T17:54:14Z",
-          "instanceId": "17121873683"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-08T17:33:02Z",
-          "instanceId": "17121866807"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-08T17:06:10Z",
-          "instanceId": "17121800923"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-08-08T16:50:12Z",
-          "instanceId": "17121769673"
-        },
-        {
-          "name": "Periferia di Libernia, Marte: Contrabbando: Con matchmaking",
-          "period": "2026-08-08T16:01:19Z",
-          "instanceId": "17121714237"
-        },
-        {
-          "name": "Il trono infranto",
-          "period": "2026-08-08T15:56:35Z",
-          "instanceId": "17121656387"
-        },
-        {
-          "name": "Sepolcro: Esperto",
-          "period": "2026-08-08T15:39:25Z",
-          "instanceId": "17121645995"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-08T15:18:03Z",
-          "instanceId": "17121618778"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
-          "period": "2026-08-08T14:57:29Z",
-          "instanceId": "17121575961"
         }
       ]
     },
