@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T09:44:59.632Z",
+  "generatedAt": "2026-08-09T10:39:46.391Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,20 @@
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1786267839000,
-      "lastActivityTimestamp": 1786266579000,
-      "lastActivityText": "Profezia il 09/08/2026 09:09",
+      "lastPlayedTimestamp": 1786271887000,
+      "lastActivityTimestamp": 1786269696000,
+      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 09/08/2026 10:01",
       "activities": [
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-09T10:01:36Z",
+          "instanceId": "17123632318"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-09T09:54:59Z",
+          "instanceId": "17123616375"
+        },
         {
           "name": "Profezia",
           "period": "2026-08-09T09:09:39Z",
@@ -56,16 +66,6 @@
           "name": "Centro Città: Con matchmaking",
           "period": "2026-08-07T15:04:48Z",
           "instanceId": "17119351884"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-08-07T14:03:02Z",
-          "instanceId": "17119250302"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-08-07T11:31:11Z",
-          "instanceId": "17119036609"
         }
       ]
     },
