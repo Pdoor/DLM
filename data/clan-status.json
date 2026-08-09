@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T14:39:41.861Z",
+  "generatedAt": "2026-08-09T15:36:52.399Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,21 @@
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786286374000,
-      "lastActivityTimestamp": 1786284108000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 09/08/2026 14:01",
+      "powerLevel": 547,
+      "lastPlayedTimestamp": 1786289491000,
+      "lastActivityTimestamp": 1786287813000,
+      "lastActivityText": "Terminale Intuitivo il 09/08/2026 15:03",
       "activities": [
+        {
+          "name": "Terminale Intuitivo",
+          "period": "2026-08-09T15:03:33Z",
+          "instanceId": "17124087431"
+        },
+        {
+          "name": "Terreni di Prova: Personalizzata",
+          "period": "2026-08-09T14:39:32Z",
+          "instanceId": "17124053681"
+        },
         {
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-08-09T14:01:48Z",
@@ -56,16 +66,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-08-08T17:33:02Z",
           "instanceId": "17121866807"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-08T17:06:10Z",
-          "instanceId": "17121800923"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-08-08T16:50:12Z",
-          "instanceId": "17121769673"
         }
       ]
     },
@@ -73,15 +73,20 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1786286321000,
-      "lastActivityTimestamp": 1786270603000,
-      "lastActivityText": "Spirale invertita: Con matchmaking il 09/08/2026 10:16",
+      "lastPlayedTimestamp": 1786286491000,
+      "lastActivityTimestamp": 1786285643000,
+      "lastActivityText": "Profezia il 09/08/2026 14:27",
       "activities": [
+        {
+          "name": "Profezia",
+          "period": "2026-08-09T14:27:23Z",
+          "instanceId": "17124015114"
+        },
         {
           "name": "Spirale invertita: Con matchmaking",
           "period": "2026-08-09T10:16:43Z",
@@ -126,11 +131,71 @@
           "name": "Campi di battaglia: Appiglio: Con matchmaking",
           "period": "2026-08-08T10:57:52Z",
           "instanceId": "17121224941"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 488,
+      "lastPlayedTimestamp": 1786289080000,
+      "lastActivityTimestamp": 1786285575000,
+      "lastActivityText": "Centro Città: Con matchmaking il 09/08/2026 14:26",
+      "activities": [
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-08-09T14:26:15Z",
+          "instanceId": "17124060011"
         },
         {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-08-07T16:35:10Z",
-          "instanceId": "17119438710"
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-08T14:47:09Z",
+          "instanceId": "17121538543"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-08T14:41:24Z",
+          "instanceId": "17121527392"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-08T14:32:00Z",
+          "instanceId": "17121515026"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-08T14:23:25Z",
+          "instanceId": "17121501233"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-07T18:30:34Z",
+          "instanceId": "17119634322"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-07T18:22:17Z",
+          "instanceId": "17119620317"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-07T18:12:20Z",
+          "instanceId": "17119605261"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-07T18:03:56Z",
+          "instanceId": "17119590561"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-07T17:57:42Z",
+          "instanceId": "17119569416"
         }
       ]
     },
@@ -456,71 +521,6 @@
           "name": "Europa",
           "period": "2026-08-08T18:54:21Z",
           "instanceId": "17122001716"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "RICERCATO",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 490,
-      "lastPlayedTimestamp": 1786286372000,
-      "lastActivityTimestamp": 1786200429000,
-      "lastActivityText": "Prove di Osiride: Con matchmaking il 08/08/2026 14:47",
-      "activities": [
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-08T14:47:09Z",
-          "instanceId": "17121538543"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-08T14:41:24Z",
-          "instanceId": "17121527392"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-08T14:32:00Z",
-          "instanceId": "17121515026"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-08T14:23:25Z",
-          "instanceId": "17121501233"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-07T18:30:34Z",
-          "instanceId": "17119634322"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-07T18:22:17Z",
-          "instanceId": "17119620317"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-07T18:12:20Z",
-          "instanceId": "17119605261"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-07T18:03:56Z",
-          "instanceId": "17119590561"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-07T17:57:42Z",
-          "instanceId": "17119569416"
-        },
-        {
-          "name": "Periferia di Libernia, Marte: Contrabbando: Con matchmaking",
-          "period": "2026-08-05T16:33:50Z",
-          "instanceId": "17115216658"
         }
       ]
     },
