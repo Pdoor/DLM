@@ -1,22 +1,222 @@
 {
-  "generatedAt": "2026-08-10T17:27:34.745Z",
+  "generatedAt": "2026-08-10T18:26:06.302Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "adgarolp#8945",
+      "membershipId": "4611686018479100387",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Immortale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1786386333000,
+      "lastActivityTimestamp": 1786385759000,
+      "lastActivityText": "Fossa dell'Eresia: Standard il 10/08/2026 18:15",
+      "activities": [
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-08-10T18:15:59Z",
+          "instanceId": "17126570199"
+        },
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-08-10T18:06:05Z",
+          "instanceId": "17126560449"
+        },
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-08-10T17:10:07Z",
+          "instanceId": "17126515106"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-08-10T16:13:27Z",
+          "instanceId": "17126444929"
+        },
+        {
+          "name": "Sfide dell'Eternità: Standard",
+          "period": "2026-08-10T00:00:51Z",
+          "instanceId": "17125153335"
+        },
+        {
+          "name": "Sfide dell'Eternità: Standard",
+          "period": "2026-08-09T23:47:09Z",
+          "instanceId": "17125123493"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-08-09T23:30:05Z",
+          "instanceId": "17125076431"
+        },
+        {
+          "name": "Il Pozzo Cieco",
+          "period": "2026-08-09T22:42:27Z",
+          "instanceId": "17125004673"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-09T22:21:47Z",
+          "instanceId": "17124975819"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-09T22:03:41Z",
+          "instanceId": "17124936702"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786386353000,
+      "lastActivityTimestamp": 1786385397000,
+      "lastActivityText": "Europa il 10/08/2026 18:09",
+      "activities": [
+        {
+          "name": "Europa",
+          "period": "2026-08-10T18:09:57Z",
+          "instanceId": "17126560216"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-08-10T17:56:30Z",
+          "instanceId": "17126552578"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-08-10T13:28:30Z",
+          "instanceId": "17126227085"
+        },
+        {
+          "name": "Pinnacolo di Savathûn: Personalizzata",
+          "period": "2026-08-10T13:06:25Z",
+          "instanceId": "17126152781"
+        },
+        {
+          "name": "Pinnacolo di Savathûn: Personalizzata",
+          "period": "2026-08-10T12:55:40Z",
+          "instanceId": "17126126376"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-08-09T17:21:20Z",
+          "instanceId": "17124407083"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
+          "period": "2026-08-09T16:37:16Z",
+          "instanceId": "17124314492"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
+          "period": "2026-08-09T16:13:42Z",
+          "instanceId": "17124229393"
+        },
+        {
+          "name": "Il Ponte di Vetro: Personalizzata",
+          "period": "2026-08-09T15:57:59Z",
+          "instanceId": "17124187376"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Personalizzata",
+          "period": "2026-08-09T15:40:48Z",
+          "instanceId": "17124155628"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1786386325000,
+      "lastActivityTimestamp": 1786385397000,
+      "lastActivityText": "Europa il 10/08/2026 18:09",
+      "activities": [
+        {
+          "name": "Europa",
+          "period": "2026-08-10T18:09:57Z",
+          "instanceId": "17126560216"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-08-10T17:56:30Z",
+          "instanceId": "17126552578"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-10T17:47:58Z",
+          "instanceId": "17126530325"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-08-10T17:33:38Z",
+          "instanceId": "17126514187"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-10T17:00:44Z",
+          "instanceId": "17126494809"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-08-10T16:35:01Z",
+          "instanceId": "17126433016"
+        },
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-08-10T14:26:21Z",
+          "instanceId": "17126273759"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-08-10T13:28:30Z",
+          "instanceId": "17126227085"
+        },
+        {
+          "name": "Pinnacolo di Savathûn: Personalizzata",
+          "period": "2026-08-10T13:06:25Z",
+          "instanceId": "17126152781"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-08-10T11:22:45Z",
+          "instanceId": "17126030597"
+        }
+      ]
+    },
+    {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 539,
-      "lastPlayedTimestamp": 1786382776000,
-      "lastActivityTimestamp": 1786379710000,
-      "lastActivityText": "Osservatorio Celeste: Personalizzata il 10/08/2026 16:35",
+      "powerLevel": 541,
+      "lastPlayedTimestamp": 1786383465000,
+      "lastActivityTimestamp": 1786382419000,
+      "lastActivityText": "Miniere di Sale: Personalizzata il 10/08/2026 17:20",
       "activities": [
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-08-10T17:20:19Z",
+          "instanceId": "17126492640"
+        },
         {
           "name": "Osservatorio Celeste: Personalizzata",
           "period": "2026-08-10T16:35:10Z",
@@ -61,141 +261,6 @@
           "name": "Conservazione",
           "period": "2026-08-04T16:25:50Z",
           "instanceId": "17112992251"
-        },
-        {
-          "name": "Miniere di Sale: Personalizzata",
-          "period": "2026-08-04T16:10:32Z",
-          "instanceId": "17112911538"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1786382784000,
-      "lastActivityTimestamp": 1786379701000,
-      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 10/08/2026 16:35",
-      "activities": [
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-08-10T16:35:01Z",
-          "instanceId": "17126433016"
-        },
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-08-10T14:26:21Z",
-          "instanceId": "17126273759"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-10T13:28:30Z",
-          "instanceId": "17126227085"
-        },
-        {
-          "name": "Pinnacolo di Savathûn: Personalizzata",
-          "period": "2026-08-10T13:06:25Z",
-          "instanceId": "17126152781"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-10T11:22:45Z",
-          "instanceId": "17126030597"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-10T11:18:49Z",
-          "instanceId": "17126019264"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-10T11:10:42Z",
-          "instanceId": "17126015699"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-10T10:44:09Z",
-          "instanceId": "17126010649"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-10T09:50:29Z",
-          "instanceId": "17125967281"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-07T10:58:46Z",
-          "instanceId": "17119002108"
-        }
-      ]
-    },
-    {
-      "displayName": "adgarolp#8945",
-      "membershipId": "4611686018479100387",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Immortale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1786382788000,
-      "lastActivityTimestamp": 1786378407000,
-      "lastActivityText": "Luna il 10/08/2026 16:13",
-      "activities": [
-        {
-          "name": "Luna",
-          "period": "2026-08-10T16:13:27Z",
-          "instanceId": "17126444929"
-        },
-        {
-          "name": "Sfide dell'Eternità: Standard",
-          "period": "2026-08-10T00:00:51Z",
-          "instanceId": "17125153335"
-        },
-        {
-          "name": "Sfide dell'Eternità: Standard",
-          "period": "2026-08-09T23:47:09Z",
-          "instanceId": "17125123493"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-08-09T23:30:05Z",
-          "instanceId": "17125076431"
-        },
-        {
-          "name": "Il Pozzo Cieco",
-          "period": "2026-08-09T22:42:27Z",
-          "instanceId": "17125004673"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-09T22:21:47Z",
-          "instanceId": "17124975819"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-09T22:03:41Z",
-          "instanceId": "17124936702"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-09T21:24:25Z",
-          "instanceId": "17124901045"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-09T21:14:25Z",
-          "instanceId": "17124821518"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-09T21:00:41Z",
-          "instanceId": "17124800798"
         }
       ]
     },
@@ -326,71 +391,6 @@
           "name": "La fine di Crota: Standard",
           "period": "2026-07-25T15:53:45Z",
           "instanceId": "17087236377"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786377286000,
-      "lastActivityTimestamp": 1786368510000,
-      "lastActivityText": "Profezia il 10/08/2026 13:28",
-      "activities": [
-        {
-          "name": "Profezia",
-          "period": "2026-08-10T13:28:30Z",
-          "instanceId": "17126227085"
-        },
-        {
-          "name": "Pinnacolo di Savathûn: Personalizzata",
-          "period": "2026-08-10T13:06:25Z",
-          "instanceId": "17126152781"
-        },
-        {
-          "name": "Pinnacolo di Savathûn: Personalizzata",
-          "period": "2026-08-10T12:55:40Z",
-          "instanceId": "17126126376"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-09T17:21:20Z",
-          "instanceId": "17124407083"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
-          "period": "2026-08-09T16:37:16Z",
-          "instanceId": "17124314492"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
-          "period": "2026-08-09T16:13:42Z",
-          "instanceId": "17124229393"
-        },
-        {
-          "name": "Il Ponte di Vetro: Personalizzata",
-          "period": "2026-08-09T15:57:59Z",
-          "instanceId": "17124187376"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Personalizzata",
-          "period": "2026-08-09T15:40:48Z",
-          "instanceId": "17124155628"
-        },
-        {
-          "name": "Terminale Intuitivo",
-          "period": "2026-08-09T15:03:33Z",
-          "instanceId": "17124087431"
-        },
-        {
-          "name": "Terreni di Prova: Personalizzata",
-          "period": "2026-08-09T14:39:32Z",
-          "instanceId": "17124053681"
         }
       ]
     },
