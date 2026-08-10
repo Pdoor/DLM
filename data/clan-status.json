@@ -1,9 +1,139 @@
 {
-  "generatedAt": "2026-08-10T21:47:37.997Z",
+  "generatedAt": "2026-08-10T22:42:50.978Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6ba69610e621b042b70caa39105b937b.jpg",
+      "powerLevel": 365,
+      "lastPlayedTimestamp": 1786401691000,
+      "lastActivityTimestamp": 1786398964000,
+      "lastActivityText": "Requiem: Leggendaria il 10/08/2026 21:56",
+      "activities": [
+        {
+          "name": "Requiem: Leggendaria",
+          "period": "2026-08-10T21:56:04Z",
+          "instanceId": "17126986527"
+        },
+        {
+          "name": "Esegesi: Leggendaria",
+          "period": "2026-08-10T21:29:55Z",
+          "instanceId": "17126922756"
+        },
+        {
+          "name": "Tentazione: Leggendaria",
+          "period": "2026-08-10T21:05:34Z",
+          "instanceId": "17126878579"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-07-26T01:14:25Z",
+          "instanceId": "17088747802"
+        },
+        {
+          "name": "Vegliante del niente: Personalizzata",
+          "period": "2026-07-26T00:27:30Z",
+          "instanceId": "17088539238"
+        },
+        {
+          "name": "Trasmigrazione: Leggendaria",
+          "period": "2026-07-25T23:40:05Z",
+          "instanceId": "17088447851"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-07-25T22:47:14Z",
+          "instanceId": "17088245944"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-07-25T22:40:24Z",
+          "instanceId": "17088228713"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-07-25T22:31:48Z",
+          "instanceId": "17088209185"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-07-25T22:24:40Z",
+          "instanceId": "17088187944"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 524,
+      "lastPlayedTimestamp": 1786401757000,
+      "lastActivityTimestamp": 1786398964000,
+      "lastActivityText": "Requiem: Leggendaria il 10/08/2026 21:56",
+      "activities": [
+        {
+          "name": "Requiem: Leggendaria",
+          "period": "2026-08-10T21:56:04Z",
+          "instanceId": "17126986527"
+        },
+        {
+          "name": "Esegesi: Leggendaria",
+          "period": "2026-08-10T21:29:55Z",
+          "instanceId": "17126922756"
+        },
+        {
+          "name": "Tentazione: Leggendaria",
+          "period": "2026-08-10T21:05:34Z",
+          "instanceId": "17126878579"
+        },
+        {
+          "name": "Volta di Vetro: Maestro",
+          "period": "2026-08-09T19:51:41Z",
+          "instanceId": "17124733481"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-09T18:55:13Z",
+          "instanceId": "17124610005"
+        },
+        {
+          "name": "Volta di Vetro: Maestro",
+          "period": "2026-08-09T16:35:25Z",
+          "instanceId": "17124381655"
+        },
+        {
+          "name": "Volta di Vetro: Maestro",
+          "period": "2026-08-08T21:30:57Z",
+          "instanceId": "17122327402"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-08-08T16:40:38Z",
+          "instanceId": "17121770248"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-08-08T11:53:57Z",
+          "instanceId": "17121307610"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-08-08T11:28:14Z",
+          "instanceId": "17121272086"
+        }
+      ]
+    },
     {
       "displayName": "adgarolp#8945",
       "membershipId": "4611686018479100387",
@@ -12,11 +142,26 @@
       "className": "Titani",
       "title": "Immortale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 413,
-      "lastPlayedTimestamp": 1786398414000,
-      "lastActivityTimestamp": 1786396710000,
-      "lastActivityText": "Modalità del mondo: audace: Audace il 10/08/2026 21:18",
+      "powerLevel": 415,
+      "lastPlayedTimestamp": 1786401732000,
+      "lastActivityTimestamp": 1786398817000,
+      "lastActivityText": "Modalità del mondo: audace: Audace il 10/08/2026 21:53",
       "activities": [
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-08-10T21:53:37Z",
+          "instanceId": "17126986846"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-08-10T21:46:48Z",
+          "instanceId": "17126923059"
+        },
+        {
+          "name": "Cerimonia: Normale",
+          "period": "2026-08-10T21:23:15Z",
+          "instanceId": "17126915254"
+        },
         {
           "name": "Modalità del mondo: audace: Audace",
           "period": "2026-08-10T21:18:30Z",
@@ -51,21 +196,6 @@
           "name": "Fossa dell'Eresia: Standard",
           "period": "2026-08-10T18:22:58Z",
           "instanceId": "17126584813"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-08-10T18:15:59Z",
-          "instanceId": "17126570199"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-08-10T18:06:05Z",
-          "instanceId": "17126560449"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-08-10T17:10:07Z",
-          "instanceId": "17126515106"
         }
       ]
     },
@@ -73,15 +203,20 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 539,
-      "lastPlayedTimestamp": 1786398378000,
-      "lastActivityTimestamp": 1786396220000,
-      "lastActivityText": "Partita veloce: Normale il 10/08/2026 21:10",
+      "lastPlayedTimestamp": 1786399540000,
+      "lastActivityTimestamp": 1786396535000,
+      "lastActivityText": "Conservazione il 10/08/2026 21:15",
       "activities": [
+        {
+          "name": "Conservazione",
+          "period": "2026-08-10T21:15:35Z",
+          "instanceId": "17126943210"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-08-10T21:10:20Z",
@@ -126,141 +261,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-08-10T15:19:28Z",
           "instanceId": "17126314225"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-10T12:03:20Z",
-          "instanceId": "17126089896"
-        }
-      ]
-    },
-    {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6ba69610e621b042b70caa39105b937b.jpg",
-      "powerLevel": 365,
-      "lastPlayedTimestamp": 1786398438000,
-      "lastActivityTimestamp": 1786395934000,
-      "lastActivityText": "Tentazione: Leggendaria il 10/08/2026 21:05",
-      "activities": [
-        {
-          "name": "Tentazione: Leggendaria",
-          "period": "2026-08-10T21:05:34Z",
-          "instanceId": "17126878579"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-07-26T01:14:25Z",
-          "instanceId": "17088747802"
-        },
-        {
-          "name": "Vegliante del niente: Personalizzata",
-          "period": "2026-07-26T00:27:30Z",
-          "instanceId": "17088539238"
-        },
-        {
-          "name": "Trasmigrazione: Leggendaria",
-          "period": "2026-07-25T23:40:05Z",
-          "instanceId": "17088447851"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-25T22:47:14Z",
-          "instanceId": "17088245944"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-25T22:40:24Z",
-          "instanceId": "17088228713"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-25T22:31:48Z",
-          "instanceId": "17088209185"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-25T22:24:40Z",
-          "instanceId": "17088187944"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-25T22:16:30Z",
-          "instanceId": "17088169708"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-25T22:09:35Z",
-          "instanceId": "17088147389"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 524,
-      "lastPlayedTimestamp": 1786398396000,
-      "lastActivityTimestamp": 1786395934000,
-      "lastActivityText": "Tentazione: Leggendaria il 10/08/2026 21:05",
-      "activities": [
-        {
-          "name": "Tentazione: Leggendaria",
-          "period": "2026-08-10T21:05:34Z",
-          "instanceId": "17126878579"
-        },
-        {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-09T19:51:41Z",
-          "instanceId": "17124733481"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-09T18:55:13Z",
-          "instanceId": "17124610005"
-        },
-        {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-09T16:35:25Z",
-          "instanceId": "17124381655"
-        },
-        {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-08T21:30:57Z",
-          "instanceId": "17122327402"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-08-08T16:40:38Z",
-          "instanceId": "17121770248"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-08-08T11:53:57Z",
-          "instanceId": "17121307610"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-08-08T11:28:14Z",
-          "instanceId": "17121272086"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-08-08T11:24:59Z",
-          "instanceId": "17121242802"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-08T11:13:30Z",
-          "instanceId": "17121234913"
         }
       ]
     },
