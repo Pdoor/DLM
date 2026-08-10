@@ -1,9 +1,139 @@
 {
-  "generatedAt": "2026-08-10T11:51:53.546Z",
+  "generatedAt": "2026-08-10T13:19:36.442Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786367909000,
+      "lastActivityTimestamp": 1786366540000,
+      "lastActivityText": "Pinnacolo di Savathûn: Personalizzata il 10/08/2026 12:55",
+      "activities": [
+        {
+          "name": "Pinnacolo di Savathûn: Personalizzata",
+          "period": "2026-08-10T12:55:40Z",
+          "instanceId": "17126126376"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-08-09T17:21:20Z",
+          "instanceId": "17124407083"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
+          "period": "2026-08-09T16:37:16Z",
+          "instanceId": "17124314492"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
+          "period": "2026-08-09T16:13:42Z",
+          "instanceId": "17124229393"
+        },
+        {
+          "name": "Il Ponte di Vetro: Personalizzata",
+          "period": "2026-08-09T15:57:59Z",
+          "instanceId": "17124187376"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Personalizzata",
+          "period": "2026-08-09T15:40:48Z",
+          "instanceId": "17124155628"
+        },
+        {
+          "name": "Terminale Intuitivo",
+          "period": "2026-08-09T15:03:33Z",
+          "instanceId": "17124087431"
+        },
+        {
+          "name": "Terreni di Prova: Personalizzata",
+          "period": "2026-08-09T14:39:32Z",
+          "instanceId": "17124053681"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-09T14:01:48Z",
+          "instanceId": "17123970753"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-09T13:43:57Z",
+          "instanceId": "17123946265"
+        }
+      ]
+    },
+    {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 537,
+      "lastPlayedTimestamp": 1786366064000,
+      "lastActivityTimestamp": 1786363400000,
+      "lastActivityText": "Conservazione il 10/08/2026 12:03",
+      "activities": [
+        {
+          "name": "Conservazione",
+          "period": "2026-08-10T12:03:20Z",
+          "instanceId": "17126089896"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-10T11:35:27Z",
+          "instanceId": "17126049271"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-10T10:04:42Z",
+          "instanceId": "17125998707"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-04T17:25:18Z",
+          "instanceId": "17113024889"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-04T17:17:12Z",
+          "instanceId": "17113006657"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-04T16:25:50Z",
+          "instanceId": "17112992251"
+        },
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-08-04T16:10:32Z",
+          "instanceId": "17112911538"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-04T15:39:32Z",
+          "instanceId": "17112876725"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-04T15:23:08Z",
+          "instanceId": "17112836334"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-04T13:10:26Z",
+          "instanceId": "17112681668"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -12,8 +142,8 @@
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1786362058000,
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786367944000,
       "lastActivityTimestamp": 1786360965000,
       "lastActivityText": "Profezia il 10/08/2026 11:22",
       "activities": [
@@ -66,71 +196,6 @@
           "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
           "period": "2026-08-05T13:32:58Z",
           "instanceId": "17114921662"
-        }
-      ]
-    },
-    {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 536,
-      "lastPlayedTimestamp": 1786362537000,
-      "lastActivityTimestamp": 1786356282000,
-      "lastActivityText": "Conservazione il 10/08/2026 10:04",
-      "activities": [
-        {
-          "name": "Conservazione",
-          "period": "2026-08-10T10:04:42Z",
-          "instanceId": "17125998707"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-04T17:25:18Z",
-          "instanceId": "17113024889"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-04T17:17:12Z",
-          "instanceId": "17113006657"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-04T16:25:50Z",
-          "instanceId": "17112992251"
-        },
-        {
-          "name": "Miniere di Sale: Personalizzata",
-          "period": "2026-08-04T16:10:32Z",
-          "instanceId": "17112911538"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-04T15:39:32Z",
-          "instanceId": "17112876725"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-04T15:23:08Z",
-          "instanceId": "17112836334"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-04T13:10:26Z",
-          "instanceId": "17112681668"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-04T12:16:21Z",
-          "instanceId": "17112584345"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-04T11:46:56Z",
-          "instanceId": "17112564167"
         }
       ]
     },
@@ -326,71 +391,6 @@
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-08-07T02:21:04Z",
           "instanceId": "17118354360"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786298817000,
-      "lastActivityTimestamp": 1786296080000,
-      "lastActivityText": "Profezia il 09/08/2026 17:21",
-      "activities": [
-        {
-          "name": "Profezia",
-          "period": "2026-08-09T17:21:20Z",
-          "instanceId": "17124407083"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
-          "period": "2026-08-09T16:37:16Z",
-          "instanceId": "17124314492"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
-          "period": "2026-08-09T16:13:42Z",
-          "instanceId": "17124229393"
-        },
-        {
-          "name": "Il Ponte di Vetro: Personalizzata",
-          "period": "2026-08-09T15:57:59Z",
-          "instanceId": "17124187376"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Personalizzata",
-          "period": "2026-08-09T15:40:48Z",
-          "instanceId": "17124155628"
-        },
-        {
-          "name": "Terminale Intuitivo",
-          "period": "2026-08-09T15:03:33Z",
-          "instanceId": "17124087431"
-        },
-        {
-          "name": "Terreni di Prova: Personalizzata",
-          "period": "2026-08-09T14:39:32Z",
-          "instanceId": "17124053681"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-09T14:01:48Z",
-          "instanceId": "17123970753"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-09T13:43:57Z",
-          "instanceId": "17123946265"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-09T13:24:27Z",
-          "instanceId": "17123916463"
         }
       ]
     },
