@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T23:36:07.719Z",
+  "generatedAt": "2026-08-10T02:09:45.491Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,30 @@
       "displayName": "adgarolp#8945",
       "membershipId": "4611686018479100387",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Immortale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 411,
-      "lastPlayedTimestamp": 1786318536000,
-      "lastActivityTimestamp": 1786315347000,
-      "lastActivityText": "Il Pozzo Cieco il 09/08/2026 22:42",
+      "powerLevel": 408,
+      "lastPlayedTimestamp": 1786320948000,
+      "lastActivityTimestamp": 1786320051000,
+      "lastActivityText": "Sfide dell'Eternità: Standard il 10/08/2026 00:00",
       "activities": [
+        {
+          "name": "Sfide dell'Eternità: Standard",
+          "period": "2026-08-10T00:00:51Z",
+          "instanceId": "17125153335"
+        },
+        {
+          "name": "Sfide dell'Eternità: Standard",
+          "period": "2026-08-09T23:47:09Z",
+          "instanceId": "17125123493"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-08-09T23:30:05Z",
+          "instanceId": "17125076431"
+        },
         {
           "name": "Il Pozzo Cieco",
           "period": "2026-08-09T22:42:27Z",
@@ -51,21 +66,6 @@
           "name": "Europa",
           "period": "2026-08-09T20:29:22Z",
           "instanceId": "17124771443"
-        },
-        {
-          "name": "Riforgiare il passato",
-          "period": "2026-08-09T20:21:42Z",
-          "instanceId": "17124705830"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-09T20:20:46Z",
-          "instanceId": "17124689009"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-08-09T19:51:08Z",
-          "instanceId": "17124686931"
         }
       ]
     },
