@@ -1,22 +1,107 @@
 {
-  "generatedAt": "2026-08-10T19:33:21.031Z",
+  "generatedAt": "2026-08-10T20:49:47.379Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 543,
+      "lastPlayedTimestamp": 1786394762000,
+      "lastActivityTimestamp": 1786391784000,
+      "lastActivityText": "Partita veloce: Normale il 10/08/2026 19:56",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-10T19:56:24Z",
+          "instanceId": "17126755600"
+        },
+        {
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-08-10T19:45:45Z",
+          "instanceId": "17126724201"
+        },
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-08-10T17:20:19Z",
+          "instanceId": "17126492640"
+        },
+        {
+          "name": "Osservatorio Celeste: Personalizzata",
+          "period": "2026-08-10T16:35:10Z",
+          "instanceId": "17126421445"
+        },
+        {
+          "name": "Osservatorio Celeste: Personalizzata",
+          "period": "2026-08-10T16:08:32Z",
+          "instanceId": "17126394989"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-10T15:19:28Z",
+          "instanceId": "17126314225"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-10T12:03:20Z",
+          "instanceId": "17126089896"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-10T11:35:27Z",
+          "instanceId": "17126049271"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-10T10:04:42Z",
+          "instanceId": "17125998707"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-04T17:25:18Z",
+          "instanceId": "17113024889"
+        }
+      ]
+    },
+    {
       "displayName": "adgarolp#8945",
       "membershipId": "4611686018479100387",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Immortale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 412,
-      "lastPlayedTimestamp": 1786390200000,
-      "lastActivityTimestamp": 1786388832000,
-      "lastActivityText": "Modalità del mondo: audace: Audace il 10/08/2026 19:07",
+      "powerLevel": 413,
+      "lastPlayedTimestamp": 1786392295000,
+      "lastActivityTimestamp": 1786391719000,
+      "lastActivityText": "Modalità del mondo: audace: Audace il 10/08/2026 19:55",
       "activities": [
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-08-10T19:55:19Z",
+          "instanceId": "17126741226"
+        },
+        {
+          "name": "Missione: Nostos: Normale",
+          "period": "2026-08-10T19:40:45Z",
+          "instanceId": "17126724343"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-08-10T19:39:01Z",
+          "instanceId": "17126699867"
+        },
+        {
+          "name": "Missione: Maggese: Normale",
+          "period": "2026-08-10T19:28:15Z",
+          "instanceId": "17126697533"
+        },
         {
           "name": "Modalità del mondo: audace: Audace",
           "period": "2026-08-10T19:07:12Z",
@@ -46,26 +131,6 @@
           "name": "Luna",
           "period": "2026-08-10T16:13:27Z",
           "instanceId": "17126444929"
-        },
-        {
-          "name": "Sfide dell'Eternità: Standard",
-          "period": "2026-08-10T00:00:51Z",
-          "instanceId": "17125153335"
-        },
-        {
-          "name": "Sfide dell'Eternità: Standard",
-          "period": "2026-08-09T23:47:09Z",
-          "instanceId": "17125123493"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-08-09T23:30:05Z",
-          "instanceId": "17125076431"
-        },
-        {
-          "name": "Il Pozzo Cieco",
-          "period": "2026-08-09T22:42:27Z",
-          "instanceId": "17125004673"
         }
       ]
     },
@@ -196,71 +261,6 @@
           "name": "Pinnacolo di Savathûn: Personalizzata",
           "period": "2026-08-10T13:06:25Z",
           "instanceId": "17126152781"
-        }
-      ]
-    },
-    {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 542,
-      "lastPlayedTimestamp": 1786390080000,
-      "lastActivityTimestamp": 1786382419000,
-      "lastActivityText": "Miniere di Sale: Personalizzata il 10/08/2026 17:20",
-      "activities": [
-        {
-          "name": "Miniere di Sale: Personalizzata",
-          "period": "2026-08-10T17:20:19Z",
-          "instanceId": "17126492640"
-        },
-        {
-          "name": "Osservatorio Celeste: Personalizzata",
-          "period": "2026-08-10T16:35:10Z",
-          "instanceId": "17126421445"
-        },
-        {
-          "name": "Osservatorio Celeste: Personalizzata",
-          "period": "2026-08-10T16:08:32Z",
-          "instanceId": "17126394989"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-10T15:19:28Z",
-          "instanceId": "17126314225"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-10T12:03:20Z",
-          "instanceId": "17126089896"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-10T11:35:27Z",
-          "instanceId": "17126049271"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-10T10:04:42Z",
-          "instanceId": "17125998707"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-04T17:25:18Z",
-          "instanceId": "17113024889"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-04T17:17:12Z",
-          "instanceId": "17113006657"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-04T16:25:50Z",
-          "instanceId": "17112992251"
         }
       ]
     },
@@ -398,12 +398,12 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
       "powerLevel": 524,
-      "lastPlayedTimestamp": 1786307919000,
+      "lastPlayedTimestamp": 1786394537000,
       "lastActivityTimestamp": 1786305101000,
       "lastActivityText": "Volta di Vetro: Maestro il 09/08/2026 19:51",
       "activities": [
@@ -463,7 +463,7 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
