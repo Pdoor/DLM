@@ -1,9 +1,139 @@
 {
-  "generatedAt": "2026-08-11T17:30:25.210Z",
+  "generatedAt": "2026-08-11T18:29:17.758Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1786472867000,
+      "lastActivityTimestamp": 1786470907000,
+      "lastActivityText": "Cella Senza Sole: Con matchmaking il 11/08/2026 17:55",
+      "activities": [
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-08-11T17:55:07Z",
+          "instanceId": "17128573314"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-11T17:19:12Z",
+          "instanceId": "17128530624"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-11T17:17:30Z",
+          "instanceId": "17128501742"
+        },
+        {
+          "name": "Perdizione: Maestro",
+          "period": "2026-08-11T17:12:24Z",
+          "instanceId": "17128499819"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-11T17:09:31Z",
+          "instanceId": "17128493227"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-11T17:07:49Z",
+          "instanceId": "17128489288"
+        },
+        {
+          "name": "Covo dei Saccheggiatori: Maestro",
+          "period": "2026-08-11T17:02:02Z",
+          "instanceId": "17128487563"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-11T16:59:42Z",
+          "instanceId": "17128478713"
+        },
+        {
+          "name": "Caverna: Maestro",
+          "period": "2026-08-11T16:53:59Z",
+          "instanceId": "17128475027"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-11T16:52:19Z",
+          "instanceId": "17128466261"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Mietitrice",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 533,
+      "lastPlayedTimestamp": 1786472680000,
+      "lastActivityTimestamp": 1786468802000,
+      "lastActivityText": "Spirale invertita: Personalizzata il 11/08/2026 17:20",
+      "activities": [
+        {
+          "name": "Spirale invertita: Personalizzata",
+          "period": "2026-08-11T17:20:02Z",
+          "instanceId": "17128552506"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-09T17:44:34Z",
+          "instanceId": "17124375829"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-08T18:55:32Z",
+          "instanceId": "17122022807"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-08T18:43:54Z",
+          "instanceId": "17121990400"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-08T18:41:38Z",
+          "instanceId": "17121965275"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-08T17:54:41Z",
+          "instanceId": "17121886429"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-08-08T17:26:40Z",
+          "instanceId": "17121844212"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-08T17:18:38Z",
+          "instanceId": "17122453403"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-07T17:42:03Z",
+          "instanceId": "17119553767"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-07T02:39:44Z",
+          "instanceId": "17118389056"
+        }
+      ]
+    },
     {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
@@ -14,9 +144,14 @@
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 548,
       "lastPlayedTimestamp": 1786469037000,
-      "lastActivityTimestamp": 1786468650000,
-      "lastActivityText": "Europa il 11/08/2026 17:17",
+      "lastActivityTimestamp": 1786468752000,
+      "lastActivityText": "Zona Morta Europea il 11/08/2026 17:19",
       "activities": [
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-11T17:19:12Z",
+          "instanceId": "17128530624"
+        },
         {
           "name": "Europa",
           "period": "2026-08-11T17:17:30Z",
@@ -61,76 +196,6 @@
           "name": "Cosmodromo",
           "period": "2026-08-11T16:50:45Z",
           "instanceId": "17128463859"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-08-11T16:44:09Z",
-          "instanceId": "17128462151"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1786469376000,
-      "lastActivityTimestamp": 1786468650000,
-      "lastActivityText": "Europa il 11/08/2026 17:17",
-      "activities": [
-        {
-          "name": "Europa",
-          "period": "2026-08-11T17:17:30Z",
-          "instanceId": "17128501742"
-        },
-        {
-          "name": "Perdizione: Maestro",
-          "period": "2026-08-11T17:12:24Z",
-          "instanceId": "17128499819"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-11T17:09:31Z",
-          "instanceId": "17128493227"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-11T17:07:49Z",
-          "instanceId": "17128489288"
-        },
-        {
-          "name": "Covo dei Saccheggiatori: Maestro",
-          "period": "2026-08-11T17:02:02Z",
-          "instanceId": "17128487563"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-11T16:59:42Z",
-          "instanceId": "17128478713"
-        },
-        {
-          "name": "Caverna: Maestro",
-          "period": "2026-08-11T16:53:59Z",
-          "instanceId": "17128475027"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-11T16:52:19Z",
-          "instanceId": "17128466261"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-11T16:50:45Z",
-          "instanceId": "17128463859"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-08-11T16:44:09Z",
-          "instanceId": "17128462151"
         }
       ]
     },
@@ -398,12 +463,12 @@
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Gloriosa",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/648e5e751cf7560c99bcadc9538487de.png",
-      "powerLevel": 429,
-      "lastPlayedTimestamp": 1786455555000,
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1786472889000,
       "lastActivityTimestamp": 1786369988000,
       "lastActivityText": "Volta di Vetro: Standard il 10/08/2026 13:53",
       "activities": [
@@ -456,71 +521,6 @@
           "name": "La fine di Crota: Standard",
           "period": "2026-07-25T15:53:45Z",
           "instanceId": "17087236377"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Mietitrice",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 533,
-      "lastPlayedTimestamp": 1786469409000,
-      "lastActivityTimestamp": 1786297474000,
-      "lastActivityText": "Poligono di Tiro il 09/08/2026 17:44",
-      "activities": [
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-09T17:44:34Z",
-          "instanceId": "17124375829"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-08T18:55:32Z",
-          "instanceId": "17122022807"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-08T18:43:54Z",
-          "instanceId": "17121990400"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-08T18:41:38Z",
-          "instanceId": "17121965275"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-08T17:54:41Z",
-          "instanceId": "17121886429"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-08-08T17:26:40Z",
-          "instanceId": "17121844212"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-08T17:18:38Z",
-          "instanceId": "17122453403"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-07T17:42:03Z",
-          "instanceId": "17119553767"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-07T02:39:44Z",
-          "instanceId": "17118389056"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-07T02:21:04Z",
-          "instanceId": "17118354360"
         }
       ]
     },
