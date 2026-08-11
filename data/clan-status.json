@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-11T15:04:32.696Z",
+  "generatedAt": "2026-08-11T16:25:18.637Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 468,
+      "lastPlayedTimestamp": 1786465082000,
+      "lastActivityTimestamp": 1786464286000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 11/08/2026 16:04",
+      "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-11T16:04:46Z",
+          "instanceId": "17128413600"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-09T18:35:23Z",
+          "instanceId": "17124487365"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-09T18:13:50Z",
+          "instanceId": "17124424206"
+        },
+        {
+          "name": "Attracco Aereo IV: Maestro",
+          "period": "2026-08-09T18:10:40Z",
+          "instanceId": "17124422663"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-09T18:10:05Z",
+          "instanceId": "17124416178"
+        },
+        {
+          "name": "Attracco Aereo IV: Maestro",
+          "period": "2026-08-09T18:06:47Z",
+          "instanceId": "17124415110"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-09T18:06:04Z",
+          "instanceId": "17124409066"
+        },
+        {
+          "name": "Attracco Aereo IV: Maestro",
+          "period": "2026-08-09T18:03:06Z",
+          "instanceId": "17124407539"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-09T18:01:50Z",
+          "instanceId": "17124401326"
+        },
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-08-09T14:26:15Z",
+          "instanceId": "17124060011"
+        }
+      ]
+    },
     {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
@@ -11,12 +76,17 @@
       "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786460644000,
-      "lastActivityTimestamp": 1786453429000,
-      "lastActivityText": "Campi di battaglia: Colosso: Con matchmaking il 11/08/2026 13:03",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1786465415000,
+      "lastActivityTimestamp": 1786454604000,
+      "lastActivityText": "Fossa dell'Eresia: Standard il 11/08/2026 13:23",
       "activities": [
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-08-11T13:23:24Z",
+          "instanceId": "17128372394"
+        },
         {
           "name": "Campi di battaglia: Colosso: Con matchmaking",
           "period": "2026-08-11T13:03:49Z",
@@ -61,11 +131,6 @@
           "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
           "period": "2026-08-09T16:37:16Z",
           "instanceId": "17124314492"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
-          "period": "2026-08-09T16:13:42Z",
-          "instanceId": "17124229393"
         }
       ]
     },
@@ -78,10 +143,15 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1786460631000,
-      "lastActivityTimestamp": 1786453429000,
-      "lastActivityText": "Campi di battaglia: Colosso: Con matchmaking il 11/08/2026 13:03",
+      "lastPlayedTimestamp": 1786465251000,
+      "lastActivityTimestamp": 1786454604000,
+      "lastActivityText": "Fossa dell'Eresia: Standard il 11/08/2026 13:23",
       "activities": [
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-08-11T13:23:24Z",
+          "instanceId": "17128372394"
+        },
         {
           "name": "Campi di battaglia: Colosso: Con matchmaking",
           "period": "2026-08-11T13:03:49Z",
@@ -126,11 +196,6 @@
           "name": "Il Ponte di Vetro: Con matchmaking",
           "period": "2026-08-10T16:35:01Z",
           "instanceId": "17126433016"
-        },
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-08-10T14:26:21Z",
-          "instanceId": "17126273759"
         }
       ]
     },
@@ -456,71 +521,6 @@
           "name": "La fine di Crota: Standard",
           "period": "2026-07-25T15:53:45Z",
           "instanceId": "17087236377"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Mietitrice",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 533,
-      "lastPlayedTimestamp": 1786389734000,
-      "lastActivityTimestamp": 1786297474000,
-      "lastActivityText": "Poligono di Tiro il 09/08/2026 17:44",
-      "activities": [
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-09T17:44:34Z",
-          "instanceId": "17124375829"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-08T18:55:32Z",
-          "instanceId": "17122022807"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-08T18:43:54Z",
-          "instanceId": "17121990400"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-08T18:41:38Z",
-          "instanceId": "17121965275"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-08T17:54:41Z",
-          "instanceId": "17121886429"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-08-08T17:26:40Z",
-          "instanceId": "17121844212"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-08T17:18:38Z",
-          "instanceId": "17122453403"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-07T17:42:03Z",
-          "instanceId": "17119553767"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-07T02:39:44Z",
-          "instanceId": "17118389056"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-07T02:21:04Z",
-          "instanceId": "17118354360"
         }
       ]
     },
