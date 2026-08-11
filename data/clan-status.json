@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-11T07:15:33.543Z",
+  "generatedAt": "2026-08-11T08:31:01.334Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Ghost of Warlock#5159",
+      "membershipId": "4611686018513286564",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
+      "powerLevel": 528,
+      "lastPlayedTimestamp": 1786433767000,
+      "lastActivityTimestamp": 1786430394000,
+      "lastActivityText": "Luna il 11/08/2026 06:39",
+      "activities": [
+        {
+          "name": "Luna",
+          "period": "2026-08-11T06:39:54Z",
+          "instanceId": "17127839185"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-08-10T15:28:38Z",
+          "instanceId": "17126338104"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-08-10T14:47:52Z",
+          "instanceId": "17126285044"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-08-09T07:17:38Z",
+          "instanceId": "17123428065"
+        },
+        {
+          "name": "Oblazione: Lignaggio",
+          "period": "2026-08-08T19:49:21Z",
+          "instanceId": "17122192827"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-08-08T19:19:09Z",
+          "instanceId": "17122078444"
+        },
+        {
+          "name": "D.A.G.A. caduta: Con matchmaking",
+          "period": "2026-08-08T05:56:14Z",
+          "instanceId": "17120863797"
+        },
+        {
+          "name": "D.A.G.A. caduta: Con matchmaking",
+          "period": "2026-08-08T05:44:29Z",
+          "instanceId": "17120843557"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-08-07T14:54:51Z",
+          "instanceId": "17119305412"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-08-06T13:32:36Z",
+          "instanceId": "17117068790"
+        }
+      ]
+    },
     {
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
@@ -207,8 +272,8 @@
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 539,
-      "lastPlayedTimestamp": 1786432511000,
+      "powerLevel": 543,
+      "lastPlayedTimestamp": 1786437031000,
       "lastActivityTimestamp": 1786396535000,
       "lastActivityText": "Conservazione il 10/08/2026 21:15",
       "activities": [
@@ -326,136 +391,6 @@
           "name": "Il Ponte di Vetro: Personalizzata",
           "period": "2026-08-09T15:57:59Z",
           "instanceId": "17124187376"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1786386822000,
-      "lastActivityTimestamp": 1786385722000,
-      "lastActivityText": "Campi di battaglia: Colosso: Con matchmaking il 10/08/2026 18:15",
-      "activities": [
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-08-10T18:15:22Z",
-          "instanceId": "17126587062"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-10T18:09:57Z",
-          "instanceId": "17126560216"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-08-10T17:56:30Z",
-          "instanceId": "17126552578"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-10T17:47:58Z",
-          "instanceId": "17126530325"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-08-10T17:33:38Z",
-          "instanceId": "17126514187"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-10T17:00:44Z",
-          "instanceId": "17126494809"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-08-10T16:35:01Z",
-          "instanceId": "17126433016"
-        },
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-08-10T14:26:21Z",
-          "instanceId": "17126273759"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-10T13:28:30Z",
-          "instanceId": "17126227085"
-        },
-        {
-          "name": "Pinnacolo di Savathûn: Personalizzata",
-          "period": "2026-08-10T13:06:25Z",
-          "instanceId": "17126152781"
-        }
-      ]
-    },
-    {
-      "displayName": "Ghost of Warlock#5159",
-      "membershipId": "4611686018513286564",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 528,
-      "lastPlayedTimestamp": 1786432512000,
-      "lastActivityTimestamp": 1786375718000,
-      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking il 10/08/2026 15:28",
-      "activities": [
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-08-10T15:28:38Z",
-          "instanceId": "17126338104"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-08-10T14:47:52Z",
-          "instanceId": "17126285044"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-08-09T07:17:38Z",
-          "instanceId": "17123428065"
-        },
-        {
-          "name": "Oblazione: Lignaggio",
-          "period": "2026-08-08T19:49:21Z",
-          "instanceId": "17122192827"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-08-08T19:19:09Z",
-          "instanceId": "17122078444"
-        },
-        {
-          "name": "D.A.G.A. caduta: Con matchmaking",
-          "period": "2026-08-08T05:56:14Z",
-          "instanceId": "17120863797"
-        },
-        {
-          "name": "D.A.G.A. caduta: Con matchmaking",
-          "period": "2026-08-08T05:44:29Z",
-          "instanceId": "17120843557"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-08-07T14:54:51Z",
-          "instanceId": "17119305412"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Con matchmaking",
-          "period": "2026-08-06T13:32:36Z",
-          "instanceId": "17117068790"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-03T15:06:41Z",
-          "instanceId": "17110662440"
         }
       ]
     },
@@ -911,6 +846,71 @@
           "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
           "period": "2026-08-01T20:36:14Z",
           "instanceId": "17106250641"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786435845000,
+      "lastActivityTimestamp": 1786014760000,
+      "lastActivityText": "La Fortezza Scarlatta: Con matchmaking il 06/08/2026 11:12",
+      "activities": [
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-08-06T11:12:40Z",
+          "instanceId": "17116904718"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-08-06T10:38:05Z",
+          "instanceId": "17116867167"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-08-06T09:36:21Z",
+          "instanceId": "17116822985"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-08-05T16:49:19Z",
+          "instanceId": "17115262992"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-08-05T16:48:26Z",
+          "instanceId": "17115202267"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-08-05T16:47:36Z",
+          "instanceId": "17115200420"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-08-05T16:18:22Z",
+          "instanceId": "17115194119"
+        },
+        {
+          "name": "Il Ponte di Vetro: Personalizzata",
+          "period": "2026-08-05T15:39:17Z",
+          "instanceId": "17115111647"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-08-05T15:22:19Z",
+          "instanceId": "17115483661"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-08-05T15:03:44Z",
+          "instanceId": "17115060367"
         }
       ]
     },
