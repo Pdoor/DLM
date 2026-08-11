@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T10:03:12.966Z",
+  "generatedAt": "2026-08-11T11:22:19.794Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 481,
-      "lastPlayedTimestamp": 1786442547000,
-      "lastActivityTimestamp": 1786439066000,
-      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 11/08/2026 09:04",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786446736000,
+      "lastActivityTimestamp": 1786445715000,
+      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 11/08/2026 10:55",
       "activities": [
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-11T10:55:15Z",
+          "instanceId": "17128034143"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-08-11T10:24:31Z",
+          "instanceId": "17128006547"
+        },
         {
           "name": "La Tana dei Diavoli: Con matchmaking",
           "period": "2026-08-11T09:04:26Z",
@@ -53,16 +63,6 @@
           "instanceId": "17115200420"
         },
         {
-          "name": "Profezia",
-          "period": "2026-08-05T16:18:22Z",
-          "instanceId": "17115194119"
-        },
-        {
-          "name": "Il Ponte di Vetro: Personalizzata",
-          "period": "2026-08-05T15:39:17Z",
-          "instanceId": "17115111647"
-        },
-        {
           "name": "Campo di battaglia Colpo: Luna: Personalizzata",
           "period": "2026-08-05T15:22:19Z",
           "instanceId": "17115483661"
@@ -77,11 +77,26 @@
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 543,
-      "lastPlayedTimestamp": 1786442405000,
-      "lastActivityTimestamp": 1786436990000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 11/08/2026 08:29",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1786447309000,
+      "lastActivityTimestamp": 1786445619000,
+      "lastActivityText": "Conservazione il 11/08/2026 10:53",
       "activities": [
+        {
+          "name": "Conservazione",
+          "period": "2026-08-11T10:53:39Z",
+          "instanceId": "17128020246"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-11T10:40:58Z",
+          "instanceId": "17128013967"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-11T10:03:11Z",
+          "instanceId": "17127979430"
+        },
         {
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-08-11T08:29:50Z",
@@ -116,21 +131,6 @@
           "name": "Confluenza: Personalizzata",
           "period": "2026-08-10T19:45:45Z",
           "instanceId": "17126724201"
-        },
-        {
-          "name": "Miniere di Sale: Personalizzata",
-          "period": "2026-08-10T17:20:19Z",
-          "instanceId": "17126492640"
-        },
-        {
-          "name": "Osservatorio Celeste: Personalizzata",
-          "period": "2026-08-10T16:35:10Z",
-          "instanceId": "17126421445"
-        },
-        {
-          "name": "Osservatorio Celeste: Personalizzata",
-          "period": "2026-08-10T16:08:32Z",
-          "instanceId": "17126394989"
         }
       ]
     },
