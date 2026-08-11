@@ -1,22 +1,92 @@
 {
-  "generatedAt": "2026-08-11T18:29:17.758Z",
+  "generatedAt": "2026-08-11T19:39:46.032Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/648e5e751cf7560c99bcadc9538487de.png",
+      "powerLevel": 436,
+      "lastPlayedTimestamp": 1786476744000,
+      "lastActivityTimestamp": 1786475957000,
+      "lastActivityText": "Cripta di Pietrafonda il 11/08/2026 19:19",
+      "activities": [
+        {
+          "name": "Cripta di Pietrafonda",
+          "period": "2026-08-11T19:19:17Z",
+          "instanceId": "17128702362"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-08-10T13:53:08Z",
+          "instanceId": "17126266584"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-09T08:03:32Z",
+          "instanceId": "17123504090"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-08-09T07:30:35Z",
+          "instanceId": "17123494125"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-08-09T06:56:11Z",
+          "instanceId": "17123422532"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-08T15:42:30Z",
+          "instanceId": "17121760299"
+        },
+        {
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-07-31T09:51:50Z",
+          "instanceId": "17102662834"
+        },
+        {
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-07-31T09:27:36Z",
+          "instanceId": "17102640665"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-07-26T16:53:33Z",
+          "instanceId": "17090703092"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-07-26T16:46:09Z",
+          "instanceId": "17090686654"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1786472867000,
-      "lastActivityTimestamp": 1786470907000,
-      "lastActivityText": "Cella Senza Sole: Con matchmaking il 11/08/2026 17:55",
+      "lastPlayedTimestamp": 1786473005000,
+      "lastActivityTimestamp": 1786472452000,
+      "lastActivityText": "Avamposto dei cabal: Con matchmaking il 11/08/2026 18:20",
       "activities": [
+        {
+          "name": "Avamposto dei cabal: Con matchmaking",
+          "period": "2026-08-11T18:20:52Z",
+          "instanceId": "17128616558"
+        },
         {
           "name": "Cella Senza Sole: Con matchmaking",
           "period": "2026-08-11T17:55:07Z",
@@ -61,11 +131,6 @@
           "name": "Caverna: Maestro",
           "period": "2026-08-11T16:53:59Z",
           "instanceId": "17128475027"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-11T16:52:19Z",
-          "instanceId": "17128466261"
         }
       ]
     },
@@ -73,7 +138,7 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
@@ -456,71 +521,6 @@
           "name": "Modalità del mondo: audace: Audace",
           "period": "2026-08-10T18:43:33Z",
           "instanceId": "17127051156"
-        }
-      ]
-    },
-    {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/648e5e751cf7560c99bcadc9538487de.png",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1786472889000,
-      "lastActivityTimestamp": 1786369988000,
-      "lastActivityText": "Volta di Vetro: Standard il 10/08/2026 13:53",
-      "activities": [
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-08-10T13:53:08Z",
-          "instanceId": "17126266584"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-09T08:03:32Z",
-          "instanceId": "17123504090"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-08-09T07:30:35Z",
-          "instanceId": "17123494125"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-08-09T06:56:11Z",
-          "instanceId": "17123422532"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-08T15:42:30Z",
-          "instanceId": "17121760299"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-07-31T09:51:50Z",
-          "instanceId": "17102662834"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-07-31T09:27:36Z",
-          "instanceId": "17102640665"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-26T16:53:33Z",
-          "instanceId": "17090703092"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-26T16:46:09Z",
-          "instanceId": "17090686654"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-07-25T15:53:45Z",
-          "instanceId": "17087236377"
         }
       ]
     },
