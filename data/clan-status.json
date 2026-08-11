@@ -1,87 +1,37 @@
 {
-  "generatedAt": "2026-08-10T23:39:34.679Z",
+  "generatedAt": "2026-08-11T02:04:49.604Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "adgarolp#8945",
-      "membershipId": "4611686018479100387",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Immortale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 416,
-      "lastPlayedTimestamp": 1786404969000,
-      "lastActivityTimestamp": 1786404138000,
-      "lastActivityText": "Modalità del mondo: audace: Audace il 10/08/2026 23:22",
-      "activities": [
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-08-10T23:22:18Z",
-          "instanceId": "17127093714"
-        },
-        {
-          "name": "Missione: Transitorietà: Normale",
-          "period": "2026-08-10T23:12:27Z",
-          "instanceId": "17127076544"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-08-10T23:04:07Z",
-          "instanceId": "17127060182"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-10T22:38:00Z",
-          "instanceId": "17127036369"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-08-10T21:53:37Z",
-          "instanceId": "17126986846"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-08-10T21:46:48Z",
-          "instanceId": "17126923059"
-        },
-        {
-          "name": "Cerimonia: Normale",
-          "period": "2026-08-10T21:23:15Z",
-          "instanceId": "17126915254"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-08-10T21:18:30Z",
-          "instanceId": "17126875088"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-08-10T19:55:19Z",
-          "instanceId": "17126741226"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-08-10T18:43:33Z",
-          "instanceId": "17127051156"
-        }
-      ]
-    },
-    {
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6ba69610e621b042b70caa39105b937b.jpg",
-      "powerLevel": 365,
-      "lastPlayedTimestamp": 1786405151000,
-      "lastActivityTimestamp": 1786402901000,
-      "lastActivityText": "Il messaggio - Parte I il 10/08/2026 23:01",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
+      "powerLevel": 364,
+      "lastPlayedTimestamp": 1786409956000,
+      "lastActivityTimestamp": 1786408238000,
+      "lastActivityText": "Poligono di Tiro il 11/08/2026 00:30",
       "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-11T00:30:38Z",
+          "instanceId": "17127250154"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-10T23:47:03Z",
+          "instanceId": "17127154454"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-08-10T23:05:19Z",
+          "instanceId": "17127118127"
+        },
         {
           "name": "Il messaggio - Parte I",
           "period": "2026-08-10T23:01:41Z",
@@ -116,21 +66,6 @@
           "name": "Vegliante del niente: Personalizzata",
           "period": "2026-07-26T00:27:30Z",
           "instanceId": "17088539238"
-        },
-        {
-          "name": "Trasmigrazione: Leggendaria",
-          "period": "2026-07-25T23:40:05Z",
-          "instanceId": "17088447851"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-25T22:47:14Z",
-          "instanceId": "17088245944"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-25T22:40:24Z",
-          "instanceId": "17088228713"
         }
       ]
     },
@@ -138,15 +73,30 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 524,
-      "lastPlayedTimestamp": 1786405095000,
-      "lastActivityTimestamp": 1786402901000,
-      "lastActivityText": "Il messaggio - Parte I il 10/08/2026 23:01",
+      "powerLevel": 516,
+      "lastPlayedTimestamp": 1786409918000,
+      "lastActivityTimestamp": 1786408238000,
+      "lastActivityText": "Poligono di Tiro il 11/08/2026 00:30",
       "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-11T00:30:38Z",
+          "instanceId": "17127250154"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-10T23:47:03Z",
+          "instanceId": "17127154454"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-08-10T23:05:19Z",
+          "instanceId": "17127118127"
+        },
         {
           "name": "Il messaggio - Parte I",
           "period": "2026-08-10T23:01:41Z",
@@ -181,21 +131,71 @@
           "name": "La caduta di un Re: Standard",
           "period": "2026-08-09T18:55:13Z",
           "instanceId": "17124610005"
+        }
+      ]
+    },
+    {
+      "displayName": "adgarolp#8945",
+      "membershipId": "4611686018479100387",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Immortale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
+      "powerLevel": 419,
+      "lastPlayedTimestamp": 1786408112000,
+      "lastActivityTimestamp": 1786407979000,
+      "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 11/08/2026 00:26",
+      "activities": [
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-11T00:26:19Z",
+          "instanceId": "17127192477"
         },
         {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-09T16:35:25Z",
-          "instanceId": "17124381655"
+          "name": "Sottrazione: Leggendaria",
+          "period": "2026-08-10T23:56:27Z",
+          "instanceId": "17127186520"
         },
         {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-08T21:30:57Z",
-          "instanceId": "17122327402"
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-10T23:53:31Z",
+          "instanceId": "17127134367"
         },
         {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-08-08T16:40:38Z",
-          "instanceId": "17121770248"
+          "name": "Missione: Saturnismo: Leggendaria",
+          "period": "2026-08-10T23:31:58Z",
+          "instanceId": "17127129642"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-08-10T23:22:18Z",
+          "instanceId": "17127093714"
+        },
+        {
+          "name": "Missione: Transitorietà: Normale",
+          "period": "2026-08-10T23:12:27Z",
+          "instanceId": "17127076544"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-08-10T23:04:07Z",
+          "instanceId": "17127060182"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-08-10T22:38:00Z",
+          "instanceId": "17127036369"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-08-10T21:53:37Z",
+          "instanceId": "17126986846"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-08-10T18:43:33Z",
+          "instanceId": "17127051156"
         }
       ]
     },
