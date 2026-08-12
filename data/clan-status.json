@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-12T17:31:20.359Z",
+  "generatedAt": "2026-08-12T19:07:18.933Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 537,
+      "lastPlayedTimestamp": 1786557672000,
+      "lastActivityTimestamp": 1786556237000,
+      "lastActivityText": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking il 12/08/2026 17:37",
+      "activities": [
+        {
+          "name": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking",
+          "period": "2026-08-12T17:37:17Z",
+          "instanceId": "17130432867"
+        },
+        {
+          "name": "Adamantide, Europa: Sabotaggio: Con matchmaking",
+          "period": "2026-08-12T15:48:29Z",
+          "instanceId": "17130282887"
+        },
+        {
+          "name": "Adamantide, Europa: Sabotaggio: Con matchmaking",
+          "period": "2026-08-12T15:29:17Z",
+          "instanceId": "17130258293"
+        },
+        {
+          "name": "Adamantide, Europa: Sabotaggio: Con matchmaking",
+          "period": "2026-08-12T14:59:05Z",
+          "instanceId": "17130216714"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Leggendaria",
+          "period": "2026-08-12T14:06:37Z",
+          "instanceId": "17130188739"
+        },
+        {
+          "name": "Gloria futura: Leggendaria",
+          "period": "2026-08-12T13:12:46Z",
+          "instanceId": "17130090667"
+        },
+        {
+          "name": "Il Relitto",
+          "period": "2026-08-12T13:10:19Z",
+          "instanceId": "17130066270"
+        },
+        {
+          "name": "Il lungo inganno: Leggendaria",
+          "period": "2026-08-12T12:49:12Z",
+          "instanceId": "17130063366"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Leggendaria",
+          "period": "2026-08-12T11:36:19Z",
+          "instanceId": "17130007207"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-11T00:30:38Z",
+          "instanceId": "17127250154"
+        }
+      ]
+    },
     {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
@@ -196,71 +261,6 @@
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-08-11T16:04:46Z",
           "instanceId": "17128413600"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 535,
-      "lastPlayedTimestamp": 1786550987000,
-      "lastActivityTimestamp": 1786549709000,
-      "lastActivityText": "Adamantide, Europa: Sabotaggio: Con matchmaking il 12/08/2026 15:48",
-      "activities": [
-        {
-          "name": "Adamantide, Europa: Sabotaggio: Con matchmaking",
-          "period": "2026-08-12T15:48:29Z",
-          "instanceId": "17130282887"
-        },
-        {
-          "name": "Adamantide, Europa: Sabotaggio: Con matchmaking",
-          "period": "2026-08-12T15:29:17Z",
-          "instanceId": "17130258293"
-        },
-        {
-          "name": "Adamantide, Europa: Sabotaggio: Con matchmaking",
-          "period": "2026-08-12T14:59:05Z",
-          "instanceId": "17130216714"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Leggendaria",
-          "period": "2026-08-12T14:06:37Z",
-          "instanceId": "17130188739"
-        },
-        {
-          "name": "Gloria futura: Leggendaria",
-          "period": "2026-08-12T13:12:46Z",
-          "instanceId": "17130090667"
-        },
-        {
-          "name": "Il Relitto",
-          "period": "2026-08-12T13:10:19Z",
-          "instanceId": "17130066270"
-        },
-        {
-          "name": "Il lungo inganno: Leggendaria",
-          "period": "2026-08-12T12:49:12Z",
-          "instanceId": "17130063366"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Leggendaria",
-          "period": "2026-08-12T11:36:19Z",
-          "instanceId": "17130007207"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-11T00:30:38Z",
-          "instanceId": "17127250154"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-10T23:47:03Z",
-          "instanceId": "17127154454"
         }
       ]
     },
