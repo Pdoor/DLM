@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-12T21:21:56.584Z",
+  "generatedAt": "2026-08-12T22:11:57.462Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Mietitrice",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 549,
+      "lastPlayedTimestamp": 1786572487000,
+      "lastActivityTimestamp": 1786571559000,
+      "lastActivityText": "Partita veloce: Normale il 12/08/2026 21:52",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-12T21:52:39Z",
+          "instanceId": "17130787768"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-12T21:14:13Z",
+          "instanceId": "17130753799"
+        },
+        {
+          "name": "Promessa del Discepolo: Maestro",
+          "period": "2026-08-12T01:40:40Z",
+          "instanceId": "17129520575"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-12T01:37:19Z",
+          "instanceId": "17129291705"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-12T01:27:42Z",
+          "instanceId": "17129374323"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-08-12T01:10:22Z",
+          "instanceId": "17129288495"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-08-11T21:56:27Z",
+          "instanceId": "17129237244"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-11T21:03:04Z",
+          "instanceId": "17129090380"
+        },
+        {
+          "name": "Spirale invertita: Personalizzata",
+          "period": "2026-08-11T17:20:02Z",
+          "instanceId": "17128552506"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-09T17:44:34Z",
+          "instanceId": "17124375829"
+        }
+      ]
+    },
     {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
@@ -261,71 +326,6 @@
           "name": "Orlo della Salvezza: Standard",
           "period": "2026-08-09T06:56:11Z",
           "instanceId": "17123422532"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Mietitrice",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 513,
-      "lastPlayedTimestamp": 1786569659000,
-      "lastActivityTimestamp": 1786498840000,
-      "lastActivityText": "Promessa del Discepolo: Maestro il 12/08/2026 01:40",
-      "activities": [
-        {
-          "name": "Promessa del Discepolo: Maestro",
-          "period": "2026-08-12T01:40:40Z",
-          "instanceId": "17129520575"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-12T01:37:19Z",
-          "instanceId": "17129291705"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-12T01:27:42Z",
-          "instanceId": "17129374323"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-08-12T01:10:22Z",
-          "instanceId": "17129288495"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-08-11T21:56:27Z",
-          "instanceId": "17129237244"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-11T21:03:04Z",
-          "instanceId": "17129090380"
-        },
-        {
-          "name": "Spirale invertita: Personalizzata",
-          "period": "2026-08-11T17:20:02Z",
-          "instanceId": "17128552506"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-09T17:44:34Z",
-          "instanceId": "17124375829"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-08T18:55:32Z",
-          "instanceId": "17122022807"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-08T17:18:38Z",
-          "instanceId": "17122453403"
         }
       ]
     },
