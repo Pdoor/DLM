@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T22:11:57.462Z",
+  "generatedAt": "2026-08-12T23:11:45.956Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,64 +8,64 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Mietitrice",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 549,
-      "lastPlayedTimestamp": 1786572487000,
-      "lastActivityTimestamp": 1786571559000,
-      "lastActivityText": "Partita veloce: Normale il 12/08/2026 21:52",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 472,
+      "lastPlayedTimestamp": 1786576211000,
+      "lastActivityTimestamp": 1786575767000,
+      "lastActivityText": "Confluenza: Personalizzata il 12/08/2026 23:02",
       "activities": [
         {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-12T21:52:39Z",
-          "instanceId": "17130787768"
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-08-12T23:02:47Z",
+          "instanceId": "17130878595"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-12T22:56:23Z",
+          "instanceId": "17130869782"
+        },
+        {
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-12T16:21:36Z",
+          "instanceId": "17130318266"
+        },
+        {
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-12T16:08:58Z",
+          "instanceId": "17130301137"
+        },
+        {
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-12T00:15:59Z",
+          "instanceId": "17129169273"
+        },
+        {
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-11T20:12:54Z",
+          "instanceId": "17128782339"
+        },
+        {
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-11T19:58:40Z",
+          "instanceId": "17128762877"
+        },
+        {
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-11T19:46:31Z",
+          "instanceId": "17128740903"
         },
         {
           "name": "Europa",
-          "period": "2026-08-12T21:14:13Z",
-          "instanceId": "17130753799"
+          "period": "2026-08-11T16:54:27Z",
+          "instanceId": "17128488126"
         },
         {
-          "name": "Promessa del Discepolo: Maestro",
-          "period": "2026-08-12T01:40:40Z",
-          "instanceId": "17129520575"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-12T01:37:19Z",
-          "instanceId": "17129291705"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-12T01:27:42Z",
-          "instanceId": "17129374323"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-08-12T01:10:22Z",
-          "instanceId": "17129288495"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-08-11T21:56:27Z",
-          "instanceId": "17129237244"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-11T21:03:04Z",
-          "instanceId": "17129090380"
-        },
-        {
-          "name": "Spirale invertita: Personalizzata",
-          "period": "2026-08-11T17:20:02Z",
-          "instanceId": "17128552506"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-09T17:44:34Z",
-          "instanceId": "17124375829"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-11T16:38:42Z",
+          "instanceId": "17128454631"
         }
       ]
     },
