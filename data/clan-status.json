@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T14:37:44.046Z",
+  "generatedAt": "2026-08-12T16:01:49.330Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,40 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1786545265000,
-      "lastActivityTimestamp": 1786541081000,
-      "lastActivityText": "Campo di battaglia Colpo: Luna: Personalizzata il 12/08/2026 13:24",
+      "lastPlayedTimestamp": 1786550291000,
+      "lastActivityTimestamp": 1786548698000,
+      "lastActivityText": "Cella Senza Sole: Personalizzata il 12/08/2026 15:31",
       "activities": [
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-12T15:31:38Z",
+          "instanceId": "17130255188"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-12T15:22:58Z",
+          "instanceId": "17130236823"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-12T15:19:48Z",
+          "instanceId": "17130225493"
+        },
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-08-12T15:02:41Z",
+          "instanceId": "17130221620"
+        },
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-08-12T14:59:48Z",
+          "instanceId": "17130197771"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-12T14:27:35Z",
+          "instanceId": "17130173212"
+        },
         {
           "name": "Campo di battaglia Colpo: Luna: Personalizzata",
           "period": "2026-08-12T13:24:41Z",
@@ -36,36 +66,6 @@
           "name": "Cella Senza Sole: Con matchmaking",
           "period": "2026-08-12T12:24:26Z",
           "instanceId": "17130031679"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-12T10:41:53Z",
-          "instanceId": "17129924478"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-12T10:30:30Z",
-          "instanceId": "17129916830"
-        },
-        {
-          "name": "Caccia all'incubo: disperazione: Esperto",
-          "period": "2026-08-12T09:55:03Z",
-          "instanceId": "17129900945"
-        },
-        {
-          "name": "Caccia all'incubo: terrore: Maestro",
-          "period": "2026-08-12T09:53:51Z",
-          "instanceId": "17129883633"
-        },
-        {
-          "name": "Caccia all'incubo: terrore: Maestro",
-          "period": "2026-08-12T09:52:32Z",
-          "instanceId": "17129882857"
-        },
-        {
-          "name": "Caccia all'incubo: furia: Esperto",
-          "period": "2026-08-12T09:43:07Z",
-          "instanceId": "17129881548"
         }
       ]
     },
@@ -77,11 +77,26 @@
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 513,
-      "lastPlayedTimestamp": 1786545428000,
-      "lastActivityTimestamp": 1786540366000,
-      "lastActivityText": "Gloria futura: Leggendaria il 12/08/2026 13:12",
+      "powerLevel": 533,
+      "lastPlayedTimestamp": 1786550450000,
+      "lastActivityTimestamp": 1786548557000,
+      "lastActivityText": "Adamantide, Europa: Sabotaggio: Con matchmaking il 12/08/2026 15:29",
       "activities": [
+        {
+          "name": "Adamantide, Europa: Sabotaggio: Con matchmaking",
+          "period": "2026-08-12T15:29:17Z",
+          "instanceId": "17130258293"
+        },
+        {
+          "name": "Adamantide, Europa: Sabotaggio: Con matchmaking",
+          "period": "2026-08-12T14:59:05Z",
+          "instanceId": "17130216714"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Leggendaria",
+          "period": "2026-08-12T14:06:37Z",
+          "instanceId": "17130188739"
+        },
         {
           "name": "Gloria futura: Leggendaria",
           "period": "2026-08-12T13:12:46Z",
@@ -116,21 +131,71 @@
           "name": "Destino diadico",
           "period": "2026-08-10T23:05:19Z",
           "instanceId": "17127118127"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786550498000,
+      "lastActivityTimestamp": 1786547457000,
+      "lastActivityText": "L'astuta: Leggenda il 12/08/2026 15:10",
+      "activities": [
+        {
+          "name": "L'astuta: Leggenda",
+          "period": "2026-08-12T15:10:57Z",
+          "instanceId": "17130240460"
         },
         {
-          "name": "Il messaggio - Parte I",
-          "period": "2026-08-10T23:01:41Z",
-          "instanceId": "17127045671"
+          "name": "Zona Morta Europea",
+          "period": "2026-08-11T17:19:12Z",
+          "instanceId": "17128530624"
         },
         {
-          "name": "Scalata: Leggendaria",
-          "period": "2026-08-10T22:33:46Z",
-          "instanceId": "17127034995"
+          "name": "Europa",
+          "period": "2026-08-11T17:17:30Z",
+          "instanceId": "17128501742"
         },
         {
-          "name": "Requiem: Leggendaria",
-          "period": "2026-08-10T21:56:04Z",
-          "instanceId": "17126986527"
+          "name": "Perdizione: Maestro",
+          "period": "2026-08-11T17:12:24Z",
+          "instanceId": "17128499819"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-11T17:09:31Z",
+          "instanceId": "17128493227"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-11T17:07:49Z",
+          "instanceId": "17128489288"
+        },
+        {
+          "name": "Covo dei Saccheggiatori: Maestro",
+          "period": "2026-08-11T17:02:02Z",
+          "instanceId": "17128487563"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-11T16:59:42Z",
+          "instanceId": "17128478713"
+        },
+        {
+          "name": "Caverna: Maestro",
+          "period": "2026-08-11T16:53:59Z",
+          "instanceId": "17128475027"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-11T16:52:19Z",
+          "instanceId": "17128466261"
         }
       ]
     },
@@ -200,132 +265,67 @@
       ]
     },
     {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786529594000,
-      "lastActivityTimestamp": 1786528503000,
-      "lastActivityText": "Caccia all'incubo: disperazione: Esperto il 12/08/2026 09:55",
-      "activities": [
-        {
-          "name": "Caccia all'incubo: disperazione: Esperto",
-          "period": "2026-08-12T09:55:03Z",
-          "instanceId": "17129900945"
-        },
-        {
-          "name": "Caccia all'incubo: terrore: Maestro",
-          "period": "2026-08-12T09:53:51Z",
-          "instanceId": "17129883633"
-        },
-        {
-          "name": "Caccia all'incubo: terrore: Maestro",
-          "period": "2026-08-12T09:52:32Z",
-          "instanceId": "17129882857"
-        },
-        {
-          "name": "Caccia all'incubo: furia: Esperto",
-          "period": "2026-08-12T09:43:07Z",
-          "instanceId": "17129881548"
-        },
-        {
-          "name": "Caccia all'incubo: furia: Avanzata",
-          "period": "2026-08-12T09:38:56Z",
-          "instanceId": "17129877101"
-        },
-        {
-          "name": "Caccia all'incubo: furia: Esperto",
-          "period": "2026-08-12T09:27:26Z",
-          "instanceId": "17129865845"
-        },
-        {
-          "name": "Trafficante d'armi",
-          "period": "2026-08-12T08:57:03Z",
-          "instanceId": "17129858285"
-        },
-        {
-          "name": "Caccia all'incubo: furia: Esperto",
-          "period": "2026-08-12T08:26:42Z",
-          "instanceId": "17129831956"
-        },
-        {
-          "name": "Primo contatto: Avanzata",
-          "period": "2026-08-12T07:56:36Z",
-          "instanceId": "17129809706"
-        },
-        {
-          "name": "La disonorata",
-          "period": "2026-08-12T07:42:57Z",
-          "instanceId": "17129784196"
-        }
-      ]
-    },
-    {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Mietitrice",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 535,
-      "lastPlayedTimestamp": 1786501492000,
-      "lastActivityTimestamp": 1786498840000,
-      "lastActivityText": "Promessa del Discepolo: Maestro il 12/08/2026 01:40",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 468,
+      "lastPlayedTimestamp": 1786550421000,
+      "lastActivityTimestamp": 1786493759000,
+      "lastActivityText": "Zone di Controllo: Con matchmaking il 12/08/2026 00:15",
       "activities": [
         {
-          "name": "Promessa del Discepolo: Maestro",
-          "period": "2026-08-12T01:40:40Z",
-          "instanceId": "17129520575"
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-12T00:15:59Z",
+          "instanceId": "17129169273"
         },
         {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-12T01:37:19Z",
-          "instanceId": "17129291705"
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-11T20:12:54Z",
+          "instanceId": "17128782339"
         },
         {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-12T01:27:42Z",
-          "instanceId": "17129374323"
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-11T19:58:40Z",
+          "instanceId": "17128762877"
         },
         {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-08-12T01:10:22Z",
-          "instanceId": "17129288495"
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-11T19:46:31Z",
+          "instanceId": "17128740903"
         },
         {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-08-11T21:56:27Z",
-          "instanceId": "17129237244"
+          "name": "Europa",
+          "period": "2026-08-11T16:54:27Z",
+          "instanceId": "17128488126"
         },
         {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-11T21:03:04Z",
-          "instanceId": "17129090380"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-11T16:38:42Z",
+          "instanceId": "17128454631"
         },
         {
-          "name": "Spirale invertita: Personalizzata",
-          "period": "2026-08-11T17:20:02Z",
-          "instanceId": "17128552506"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-09T17:44:34Z",
-          "instanceId": "17124375829"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-11T16:17:13Z",
+          "instanceId": "17128429844"
         },
         {
           "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-08T18:55:32Z",
-          "instanceId": "17122022807"
+          "period": "2026-08-11T16:04:46Z",
+          "instanceId": "17128413600"
         },
         {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-08T17:18:38Z",
-          "instanceId": "17122453403"
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-09T18:35:23Z",
+          "instanceId": "17124487365"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-09T18:13:50Z",
+          "instanceId": "17124424206"
         }
       ]
     },
