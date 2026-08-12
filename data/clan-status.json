@@ -1,22 +1,97 @@
 {
-  "generatedAt": "2026-08-12T11:52:08.748Z",
+  "generatedAt": "2026-08-12T13:20:12.166Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 522,
+      "lastPlayedTimestamp": 1786540759000,
+      "lastActivityTimestamp": 1786540219000,
+      "lastActivityText": "Il Relitto il 12/08/2026 13:10",
+      "activities": [
+        {
+          "name": "Il Relitto",
+          "period": "2026-08-12T13:10:19Z",
+          "instanceId": "17130066270"
+        },
+        {
+          "name": "Il lungo inganno: Leggendaria",
+          "period": "2026-08-12T12:49:12Z",
+          "instanceId": "17130063366"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Leggendaria",
+          "period": "2026-08-12T11:36:19Z",
+          "instanceId": "17130007207"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-11T00:30:38Z",
+          "instanceId": "17127250154"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-10T23:47:03Z",
+          "instanceId": "17127154454"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-08-10T23:05:19Z",
+          "instanceId": "17127118127"
+        },
+        {
+          "name": "Il messaggio - Parte I",
+          "period": "2026-08-10T23:01:41Z",
+          "instanceId": "17127045671"
+        },
+        {
+          "name": "Scalata: Leggendaria",
+          "period": "2026-08-10T22:33:46Z",
+          "instanceId": "17127034995"
+        },
+        {
+          "name": "Requiem: Leggendaria",
+          "period": "2026-08-10T21:56:04Z",
+          "instanceId": "17126986527"
+        },
+        {
+          "name": "Esegesi: Leggendaria",
+          "period": "2026-08-10T21:29:55Z",
+          "instanceId": "17126922756"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1786531543000,
-      "lastActivityTimestamp": 1786531313000,
-      "lastActivityText": "Luna il 12/08/2026 10:41",
+      "lastPlayedTimestamp": 1786540743000,
+      "lastActivityTimestamp": 1786538823000,
+      "lastActivityText": "Pallido Cuore il 12/08/2026 12:47",
       "activities": [
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-12T12:47:03Z",
+          "instanceId": "17130058805"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-08-12T12:24:26Z",
+          "instanceId": "17130031679"
+        },
         {
           "name": "Luna",
           "period": "2026-08-12T10:41:53Z",
@@ -56,16 +131,6 @@
           "name": "Avamposto dei cabal: Con matchmaking",
           "period": "2026-08-11T18:20:52Z",
           "instanceId": "17128616558"
-        },
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-08-11T17:55:07Z",
-          "instanceId": "17128573314"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-11T17:19:12Z",
-          "instanceId": "17128530624"
         }
       ]
     },
@@ -78,10 +143,15 @@
       "title": "Gloriosa",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/648e5e751cf7560c99bcadc9538487de.png",
       "powerLevel": 436,
-      "lastPlayedTimestamp": 1786530965000,
-      "lastActivityTimestamp": 1786530630000,
-      "lastActivityText": "Luna il 12/08/2026 10:30",
+      "lastPlayedTimestamp": 1786537304000,
+      "lastActivityTimestamp": 1786535541000,
+      "lastActivityText": "Ultimo desiderio: Standard il 12/08/2026 11:52",
       "activities": [
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-08-12T11:52:21Z",
+          "instanceId": "17130021069"
+        },
         {
           "name": "Luna",
           "period": "2026-08-12T10:30:30Z",
@@ -126,11 +196,6 @@
           "name": "Orlo della Salvezza: Standard",
           "period": "2026-08-09T06:56:11Z",
           "instanceId": "17123422532"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-08T15:42:30Z",
-          "instanceId": "17121760299"
         }
       ]
     },
@@ -391,71 +456,6 @@
           "name": "Vegliante del niente: Personalizzata",
           "period": "2026-07-26T00:27:30Z",
           "instanceId": "17088539238"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 503,
-      "lastPlayedTimestamp": 1786535112000,
-      "lastActivityTimestamp": 1786408238000,
-      "lastActivityText": "Poligono di Tiro il 11/08/2026 00:30",
-      "activities": [
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-11T00:30:38Z",
-          "instanceId": "17127250154"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-10T23:47:03Z",
-          "instanceId": "17127154454"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-08-10T23:05:19Z",
-          "instanceId": "17127118127"
-        },
-        {
-          "name": "Il messaggio - Parte I",
-          "period": "2026-08-10T23:01:41Z",
-          "instanceId": "17127045671"
-        },
-        {
-          "name": "Scalata: Leggendaria",
-          "period": "2026-08-10T22:33:46Z",
-          "instanceId": "17127034995"
-        },
-        {
-          "name": "Requiem: Leggendaria",
-          "period": "2026-08-10T21:56:04Z",
-          "instanceId": "17126986527"
-        },
-        {
-          "name": "Esegesi: Leggendaria",
-          "period": "2026-08-10T21:29:55Z",
-          "instanceId": "17126922756"
-        },
-        {
-          "name": "Tentazione: Leggendaria",
-          "period": "2026-08-10T21:05:34Z",
-          "instanceId": "17126878579"
-        },
-        {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-09T19:51:41Z",
-          "instanceId": "17124733481"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-09T18:55:13Z",
-          "instanceId": "17124610005"
         }
       ]
     },
