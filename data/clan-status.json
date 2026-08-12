@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T07:44:38.998Z",
+  "generatedAt": "2026-08-12T09:16:20.441Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,25 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786520643000,
-      "lastActivityTimestamp": 1786515952000,
-      "lastActivityText": "Schianto dell'Esodo il 12/08/2026 06:25",
+      "lastPlayedTimestamp": 1786526138000,
+      "lastActivityTimestamp": 1786523202000,
+      "lastActivityText": "Caccia all'incubo: furia: Esperto il 12/08/2026 08:26",
       "activities": [
+        {
+          "name": "Caccia all'incubo: furia: Esperto",
+          "period": "2026-08-12T08:26:42Z",
+          "instanceId": "17129831956"
+        },
+        {
+          "name": "Primo contatto: Avanzata",
+          "period": "2026-08-12T07:56:36Z",
+          "instanceId": "17129809706"
+        },
+        {
+          "name": "La disonorata",
+          "period": "2026-08-12T07:42:57Z",
+          "instanceId": "17129784196"
+        },
         {
           "name": "Schianto dell'Esodo",
           "period": "2026-08-12T06:25:52Z",
@@ -51,21 +66,6 @@
           "name": "Schianto dell'Esodo",
           "period": "2026-07-14T08:31:31Z",
           "instanceId": "17050530100"
-        },
-        {
-          "name": "Primo contatto: Leggendaria",
-          "period": "2026-07-14T08:09:42Z",
-          "instanceId": "17050512329"
-        },
-        {
-          "name": "Soli e al freddo: Leggendaria",
-          "period": "2026-06-19T16:30:18Z",
-          "instanceId": "16937088956"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Audace",
-          "period": "2026-06-19T16:23:02Z",
-          "instanceId": "16937002880"
         }
       ]
     },
