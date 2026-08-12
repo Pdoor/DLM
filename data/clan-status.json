@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-12T04:23:36.529Z",
+  "generatedAt": "2026-08-12T05:58:33.879Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786514241000,
+      "lastActivityTimestamp": 1786512890000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 12/08/2026 05:34",
+      "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-12T05:34:50Z",
+          "instanceId": "17129661975"
+        },
+        {
+          "name": "Osservatorio Celeste: Personalizzata",
+          "period": "2026-08-12T05:32:26Z",
+          "instanceId": "17129652994"
+        },
+        {
+          "name": "La lama di Luce",
+          "period": "2026-08-12T05:27:16Z",
+          "instanceId": "17129637164"
+        },
+        {
+          "name": "Terreni di Prova",
+          "period": "2026-07-14T08:35:28Z",
+          "instanceId": "17050585058"
+        },
+        {
+          "name": "Schianto dell'Esodo",
+          "period": "2026-07-14T08:31:31Z",
+          "instanceId": "17050530100"
+        },
+        {
+          "name": "Primo contatto: Leggendaria",
+          "period": "2026-07-14T08:09:42Z",
+          "instanceId": "17050512329"
+        },
+        {
+          "name": "Soli e al freddo: Leggendaria",
+          "period": "2026-06-19T16:30:18Z",
+          "instanceId": "16937088956"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Audace",
+          "period": "2026-06-19T16:23:02Z",
+          "instanceId": "16937002880"
+        },
+        {
+          "name": "Cala la Notte: Esperto",
+          "period": "2026-05-24T17:52:39Z",
+          "instanceId": "16849424642"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Personalizzata",
+          "period": "2026-05-13T13:24:53Z",
+          "instanceId": "16841379025"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -196,71 +261,6 @@
           "name": "Caverna: Maestro",
           "period": "2026-08-11T16:53:59Z",
           "instanceId": "17128475027"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1786469037000,
-      "lastActivityTimestamp": 1786468752000,
-      "lastActivityText": "Zona Morta Europea il 11/08/2026 17:19",
-      "activities": [
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-11T17:19:12Z",
-          "instanceId": "17128530624"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-11T17:17:30Z",
-          "instanceId": "17128501742"
-        },
-        {
-          "name": "Perdizione: Maestro",
-          "period": "2026-08-11T17:12:24Z",
-          "instanceId": "17128499819"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-11T17:09:31Z",
-          "instanceId": "17128493227"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-11T17:07:49Z",
-          "instanceId": "17128489288"
-        },
-        {
-          "name": "Covo dei Saccheggiatori: Maestro",
-          "period": "2026-08-11T17:02:02Z",
-          "instanceId": "17128487563"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-11T16:59:42Z",
-          "instanceId": "17128478713"
-        },
-        {
-          "name": "Caverna: Maestro",
-          "period": "2026-08-11T16:53:59Z",
-          "instanceId": "17128475027"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-11T16:52:19Z",
-          "instanceId": "17128466261"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-11T16:50:45Z",
-          "instanceId": "17128463859"
         }
       ]
     },
