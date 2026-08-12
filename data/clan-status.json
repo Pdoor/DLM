@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T02:21:51.652Z",
+  "generatedAt": "2026-08-12T04:23:36.529Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,19 +8,29 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 535,
-      "lastPlayedTimestamp": 1786501301000,
-      "lastActivityTimestamp": 1786498639000,
-      "lastActivityText": "Poligono di Tiro il 12/08/2026 01:37",
+      "lastPlayedTimestamp": 1786501492000,
+      "lastActivityTimestamp": 1786498840000,
+      "lastActivityText": "Promessa del Discepolo: Maestro il 12/08/2026 01:40",
       "activities": [
+        {
+          "name": "Promessa del Discepolo: Maestro",
+          "period": "2026-08-12T01:40:40Z",
+          "instanceId": "17129520575"
+        },
         {
           "name": "Poligono di Tiro",
           "period": "2026-08-12T01:37:19Z",
           "instanceId": "17129291705"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-12T01:27:42Z",
+          "instanceId": "17129374323"
         },
         {
           "name": "Promessa del Discepolo: Standard",
@@ -51,16 +61,6 @@
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-08-08T18:55:32Z",
           "instanceId": "17122022807"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-08T18:43:54Z",
-          "instanceId": "17121990400"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-08T18:41:38Z",
-          "instanceId": "17121965275"
         },
         {
           "name": "Equilibrio: Standard",
