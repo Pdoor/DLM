@@ -1,22 +1,107 @@
 {
-  "generatedAt": "2026-08-12T16:01:49.330Z",
+  "generatedAt": "2026-08-12T17:31:20.359Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1786555419000,
+      "lastActivityTimestamp": 1786554064000,
+      "lastActivityText": "Campi di battaglia: Discesa: Personalizzata il 12/08/2026 17:01",
+      "activities": [
+        {
+          "name": "Campi di battaglia: Discesa: Personalizzata",
+          "period": "2026-08-12T17:01:04Z",
+          "instanceId": "17130379082"
+        },
+        {
+          "name": "Liminalità: Personalizzata",
+          "period": "2026-08-12T16:49:35Z",
+          "instanceId": "17130343552"
+        },
+        {
+          "name": "Liminalità: Personalizzata",
+          "period": "2026-08-12T16:40:42Z",
+          "instanceId": "17130335589"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-08-12T16:15:08Z",
+          "instanceId": "17130322156"
+        },
+        {
+          "name": "Avamposto dei cabal: Con matchmaking",
+          "period": "2026-08-12T15:38:31Z",
+          "instanceId": "17130287015"
+        },
+        {
+          "name": "L'astuta: Leggenda",
+          "period": "2026-08-12T15:10:57Z",
+          "instanceId": "17130240460"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-11T17:19:12Z",
+          "instanceId": "17128530624"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-11T17:17:30Z",
+          "instanceId": "17128501742"
+        },
+        {
+          "name": "Perdizione: Maestro",
+          "period": "2026-08-11T17:12:24Z",
+          "instanceId": "17128499819"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-11T17:09:31Z",
+          "instanceId": "17128493227"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1786550291000,
-      "lastActivityTimestamp": 1786548698000,
-      "lastActivityText": "Cella Senza Sole: Personalizzata il 12/08/2026 15:31",
+      "powerLevel": 517,
+      "lastPlayedTimestamp": 1786555343000,
+      "lastActivityTimestamp": 1786553205000,
+      "lastActivityText": "Cella Senza Sole: Personalizzata il 12/08/2026 16:46",
       "activities": [
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-12T16:46:45Z",
+          "instanceId": "17130380327"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-12T16:35:33Z",
+          "instanceId": "17130333625"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-12T16:04:19Z",
+          "instanceId": "17130303956"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-12T15:47:32Z",
+          "instanceId": "17130279725"
+        },
         {
           "name": "Cella Senza Sole: Personalizzata",
           "period": "2026-08-12T15:31:38Z",
@@ -46,26 +131,71 @@
           "name": "Cosmodromo",
           "period": "2026-08-12T14:27:35Z",
           "instanceId": "17130173212"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 472,
+      "lastPlayedTimestamp": 1786554091000,
+      "lastActivityTimestamp": 1786551696000,
+      "lastActivityText": "Zone di Controllo: Con matchmaking il 12/08/2026 16:21",
+      "activities": [
+        {
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-12T16:21:36Z",
+          "instanceId": "17130318266"
         },
         {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-08-12T13:24:41Z",
-          "instanceId": "17130099499"
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-12T16:08:58Z",
+          "instanceId": "17130301137"
         },
         {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-08-12T13:07:38Z",
-          "instanceId": "17130078331"
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-12T00:15:59Z",
+          "instanceId": "17129169273"
         },
         {
-          "name": "Pallido Cuore",
-          "period": "2026-08-12T12:47:03Z",
-          "instanceId": "17130058805"
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-11T20:12:54Z",
+          "instanceId": "17128782339"
         },
         {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-08-12T12:24:26Z",
-          "instanceId": "17130031679"
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-11T19:58:40Z",
+          "instanceId": "17128762877"
+        },
+        {
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-11T19:46:31Z",
+          "instanceId": "17128740903"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-11T16:54:27Z",
+          "instanceId": "17128488126"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-11T16:38:42Z",
+          "instanceId": "17128454631"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-11T16:17:13Z",
+          "instanceId": "17128429844"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-11T16:04:46Z",
+          "instanceId": "17128413600"
         }
       ]
     },
@@ -73,15 +203,20 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 533,
-      "lastPlayedTimestamp": 1786550450000,
-      "lastActivityTimestamp": 1786548557000,
-      "lastActivityText": "Adamantide, Europa: Sabotaggio: Con matchmaking il 12/08/2026 15:29",
+      "powerLevel": 535,
+      "lastPlayedTimestamp": 1786550987000,
+      "lastActivityTimestamp": 1786549709000,
+      "lastActivityText": "Adamantide, Europa: Sabotaggio: Con matchmaking il 12/08/2026 15:48",
       "activities": [
+        {
+          "name": "Adamantide, Europa: Sabotaggio: Con matchmaking",
+          "period": "2026-08-12T15:48:29Z",
+          "instanceId": "17130282887"
+        },
         {
           "name": "Adamantide, Europa: Sabotaggio: Con matchmaking",
           "period": "2026-08-12T15:29:17Z",
@@ -126,76 +261,6 @@
           "name": "Pallido Cuore",
           "period": "2026-08-10T23:47:03Z",
           "instanceId": "17127154454"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-08-10T23:05:19Z",
-          "instanceId": "17127118127"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786550498000,
-      "lastActivityTimestamp": 1786547457000,
-      "lastActivityText": "L'astuta: Leggenda il 12/08/2026 15:10",
-      "activities": [
-        {
-          "name": "L'astuta: Leggenda",
-          "period": "2026-08-12T15:10:57Z",
-          "instanceId": "17130240460"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-11T17:19:12Z",
-          "instanceId": "17128530624"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-11T17:17:30Z",
-          "instanceId": "17128501742"
-        },
-        {
-          "name": "Perdizione: Maestro",
-          "period": "2026-08-11T17:12:24Z",
-          "instanceId": "17128499819"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-11T17:09:31Z",
-          "instanceId": "17128493227"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-11T17:07:49Z",
-          "instanceId": "17128489288"
-        },
-        {
-          "name": "Covo dei Saccheggiatori: Maestro",
-          "period": "2026-08-11T17:02:02Z",
-          "instanceId": "17128487563"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-11T16:59:42Z",
-          "instanceId": "17128478713"
-        },
-        {
-          "name": "Caverna: Maestro",
-          "period": "2026-08-11T16:53:59Z",
-          "instanceId": "17128475027"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-11T16:52:19Z",
-          "instanceId": "17128466261"
         }
       ]
     },
@@ -261,71 +326,6 @@
           "name": "Orlo della Salvezza: Standard",
           "period": "2026-08-09T06:56:11Z",
           "instanceId": "17123422532"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "RICERCATO",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 468,
-      "lastPlayedTimestamp": 1786550421000,
-      "lastActivityTimestamp": 1786493759000,
-      "lastActivityText": "Zone di Controllo: Con matchmaking il 12/08/2026 00:15",
-      "activities": [
-        {
-          "name": "Zone di Controllo: Con matchmaking",
-          "period": "2026-08-12T00:15:59Z",
-          "instanceId": "17129169273"
-        },
-        {
-          "name": "Zone di Controllo: Con matchmaking",
-          "period": "2026-08-11T20:12:54Z",
-          "instanceId": "17128782339"
-        },
-        {
-          "name": "Zone di Controllo: Con matchmaking",
-          "period": "2026-08-11T19:58:40Z",
-          "instanceId": "17128762877"
-        },
-        {
-          "name": "Zone di Controllo: Con matchmaking",
-          "period": "2026-08-11T19:46:31Z",
-          "instanceId": "17128740903"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-11T16:54:27Z",
-          "instanceId": "17128488126"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-11T16:38:42Z",
-          "instanceId": "17128454631"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-11T16:17:13Z",
-          "instanceId": "17128429844"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-11T16:04:46Z",
-          "instanceId": "17128413600"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-09T18:35:23Z",
-          "instanceId": "17124487365"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-09T18:13:50Z",
-          "instanceId": "17124424206"
         }
       ]
     },
