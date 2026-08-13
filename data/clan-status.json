@@ -1,9 +1,204 @@
 {
-  "generatedAt": "2026-08-13T13:59:00.910Z",
+  "generatedAt": "2026-08-13T15:07:01.830Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786633598000,
+      "lastActivityTimestamp": 1786632288000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 13/08/2026 14:44",
+      "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-13T14:44:48Z",
+          "instanceId": "17132003073"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Personalizzata",
+          "period": "2026-08-12T17:01:04Z",
+          "instanceId": "17130379082"
+        },
+        {
+          "name": "Liminalità: Personalizzata",
+          "period": "2026-08-12T16:49:35Z",
+          "instanceId": "17130343552"
+        },
+        {
+          "name": "Liminalità: Personalizzata",
+          "period": "2026-08-12T16:40:42Z",
+          "instanceId": "17130335589"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-08-12T16:15:08Z",
+          "instanceId": "17130322156"
+        },
+        {
+          "name": "Avamposto dei cabal: Con matchmaking",
+          "period": "2026-08-12T15:38:31Z",
+          "instanceId": "17130287015"
+        },
+        {
+          "name": "L'astuta: Leggenda",
+          "period": "2026-08-12T15:10:57Z",
+          "instanceId": "17130240460"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-11T17:19:12Z",
+          "instanceId": "17128530624"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-11T17:17:30Z",
+          "instanceId": "17128501742"
+        },
+        {
+          "name": "Perdizione: Maestro",
+          "period": "2026-08-11T17:12:24Z",
+          "instanceId": "17128499819"
+        }
+      ]
+    },
+    {
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
+      "powerLevel": 364,
+      "lastPlayedTimestamp": 1786633592000,
+      "lastActivityTimestamp": 1786631645000,
+      "lastActivityText": "Il messaggio - Parte III il 13/08/2026 14:34",
+      "activities": [
+        {
+          "name": "Il messaggio - Parte III",
+          "period": "2026-08-13T14:34:05Z",
+          "instanceId": "17131982952"
+        },
+        {
+          "name": "Il messaggio - Parte II",
+          "period": "2026-08-13T14:27:27Z",
+          "instanceId": "17131967000"
+        },
+        {
+          "name": "Il messaggio - Parte I",
+          "period": "2026-08-13T14:18:44Z",
+          "instanceId": "17131958804"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-11T00:30:38Z",
+          "instanceId": "17127250154"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-10T23:47:03Z",
+          "instanceId": "17127154454"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-08-10T23:05:19Z",
+          "instanceId": "17127118127"
+        },
+        {
+          "name": "Il messaggio - Parte I",
+          "period": "2026-08-10T23:01:41Z",
+          "instanceId": "17127045671"
+        },
+        {
+          "name": "Scalata: Leggendaria",
+          "period": "2026-08-10T22:33:46Z",
+          "instanceId": "17127034995"
+        },
+        {
+          "name": "Requiem: Leggendaria",
+          "period": "2026-08-10T21:56:04Z",
+          "instanceId": "17126986527"
+        },
+        {
+          "name": "Esegesi: Leggendaria",
+          "period": "2026-08-10T21:29:55Z",
+          "instanceId": "17126922756"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 540,
+      "lastPlayedTimestamp": 1786633558000,
+      "lastActivityTimestamp": 1786631645000,
+      "lastActivityText": "Il messaggio - Parte III il 13/08/2026 14:34",
+      "activities": [
+        {
+          "name": "Il messaggio - Parte III",
+          "period": "2026-08-13T14:34:05Z",
+          "instanceId": "17131982952"
+        },
+        {
+          "name": "Il messaggio - Parte II",
+          "period": "2026-08-13T14:27:27Z",
+          "instanceId": "17131967000"
+        },
+        {
+          "name": "Il messaggio - Parte I",
+          "period": "2026-08-13T14:18:44Z",
+          "instanceId": "17131958804"
+        },
+        {
+          "name": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking",
+          "period": "2026-08-13T12:15:08Z",
+          "instanceId": "17131830782"
+        },
+        {
+          "name": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking",
+          "period": "2026-08-13T11:37:52Z",
+          "instanceId": "17131793256"
+        },
+        {
+          "name": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking",
+          "period": "2026-08-13T11:19:03Z",
+          "instanceId": "17131771955"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-08-13T11:12:52Z",
+          "instanceId": "17131756474"
+        },
+        {
+          "name": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking",
+          "period": "2026-08-12T17:37:17Z",
+          "instanceId": "17130432867"
+        },
+        {
+          "name": "Adamantide, Europa: Sabotaggio: Con matchmaking",
+          "period": "2026-08-12T15:48:29Z",
+          "instanceId": "17130282887"
+        },
+        {
+          "name": "Adamantide, Europa: Sabotaggio: Con matchmaking",
+          "period": "2026-08-12T15:29:17Z",
+          "instanceId": "17130258293"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -70,197 +265,67 @@
       ]
     },
     {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 540,
-      "lastPlayedTimestamp": 1786625024000,
-      "lastActivityTimestamp": 1786623308000,
-      "lastActivityText": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking il 13/08/2026 12:15",
-      "activities": [
-        {
-          "name": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking",
-          "period": "2026-08-13T12:15:08Z",
-          "instanceId": "17131830782"
-        },
-        {
-          "name": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking",
-          "period": "2026-08-13T11:37:52Z",
-          "instanceId": "17131793256"
-        },
-        {
-          "name": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking",
-          "period": "2026-08-13T11:19:03Z",
-          "instanceId": "17131771955"
-        },
-        {
-          "name": "Invasione",
-          "period": "2026-08-13T11:12:52Z",
-          "instanceId": "17131756474"
-        },
-        {
-          "name": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking",
-          "period": "2026-08-12T17:37:17Z",
-          "instanceId": "17130432867"
-        },
-        {
-          "name": "Adamantide, Europa: Sabotaggio: Con matchmaking",
-          "period": "2026-08-12T15:48:29Z",
-          "instanceId": "17130282887"
-        },
-        {
-          "name": "Adamantide, Europa: Sabotaggio: Con matchmaking",
-          "period": "2026-08-12T15:29:17Z",
-          "instanceId": "17130258293"
-        },
-        {
-          "name": "Adamantide, Europa: Sabotaggio: Con matchmaking",
-          "period": "2026-08-12T14:59:05Z",
-          "instanceId": "17130216714"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Leggendaria",
-          "period": "2026-08-12T14:06:37Z",
-          "instanceId": "17130188739"
-        },
-        {
-          "name": "Gloria futura: Leggendaria",
-          "period": "2026-08-12T13:12:46Z",
-          "instanceId": "17130090667"
-        }
-      ]
-    },
-    {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "RICERCATO",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 472,
-      "lastPlayedTimestamp": 1786576211000,
-      "lastActivityTimestamp": 1786575767000,
-      "lastActivityText": "Confluenza: Personalizzata il 12/08/2026 23:02",
-      "activities": [
-        {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-08-12T23:02:47Z",
-          "instanceId": "17130878595"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-12T22:56:23Z",
-          "instanceId": "17130869782"
-        },
-        {
-          "name": "Zone di Controllo: Con matchmaking",
-          "period": "2026-08-12T16:21:36Z",
-          "instanceId": "17130318266"
-        },
-        {
-          "name": "Zone di Controllo: Con matchmaking",
-          "period": "2026-08-12T16:08:58Z",
-          "instanceId": "17130301137"
-        },
-        {
-          "name": "Zone di Controllo: Con matchmaking",
-          "period": "2026-08-12T00:15:59Z",
-          "instanceId": "17129169273"
-        },
-        {
-          "name": "Zone di Controllo: Con matchmaking",
-          "period": "2026-08-11T20:12:54Z",
-          "instanceId": "17128782339"
-        },
-        {
-          "name": "Zone di Controllo: Con matchmaking",
-          "period": "2026-08-11T19:58:40Z",
-          "instanceId": "17128762877"
-        },
-        {
-          "name": "Zone di Controllo: Con matchmaking",
-          "period": "2026-08-11T19:46:31Z",
-          "instanceId": "17128740903"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-11T16:54:27Z",
-          "instanceId": "17128488126"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-11T16:38:42Z",
-          "instanceId": "17128454631"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1786555419000,
-      "lastActivityTimestamp": 1786554064000,
-      "lastActivityText": "Campi di battaglia: Discesa: Personalizzata il 12/08/2026 17:01",
+      "title": "Mietitrice",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1786633347000,
+      "lastActivityTimestamp": 1786572768000,
+      "lastActivityText": "Corte della Vedova: Con matchmaking il 12/08/2026 22:12",
       "activities": [
         {
-          "name": "Campi di battaglia: Discesa: Personalizzata",
-          "period": "2026-08-12T17:01:04Z",
-          "instanceId": "17130379082"
+          "name": "Corte della Vedova: Con matchmaking",
+          "period": "2026-08-12T22:12:48Z",
+          "instanceId": "17130866296"
         },
         {
-          "name": "Liminalità: Personalizzata",
-          "period": "2026-08-12T16:49:35Z",
-          "instanceId": "17130343552"
-        },
-        {
-          "name": "Liminalità: Personalizzata",
-          "period": "2026-08-12T16:40:42Z",
-          "instanceId": "17130335589"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-08-12T16:15:08Z",
-          "instanceId": "17130322156"
-        },
-        {
-          "name": "Avamposto dei cabal: Con matchmaking",
-          "period": "2026-08-12T15:38:31Z",
-          "instanceId": "17130287015"
-        },
-        {
-          "name": "L'astuta: Leggenda",
-          "period": "2026-08-12T15:10:57Z",
-          "instanceId": "17130240460"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-11T17:19:12Z",
-          "instanceId": "17128530624"
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-12T21:52:39Z",
+          "instanceId": "17130787768"
         },
         {
           "name": "Europa",
-          "period": "2026-08-11T17:17:30Z",
-          "instanceId": "17128501742"
+          "period": "2026-08-12T21:14:13Z",
+          "instanceId": "17130753799"
         },
         {
-          "name": "Perdizione: Maestro",
-          "period": "2026-08-11T17:12:24Z",
-          "instanceId": "17128499819"
+          "name": "Promessa del Discepolo: Maestro",
+          "period": "2026-08-12T01:40:40Z",
+          "instanceId": "17129520575"
         },
         {
-          "name": "Europa",
-          "period": "2026-08-11T17:09:31Z",
-          "instanceId": "17128493227"
+          "name": "Poligono di Tiro",
+          "period": "2026-08-12T01:37:19Z",
+          "instanceId": "17129291705"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-12T01:27:42Z",
+          "instanceId": "17129374323"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-08-12T01:10:22Z",
+          "instanceId": "17129288495"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-08-11T21:56:27Z",
+          "instanceId": "17129237244"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-11T21:03:04Z",
+          "instanceId": "17129090380"
+        },
+        {
+          "name": "Spirale invertita: Personalizzata",
+          "period": "2026-08-11T17:20:02Z",
+          "instanceId": "17128552506"
         }
       ]
     },
@@ -456,71 +521,6 @@
           "name": "La Fortezza Scarlatta: Con matchmaking",
           "period": "2026-08-06T13:32:36Z",
           "instanceId": "17117068790"
-        }
-      ]
-    },
-    {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
-      "powerLevel": 364,
-      "lastPlayedTimestamp": 1786409956000,
-      "lastActivityTimestamp": 1786408238000,
-      "lastActivityText": "Poligono di Tiro il 11/08/2026 00:30",
-      "activities": [
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-11T00:30:38Z",
-          "instanceId": "17127250154"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-10T23:47:03Z",
-          "instanceId": "17127154454"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-08-10T23:05:19Z",
-          "instanceId": "17127118127"
-        },
-        {
-          "name": "Il messaggio - Parte I",
-          "period": "2026-08-10T23:01:41Z",
-          "instanceId": "17127045671"
-        },
-        {
-          "name": "Scalata: Leggendaria",
-          "period": "2026-08-10T22:33:46Z",
-          "instanceId": "17127034995"
-        },
-        {
-          "name": "Requiem: Leggendaria",
-          "period": "2026-08-10T21:56:04Z",
-          "instanceId": "17126986527"
-        },
-        {
-          "name": "Esegesi: Leggendaria",
-          "period": "2026-08-10T21:29:55Z",
-          "instanceId": "17126922756"
-        },
-        {
-          "name": "Tentazione: Leggendaria",
-          "period": "2026-08-10T21:05:34Z",
-          "instanceId": "17126878579"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-07-26T01:14:25Z",
-          "instanceId": "17088747802"
-        },
-        {
-          "name": "Vegliante del niente: Personalizzata",
-          "period": "2026-07-26T00:27:30Z",
-          "instanceId": "17088539238"
         }
       ]
     },
@@ -923,7 +923,7 @@
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
       "powerLevel": 281,
-      "lastPlayedTimestamp": 1785856104000,
+      "lastPlayedTimestamp": 1786630952000,
       "lastActivityTimestamp": 1785854877000,
       "lastActivityText": "Fortezza: Con matchmaking il 04/08/2026 14:47",
       "activities": [
