@@ -1,22 +1,92 @@
 {
-  "generatedAt": "2026-08-13T12:11:21.986Z",
+  "generatedAt": "2026-08-13T13:59:00.910Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1786625445000,
+      "lastActivityTimestamp": 1786624681000,
+      "lastActivityText": "Il Tecnocrate: Con matchmaking il 13/08/2026 12:38",
+      "activities": [
+        {
+          "name": "Il Tecnocrate: Con matchmaking",
+          "period": "2026-08-13T12:38:01Z",
+          "instanceId": "17131853975"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-08-13T12:20:42Z",
+          "instanceId": "17131827446"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-08-13T10:42:00Z",
+          "instanceId": "17131738926"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-08-13T07:04:32Z",
+          "instanceId": "17131558279"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-12T16:46:45Z",
+          "instanceId": "17130380327"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-12T16:35:33Z",
+          "instanceId": "17130333625"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-12T16:04:19Z",
+          "instanceId": "17130303956"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-12T15:47:32Z",
+          "instanceId": "17130279725"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-12T15:31:38Z",
+          "instanceId": "17130255188"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-12T15:22:58Z",
+          "instanceId": "17130236823"
+        }
+      ]
+    },
+    {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 530,
-      "lastPlayedTimestamp": 1786623034000,
-      "lastActivityTimestamp": 1786621072000,
-      "lastActivityText": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking il 13/08/2026 11:37",
+      "powerLevel": 540,
+      "lastPlayedTimestamp": 1786625024000,
+      "lastActivityTimestamp": 1786623308000,
+      "lastActivityText": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking il 13/08/2026 12:15",
       "activities": [
+        {
+          "name": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking",
+          "period": "2026-08-13T12:15:08Z",
+          "instanceId": "17131830782"
+        },
         {
           "name": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking",
           "period": "2026-08-13T11:37:52Z",
@@ -61,76 +131,6 @@
           "name": "Gloria futura: Leggendaria",
           "period": "2026-08-12T13:12:46Z",
           "instanceId": "17130090667"
-        },
-        {
-          "name": "Il Relitto",
-          "period": "2026-08-12T13:10:19Z",
-          "instanceId": "17130066270"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1786622913000,
-      "lastActivityTimestamp": 1786617720000,
-      "lastActivityText": "Campi di battaglia: Colosso: Con matchmaking il 13/08/2026 10:42",
-      "activities": [
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-08-13T10:42:00Z",
-          "instanceId": "17131738926"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-08-13T07:04:32Z",
-          "instanceId": "17131558279"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-12T16:46:45Z",
-          "instanceId": "17130380327"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-12T16:35:33Z",
-          "instanceId": "17130333625"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-12T16:04:19Z",
-          "instanceId": "17130303956"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-12T15:47:32Z",
-          "instanceId": "17130279725"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-12T15:31:38Z",
-          "instanceId": "17130255188"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-12T15:22:58Z",
-          "instanceId": "17130236823"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-12T15:19:48Z",
-          "instanceId": "17130225493"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-08-12T15:02:41Z",
-          "instanceId": "17130221620"
         }
       ]
     },
