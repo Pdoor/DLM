@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-13T06:57:53.637Z",
+  "generatedAt": "2026-08-13T08:38:15.277Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1786605635000,
+      "lastActivityTimestamp": 1786604672000,
+      "lastActivityText": "Campi di battaglia: Colosso: Con matchmaking il 13/08/2026 07:04",
+      "activities": [
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-08-13T07:04:32Z",
+          "instanceId": "17131558279"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-12T16:46:45Z",
+          "instanceId": "17130380327"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-12T16:35:33Z",
+          "instanceId": "17130333625"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-12T16:04:19Z",
+          "instanceId": "17130303956"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-12T15:47:32Z",
+          "instanceId": "17130279725"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-12T15:31:38Z",
+          "instanceId": "17130255188"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-12T15:22:58Z",
+          "instanceId": "17130236823"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-12T15:19:48Z",
+          "instanceId": "17130225493"
+        },
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-08-12T15:02:41Z",
+          "instanceId": "17130221620"
+        },
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-08-12T14:59:48Z",
+          "instanceId": "17130197771"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -200,71 +265,6 @@
       ]
     },
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1786604178000,
-      "lastActivityTimestamp": 1786553205000,
-      "lastActivityText": "Cella Senza Sole: Personalizzata il 12/08/2026 16:46",
-      "activities": [
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-12T16:46:45Z",
-          "instanceId": "17130380327"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-12T16:35:33Z",
-          "instanceId": "17130333625"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-12T16:04:19Z",
-          "instanceId": "17130303956"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-12T15:47:32Z",
-          "instanceId": "17130279725"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-12T15:31:38Z",
-          "instanceId": "17130255188"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-12T15:22:58Z",
-          "instanceId": "17130236823"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-12T15:19:48Z",
-          "instanceId": "17130225493"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-08-12T15:02:41Z",
-          "instanceId": "17130221620"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-08-12T14:59:48Z",
-          "instanceId": "17130197771"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-12T14:27:35Z",
-          "instanceId": "17130173212"
-        }
-      ]
-    },
-    {
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
       "bungieNetMembershipId": "",
@@ -337,8 +337,8 @@
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 528,
-      "lastPlayedTimestamp": 1786433767000,
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786605137000,
       "lastActivityTimestamp": 1786430394000,
       "lastActivityText": "Luna il 11/08/2026 06:39",
       "activities": [
