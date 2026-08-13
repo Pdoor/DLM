@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-13T22:19:26.664Z",
+  "generatedAt": "2026-08-13T23:12:57.121Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
+      "powerLevel": 372,
+      "lastPlayedTimestamp": 1786662713000,
+      "lastActivityTimestamp": 1786662136000,
+      "lastActivityText": "Pallido Cuore il 13/08/2026 23:02",
+      "activities": [
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-13T23:02:16Z",
+          "instanceId": "17132656839"
+        },
+        {
+          "name": "Scalata: Normale",
+          "period": "2026-08-13T22:07:39Z",
+          "instanceId": "17132585727"
+        },
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-08-13T21:50:34Z",
+          "instanceId": "17132568915"
+        },
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-08-13T21:36:55Z",
+          "instanceId": "17132552637"
+        },
+        {
+          "name": "La radice degli incubi: Maestro",
+          "period": "2026-08-13T21:01:05Z",
+          "instanceId": "17132539323"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-13T20:53:43Z",
+          "instanceId": "17132474747"
+        },
+        {
+          "name": "Casa - Parte II",
+          "period": "2026-08-13T20:39:29Z",
+          "instanceId": "17132472690"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-13T20:37:44Z",
+          "instanceId": "17132452017"
+        },
+        {
+          "name": "Casa - Parte I",
+          "period": "2026-08-13T20:28:38Z",
+          "instanceId": "17132449638"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-13T20:26:20Z",
+          "instanceId": "17132437369"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -13,7 +78,7 @@
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 545,
-      "lastPlayedTimestamp": 1786659485000,
+      "lastPlayedTimestamp": 1786662768000,
       "lastActivityTimestamp": 1786658971000,
       "lastActivityText": "Deserto perpetuo (modalità epica): Standard il 13/08/2026 22:09",
       "activities": [
@@ -66,71 +131,6 @@
           "name": "Equilibrio: Standard",
           "period": "2026-08-12T01:27:42Z",
           "instanceId": "17129374323"
-        }
-      ]
-    },
-    {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
-      "powerLevel": 372,
-      "lastPlayedTimestamp": 1786659384000,
-      "lastActivityTimestamp": 1786658859000,
-      "lastActivityText": "Scalata: Normale il 13/08/2026 22:07",
-      "activities": [
-        {
-          "name": "Scalata: Normale",
-          "period": "2026-08-13T22:07:39Z",
-          "instanceId": "17132585727"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-08-13T21:50:34Z",
-          "instanceId": "17132568915"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-08-13T21:36:55Z",
-          "instanceId": "17132552637"
-        },
-        {
-          "name": "La radice degli incubi: Maestro",
-          "period": "2026-08-13T21:01:05Z",
-          "instanceId": "17132539323"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-13T20:53:43Z",
-          "instanceId": "17132474747"
-        },
-        {
-          "name": "Casa - Parte II",
-          "period": "2026-08-13T20:39:29Z",
-          "instanceId": "17132472690"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-13T20:37:44Z",
-          "instanceId": "17132452017"
-        },
-        {
-          "name": "Casa - Parte I",
-          "period": "2026-08-13T20:28:38Z",
-          "instanceId": "17132449638"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-13T20:26:20Z",
-          "instanceId": "17132437369"
-        },
-        {
-          "name": "Il Vacuo - Parte II",
-          "period": "2026-08-13T20:11:24Z",
-          "instanceId": "17132433607"
         }
       ]
     },
