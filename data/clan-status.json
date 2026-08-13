@@ -1,74 +1,9 @@
 {
-  "generatedAt": "2026-08-13T19:08:47.294Z",
+  "generatedAt": "2026-08-13T20:05:12.089Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
-    {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
-      "powerLevel": 371,
-      "lastPlayedTimestamp": 1786647953000,
-      "lastActivityTimestamp": 1786646680000,
-      "lastActivityText": "Escissione: Solo gioco il 13/08/2026 18:44",
-      "activities": [
-        {
-          "name": "Escissione: Solo gioco",
-          "period": "2026-08-13T18:44:40Z",
-          "instanceId": "17132321814"
-        },
-        {
-          "name": "Escissione: Gran maestro",
-          "period": "2026-08-13T18:38:54Z",
-          "instanceId": "17132288102"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-13T18:33:26Z",
-          "instanceId": "17132285504"
-        },
-        {
-          "name": "Iconoclastia: Leggendaria",
-          "period": "2026-08-13T17:30:17Z",
-          "instanceId": "17132241741"
-        },
-        {
-          "name": "La radice degli incubi: Maestro",
-          "period": "2026-08-13T17:10:38Z",
-          "instanceId": "17132282216"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-08-13T16:33:04Z",
-          "instanceId": "17132162041"
-        },
-        {
-          "name": "Dissenso: Leggendaria",
-          "period": "2026-08-13T15:32:45Z",
-          "instanceId": "17132069851"
-        },
-        {
-          "name": "Liminalità: Normale",
-          "period": "2026-08-13T15:12:57Z",
-          "instanceId": "17132038110"
-        },
-        {
-          "name": "Liminalità: Normale",
-          "period": "2026-08-13T14:50:11Z",
-          "instanceId": "17132012385"
-        },
-        {
-          "name": "Il messaggio - Parte III",
-          "period": "2026-08-13T14:34:05Z",
-          "instanceId": "17131982952"
-        }
-      ]
-    },
     {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
@@ -78,10 +13,100 @@
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
       "powerLevel": 540,
-      "lastPlayedTimestamp": 1786648044000,
-      "lastActivityTimestamp": 1786646680000,
-      "lastActivityText": "Escissione: Solo gioco il 13/08/2026 18:44",
+      "lastPlayedTimestamp": 1786651493000,
+      "lastActivityTimestamp": 1786650883000,
+      "lastActivityText": "Invasione il 13/08/2026 19:54",
       "activities": [
+        {
+          "name": "Invasione",
+          "period": "2026-08-13T19:54:43Z",
+          "instanceId": "17132398607"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-08-13T19:53:43Z",
+          "instanceId": "17132389381"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-08-13T19:49:53Z",
+          "instanceId": "17132387734"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-08-13T19:45:46Z",
+          "instanceId": "17132382575"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-08-13T19:44:49Z",
+          "instanceId": "17132377292"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-08-13T19:41:28Z",
+          "instanceId": "17132375477"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-08-13T19:40:28Z",
+          "instanceId": "17132371449"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-08-13T19:36:15Z",
+          "instanceId": "17132368262"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-08-13T19:33:39Z",
+          "instanceId": "17132363824"
+        },
+        {
+          "name": "Regine - Parte I",
+          "period": "2026-08-13T19:20:32Z",
+          "instanceId": "17132365815"
+        }
+      ]
+    },
+    {
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
+      "powerLevel": 372,
+      "lastPlayedTimestamp": 1786651458000,
+      "lastActivityTimestamp": 1786650576000,
+      "lastActivityText": "Pallido Cuore il 13/08/2026 19:49",
+      "activities": [
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-13T19:49:36Z",
+          "instanceId": "17132383852"
+        },
+        {
+          "name": "Regine - Parte II",
+          "period": "2026-08-13T19:38:50Z",
+          "instanceId": "17132382406"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-13T19:37:27Z",
+          "instanceId": "17132367562"
+        },
+        {
+          "name": "Regine - Parte I",
+          "period": "2026-08-13T19:20:32Z",
+          "instanceId": "17132365815"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-13T19:15:27Z",
+          "instanceId": "17132342584"
+        },
         {
           "name": "Escissione: Solo gioco",
           "period": "2026-08-13T18:44:40Z",
@@ -106,31 +131,71 @@
           "name": "La radice degli incubi: Maestro",
           "period": "2026-08-13T17:10:38Z",
           "instanceId": "17132282216"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1786647834000,
+      "lastActivityTimestamp": 1786644135000,
+      "lastActivityText": "Morsa della cupidigia: Standard il 13/08/2026 18:02",
+      "activities": [
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-13T18:02:15Z",
+          "instanceId": "17132340500"
         },
         {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-08-13T16:33:04Z",
-          "instanceId": "17132162041"
+          "name": "Dottrina dilaniata: Normale",
+          "period": "2026-08-13T17:15:34Z",
+          "instanceId": "17132236197"
         },
         {
-          "name": "Dissenso: Leggendaria",
-          "period": "2026-08-13T15:32:45Z",
-          "instanceId": "17132069851"
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-13T16:59:23Z",
+          "instanceId": "17132173332"
         },
         {
-          "name": "Liminalità: Normale",
-          "period": "2026-08-13T15:12:57Z",
-          "instanceId": "17132038110"
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-13T16:42:07Z",
+          "instanceId": "17132148773"
         },
         {
-          "name": "Liminalità: Normale",
-          "period": "2026-08-13T14:50:11Z",
-          "instanceId": "17132012385"
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-13T16:40:28Z",
+          "instanceId": "17132132113"
         },
         {
-          "name": "Il messaggio - Parte III",
-          "period": "2026-08-13T14:34:05Z",
-          "instanceId": "17131982952"
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-13T16:38:17Z",
+          "instanceId": "17132142783"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-08-13T16:03:04Z",
+          "instanceId": "17132120490"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-13T16:00:50Z",
+          "instanceId": "17132081156"
+        },
+        {
+          "name": "Sito di Scavo XII: Maestro",
+          "period": "2026-08-13T15:56:14Z",
+          "instanceId": "17132079930"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-13T15:53:34Z",
+          "instanceId": "17132073130"
         }
       ]
     },
@@ -196,71 +261,6 @@
           "name": "Sito di Scavo XII: Maestro",
           "period": "2026-08-13T15:56:14Z",
           "instanceId": "17132079930"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1786647834000,
-      "lastActivityTimestamp": 1786641334000,
-      "lastActivityText": "Dottrina dilaniata: Normale il 13/08/2026 17:15",
-      "activities": [
-        {
-          "name": "Dottrina dilaniata: Normale",
-          "period": "2026-08-13T17:15:34Z",
-          "instanceId": "17132236197"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-13T16:59:23Z",
-          "instanceId": "17132173332"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-13T16:42:07Z",
-          "instanceId": "17132148773"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-13T16:40:28Z",
-          "instanceId": "17132132113"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-13T16:38:17Z",
-          "instanceId": "17132142783"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-08-13T16:03:04Z",
-          "instanceId": "17132120490"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-13T16:00:50Z",
-          "instanceId": "17132081156"
-        },
-        {
-          "name": "Sito di Scavo XII: Maestro",
-          "period": "2026-08-13T15:56:14Z",
-          "instanceId": "17132079930"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-13T15:53:34Z",
-          "instanceId": "17132073130"
-        },
-        {
-          "name": "Il Tecnocrate: Con matchmaking",
-          "period": "2026-08-13T12:38:01Z",
-          "instanceId": "17131853975"
         }
       ]
     },
