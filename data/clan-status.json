@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T11:22:06.056Z",
+  "generatedAt": "2026-08-13T12:11:21.986Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,21 @@
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 537,
-      "lastPlayedTimestamp": 1786620105000,
-      "lastActivityTimestamp": 1786619572000,
-      "lastActivityText": "Invasione il 13/08/2026 11:12",
+      "powerLevel": 530,
+      "lastPlayedTimestamp": 1786623034000,
+      "lastActivityTimestamp": 1786621072000,
+      "lastActivityText": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking il 13/08/2026 11:37",
       "activities": [
+        {
+          "name": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking",
+          "period": "2026-08-13T11:37:52Z",
+          "instanceId": "17131793256"
+        },
+        {
+          "name": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking",
+          "period": "2026-08-13T11:19:03Z",
+          "instanceId": "17131771955"
+        },
         {
           "name": "Invasione",
           "period": "2026-08-13T11:12:52Z",
@@ -56,16 +66,6 @@
           "name": "Il Relitto",
           "period": "2026-08-12T13:10:19Z",
           "instanceId": "17130066270"
-        },
-        {
-          "name": "Il lungo inganno: Leggendaria",
-          "period": "2026-08-12T12:49:12Z",
-          "instanceId": "17130063366"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Leggendaria",
-          "period": "2026-08-12T11:36:19Z",
-          "instanceId": "17130007207"
         }
       ]
     },
@@ -73,12 +73,12 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1786619309000,
+      "lastPlayedTimestamp": 1786622913000,
       "lastActivityTimestamp": 1786617720000,
       "lastActivityText": "Campi di battaglia: Colosso: Con matchmaking il 13/08/2026 10:42",
       "activities": [
