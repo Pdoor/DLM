@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T16:26:13.722Z",
+  "generatedAt": "2026-08-13T17:31:14.692Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,40 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786638351000,
-      "lastActivityTimestamp": 1786636850000,
-      "lastActivityText": "Zona Morta Europea il 13/08/2026 16:00",
+      "lastPlayedTimestamp": 1786641388000,
+      "lastActivityTimestamp": 1786640363000,
+      "lastActivityText": "Partita veloce: Normale il 13/08/2026 16:59",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-13T16:59:23Z",
+          "instanceId": "17132173332"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-13T16:42:07Z",
+          "instanceId": "17132148773"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-13T16:40:28Z",
+          "instanceId": "17132132113"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-13T16:38:17Z",
+          "instanceId": "17132142783"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-08-13T16:03:04Z",
+          "instanceId": "17132120490"
+        },
         {
           "name": "Zona Morta Europea",
           "period": "2026-08-13T16:00:50Z",
@@ -41,31 +66,6 @@
           "name": "Zona Morta Europea",
           "period": "2026-08-13T15:34:44Z",
           "instanceId": "17132059172"
-        },
-        {
-          "name": "Sito di Scavo XII: Esperto",
-          "period": "2026-08-13T15:29:00Z",
-          "instanceId": "17132044596"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-13T15:27:24Z",
-          "instanceId": "17132037693"
-        },
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-08-13T15:19:11Z",
-          "instanceId": "17132033810"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-13T14:44:48Z",
-          "instanceId": "17132003073"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Personalizzata",
-          "period": "2026-08-12T17:01:04Z",
-          "instanceId": "17130379082"
         }
       ]
     },
@@ -78,10 +78,35 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1786638299000,
-      "lastActivityTimestamp": 1786636850000,
-      "lastActivityText": "Zona Morta Europea il 13/08/2026 16:00",
+      "lastPlayedTimestamp": 1786642185000,
+      "lastActivityTimestamp": 1786640363000,
+      "lastActivityText": "Partita veloce: Normale il 13/08/2026 16:59",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-13T16:59:23Z",
+          "instanceId": "17132173332"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-13T16:42:07Z",
+          "instanceId": "17132148773"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-13T16:40:28Z",
+          "instanceId": "17132132113"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-13T16:38:17Z",
+          "instanceId": "17132142783"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-08-13T16:03:04Z",
+          "instanceId": "17132120490"
+        },
         {
           "name": "Zona Morta Europea",
           "period": "2026-08-13T16:00:50Z",
@@ -106,161 +131,6 @@
           "name": "La disonorata: Con matchmaking",
           "period": "2026-08-13T12:20:42Z",
           "instanceId": "17131827446"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-08-13T10:42:00Z",
-          "instanceId": "17131738926"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-08-13T07:04:32Z",
-          "instanceId": "17131558279"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-12T16:46:45Z",
-          "instanceId": "17130380327"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-12T16:35:33Z",
-          "instanceId": "17130333625"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-12T16:04:19Z",
-          "instanceId": "17130303956"
-        }
-      ]
-    },
-    {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
-      "powerLevel": 364,
-      "lastPlayedTimestamp": 1786638147000,
-      "lastActivityTimestamp": 1786635165000,
-      "lastActivityText": "Dissenso: Leggendaria il 13/08/2026 15:32",
-      "activities": [
-        {
-          "name": "Dissenso: Leggendaria",
-          "period": "2026-08-13T15:32:45Z",
-          "instanceId": "17132069851"
-        },
-        {
-          "name": "Liminalità: Normale",
-          "period": "2026-08-13T15:12:57Z",
-          "instanceId": "17132038110"
-        },
-        {
-          "name": "Liminalità: Normale",
-          "period": "2026-08-13T14:50:11Z",
-          "instanceId": "17132012385"
-        },
-        {
-          "name": "Il messaggio - Parte III",
-          "period": "2026-08-13T14:34:05Z",
-          "instanceId": "17131982952"
-        },
-        {
-          "name": "Il messaggio - Parte II",
-          "period": "2026-08-13T14:27:27Z",
-          "instanceId": "17131967000"
-        },
-        {
-          "name": "Il messaggio - Parte I",
-          "period": "2026-08-13T14:18:44Z",
-          "instanceId": "17131958804"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-11T00:30:38Z",
-          "instanceId": "17127250154"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-10T23:47:03Z",
-          "instanceId": "17127154454"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-08-10T23:05:19Z",
-          "instanceId": "17127118127"
-        },
-        {
-          "name": "Il messaggio - Parte I",
-          "period": "2026-08-10T23:01:41Z",
-          "instanceId": "17127045671"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 542,
-      "lastPlayedTimestamp": 1786636510000,
-      "lastActivityTimestamp": 1786635165000,
-      "lastActivityText": "Dissenso: Leggendaria il 13/08/2026 15:32",
-      "activities": [
-        {
-          "name": "Dissenso: Leggendaria",
-          "period": "2026-08-13T15:32:45Z",
-          "instanceId": "17132069851"
-        },
-        {
-          "name": "Liminalità: Normale",
-          "period": "2026-08-13T15:12:57Z",
-          "instanceId": "17132038110"
-        },
-        {
-          "name": "Liminalità: Normale",
-          "period": "2026-08-13T14:50:11Z",
-          "instanceId": "17132012385"
-        },
-        {
-          "name": "Il messaggio - Parte III",
-          "period": "2026-08-13T14:34:05Z",
-          "instanceId": "17131982952"
-        },
-        {
-          "name": "Il messaggio - Parte II",
-          "period": "2026-08-13T14:27:27Z",
-          "instanceId": "17131967000"
-        },
-        {
-          "name": "Il messaggio - Parte I",
-          "period": "2026-08-13T14:18:44Z",
-          "instanceId": "17131958804"
-        },
-        {
-          "name": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking",
-          "period": "2026-08-13T12:15:08Z",
-          "instanceId": "17131830782"
-        },
-        {
-          "name": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking",
-          "period": "2026-08-13T11:37:52Z",
-          "instanceId": "17131793256"
-        },
-        {
-          "name": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking",
-          "period": "2026-08-13T11:19:03Z",
-          "instanceId": "17131771955"
-        },
-        {
-          "name": "Invasione",
-          "period": "2026-08-13T11:12:52Z",
-          "instanceId": "17131756474"
         }
       ]
     },
@@ -268,15 +138,20 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 530,
-      "lastPlayedTimestamp": 1786638276000,
-      "lastActivityTimestamp": 1786631245000,
-      "lastActivityText": "La fine di Crota: Standard il 13/08/2026 14:27",
+      "powerLevel": 510,
+      "lastPlayedTimestamp": 1786641204000,
+      "lastActivityTimestamp": 1786638910000,
+      "lastActivityText": "Promessa del Discepolo: Maestro il 13/08/2026 16:35",
       "activities": [
+        {
+          "name": "Promessa del Discepolo: Maestro",
+          "period": "2026-08-13T16:35:10Z",
+          "instanceId": "17132164372"
+        },
         {
           "name": "La fine di Crota: Standard",
           "period": "2026-08-13T14:27:25Z",
@@ -321,11 +196,136 @@
           "name": "Promessa del Discepolo: Standard",
           "period": "2026-08-11T21:56:27Z",
           "instanceId": "17129237244"
+        }
+      ]
+    },
+    {
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
+      "powerLevel": 368,
+      "lastPlayedTimestamp": 1786642222000,
+      "lastActivityTimestamp": 1786638784000,
+      "lastActivityText": "La radice degli incubi: Standard il 13/08/2026 16:33",
+      "activities": [
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-08-13T16:33:04Z",
+          "instanceId": "17132162041"
         },
         {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-11T21:03:04Z",
-          "instanceId": "17129090380"
+          "name": "Dissenso: Leggendaria",
+          "period": "2026-08-13T15:32:45Z",
+          "instanceId": "17132069851"
+        },
+        {
+          "name": "Liminalità: Normale",
+          "period": "2026-08-13T15:12:57Z",
+          "instanceId": "17132038110"
+        },
+        {
+          "name": "Liminalità: Normale",
+          "period": "2026-08-13T14:50:11Z",
+          "instanceId": "17132012385"
+        },
+        {
+          "name": "Il messaggio - Parte III",
+          "period": "2026-08-13T14:34:05Z",
+          "instanceId": "17131982952"
+        },
+        {
+          "name": "Il messaggio - Parte II",
+          "period": "2026-08-13T14:27:27Z",
+          "instanceId": "17131967000"
+        },
+        {
+          "name": "Il messaggio - Parte I",
+          "period": "2026-08-13T14:18:44Z",
+          "instanceId": "17131958804"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-11T00:30:38Z",
+          "instanceId": "17127250154"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-10T23:47:03Z",
+          "instanceId": "17127154454"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-08-10T23:05:19Z",
+          "instanceId": "17127118127"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 542,
+      "lastPlayedTimestamp": 1786642232000,
+      "lastActivityTimestamp": 1786638784000,
+      "lastActivityText": "La radice degli incubi: Standard il 13/08/2026 16:33",
+      "activities": [
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-08-13T16:33:04Z",
+          "instanceId": "17132162041"
+        },
+        {
+          "name": "Dissenso: Leggendaria",
+          "period": "2026-08-13T15:32:45Z",
+          "instanceId": "17132069851"
+        },
+        {
+          "name": "Liminalità: Normale",
+          "period": "2026-08-13T15:12:57Z",
+          "instanceId": "17132038110"
+        },
+        {
+          "name": "Liminalità: Normale",
+          "period": "2026-08-13T14:50:11Z",
+          "instanceId": "17132012385"
+        },
+        {
+          "name": "Il messaggio - Parte III",
+          "period": "2026-08-13T14:34:05Z",
+          "instanceId": "17131982952"
+        },
+        {
+          "name": "Il messaggio - Parte II",
+          "period": "2026-08-13T14:27:27Z",
+          "instanceId": "17131967000"
+        },
+        {
+          "name": "Il messaggio - Parte I",
+          "period": "2026-08-13T14:18:44Z",
+          "instanceId": "17131958804"
+        },
+        {
+          "name": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking",
+          "period": "2026-08-13T12:15:08Z",
+          "instanceId": "17131830782"
+        },
+        {
+          "name": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking",
+          "period": "2026-08-13T11:37:52Z",
+          "instanceId": "17131793256"
+        },
+        {
+          "name": "Periferia di Libernia, Marte: Caccia alle taglie: Con matchmaking",
+          "period": "2026-08-13T11:19:03Z",
+          "instanceId": "17131771955"
         }
       ]
     },
