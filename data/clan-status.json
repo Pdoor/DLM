@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T23:12:57.121Z",
+  "generatedAt": "2026-08-14T00:08:41.833Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,12 +8,12 @@
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
       "powerLevel": 372,
-      "lastPlayedTimestamp": 1786662713000,
+      "lastPlayedTimestamp": 1786663844000,
       "lastActivityTimestamp": 1786662136000,
       "lastActivityText": "Pallido Cuore il 13/08/2026 23:02",
       "activities": [
@@ -73,15 +73,20 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1786662768000,
-      "lastActivityTimestamp": 1786658971000,
-      "lastActivityText": "Deserto perpetuo (modalità epica): Standard il 13/08/2026 22:09",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786663169000,
+      "lastActivityTimestamp": 1786659204000,
+      "lastActivityText": "Deserto perpetuo (modalità epica): Standard il 13/08/2026 22:13",
       "activities": [
+        {
+          "name": "Deserto perpetuo (modalità epica): Standard",
+          "period": "2026-08-13T22:13:24Z",
+          "instanceId": "17132678731"
+        },
         {
           "name": "Deserto perpetuo (modalità epica): Standard",
           "period": "2026-08-13T22:09:31Z",
@@ -121,11 +126,6 @@
           "name": "Promessa del Discepolo: Maestro",
           "period": "2026-08-12T01:40:40Z",
           "instanceId": "17129520575"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-12T01:37:19Z",
-          "instanceId": "17129291705"
         },
         {
           "name": "Equilibrio: Standard",
