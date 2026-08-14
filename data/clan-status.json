@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T21:33:27.975Z",
+  "generatedAt": "2026-08-14T22:28:34.760Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,19 +8,29 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1786743168000,
-      "lastActivityTimestamp": 1786738990000,
-      "lastActivityText": "Partita privata il 14/08/2026 20:23",
+      "powerLevel": 525,
+      "lastPlayedTimestamp": 1786743835000,
+      "lastActivityTimestamp": 1786740048000,
+      "lastActivityText": "Volta di Vetro: Standard il 14/08/2026 20:40",
       "activities": [
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-08-14T20:40:48Z",
+          "instanceId": "17134320901"
+        },
         {
           "name": "Partita privata",
           "period": "2026-08-14T20:23:10Z",
           "instanceId": "17134191303"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-08-14T20:15:40Z",
+          "instanceId": "17134387360"
         },
         {
           "name": "Equilibrio: Standard",
@@ -56,16 +66,6 @@
           "name": "La fine di Crota: Standard",
           "period": "2026-08-13T14:27:25Z",
           "instanceId": "17132109699"
-        },
-        {
-          "name": "Corte della Vedova: Con matchmaking",
-          "period": "2026-08-12T22:12:48Z",
-          "instanceId": "17130866296"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-12T21:52:39Z",
-          "instanceId": "17130787768"
         }
       ]
     },
@@ -918,12 +918,12 @@
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
       "powerLevel": 453,
-      "lastPlayedTimestamp": 1786743166000,
+      "lastPlayedTimestamp": 1786743326000,
       "lastActivityTimestamp": 1785854877000,
       "lastActivityText": "Fortezza: Con matchmaking il 04/08/2026 14:47",
       "activities": [
