@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-14T17:00:52.404Z",
+  "generatedAt": "2026-08-14T18:26:08.389Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1786726786000,
+      "lastActivityTimestamp": 1786725462000,
+      "lastActivityText": "Sfida degli Anziani: Con matchmaking il 14/08/2026 16:37",
+      "activities": [
+        {
+          "name": "Sfida degli Anziani: Con matchmaking",
+          "period": "2026-08-14T16:37:42Z",
+          "instanceId": "17133894318"
+        },
+        {
+          "name": "Sfida degli Anziani: Con matchmaking",
+          "period": "2026-08-14T16:07:35Z",
+          "instanceId": "17133854032"
+        },
+        {
+          "name": "La Tana dei Diavoli: Personalizzata",
+          "period": "2026-08-14T16:00:14Z",
+          "instanceId": "17133811486"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-14T15:54:06Z",
+          "instanceId": "17133803805"
+        },
+        {
+          "name": "Scalata: Normale",
+          "period": "2026-08-13T22:07:39Z",
+          "instanceId": "17132585727"
+        },
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-08-13T21:50:34Z",
+          "instanceId": "17132568915"
+        },
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-08-13T21:36:55Z",
+          "instanceId": "17132552637"
+        },
+        {
+          "name": "La radice degli incubi: Maestro",
+          "period": "2026-08-13T21:01:05Z",
+          "instanceId": "17132539323"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-13T20:53:43Z",
+          "instanceId": "17132474747"
+        },
+        {
+          "name": "Casa - Parte II",
+          "period": "2026-08-13T20:39:29Z",
+          "instanceId": "17132472690"
+        }
+      ]
+    },
     {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
@@ -66,71 +131,6 @@
           "name": "Nessus, Centauro Instabile",
           "period": "2026-08-13T17:43:53Z",
           "instanceId": "17132214390"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1786726786000,
-      "lastActivityTimestamp": 1786723655000,
-      "lastActivityText": "Sfida degli Anziani: Con matchmaking il 14/08/2026 16:07",
-      "activities": [
-        {
-          "name": "Sfida degli Anziani: Con matchmaking",
-          "period": "2026-08-14T16:07:35Z",
-          "instanceId": "17133854032"
-        },
-        {
-          "name": "La Tana dei Diavoli: Personalizzata",
-          "period": "2026-08-14T16:00:14Z",
-          "instanceId": "17133811486"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-14T15:54:06Z",
-          "instanceId": "17133803805"
-        },
-        {
-          "name": "Scalata: Normale",
-          "period": "2026-08-13T22:07:39Z",
-          "instanceId": "17132585727"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-08-13T21:50:34Z",
-          "instanceId": "17132568915"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-08-13T21:36:55Z",
-          "instanceId": "17132552637"
-        },
-        {
-          "name": "La radice degli incubi: Maestro",
-          "period": "2026-08-13T21:01:05Z",
-          "instanceId": "17132539323"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-13T20:53:43Z",
-          "instanceId": "17132474747"
-        },
-        {
-          "name": "Casa - Parte II",
-          "period": "2026-08-13T20:39:29Z",
-          "instanceId": "17132472690"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-13T20:37:44Z",
-          "instanceId": "17132452017"
         }
       ]
     },
@@ -203,64 +203,64 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "RICERCATO",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 535,
-      "lastPlayedTimestamp": 1786726816000,
-      "lastActivityTimestamp": 1786721033000,
-      "lastActivityText": "La fine di Crota: Standard il 14/08/2026 15:23",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Mietitrice",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786730537000,
+      "lastActivityTimestamp": 1786720181000,
+      "lastActivityText": "Equilibrio: Standard il 14/08/2026 15:09",
       "activities": [
         {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-14T15:09:41Z",
+          "instanceId": "17133755889"
+        },
+        {
+          "name": "Logistica R1: Personalizzata",
+          "period": "2026-08-14T03:18:02Z",
+          "instanceId": "17133044925"
+        },
+        {
+          "name": "Deserto perpetuo (modalità epica): Standard",
+          "period": "2026-08-13T22:13:24Z",
+          "instanceId": "17132678731"
+        },
+        {
+          "name": "Deserto perpetuo (modalità epica): Standard",
+          "period": "2026-08-13T22:09:31Z",
+          "instanceId": "17132584260"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-08-13T21:47:37Z",
+          "instanceId": "17132579993"
+        },
+        {
+          "name": "Promessa del Discepolo: Maestro",
+          "period": "2026-08-13T16:35:10Z",
+          "instanceId": "17132164372"
+        },
+        {
           "name": "La fine di Crota: Standard",
-          "period": "2026-08-14T15:23:53Z",
-          "instanceId": "17133773791"
+          "period": "2026-08-13T14:27:25Z",
+          "instanceId": "17132109699"
         },
         {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-08-12T23:02:47Z",
-          "instanceId": "17130878595"
+          "name": "Corte della Vedova: Con matchmaking",
+          "period": "2026-08-12T22:12:48Z",
+          "instanceId": "17130866296"
         },
         {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-12T22:56:23Z",
-          "instanceId": "17130869782"
-        },
-        {
-          "name": "Zone di Controllo: Con matchmaking",
-          "period": "2026-08-12T16:21:36Z",
-          "instanceId": "17130318266"
-        },
-        {
-          "name": "Zone di Controllo: Con matchmaking",
-          "period": "2026-08-12T16:08:58Z",
-          "instanceId": "17130301137"
-        },
-        {
-          "name": "Zone di Controllo: Con matchmaking",
-          "period": "2026-08-12T00:15:59Z",
-          "instanceId": "17129169273"
-        },
-        {
-          "name": "Zone di Controllo: Con matchmaking",
-          "period": "2026-08-11T20:12:54Z",
-          "instanceId": "17128782339"
-        },
-        {
-          "name": "Zone di Controllo: Con matchmaking",
-          "period": "2026-08-11T19:58:40Z",
-          "instanceId": "17128762877"
-        },
-        {
-          "name": "Zone di Controllo: Con matchmaking",
-          "period": "2026-08-11T19:46:31Z",
-          "instanceId": "17128740903"
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-12T21:52:39Z",
+          "instanceId": "17130787768"
         },
         {
           "name": "Europa",
-          "period": "2026-08-11T16:54:27Z",
-          "instanceId": "17128488126"
+          "period": "2026-08-12T21:14:13Z",
+          "instanceId": "17130753799"
         }
       ]
     },
@@ -333,7 +333,7 @@
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
