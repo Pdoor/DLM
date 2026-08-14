@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T15:56:37.238Z",
+  "generatedAt": "2026-08-14T17:00:52.404Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,30 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786722941000,
-      "lastActivityTimestamp": 1786721565000,
-      "lastActivityText": "Campo di battaglia Colpo: Marte: Personalizzata il 14/08/2026 15:32",
+      "lastPlayedTimestamp": 1786726126000,
+      "lastActivityTimestamp": 1786724800000,
+      "lastActivityText": "Schianto dell'Esodo: Personalizzata il 14/08/2026 16:26",
       "activities": [
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-08-14T16:26:40Z",
+          "instanceId": "17133871145"
+        },
+        {
+          "name": "La caduta di un Kell: Personalizzata",
+          "period": "2026-08-14T16:15:06Z",
+          "instanceId": "17133842056"
+        },
+        {
+          "name": "Terreni di Prova",
+          "period": "2026-08-14T15:45:20Z",
+          "instanceId": "17133825351"
+        },
         {
           "name": "Campo di battaglia Colpo: Marte: Personalizzata",
           "period": "2026-08-14T15:32:45Z",
@@ -51,21 +66,71 @@
           "name": "Nessus, Centauro Instabile",
           "period": "2026-08-13T17:43:53Z",
           "instanceId": "17132214390"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1786726786000,
+      "lastActivityTimestamp": 1786723655000,
+      "lastActivityText": "Sfida degli Anziani: Con matchmaking il 14/08/2026 16:07",
+      "activities": [
+        {
+          "name": "Sfida degli Anziani: Con matchmaking",
+          "period": "2026-08-14T16:07:35Z",
+          "instanceId": "17133854032"
         },
         {
-          "name": "Confluenza: Maestro",
-          "period": "2026-08-13T17:29:14Z",
-          "instanceId": "17132213145"
+          "name": "La Tana dei Diavoli: Personalizzata",
+          "period": "2026-08-14T16:00:14Z",
+          "instanceId": "17133811486"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-08-13T16:59:23Z",
-          "instanceId": "17132173332"
+          "period": "2026-08-14T15:54:06Z",
+          "instanceId": "17133803805"
         },
         {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-13T16:42:07Z",
-          "instanceId": "17132148773"
+          "name": "Scalata: Normale",
+          "period": "2026-08-13T22:07:39Z",
+          "instanceId": "17132585727"
+        },
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-08-13T21:50:34Z",
+          "instanceId": "17132568915"
+        },
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-08-13T21:36:55Z",
+          "instanceId": "17132552637"
+        },
+        {
+          "name": "La radice degli incubi: Maestro",
+          "period": "2026-08-13T21:01:05Z",
+          "instanceId": "17132539323"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-13T20:53:43Z",
+          "instanceId": "17132474747"
+        },
+        {
+          "name": "Casa - Parte II",
+          "period": "2026-08-13T20:39:29Z",
+          "instanceId": "17132472690"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-13T20:37:44Z",
+          "instanceId": "17132452017"
         }
       ]
     },
@@ -142,8 +207,8 @@
       "className": "Cacciatori",
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 542,
-      "lastPlayedTimestamp": 1786722981000,
+      "powerLevel": 535,
+      "lastPlayedTimestamp": 1786726816000,
       "lastActivityTimestamp": 1786721033000,
       "lastActivityText": "La fine di Crota: Standard il 14/08/2026 15:23",
       "activities": [
@@ -268,12 +333,12 @@
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786716218000,
+      "lastPlayedTimestamp": 1786726439000,
       "lastActivityTimestamp": 1786715186000,
       "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 14/08/2026 13:46",
       "activities": [
@@ -456,71 +521,6 @@
           "name": "Pallido Cuore",
           "period": "2026-08-13T20:26:20Z",
           "instanceId": "17132437369"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 542,
-      "lastPlayedTimestamp": 1786722970000,
-      "lastActivityTimestamp": 1786658859000,
-      "lastActivityText": "Scalata: Normale il 13/08/2026 22:07",
-      "activities": [
-        {
-          "name": "Scalata: Normale",
-          "period": "2026-08-13T22:07:39Z",
-          "instanceId": "17132585727"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-08-13T21:50:34Z",
-          "instanceId": "17132568915"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-08-13T21:36:55Z",
-          "instanceId": "17132552637"
-        },
-        {
-          "name": "La radice degli incubi: Maestro",
-          "period": "2026-08-13T21:01:05Z",
-          "instanceId": "17132539323"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-13T20:53:43Z",
-          "instanceId": "17132474747"
-        },
-        {
-          "name": "Casa - Parte II",
-          "period": "2026-08-13T20:39:29Z",
-          "instanceId": "17132472690"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-13T20:37:44Z",
-          "instanceId": "17132452017"
-        },
-        {
-          "name": "Casa - Parte I",
-          "period": "2026-08-13T20:28:38Z",
-          "instanceId": "17132449638"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-13T20:26:20Z",
-          "instanceId": "17132437369"
-        },
-        {
-          "name": "Il Vacuo - Parte II",
-          "period": "2026-08-13T20:11:24Z",
-          "instanceId": "17132433607"
         }
       ]
     },
