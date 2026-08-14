@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-14T20:06:17.832Z",
+  "generatedAt": "2026-08-14T20:57:26.941Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Mietitrice",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1786740953000,
+      "lastActivityTimestamp": 1786738990000,
+      "lastActivityText": "Partita privata il 14/08/2026 20:23",
+      "activities": [
+        {
+          "name": "Partita privata",
+          "period": "2026-08-14T20:23:10Z",
+          "instanceId": "17134191303"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-14T15:09:41Z",
+          "instanceId": "17133755889"
+        },
+        {
+          "name": "Logistica R1: Personalizzata",
+          "period": "2026-08-14T03:18:02Z",
+          "instanceId": "17133044925"
+        },
+        {
+          "name": "Deserto perpetuo (modalità epica): Standard",
+          "period": "2026-08-13T22:13:24Z",
+          "instanceId": "17132678731"
+        },
+        {
+          "name": "Deserto perpetuo (modalità epica): Standard",
+          "period": "2026-08-13T22:09:31Z",
+          "instanceId": "17132584260"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-08-13T21:47:37Z",
+          "instanceId": "17132579993"
+        },
+        {
+          "name": "Promessa del Discepolo: Maestro",
+          "period": "2026-08-13T16:35:10Z",
+          "instanceId": "17132164372"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-13T14:27:25Z",
+          "instanceId": "17132109699"
+        },
+        {
+          "name": "Corte della Vedova: Con matchmaking",
+          "period": "2026-08-12T22:12:48Z",
+          "instanceId": "17130866296"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-12T21:52:39Z",
+          "instanceId": "17130787768"
+        }
+      ]
+    },
     {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
@@ -196,71 +261,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-08-10T21:03:09Z",
           "instanceId": "17126852380"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Mietitrice",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786730537000,
-      "lastActivityTimestamp": 1786720181000,
-      "lastActivityText": "Equilibrio: Standard il 14/08/2026 15:09",
-      "activities": [
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-14T15:09:41Z",
-          "instanceId": "17133755889"
-        },
-        {
-          "name": "Logistica R1: Personalizzata",
-          "period": "2026-08-14T03:18:02Z",
-          "instanceId": "17133044925"
-        },
-        {
-          "name": "Deserto perpetuo (modalità epica): Standard",
-          "period": "2026-08-13T22:13:24Z",
-          "instanceId": "17132678731"
-        },
-        {
-          "name": "Deserto perpetuo (modalità epica): Standard",
-          "period": "2026-08-13T22:09:31Z",
-          "instanceId": "17132584260"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-08-13T21:47:37Z",
-          "instanceId": "17132579993"
-        },
-        {
-          "name": "Promessa del Discepolo: Maestro",
-          "period": "2026-08-13T16:35:10Z",
-          "instanceId": "17132164372"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-13T14:27:25Z",
-          "instanceId": "17132109699"
-        },
-        {
-          "name": "Corte della Vedova: Con matchmaking",
-          "period": "2026-08-12T22:12:48Z",
-          "instanceId": "17130866296"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-12T21:52:39Z",
-          "instanceId": "17130787768"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-12T21:14:13Z",
-          "instanceId": "17130753799"
         }
       ]
     },
