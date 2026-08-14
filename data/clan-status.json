@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-14T06:55:00.318Z",
+  "generatedAt": "2026-08-14T08:20:05.323Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786693654000,
+      "lastActivityTimestamp": 1786692879000,
+      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 14/08/2026 07:34",
+      "activities": [
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-14T07:34:39Z",
+          "instanceId": "17133322873"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-08-14T07:15:43Z",
+          "instanceId": "17133306363"
+        },
+        {
+          "name": "Caccia all'incubo: furia: Esperto",
+          "period": "2026-08-12T09:27:26Z",
+          "instanceId": "17129865845"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-11T12:29:31Z",
+          "instanceId": "17128124935"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-11T10:55:15Z",
+          "instanceId": "17128034143"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-08-11T10:24:31Z",
+          "instanceId": "17128006547"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-11T09:04:26Z",
+          "instanceId": "17127936590"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-08-06T11:12:40Z",
+          "instanceId": "17116904718"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-08-06T10:38:05Z",
+          "instanceId": "17116867167"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-08-06T09:36:21Z",
+          "instanceId": "17116822985"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -326,71 +391,6 @@
           "name": "Orlo della Salvezza: Standard",
           "period": "2026-08-09T06:56:11Z",
           "instanceId": "17123422532"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786690441000,
-      "lastActivityTimestamp": 1786526846000,
-      "lastActivityText": "Caccia all'incubo: furia: Esperto il 12/08/2026 09:27",
-      "activities": [
-        {
-          "name": "Caccia all'incubo: furia: Esperto",
-          "period": "2026-08-12T09:27:26Z",
-          "instanceId": "17129865845"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-11T12:29:31Z",
-          "instanceId": "17128124935"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-11T10:55:15Z",
-          "instanceId": "17128034143"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-08-11T10:24:31Z",
-          "instanceId": "17128006547"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-11T09:04:26Z",
-          "instanceId": "17127936590"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Con matchmaking",
-          "period": "2026-08-06T11:12:40Z",
-          "instanceId": "17116904718"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-08-06T10:38:05Z",
-          "instanceId": "17116867167"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-06T09:36:21Z",
-          "instanceId": "17116822985"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-05T16:49:19Z",
-          "instanceId": "17115262992"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-08-05T15:22:19Z",
-          "instanceId": "17115483661"
         }
       ]
     },
