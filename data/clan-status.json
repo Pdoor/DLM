@@ -1,71 +1,136 @@
 {
-  "generatedAt": "2026-08-14T13:16:43.675Z",
+  "generatedAt": "2026-08-14T14:32:26.525Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "Ghost of Warlock#5159",
+      "membershipId": "4611686018513286564",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786716218000,
+      "lastActivityTimestamp": 1786715186000,
+      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 14/08/2026 13:46",
+      "activities": [
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-14T13:46:26Z",
+          "instanceId": "17133655705"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-14T08:57:38Z",
+          "instanceId": "17133391017"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-08-11T06:39:54Z",
+          "instanceId": "17127839185"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-08-10T15:28:38Z",
+          "instanceId": "17126338104"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-08-10T14:47:52Z",
+          "instanceId": "17126285044"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-08-09T07:17:38Z",
+          "instanceId": "17123428065"
+        },
+        {
+          "name": "Oblazione: Lignaggio",
+          "period": "2026-08-08T19:49:21Z",
+          "instanceId": "17122192827"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-08-08T19:19:09Z",
+          "instanceId": "17122078444"
+        },
+        {
+          "name": "D.A.G.A. caduta: Con matchmaking",
+          "period": "2026-08-08T05:56:14Z",
+          "instanceId": "17120863797"
+        },
+        {
+          "name": "D.A.G.A. caduta: Con matchmaking",
+          "period": "2026-08-08T05:44:29Z",
+          "instanceId": "17120843557"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
       "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1786713377000,
-      "lastActivityTimestamp": 1786711957000,
-      "lastActivityText": "Bunker E15: Maestro il 14/08/2026 12:52",
+      "lastPlayedTimestamp": 1786717872000,
+      "lastActivityTimestamp": 1786714477000,
+      "lastActivityText": "Morsa della cupidigia: Standard il 14/08/2026 13:34",
       "activities": [
         {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-08-14T12:52:37Z",
-          "instanceId": "17133588520"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-14T12:40:56Z",
-          "instanceId": "17133576955"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-08-14T12:17:39Z",
-          "instanceId": "17133558899"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-08-09T17:58:30Z",
-          "instanceId": "17124420902"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-09T17:21:20Z",
-          "instanceId": "17124407083"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
-          "period": "2026-08-09T16:37:16Z",
-          "instanceId": "17124314492"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-09T14:27:23Z",
-          "instanceId": "17124015114"
-        },
-        {
-          "name": "Spirale invertita: Con matchmaking",
-          "period": "2026-08-09T10:16:43Z",
-          "instanceId": "17123678338"
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-14T13:34:37Z",
+          "instanceId": "17133646746"
         },
         {
           "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-09T10:01:36Z",
-          "instanceId": "17123632318"
+          "period": "2026-08-14T06:26:06Z",
+          "instanceId": "17133263849"
         },
         {
-          "name": "Pallido Cuore",
-          "period": "2026-08-09T09:54:59Z",
-          "instanceId": "17123616375"
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-13T18:02:15Z",
+          "instanceId": "17132340500"
+        },
+        {
+          "name": "Dottrina dilaniata: Normale",
+          "period": "2026-08-13T17:15:34Z",
+          "instanceId": "17132236197"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-13T16:59:23Z",
+          "instanceId": "17132173332"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-13T16:42:07Z",
+          "instanceId": "17132148773"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-13T16:40:28Z",
+          "instanceId": "17132132113"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-13T16:38:17Z",
+          "instanceId": "17132142783"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-08-13T16:03:04Z",
+          "instanceId": "17132120490"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-13T16:00:50Z",
+          "instanceId": "17132081156"
         }
       ]
     },
@@ -131,71 +196,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-31T16:27:04Z",
           "instanceId": "17103210110"
-        }
-      ]
-    },
-    {
-      "displayName": "Ghost of Warlock#5159",
-      "membershipId": "4611686018513286564",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786698715000,
-      "lastActivityTimestamp": 1786697858000,
-      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 14/08/2026 08:57",
-      "activities": [
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-14T08:57:38Z",
-          "instanceId": "17133391017"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-11T06:39:54Z",
-          "instanceId": "17127839185"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-08-10T15:28:38Z",
-          "instanceId": "17126338104"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-08-10T14:47:52Z",
-          "instanceId": "17126285044"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-08-09T07:17:38Z",
-          "instanceId": "17123428065"
-        },
-        {
-          "name": "Oblazione: Lignaggio",
-          "period": "2026-08-08T19:49:21Z",
-          "instanceId": "17122192827"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-08-08T19:19:09Z",
-          "instanceId": "17122078444"
-        },
-        {
-          "name": "D.A.G.A. caduta: Con matchmaking",
-          "period": "2026-08-08T05:56:14Z",
-          "instanceId": "17120863797"
-        },
-        {
-          "name": "D.A.G.A. caduta: Con matchmaking",
-          "period": "2026-08-08T05:44:29Z",
-          "instanceId": "17120843557"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-08-07T14:54:51Z",
-          "instanceId": "17119305412"
         }
       ]
     },
@@ -398,12 +398,12 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786644600000,
+      "lastPlayedTimestamp": 1786717900000,
       "lastActivityTimestamp": 1786643330000,
       "lastActivityText": "Gli Spettri: Leggenda il 13/08/2026 17:48",
       "activities": [
@@ -533,7 +533,7 @@
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 545,
-      "lastPlayedTimestamp": 1786713175000,
+      "lastPlayedTimestamp": 1786717062000,
       "lastActivityTimestamp": 1786445619000,
       "lastActivityText": "Conservazione il 11/08/2026 10:53",
       "activities": [
@@ -988,7 +988,7 @@
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b531d829e55b6f13555e8cae172dc0b3.jpg",
       "powerLevel": 456,
-      "lastPlayedTimestamp": 1786298484000,
+      "lastPlayedTimestamp": 1786714546000,
       "lastActivityTimestamp": 1785670930000,
       "lastActivityText": "Controllo: Con matchmaking il 02/08/2026 11:42",
       "activities": [
