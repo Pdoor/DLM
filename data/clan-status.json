@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T19:24:53.843Z",
+  "generatedAt": "2026-08-15T19:46:35.491Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,15 @@
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1786821857000,
-      "lastActivityTimestamp": 1786817012000,
-      "lastActivityText": "Equilibrio: Standard il 15/08/2026 18:03",
+      "lastPlayedTimestamp": 1786823122000,
+      "lastActivityTimestamp": 1786820730000,
+      "lastActivityText": "Equilibrio: Standard il 15/08/2026 19:05",
       "activities": [
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T19:05:30Z",
+          "instanceId": "17136223159"
+        },
         {
           "name": "Equilibrio: Standard",
           "period": "2026-08-15T18:03:32Z",
@@ -61,11 +66,6 @@
           "name": "Equilibrio: Standard",
           "period": "2026-08-15T10:12:11Z",
           "instanceId": "17135473656"
-        },
-        {
-          "name": "Sfida degli Anziani: Con matchmaking",
-          "period": "2026-08-14T16:37:42Z",
-          "instanceId": "17133894318"
         }
       ]
     },
@@ -77,8 +77,8 @@
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786821830000,
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1786823167000,
       "lastActivityTimestamp": 1786811771000,
       "lastActivityText": "Orlo della Salvezza: Standard il 15/08/2026 16:36",
       "activities": [
