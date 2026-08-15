@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-15T16:54:29.834Z",
+  "generatedAt": "2026-08-15T17:24:52.033Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 547,
+      "lastPlayedTimestamp": 1786814599000,
+      "lastActivityTimestamp": 1786810948000,
+      "lastActivityText": "Equilibrio: Standard il 15/08/2026 16:22",
+      "activities": [
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T16:22:28Z",
+          "instanceId": "17135972600"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T13:57:12Z",
+          "instanceId": "17135713397"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T13:22:34Z",
+          "instanceId": "17135660020"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T12:21:23Z",
+          "instanceId": "17135609078"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T11:29:53Z",
+          "instanceId": "17135534966"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T10:40:44Z",
+          "instanceId": "17135476997"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T10:12:11Z",
+          "instanceId": "17135473656"
+        },
+        {
+          "name": "Sfida degli Anziani: Con matchmaking",
+          "period": "2026-08-14T16:37:42Z",
+          "instanceId": "17133894318"
+        },
+        {
+          "name": "Sfida degli Anziani: Con matchmaking",
+          "period": "2026-08-14T16:07:35Z",
+          "instanceId": "17133854032"
+        },
+        {
+          "name": "La Tana dei Diavoli: Personalizzata",
+          "period": "2026-08-14T16:00:14Z",
+          "instanceId": "17133811486"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -12,8 +77,8 @@
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786812850000,
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1786814622000,
       "lastActivityTimestamp": 1786808717000,
       "lastActivityText": "Morsa della cupidigia: Maestro il 15/08/2026 15:45",
       "activities": [
@@ -196,71 +261,6 @@
           "name": "Lega Gare di Astori",
           "period": "2026-07-25T16:36:16Z",
           "instanceId": "17087238047"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 547,
-      "lastPlayedTimestamp": 1786812787000,
-      "lastActivityTimestamp": 1786802232000,
-      "lastActivityText": "Equilibrio: Standard il 15/08/2026 13:57",
-      "activities": [
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T13:57:12Z",
-          "instanceId": "17135713397"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T13:22:34Z",
-          "instanceId": "17135660020"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T12:21:23Z",
-          "instanceId": "17135609078"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T11:29:53Z",
-          "instanceId": "17135534966"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T10:40:44Z",
-          "instanceId": "17135476997"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T10:12:11Z",
-          "instanceId": "17135473656"
-        },
-        {
-          "name": "Sfida degli Anziani: Con matchmaking",
-          "period": "2026-08-14T16:37:42Z",
-          "instanceId": "17133894318"
-        },
-        {
-          "name": "Sfida degli Anziani: Con matchmaking",
-          "period": "2026-08-14T16:07:35Z",
-          "instanceId": "17133854032"
-        },
-        {
-          "name": "La Tana dei Diavoli: Personalizzata",
-          "period": "2026-08-14T16:00:14Z",
-          "instanceId": "17133811486"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-14T15:54:06Z",
-          "instanceId": "17133803805"
         }
       ]
     },
@@ -598,7 +598,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
       "powerLevel": 372,
-      "lastPlayedTimestamp": 1786663844000,
+      "lastPlayedTimestamp": 1786813537000,
       "lastActivityTimestamp": 1786662136000,
       "lastActivityText": "Pallido Cuore il 13/08/2026 23:02",
       "activities": [
