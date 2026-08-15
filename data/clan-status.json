@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T18:36:16.576Z",
+  "generatedAt": "2026-08-15T19:24:53.843Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,16 @@
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 547,
-      "lastPlayedTimestamp": 1786818941000,
-      "lastActivityTimestamp": 1786814782000,
-      "lastActivityText": "Equilibrio: Standard il 15/08/2026 17:26",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1786821857000,
+      "lastActivityTimestamp": 1786817012000,
+      "lastActivityText": "Equilibrio: Standard il 15/08/2026 18:03",
       "activities": [
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T18:03:32Z",
+          "instanceId": "17136174743"
+        },
         {
           "name": "Equilibrio: Standard",
           "period": "2026-08-15T17:26:22Z",
@@ -61,11 +66,6 @@
           "name": "Sfida degli Anziani: Con matchmaking",
           "period": "2026-08-14T16:37:42Z",
           "instanceId": "17133894318"
-        },
-        {
-          "name": "Sfida degli Anziani: Con matchmaking",
-          "period": "2026-08-14T16:07:35Z",
-          "instanceId": "17133854032"
         }
       ]
     },
@@ -78,10 +78,15 @@
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786818938000,
-      "lastActivityTimestamp": 1786808717000,
-      "lastActivityText": "Morsa della cupidigia: Maestro il 15/08/2026 15:45",
+      "lastPlayedTimestamp": 1786821830000,
+      "lastActivityTimestamp": 1786811771000,
+      "lastActivityText": "Orlo della Salvezza: Standard il 15/08/2026 16:36",
       "activities": [
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-08-15T16:36:11Z",
+          "instanceId": "17136156114"
+        },
         {
           "name": "Morsa della cupidigia: Maestro",
           "period": "2026-08-15T15:45:17Z",
@@ -126,11 +131,6 @@
           "name": "Fossa dell'Eresia: Standard",
           "period": "2026-08-15T14:20:06Z",
           "instanceId": "17135713316"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-08-14T20:15:40Z",
-          "instanceId": "17134387360"
         }
       ]
     },
