@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T19:46:35.491Z",
+  "generatedAt": "2026-08-15T20:27:40.660Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1786823122000,
-      "lastActivityTimestamp": 1786820730000,
-      "lastActivityText": "Equilibrio: Standard il 15/08/2026 19:05",
+      "lastPlayedTimestamp": 1786824417000,
+      "lastActivityTimestamp": 1786823019000,
+      "lastActivityText": "Artesia Mons, Venere: Caccia alle taglie: Con matchmaking il 15/08/2026 19:43",
       "activities": [
+        {
+          "name": "Artesia Mons, Venere: Caccia alle taglie: Con matchmaking",
+          "period": "2026-08-15T19:43:39Z",
+          "instanceId": "17136283659"
+        },
         {
           "name": "Equilibrio: Standard",
           "period": "2026-08-15T19:05:30Z",
@@ -61,11 +66,6 @@
           "name": "Equilibrio: Standard",
           "period": "2026-08-15T10:40:44Z",
           "instanceId": "17135476997"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T10:12:11Z",
-          "instanceId": "17135473656"
         }
       ]
     },
@@ -73,12 +73,12 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1786823167000,
+      "powerLevel": 549,
+      "lastPlayedTimestamp": 1786823998000,
       "lastActivityTimestamp": 1786811771000,
       "lastActivityText": "Orlo della Salvezza: Standard il 15/08/2026 16:36",
       "activities": [
