@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T22:26:55.783Z",
+  "generatedAt": "2026-08-15T22:50:55.251Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,21 @@
       "className": "Titani",
       "title": "Immortale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 427,
-      "lastPlayedTimestamp": 1786832769000,
-      "lastActivityTimestamp": 1786830899000,
-      "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 15/08/2026 21:54",
+      "powerLevel": 429,
+      "lastPlayedTimestamp": 1786834229000,
+      "lastActivityTimestamp": 1786833098000,
+      "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 15/08/2026 22:31",
       "activities": [
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-15T22:31:38Z",
+          "instanceId": "17136535145"
+        },
+        {
+          "name": "Missione: Calcolo: Leggendaria",
+          "period": "2026-08-15T22:12:19Z",
+          "instanceId": "17136533064"
+        },
         {
           "name": "Modalità del mondo: leggendaria: Leggendaria",
           "period": "2026-08-15T21:54:59Z",
@@ -56,16 +66,6 @@
           "name": "Modalità del mondo: leggendaria: Leggendaria",
           "period": "2026-08-15T13:30:12Z",
           "instanceId": "17135652236"
-        },
-        {
-          "name": "Missione: Morfologia: Leggendaria",
-          "period": "2026-08-15T13:09:44Z",
-          "instanceId": "17135626612"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-15T12:43:00Z",
-          "instanceId": "17135598551"
         }
       ]
     },
