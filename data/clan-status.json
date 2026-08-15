@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T08:34:29.048Z",
+  "generatedAt": "2026-08-15T09:30:27.854Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "Jhonny#3878",
       "membershipId": "4611686018489632599",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2521e23050bd55aa31a0e910fa93c0b6.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786782831000,
-      "lastActivityTimestamp": 1786780857000,
-      "lastActivityText": "Cella Senza Sole: Personalizzata il 15/08/2026 08:00",
+      "lastPlayedTimestamp": 1786783247000,
+      "lastActivityTimestamp": 1786781451000,
+      "lastActivityText": "Cella Senza Sole: Personalizzata il 15/08/2026 08:10",
       "activities": [
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-15T08:10:51Z",
+          "instanceId": "17135313923"
+        },
         {
           "name": "Cella Senza Sole: Personalizzata",
           "period": "2026-08-15T08:00:57Z",
@@ -61,11 +66,6 @@
           "name": "Lega Gare di Astori",
           "period": "2026-07-25T16:14:56Z",
           "instanceId": "17087187055"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-24T17:22:44Z",
-          "instanceId": "17084223571"
         }
       ]
     },
