@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-15T11:46:56.016Z",
+  "generatedAt": "2026-08-15T12:46:35.872Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "adgarolp#8945",
+      "membershipId": "4611686018479100387",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Immortale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
+      "powerLevel": 419,
+      "lastPlayedTimestamp": 1786797958000,
+      "lastActivityTimestamp": 1786797661000,
+      "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 15/08/2026 12:41",
+      "activities": [
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-15T12:41:01Z",
+          "instanceId": "17135564032"
+        },
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-11T00:26:19Z",
+          "instanceId": "17127192477"
+        },
+        {
+          "name": "Sottrazione: Leggendaria",
+          "period": "2026-08-10T23:56:27Z",
+          "instanceId": "17127186520"
+        },
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-10T23:53:31Z",
+          "instanceId": "17127134367"
+        },
+        {
+          "name": "Missione: Saturnismo: Leggendaria",
+          "period": "2026-08-10T23:31:58Z",
+          "instanceId": "17127129642"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-08-10T23:22:18Z",
+          "instanceId": "17127093714"
+        },
+        {
+          "name": "Missione: Transitorietà: Normale",
+          "period": "2026-08-10T23:12:27Z",
+          "instanceId": "17127076544"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-08-10T23:04:07Z",
+          "instanceId": "17127060182"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-08-10T22:38:00Z",
+          "instanceId": "17127036369"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-08-10T18:43:33Z",
+          "instanceId": "17127051156"
+        }
+      ]
+    },
     {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
@@ -12,11 +77,16 @@
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1786794391000,
-      "lastActivityTimestamp": 1786790444000,
-      "lastActivityText": "Equilibrio: Standard il 15/08/2026 10:40",
+      "powerLevel": 538,
+      "lastPlayedTimestamp": 1786797973000,
+      "lastActivityTimestamp": 1786793393000,
+      "lastActivityText": "Equilibrio: Standard il 15/08/2026 11:29",
       "activities": [
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T11:29:53Z",
+          "instanceId": "17135534966"
+        },
         {
           "name": "Equilibrio: Standard",
           "period": "2026-08-15T10:40:44Z",
@@ -61,11 +131,6 @@
           "name": "La radice degli incubi: Standard",
           "period": "2026-08-13T21:36:55Z",
           "instanceId": "17132552637"
-        },
-        {
-          "name": "La radice degli incubi: Maestro",
-          "period": "2026-08-13T21:01:05Z",
-          "instanceId": "17132539323"
         }
       ]
     },
@@ -651,71 +716,6 @@
           "name": "Orlo della Salvezza: Standard",
           "period": "2026-08-09T06:56:11Z",
           "instanceId": "17123422532"
-        }
-      ]
-    },
-    {
-      "displayName": "adgarolp#8945",
-      "membershipId": "4611686018479100387",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Immortale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 419,
-      "lastPlayedTimestamp": 1786408112000,
-      "lastActivityTimestamp": 1786407979000,
-      "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 11/08/2026 00:26",
-      "activities": [
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-11T00:26:19Z",
-          "instanceId": "17127192477"
-        },
-        {
-          "name": "Sottrazione: Leggendaria",
-          "period": "2026-08-10T23:56:27Z",
-          "instanceId": "17127186520"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-10T23:53:31Z",
-          "instanceId": "17127134367"
-        },
-        {
-          "name": "Missione: Saturnismo: Leggendaria",
-          "period": "2026-08-10T23:31:58Z",
-          "instanceId": "17127129642"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-08-10T23:22:18Z",
-          "instanceId": "17127093714"
-        },
-        {
-          "name": "Missione: Transitorietà: Normale",
-          "period": "2026-08-10T23:12:27Z",
-          "instanceId": "17127076544"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-08-10T23:04:07Z",
-          "instanceId": "17127060182"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-10T22:38:00Z",
-          "instanceId": "17127036369"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-08-10T21:53:37Z",
-          "instanceId": "17126986846"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-08-10T18:43:33Z",
-          "instanceId": "17127051156"
         }
       ]
     },
