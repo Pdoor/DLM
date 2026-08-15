@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-15T16:30:18.353Z",
+  "generatedAt": "2026-08-15T16:54:29.834Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Mietitrice",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786812850000,
+      "lastActivityTimestamp": 1786808717000,
+      "lastActivityText": "Morsa della cupidigia: Maestro il 15/08/2026 15:45",
+      "activities": [
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-08-15T15:45:17Z",
+          "instanceId": "17135913947"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-08-15T15:26:10Z",
+          "instanceId": "17135826751"
+        },
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-08-15T15:18:38Z",
+          "instanceId": "17135797628"
+        },
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-08-15T15:10:27Z",
+          "instanceId": "17135783916"
+        },
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-08-15T15:00:30Z",
+          "instanceId": "17135767661"
+        },
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-08-15T14:51:29Z",
+          "instanceId": "17135752645"
+        },
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-08-15T14:44:43Z",
+          "instanceId": "17135742200"
+        },
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-08-15T14:32:38Z",
+          "instanceId": "17135724098"
+        },
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-08-15T14:20:06Z",
+          "instanceId": "17135713316"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-08-14T20:15:40Z",
+          "instanceId": "17134387360"
+        }
+      ]
+    },
     {
       "displayName": "adgarolp#8945",
       "membershipId": "4611686018479100387",
@@ -135,71 +200,6 @@
       ]
     },
     {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Mietitrice",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 527,
-      "lastPlayedTimestamp": 1786811364000,
-      "lastActivityTimestamp": 1786807570000,
-      "lastActivityText": "Ultimo desiderio: Standard il 15/08/2026 15:26",
-      "activities": [
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-08-15T15:26:10Z",
-          "instanceId": "17135826751"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-08-15T15:18:38Z",
-          "instanceId": "17135797628"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-08-15T15:10:27Z",
-          "instanceId": "17135783916"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-08-15T15:00:30Z",
-          "instanceId": "17135767661"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-08-15T14:51:29Z",
-          "instanceId": "17135752645"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-08-15T14:44:43Z",
-          "instanceId": "17135742200"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-08-15T14:32:38Z",
-          "instanceId": "17135724098"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-08-15T14:20:06Z",
-          "instanceId": "17135713316"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-08-14T20:40:48Z",
-          "instanceId": "17134320901"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-08-14T20:15:40Z",
-          "instanceId": "17134387360"
-        }
-      ]
-    },
-    {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
@@ -208,7 +208,7 @@
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
       "powerLevel": 547,
-      "lastPlayedTimestamp": 1786811349000,
+      "lastPlayedTimestamp": 1786812787000,
       "lastActivityTimestamp": 1786802232000,
       "lastActivityText": "Equilibrio: Standard il 15/08/2026 13:57",
       "activities": [
