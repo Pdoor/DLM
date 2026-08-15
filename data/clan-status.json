@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-15T11:24:39.612Z",
+  "generatedAt": "2026-08-15T11:46:56.016Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1786794391000,
+      "lastActivityTimestamp": 1786790444000,
+      "lastActivityText": "Equilibrio: Standard il 15/08/2026 10:40",
+      "activities": [
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T10:40:44Z",
+          "instanceId": "17135476997"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T10:12:11Z",
+          "instanceId": "17135473656"
+        },
+        {
+          "name": "Sfida degli Anziani: Con matchmaking",
+          "period": "2026-08-14T16:37:42Z",
+          "instanceId": "17133894318"
+        },
+        {
+          "name": "Sfida degli Anziani: Con matchmaking",
+          "period": "2026-08-14T16:07:35Z",
+          "instanceId": "17133854032"
+        },
+        {
+          "name": "La Tana dei Diavoli: Personalizzata",
+          "period": "2026-08-14T16:00:14Z",
+          "instanceId": "17133811486"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-14T15:54:06Z",
+          "instanceId": "17133803805"
+        },
+        {
+          "name": "Scalata: Normale",
+          "period": "2026-08-13T22:07:39Z",
+          "instanceId": "17132585727"
+        },
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-08-13T21:50:34Z",
+          "instanceId": "17132568915"
+        },
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-08-13T21:36:55Z",
+          "instanceId": "17132552637"
+        },
+        {
+          "name": "La radice degli incubi: Maestro",
+          "period": "2026-08-13T21:01:05Z",
+          "instanceId": "17132539323"
+        }
+      ]
+    },
     {
       "displayName": "Jhonny#3878",
       "membershipId": "4611686018489632599",
@@ -196,71 +261,6 @@
           "name": "La fine di Crota: Standard",
           "period": "2026-08-13T14:27:25Z",
           "instanceId": "17132109699"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1786793057000,
-      "lastActivityTimestamp": 1786725462000,
-      "lastActivityText": "Sfida degli Anziani: Con matchmaking il 14/08/2026 16:37",
-      "activities": [
-        {
-          "name": "Sfida degli Anziani: Con matchmaking",
-          "period": "2026-08-14T16:37:42Z",
-          "instanceId": "17133894318"
-        },
-        {
-          "name": "Sfida degli Anziani: Con matchmaking",
-          "period": "2026-08-14T16:07:35Z",
-          "instanceId": "17133854032"
-        },
-        {
-          "name": "La Tana dei Diavoli: Personalizzata",
-          "period": "2026-08-14T16:00:14Z",
-          "instanceId": "17133811486"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-14T15:54:06Z",
-          "instanceId": "17133803805"
-        },
-        {
-          "name": "Scalata: Normale",
-          "period": "2026-08-13T22:07:39Z",
-          "instanceId": "17132585727"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-08-13T21:50:34Z",
-          "instanceId": "17132568915"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-08-13T21:36:55Z",
-          "instanceId": "17132552637"
-        },
-        {
-          "name": "La radice degli incubi: Maestro",
-          "period": "2026-08-13T21:01:05Z",
-          "instanceId": "17132539323"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-13T20:53:43Z",
-          "instanceId": "17132474747"
-        },
-        {
-          "name": "Casa - Parte II",
-          "period": "2026-08-13T20:39:29Z",
-          "instanceId": "17132472690"
         }
       ]
     },
@@ -2028,7 +2028,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
       "powerLevel": 282,
-      "lastPlayedTimestamp": 1783857191000,
+      "lastPlayedTimestamp": 1786793826000,
       "lastActivityTimestamp": 1782763697000,
       "lastActivityText": "Competitiva: Con matchmaking il 29/06/2026 20:08",
       "activities": [
