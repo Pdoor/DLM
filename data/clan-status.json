@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T17:24:52.033Z",
+  "generatedAt": "2026-08-15T17:48:26.130Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
       "powerLevel": 547,
-      "lastPlayedTimestamp": 1786814599000,
-      "lastActivityTimestamp": 1786810948000,
-      "lastActivityText": "Equilibrio: Standard il 15/08/2026 16:22",
+      "lastPlayedTimestamp": 1786815484000,
+      "lastActivityTimestamp": 1786814782000,
+      "lastActivityText": "Equilibrio: Standard il 15/08/2026 17:26",
       "activities": [
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T17:26:22Z",
+          "instanceId": "17136030576"
+        },
         {
           "name": "Equilibrio: Standard",
           "period": "2026-08-15T16:22:28Z",
@@ -61,11 +66,6 @@
           "name": "Sfida degli Anziani: Con matchmaking",
           "period": "2026-08-14T16:07:35Z",
           "instanceId": "17133854032"
-        },
-        {
-          "name": "La Tana dei Diavoli: Personalizzata",
-          "period": "2026-08-14T16:00:14Z",
-          "instanceId": "17133811486"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 545,
-      "lastPlayedTimestamp": 1786814622000,
+      "lastPlayedTimestamp": 1786815948000,
       "lastActivityTimestamp": 1786808717000,
       "lastActivityText": "Morsa della cupidigia: Maestro il 15/08/2026 15:45",
       "activities": [
