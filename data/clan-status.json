@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T22:50:55.251Z",
+  "generatedAt": "2026-08-15T23:24:34.240Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,21 @@
       "className": "Titani",
       "title": "Immortale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 429,
-      "lastPlayedTimestamp": 1786834229000,
-      "lastActivityTimestamp": 1786833098000,
-      "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 15/08/2026 22:31",
+      "powerLevel": 430,
+      "lastPlayedTimestamp": 1786836224000,
+      "lastActivityTimestamp": 1786835854000,
+      "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 15/08/2026 23:17",
       "activities": [
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-15T23:17:34Z",
+          "instanceId": "17136612821"
+        },
+        {
+          "name": "Quarantena: Leggendaria",
+          "period": "2026-08-15T22:33:15Z",
+          "instanceId": "17136606327"
+        },
         {
           "name": "Modalità del mondo: leggendaria: Leggendaria",
           "period": "2026-08-15T22:31:38Z",
@@ -56,16 +66,6 @@
           "name": "Carica: Leggendaria",
           "period": "2026-08-15T15:02:36Z",
           "instanceId": "17135821067"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-15T14:46:56Z",
-          "instanceId": "17135766706"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-15T13:30:12Z",
-          "instanceId": "17135652236"
         }
       ]
     },
@@ -138,12 +138,12 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 549,
-      "lastPlayedTimestamp": 1786823998000,
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786836237000,
       "lastActivityTimestamp": 1786811771000,
       "lastActivityText": "Orlo della Salvezza: Standard il 15/08/2026 16:36",
       "activities": [
