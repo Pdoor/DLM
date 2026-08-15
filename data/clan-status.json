@@ -1,9 +1,139 @@
 {
-  "generatedAt": "2026-08-15T14:27:41.630Z",
+  "generatedAt": "2026-08-15T14:51:45.848Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Mietitrice",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 535,
+      "lastPlayedTimestamp": 1786805494000,
+      "lastActivityTimestamp": 1786805083000,
+      "lastActivityText": "Fossa dell'Eresia: Standard il 15/08/2026 14:44",
+      "activities": [
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-08-15T14:44:43Z",
+          "instanceId": "17135742200"
+        },
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-08-15T14:32:38Z",
+          "instanceId": "17135724098"
+        },
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-08-15T14:20:06Z",
+          "instanceId": "17135713316"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-08-14T20:40:48Z",
+          "instanceId": "17134320901"
+        },
+        {
+          "name": "Partita privata",
+          "period": "2026-08-14T20:23:10Z",
+          "instanceId": "17134191303"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-08-14T20:15:40Z",
+          "instanceId": "17134387360"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-14T15:09:41Z",
+          "instanceId": "17133755889"
+        },
+        {
+          "name": "Logistica R1: Personalizzata",
+          "period": "2026-08-14T03:18:02Z",
+          "instanceId": "17133044925"
+        },
+        {
+          "name": "Deserto perpetuo (modalità epica): Standard",
+          "period": "2026-08-13T22:13:24Z",
+          "instanceId": "17132678731"
+        },
+        {
+          "name": "Deserto perpetuo (modalità epica): Standard",
+          "period": "2026-08-13T22:09:31Z",
+          "instanceId": "17132584260"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 547,
+      "lastPlayedTimestamp": 1786804127000,
+      "lastActivityTimestamp": 1786802232000,
+      "lastActivityText": "Equilibrio: Standard il 15/08/2026 13:57",
+      "activities": [
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T13:57:12Z",
+          "instanceId": "17135713397"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T13:22:34Z",
+          "instanceId": "17135660020"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T12:21:23Z",
+          "instanceId": "17135609078"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T11:29:53Z",
+          "instanceId": "17135534966"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T10:40:44Z",
+          "instanceId": "17135476997"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T10:12:11Z",
+          "instanceId": "17135473656"
+        },
+        {
+          "name": "Sfida degli Anziani: Con matchmaking",
+          "period": "2026-08-14T16:37:42Z",
+          "instanceId": "17133894318"
+        },
+        {
+          "name": "Sfida degli Anziani: Con matchmaking",
+          "period": "2026-08-14T16:07:35Z",
+          "instanceId": "17133854032"
+        },
+        {
+          "name": "La Tana dei Diavoli: Personalizzata",
+          "period": "2026-08-14T16:00:14Z",
+          "instanceId": "17133811486"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-14T15:54:06Z",
+          "instanceId": "17133803805"
+        }
+      ]
+    },
     {
       "displayName": "adgarolp#8945",
       "membershipId": "4611686018479100387",
@@ -13,7 +143,7 @@
       "title": "Immortale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
       "powerLevel": 423,
-      "lastPlayedTimestamp": 1786801700000,
+      "lastPlayedTimestamp": 1786805297000,
       "lastActivityTimestamp": 1786800612000,
       "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 15/08/2026 13:30",
       "activities": [
@@ -66,71 +196,6 @@
           "name": "Missione: Transitorietà: Normale",
           "period": "2026-08-10T23:12:27Z",
           "instanceId": "17127076544"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 541,
-      "lastPlayedTimestamp": 1786804042000,
-      "lastActivityTimestamp": 1786800154000,
-      "lastActivityText": "Equilibrio: Standard il 15/08/2026 13:22",
-      "activities": [
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T13:22:34Z",
-          "instanceId": "17135660020"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T12:21:23Z",
-          "instanceId": "17135609078"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T11:29:53Z",
-          "instanceId": "17135534966"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T10:40:44Z",
-          "instanceId": "17135476997"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T10:12:11Z",
-          "instanceId": "17135473656"
-        },
-        {
-          "name": "Sfida degli Anziani: Con matchmaking",
-          "period": "2026-08-14T16:37:42Z",
-          "instanceId": "17133894318"
-        },
-        {
-          "name": "Sfida degli Anziani: Con matchmaking",
-          "period": "2026-08-14T16:07:35Z",
-          "instanceId": "17133854032"
-        },
-        {
-          "name": "La Tana dei Diavoli: Personalizzata",
-          "period": "2026-08-14T16:00:14Z",
-          "instanceId": "17133811486"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-14T15:54:06Z",
-          "instanceId": "17133803805"
-        },
-        {
-          "name": "Scalata: Normale",
-          "period": "2026-08-13T22:07:39Z",
-          "instanceId": "17132585727"
         }
       ]
     },
@@ -261,71 +326,6 @@
           "name": "La Fortezza Scarlatta: Con matchmaking",
           "period": "2026-08-06T11:12:40Z",
           "instanceId": "17116904718"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Mietitrice",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 535,
-      "lastPlayedTimestamp": 1786804034000,
-      "lastActivityTimestamp": 1786740048000,
-      "lastActivityText": "Volta di Vetro: Standard il 14/08/2026 20:40",
-      "activities": [
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-08-14T20:40:48Z",
-          "instanceId": "17134320901"
-        },
-        {
-          "name": "Partita privata",
-          "period": "2026-08-14T20:23:10Z",
-          "instanceId": "17134191303"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-08-14T20:15:40Z",
-          "instanceId": "17134387360"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-14T15:09:41Z",
-          "instanceId": "17133755889"
-        },
-        {
-          "name": "Logistica R1: Personalizzata",
-          "period": "2026-08-14T03:18:02Z",
-          "instanceId": "17133044925"
-        },
-        {
-          "name": "Deserto perpetuo (modalità epica): Standard",
-          "period": "2026-08-13T22:13:24Z",
-          "instanceId": "17132678731"
-        },
-        {
-          "name": "Deserto perpetuo (modalità epica): Standard",
-          "period": "2026-08-13T22:09:31Z",
-          "instanceId": "17132584260"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-08-13T21:47:37Z",
-          "instanceId": "17132579993"
-        },
-        {
-          "name": "Promessa del Discepolo: Maestro",
-          "period": "2026-08-13T16:35:10Z",
-          "instanceId": "17132164372"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-13T14:27:25Z",
-          "instanceId": "17132109699"
         }
       ]
     },
