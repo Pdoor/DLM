@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-15T15:26:11.673Z",
+  "generatedAt": "2026-08-15T15:48:27.309Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "adgarolp#8945",
+      "membershipId": "4611686018479100387",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Immortale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
+      "powerLevel": 425,
+      "lastPlayedTimestamp": 1786808858000,
+      "lastActivityTimestamp": 1786808155000,
+      "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 15/08/2026 15:35",
+      "activities": [
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-15T15:35:55Z",
+          "instanceId": "17135829772"
+        },
+        {
+          "name": "Carica: Leggendaria",
+          "period": "2026-08-15T15:02:36Z",
+          "instanceId": "17135821067"
+        },
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-15T14:46:56Z",
+          "instanceId": "17135766706"
+        },
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-15T13:30:12Z",
+          "instanceId": "17135652236"
+        },
+        {
+          "name": "Missione: Morfologia: Leggendaria",
+          "period": "2026-08-15T13:09:44Z",
+          "instanceId": "17135626612"
+        },
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-15T12:43:00Z",
+          "instanceId": "17135598551"
+        },
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-15T12:41:01Z",
+          "instanceId": "17135564032"
+        },
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-11T00:26:19Z",
+          "instanceId": "17127192477"
+        },
+        {
+          "name": "Sottrazione: Leggendaria",
+          "period": "2026-08-10T23:56:27Z",
+          "instanceId": "17127186520"
+        },
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-10T23:53:31Z",
+          "instanceId": "17127134367"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -13,10 +78,15 @@
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 510,
-      "lastPlayedTimestamp": 1786807481000,
-      "lastActivityTimestamp": 1786807118000,
-      "lastActivityText": "Fossa dell'Eresia: Standard il 15/08/2026 15:18",
+      "lastPlayedTimestamp": 1786808393000,
+      "lastActivityTimestamp": 1786807570000,
+      "lastActivityText": "Ultimo desiderio: Standard il 15/08/2026 15:26",
       "activities": [
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-08-15T15:26:10Z",
+          "instanceId": "17135826751"
+        },
         {
           "name": "Fossa dell'Eresia: Standard",
           "period": "2026-08-15T15:18:38Z",
@@ -58,11 +128,6 @@
           "instanceId": "17134320901"
         },
         {
-          "name": "Partita privata",
-          "period": "2026-08-14T20:23:10Z",
-          "instanceId": "17134191303"
-        },
-        {
           "name": "Promessa del Discepolo: Standard",
           "period": "2026-08-14T20:15:40Z",
           "instanceId": "17134387360"
@@ -78,10 +143,15 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2521e23050bd55aa31a0e910fa93c0b6.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786807420000,
-      "lastActivityTimestamp": 1786805773000,
-      "lastActivityText": "Cella Senza Sole: Personalizzata il 15/08/2026 14:56",
+      "lastPlayedTimestamp": 1786808672000,
+      "lastActivityTimestamp": 1786806909000,
+      "lastActivityText": "Cella Senza Sole: Personalizzata il 15/08/2026 15:15",
       "activities": [
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-15T15:15:09Z",
+          "instanceId": "17135810725"
+        },
         {
           "name": "Cella Senza Sole: Personalizzata",
           "period": "2026-08-15T14:56:13Z",
@@ -126,76 +196,6 @@
           "name": "Lega Gare di Astori",
           "period": "2026-07-25T16:29:40Z",
           "instanceId": "17087220074"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-25T16:23:12Z",
-          "instanceId": "17087205303"
-        }
-      ]
-    },
-    {
-      "displayName": "adgarolp#8945",
-      "membershipId": "4611686018479100387",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Immortale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 423,
-      "lastPlayedTimestamp": 1786807484000,
-      "lastActivityTimestamp": 1786805216000,
-      "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 15/08/2026 14:46",
-      "activities": [
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-15T14:46:56Z",
-          "instanceId": "17135766706"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-15T13:30:12Z",
-          "instanceId": "17135652236"
-        },
-        {
-          "name": "Missione: Morfologia: Leggendaria",
-          "period": "2026-08-15T13:09:44Z",
-          "instanceId": "17135626612"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-15T12:43:00Z",
-          "instanceId": "17135598551"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-15T12:41:01Z",
-          "instanceId": "17135564032"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-11T00:26:19Z",
-          "instanceId": "17127192477"
-        },
-        {
-          "name": "Sottrazione: Leggendaria",
-          "period": "2026-08-10T23:56:27Z",
-          "instanceId": "17127186520"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-10T23:53:31Z",
-          "instanceId": "17127134367"
-        },
-        {
-          "name": "Missione: Saturnismo: Leggendaria",
-          "period": "2026-08-10T23:31:58Z",
-          "instanceId": "17127129642"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-08-10T23:22:18Z",
-          "instanceId": "17127093714"
         }
       ]
     },
