@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T15:48:27.309Z",
+  "generatedAt": "2026-08-15T16:30:18.353Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "adgarolp#8945",
       "membershipId": "4611686018479100387",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Immortale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
       "powerLevel": 425,
-      "lastPlayedTimestamp": 1786808858000,
-      "lastActivityTimestamp": 1786808155000,
-      "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 15/08/2026 15:35",
+      "lastPlayedTimestamp": 1786809025000,
+      "lastActivityTimestamp": 1786808615000,
+      "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 15/08/2026 15:43",
       "activities": [
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-15T15:43:35Z",
+          "instanceId": "17135848002"
+        },
         {
           "name": "Modalità del mondo: leggendaria: Leggendaria",
           "period": "2026-08-15T15:35:55Z",
@@ -61,11 +66,71 @@
           "name": "Sottrazione: Leggendaria",
           "period": "2026-08-10T23:56:27Z",
           "instanceId": "17127186520"
+        }
+      ]
+    },
+    {
+      "displayName": "Jhonny#3878",
+      "membershipId": "4611686018489632599",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2521e23050bd55aa31a0e910fa93c0b6.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786809158000,
+      "lastActivityTimestamp": 1786808136000,
+      "lastActivityText": "Cella Senza Sole: Personalizzata il 15/08/2026 15:35",
+      "activities": [
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-15T15:35:36Z",
+          "instanceId": "17135868459"
         },
         {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-10T23:53:31Z",
-          "instanceId": "17127134367"
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-15T15:15:09Z",
+          "instanceId": "17135810725"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-15T14:56:13Z",
+          "instanceId": "17135777951"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-15T08:10:51Z",
+          "instanceId": "17135313923"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-15T08:00:57Z",
+          "instanceId": "17135276659"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-15T07:52:50Z",
+          "instanceId": "17135265588"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-07-26T08:58:33Z",
+          "instanceId": "17089713365"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-07-26T08:44:18Z",
+          "instanceId": "17089684407"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-07-26T08:30:49Z",
+          "instanceId": "17089655980"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-07-25T16:36:16Z",
+          "instanceId": "17087238047"
         }
       ]
     },
@@ -77,8 +142,8 @@
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 510,
-      "lastPlayedTimestamp": 1786808393000,
+      "powerLevel": 527,
+      "lastPlayedTimestamp": 1786811364000,
       "lastActivityTimestamp": 1786807570000,
       "lastActivityText": "Ultimo desiderio: Standard il 15/08/2026 15:26",
       "activities": [
@@ -135,80 +200,15 @@
       ]
     },
     {
-      "displayName": "Jhonny#3878",
-      "membershipId": "4611686018489632599",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2521e23050bd55aa31a0e910fa93c0b6.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786808672000,
-      "lastActivityTimestamp": 1786806909000,
-      "lastActivityText": "Cella Senza Sole: Personalizzata il 15/08/2026 15:15",
-      "activities": [
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-15T15:15:09Z",
-          "instanceId": "17135810725"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-15T14:56:13Z",
-          "instanceId": "17135777951"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-15T08:10:51Z",
-          "instanceId": "17135313923"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-15T08:00:57Z",
-          "instanceId": "17135276659"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-15T07:52:50Z",
-          "instanceId": "17135265588"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-26T08:58:33Z",
-          "instanceId": "17089713365"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-07-26T08:44:18Z",
-          "instanceId": "17089684407"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-26T08:30:49Z",
-          "instanceId": "17089655980"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-25T16:36:16Z",
-          "instanceId": "17087238047"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-07-25T16:29:40Z",
-          "instanceId": "17087220074"
-        }
-      ]
-    },
-    {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
       "powerLevel": 547,
-      "lastPlayedTimestamp": 1786804127000,
+      "lastPlayedTimestamp": 1786811349000,
       "lastActivityTimestamp": 1786802232000,
       "lastActivityText": "Equilibrio: Standard il 15/08/2026 13:57",
       "activities": [
