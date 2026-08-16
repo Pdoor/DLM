@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T18:35:44.039Z",
+  "generatedAt": "2026-08-16T19:24:43.439Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,21 @@
       "className": "Titani",
       "title": "Immortale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 435,
-      "lastPlayedTimestamp": 1786905306000,
-      "lastActivityTimestamp": 1786903233000,
-      "lastActivityText": "Rischio / Ricompensa il 16/08/2026 18:00",
+      "powerLevel": 439,
+      "lastPlayedTimestamp": 1786907904000,
+      "lastActivityTimestamp": 1786906922000,
+      "lastActivityText": "Sfide dell'Eternità: Standard il 16/08/2026 19:02",
       "activities": [
+        {
+          "name": "Sfide dell'Eternità: Standard",
+          "period": "2026-08-16T19:02:02Z",
+          "instanceId": "17138319732"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-08-16T18:17:57Z",
+          "instanceId": "17138258729"
+        },
         {
           "name": "Rischio / Ricompensa",
           "period": "2026-08-16T18:00:33Z",
@@ -56,16 +66,6 @@
           "name": "Riavvio rapido",
           "period": "2026-08-16T16:00:46Z",
           "instanceId": "17137996968"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-16T15:51:31Z",
-          "instanceId": "17137972376"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-16T15:38:36Z",
-          "instanceId": "17137959313"
         }
       ]
     },
@@ -138,12 +138,12 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786903332000,
+      "lastPlayedTimestamp": 1786907091000,
       "lastActivityTimestamp": 1786901485000,
       "lastActivityText": "Cripta di Pietrafonda il 16/08/2026 17:31",
       "activities": [
