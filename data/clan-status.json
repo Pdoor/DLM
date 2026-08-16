@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T01:40:37.147Z",
+  "generatedAt": "2026-08-16T03:04:46.592Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,30 @@
       "displayName": "adgarolp#8945",
       "membershipId": "4611686018479100387",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Immortale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 436,
-      "lastPlayedTimestamp": 1786844391000,
-      "lastActivityTimestamp": 1786838363000,
-      "lastActivityText": "Il messaggio: Leggendaria il 15/08/2026 23:59",
+      "powerLevel": 432,
+      "lastPlayedTimestamp": 1786845562000,
+      "lastActivityTimestamp": 1786845025000,
+      "lastActivityText": "Cerimonia: Leggendaria il 16/08/2026 01:50",
       "activities": [
+        {
+          "name": "Cerimonia: Leggendaria",
+          "period": "2026-08-16T01:50:25Z",
+          "instanceId": "17136861281"
+        },
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-16T01:41:02Z",
+          "instanceId": "17136844703"
+        },
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-16T01:27:20Z",
+          "instanceId": "17136830278"
+        },
         {
           "name": "Il messaggio: Leggendaria",
           "period": "2026-08-15T23:59:23Z",
@@ -51,21 +66,6 @@
           "name": "Modalità del mondo: leggendaria: Leggendaria",
           "period": "2026-08-15T22:31:38Z",
           "instanceId": "17136535145"
-        },
-        {
-          "name": "Missione: Calcolo: Leggendaria",
-          "period": "2026-08-15T22:12:19Z",
-          "instanceId": "17136533064"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-15T21:54:59Z",
-          "instanceId": "17136501425"
-        },
-        {
-          "name": "Missione: Sabotaggio: Leggendaria",
-          "period": "2026-08-15T21:36:55Z",
-          "instanceId": "17136471963"
         }
       ]
     },
@@ -73,15 +73,20 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1786843543000,
-      "lastActivityTimestamp": 1786835594000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 15/08/2026 23:13",
+      "powerLevel": 522,
+      "lastPlayedTimestamp": 1786847733000,
+      "lastActivityTimestamp": 1786838261000,
+      "lastActivityText": "La caduta di un Re: Standard il 15/08/2026 23:57",
       "activities": [
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-15T23:57:41Z",
+          "instanceId": "17136918744"
+        },
         {
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-08-15T23:13:14Z",
@@ -126,11 +131,6 @@
           "name": "Fossa dell'Eresia: Standard",
           "period": "2026-08-15T14:44:43Z",
           "instanceId": "17135742200"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-08-15T14:32:38Z",
-          "instanceId": "17135724098"
         }
       ]
     },
