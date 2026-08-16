@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-16T19:46:30.777Z",
+  "generatedAt": "2026-08-16T20:28:14.810Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786912063000,
+      "lastActivityTimestamp": 1786909862000,
+      "lastActivityText": "La fine di Crota: Standard il 16/08/2026 19:51",
+      "activities": [
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-16T19:51:02Z",
+          "instanceId": "17138415781"
+        },
+        {
+          "name": "Volta di Vetro: Maestro",
+          "period": "2026-08-16T19:33:24Z",
+          "instanceId": "17138400139"
+        },
+        {
+          "name": "Cripta di Pietrafonda",
+          "period": "2026-08-16T17:31:25Z",
+          "instanceId": "17138163175"
+        },
+        {
+          "name": "Volta di Vetro: Maestro",
+          "period": "2026-08-16T17:28:28Z",
+          "instanceId": "17138126666"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-16T17:10:52Z",
+          "instanceId": "17138105508"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-16T17:00:18Z",
+          "instanceId": "17138088249"
+        },
+        {
+          "name": "Giardino della Salvezza",
+          "period": "2026-08-16T16:51:21Z",
+          "instanceId": "17138192976"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-16T16:26:46Z",
+          "instanceId": "17138050896"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-16T15:16:21Z",
+          "instanceId": "17138002805"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-15T23:57:41Z",
+          "instanceId": "17136918744"
+        }
+      ]
+    },
     {
       "displayName": "adgarolp#8945",
       "membershipId": "4611686018479100387",
@@ -131,71 +196,6 @@
           "name": "Morsa della cupidigia: Standard",
           "period": "2026-08-16T13:45:10Z",
           "instanceId": "17137821191"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786909479000,
-      "lastActivityTimestamp": 1786901485000,
-      "lastActivityText": "Cripta di Pietrafonda il 16/08/2026 17:31",
-      "activities": [
-        {
-          "name": "Cripta di Pietrafonda",
-          "period": "2026-08-16T17:31:25Z",
-          "instanceId": "17138163175"
-        },
-        {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-16T17:28:28Z",
-          "instanceId": "17138126666"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-16T17:10:52Z",
-          "instanceId": "17138105508"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-16T17:00:18Z",
-          "instanceId": "17138088249"
-        },
-        {
-          "name": "Giardino della Salvezza",
-          "period": "2026-08-16T16:51:21Z",
-          "instanceId": "17138192976"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-16T16:26:46Z",
-          "instanceId": "17138050896"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-16T15:16:21Z",
-          "instanceId": "17138002805"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-15T23:57:41Z",
-          "instanceId": "17136918744"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-15T23:13:14Z",
-          "instanceId": "17136619403"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-08-15T16:36:11Z",
-          "instanceId": "17136156114"
         }
       ]
     },
