@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T21:24:32.924Z",
+  "generatedAt": "2026-08-16T21:47:25.263Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,15 @@
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 525,
-      "lastPlayedTimestamp": 1786915180000,
-      "lastActivityTimestamp": 1786911752000,
-      "lastActivityText": "Volta di Vetro: Standard il 16/08/2026 20:22",
+      "lastPlayedTimestamp": 1786916836000,
+      "lastActivityTimestamp": 1786916495000,
+      "lastActivityText": "Pinnacolo dell'Osservatrice: Standard il 16/08/2026 21:41",
       "activities": [
+        {
+          "name": "Pinnacolo dell'Osservatrice: Standard",
+          "period": "2026-08-16T21:41:35Z",
+          "instanceId": "17138600005"
+        },
         {
           "name": "Volta di Vetro: Standard",
           "period": "2026-08-16T20:22:32Z",
@@ -61,11 +66,6 @@
           "name": "Equilibrio: Standard",
           "period": "2026-08-16T16:26:46Z",
           "instanceId": "17138050896"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-16T15:16:21Z",
-          "instanceId": "17138002805"
         }
       ]
     },
