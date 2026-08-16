@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T20:51:31.028Z",
+  "generatedAt": "2026-08-16T21:24:32.924Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,16 @@
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1786913447000,
-      "lastActivityTimestamp": 1786909862000,
-      "lastActivityText": "La fine di Crota: Standard il 16/08/2026 19:51",
+      "powerLevel": 525,
+      "lastPlayedTimestamp": 1786915180000,
+      "lastActivityTimestamp": 1786911752000,
+      "lastActivityText": "Volta di Vetro: Standard il 16/08/2026 20:22",
       "activities": [
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-08-16T20:22:32Z",
+          "instanceId": "17138557402"
+        },
         {
           "name": "La fine di Crota: Standard",
           "period": "2026-08-16T19:51:02Z",
@@ -61,11 +66,6 @@
           "name": "Equilibrio: Standard",
           "period": "2026-08-16T15:16:21Z",
           "instanceId": "17138002805"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-15T23:57:41Z",
-          "instanceId": "17136918744"
         }
       ]
     },
