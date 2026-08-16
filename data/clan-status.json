@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T15:26:33.149Z",
+  "generatedAt": "2026-08-16T15:49:42.760Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,20 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1786893661000,
-      "lastActivityTimestamp": 1786891708000,
-      "lastActivityText": "Terreni di Prova: Personalizzata il 16/08/2026 14:48",
+      "lastPlayedTimestamp": 1786895373000,
+      "lastActivityTimestamp": 1786894195000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 16/08/2026 15:29",
       "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-16T15:29:55Z",
+          "instanceId": "17137927846"
+        },
+        {
+          "name": "Vox obscura: Personalizzata",
+          "period": "2026-08-16T15:07:30Z",
+          "instanceId": "17137925155"
+        },
         {
           "name": "Terreni di Prova: Personalizzata",
           "period": "2026-08-16T14:48:28Z",
@@ -56,16 +66,6 @@
           "name": "Modalità del mondo: audace: Audace",
           "period": "2026-08-14T14:59:22Z",
           "instanceId": "17133729235"
-        },
-        {
-          "name": "Missione: Transitorietà: Normale",
-          "period": "2026-08-14T14:49:22Z",
-          "instanceId": "17133728863"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-08-14T14:38:39Z",
-          "instanceId": "17133715279"
         }
       ]
     },
@@ -78,14 +78,24 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1786893791000,
-      "lastActivityTimestamp": 1786891708000,
-      "lastActivityText": "Terreni di Prova: Personalizzata il 16/08/2026 14:48",
+      "lastPlayedTimestamp": 1786895290000,
+      "lastActivityTimestamp": 1786892850000,
+      "lastActivityText": "Vox obscura: Personalizzata il 16/08/2026 15:07",
       "activities": [
+        {
+          "name": "Vox obscura: Personalizzata",
+          "period": "2026-08-16T15:07:30Z",
+          "instanceId": "17137925155"
+        },
         {
           "name": "Terreni di Prova: Personalizzata",
           "period": "2026-08-16T14:48:28Z",
           "instanceId": "17137882910"
+        },
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-08-16T14:25:06Z",
+          "instanceId": "17137919724"
         },
         {
           "name": "Morsa della cupidigia: Standard",
@@ -121,16 +131,6 @@
           "name": "Dottrina dilaniata: Normale",
           "period": "2026-08-13T17:15:34Z",
           "instanceId": "17132236197"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-13T16:59:23Z",
-          "instanceId": "17132173332"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-13T16:42:07Z",
-          "instanceId": "17132148773"
         }
       ]
     },
@@ -268,12 +268,12 @@
       "displayName": "adgarolp#8945",
       "membershipId": "4611686018479100387",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Immortale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
       "powerLevel": 432,
-      "lastPlayedTimestamp": 1786845562000,
+      "lastPlayedTimestamp": 1786895318000,
       "lastActivityTimestamp": 1786845025000,
       "lastActivityText": "Cerimonia: Leggendaria il 16/08/2026 01:50",
       "activities": [
