@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-16T05:55:36.939Z",
+  "generatedAt": "2026-08-16T06:48:10.462Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786862800000,
+      "lastActivityTimestamp": 1786859718000,
+      "lastActivityText": "Campi di battaglia: Colosso: Con matchmaking il 16/08/2026 05:55",
+      "activities": [
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-08-16T05:55:18Z",
+          "instanceId": "17137248062"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-08-15T06:10:04Z",
+          "instanceId": "17135161245"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-08-14T09:12:51Z",
+          "instanceId": "17133409981"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-14T07:34:39Z",
+          "instanceId": "17133322873"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-08-14T07:15:43Z",
+          "instanceId": "17133306363"
+        },
+        {
+          "name": "Caccia all'incubo: furia: Esperto",
+          "period": "2026-08-12T09:27:26Z",
+          "instanceId": "17129865845"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-11T12:29:31Z",
+          "instanceId": "17128124935"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-11T10:55:15Z",
+          "instanceId": "17128034143"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-08-11T10:24:31Z",
+          "instanceId": "17128006547"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-11T09:04:26Z",
+          "instanceId": "17127936590"
+        }
+      ]
+    },
     {
       "displayName": "adgarolp#8945",
       "membershipId": "4611686018479100387",
@@ -265,71 +330,6 @@
       ]
     },
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1786859627000,
-      "lastActivityTimestamp": 1786774204000,
-      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 15/08/2026 06:10",
-      "activities": [
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-08-15T06:10:04Z",
-          "instanceId": "17135161245"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-08-14T09:12:51Z",
-          "instanceId": "17133409981"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-14T07:34:39Z",
-          "instanceId": "17133322873"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-08-14T07:15:43Z",
-          "instanceId": "17133306363"
-        },
-        {
-          "name": "Caccia all'incubo: furia: Esperto",
-          "period": "2026-08-12T09:27:26Z",
-          "instanceId": "17129865845"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-11T12:29:31Z",
-          "instanceId": "17128124935"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-11T10:55:15Z",
-          "instanceId": "17128034143"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-08-11T10:24:31Z",
-          "instanceId": "17128006547"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-11T09:04:26Z",
-          "instanceId": "17127936590"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Con matchmaking",
-          "period": "2026-08-06T11:12:40Z",
-          "instanceId": "17116904718"
-        }
-      ]
-    },
-    {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
@@ -463,12 +463,12 @@
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786726439000,
+      "lastPlayedTimestamp": 1786862817000,
       "lastActivityTimestamp": 1786715186000,
       "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 14/08/2026 13:46",
       "activities": [
