@@ -1,74 +1,9 @@
 {
-  "generatedAt": "2026-08-16T17:47:35.184Z",
+  "generatedAt": "2026-08-16T18:35:44.039Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Mietitrice",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786902427000,
-      "lastActivityTimestamp": 1786901308000,
-      "lastActivityText": "Volta di Vetro: Maestro il 16/08/2026 17:28",
-      "activities": [
-        {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-16T17:28:28Z",
-          "instanceId": "17138126666"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-16T17:10:52Z",
-          "instanceId": "17138105508"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-16T17:00:18Z",
-          "instanceId": "17138088249"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-16T16:26:46Z",
-          "instanceId": "17138050896"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-16T15:16:21Z",
-          "instanceId": "17138002805"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-15T23:57:41Z",
-          "instanceId": "17136918744"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-15T23:13:14Z",
-          "instanceId": "17136619403"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-08-15T16:36:11Z",
-          "instanceId": "17136156114"
-        },
-        {
-          "name": "Morsa della cupidigia: Maestro",
-          "period": "2026-08-15T15:45:17Z",
-          "instanceId": "17135913947"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-08-15T15:26:10Z",
-          "instanceId": "17135826751"
-        }
-      ]
-    },
     {
       "displayName": "adgarolp#8945",
       "membershipId": "4611686018479100387",
@@ -77,11 +12,21 @@
       "className": "Titani",
       "title": "Immortale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 437,
-      "lastPlayedTimestamp": 1786902327000,
-      "lastActivityTimestamp": 1786901129000,
-      "lastActivityText": "Lega Gare di Astori il 16/08/2026 17:25",
+      "powerLevel": 435,
+      "lastPlayedTimestamp": 1786905306000,
+      "lastActivityTimestamp": 1786903233000,
+      "lastActivityText": "Rischio / Ricompensa il 16/08/2026 18:00",
       "activities": [
+        {
+          "name": "Rischio / Ricompensa",
+          "period": "2026-08-16T18:00:33Z",
+          "instanceId": "17138198259"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-16T17:42:21Z",
+          "instanceId": "17138175946"
+        },
         {
           "name": "Lega Gare di Astori",
           "period": "2026-08-16T17:25:29Z",
@@ -121,16 +66,136 @@
           "name": "Cosmodromo",
           "period": "2026-08-16T15:38:36Z",
           "instanceId": "17137959313"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1786902888000,
+      "lastActivityTimestamp": 1786901597000,
+      "lastActivityText": "La lama di Luce: Personalizzata il 16/08/2026 17:33",
+      "activities": [
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-08-16T17:33:17Z",
+          "instanceId": "17138164114"
         },
         {
-          "name": "Cerimonia: Leggendaria",
-          "period": "2026-08-16T01:50:25Z",
-          "instanceId": "17136861281"
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-08-16T17:03:27Z",
+          "instanceId": "17138119422"
         },
         {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-16T01:41:02Z",
-          "instanceId": "17136844703"
+          "name": "Corte della Vedova: Con matchmaking",
+          "period": "2026-08-16T16:15:11Z",
+          "instanceId": "17138074027"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-16T15:59:18Z",
+          "instanceId": "17137994570"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-16T15:54:18Z",
+          "instanceId": "17137966450"
+        },
+        {
+          "name": "Fortezza della Guida: Con matchmaking",
+          "period": "2026-08-16T15:37:32Z",
+          "instanceId": "17137959971"
+        },
+        {
+          "name": "Vox obscura: Personalizzata",
+          "period": "2026-08-16T15:07:30Z",
+          "instanceId": "17137925155"
+        },
+        {
+          "name": "Terreni di Prova: Personalizzata",
+          "period": "2026-08-16T14:48:28Z",
+          "instanceId": "17137882910"
+        },
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-08-16T14:25:06Z",
+          "instanceId": "17137919724"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-16T13:45:10Z",
+          "instanceId": "17137821191"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Mietitrice",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786903332000,
+      "lastActivityTimestamp": 1786901485000,
+      "lastActivityText": "Cripta di Pietrafonda il 16/08/2026 17:31",
+      "activities": [
+        {
+          "name": "Cripta di Pietrafonda",
+          "period": "2026-08-16T17:31:25Z",
+          "instanceId": "17138163175"
+        },
+        {
+          "name": "Volta di Vetro: Maestro",
+          "period": "2026-08-16T17:28:28Z",
+          "instanceId": "17138126666"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-16T17:10:52Z",
+          "instanceId": "17138105508"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-16T17:00:18Z",
+          "instanceId": "17138088249"
+        },
+        {
+          "name": "Giardino della Salvezza",
+          "period": "2026-08-16T16:51:21Z",
+          "instanceId": "17138192976"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-16T16:26:46Z",
+          "instanceId": "17138050896"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-16T15:16:21Z",
+          "instanceId": "17138002805"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-15T23:57:41Z",
+          "instanceId": "17136918744"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-15T23:13:14Z",
+          "instanceId": "17136619403"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-08-15T16:36:11Z",
+          "instanceId": "17136156114"
         }
       ]
     },
@@ -196,71 +261,6 @@
           "name": "Schianto dell'Esodo: Personalizzata",
           "period": "2026-08-14T16:26:40Z",
           "instanceId": "17133871145"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1786902360000,
-      "lastActivityTimestamp": 1786899807000,
-      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 16/08/2026 17:03",
-      "activities": [
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-08-16T17:03:27Z",
-          "instanceId": "17138119422"
-        },
-        {
-          "name": "Corte della Vedova: Con matchmaking",
-          "period": "2026-08-16T16:15:11Z",
-          "instanceId": "17138074027"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-16T15:59:18Z",
-          "instanceId": "17137994570"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-16T15:54:18Z",
-          "instanceId": "17137966450"
-        },
-        {
-          "name": "Fortezza della Guida: Con matchmaking",
-          "period": "2026-08-16T15:37:32Z",
-          "instanceId": "17137959971"
-        },
-        {
-          "name": "Vox obscura: Personalizzata",
-          "period": "2026-08-16T15:07:30Z",
-          "instanceId": "17137925155"
-        },
-        {
-          "name": "Terreni di Prova: Personalizzata",
-          "period": "2026-08-16T14:48:28Z",
-          "instanceId": "17137882910"
-        },
-        {
-          "name": "Morsa della cupidigia: Maestro",
-          "period": "2026-08-16T14:25:06Z",
-          "instanceId": "17137919724"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-16T13:45:10Z",
-          "instanceId": "17137821191"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-16T12:34:18Z",
-          "instanceId": "17137761678"
         }
       ]
     },
