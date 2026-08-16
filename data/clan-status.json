@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T14:27:57.202Z",
+  "generatedAt": "2026-08-16T14:52:32.799Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
       "powerLevel": 453,
-      "lastPlayedTimestamp": 1786890447000,
-      "lastActivityTimestamp": 1786888910000,
-      "lastActivityText": "Partita veloce: Normale il 16/08/2026 14:01",
+      "lastPlayedTimestamp": 1786890636000,
+      "lastActivityTimestamp": 1786890558000,
+      "lastActivityText": "Partita veloce: Normale il 16/08/2026 14:29",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-16T14:29:18Z",
+          "instanceId": "17137845203"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-16T14:19:15Z",
+          "instanceId": "17137827565"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-08-16T14:01:50Z",
@@ -56,16 +66,71 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-03T16:11:31Z",
           "instanceId": "17110761792"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786891822000,
+      "lastActivityTimestamp": 1786888997000,
+      "lastActivityText": "Soli e al freddo: Audace il 16/08/2026 14:03",
+      "activities": [
+        {
+          "name": "Soli e al freddo: Audace",
+          "period": "2026-08-16T14:03:17Z",
+          "instanceId": "17137828968"
         },
         {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-03T15:57:35Z",
-          "instanceId": "17110738408"
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-08-14T16:26:40Z",
+          "instanceId": "17133871145"
         },
         {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-03T15:40:00Z",
-          "instanceId": "17110712004"
+          "name": "La caduta di un Kell: Personalizzata",
+          "period": "2026-08-14T16:15:06Z",
+          "instanceId": "17133842056"
+        },
+        {
+          "name": "Terreni di Prova",
+          "period": "2026-08-14T15:45:20Z",
+          "instanceId": "17133825351"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-08-14T15:32:45Z",
+          "instanceId": "17133779431"
+        },
+        {
+          "name": "Il Ponte di Vetro: Personalizzata",
+          "period": "2026-08-14T15:15:07Z",
+          "instanceId": "17133767534"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-08-14T14:59:22Z",
+          "instanceId": "17133729235"
+        },
+        {
+          "name": "Missione: Transitorietà: Normale",
+          "period": "2026-08-14T14:49:22Z",
+          "instanceId": "17133728863"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-08-14T14:38:39Z",
+          "instanceId": "17133715279"
+        },
+        {
+          "name": "Gli Spettri: Leggenda",
+          "period": "2026-08-13T17:48:50Z",
+          "instanceId": "17132249080"
         }
       ]
     },
@@ -78,7 +143,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1786890370000,
+      "lastPlayedTimestamp": 1786891868000,
       "lastActivityTimestamp": 1786887910000,
       "lastActivityText": "Morsa della cupidigia: Standard il 16/08/2026 13:45",
       "activities": [
@@ -456,71 +521,6 @@
           "name": "Lega Gare di Astori",
           "period": "2026-07-25T16:36:16Z",
           "instanceId": "17087238047"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786890453000,
-      "lastActivityTimestamp": 1786724800000,
-      "lastActivityText": "Schianto dell'Esodo: Personalizzata il 14/08/2026 16:26",
-      "activities": [
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-08-14T16:26:40Z",
-          "instanceId": "17133871145"
-        },
-        {
-          "name": "La caduta di un Kell: Personalizzata",
-          "period": "2026-08-14T16:15:06Z",
-          "instanceId": "17133842056"
-        },
-        {
-          "name": "Terreni di Prova",
-          "period": "2026-08-14T15:45:20Z",
-          "instanceId": "17133825351"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-08-14T15:32:45Z",
-          "instanceId": "17133779431"
-        },
-        {
-          "name": "Il Ponte di Vetro: Personalizzata",
-          "period": "2026-08-14T15:15:07Z",
-          "instanceId": "17133767534"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-08-14T14:59:22Z",
-          "instanceId": "17133729235"
-        },
-        {
-          "name": "Missione: Transitorietà: Normale",
-          "period": "2026-08-14T14:49:22Z",
-          "instanceId": "17133728863"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-08-14T14:38:39Z",
-          "instanceId": "17133715279"
-        },
-        {
-          "name": "Gli Spettri: Leggenda",
-          "period": "2026-08-13T17:48:50Z",
-          "instanceId": "17132249080"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-13T17:43:53Z",
-          "instanceId": "17132214390"
         }
       ]
     },
