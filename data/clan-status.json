@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T23:47:23.323Z",
+  "generatedAt": "2026-08-16T01:40:37.147Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,26 @@
       "className": "Titani",
       "title": "Immortale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 433,
-      "lastPlayedTimestamp": 1786837573000,
-      "lastActivityTimestamp": 1786836097000,
-      "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 15/08/2026 23:21",
+      "powerLevel": 436,
+      "lastPlayedTimestamp": 1786844391000,
+      "lastActivityTimestamp": 1786838363000,
+      "lastActivityText": "Il messaggio: Leggendaria il 15/08/2026 23:59",
       "activities": [
+        {
+          "name": "Il messaggio: Leggendaria",
+          "period": "2026-08-15T23:59:23Z",
+          "instanceId": "17136801529"
+        },
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-15T23:50:32Z",
+          "instanceId": "17136671945"
+        },
+        {
+          "name": "Missione: Rischio di collasso: Leggendaria",
+          "period": "2026-08-15T23:26:02Z",
+          "instanceId": "17136658130"
+        },
         {
           "name": "Modalità del mondo: leggendaria: Leggendaria",
           "period": "2026-08-15T23:21:37Z",
@@ -51,21 +66,6 @@
           "name": "Missione: Sabotaggio: Leggendaria",
           "period": "2026-08-15T21:36:55Z",
           "instanceId": "17136471963"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-15T21:21:31Z",
-          "instanceId": "17136441350"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-15T15:43:35Z",
-          "instanceId": "17135848002"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-15T15:35:55Z",
-          "instanceId": "17135829772"
         }
       ]
     },
@@ -77,8 +77,8 @@
       "className": "Stregoni",
       "title": "Mietitrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786836517000,
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1786843543000,
       "lastActivityTimestamp": 1786835594000,
       "lastActivityText": "Partita veloce: maestro: Maestro il 15/08/2026 23:13",
       "activities": [
