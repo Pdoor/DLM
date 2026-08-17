@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-17T19:32:03.454Z",
+  "generatedAt": "2026-08-17T20:32:06.330Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 528,
+      "lastPlayedTimestamp": 1786995733000,
+      "lastActivityTimestamp": 1786992884000,
+      "lastActivityText": "Corte della Vedova: Con matchmaking il 17/08/2026 18:54",
+      "activities": [
+        {
+          "name": "Corte della Vedova: Con matchmaking",
+          "period": "2026-08-17T18:54:44Z",
+          "instanceId": "17140218912"
+        },
+        {
+          "name": "Spira: Con matchmaking",
+          "period": "2026-08-17T00:20:13Z",
+          "instanceId": "17138919111"
+        },
+        {
+          "name": "Pinnacolo dell'Osservatrice: Standard",
+          "period": "2026-08-16T21:41:35Z",
+          "instanceId": "17138600005"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-08-16T20:22:32Z",
+          "instanceId": "17138557402"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-16T19:51:02Z",
+          "instanceId": "17138415781"
+        },
+        {
+          "name": "Volta di Vetro: Maestro",
+          "period": "2026-08-16T19:33:24Z",
+          "instanceId": "17138400139"
+        },
+        {
+          "name": "Cripta di Pietrafonda",
+          "period": "2026-08-16T17:31:25Z",
+          "instanceId": "17138163175"
+        },
+        {
+          "name": "Volta di Vetro: Maestro",
+          "period": "2026-08-16T17:28:28Z",
+          "instanceId": "17138126666"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-16T17:10:52Z",
+          "instanceId": "17138105508"
+        },
+        {
+          "name": "Giardino della Salvezza",
+          "period": "2026-08-16T16:51:21Z",
+          "instanceId": "17138192976"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -73,12 +138,12 @@
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
       "powerLevel": 367,
-      "lastPlayedTimestamp": 1786994896000,
+      "lastPlayedTimestamp": 1786996008000,
       "lastActivityTimestamp": 1786988565000,
       "lastActivityText": "Volta di Vetro: Maestro il 17/08/2026 17:42",
       "activities": [
@@ -391,71 +456,6 @@
           "name": "La caduta di un Re: Standard",
           "period": "2026-08-11T18:19:25Z",
           "instanceId": "17128781948"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 528,
-      "lastPlayedTimestamp": 1786995105000,
-      "lastActivityTimestamp": 1786926013000,
-      "lastActivityText": "Spira: Con matchmaking il 17/08/2026 00:20",
-      "activities": [
-        {
-          "name": "Spira: Con matchmaking",
-          "period": "2026-08-17T00:20:13Z",
-          "instanceId": "17138919111"
-        },
-        {
-          "name": "Pinnacolo dell'Osservatrice: Standard",
-          "period": "2026-08-16T21:41:35Z",
-          "instanceId": "17138600005"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-08-16T20:22:32Z",
-          "instanceId": "17138557402"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-16T19:51:02Z",
-          "instanceId": "17138415781"
-        },
-        {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-16T19:33:24Z",
-          "instanceId": "17138400139"
-        },
-        {
-          "name": "Cripta di Pietrafonda",
-          "period": "2026-08-16T17:31:25Z",
-          "instanceId": "17138163175"
-        },
-        {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-16T17:28:28Z",
-          "instanceId": "17138126666"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-16T17:10:52Z",
-          "instanceId": "17138105508"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-16T17:00:18Z",
-          "instanceId": "17138088249"
-        },
-        {
-          "name": "Giardino della Salvezza",
-          "period": "2026-08-16T16:51:21Z",
-          "instanceId": "17138192976"
         }
       ]
     },
