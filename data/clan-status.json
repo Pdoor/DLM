@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-17T06:02:01.632Z",
+  "generatedAt": "2026-08-17T07:33:47.583Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 546,
+      "lastPlayedTimestamp": 1786951985000,
+      "lastActivityTimestamp": 1786950713000,
+      "lastActivityText": "Schianto dell'Esodo: Con matchmaking il 17/08/2026 07:11",
+      "activities": [
+        {
+          "name": "Schianto dell'Esodo: Con matchmaking",
+          "period": "2026-08-17T07:11:53Z",
+          "instanceId": "17139445704"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-08-17T06:40:39Z",
+          "instanceId": "17139421604"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-08-17T06:09:06Z",
+          "instanceId": "17139392873"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-16T10:35:04Z",
+          "instanceId": "17137560797"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-08-16T09:33:17Z",
+          "instanceId": "17137510549"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-16T09:23:16Z",
+          "instanceId": "17137481197"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-08-16T06:32:29Z",
+          "instanceId": "17137303377"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-08-16T05:55:18Z",
+          "instanceId": "17137248062"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-08-15T06:10:04Z",
+          "instanceId": "17135161245"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-08-14T09:12:51Z",
+          "instanceId": "17133409981"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -330,71 +395,6 @@
       ]
     },
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786946157000,
-      "lastActivityTimestamp": 1786876504000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 16/08/2026 10:35",
-      "activities": [
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-16T10:35:04Z",
-          "instanceId": "17137560797"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-08-16T09:33:17Z",
-          "instanceId": "17137510549"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-16T09:23:16Z",
-          "instanceId": "17137481197"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-08-16T06:32:29Z",
-          "instanceId": "17137303377"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-08-16T05:55:18Z",
-          "instanceId": "17137248062"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-08-15T06:10:04Z",
-          "instanceId": "17135161245"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-08-14T09:12:51Z",
-          "instanceId": "17133409981"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-14T07:34:39Z",
-          "instanceId": "17133322873"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-08-14T07:15:43Z",
-          "instanceId": "17133306363"
-        },
-        {
-          "name": "Caccia all'incubo: furia: Esperto",
-          "period": "2026-08-12T09:27:26Z",
-          "instanceId": "17129865845"
-        }
-      ]
-    },
-    {
       "displayName": "İda_Toprak_Kava#856",
       "membershipId": "4611686018556113076",
       "bungieNetMembershipId": "",
@@ -598,7 +598,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786863205000,
+      "lastPlayedTimestamp": 1786946992000,
       "lastActivityTimestamp": 1786715186000,
       "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 14/08/2026 13:46",
       "activities": [
