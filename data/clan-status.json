@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T17:31:26.604Z",
+  "generatedAt": "2026-08-17T18:46:14.711Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786987850000,
-      "lastActivityTimestamp": 1786986410000,
-      "lastActivityText": "Morsa della cupidigia: Standard il 17/08/2026 17:06",
+      "lastPlayedTimestamp": 1786991827000,
+      "lastActivityTimestamp": 1786989657000,
+      "lastActivityText": "La lama di Luce: Con matchmaking il 17/08/2026 18:00",
       "activities": [
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-17T18:00:57Z",
+          "instanceId": "17140113362"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-17T17:49:16Z",
+          "instanceId": "17140089477"
+        },
         {
           "name": "Morsa della cupidigia: Standard",
           "period": "2026-08-17T17:06:50Z",
@@ -56,16 +66,6 @@
           "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
           "period": "2026-08-17T14:15:07Z",
           "instanceId": "17139820601"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-17T13:40:21Z",
-          "instanceId": "17139782145"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-17T13:10:46Z",
-          "instanceId": "17139759427"
         }
       ]
     },
@@ -723,12 +723,12 @@
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
-      "powerLevel": 367,
-      "lastPlayedTimestamp": 1786970397000,
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1786992205000,
       "lastActivityTimestamp": 1786662136000,
       "lastActivityText": "Pallido Cuore il 13/08/2026 23:02",
       "activities": [
