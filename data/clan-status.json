@@ -1,14 +1,79 @@
 {
-  "generatedAt": "2026-08-17T16:33:13.630Z",
+  "generatedAt": "2026-08-17T17:31:26.604Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786987850000,
+      "lastActivityTimestamp": 1786986410000,
+      "lastActivityText": "Morsa della cupidigia: Standard il 17/08/2026 17:06",
+      "activities": [
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-17T17:06:50Z",
+          "instanceId": "17140046729"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-17T16:09:50Z",
+          "instanceId": "17139985692"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-08-17T15:27:53Z",
+          "instanceId": "17139917697"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-08-17T14:53:28Z",
+          "instanceId": "17139860893"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-08-17T14:43:59Z",
+          "instanceId": "17139845774"
+        },
+        {
+          "name": "Baia dei Desideri Annegati: Maestro",
+          "period": "2026-08-17T14:36:58Z",
+          "instanceId": "17139836008"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-08-17T14:22:17Z",
+          "instanceId": "17139827528"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-08-17T14:15:07Z",
+          "instanceId": "17139820601"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-17T13:40:21Z",
+          "instanceId": "17139782145"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-17T13:10:46Z",
+          "instanceId": "17139759427"
+        }
+      ]
+    },
+    {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
@@ -131,71 +196,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-26T08:58:33Z",
           "instanceId": "17089713365"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786984362000,
-      "lastActivityTimestamp": 1786980473000,
-      "lastActivityText": "Campi di battaglia: Discesa: Con matchmaking il 17/08/2026 15:27",
-      "activities": [
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-08-17T15:27:53Z",
-          "instanceId": "17139917697"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-08-17T14:53:28Z",
-          "instanceId": "17139860893"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-08-17T14:43:59Z",
-          "instanceId": "17139845774"
-        },
-        {
-          "name": "Baia dei Desideri Annegati: Maestro",
-          "period": "2026-08-17T14:36:58Z",
-          "instanceId": "17139836008"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-08-17T14:22:17Z",
-          "instanceId": "17139827528"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-08-17T14:15:07Z",
-          "instanceId": "17139820601"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-17T13:40:21Z",
-          "instanceId": "17139782145"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-17T13:10:46Z",
-          "instanceId": "17139759427"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-17T11:19:25Z",
-          "instanceId": "17139643925"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-17T10:58:26Z",
-          "instanceId": "17139626569"
         }
       ]
     },
