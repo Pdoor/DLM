@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-17T13:42:37.313Z",
+  "generatedAt": "2026-08-17T14:32:29.535Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Ghost of Warlock#5159",
+      "membershipId": "4611686018513286564",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
+      "powerLevel": 538,
+      "lastPlayedTimestamp": 1786977060000,
+      "lastActivityTimestamp": 1786976545000,
+      "lastActivityText": "Baia dei Desideri Annegati: Esperto il 17/08/2026 14:22",
+      "activities": [
+        {
+          "name": "Baia dei Desideri Annegati: Esperto",
+          "period": "2026-08-17T14:22:25Z",
+          "instanceId": "17139817309"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-08-17T14:20:05Z",
+          "instanceId": "17139810234"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-17T13:36:08Z",
+          "instanceId": "17139806555"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-14T13:46:26Z",
+          "instanceId": "17133655705"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-14T08:57:38Z",
+          "instanceId": "17133391017"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-08-11T06:39:54Z",
+          "instanceId": "17127839185"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-08-10T15:28:38Z",
+          "instanceId": "17126338104"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-08-10T14:47:52Z",
+          "instanceId": "17126285044"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-08-09T07:17:38Z",
+          "instanceId": "17123428065"
+        },
+        {
+          "name": "Oblazione: Lignaggio",
+          "period": "2026-08-08T19:49:21Z",
+          "instanceId": "17122192827"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -13,10 +78,20 @@
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786974092000,
-      "lastActivityTimestamp": 1786972246000,
-      "lastActivityText": "Cella Senza Sole: Personalizzata il 17/08/2026 13:10",
+      "lastPlayedTimestamp": 1786977105000,
+      "lastActivityTimestamp": 1786976107000,
+      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 17/08/2026 14:15",
       "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-08-17T14:15:07Z",
+          "instanceId": "17139820601"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-17T13:40:21Z",
+          "instanceId": "17139782145"
+        },
         {
           "name": "Cella Senza Sole: Personalizzata",
           "period": "2026-08-17T13:10:46Z",
@@ -56,16 +131,71 @@
           "name": "Campi di battaglia: Discesa: Con matchmaking",
           "period": "2026-08-17T07:45:24Z",
           "instanceId": "17139476246"
+        }
+      ]
+    },
+    {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 546,
+      "lastPlayedTimestamp": 1786977113000,
+      "lastActivityTimestamp": 1786975272000,
+      "lastActivityText": "Conservazione il 17/08/2026 14:01",
+      "activities": [
+        {
+          "name": "Conservazione",
+          "period": "2026-08-17T14:01:12Z",
+          "instanceId": "17139811029"
         },
         {
-          "name": "Schianto dell'Esodo: Con matchmaking",
-          "period": "2026-08-17T07:11:53Z",
-          "instanceId": "17139445704"
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-17T10:31:17Z",
+          "instanceId": "17139596930"
         },
         {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-08-17T06:40:39Z",
-          "instanceId": "17139421604"
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-08-17T09:49:53Z",
+          "instanceId": "17139565352"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-14T15:31:34Z",
+          "instanceId": "17133782092"
+        },
+        {
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-08-14T14:45:47Z",
+          "instanceId": "17133725260"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-11T10:53:39Z",
+          "instanceId": "17128020246"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-11T10:40:58Z",
+          "instanceId": "17128013967"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-11T10:03:11Z",
+          "instanceId": "17127979430"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-11T08:29:50Z",
+          "instanceId": "17127890287"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-11T08:07:03Z",
+          "instanceId": "17128113088"
         }
       ]
     },
@@ -78,7 +208,7 @@
       "title": "Gloriosa",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
       "powerLevel": 545,
-      "lastPlayedTimestamp": 1786974122000,
+      "lastPlayedTimestamp": 1786977057000,
       "lastActivityTimestamp": 1786972217000,
       "lastActivityText": "Pantheon: Morgeth soverchiante: Personalizzata il 17/08/2026 13:10",
       "activities": [
@@ -131,71 +261,6 @@
           "name": "La caduta di un Re: Standard",
           "period": "2026-08-11T18:19:25Z",
           "instanceId": "17128781948"
-        }
-      ]
-    },
-    {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 546,
-      "lastPlayedTimestamp": 1786972308000,
-      "lastActivityTimestamp": 1786962677000,
-      "lastActivityText": "Partita veloce: Normale il 17/08/2026 10:31",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-17T10:31:17Z",
-          "instanceId": "17139596930"
-        },
-        {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-08-17T09:49:53Z",
-          "instanceId": "17139565352"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-14T15:31:34Z",
-          "instanceId": "17133782092"
-        },
-        {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-08-14T14:45:47Z",
-          "instanceId": "17133725260"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-11T10:53:39Z",
-          "instanceId": "17128020246"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-11T10:40:58Z",
-          "instanceId": "17128013967"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-11T10:03:11Z",
-          "instanceId": "17127979430"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-11T08:29:50Z",
-          "instanceId": "17127890287"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-11T08:07:03Z",
-          "instanceId": "17128113088"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-10T21:15:35Z",
-          "instanceId": "17126943210"
         }
       ]
     },
@@ -651,71 +716,6 @@
           "name": "Equilibrio: Standard",
           "period": "2026-08-15T10:40:44Z",
           "instanceId": "17135476997"
-        }
-      ]
-    },
-    {
-      "displayName": "Ghost of Warlock#5159",
-      "membershipId": "4611686018513286564",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786974034000,
-      "lastActivityTimestamp": 1786715186000,
-      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 14/08/2026 13:46",
-      "activities": [
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-14T13:46:26Z",
-          "instanceId": "17133655705"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-14T08:57:38Z",
-          "instanceId": "17133391017"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-11T06:39:54Z",
-          "instanceId": "17127839185"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-08-10T15:28:38Z",
-          "instanceId": "17126338104"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-08-10T14:47:52Z",
-          "instanceId": "17126285044"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-08-09T07:17:38Z",
-          "instanceId": "17123428065"
-        },
-        {
-          "name": "Oblazione: Lignaggio",
-          "period": "2026-08-08T19:49:21Z",
-          "instanceId": "17122192827"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-08-08T19:19:09Z",
-          "instanceId": "17122078444"
-        },
-        {
-          "name": "D.A.G.A. caduta: Con matchmaking",
-          "period": "2026-08-08T05:56:14Z",
-          "instanceId": "17120863797"
-        },
-        {
-          "name": "D.A.G.A. caduta: Con matchmaking",
-          "period": "2026-08-08T05:44:29Z",
-          "instanceId": "17120843557"
         }
       ]
     },
