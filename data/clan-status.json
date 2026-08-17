@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T09:48:27.784Z",
+  "generatedAt": "2026-08-17T10:36:15.551Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,15 @@
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786959781000,
-      "lastActivityTimestamp": 1786958680000,
-      "lastActivityText": "Cella Senza Sole: Personalizzata il 17/08/2026 09:24",
+      "lastPlayedTimestamp": 1786962925000,
+      "lastActivityTimestamp": 1786960749000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 17/08/2026 09:59",
       "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-17T09:59:09Z",
+          "instanceId": "17139577104"
+        },
         {
           "name": "Cella Senza Sole: Personalizzata",
           "period": "2026-08-17T09:24:40Z",
@@ -61,11 +66,71 @@
           "name": "Trafficante d'armi: Con matchmaking",
           "period": "2026-08-16T06:32:29Z",
           "instanceId": "17137303377"
+        }
+      ]
+    },
+    {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1786962824000,
+      "lastActivityTimestamp": 1786960193000,
+      "lastActivityText": "Confluenza: Personalizzata il 17/08/2026 09:49",
+      "activities": [
+        {
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-08-17T09:49:53Z",
+          "instanceId": "17139565352"
         },
         {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-08-16T05:55:18Z",
-          "instanceId": "17137248062"
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-14T15:31:34Z",
+          "instanceId": "17133782092"
+        },
+        {
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-08-14T14:45:47Z",
+          "instanceId": "17133725260"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-11T10:53:39Z",
+          "instanceId": "17128020246"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-11T10:40:58Z",
+          "instanceId": "17128013967"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-11T10:03:11Z",
+          "instanceId": "17127979430"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-11T08:29:50Z",
+          "instanceId": "17127890287"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-11T08:07:03Z",
+          "instanceId": "17128113088"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-10T21:15:35Z",
+          "instanceId": "17126943210"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-10T21:10:20Z",
+          "instanceId": "17126854299"
         }
       ]
     },
@@ -525,71 +590,6 @@
       ]
     },
     {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1786960060000,
-      "lastActivityTimestamp": 1786721494000,
-      "lastActivityText": "Partita veloce: Normale il 14/08/2026 15:31",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-14T15:31:34Z",
-          "instanceId": "17133782092"
-        },
-        {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-08-14T14:45:47Z",
-          "instanceId": "17133725260"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-11T10:53:39Z",
-          "instanceId": "17128020246"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-11T10:40:58Z",
-          "instanceId": "17128013967"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-11T10:03:11Z",
-          "instanceId": "17127979430"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-11T08:29:50Z",
-          "instanceId": "17127890287"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-11T08:07:03Z",
-          "instanceId": "17128113088"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-10T21:15:35Z",
-          "instanceId": "17126943210"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-10T21:10:20Z",
-          "instanceId": "17126854299"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-10T21:03:09Z",
-          "instanceId": "17126852380"
-        }
-      ]
-    },
-    {
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
@@ -658,12 +658,12 @@
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
       "powerLevel": 372,
-      "lastPlayedTimestamp": 1786813537000,
+      "lastPlayedTimestamp": 1786962960000,
       "lastActivityTimestamp": 1786662136000,
       "lastActivityText": "Pallido Cuore il 13/08/2026 23:02",
       "activities": [
