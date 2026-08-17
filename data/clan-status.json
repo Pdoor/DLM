@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T07:33:47.583Z",
+  "generatedAt": "2026-08-17T08:49:54.433Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 546,
-      "lastPlayedTimestamp": 1786951985000,
-      "lastActivityTimestamp": 1786950713000,
-      "lastActivityText": "Schianto dell'Esodo: Con matchmaking il 17/08/2026 07:11",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786953765000,
+      "lastActivityTimestamp": 1786952724000,
+      "lastActivityText": "Campi di battaglia: Discesa: Con matchmaking il 17/08/2026 07:45",
       "activities": [
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-08-17T07:45:24Z",
+          "instanceId": "17139476246"
+        },
         {
           "name": "Schianto dell'Esodo: Con matchmaking",
           "period": "2026-08-17T07:11:53Z",
@@ -61,11 +66,6 @@
           "name": "Il Ponte di Vetro: Con matchmaking",
           "period": "2026-08-15T06:10:04Z",
           "instanceId": "17135161245"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-08-14T09:12:51Z",
-          "instanceId": "17133409981"
         }
       ]
     },
@@ -593,12 +593,12 @@
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786946992000,
+      "lastPlayedTimestamp": 1786956580000,
       "lastActivityTimestamp": 1786715186000,
       "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 14/08/2026 13:46",
       "activities": [
