@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T10:36:15.551Z",
+  "generatedAt": "2026-08-17T11:30:29.668Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,30 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786962925000,
-      "lastActivityTimestamp": 1786960749000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 17/08/2026 09:59",
+      "lastPlayedTimestamp": 1786965567000,
+      "lastActivityTimestamp": 1786964306000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 17/08/2026 10:58",
       "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-17T10:58:26Z",
+          "instanceId": "17139626569"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-17T10:39:38Z",
+          "instanceId": "17139609385"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-17T10:15:44Z",
+          "instanceId": "17139594795"
+        },
         {
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-08-17T09:59:09Z",
@@ -51,21 +66,6 @@
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-08-16T10:35:04Z",
           "instanceId": "17137560797"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-08-16T09:33:17Z",
-          "instanceId": "17137510549"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-16T09:23:16Z",
-          "instanceId": "17137481197"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-08-16T06:32:29Z",
-          "instanceId": "17137303377"
         }
       ]
     },
@@ -73,15 +73,20 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1786962824000,
-      "lastActivityTimestamp": 1786960193000,
-      "lastActivityText": "Confluenza: Personalizzata il 17/08/2026 09:49",
+      "powerLevel": 546,
+      "lastPlayedTimestamp": 1786964577000,
+      "lastActivityTimestamp": 1786962677000,
+      "lastActivityText": "Partita veloce: Normale il 17/08/2026 10:31",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-17T10:31:17Z",
+          "instanceId": "17139596930"
+        },
         {
           "name": "Confluenza: Personalizzata",
           "period": "2026-08-17T09:49:53Z",
@@ -126,11 +131,6 @@
           "name": "Conservazione",
           "period": "2026-08-10T21:15:35Z",
           "instanceId": "17126943210"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-10T21:10:20Z",
-          "instanceId": "17126854299"
         }
       ]
     },
@@ -662,8 +662,8 @@
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
-      "powerLevel": 372,
-      "lastPlayedTimestamp": 1786962960000,
+      "powerLevel": 363,
+      "lastPlayedTimestamp": 1786965553000,
       "lastActivityTimestamp": 1786662136000,
       "lastActivityText": "Pallido Cuore il 13/08/2026 23:02",
       "activities": [
