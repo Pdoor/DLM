@@ -1,74 +1,9 @@
 {
-  "generatedAt": "2026-08-17T12:52:56.556Z",
+  "generatedAt": "2026-08-17T13:42:37.313Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
-    {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1786971094000,
-      "lastActivityTimestamp": 1786970060000,
-      "lastActivityText": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata il 17/08/2026 12:34",
-      "activities": [
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-08-17T12:34:20Z",
-          "instanceId": "17139700034"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-08-17T12:15:14Z",
-          "instanceId": "17139681967"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-08-12T11:52:21Z",
-          "instanceId": "17130021069"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-12T10:30:30Z",
-          "instanceId": "17129916830"
-        },
-        {
-          "name": "Caccia all'incubo: furia: Esperto",
-          "period": "2026-08-12T09:43:07Z",
-          "instanceId": "17129881548"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-08-11T19:31:47Z",
-          "instanceId": "17128729473"
-        },
-        {
-          "name": "Cripta di Pietrafonda",
-          "period": "2026-08-11T19:19:17Z",
-          "instanceId": "17128702362"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-11T18:19:25Z",
-          "instanceId": "17128781948"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-08-10T13:53:08Z",
-          "instanceId": "17126266584"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-09T08:03:32Z",
-          "instanceId": "17123504090"
-        }
-      ]
-    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -78,10 +13,15 @@
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786971148000,
-      "lastActivityTimestamp": 1786965565000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 17/08/2026 11:19",
+      "lastPlayedTimestamp": 1786974092000,
+      "lastActivityTimestamp": 1786972246000,
+      "lastActivityText": "Cella Senza Sole: Personalizzata il 17/08/2026 13:10",
       "activities": [
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-17T13:10:46Z",
+          "instanceId": "17139759427"
+        },
         {
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-08-17T11:19:25Z",
@@ -126,11 +66,71 @@
           "name": "Campi di battaglia: Discesa: Con matchmaking",
           "period": "2026-08-17T06:40:39Z",
           "instanceId": "17139421604"
+        }
+      ]
+    },
+    {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1786974122000,
+      "lastActivityTimestamp": 1786972217000,
+      "lastActivityText": "Pantheon: Morgeth soverchiante: Personalizzata il 17/08/2026 13:10",
+      "activities": [
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-08-17T13:10:17Z",
+          "instanceId": "17139753060"
         },
         {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-08-17T06:09:06Z",
-          "instanceId": "17139392873"
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-08-17T12:54:33Z",
+          "instanceId": "17139719270"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-08-17T12:44:08Z",
+          "instanceId": "17139711803"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-08-17T12:34:20Z",
+          "instanceId": "17139700034"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-08-17T12:15:14Z",
+          "instanceId": "17139681967"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-08-12T11:52:21Z",
+          "instanceId": "17130021069"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-08-12T10:30:30Z",
+          "instanceId": "17129916830"
+        },
+        {
+          "name": "Caccia all'incubo: furia: Esperto",
+          "period": "2026-08-12T09:43:07Z",
+          "instanceId": "17129881548"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-08-11T19:31:47Z",
+          "instanceId": "17128729473"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-11T18:19:25Z",
+          "instanceId": "17128781948"
         }
       ]
     },
@@ -143,7 +143,7 @@
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 546,
-      "lastPlayedTimestamp": 1786970350000,
+      "lastPlayedTimestamp": 1786972308000,
       "lastActivityTimestamp": 1786962677000,
       "lastActivityText": "Partita veloce: Normale il 17/08/2026 10:31",
       "activities": [
@@ -658,12 +658,12 @@
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786958503000,
+      "lastPlayedTimestamp": 1786974034000,
       "lastActivityTimestamp": 1786715186000,
       "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 14/08/2026 13:46",
       "activities": [
