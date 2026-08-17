@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T08:49:54.433Z",
+  "generatedAt": "2026-08-17T09:48:27.784Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786953765000,
-      "lastActivityTimestamp": 1786952724000,
-      "lastActivityText": "Campi di battaglia: Discesa: Con matchmaking il 17/08/2026 07:45",
+      "lastPlayedTimestamp": 1786959781000,
+      "lastActivityTimestamp": 1786958680000,
+      "lastActivityText": "Cella Senza Sole: Personalizzata il 17/08/2026 09:24",
       "activities": [
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-17T09:24:40Z",
+          "instanceId": "17139552433"
+        },
         {
           "name": "Campi di battaglia: Discesa: Con matchmaking",
           "period": "2026-08-17T07:45:24Z",
@@ -61,11 +66,6 @@
           "name": "Campi di battaglia: Colosso: Con matchmaking",
           "period": "2026-08-16T05:55:18Z",
           "instanceId": "17137248062"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-08-15T06:10:04Z",
-          "instanceId": "17135161245"
         }
       ]
     },
@@ -528,12 +528,12 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 545,
-      "lastPlayedTimestamp": 1786722058000,
+      "lastPlayedTimestamp": 1786960060000,
       "lastActivityTimestamp": 1786721494000,
       "lastActivityText": "Partita veloce: Normale il 14/08/2026 15:31",
       "activities": [
@@ -593,12 +593,12 @@
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1786956580000,
+      "lastPlayedTimestamp": 1786958503000,
       "lastActivityTimestamp": 1786715186000,
       "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 14/08/2026 13:46",
       "activities": [
