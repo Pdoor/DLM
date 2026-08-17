@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T23:46:55.953Z",
+  "generatedAt": "2026-08-17T01:38:41.886Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,16 @@
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 525,
-      "lastPlayedTimestamp": 1786916936000,
-      "lastActivityTimestamp": 1786916495000,
-      "lastActivityText": "Pinnacolo dell'Osservatrice: Standard il 16/08/2026 21:41",
+      "powerLevel": 497,
+      "lastPlayedTimestamp": 1786927819000,
+      "lastActivityTimestamp": 1786926013000,
+      "lastActivityText": "Spira: Con matchmaking il 17/08/2026 00:20",
       "activities": [
+        {
+          "name": "Spira: Con matchmaking",
+          "period": "2026-08-17T00:20:13Z",
+          "instanceId": "17138919111"
+        },
         {
           "name": "Pinnacolo dell'Osservatrice: Standard",
           "period": "2026-08-16T21:41:35Z",
@@ -61,11 +66,6 @@
           "name": "Giardino della Salvezza",
           "period": "2026-08-16T16:51:21Z",
           "instanceId": "17138192976"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-16T16:26:46Z",
-          "instanceId": "17138050896"
         }
       ]
     },
