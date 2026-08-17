@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T05:10:09.686Z",
+  "generatedAt": "2026-08-17T06:02:01.632Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -131,71 +131,6 @@
           "name": "Riavvio rapido",
           "period": "2026-08-16T16:00:46Z",
           "instanceId": "17137996968"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1786902888000,
-      "lastActivityTimestamp": 1786901597000,
-      "lastActivityText": "La lama di Luce: Personalizzata il 16/08/2026 17:33",
-      "activities": [
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-08-16T17:33:17Z",
-          "instanceId": "17138164114"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-08-16T17:03:27Z",
-          "instanceId": "17138119422"
-        },
-        {
-          "name": "Corte della Vedova: Con matchmaking",
-          "period": "2026-08-16T16:15:11Z",
-          "instanceId": "17138074027"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-16T15:59:18Z",
-          "instanceId": "17137994570"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-16T15:54:18Z",
-          "instanceId": "17137966450"
-        },
-        {
-          "name": "Fortezza della Guida: Con matchmaking",
-          "period": "2026-08-16T15:37:32Z",
-          "instanceId": "17137959971"
-        },
-        {
-          "name": "Vox obscura: Personalizzata",
-          "period": "2026-08-16T15:07:30Z",
-          "instanceId": "17137925155"
-        },
-        {
-          "name": "Terreni di Prova: Personalizzata",
-          "period": "2026-08-16T14:48:28Z",
-          "instanceId": "17137882910"
-        },
-        {
-          "name": "Morsa della cupidigia: Maestro",
-          "period": "2026-08-16T14:25:06Z",
-          "instanceId": "17137919724"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-16T13:45:10Z",
-          "instanceId": "17137821191"
         }
       ]
     },
@@ -391,6 +326,71 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-03T16:11:31Z",
           "instanceId": "17110761792"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1786946157000,
+      "lastActivityTimestamp": 1786876504000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 16/08/2026 10:35",
+      "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-16T10:35:04Z",
+          "instanceId": "17137560797"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-08-16T09:33:17Z",
+          "instanceId": "17137510549"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-16T09:23:16Z",
+          "instanceId": "17137481197"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-08-16T06:32:29Z",
+          "instanceId": "17137303377"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-08-16T05:55:18Z",
+          "instanceId": "17137248062"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-08-15T06:10:04Z",
+          "instanceId": "17135161245"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-08-14T09:12:51Z",
+          "instanceId": "17133409981"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-14T07:34:39Z",
+          "instanceId": "17133322873"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-08-14T07:15:43Z",
+          "instanceId": "17133306363"
+        },
+        {
+          "name": "Caccia all'incubo: furia: Esperto",
+          "period": "2026-08-12T09:27:26Z",
+          "instanceId": "17129865845"
         }
       ]
     },
