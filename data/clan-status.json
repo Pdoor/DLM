@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T11:30:29.668Z",
+  "generatedAt": "2026-08-17T11:54:23.437Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -14,9 +14,14 @@
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
       "lastPlayedTimestamp": 1786965567000,
-      "lastActivityTimestamp": 1786964306000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 17/08/2026 10:58",
+      "lastActivityTimestamp": 1786965565000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 17/08/2026 11:19",
       "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-17T11:19:25Z",
+          "instanceId": "17139643925"
+        },
         {
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-08-17T10:58:26Z",
@@ -61,11 +66,6 @@
           "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
           "period": "2026-08-17T06:09:06Z",
           "instanceId": "17139392873"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-16T10:35:04Z",
-          "instanceId": "17137560797"
         }
       ]
     },
@@ -662,8 +662,8 @@
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
-      "powerLevel": 363,
-      "lastPlayedTimestamp": 1786965553000,
+      "powerLevel": 366,
+      "lastPlayedTimestamp": 1786967589000,
       "lastActivityTimestamp": 1786662136000,
       "lastActivityText": "Pallido Cuore il 13/08/2026 23:02",
       "activities": [
