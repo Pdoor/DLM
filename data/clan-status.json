@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T11:29:40.938Z",
+  "generatedAt": "2026-08-18T11:55:12.613Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787052547000,
-      "lastActivityTimestamp": 1787050774000,
-      "lastActivityText": "Zona Morta Europea il 18/08/2026 10:59",
+      "lastPlayedTimestamp": 1787053031000,
+      "lastActivityTimestamp": 1787051732000,
+      "lastActivityText": "Campi di battaglia: Oracolo: Con matchmaking il 18/08/2026 11:15",
       "activities": [
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-08-18T11:15:32Z",
+          "instanceId": "17141351956"
+        },
         {
           "name": "Zona Morta Europea",
           "period": "2026-08-18T10:59:34Z",
@@ -58,11 +63,6 @@
           "instanceId": "17137925155"
         },
         {
-          "name": "Terreni di Prova: Personalizzata",
-          "period": "2026-08-16T14:48:28Z",
-          "instanceId": "17137882910"
-        },
-        {
           "name": "Morsa della cupidigia: Maestro",
           "period": "2026-08-16T14:25:06Z",
           "instanceId": "17137919724"
@@ -77,8 +77,8 @@
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 546,
-      "lastPlayedTimestamp": 1787051199000,
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787054061000,
       "lastActivityTimestamp": 1787049579000,
       "lastActivityText": "Partita veloce: Normale il 18/08/2026 10:39",
       "activities": [
