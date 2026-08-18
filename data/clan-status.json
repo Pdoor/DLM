@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T02:39:41.595Z",
+  "generatedAt": "2026-08-18T03:49:15.529Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 521,
-      "lastPlayedTimestamp": 1787020753000,
-      "lastActivityTimestamp": 1787017076000,
-      "lastActivityText": "Dualità: Standard il 18/08/2026 01:37",
+      "powerLevel": 510,
+      "lastPlayedTimestamp": 1787023442000,
+      "lastActivityTimestamp": 1787020738000,
+      "lastActivityText": "Morsa della cupidigia: Standard il 18/08/2026 02:38",
       "activities": [
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-18T02:38:58Z",
+          "instanceId": "17140900917"
+        },
         {
           "name": "Dualità: Standard",
           "period": "2026-08-18T01:37:56Z",
@@ -61,11 +66,6 @@
           "name": "Zone di Controllo: Con matchmaking",
           "period": "2026-08-12T16:08:58Z",
           "instanceId": "17130301137"
-        },
-        {
-          "name": "Zone di Controllo: Con matchmaking",
-          "period": "2026-08-12T00:15:59Z",
-          "instanceId": "17129169273"
         }
       ]
     },
