@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T11:55:12.613Z",
+  "generatedAt": "2026-08-18T12:55:23.366Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787053031000,
-      "lastActivityTimestamp": 1787051732000,
-      "lastActivityText": "Campi di battaglia: Oracolo: Con matchmaking il 18/08/2026 11:15",
+      "lastPlayedTimestamp": 1787057697000,
+      "lastActivityTimestamp": 1787056858000,
+      "lastActivityText": "Tronomondo di Savathûn il 18/08/2026 12:40",
       "activities": [
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-18T12:40:58Z",
+          "instanceId": "17141421180"
+        },
         {
           "name": "Campi di battaglia: Oracolo: Con matchmaking",
           "period": "2026-08-18T11:15:32Z",
@@ -61,11 +66,6 @@
           "name": "Vox obscura: Personalizzata",
           "period": "2026-08-16T15:07:30Z",
           "instanceId": "17137925155"
-        },
-        {
-          "name": "Morsa della cupidigia: Maestro",
-          "period": "2026-08-16T14:25:06Z",
-          "instanceId": "17137919724"
         }
       ]
     },
@@ -73,12 +73,12 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787054061000,
+      "lastPlayedTimestamp": 1787057310000,
       "lastActivityTimestamp": 1787049579000,
       "lastActivityText": "Partita veloce: Normale il 18/08/2026 10:39",
       "activities": [
@@ -403,7 +403,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 538,
-      "lastPlayedTimestamp": 1786977248000,
+      "lastPlayedTimestamp": 1787055117000,
       "lastActivityTimestamp": 1786976920000,
       "lastActivityText": "La Città Sognante il 17/08/2026 14:28",
       "activities": [
