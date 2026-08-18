@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T12:55:23.366Z",
+  "generatedAt": "2026-08-18T13:47:16.382Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,15 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787057697000,
-      "lastActivityTimestamp": 1787056858000,
-      "lastActivityText": "Tronomondo di Savathûn il 18/08/2026 12:40",
+      "lastPlayedTimestamp": 1787060727000,
+      "lastActivityTimestamp": 1787057398000,
+      "lastActivityText": "Corte della Vedova: Con matchmaking il 18/08/2026 12:49",
       "activities": [
+        {
+          "name": "Corte della Vedova: Con matchmaking",
+          "period": "2026-08-18T12:49:58Z",
+          "instanceId": "17141470110"
+        },
         {
           "name": "Tronomondo di Savathûn",
           "period": "2026-08-18T12:40:58Z",
@@ -61,11 +66,6 @@
           "name": "Fortezza della Guida: Con matchmaking",
           "period": "2026-08-16T15:37:32Z",
           "instanceId": "17137959971"
-        },
-        {
-          "name": "Vox obscura: Personalizzata",
-          "period": "2026-08-16T15:07:30Z",
-          "instanceId": "17137925155"
         }
       ]
     },
