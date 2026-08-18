@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T19:31:18.240Z",
+  "generatedAt": "2026-08-18T20:29:18.870Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1787081463000,
-      "lastActivityTimestamp": 1787081055000,
-      "lastActivityText": "Dualità: Standard il 18/08/2026 19:24",
+      "powerLevel": 546,
+      "lastPlayedTimestamp": 1787082488000,
+      "lastActivityTimestamp": 1787081940000,
+      "lastActivityText": "Poligono di Tiro il 18/08/2026 19:39",
       "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-18T19:39:00Z",
+          "instanceId": "17141936932"
+        },
         {
           "name": "Dualità: Standard",
           "period": "2026-08-18T19:24:15Z",
@@ -38,6 +43,11 @@
           "instanceId": "17141872349"
         },
         {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-18T18:01:29Z",
+          "instanceId": "17141923651"
+        },
+        {
           "name": "Dualità: Maestro",
           "period": "2026-08-18T17:39:15Z",
           "instanceId": "17141818625"
@@ -56,16 +66,6 @@
           "name": "Morsa della cupidigia: Standard",
           "period": "2026-08-18T02:38:58Z",
           "instanceId": "17140900917"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-18T01:37:56Z",
-          "instanceId": "17140807537"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-18T00:36:19Z",
-          "instanceId": "17140727379"
         }
       ]
     },
