@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T21:28:45.166Z",
+  "generatedAt": "2026-08-18T21:51:25.994Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,15 @@
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
       "powerLevel": 536,
-      "lastPlayedTimestamp": 1787088434000,
-      "lastActivityTimestamp": 1787086030000,
-      "lastActivityText": "Dualità: Standard il 18/08/2026 20:47",
+      "lastPlayedTimestamp": 1787089272000,
+      "lastActivityTimestamp": 1787088667000,
+      "lastActivityText": "Dualità: Standard il 18/08/2026 21:31",
       "activities": [
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-18T21:31:07Z",
+          "instanceId": "17142104481"
+        },
         {
           "name": "Dualità: Standard",
           "period": "2026-08-18T20:47:10Z",
@@ -61,11 +66,6 @@
           "name": "Dualità: Standard",
           "period": "2026-08-18T17:34:40Z",
           "instanceId": "17141785022"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-18T16:34:06Z",
-          "instanceId": "17141718947"
         }
       ]
     },
