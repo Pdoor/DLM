@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T15:36:34.882Z",
+  "generatedAt": "2026-08-18T16:36:48.010Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787067302000,
-      "lastActivityTimestamp": 1787067193000,
-      "lastActivityText": "La lama di Luce: Personalizzata il 18/08/2026 15:33",
+      "lastPlayedTimestamp": 1787068903000,
+      "lastActivityTimestamp": 1787067267000,
+      "lastActivityText": "La lama di Luce: Personalizzata il 18/08/2026 15:34",
       "activities": [
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-08-18T15:34:27Z",
+          "instanceId": "17141645134"
+        },
         {
           "name": "La lama di Luce: Personalizzata",
           "period": "2026-08-18T15:33:13Z",
@@ -61,11 +66,71 @@
           "name": "Tronomondo di Savathûn",
           "period": "2026-08-18T14:54:19Z",
           "instanceId": "17141563967"
+        }
+      ]
+    },
+    {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
+      "powerLevel": 453,
+      "lastPlayedTimestamp": 1787070949000,
+      "lastActivityTimestamp": 1787063931000,
+      "lastActivityText": "Promessa del Discepolo: Maestro il 18/08/2026 14:38",
+      "activities": [
+        {
+          "name": "Promessa del Discepolo: Maestro",
+          "period": "2026-08-18T14:38:51Z",
+          "instanceId": "17141660329"
         },
         {
-          "name": "Estrazione: Maestro",
-          "period": "2026-08-18T14:43:45Z",
-          "instanceId": "17141562774"
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-08-18T09:35:55Z",
+          "instanceId": "17141306526"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-17T13:34:09Z",
+          "instanceId": "17139840103"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-08-17T13:10:17Z",
+          "instanceId": "17139753060"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-08-17T12:54:33Z",
+          "instanceId": "17139719270"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-08-17T12:44:08Z",
+          "instanceId": "17139711803"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-08-17T12:34:20Z",
+          "instanceId": "17139700034"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-08-17T12:15:14Z",
+          "instanceId": "17139681967"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-08-12T11:52:21Z",
+          "instanceId": "17130021069"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-08-12T10:30:30Z",
+          "instanceId": "17129916830"
         }
       ]
     },
@@ -135,80 +200,15 @@
       ]
     },
     {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 453,
-      "lastPlayedTimestamp": 1787046779000,
-      "lastActivityTimestamp": 1787045755000,
-      "lastActivityText": "Promessa del Discepolo: Standard il 18/08/2026 09:35",
-      "activities": [
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-08-18T09:35:55Z",
-          "instanceId": "17141306526"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-17T13:34:09Z",
-          "instanceId": "17139840103"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-08-17T13:10:17Z",
-          "instanceId": "17139753060"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-08-17T12:54:33Z",
-          "instanceId": "17139719270"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-08-17T12:44:08Z",
-          "instanceId": "17139711803"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-08-17T12:34:20Z",
-          "instanceId": "17139700034"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-08-17T12:15:14Z",
-          "instanceId": "17139681967"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-08-12T11:52:21Z",
-          "instanceId": "17130021069"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-12T10:30:30Z",
-          "instanceId": "17129916830"
-        },
-        {
-          "name": "Caccia all'incubo: furia: Esperto",
-          "period": "2026-08-12T09:43:07Z",
-          "instanceId": "17129881548"
-        }
-      ]
-    },
-    {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 510,
-      "lastPlayedTimestamp": 1787023442000,
+      "powerLevel": 526,
+      "lastPlayedTimestamp": 1787070984000,
       "lastActivityTimestamp": 1787020738000,
       "lastActivityText": "Morsa della cupidigia: Standard il 18/08/2026 02:38",
       "activities": [
