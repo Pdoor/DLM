@@ -1,71 +1,136 @@
 {
-  "generatedAt": "2026-08-18T09:38:09.693Z",
+  "generatedAt": "2026-08-18T10:33:31.260Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 546,
+      "lastPlayedTimestamp": 1787049182000,
+      "lastActivityTimestamp": 1787047462000,
+      "lastActivityText": "Conservazione il 18/08/2026 10:04",
+      "activities": [
+        {
+          "name": "Conservazione",
+          "period": "2026-08-18T10:04:22Z",
+          "instanceId": "17141308600"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-18T09:53:37Z",
+          "instanceId": "17141289087"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-17T15:28:36Z",
+          "instanceId": "17139916634"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-17T15:10:40Z",
+          "instanceId": "17139888694"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-17T14:24:10Z",
+          "instanceId": "17139856713"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-17T14:01:12Z",
+          "instanceId": "17139811029"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-17T10:31:17Z",
+          "instanceId": "17139596930"
+        },
+        {
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-08-17T09:49:53Z",
+          "instanceId": "17139565352"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-14T15:31:34Z",
+          "instanceId": "17133782092"
+        },
+        {
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-08-14T14:45:47Z",
+          "instanceId": "17133725260"
+        }
+      ]
+    },
+    {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
       "bungieNetMembershipId": "",
       "isOnline": false,
       "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1787037838000,
-      "lastActivityTimestamp": 1787037004000,
-      "lastActivityText": "Avamposto dei cabal: Con matchmaking il 18/08/2026 07:10",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
+      "powerLevel": 453,
+      "lastPlayedTimestamp": 1787046779000,
+      "lastActivityTimestamp": 1787045755000,
+      "lastActivityText": "Promessa del Discepolo: Standard il 18/08/2026 09:35",
       "activities": [
         {
-          "name": "Avamposto dei cabal: Con matchmaking",
-          "period": "2026-08-18T07:10:04Z",
-          "instanceId": "17141167569"
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-08-18T09:35:55Z",
+          "instanceId": "17141306526"
         },
         {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-18T06:45:21Z",
-          "instanceId": "17141149023"
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-17T13:34:09Z",
+          "instanceId": "17139840103"
         },
         {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-18T05:56:42Z",
-          "instanceId": "17141113459"
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-08-17T13:10:17Z",
+          "instanceId": "17139753060"
         },
         {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-17T18:00:57Z",
-          "instanceId": "17140113362"
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-08-17T12:54:33Z",
+          "instanceId": "17139719270"
         },
         {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-17T17:49:16Z",
-          "instanceId": "17140089477"
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-08-17T12:44:08Z",
+          "instanceId": "17139711803"
         },
         {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-17T17:06:50Z",
-          "instanceId": "17140046729"
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-08-17T12:34:20Z",
+          "instanceId": "17139700034"
         },
         {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-17T16:09:50Z",
-          "instanceId": "17139985692"
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-08-17T12:15:14Z",
+          "instanceId": "17139681967"
         },
         {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-08-17T15:27:53Z",
-          "instanceId": "17139917697"
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-08-12T11:52:21Z",
+          "instanceId": "17130021069"
         },
         {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-08-17T14:53:28Z",
-          "instanceId": "17139860893"
+          "name": "Luna",
+          "period": "2026-08-12T10:30:30Z",
+          "instanceId": "17129916830"
         },
         {
-          "name": "La Città Sognante",
-          "period": "2026-08-17T14:43:59Z",
-          "instanceId": "17139845774"
+          "name": "Caccia all'incubo: furia: Esperto",
+          "period": "2026-08-12T09:43:07Z",
+          "instanceId": "17129881548"
         }
       ]
     },
@@ -200,71 +265,6 @@
       ]
     },
     {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 546,
-      "lastPlayedTimestamp": 1786983890000,
-      "lastActivityTimestamp": 1786980516000,
-      "lastActivityText": "Conservazione il 17/08/2026 15:28",
-      "activities": [
-        {
-          "name": "Conservazione",
-          "period": "2026-08-17T15:28:36Z",
-          "instanceId": "17139916634"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-17T15:10:40Z",
-          "instanceId": "17139888694"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-17T14:24:10Z",
-          "instanceId": "17139856713"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-17T14:01:12Z",
-          "instanceId": "17139811029"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-17T10:31:17Z",
-          "instanceId": "17139596930"
-        },
-        {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-08-17T09:49:53Z",
-          "instanceId": "17139565352"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-14T15:31:34Z",
-          "instanceId": "17133782092"
-        },
-        {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-08-14T14:45:47Z",
-          "instanceId": "17133725260"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-11T10:53:39Z",
-          "instanceId": "17128020246"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-11T08:07:03Z",
-          "instanceId": "17128113088"
-        }
-      ]
-    },
-    {
       "displayName": "Jhonny#3878",
       "membershipId": "4611686018489632599",
       "bungieNetMembershipId": "",
@@ -395,71 +395,6 @@
       ]
     },
     {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1787045851000,
-      "lastActivityTimestamp": 1786973649000,
-      "lastActivityText": "La caduta di un Re: Standard il 17/08/2026 13:34",
-      "activities": [
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-17T13:34:09Z",
-          "instanceId": "17139840103"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-08-17T13:10:17Z",
-          "instanceId": "17139753060"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-08-17T12:54:33Z",
-          "instanceId": "17139719270"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-08-17T12:44:08Z",
-          "instanceId": "17139711803"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-08-17T12:34:20Z",
-          "instanceId": "17139700034"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-08-17T12:15:14Z",
-          "instanceId": "17139681967"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-08-12T11:52:21Z",
-          "instanceId": "17130021069"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-12T10:30:30Z",
-          "instanceId": "17129916830"
-        },
-        {
-          "name": "Caccia all'incubo: furia: Esperto",
-          "period": "2026-08-12T09:43:07Z",
-          "instanceId": "17129881548"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-11T18:19:25Z",
-          "instanceId": "17128781948"
-        }
-      ]
-    },
-    {
       "displayName": "adgarolp#8945",
       "membershipId": "4611686018479100387",
       "bungieNetMembershipId": "",
@@ -521,6 +456,71 @@
           "name": "Riavvio rapido",
           "period": "2026-08-16T16:00:46Z",
           "instanceId": "17137996968"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787049174000,
+      "lastActivityTimestamp": 1786901597000,
+      "lastActivityText": "La lama di Luce: Personalizzata il 16/08/2026 17:33",
+      "activities": [
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-08-16T17:33:17Z",
+          "instanceId": "17138164114"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-08-16T17:03:27Z",
+          "instanceId": "17138119422"
+        },
+        {
+          "name": "Corte della Vedova: Con matchmaking",
+          "period": "2026-08-16T16:15:11Z",
+          "instanceId": "17138074027"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-16T15:59:18Z",
+          "instanceId": "17137994570"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-16T15:54:18Z",
+          "instanceId": "17137966450"
+        },
+        {
+          "name": "Fortezza della Guida: Con matchmaking",
+          "period": "2026-08-16T15:37:32Z",
+          "instanceId": "17137959971"
+        },
+        {
+          "name": "Vox obscura: Personalizzata",
+          "period": "2026-08-16T15:07:30Z",
+          "instanceId": "17137925155"
+        },
+        {
+          "name": "Terreni di Prova: Personalizzata",
+          "period": "2026-08-16T14:48:28Z",
+          "instanceId": "17137882910"
+        },
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-08-16T14:25:06Z",
+          "instanceId": "17137919724"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-16T13:45:10Z",
+          "instanceId": "17137821191"
         }
       ]
     },
