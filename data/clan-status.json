@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T18:44:42.387Z",
+  "generatedAt": "2026-08-18T19:31:18.240Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,15 +12,30 @@
       "className": "Cacciatori",
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 510,
-      "lastPlayedTimestamp": 1787078529000,
-      "lastActivityTimestamp": 1787078195000,
-      "lastActivityText": "Dualità: Standard il 18/08/2026 18:36",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1787081463000,
+      "lastActivityTimestamp": 1787081055000,
+      "lastActivityText": "Dualità: Standard il 18/08/2026 19:24",
       "activities": [
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-18T19:24:15Z",
+          "instanceId": "17141913533"
+        },
         {
           "name": "Dualità: Standard",
           "period": "2026-08-18T18:36:35Z",
           "instanceId": "17141849879"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-18T18:33:52Z",
+          "instanceId": "17141894674"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-18T18:24:11Z",
+          "instanceId": "17141872349"
         },
         {
           "name": "Dualità: Maestro",
@@ -48,24 +63,9 @@
           "instanceId": "17140807537"
         },
         {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-18T01:12:59Z",
-          "instanceId": "17140709813"
-        },
-        {
           "name": "Equilibrio: Standard",
           "period": "2026-08-18T00:36:19Z",
           "instanceId": "17140727379"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-08-14T15:35:35Z",
-          "instanceId": "17133890075"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-14T15:23:53Z",
-          "instanceId": "17133773791"
         }
       ]
     },
