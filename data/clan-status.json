@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T23:50:10.145Z",
+  "generatedAt": "2026-08-18T01:28:06.158Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,64 +8,64 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 528,
-      "lastPlayedTimestamp": 1786995733000,
-      "lastActivityTimestamp": 1786992884000,
-      "lastActivityText": "Corte della Vedova: Con matchmaking il 17/08/2026 18:54",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 518,
+      "lastPlayedTimestamp": 1787016469000,
+      "lastActivityTimestamp": 1787015579000,
+      "lastActivityText": "Poligono di Tiro il 18/08/2026 01:12",
       "activities": [
         {
-          "name": "Corte della Vedova: Con matchmaking",
-          "period": "2026-08-17T18:54:44Z",
-          "instanceId": "17140218912"
+          "name": "Poligono di Tiro",
+          "period": "2026-08-18T01:12:59Z",
+          "instanceId": "17140709813"
         },
         {
-          "name": "Spira: Con matchmaking",
-          "period": "2026-08-17T00:20:13Z",
-          "instanceId": "17138919111"
-        },
-        {
-          "name": "Pinnacolo dell'Osservatrice: Standard",
-          "period": "2026-08-16T21:41:35Z",
-          "instanceId": "17138600005"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-08-16T20:22:32Z",
-          "instanceId": "17138557402"
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-08-14T15:35:35Z",
+          "instanceId": "17133890075"
         },
         {
           "name": "La fine di Crota: Standard",
-          "period": "2026-08-16T19:51:02Z",
-          "instanceId": "17138415781"
+          "period": "2026-08-14T15:23:53Z",
+          "instanceId": "17133773791"
         },
         {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-16T19:33:24Z",
-          "instanceId": "17138400139"
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-08-12T23:02:47Z",
+          "instanceId": "17130878595"
         },
         {
-          "name": "Cripta di Pietrafonda",
-          "period": "2026-08-16T17:31:25Z",
-          "instanceId": "17138163175"
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-12T22:56:23Z",
+          "instanceId": "17130869782"
         },
         {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-16T17:28:28Z",
-          "instanceId": "17138126666"
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-12T16:21:36Z",
+          "instanceId": "17130318266"
         },
         {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-16T17:10:52Z",
-          "instanceId": "17138105508"
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-12T16:08:58Z",
+          "instanceId": "17130301137"
         },
         {
-          "name": "Giardino della Salvezza",
-          "period": "2026-08-16T16:51:21Z",
-          "instanceId": "17138192976"
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-12T00:15:59Z",
+          "instanceId": "17129169273"
+        },
+        {
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-11T20:12:54Z",
+          "instanceId": "17128782339"
+        },
+        {
+          "name": "Zone di Controllo: Con matchmaking",
+          "period": "2026-08-11T19:58:40Z",
+          "instanceId": "17128762877"
         }
       ]
     },
