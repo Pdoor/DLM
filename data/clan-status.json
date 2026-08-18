@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T16:36:48.010Z",
+  "generatedAt": "2026-08-18T17:32:08.958Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787068903000,
-      "lastActivityTimestamp": 1787067267000,
-      "lastActivityText": "La lama di Luce: Personalizzata il 18/08/2026 15:34",
+      "lastPlayedTimestamp": 1787073323000,
+      "lastActivityTimestamp": 1787071602000,
+      "lastActivityText": "La lama di Luce: Con matchmaking il 18/08/2026 16:46",
       "activities": [
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-18T16:46:42Z",
+          "instanceId": "17141716455"
+        },
         {
           "name": "La lama di Luce: Personalizzata",
           "period": "2026-08-18T15:34:27Z",
@@ -61,11 +66,6 @@
           "name": "Europa",
           "period": "2026-08-18T14:55:33Z",
           "instanceId": "17141567791"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-18T14:54:19Z",
-          "instanceId": "17141563967"
         }
       ]
     },
@@ -78,10 +78,15 @@
       "title": "Gloriosa",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
       "powerLevel": 453,
-      "lastPlayedTimestamp": 1787070949000,
-      "lastActivityTimestamp": 1787063931000,
-      "lastActivityText": "Promessa del Discepolo: Maestro il 18/08/2026 14:38",
+      "lastPlayedTimestamp": 1787074172000,
+      "lastActivityTimestamp": 1787070316000,
+      "lastActivityText": "Iconoclastia: Normale il 18/08/2026 16:25",
       "activities": [
+        {
+          "name": "Iconoclastia: Normale",
+          "period": "2026-08-18T16:25:16Z",
+          "instanceId": "17141725714"
+        },
         {
           "name": "Promessa del Discepolo: Maestro",
           "period": "2026-08-18T14:38:51Z",
@@ -126,11 +131,6 @@
           "name": "Ultimo desiderio: Standard",
           "period": "2026-08-12T11:52:21Z",
           "instanceId": "17130021069"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-12T10:30:30Z",
-          "instanceId": "17129916830"
         }
       ]
     },
@@ -204,63 +204,63 @@
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
       "isOnline": true,
-      "className": "Cacciatori",
-      "title": "RICERCATO",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 526,
-      "lastPlayedTimestamp": 1787070984000,
-      "lastActivityTimestamp": 1787020738000,
-      "lastActivityText": "Morsa della cupidigia: Standard il 18/08/2026 02:38",
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1787074309000,
+      "lastActivityTimestamp": 1787013446000,
+      "lastActivityText": "Corte della Vedova: Con matchmaking il 18/08/2026 00:37",
       "activities": [
         {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-18T02:38:58Z",
-          "instanceId": "17140900917"
+          "name": "Corte della Vedova: Con matchmaking",
+          "period": "2026-08-18T00:37:26Z",
+          "instanceId": "17140711844"
         },
         {
-          "name": "Dualità: Standard",
-          "period": "2026-08-18T01:37:56Z",
-          "instanceId": "17140807537"
+          "name": "Corte della Vedova: Con matchmaking",
+          "period": "2026-08-17T18:54:44Z",
+          "instanceId": "17140218912"
         },
         {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-18T01:12:59Z",
-          "instanceId": "17140709813"
+          "name": "Spira: Con matchmaking",
+          "period": "2026-08-17T00:20:13Z",
+          "instanceId": "17138919111"
         },
         {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-18T00:36:19Z",
-          "instanceId": "17140727379"
+          "name": "Pinnacolo dell'Osservatrice: Standard",
+          "period": "2026-08-16T21:41:35Z",
+          "instanceId": "17138600005"
         },
         {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-08-14T15:35:35Z",
-          "instanceId": "17133890075"
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-08-16T20:22:32Z",
+          "instanceId": "17138557402"
         },
         {
           "name": "La fine di Crota: Standard",
-          "period": "2026-08-14T15:23:53Z",
-          "instanceId": "17133773791"
+          "period": "2026-08-16T19:51:02Z",
+          "instanceId": "17138415781"
         },
         {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-08-12T23:02:47Z",
-          "instanceId": "17130878595"
+          "name": "Volta di Vetro: Maestro",
+          "period": "2026-08-16T19:33:24Z",
+          "instanceId": "17138400139"
         },
         {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-12T22:56:23Z",
-          "instanceId": "17130869782"
+          "name": "Cripta di Pietrafonda",
+          "period": "2026-08-16T17:31:25Z",
+          "instanceId": "17138163175"
         },
         {
-          "name": "Zone di Controllo: Con matchmaking",
-          "period": "2026-08-12T16:21:36Z",
-          "instanceId": "17130318266"
+          "name": "Volta di Vetro: Maestro",
+          "period": "2026-08-16T17:28:28Z",
+          "instanceId": "17138126666"
         },
         {
-          "name": "Zone di Controllo: Con matchmaking",
-          "period": "2026-08-12T16:08:58Z",
-          "instanceId": "17130301137"
+          "name": "Giardino della Salvezza",
+          "period": "2026-08-16T16:51:21Z",
+          "instanceId": "17138192976"
         }
       ]
     },
