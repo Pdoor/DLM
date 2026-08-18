@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T06:51:37.334Z",
+  "generatedAt": "2026-08-18T07:42:43.770Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787035857000,
-      "lastActivityTimestamp": 1787032602000,
-      "lastActivityText": "Cella Senza Sole: Personalizzata il 18/08/2026 05:56",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1787037838000,
+      "lastActivityTimestamp": 1787037004000,
+      "lastActivityText": "Avamposto dei cabal: Con matchmaking il 18/08/2026 07:10",
       "activities": [
+        {
+          "name": "Avamposto dei cabal: Con matchmaking",
+          "period": "2026-08-18T07:10:04Z",
+          "instanceId": "17141167569"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-18T06:45:21Z",
+          "instanceId": "17141149023"
+        },
         {
           "name": "Cella Senza Sole: Personalizzata",
           "period": "2026-08-18T05:56:42Z",
@@ -56,16 +66,6 @@
           "name": "La Città Sognante",
           "period": "2026-08-17T14:43:59Z",
           "instanceId": "17139845774"
-        },
-        {
-          "name": "Baia dei Desideri Annegati: Maestro",
-          "period": "2026-08-17T14:36:58Z",
-          "instanceId": "17139836008"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-08-17T14:22:17Z",
-          "instanceId": "17139827528"
         }
       ]
     },
