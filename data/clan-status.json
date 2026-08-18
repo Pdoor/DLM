@@ -1,22 +1,92 @@
 {
-  "generatedAt": "2026-08-18T17:32:08.958Z",
+  "generatedAt": "2026-08-18T18:44:42.387Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 510,
+      "lastPlayedTimestamp": 1787078529000,
+      "lastActivityTimestamp": 1787078195000,
+      "lastActivityText": "Dualità: Standard il 18/08/2026 18:36",
+      "activities": [
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-18T18:36:35Z",
+          "instanceId": "17141849879"
+        },
+        {
+          "name": "Dualità: Maestro",
+          "period": "2026-08-18T17:39:15Z",
+          "instanceId": "17141818625"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-18T17:34:40Z",
+          "instanceId": "17141785022"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-18T16:34:06Z",
+          "instanceId": "17141718947"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-18T02:38:58Z",
+          "instanceId": "17140900917"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-18T01:37:56Z",
+          "instanceId": "17140807537"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-18T01:12:59Z",
+          "instanceId": "17140709813"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-18T00:36:19Z",
+          "instanceId": "17140727379"
+        },
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-08-14T15:35:35Z",
+          "instanceId": "17133890075"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-14T15:23:53Z",
+          "instanceId": "17133773791"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787073323000,
-      "lastActivityTimestamp": 1787071602000,
-      "lastActivityText": "La lama di Luce: Con matchmaking il 18/08/2026 16:46",
+      "lastPlayedTimestamp": 1787076021000,
+      "lastActivityTimestamp": 1787075311000,
+      "lastActivityText": "La disonorata: Con matchmaking il 18/08/2026 17:48",
       "activities": [
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-08-18T17:48:31Z",
+          "instanceId": "17141793351"
+        },
         {
           "name": "La lama di Luce: Con matchmaking",
           "period": "2026-08-18T16:46:42Z",
@@ -61,11 +131,6 @@
           "name": "Perdizione: Maestro",
           "period": "2026-08-18T14:58:11Z",
           "instanceId": "17141574189"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-18T14:55:33Z",
-          "instanceId": "17141567791"
         }
       ]
     },
@@ -73,15 +138,20 @@
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Gloriosa",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
       "powerLevel": 453,
       "lastPlayedTimestamp": 1787074172000,
-      "lastActivityTimestamp": 1787070316000,
-      "lastActivityText": "Iconoclastia: Normale il 18/08/2026 16:25",
+      "lastActivityTimestamp": 1787073528000,
+      "lastActivityText": "Regine - Parte I il 18/08/2026 17:18",
       "activities": [
+        {
+          "name": "Regine - Parte I",
+          "period": "2026-08-18T17:18:48Z",
+          "instanceId": "17141757384"
+        },
         {
           "name": "Iconoclastia: Normale",
           "period": "2026-08-18T16:25:16Z",
@@ -126,11 +196,6 @@
           "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
           "period": "2026-08-17T12:15:14Z",
           "instanceId": "17139681967"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-08-12T11:52:21Z",
-          "instanceId": "17130021069"
         }
       ]
     },
@@ -200,71 +265,6 @@
       ]
     },
     {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1787074309000,
-      "lastActivityTimestamp": 1787013446000,
-      "lastActivityText": "Corte della Vedova: Con matchmaking il 18/08/2026 00:37",
-      "activities": [
-        {
-          "name": "Corte della Vedova: Con matchmaking",
-          "period": "2026-08-18T00:37:26Z",
-          "instanceId": "17140711844"
-        },
-        {
-          "name": "Corte della Vedova: Con matchmaking",
-          "period": "2026-08-17T18:54:44Z",
-          "instanceId": "17140218912"
-        },
-        {
-          "name": "Spira: Con matchmaking",
-          "period": "2026-08-17T00:20:13Z",
-          "instanceId": "17138919111"
-        },
-        {
-          "name": "Pinnacolo dell'Osservatrice: Standard",
-          "period": "2026-08-16T21:41:35Z",
-          "instanceId": "17138600005"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-08-16T20:22:32Z",
-          "instanceId": "17138557402"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-16T19:51:02Z",
-          "instanceId": "17138415781"
-        },
-        {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-16T19:33:24Z",
-          "instanceId": "17138400139"
-        },
-        {
-          "name": "Cripta di Pietrafonda",
-          "period": "2026-08-16T17:31:25Z",
-          "instanceId": "17138163175"
-        },
-        {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-16T17:28:28Z",
-          "instanceId": "17138126666"
-        },
-        {
-          "name": "Giardino della Salvezza",
-          "period": "2026-08-16T16:51:21Z",
-          "instanceId": "17138192976"
-        }
-      ]
-    },
-    {
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
@@ -273,7 +273,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
       "powerLevel": 367,
-      "lastPlayedTimestamp": 1786996008000,
+      "lastPlayedTimestamp": 1787075577000,
       "lastActivityTimestamp": 1786988565000,
       "lastActivityText": "Volta di Vetro: Maestro il 17/08/2026 17:42",
       "activities": [
