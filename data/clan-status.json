@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-19T14:38:39.048Z",
+  "generatedAt": "2026-08-19T15:36:20.587Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787153720000,
+      "lastActivityTimestamp": 1787151477000,
+      "lastActivityText": "Liminalità: Con matchmaking il 19/08/2026 14:57",
+      "activities": [
+        {
+          "name": "Liminalità: Con matchmaking",
+          "period": "2026-08-19T14:57:57Z",
+          "instanceId": "17143258977"
+        },
+        {
+          "name": "Liminalità: Con matchmaking",
+          "period": "2026-08-19T06:11:05Z",
+          "instanceId": "17142799759"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-08-19T05:58:29Z",
+          "instanceId": "17142782089"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-19T05:56:39Z",
+          "instanceId": "17142774655"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-08-19T05:51:06Z",
+          "instanceId": "17142771499"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-08-19T05:22:50Z",
+          "instanceId": "17142757894"
+        },
+        {
+          "name": "Liminalità: Con matchmaking",
+          "period": "2026-08-19T05:01:59Z",
+          "instanceId": "17142737984"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-08-18T17:48:31Z",
+          "instanceId": "17141793351"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-18T16:46:42Z",
+          "instanceId": "17141716455"
+        },
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-08-18T15:34:27Z",
+          "instanceId": "17141645134"
+        }
+      ]
+    },
     {
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
@@ -66,71 +131,6 @@
           "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
           "period": "2026-08-17T12:34:20Z",
           "instanceId": "17139700034"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787120710000,
-      "lastActivityTimestamp": 1787119865000,
-      "lastActivityText": "Liminalità: Con matchmaking il 19/08/2026 06:11",
-      "activities": [
-        {
-          "name": "Liminalità: Con matchmaking",
-          "period": "2026-08-19T06:11:05Z",
-          "instanceId": "17142799759"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-08-19T05:58:29Z",
-          "instanceId": "17142782089"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-19T05:56:39Z",
-          "instanceId": "17142774655"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-19T05:51:06Z",
-          "instanceId": "17142771499"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-08-19T05:22:50Z",
-          "instanceId": "17142757894"
-        },
-        {
-          "name": "Liminalità: Con matchmaking",
-          "period": "2026-08-19T05:01:59Z",
-          "instanceId": "17142737984"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-08-18T17:48:31Z",
-          "instanceId": "17141793351"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-18T16:46:42Z",
-          "instanceId": "17141716455"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-08-18T15:34:27Z",
-          "instanceId": "17141645134"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-08-18T15:33:13Z",
-          "instanceId": "17141611428"
         }
       ]
     },
