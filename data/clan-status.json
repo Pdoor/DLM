@@ -1,9 +1,23 @@
 {
-  "generatedAt": "2026-08-19T19:53:59.675Z",
+  "generatedAt": "2026-08-19T20:33:31.291Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/ecafe3e611c54e78656b85b77c8ee2f7.jpg",
+      "powerLevel": 10,
+      "lastPlayedTimestamp": 1787171496000,
+      "lastActivityTimestamp": 1787171496000,
+      "lastActivityText": "Ultimo accesso il 19/08/2026 20:31",
+      "activities": []
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -261,71 +275,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-08-14T15:31:34Z",
           "instanceId": "17133782092"
-        }
-      ]
-    },
-    {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
-      "powerLevel": 368,
-      "lastPlayedTimestamp": 1787139630000,
-      "lastActivityTimestamp": 1786988565000,
-      "lastActivityText": "Volta di Vetro: Maestro il 17/08/2026 17:42",
-      "activities": [
-        {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-17T17:42:45Z",
-          "instanceId": "17140193044"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-13T23:02:16Z",
-          "instanceId": "17132656839"
-        },
-        {
-          "name": "Scalata: Normale",
-          "period": "2026-08-13T22:07:39Z",
-          "instanceId": "17132585727"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-08-13T21:50:34Z",
-          "instanceId": "17132568915"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-08-13T21:36:55Z",
-          "instanceId": "17132552637"
-        },
-        {
-          "name": "La radice degli incubi: Maestro",
-          "period": "2026-08-13T21:01:05Z",
-          "instanceId": "17132539323"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-13T20:53:43Z",
-          "instanceId": "17132474747"
-        },
-        {
-          "name": "Casa - Parte II",
-          "period": "2026-08-13T20:39:29Z",
-          "instanceId": "17132472690"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-13T20:37:44Z",
-          "instanceId": "17132452017"
-        },
-        {
-          "name": "Casa - Parte I",
-          "period": "2026-08-13T20:28:38Z",
-          "instanceId": "17132449638"
         }
       ]
     },
