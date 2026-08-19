@@ -1,19 +1,84 @@
 {
-  "generatedAt": "2026-08-19T21:54:51.815Z",
+  "generatedAt": "2026-08-19T22:29:17.845Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 533,
+      "lastPlayedTimestamp": 1787178092000,
+      "lastActivityTimestamp": 1787177088000,
+      "lastActivityText": "Dualità: Maestro il 19/08/2026 22:04",
+      "activities": [
+        {
+          "name": "Dualità: Maestro",
+          "period": "2026-08-19T22:04:48Z",
+          "instanceId": "17143777034"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-18T21:31:07Z",
+          "instanceId": "17142104481"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-18T20:47:10Z",
+          "instanceId": "17142084789"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-18T19:39:00Z",
+          "instanceId": "17141936932"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-18T19:24:15Z",
+          "instanceId": "17141913533"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-18T18:36:35Z",
+          "instanceId": "17141849879"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-18T18:33:52Z",
+          "instanceId": "17141894674"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-18T18:24:11Z",
+          "instanceId": "17141872349"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-18T18:01:29Z",
+          "instanceId": "17141923651"
+        },
+        {
+          "name": "Dualità: Maestro",
+          "period": "2026-08-18T17:39:15Z",
+          "instanceId": "17141818625"
+        }
+      ]
+    },
+    {
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7130c8ba5c1c1a9ed7dffafb2b65f533.jpg",
-      "powerLevel": 147,
-      "lastPlayedTimestamp": 1787176334000,
+      "powerLevel": 371,
+      "lastPlayedTimestamp": 1787178522000,
       "lastActivityTimestamp": 1787175631000,
       "lastActivityText": "Cosmodromo il 19/08/2026 21:40",
       "activities": [
@@ -166,71 +231,6 @@
           "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
           "period": "2026-08-17T12:34:20Z",
           "instanceId": "17139700034"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1787176461000,
-      "lastActivityTimestamp": 1787073531000,
-      "lastActivityText": "Poligono di Tiro il 18/08/2026 17:18",
-      "activities": [
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-18T17:18:51Z",
-          "instanceId": "17141755144"
-        },
-        {
-          "name": "Corte della Vedova: Con matchmaking",
-          "period": "2026-08-18T00:37:26Z",
-          "instanceId": "17140711844"
-        },
-        {
-          "name": "Corte della Vedova: Con matchmaking",
-          "period": "2026-08-17T18:54:44Z",
-          "instanceId": "17140218912"
-        },
-        {
-          "name": "Spira: Con matchmaking",
-          "period": "2026-08-17T00:20:13Z",
-          "instanceId": "17138919111"
-        },
-        {
-          "name": "Pinnacolo dell'Osservatrice: Standard",
-          "period": "2026-08-16T21:41:35Z",
-          "instanceId": "17138600005"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-08-16T20:22:32Z",
-          "instanceId": "17138557402"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-16T19:51:02Z",
-          "instanceId": "17138415781"
-        },
-        {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-16T19:33:24Z",
-          "instanceId": "17138400139"
-        },
-        {
-          "name": "Cripta di Pietrafonda",
-          "period": "2026-08-16T17:31:25Z",
-          "instanceId": "17138163175"
-        },
-        {
-          "name": "Giardino della Salvezza",
-          "period": "2026-08-16T16:51:21Z",
-          "instanceId": "17138192976"
         }
       ]
     },
