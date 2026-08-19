@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T11:29:37.884Z",
+  "generatedAt": "2026-08-19T11:54:35.096Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -261,6 +261,71 @@
           "name": "Partita veloce: Normale",
           "period": "2026-08-14T15:31:34Z",
           "instanceId": "17133782092"
+        }
+      ]
+    },
+    {
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
+      "powerLevel": 368,
+      "lastPlayedTimestamp": 1787139630000,
+      "lastActivityTimestamp": 1786988565000,
+      "lastActivityText": "Volta di Vetro: Maestro il 17/08/2026 17:42",
+      "activities": [
+        {
+          "name": "Volta di Vetro: Maestro",
+          "period": "2026-08-17T17:42:45Z",
+          "instanceId": "17140193044"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-13T23:02:16Z",
+          "instanceId": "17132656839"
+        },
+        {
+          "name": "Scalata: Normale",
+          "period": "2026-08-13T22:07:39Z",
+          "instanceId": "17132585727"
+        },
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-08-13T21:50:34Z",
+          "instanceId": "17132568915"
+        },
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-08-13T21:36:55Z",
+          "instanceId": "17132552637"
+        },
+        {
+          "name": "La radice degli incubi: Maestro",
+          "period": "2026-08-13T21:01:05Z",
+          "instanceId": "17132539323"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-13T20:53:43Z",
+          "instanceId": "17132474747"
+        },
+        {
+          "name": "Casa - Parte II",
+          "period": "2026-08-13T20:39:29Z",
+          "instanceId": "17132472690"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-13T20:37:44Z",
+          "instanceId": "17132452017"
+        },
+        {
+          "name": "Casa - Parte I",
+          "period": "2026-08-13T20:28:38Z",
+          "instanceId": "17132449638"
         }
       ]
     },
@@ -2016,71 +2081,6 @@
           "name": "Europa",
           "period": "2025-12-09T12:00:04Z",
           "instanceId": "16672877066"
-        }
-      ]
-    },
-    {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/19c19292462c171c82216996684fea0d.jpg",
-      "powerLevel": 339,
-      "lastPlayedTimestamp": 1787138927000,
-      "lastActivityTimestamp": 1782661307000,
-      "lastActivityText": "Ultimo desiderio: Standard il 28/06/2026 15:41",
-      "activities": [
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-28T15:41:47Z",
-          "instanceId": "16986344347"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-28T15:29:04Z",
-          "instanceId": "16986276031"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-28T15:21:00Z",
-          "instanceId": "16986223965"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-28T15:13:18Z",
-          "instanceId": "16986189270"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-28T15:02:11Z",
-          "instanceId": "16986158262"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-28T14:43:55Z",
-          "instanceId": "16986112613"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-28T14:33:26Z",
-          "instanceId": "16987074569"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-28T14:22:56Z",
-          "instanceId": "16986000019"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-28T14:13:14Z",
-          "instanceId": "16985960243"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-06-28T14:04:15Z",
-          "instanceId": "16985924374"
         }
       ]
     },
