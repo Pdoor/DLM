@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T15:36:20.587Z",
+  "generatedAt": "2026-08-19T16:36:28.485Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787153720000,
-      "lastActivityTimestamp": 1787151477000,
-      "lastActivityText": "Liminalità: Con matchmaking il 19/08/2026 14:57",
+      "lastPlayedTimestamp": 1787156003000,
+      "lastActivityTimestamp": 1787154642000,
+      "lastActivityText": "La disonorata: Con matchmaking il 19/08/2026 15:50",
       "activities": [
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-08-19T15:50:42Z",
+          "instanceId": "17143308982"
+        },
         {
           "name": "Liminalità: Con matchmaking",
           "period": "2026-08-19T14:57:57Z",
@@ -61,11 +66,6 @@
           "name": "La lama di Luce: Con matchmaking",
           "period": "2026-08-18T16:46:42Z",
           "instanceId": "17141716455"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-08-18T15:34:27Z",
-          "instanceId": "17141645134"
         }
       ]
     },
