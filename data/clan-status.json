@@ -1,9 +1,49 @@
 {
-  "generatedAt": "2026-08-19T22:54:24.249Z",
+  "generatedAt": "2026-08-19T23:26:56.462Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7130c8ba5c1c1a9ed7dffafb2b65f533.jpg",
+      "powerLevel": 371,
+      "lastPlayedTimestamp": 1787180388000,
+      "lastActivityTimestamp": 1787180019000,
+      "lastActivityText": "Cosmodromo il 19/08/2026 22:53",
+      "activities": [
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-19T22:53:39Z",
+          "instanceId": "17143835510"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-19T21:40:31Z",
+          "instanceId": "17143740266"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-19T21:34:16Z",
+          "instanceId": "17143728388"
+        },
+        {
+          "name": "Scisma",
+          "period": "2026-08-19T21:09:39Z",
+          "instanceId": "17143724567"
+        },
+        {
+          "name": "L'ascesa dei guardiani",
+          "period": "2026-08-19T20:26:37Z",
+          "instanceId": "17143693056"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -66,41 +106,6 @@
           "name": "Dualità: Maestro",
           "period": "2026-08-18T17:39:15Z",
           "instanceId": "17141818625"
-        }
-      ]
-    },
-    {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7130c8ba5c1c1a9ed7dffafb2b65f533.jpg",
-      "powerLevel": 371,
-      "lastPlayedTimestamp": 1787180047000,
-      "lastActivityTimestamp": 1787175631000,
-      "lastActivityText": "Cosmodromo il 19/08/2026 21:40",
-      "activities": [
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-19T21:40:31Z",
-          "instanceId": "17143740266"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-19T21:34:16Z",
-          "instanceId": "17143728388"
-        },
-        {
-          "name": "Scisma",
-          "period": "2026-08-19T21:09:39Z",
-          "instanceId": "17143724567"
-        },
-        {
-          "name": "L'ascesa dei guardiani",
-          "period": "2026-08-19T20:26:37Z",
-          "instanceId": "17143693056"
         }
       ]
     },
