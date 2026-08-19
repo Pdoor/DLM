@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T23:26:56.462Z",
+  "generatedAt": "2026-08-19T23:50:05.928Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -1868,64 +1868,64 @@
       "displayName": "No TAG Jay#1042",
       "membershipId": "4611686018465064117",
       "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Portatore di desideri",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 512,
-      "lastPlayedTimestamp": 1786898533000,
-      "lastActivityTimestamp": 1782903321000,
-      "lastActivityText": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking il 01/07/2026 10:55",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Vidmaster",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/3a7216403c1ad533b74bc658aec92080.jpg",
+      "powerLevel": 442,
+      "lastPlayedTimestamp": 1787183334000,
+      "lastActivityTimestamp": 1782837149000,
+      "lastActivityText": "Lega Gare di Astori il 30/06/2026 16:32",
       "activities": [
         {
-          "name": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking",
-          "period": "2026-07-01T10:55:21Z",
-          "instanceId": "16999195025"
-        },
-        {
-          "name": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking",
-          "period": "2026-07-01T10:49:10Z",
-          "instanceId": "16999185046"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-01T10:44:05Z",
-          "instanceId": "16999170293"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-06-30T17:47:11Z",
-          "instanceId": "16996416825"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-30T16:42:57Z",
-          "instanceId": "16996175037"
+          "name": "Lega Gare di Astori",
+          "period": "2026-06-30T16:32:29Z",
+          "instanceId": "16996150098"
         },
         {
           "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-30T15:31:49Z",
-          "instanceId": "16996024752"
+          "period": "2026-06-30T16:00:51Z",
+          "instanceId": "16996111393"
         },
         {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-30T14:23:32Z",
-          "instanceId": "16995955927"
+          "name": "Impero: Audace",
+          "period": "2026-01-04T20:27:58Z",
+          "instanceId": "16731229381"
         },
         {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-30T14:17:16Z",
-          "instanceId": "16995730041"
+          "name": "Missione: L'invito: Normale",
+          "period": "2025-08-21T09:44:26Z",
+          "instanceId": "16483381197"
         },
         {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-30T14:05:39Z",
-          "instanceId": "16995711332"
+          "name": "Pallido Cuore",
+          "period": "2024-10-08T10:18:27Z",
+          "instanceId": "15567720818"
         },
         {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-30T13:44:57Z",
-          "instanceId": "16995677070"
+          "name": "Pallido Cuore",
+          "period": "2024-08-24T16:18:05Z",
+          "instanceId": "15459270027"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2024-08-24T16:16:33Z",
+          "instanceId": "15459263662"
+        },
+        {
+          "name": "Schianto dell'Esodo",
+          "period": "2024-07-04T00:15:14Z",
+          "instanceId": "15243398860"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2024-07-04T00:07:52Z",
+          "instanceId": "15243345671"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2024-07-03T15:32:02Z",
+          "instanceId": "15241055323"
         }
       ]
     },
