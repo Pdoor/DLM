@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-19T09:38:27.192Z",
+  "generatedAt": "2026-08-19T10:33:39.466Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
+      "powerLevel": 453,
+      "lastPlayedTimestamp": 1787131851000,
+      "lastActivityTimestamp": 1787124171000,
+      "lastActivityText": "Ultimo desiderio: Standard il 19/08/2026 07:22",
+      "activities": [
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-08-19T07:22:51Z",
+          "instanceId": "17142968444"
+        },
+        {
+          "name": "Regine - Parte I",
+          "period": "2026-08-18T17:18:48Z",
+          "instanceId": "17141757384"
+        },
+        {
+          "name": "Iconoclastia: Normale",
+          "period": "2026-08-18T16:25:16Z",
+          "instanceId": "17141725714"
+        },
+        {
+          "name": "Promessa del Discepolo: Maestro",
+          "period": "2026-08-18T14:38:51Z",
+          "instanceId": "17141660329"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-08-18T09:35:55Z",
+          "instanceId": "17141306526"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-17T13:34:09Z",
+          "instanceId": "17139840103"
+        },
+        {
+          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
+          "period": "2026-08-17T13:10:17Z",
+          "instanceId": "17139753060"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-08-17T12:54:33Z",
+          "instanceId": "17139719270"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-08-17T12:44:08Z",
+          "instanceId": "17139711803"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-08-17T12:34:20Z",
+          "instanceId": "17139700034"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -135,71 +200,6 @@
       ]
     },
     {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 453,
-      "lastPlayedTimestamp": 1787131851000,
-      "lastActivityTimestamp": 1787073528000,
-      "lastActivityText": "Regine - Parte I il 18/08/2026 17:18",
-      "activities": [
-        {
-          "name": "Regine - Parte I",
-          "period": "2026-08-18T17:18:48Z",
-          "instanceId": "17141757384"
-        },
-        {
-          "name": "Iconoclastia: Normale",
-          "period": "2026-08-18T16:25:16Z",
-          "instanceId": "17141725714"
-        },
-        {
-          "name": "Promessa del Discepolo: Maestro",
-          "period": "2026-08-18T14:38:51Z",
-          "instanceId": "17141660329"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-08-18T09:35:55Z",
-          "instanceId": "17141306526"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-17T13:34:09Z",
-          "instanceId": "17139840103"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-08-17T13:10:17Z",
-          "instanceId": "17139753060"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-08-17T12:54:33Z",
-          "instanceId": "17139719270"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-08-17T12:44:08Z",
-          "instanceId": "17139711803"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-08-17T12:34:20Z",
-          "instanceId": "17139700034"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-08-17T12:15:14Z",
-          "instanceId": "17139681967"
-        }
-      ]
-    },
-    {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
@@ -268,12 +268,12 @@
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
       "powerLevel": 367,
-      "lastPlayedTimestamp": 1787075577000,
+      "lastPlayedTimestamp": 1787135596000,
       "lastActivityTimestamp": 1786988565000,
       "lastActivityText": "Volta di Vetro: Maestro il 17/08/2026 17:42",
       "activities": [
@@ -403,7 +403,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787131742000,
+      "lastPlayedTimestamp": 1787134033000,
       "lastActivityTimestamp": 1786976920000,
       "lastActivityText": "La Città Sognante il 17/08/2026 14:28",
       "activities": [
