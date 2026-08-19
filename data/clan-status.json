@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T20:33:31.291Z",
+  "generatedAt": "2026-08-19T21:29:51.549Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -11,12 +11,18 @@
       "isOnline": true,
       "className": "Titani",
       "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/ecafe3e611c54e78656b85b77c8ee2f7.jpg",
-      "powerLevel": 10,
-      "lastPlayedTimestamp": 1787171496000,
-      "lastActivityTimestamp": 1787171496000,
-      "lastActivityText": "Ultimo accesso il 19/08/2026 20:31",
-      "activities": []
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7130c8ba5c1c1a9ed7dffafb2b65f533.jpg",
+      "powerLevel": 102,
+      "lastPlayedTimestamp": 1787174950000,
+      "lastActivityTimestamp": 1787171197000,
+      "lastActivityText": "L'ascesa dei guardiani il 19/08/2026 20:26",
+      "activities": [
+        {
+          "name": "L'ascesa dei guardiani",
+          "period": "2026-08-19T20:26:37Z",
+          "instanceId": "17143693056"
+        }
+      ]
     },
     {
       "displayName": "LastElm22938910#5181",
