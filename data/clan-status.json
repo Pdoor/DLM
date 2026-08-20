@@ -1,9 +1,119 @@
 {
-  "generatedAt": "2026-08-20T10:35:13.426Z",
+  "generatedAt": "2026-08-20T11:31:15.904Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1787224776000,
+      "lastActivityTimestamp": 1787222918000,
+      "lastActivityText": "La lama di Luce: Con matchmaking il 20/08/2026 10:48",
+      "activities": [
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-20T10:48:38Z",
+          "instanceId": "17144575424"
+        },
+        {
+          "name": "Avamposto dei cabal: Con matchmaking",
+          "period": "2026-08-18T07:10:04Z",
+          "instanceId": "17141167569"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-18T06:45:21Z",
+          "instanceId": "17141149023"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-18T05:56:42Z",
+          "instanceId": "17141113459"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-17T18:00:57Z",
+          "instanceId": "17140113362"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-17T17:49:16Z",
+          "instanceId": "17140089477"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-17T17:06:50Z",
+          "instanceId": "17140046729"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-17T16:09:50Z",
+          "instanceId": "17139985692"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-08-17T15:27:53Z",
+          "instanceId": "17139917697"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-08-17T14:53:28Z",
+          "instanceId": "17139860893"
+        }
+      ]
+    },
+    {
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7130c8ba5c1c1a9ed7dffafb2b65f533.jpg",
+      "powerLevel": 371,
+      "lastPlayedTimestamp": 1787222973000,
+      "lastActivityTimestamp": 1787221700000,
+      "lastActivityText": "Cosmodromo il 20/08/2026 10:28",
+      "activities": [
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-20T10:28:20Z",
+          "instanceId": "17144568791"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-19T22:53:39Z",
+          "instanceId": "17143835510"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-19T21:40:31Z",
+          "instanceId": "17143740266"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-19T21:34:16Z",
+          "instanceId": "17143728388"
+        },
+        {
+          "name": "Scisma",
+          "period": "2026-08-19T21:09:39Z",
+          "instanceId": "17143724567"
+        },
+        {
+          "name": "L'ascesa dei guardiani",
+          "period": "2026-08-19T20:26:37Z",
+          "instanceId": "17143693056"
+        }
+      ]
+    },
     {
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
@@ -66,46 +176,6 @@
           "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
           "period": "2026-08-17T12:44:08Z",
           "instanceId": "17139711803"
-        }
-      ]
-    },
-    {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7130c8ba5c1c1a9ed7dffafb2b65f533.jpg",
-      "powerLevel": 371,
-      "lastPlayedTimestamp": 1787222091000,
-      "lastActivityTimestamp": 1787180019000,
-      "lastActivityText": "Cosmodromo il 19/08/2026 22:53",
-      "activities": [
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-19T22:53:39Z",
-          "instanceId": "17143835510"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-19T21:40:31Z",
-          "instanceId": "17143740266"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-19T21:34:16Z",
-          "instanceId": "17143728388"
-        },
-        {
-          "name": "Scisma",
-          "period": "2026-08-19T21:09:39Z",
-          "instanceId": "17143724567"
-        },
-        {
-          "name": "L'ascesa dei guardiani",
-          "period": "2026-08-19T20:26:37Z",
-          "instanceId": "17143693056"
         }
       ]
     },
@@ -236,71 +306,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-08-14T15:31:34Z",
           "instanceId": "17133782092"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1787221923000,
-      "lastActivityTimestamp": 1787037004000,
-      "lastActivityText": "Avamposto dei cabal: Con matchmaking il 18/08/2026 07:10",
-      "activities": [
-        {
-          "name": "Avamposto dei cabal: Con matchmaking",
-          "period": "2026-08-18T07:10:04Z",
-          "instanceId": "17141167569"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-18T06:45:21Z",
-          "instanceId": "17141149023"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-18T05:56:42Z",
-          "instanceId": "17141113459"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-17T18:00:57Z",
-          "instanceId": "17140113362"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-17T17:49:16Z",
-          "instanceId": "17140089477"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-17T17:06:50Z",
-          "instanceId": "17140046729"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-17T16:09:50Z",
-          "instanceId": "17139985692"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-08-17T15:27:53Z",
-          "instanceId": "17139917697"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-08-17T14:53:28Z",
-          "instanceId": "17139860893"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-08-17T14:43:59Z",
-          "instanceId": "17139845774"
         }
       ]
     },
