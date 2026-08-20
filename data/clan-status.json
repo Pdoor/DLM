@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T05:57:46.190Z",
+  "generatedAt": "2026-08-20T06:59:18.648Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,20 @@
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787205406000,
-      "lastActivityTimestamp": 1787203965000,
-      "lastActivityText": "La Città Sognante il 20/08/2026 05:32",
+      "lastPlayedTimestamp": 1787209129000,
+      "lastActivityTimestamp": 1787207949000,
+      "lastActivityText": "La lama di Luce: Con matchmaking il 20/08/2026 06:39",
       "activities": [
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-20T06:39:09Z",
+          "instanceId": "17144405781"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-08-20T06:06:08Z",
+          "instanceId": "17144372863"
+        },
         {
           "name": "La Città Sognante",
           "period": "2026-08-20T05:32:45Z",
@@ -56,16 +66,6 @@
           "name": "Europa",
           "period": "2026-08-14T13:22:36Z",
           "instanceId": "17133611185"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-08-14T13:16:16Z",
-          "instanceId": "17133610123"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-14T13:09:39Z",
-          "instanceId": "17133602966"
         }
       ]
     },
