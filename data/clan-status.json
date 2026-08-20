@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T17:34:22.099Z",
+  "generatedAt": "2026-08-20T18:47:16.902Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,40 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787247197000,
-      "lastActivityTimestamp": 1787245062000,
-      "lastActivityText": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata il 20/08/2026 16:57",
+      "lastPlayedTimestamp": 1787249721000,
+      "lastActivityTimestamp": 1787249625000,
+      "lastActivityText": "Cosmodromo il 20/08/2026 18:13",
       "activities": [
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-20T18:13:45Z",
+          "instanceId": "17145027866"
+        },
+        {
+          "name": "Giardini Exodus 2A: Maestro",
+          "period": "2026-08-20T18:03:14Z",
+          "instanceId": "17145015014"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-20T18:00:28Z",
+          "instanceId": "17145002228"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-20T17:45:57Z",
+          "instanceId": "17145001569"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-20T17:30:31Z",
+          "instanceId": "17144979337"
+        },
         {
           "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
           "period": "2026-08-20T16:57:42Z",
@@ -41,31 +66,6 @@
           "name": "La lama di Luce: Con matchmaking",
           "period": "2026-08-20T14:13:28Z",
           "instanceId": "17144764303"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-20T13:42:44Z",
-          "instanceId": "17144727972"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-19T17:59:58Z",
-          "instanceId": "17143465927"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-19T17:18:56Z",
-          "instanceId": "17143419037"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-08-19T15:50:42Z",
-          "instanceId": "17143308982"
-        },
-        {
-          "name": "Liminalità: Con matchmaking",
-          "period": "2026-08-19T14:57:57Z",
-          "instanceId": "17143258977"
         }
       ]
     },
@@ -138,12 +138,12 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 546,
-      "lastPlayedTimestamp": 1787238000000,
+      "powerLevel": 521,
+      "lastPlayedTimestamp": 1787251149000,
       "lastActivityTimestamp": 1787237131000,
       "lastActivityText": "Dualità: Standard il 20/08/2026 14:45",
       "activities": [
@@ -2528,7 +2528,7 @@
       "title": "Acquanauta",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8fff442ea3ccb655437e333a1edf48c8.jpg",
       "powerLevel": 503,
-      "lastPlayedTimestamp": 1787183610000,
+      "lastPlayedTimestamp": 1787249427000,
       "lastActivityTimestamp": 1768164966000,
       "lastActivityText": "Avamposto di Tharsis il 11/01/2026 20:56",
       "activities": [
