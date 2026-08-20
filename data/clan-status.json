@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T12:57:42.669Z",
+  "generatedAt": "2026-08-20T13:52:21.171Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -53,12 +53,12 @@
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Gloriosa",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
       "powerLevel": 453,
-      "lastPlayedTimestamp": 1787218880000,
+      "lastPlayedTimestamp": 1787233885000,
       "lastActivityTimestamp": 1787218486000,
       "lastActivityText": "Lega Gare di Astori il 20/08/2026 09:34",
       "activities": [
@@ -111,71 +111,6 @@
           "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
           "period": "2026-08-17T12:44:08Z",
           "instanceId": "17139711803"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787229743000,
-      "lastActivityTimestamp": 1787209545000,
-      "lastActivityText": "Luna il 20/08/2026 07:05",
-      "activities": [
-        {
-          "name": "Luna",
-          "period": "2026-08-20T07:05:45Z",
-          "instanceId": "17144432840"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-20T06:39:09Z",
-          "instanceId": "17144405781"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-08-20T06:06:08Z",
-          "instanceId": "17144372863"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-08-20T05:32:45Z",
-          "instanceId": "17144356430"
-        },
-        {
-          "name": "La Kell dell'Oscurità",
-          "period": "2026-08-19T18:36:36Z",
-          "instanceId": "17143497274"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-19T18:19:46Z",
-          "instanceId": "17143492741"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-08-19T18:06:44Z",
-          "instanceId": "17143471956"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-19T18:04:45Z",
-          "instanceId": "17143455656"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-14T13:29:40Z",
-          "instanceId": "17133622401"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-08-14T13:23:45Z",
-          "instanceId": "17133618043"
         }
       ]
     },
@@ -241,6 +176,71 @@
           "name": "Dualità: Maestro",
           "period": "2026-08-18T17:39:15Z",
           "instanceId": "17141818625"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787233804000,
+      "lastActivityTimestamp": 1787162398000,
+      "lastActivityText": "La lama di Luce: Con matchmaking il 19/08/2026 17:59",
+      "activities": [
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-19T17:59:58Z",
+          "instanceId": "17143465927"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-19T17:18:56Z",
+          "instanceId": "17143419037"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-08-19T15:50:42Z",
+          "instanceId": "17143308982"
+        },
+        {
+          "name": "Liminalità: Con matchmaking",
+          "period": "2026-08-19T14:57:57Z",
+          "instanceId": "17143258977"
+        },
+        {
+          "name": "Liminalità: Con matchmaking",
+          "period": "2026-08-19T06:11:05Z",
+          "instanceId": "17142799759"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-08-19T05:58:29Z",
+          "instanceId": "17142782089"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-19T05:56:39Z",
+          "instanceId": "17142774655"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-08-19T05:51:06Z",
+          "instanceId": "17142771499"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-08-19T05:22:50Z",
+          "instanceId": "17142757894"
+        },
+        {
+          "name": "Liminalità: Con matchmaking",
+          "period": "2026-08-19T05:01:59Z",
+          "instanceId": "17142737984"
         }
       ]
     },
