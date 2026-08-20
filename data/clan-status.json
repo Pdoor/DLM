@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-20T05:05:00.546Z",
+  "generatedAt": "2026-08-20T05:57:46.190Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787205406000,
+      "lastActivityTimestamp": 1787203965000,
+      "lastActivityText": "La Città Sognante il 20/08/2026 05:32",
+      "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-08-20T05:32:45Z",
+          "instanceId": "17144356430"
+        },
+        {
+          "name": "La Kell dell'Oscurità",
+          "period": "2026-08-19T18:36:36Z",
+          "instanceId": "17143497274"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-19T18:19:46Z",
+          "instanceId": "17143492741"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-08-19T18:06:44Z",
+          "instanceId": "17143471956"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-19T18:04:45Z",
+          "instanceId": "17143455656"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-14T13:29:40Z",
+          "instanceId": "17133622401"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-08-14T13:23:45Z",
+          "instanceId": "17133618043"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-14T13:22:36Z",
+          "instanceId": "17133611185"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-08-14T13:16:16Z",
+          "instanceId": "17133610123"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-14T13:09:39Z",
+          "instanceId": "17133602966"
+        }
+      ]
+    },
     {
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
@@ -106,71 +171,6 @@
           "name": "Dualità: Maestro",
           "period": "2026-08-18T17:39:15Z",
           "instanceId": "17141818625"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787164683000,
-      "lastActivityTimestamp": 1787164596000,
-      "lastActivityText": "La Kell dell'Oscurità il 19/08/2026 18:36",
-      "activities": [
-        {
-          "name": "La Kell dell'Oscurità",
-          "period": "2026-08-19T18:36:36Z",
-          "instanceId": "17143497274"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-19T18:19:46Z",
-          "instanceId": "17143492741"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-08-19T18:06:44Z",
-          "instanceId": "17143471956"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-19T18:04:45Z",
-          "instanceId": "17143455656"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-14T13:29:40Z",
-          "instanceId": "17133622401"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-08-14T13:23:45Z",
-          "instanceId": "17133618043"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-14T13:22:36Z",
-          "instanceId": "17133611185"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-08-14T13:16:16Z",
-          "instanceId": "17133610123"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-14T13:09:39Z",
-          "instanceId": "17133602966"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-08-14T12:52:37Z",
-          "instanceId": "17133588520"
         }
       ]
     },
