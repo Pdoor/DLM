@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T06:59:18.648Z",
+  "generatedAt": "2026-08-20T07:50:09.808Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787209129000,
-      "lastActivityTimestamp": 1787207949000,
-      "lastActivityText": "La lama di Luce: Con matchmaking il 20/08/2026 06:39",
+      "lastPlayedTimestamp": 1787210997000,
+      "lastActivityTimestamp": 1787209545000,
+      "lastActivityText": "Luna il 20/08/2026 07:05",
       "activities": [
+        {
+          "name": "Luna",
+          "period": "2026-08-20T07:05:45Z",
+          "instanceId": "17144432840"
+        },
         {
           "name": "La lama di Luce: Con matchmaking",
           "period": "2026-08-20T06:39:09Z",
@@ -61,11 +66,6 @@
           "name": "Bunker E15: Maestro",
           "period": "2026-08-14T13:23:45Z",
           "instanceId": "17133618043"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-14T13:22:36Z",
-          "instanceId": "17133611185"
         }
       ]
     },
