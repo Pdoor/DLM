@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T23:30:00.277Z",
+  "generatedAt": "2026-08-20T23:54:10.220Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -9,63 +9,63 @@
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
       "isOnline": true,
-      "className": "Cacciatori",
-      "title": "RICERCATO",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 521,
-      "lastPlayedTimestamp": 1787268281000,
-      "lastActivityTimestamp": 1787253510000,
-      "lastActivityText": "Dualità: Standard il 20/08/2026 19:18",
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1787270042000,
+      "lastActivityTimestamp": 1787250767000,
+      "lastActivityText": "Dualità: Standard il 20/08/2026 18:32",
       "activities": [
         {
           "name": "Dualità: Standard",
-          "period": "2026-08-20T19:18:30Z",
-          "instanceId": "17145123854"
+          "period": "2026-08-20T18:32:47Z",
+          "instanceId": "17145040710"
         },
         {
           "name": "Dualità: Standard",
-          "period": "2026-08-20T14:45:31Z",
-          "instanceId": "17144796392"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-20T14:40:15Z",
-          "instanceId": "17144778335"
-        },
-        {
-          "name": "Dualità: Maestro",
-          "period": "2026-08-19T22:04:48Z",
-          "instanceId": "17143777034"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-18T21:31:07Z",
-          "instanceId": "17142104481"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-18T20:47:10Z",
-          "instanceId": "17142084789"
+          "period": "2026-08-20T18:19:55Z",
+          "instanceId": "17145037816"
         },
         {
           "name": "Poligono di Tiro",
-          "period": "2026-08-18T19:39:00Z",
-          "instanceId": "17141936932"
+          "period": "2026-08-19T21:52:05Z",
+          "instanceId": "17143753985"
         },
         {
-          "name": "Dualità: Standard",
-          "period": "2026-08-18T19:24:15Z",
-          "instanceId": "17141913533"
+          "name": "Poligono di Tiro",
+          "period": "2026-08-18T17:18:51Z",
+          "instanceId": "17141755144"
         },
         {
-          "name": "Dualità: Standard",
-          "period": "2026-08-18T18:33:52Z",
-          "instanceId": "17141894674"
+          "name": "Corte della Vedova: Con matchmaking",
+          "period": "2026-08-18T00:37:26Z",
+          "instanceId": "17140711844"
         },
         {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-18T18:01:29Z",
-          "instanceId": "17141923651"
+          "name": "Corte della Vedova: Con matchmaking",
+          "period": "2026-08-17T18:54:44Z",
+          "instanceId": "17140218912"
+        },
+        {
+          "name": "Spira: Con matchmaking",
+          "period": "2026-08-17T00:20:13Z",
+          "instanceId": "17138919111"
+        },
+        {
+          "name": "Pinnacolo dell'Osservatrice: Standard",
+          "period": "2026-08-16T21:41:35Z",
+          "instanceId": "17138600005"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-08-16T20:22:32Z",
+          "instanceId": "17138557402"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-16T19:51:02Z",
+          "instanceId": "17138415781"
         }
       ]
     },
