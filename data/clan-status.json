@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T07:01:52.849Z",
+  "generatedAt": "2026-08-21T08:06:48.768Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,25 @@
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787295679000,
-      "lastActivityTimestamp": 1787295219000,
-      "lastActivityText": "Giardini Exodus 2A: Maestro il 21/08/2026 06:53",
+      "lastPlayedTimestamp": 1787299406000,
+      "lastActivityTimestamp": 1787297746000,
+      "lastActivityText": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata il 21/08/2026 07:35",
       "activities": [
+        {
+          "name": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata",
+          "period": "2026-08-21T07:35:46Z",
+          "instanceId": "17145999079"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-21T07:01:57Z",
+          "instanceId": "17145966603"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-21T07:00:37Z",
+          "instanceId": "17145953280"
+        },
         {
           "name": "Giardini Exodus 2A: Maestro",
           "period": "2026-08-21T06:53:39Z",
@@ -51,21 +66,6 @@
           "name": "La Tana dei Diavoli: Con matchmaking",
           "period": "2026-08-21T06:00:12Z",
           "instanceId": "17145916115"
-        },
-        {
-          "name": "Liminalità: Con matchmaking",
-          "period": "2026-08-21T05:34:12Z",
-          "instanceId": "17145901105"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-20T07:05:45Z",
-          "instanceId": "17144432840"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-20T06:39:09Z",
-          "instanceId": "17144405781"
         }
       ]
     },
@@ -708,7 +708,7 @@
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1786824417000,
+      "lastPlayedTimestamp": 1787298994000,
       "lastActivityTimestamp": 1786823019000,
       "lastActivityText": "Artesia Mons, Venere: Caccia alle taglie: Con matchmaking il 15/08/2026 19:43",
       "activities": [
