@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T01:39:42.248Z",
+  "generatedAt": "2026-08-21T03:08:00.001Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -14,9 +14,14 @@
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 550,
       "lastPlayedTimestamp": 1787276210000,
-      "lastActivityTimestamp": 1787269052000,
-      "lastActivityText": "Dualità: Standard il 20/08/2026 23:37",
+      "lastActivityTimestamp": 1787275625000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 21/08/2026 01:27",
       "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-21T01:27:05Z",
+          "instanceId": "17145592410"
+        },
         {
           "name": "Dualità: Standard",
           "period": "2026-08-20T23:37:32Z",
@@ -61,11 +66,6 @@
           "name": "Pinnacolo dell'Osservatrice: Standard",
           "period": "2026-08-16T21:41:35Z",
           "instanceId": "17138600005"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-08-16T20:22:32Z",
-          "instanceId": "17138557402"
         }
       ]
     },
