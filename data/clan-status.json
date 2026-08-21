@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T05:05:47.598Z",
+  "generatedAt": "2026-08-21T05:59:24.501Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -66,71 +66,6 @@
           "name": "Pinnacolo dell'Osservatrice: Standard",
           "period": "2026-08-16T21:41:35Z",
           "instanceId": "17138600005"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787249721000,
-      "lastActivityTimestamp": 1787249625000,
-      "lastActivityText": "Cosmodromo il 20/08/2026 18:13",
-      "activities": [
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-20T18:13:45Z",
-          "instanceId": "17145027866"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-08-20T18:03:14Z",
-          "instanceId": "17145015014"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-20T18:00:28Z",
-          "instanceId": "17145002228"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-20T17:45:57Z",
-          "instanceId": "17145001569"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-20T17:30:31Z",
-          "instanceId": "17144979337"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-20T16:57:42Z",
-          "instanceId": "17144950083"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-20T16:25:42Z",
-          "instanceId": "17144907262"
-        },
-        {
-          "name": "Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-20T15:48:14Z",
-          "instanceId": "17144882768"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-08-20T14:41:51Z",
-          "instanceId": "17144798067"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-20T14:13:28Z",
-          "instanceId": "17144764303"
         }
       ]
     },
@@ -241,6 +176,71 @@
           "name": "L'ascesa dei guardiani",
           "period": "2026-08-19T20:26:37Z",
           "instanceId": "17143693056"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787291939000,
+      "lastActivityTimestamp": 1787209545000,
+      "lastActivityText": "Luna il 20/08/2026 07:05",
+      "activities": [
+        {
+          "name": "Luna",
+          "period": "2026-08-20T07:05:45Z",
+          "instanceId": "17144432840"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-20T06:39:09Z",
+          "instanceId": "17144405781"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-08-20T06:06:08Z",
+          "instanceId": "17144372863"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-08-20T05:32:45Z",
+          "instanceId": "17144356430"
+        },
+        {
+          "name": "La Kell dell'Oscurità",
+          "period": "2026-08-19T18:36:36Z",
+          "instanceId": "17143497274"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-19T18:19:46Z",
+          "instanceId": "17143492741"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-08-19T18:06:44Z",
+          "instanceId": "17143471956"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-19T18:04:45Z",
+          "instanceId": "17143455656"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-14T13:29:40Z",
+          "instanceId": "17133622401"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-08-14T13:23:45Z",
+          "instanceId": "17133618043"
         }
       ]
     },
