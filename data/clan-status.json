@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T16:39:45.587Z",
+  "generatedAt": "2026-08-21T17:33:40.649Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,20 @@
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787330319000,
-      "lastActivityTimestamp": 1787329284000,
-      "lastActivityText": "Europa il 21/08/2026 16:21",
+      "lastPlayedTimestamp": 1787333422000,
+      "lastActivityTimestamp": 1787331213000,
+      "lastActivityText": "La lama di Luce: Personalizzata il 21/08/2026 16:53",
       "activities": [
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-08-21T16:53:33Z",
+          "instanceId": "17146509384"
+        },
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-08-21T16:33:44Z",
+          "instanceId": "17146480161"
+        },
         {
           "name": "Europa",
           "period": "2026-08-21T16:21:24Z",
@@ -56,16 +66,6 @@
           "name": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata",
           "period": "2026-08-21T08:10:00Z",
           "instanceId": "17146028965"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata",
-          "period": "2026-08-21T07:35:46Z",
-          "instanceId": "17145999079"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-21T07:01:57Z",
-          "instanceId": "17145966603"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787322245000,
+      "lastPlayedTimestamp": 1787333162000,
       "lastActivityTimestamp": 1787321839000,
       "lastActivityText": "Azzardo: Con matchmaking il 21/08/2026 14:17",
       "activities": [
