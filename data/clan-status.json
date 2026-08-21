@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T18:42:44.068Z",
+  "generatedAt": "2026-08-21T19:29:10.888Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787337679000,
-      "lastActivityTimestamp": 1787333735000,
-      "lastActivityText": "Il trono infranto il 21/08/2026 17:35",
+      "lastPlayedTimestamp": 1787339473000,
+      "lastActivityTimestamp": 1787336792000,
+      "lastActivityText": "La Città Sognante il 21/08/2026 18:26",
       "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-08-21T18:26:32Z",
+          "instanceId": "17146647670"
+        },
         {
           "name": "Il trono infranto",
           "period": "2026-08-21T17:35:35Z",
@@ -61,11 +66,6 @@
           "name": "La Tana dei Diavoli: Con matchmaking",
           "period": "2026-08-21T15:32:12Z",
           "instanceId": "17146410874"
-        },
-        {
-          "name": "Liminalità: Con matchmaking",
-          "period": "2026-08-21T11:13:11Z",
-          "instanceId": "17146146294"
         }
       ]
     },
