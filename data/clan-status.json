@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T23:54:10.220Z",
+  "generatedAt": "2026-08-21T01:39:42.248Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1787270042000,
-      "lastActivityTimestamp": 1787250767000,
-      "lastActivityText": "Dualità: Standard il 20/08/2026 18:32",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1787276210000,
+      "lastActivityTimestamp": 1787269052000,
+      "lastActivityText": "Dualità: Standard il 20/08/2026 23:37",
       "activities": [
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-20T23:37:32Z",
+          "instanceId": "17145462183"
+        },
         {
           "name": "Dualità: Standard",
           "period": "2026-08-20T18:32:47Z",
@@ -61,11 +66,6 @@
           "name": "Volta di Vetro: Standard",
           "period": "2026-08-16T20:22:32Z",
           "instanceId": "17138557402"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-16T19:51:02Z",
-          "instanceId": "17138415781"
         }
       ]
     },
