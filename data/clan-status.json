@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-21T15:38:14.595Z",
+  "generatedAt": "2026-08-21T16:39:45.587Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787330319000,
+      "lastActivityTimestamp": 1787329284000,
+      "lastActivityText": "Europa il 21/08/2026 16:21",
+      "activities": [
+        {
+          "name": "Europa",
+          "period": "2026-08-21T16:21:24Z",
+          "instanceId": "17146450527"
+        },
+        {
+          "name": "Perdizione: Maestro",
+          "period": "2026-08-21T16:14:09Z",
+          "instanceId": "17146443955"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-21T16:11:12Z",
+          "instanceId": "17146435130"
+        },
+        {
+          "name": "Perdizione: Maestro",
+          "period": "2026-08-21T16:05:03Z",
+          "instanceId": "17146431392"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-21T16:00:19Z",
+          "instanceId": "17146424309"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-21T15:32:12Z",
+          "instanceId": "17146410874"
+        },
+        {
+          "name": "Liminalità: Con matchmaking",
+          "period": "2026-08-21T11:13:11Z",
+          "instanceId": "17146146294"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata",
+          "period": "2026-08-21T08:10:00Z",
+          "instanceId": "17146028965"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata",
+          "period": "2026-08-21T07:35:46Z",
+          "instanceId": "17145999079"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-21T07:01:57Z",
+          "instanceId": "17145966603"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -66,71 +131,6 @@
           "name": "Spira: Con matchmaking",
           "period": "2026-08-17T00:20:13Z",
           "instanceId": "17138919111"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787326596000,
-      "lastActivityTimestamp": 1787310791000,
-      "lastActivityText": "Liminalità: Con matchmaking il 21/08/2026 11:13",
-      "activities": [
-        {
-          "name": "Liminalità: Con matchmaking",
-          "period": "2026-08-21T11:13:11Z",
-          "instanceId": "17146146294"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata",
-          "period": "2026-08-21T08:10:00Z",
-          "instanceId": "17146028965"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata",
-          "period": "2026-08-21T07:35:46Z",
-          "instanceId": "17145999079"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-21T07:01:57Z",
-          "instanceId": "17145966603"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-21T07:00:37Z",
-          "instanceId": "17145953280"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-08-21T06:53:39Z",
-          "instanceId": "17145952671"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-21T06:52:28Z",
-          "instanceId": "17145947371"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-08-21T06:43:42Z",
-          "instanceId": "17145946461"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-21T06:42:34Z",
-          "instanceId": "17145939405"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-08-21T06:34:00Z",
-          "instanceId": "17145938781"
         }
       ]
     },
