@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T10:01:55.679Z",
+  "generatedAt": "2026-08-21T10:58:29.417Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Gloriosa",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
       "powerLevel": 453,
-      "lastPlayedTimestamp": 1787306455000,
-      "lastActivityTimestamp": 1787305896000,
-      "lastActivityText": "Tronomondo di Savathûn il 21/08/2026 09:51",
+      "lastPlayedTimestamp": 1787307022000,
+      "lastActivityTimestamp": 1787306511000,
+      "lastActivityText": "Ultimo desiderio: Standard il 21/08/2026 10:01",
       "activities": [
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-08-21T10:01:51Z",
+          "instanceId": "17146118540"
+        },
         {
           "name": "Tronomondo di Savathûn",
           "period": "2026-08-21T09:51:36Z",
@@ -61,11 +66,6 @@
           "name": "Jolly",
           "period": "2026-08-20T15:06:16Z",
           "instanceId": "17144807639"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-20T15:03:40Z",
-          "instanceId": "17144801864"
         }
       ]
     },
@@ -73,12 +73,12 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787302043000,
+      "lastPlayedTimestamp": 1787309836000,
       "lastActivityTimestamp": 1787299800000,
       "lastActivityText": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata il 21/08/2026 08:10",
       "activities": [
