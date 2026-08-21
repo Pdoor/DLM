@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-21T11:34:25.231Z",
+  "generatedAt": "2026-08-21T12:56:54.585Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787311979000,
+      "lastActivityTimestamp": 1787310791000,
+      "lastActivityText": "Liminalità: Con matchmaking il 21/08/2026 11:13",
+      "activities": [
+        {
+          "name": "Liminalità: Con matchmaking",
+          "period": "2026-08-21T11:13:11Z",
+          "instanceId": "17146146294"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata",
+          "period": "2026-08-21T08:10:00Z",
+          "instanceId": "17146028965"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata",
+          "period": "2026-08-21T07:35:46Z",
+          "instanceId": "17145999079"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-21T07:01:57Z",
+          "instanceId": "17145966603"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-21T07:00:37Z",
+          "instanceId": "17145953280"
+        },
+        {
+          "name": "Giardini Exodus 2A: Maestro",
+          "period": "2026-08-21T06:53:39Z",
+          "instanceId": "17145952671"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-21T06:52:28Z",
+          "instanceId": "17145947371"
+        },
+        {
+          "name": "Giardini Exodus 2A: Maestro",
+          "period": "2026-08-21T06:43:42Z",
+          "instanceId": "17145946461"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-21T06:42:34Z",
+          "instanceId": "17145939405"
+        },
+        {
+          "name": "Giardini Exodus 2A: Maestro",
+          "period": "2026-08-21T06:34:00Z",
+          "instanceId": "17145938781"
+        }
+      ]
+    },
     {
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
@@ -66,71 +131,6 @@
           "name": "Jolly",
           "period": "2026-08-20T15:06:16Z",
           "instanceId": "17144807639"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787311979000,
-      "lastActivityTimestamp": 1787299800000,
-      "lastActivityText": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata il 21/08/2026 08:10",
-      "activities": [
-        {
-          "name": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata",
-          "period": "2026-08-21T08:10:00Z",
-          "instanceId": "17146028965"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata",
-          "period": "2026-08-21T07:35:46Z",
-          "instanceId": "17145999079"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-21T07:01:57Z",
-          "instanceId": "17145966603"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-21T07:00:37Z",
-          "instanceId": "17145953280"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-08-21T06:53:39Z",
-          "instanceId": "17145952671"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-21T06:52:28Z",
-          "instanceId": "17145947371"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-08-21T06:43:42Z",
-          "instanceId": "17145946461"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-21T06:42:34Z",
-          "instanceId": "17145939405"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-08-21T06:34:00Z",
-          "instanceId": "17145938781"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-21T06:28:22Z",
-          "instanceId": "17145931483"
         }
       ]
     },
@@ -383,7 +383,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787257684000,
+      "lastPlayedTimestamp": 1787316907000,
       "lastActivityTimestamp": 1786976920000,
       "lastActivityText": "La Città Sognante il 17/08/2026 14:28",
       "activities": [
