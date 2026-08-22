@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T03:45:57.639Z",
+  "generatedAt": "2026-08-22T04:37:53.997Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,35 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 447,
-      "lastPlayedTimestamp": 1787370328000,
-      "lastActivityTimestamp": 1787368640000,
-      "lastActivityText": "Partita veloce: Normale il 22/08/2026 03:17",
+      "powerLevel": 455,
+      "lastPlayedTimestamp": 1787372582000,
+      "lastActivityTimestamp": 1787371959000,
+      "lastActivityText": "Controllo: Con matchmaking il 22/08/2026 04:12",
       "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-22T04:12:39Z",
+          "instanceId": "17147372297"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-22T04:00:17Z",
+          "instanceId": "17147357118"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-22T03:51:16Z",
+          "instanceId": "17147341574"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-22T03:35:54Z",
+          "instanceId": "17147325966"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-08-22T03:17:20Z",
@@ -46,26 +66,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-08-21T14:17:19Z",
           "instanceId": "17146308236"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-21T01:27:05Z",
-          "instanceId": "17145592410"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-20T23:37:32Z",
-          "instanceId": "17145462183"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-20T18:32:47Z",
-          "instanceId": "17145040710"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-20T18:19:55Z",
-          "instanceId": "17145037816"
         }
       ]
     },
