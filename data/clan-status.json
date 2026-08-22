@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T01:28:06.295Z",
+  "generatedAt": "2026-08-22T02:38:22.669Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "adgarolp#8945",
       "membershipId": "4611686018479100387",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Immortale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 441,
-      "lastPlayedTimestamp": 1787362048000,
-      "lastActivityTimestamp": 1787361040000,
-      "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 22/08/2026 01:10",
+      "powerLevel": 447,
+      "lastPlayedTimestamp": 1787363516000,
+      "lastActivityTimestamp": 1787362691000,
+      "lastActivityText": "Modalità del mondo: leggendaria: Leggendaria il 22/08/2026 01:38",
       "activities": [
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-22T01:38:11Z",
+          "instanceId": "17147148542"
+        },
+        {
+          "name": "Missione: Transitorietà: Leggendaria",
+          "period": "2026-08-22T01:24:52Z",
+          "instanceId": "17147146800"
+        },
         {
           "name": "Modalità del mondo: leggendaria: Leggendaria",
           "period": "2026-08-22T01:10:40Z",
@@ -56,16 +66,6 @@
           "name": "Cerimonia: Leggendaria",
           "period": "2026-08-21T23:38:04Z",
           "instanceId": "17147013914"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-21T23:36:55Z",
-          "instanceId": "17146992111"
-        },
-        {
-          "name": "Sfide dell'Eternità: Standard",
-          "period": "2026-08-16T19:02:02Z",
-          "instanceId": "17138319732"
         }
       ]
     },
@@ -138,12 +138,12 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1787347115000,
+      "powerLevel": 528,
+      "lastPlayedTimestamp": 1787366283000,
       "lastActivityTimestamp": 1787321839000,
       "lastActivityText": "Azzardo: Con matchmaking il 21/08/2026 14:17",
       "activities": [
