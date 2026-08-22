@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-22T21:26:14.253Z",
+  "generatedAt": "2026-08-22T21:49:03.465Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1787435309000,
+      "lastActivityTimestamp": 1787434503000,
+      "lastActivityText": "Poligono di Tiro il 22/08/2026 21:35",
+      "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-22T21:35:03Z",
+          "instanceId": "17148600187"
+        },
+        {
+          "name": "Giardino della Salvezza",
+          "period": "2026-08-22T20:35:24Z",
+          "instanceId": "17148583143"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-22T18:23:26Z",
+          "instanceId": "17148460860"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-22T18:09:55Z",
+          "instanceId": "17148285988"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-22T04:12:39Z",
+          "instanceId": "17147372297"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-22T04:00:17Z",
+          "instanceId": "17147357118"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-22T03:51:16Z",
+          "instanceId": "17147341574"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-22T03:35:54Z",
+          "instanceId": "17147325966"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-22T03:17:20Z",
+          "instanceId": "17147302520"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-22T03:07:58Z",
+          "instanceId": "17147285500"
+        }
+      ]
+    },
     {
       "displayName": "No TAG Jay#1042",
       "membershipId": "4611686018465064117",
@@ -66,71 +131,6 @@
           "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
           "period": "2026-06-30T15:31:49Z",
           "instanceId": "16996024752"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1787433967000,
-      "lastActivityTimestamp": 1787423006000,
-      "lastActivityText": "La caduta di un Re: Standard il 22/08/2026 18:23",
-      "activities": [
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-22T18:23:26Z",
-          "instanceId": "17148460860"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-22T18:09:55Z",
-          "instanceId": "17148285988"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-22T04:12:39Z",
-          "instanceId": "17147372297"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-22T04:00:17Z",
-          "instanceId": "17147357118"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-22T03:51:16Z",
-          "instanceId": "17147341574"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-22T03:35:54Z",
-          "instanceId": "17147325966"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-22T03:17:20Z",
-          "instanceId": "17147302520"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-22T03:07:58Z",
-          "instanceId": "17147285500"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-22T02:57:48Z",
-          "instanceId": "17147273080"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-22T02:44:26Z",
-          "instanceId": "17147257695"
         }
       ]
     },
