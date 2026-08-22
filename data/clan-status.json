@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-22T10:52:47.963Z",
+  "generatedAt": "2026-08-22T11:24:53.241Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1787397599000,
+      "lastActivityTimestamp": 1787395413000,
+      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 22/08/2026 10:43",
+      "activities": [
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-08-22T10:43:33Z",
+          "instanceId": "17147751259"
+        },
+        {
+          "name": "Bunker dei caduti: Con matchmaking",
+          "period": "2026-08-20T13:06:57Z",
+          "instanceId": "17144693519"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-20T11:12:29Z",
+          "instanceId": "17144597493"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-20T10:48:38Z",
+          "instanceId": "17144575424"
+        },
+        {
+          "name": "Avamposto dei cabal: Con matchmaking",
+          "period": "2026-08-18T07:10:04Z",
+          "instanceId": "17141167569"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-18T06:45:21Z",
+          "instanceId": "17141149023"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-18T05:56:42Z",
+          "instanceId": "17141113459"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-17T18:00:57Z",
+          "instanceId": "17140113362"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-17T17:49:16Z",
+          "instanceId": "17140089477"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-17T17:06:50Z",
+          "instanceId": "17140046729"
+        }
+      ]
+    },
     {
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
@@ -196,71 +261,6 @@
           "name": "Cerimonia: Leggendaria",
           "period": "2026-08-21T23:38:04Z",
           "instanceId": "17147013914"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1787395931000,
-      "lastActivityTimestamp": 1787231217000,
-      "lastActivityText": "Bunker dei caduti: Con matchmaking il 20/08/2026 13:06",
-      "activities": [
-        {
-          "name": "Bunker dei caduti: Con matchmaking",
-          "period": "2026-08-20T13:06:57Z",
-          "instanceId": "17144693519"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-20T11:12:29Z",
-          "instanceId": "17144597493"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-20T10:48:38Z",
-          "instanceId": "17144575424"
-        },
-        {
-          "name": "Avamposto dei cabal: Con matchmaking",
-          "period": "2026-08-18T07:10:04Z",
-          "instanceId": "17141167569"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-18T06:45:21Z",
-          "instanceId": "17141149023"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-18T05:56:42Z",
-          "instanceId": "17141113459"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-17T18:00:57Z",
-          "instanceId": "17140113362"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-17T17:49:16Z",
-          "instanceId": "17140089477"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-17T17:06:50Z",
-          "instanceId": "17140046729"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-17T16:09:50Z",
-          "instanceId": "17139985692"
         }
       ]
     },
