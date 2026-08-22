@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T07:35:26.546Z",
+  "generatedAt": "2026-08-22T08:35:23.768Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,30 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787384072000,
-      "lastActivityTimestamp": 1787381731000,
-      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 22/08/2026 06:55",
+      "lastPlayedTimestamp": 1787387186000,
+      "lastActivityTimestamp": 1787386090000,
+      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 22/08/2026 08:08",
       "activities": [
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-08-22T08:08:10Z",
+          "instanceId": "17147627136"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-22T07:47:07Z",
+          "instanceId": "17147611787"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-22T07:40:50Z",
+          "instanceId": "17147592861"
+        },
         {
           "name": "Il Ponte di Vetro: Con matchmaking",
           "period": "2026-08-22T06:55:31Z",
@@ -51,21 +66,71 @@
           "name": "Perdizione: Maestro",
           "period": "2026-08-21T16:14:09Z",
           "instanceId": "17146443955"
+        }
+      ]
+    },
+    {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
+      "powerLevel": 454,
+      "lastPlayedTimestamp": 1787384123000,
+      "lastActivityTimestamp": 1787378051000,
+      "lastActivityText": "Giardino della Salvezza il 22/08/2026 05:54",
+      "activities": [
+        {
+          "name": "Giardino della Salvezza",
+          "period": "2026-08-22T05:54:11Z",
+          "instanceId": "17147624029"
         },
         {
-          "name": "Europa",
-          "period": "2026-08-21T16:11:12Z",
-          "instanceId": "17146435130"
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-08-21T10:01:51Z",
+          "instanceId": "17146118540"
         },
         {
-          "name": "Perdizione: Maestro",
-          "period": "2026-08-21T16:05:03Z",
-          "instanceId": "17146431392"
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-21T09:51:36Z",
+          "instanceId": "17146078434"
         },
         {
-          "name": "Europa",
-          "period": "2026-08-21T16:00:19Z",
-          "instanceId": "17146424309"
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-21T09:30:46Z",
+          "instanceId": "17146063158"
+        },
+        {
+          "name": "La lama di Luce",
+          "period": "2026-08-21T09:28:02Z",
+          "instanceId": "17146074527"
+        },
+        {
+          "name": "Lo specchio: Normale",
+          "period": "2026-08-21T09:08:26Z",
+          "instanceId": "17146060507"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-21T09:06:37Z",
+          "instanceId": "17146045409"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-21T08:48:05Z",
+          "instanceId": "17146034559"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-21T08:16:40Z",
+          "instanceId": "17146010898"
+        },
+        {
+          "name": "Jolly",
+          "period": "2026-08-20T15:13:09Z",
+          "instanceId": "17144851722"
         }
       ]
     },
@@ -196,116 +261,6 @@
           "name": "Cerimonia: Leggendaria",
           "period": "2026-08-21T23:38:04Z",
           "instanceId": "17147013914"
-        }
-      ]
-    },
-    {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1787383908000,
-      "lastActivityTimestamp": 1787306511000,
-      "lastActivityText": "Ultimo desiderio: Standard il 21/08/2026 10:01",
-      "activities": [
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-08-21T10:01:51Z",
-          "instanceId": "17146118540"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-21T09:51:36Z",
-          "instanceId": "17146078434"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-21T09:30:46Z",
-          "instanceId": "17146063158"
-        },
-        {
-          "name": "La lama di Luce",
-          "period": "2026-08-21T09:28:02Z",
-          "instanceId": "17146074527"
-        },
-        {
-          "name": "Lo specchio: Normale",
-          "period": "2026-08-21T09:08:26Z",
-          "instanceId": "17146060507"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-21T09:06:37Z",
-          "instanceId": "17146045409"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-21T08:48:05Z",
-          "instanceId": "17146034559"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-21T08:16:40Z",
-          "instanceId": "17146010898"
-        },
-        {
-          "name": "Jolly",
-          "period": "2026-08-20T15:13:09Z",
-          "instanceId": "17144851722"
-        },
-        {
-          "name": "Jolly",
-          "period": "2026-08-20T15:06:16Z",
-          "instanceId": "17144807639"
-        }
-      ]
-    },
-    {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7130c8ba5c1c1a9ed7dffafb2b65f533.jpg",
-      "powerLevel": 371,
-      "lastPlayedTimestamp": 1787349620000,
-      "lastActivityTimestamp": 1787221700000,
-      "lastActivityText": "Cosmodromo il 20/08/2026 10:28",
-      "activities": [
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-20T10:28:20Z",
-          "instanceId": "17144568791"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-19T22:53:39Z",
-          "instanceId": "17143835510"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-19T21:40:31Z",
-          "instanceId": "17143740266"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-19T21:34:16Z",
-          "instanceId": "17143728388"
-        },
-        {
-          "name": "Scisma",
-          "period": "2026-08-19T21:09:39Z",
-          "instanceId": "17143724567"
-        },
-        {
-          "name": "L'ascesa dei guardiani",
-          "period": "2026-08-19T20:26:37Z",
-          "instanceId": "17143693056"
         }
       ]
     },
@@ -2061,6 +2016,71 @@
           "name": "Europa",
           "period": "2025-12-09T12:00:04Z",
           "instanceId": "16672877066"
+        }
+      ]
+    },
+    {
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/19c19292462c171c82216996684fea0d.jpg",
+      "powerLevel": 339,
+      "lastPlayedTimestamp": 1787385395000,
+      "lastActivityTimestamp": 1782661307000,
+      "lastActivityText": "Ultimo desiderio: Standard il 28/06/2026 15:41",
+      "activities": [
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T15:41:47Z",
+          "instanceId": "16986344347"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T15:29:04Z",
+          "instanceId": "16986276031"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T15:21:00Z",
+          "instanceId": "16986223965"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T15:13:18Z",
+          "instanceId": "16986189270"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T15:02:11Z",
+          "instanceId": "16986158262"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T14:43:55Z",
+          "instanceId": "16986112613"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T14:33:26Z",
+          "instanceId": "16987074569"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T14:22:56Z",
+          "instanceId": "16986000019"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T14:13:14Z",
+          "instanceId": "16985960243"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-06-28T14:04:15Z",
+          "instanceId": "16985924374"
         }
       ]
     },
