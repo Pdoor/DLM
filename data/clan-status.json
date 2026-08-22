@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-22T06:48:27.024Z",
+  "generatedAt": "2026-08-22T07:35:26.546Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1787384072000,
+      "lastActivityTimestamp": 1787381731000,
+      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 22/08/2026 06:55",
+      "activities": [
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-08-22T06:55:31Z",
+          "instanceId": "17147561602"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-08-21T18:26:32Z",
+          "instanceId": "17146647670"
+        },
+        {
+          "name": "Il trono infranto",
+          "period": "2026-08-21T17:35:35Z",
+          "instanceId": "17146591979"
+        },
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-08-21T16:53:33Z",
+          "instanceId": "17146509384"
+        },
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-08-21T16:33:44Z",
+          "instanceId": "17146480161"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-21T16:21:24Z",
+          "instanceId": "17146450527"
+        },
+        {
+          "name": "Perdizione: Maestro",
+          "period": "2026-08-21T16:14:09Z",
+          "instanceId": "17146443955"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-21T16:11:12Z",
+          "instanceId": "17146435130"
+        },
+        {
+          "name": "Perdizione: Maestro",
+          "period": "2026-08-21T16:05:03Z",
+          "instanceId": "17146431392"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-21T16:00:19Z",
+          "instanceId": "17146424309"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -135,80 +200,15 @@
       ]
     },
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787381281000,
-      "lastActivityTimestamp": 1787336792000,
-      "lastActivityText": "La Città Sognante il 21/08/2026 18:26",
-      "activities": [
-        {
-          "name": "La Città Sognante",
-          "period": "2026-08-21T18:26:32Z",
-          "instanceId": "17146647670"
-        },
-        {
-          "name": "Il trono infranto",
-          "period": "2026-08-21T17:35:35Z",
-          "instanceId": "17146591979"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-08-21T16:53:33Z",
-          "instanceId": "17146509384"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-08-21T16:33:44Z",
-          "instanceId": "17146480161"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-21T16:21:24Z",
-          "instanceId": "17146450527"
-        },
-        {
-          "name": "Perdizione: Maestro",
-          "period": "2026-08-21T16:14:09Z",
-          "instanceId": "17146443955"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-21T16:11:12Z",
-          "instanceId": "17146435130"
-        },
-        {
-          "name": "Perdizione: Maestro",
-          "period": "2026-08-21T16:05:03Z",
-          "instanceId": "17146431392"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-21T16:00:19Z",
-          "instanceId": "17146424309"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-21T15:32:12Z",
-          "instanceId": "17146410874"
-        }
-      ]
-    },
-    {
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Gloriosa",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 453,
-      "lastPlayedTimestamp": 1787307022000,
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1787383908000,
       "lastActivityTimestamp": 1787306511000,
       "lastActivityText": "Ultimo desiderio: Standard il 21/08/2026 10:01",
       "activities": [
@@ -448,7 +448,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787342015000,
+      "lastPlayedTimestamp": 1787382534000,
       "lastActivityTimestamp": 1786976920000,
       "lastActivityText": "La Città Sognante il 17/08/2026 14:28",
       "activities": [
