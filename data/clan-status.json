@@ -1,87 +1,27 @@
 {
-  "generatedAt": "2026-08-22T15:26:14.372Z",
+  "generatedAt": "2026-08-22T15:48:41.242Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787412352000,
-      "lastActivityTimestamp": 1787411800000,
-      "lastActivityText": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata il 22/08/2026 15:16",
-      "activities": [
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-22T15:16:40Z",
-          "instanceId": "17148040877"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-20T18:13:45Z",
-          "instanceId": "17145027866"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-08-20T18:03:14Z",
-          "instanceId": "17145015014"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-20T18:00:28Z",
-          "instanceId": "17145002228"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-20T17:45:57Z",
-          "instanceId": "17145001569"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-20T17:30:31Z",
-          "instanceId": "17144979337"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-20T16:57:42Z",
-          "instanceId": "17144950083"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-20T16:25:42Z",
-          "instanceId": "17144907262"
-        },
-        {
-          "name": "Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-20T15:48:14Z",
-          "instanceId": "17144882768"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-08-20T14:41:51Z",
-          "instanceId": "17144798067"
-        }
-      ]
-    },
-    {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1787412293000,
-      "lastActivityTimestamp": 1787410801000,
-      "lastActivityText": "Dualità: Standard il 22/08/2026 15:00",
+      "powerLevel": 499,
+      "lastPlayedTimestamp": 1787412492000,
+      "lastActivityTimestamp": 1787412213000,
+      "lastActivityText": "Dualità: Standard il 22/08/2026 15:23",
       "activities": [
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-22T15:23:33Z",
+          "instanceId": "17148047545"
+        },
         {
           "name": "Dualità: Standard",
           "period": "2026-08-22T15:00:01Z",
@@ -126,11 +66,136 @@
           "name": "Dualità: Standard",
           "period": "2026-08-18T20:47:10Z",
           "instanceId": "17142084789"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787413673000,
+      "lastActivityTimestamp": 1787412173000,
+      "lastActivityText": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata il 22/08/2026 15:22",
+      "activities": [
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-22T15:22:53Z",
+          "instanceId": "17148072480"
         },
         {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-18T19:39:00Z",
-          "instanceId": "17141936932"
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-22T15:16:40Z",
+          "instanceId": "17148040877"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-20T18:13:45Z",
+          "instanceId": "17145027866"
+        },
+        {
+          "name": "Giardini Exodus 2A: Maestro",
+          "period": "2026-08-20T18:03:14Z",
+          "instanceId": "17145015014"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-20T18:00:28Z",
+          "instanceId": "17145002228"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-20T17:45:57Z",
+          "instanceId": "17145001569"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-20T17:30:31Z",
+          "instanceId": "17144979337"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-20T16:57:42Z",
+          "instanceId": "17144950083"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-20T16:25:42Z",
+          "instanceId": "17144907262"
+        },
+        {
+          "name": "Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-20T15:48:14Z",
+          "instanceId": "17144882768"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1787413073000,
+      "lastActivityTimestamp": 1787411508000,
+      "lastActivityText": "La culla del male: Personalizzata il 22/08/2026 15:11",
+      "activities": [
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-08-22T15:11:48Z",
+          "instanceId": "17148046886"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-08-16T17:03:27Z",
+          "instanceId": "17138119422"
+        },
+        {
+          "name": "Corte della Vedova: Con matchmaking",
+          "period": "2026-08-16T16:15:11Z",
+          "instanceId": "17138074027"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-16T15:59:18Z",
+          "instanceId": "17137994570"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-16T15:54:18Z",
+          "instanceId": "17137966450"
+        },
+        {
+          "name": "Fortezza della Guida: Con matchmaking",
+          "period": "2026-08-16T15:37:32Z",
+          "instanceId": "17137959971"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-16T15:29:55Z",
+          "instanceId": "17137927846"
+        },
+        {
+          "name": "Vox obscura: Personalizzata",
+          "period": "2026-08-16T15:07:30Z",
+          "instanceId": "17137925155"
+        },
+        {
+          "name": "Terreni di Prova: Personalizzata",
+          "period": "2026-08-16T14:48:28Z",
+          "instanceId": "17137882910"
+        },
+        {
+          "name": "Soli e al freddo: Audace",
+          "period": "2026-08-16T14:03:17Z",
+          "instanceId": "17137828968"
         }
       ]
     },
@@ -456,71 +521,6 @@
           "name": "Campi di battaglia: Colosso: Con matchmaking",
           "period": "2026-08-09T07:17:38Z",
           "instanceId": "17123428065"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787412369000,
-      "lastActivityTimestamp": 1786899807000,
-      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 16/08/2026 17:03",
-      "activities": [
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-08-16T17:03:27Z",
-          "instanceId": "17138119422"
-        },
-        {
-          "name": "Corte della Vedova: Con matchmaking",
-          "period": "2026-08-16T16:15:11Z",
-          "instanceId": "17138074027"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-16T15:59:18Z",
-          "instanceId": "17137994570"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-16T15:54:18Z",
-          "instanceId": "17137966450"
-        },
-        {
-          "name": "Fortezza della Guida: Con matchmaking",
-          "period": "2026-08-16T15:37:32Z",
-          "instanceId": "17137959971"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-16T15:29:55Z",
-          "instanceId": "17137927846"
-        },
-        {
-          "name": "Vox obscura: Personalizzata",
-          "period": "2026-08-16T15:07:30Z",
-          "instanceId": "17137925155"
-        },
-        {
-          "name": "Terreni di Prova: Personalizzata",
-          "period": "2026-08-16T14:48:28Z",
-          "instanceId": "17137882910"
-        },
-        {
-          "name": "Soli e al freddo: Audace",
-          "period": "2026-08-16T14:03:17Z",
-          "instanceId": "17137828968"
-        },
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-08-14T16:26:40Z",
-          "instanceId": "17133871145"
         }
       ]
     },
