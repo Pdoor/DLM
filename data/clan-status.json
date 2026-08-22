@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-22T16:54:56.889Z",
+  "generatedAt": "2026-08-22T17:25:16.191Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787418852000,
+      "lastActivityTimestamp": 1787417573000,
+      "lastActivityText": "Spirale invertita il 22/08/2026 16:52",
+      "activities": [
+        {
+          "name": "Spirale invertita",
+          "period": "2026-08-22T16:52:53Z",
+          "instanceId": "17148197146"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-22T15:50:59Z",
+          "instanceId": "17148107845"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-08-22T15:11:48Z",
+          "instanceId": "17148046886"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-08-16T17:03:27Z",
+          "instanceId": "17138119422"
+        },
+        {
+          "name": "Corte della Vedova: Con matchmaking",
+          "period": "2026-08-16T16:15:11Z",
+          "instanceId": "17138074027"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-16T15:59:18Z",
+          "instanceId": "17137994570"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-16T15:54:18Z",
+          "instanceId": "17137966450"
+        },
+        {
+          "name": "Fortezza della Guida: Con matchmaking",
+          "period": "2026-08-16T15:37:32Z",
+          "instanceId": "17137959971"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-16T15:29:55Z",
+          "instanceId": "17137927846"
+        },
+        {
+          "name": "Vox obscura: Personalizzata",
+          "period": "2026-08-16T15:07:30Z",
+          "instanceId": "17137925155"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -66,71 +131,6 @@
           "name": "La Tana dei Diavoli: Con matchmaking",
           "period": "2026-08-20T17:30:31Z",
           "instanceId": "17144979337"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787417577000,
-      "lastActivityTimestamp": 1787413859000,
-      "lastActivityText": "Cella Senza Sole: Personalizzata il 22/08/2026 15:50",
-      "activities": [
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-22T15:50:59Z",
-          "instanceId": "17148107845"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-08-22T15:11:48Z",
-          "instanceId": "17148046886"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-08-16T17:03:27Z",
-          "instanceId": "17138119422"
-        },
-        {
-          "name": "Corte della Vedova: Con matchmaking",
-          "period": "2026-08-16T16:15:11Z",
-          "instanceId": "17138074027"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-16T15:59:18Z",
-          "instanceId": "17137994570"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-16T15:54:18Z",
-          "instanceId": "17137966450"
-        },
-        {
-          "name": "Fortezza della Guida: Con matchmaking",
-          "period": "2026-08-16T15:37:32Z",
-          "instanceId": "17137959971"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-16T15:29:55Z",
-          "instanceId": "17137927846"
-        },
-        {
-          "name": "Vox obscura: Personalizzata",
-          "period": "2026-08-16T15:07:30Z",
-          "instanceId": "17137925155"
-        },
-        {
-          "name": "Terreni di Prova: Personalizzata",
-          "period": "2026-08-16T14:48:28Z",
-          "instanceId": "17137882910"
         }
       ]
     },
