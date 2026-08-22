@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-22T14:26:40.780Z",
+  "generatedAt": "2026-08-22T14:50:50.377Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1787410183000,
+      "lastActivityTimestamp": 1787408232000,
+      "lastActivityText": "Dualità: Standard il 22/08/2026 14:17",
+      "activities": [
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-22T14:17:12Z",
+          "instanceId": "17147980208"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-20T19:18:30Z",
+          "instanceId": "17145123854"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-20T14:45:31Z",
+          "instanceId": "17144796392"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-20T14:40:15Z",
+          "instanceId": "17144778335"
+        },
+        {
+          "name": "Dualità: Maestro",
+          "period": "2026-08-19T22:04:48Z",
+          "instanceId": "17143777034"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-18T21:31:07Z",
+          "instanceId": "17142104481"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-18T20:47:10Z",
+          "instanceId": "17142084789"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-18T19:39:00Z",
+          "instanceId": "17141936932"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-18T19:24:15Z",
+          "instanceId": "17141913533"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-18T18:01:29Z",
+          "instanceId": "17141923651"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -13,7 +78,7 @@
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787408776000,
+      "lastPlayedTimestamp": 1787410056000,
       "lastActivityTimestamp": 1787404640000,
       "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 22/08/2026 13:17",
       "activities": [
@@ -196,71 +261,6 @@
           "name": "Cerimonia: Leggendaria",
           "period": "2026-08-21T23:38:04Z",
           "instanceId": "17147013914"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "RICERCATO",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1787408642000,
-      "lastActivityTimestamp": 1787253510000,
-      "lastActivityText": "Dualità: Standard il 20/08/2026 19:18",
-      "activities": [
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-20T19:18:30Z",
-          "instanceId": "17145123854"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-20T14:45:31Z",
-          "instanceId": "17144796392"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-20T14:40:15Z",
-          "instanceId": "17144778335"
-        },
-        {
-          "name": "Dualità: Maestro",
-          "period": "2026-08-19T22:04:48Z",
-          "instanceId": "17143777034"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-18T21:31:07Z",
-          "instanceId": "17142104481"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-18T20:47:10Z",
-          "instanceId": "17142084789"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-18T19:39:00Z",
-          "instanceId": "17141936932"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-18T19:24:15Z",
-          "instanceId": "17141913533"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-18T18:33:52Z",
-          "instanceId": "17141894674"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-18T18:01:29Z",
-          "instanceId": "17141923651"
         }
       ]
     },
