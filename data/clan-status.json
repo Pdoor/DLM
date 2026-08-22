@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T12:48:22.133Z",
+  "generatedAt": "2026-08-22T13:35:20.969Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,15 @@
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787402802000,
-      "lastActivityTimestamp": 1787402460000,
-      "lastActivityText": "Zona Morta Europea il 22/08/2026 12:41",
+      "lastPlayedTimestamp": 1787405676000,
+      "lastActivityTimestamp": 1787402689000,
+      "lastActivityText": "//nodo.bpss.AVALON//: Personalizzata il 22/08/2026 12:44",
       "activities": [
+        {
+          "name": "//nodo.bpss.AVALON//: Personalizzata",
+          "period": "2026-08-22T12:44:49Z",
+          "instanceId": "17147878917"
+        },
         {
           "name": "Zona Morta Europea",
           "period": "2026-08-22T12:41:00Z",
@@ -61,11 +66,6 @@
           "name": "Cella Senza Sole: Personalizzata",
           "period": "2026-08-18T05:56:42Z",
           "instanceId": "17141113459"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-17T18:00:57Z",
-          "instanceId": "17140113362"
         }
       ]
     },
@@ -73,7 +73,7 @@
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Gloriosa",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
