@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-22T19:47:52.359Z",
+  "generatedAt": "2026-08-22T20:28:19.718Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "No TAG Jay#1042",
+      "membershipId": "4611686018465064117",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Portatore di desideri",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
+      "powerLevel": 513,
+      "lastPlayedTimestamp": 1787430476000,
+      "lastActivityTimestamp": 1787428013000,
+      "lastActivityText": "Artesia Mons, Venere: Contrabbando: Con matchmaking il 22/08/2026 19:46",
+      "activities": [
+        {
+          "name": "Artesia Mons, Venere: Contrabbando: Con matchmaking",
+          "period": "2026-08-22T19:46:53Z",
+          "instanceId": "17148461916"
+        },
+        {
+          "name": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking",
+          "period": "2026-07-01T10:55:21Z",
+          "instanceId": "16999195025"
+        },
+        {
+          "name": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking",
+          "period": "2026-07-01T10:49:10Z",
+          "instanceId": "16999185046"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-01T10:44:05Z",
+          "instanceId": "16999170293"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-06-30T17:47:11Z",
+          "instanceId": "16996416825"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-06-30T16:42:57Z",
+          "instanceId": "16996175037"
+        },
+        {
+          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
+          "period": "2026-06-30T15:31:49Z",
+          "instanceId": "16996024752"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-06-30T14:23:32Z",
+          "instanceId": "16995955927"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-06-30T14:17:16Z",
+          "instanceId": "16995730041"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-06-30T14:05:39Z",
+          "instanceId": "16995711332"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -12,11 +77,16 @@
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1787428063000,
-      "lastActivityTimestamp": 1787422195000,
-      "lastActivityText": "Dualità: Standard il 22/08/2026 18:09",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1787430391000,
+      "lastActivityTimestamp": 1787423006000,
+      "lastActivityText": "La caduta di un Re: Standard il 22/08/2026 18:23",
       "activities": [
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-22T18:23:26Z",
+          "instanceId": "17148460860"
+        },
         {
           "name": "Dualità: Standard",
           "period": "2026-08-22T18:09:55Z",
@@ -61,11 +131,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-08-22T02:44:26Z",
           "instanceId": "17147257695"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-22T02:34:39Z",
-          "instanceId": "17147239996"
         }
       ]
     },
@@ -1886,71 +1951,6 @@
           "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
           "period": "2026-06-29T17:42:07Z",
           "instanceId": "16991681319"
-        }
-      ]
-    },
-    {
-      "displayName": "No TAG Jay#1042",
-      "membershipId": "4611686018465064117",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Portatore di desideri",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 510,
-      "lastPlayedTimestamp": 1787428014000,
-      "lastActivityTimestamp": 1782903321000,
-      "lastActivityText": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking il 01/07/2026 10:55",
-      "activities": [
-        {
-          "name": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking",
-          "period": "2026-07-01T10:55:21Z",
-          "instanceId": "16999195025"
-        },
-        {
-          "name": "Matrice Forgiante, Europa: Sabotaggio: Con matchmaking",
-          "period": "2026-07-01T10:49:10Z",
-          "instanceId": "16999185046"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-01T10:44:05Z",
-          "instanceId": "16999170293"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-06-30T17:47:11Z",
-          "instanceId": "16996416825"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-30T16:42:57Z",
-          "instanceId": "16996175037"
-        },
-        {
-          "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
-          "period": "2026-06-30T15:31:49Z",
-          "instanceId": "16996024752"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-30T14:23:32Z",
-          "instanceId": "16995955927"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-30T14:17:16Z",
-          "instanceId": "16995730041"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-30T14:05:39Z",
-          "instanceId": "16995711332"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-30T13:44:57Z",
-          "instanceId": "16995677070"
         }
       ]
     },
