@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-22T02:38:22.669Z",
+  "generatedAt": "2026-08-22T03:45:57.639Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 447,
+      "lastPlayedTimestamp": 1787370328000,
+      "lastActivityTimestamp": 1787368640000,
+      "lastActivityText": "Partita veloce: Normale il 22/08/2026 03:17",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-22T03:17:20Z",
+          "instanceId": "17147302520"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-22T03:07:58Z",
+          "instanceId": "17147285500"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-22T02:57:48Z",
+          "instanceId": "17147273080"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-22T02:44:26Z",
+          "instanceId": "17147257695"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-22T02:34:39Z",
+          "instanceId": "17147239996"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-21T14:17:19Z",
+          "instanceId": "17146308236"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-21T01:27:05Z",
+          "instanceId": "17145592410"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-20T23:37:32Z",
+          "instanceId": "17145462183"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-20T18:32:47Z",
+          "instanceId": "17145040710"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-20T18:19:55Z",
+          "instanceId": "17145037816"
+        }
+      ]
+    },
     {
       "displayName": "adgarolp#8945",
       "membershipId": "4611686018479100387",
@@ -131,71 +196,6 @@
           "name": "La Tana dei Diavoli: Con matchmaking",
           "period": "2026-08-21T15:32:12Z",
           "instanceId": "17146410874"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 528,
-      "lastPlayedTimestamp": 1787366283000,
-      "lastActivityTimestamp": 1787321839000,
-      "lastActivityText": "Azzardo: Con matchmaking il 21/08/2026 14:17",
-      "activities": [
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-21T14:17:19Z",
-          "instanceId": "17146308236"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-21T01:27:05Z",
-          "instanceId": "17145592410"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-20T23:37:32Z",
-          "instanceId": "17145462183"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-20T18:32:47Z",
-          "instanceId": "17145040710"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-20T18:19:55Z",
-          "instanceId": "17145037816"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-19T21:52:05Z",
-          "instanceId": "17143753985"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-18T17:18:51Z",
-          "instanceId": "17141755144"
-        },
-        {
-          "name": "Corte della Vedova: Con matchmaking",
-          "period": "2026-08-18T00:37:26Z",
-          "instanceId": "17140711844"
-        },
-        {
-          "name": "Corte della Vedova: Con matchmaking",
-          "period": "2026-08-17T18:54:44Z",
-          "instanceId": "17140218912"
-        },
-        {
-          "name": "Spira: Con matchmaking",
-          "period": "2026-08-17T00:20:13Z",
-          "instanceId": "17138919111"
         }
       ]
     },
