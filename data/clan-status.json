@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T20:28:19.718Z",
+  "generatedAt": "2026-08-22T20:52:40.042Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,26 @@
       "className": "Titani",
       "title": "Portatore di desideri",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 513,
-      "lastPlayedTimestamp": 1787430476000,
-      "lastActivityTimestamp": 1787428013000,
-      "lastActivityText": "Artesia Mons, Venere: Contrabbando: Con matchmaking il 22/08/2026 19:46",
+      "powerLevel": 517,
+      "lastPlayedTimestamp": 1787431849000,
+      "lastActivityTimestamp": 1787430069000,
+      "lastActivityText": "Artesia Mons, Venere: Contrabbando: Con matchmaking il 22/08/2026 20:21",
       "activities": [
+        {
+          "name": "Artesia Mons, Venere: Contrabbando: Con matchmaking",
+          "period": "2026-08-22T20:21:09Z",
+          "instanceId": "17148519292"
+        },
+        {
+          "name": "Artesia Mons, Venere: Contrabbando: Con matchmaking",
+          "period": "2026-08-22T20:13:45Z",
+          "instanceId": "17148509622"
+        },
+        {
+          "name": "Artesia Mons, Venere: Contrabbando: Con matchmaking",
+          "period": "2026-08-22T20:13:06Z",
+          "instanceId": "17148505884"
+        },
         {
           "name": "Artesia Mons, Venere: Contrabbando: Con matchmaking",
           "period": "2026-08-22T19:46:53Z",
@@ -51,21 +66,6 @@
           "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
           "period": "2026-06-30T15:31:49Z",
           "instanceId": "16996024752"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-30T14:23:32Z",
-          "instanceId": "16995955927"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-30T14:17:16Z",
-          "instanceId": "16995730041"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-06-30T14:05:39Z",
-          "instanceId": "16995711332"
         }
       ]
     },
@@ -77,8 +77,8 @@
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1787430391000,
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1787431872000,
       "lastActivityTimestamp": 1787423006000,
       "lastActivityText": "La caduta di un Re: Standard il 22/08/2026 18:23",
       "activities": [
