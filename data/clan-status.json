@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T11:47:55.747Z",
+  "generatedAt": "2026-08-22T12:48:22.133Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,20 @@
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787399242000,
-      "lastActivityTimestamp": 1787395413000,
-      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 22/08/2026 10:43",
+      "lastPlayedTimestamp": 1787402802000,
+      "lastActivityTimestamp": 1787402460000,
+      "lastActivityText": "Zona Morta Europea il 22/08/2026 12:41",
       "activities": [
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-22T12:41:00Z",
+          "instanceId": "17147848732"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-08-22T11:34:09Z",
+          "instanceId": "17147795043"
+        },
         {
           "name": "Il Ponte di Vetro: Con matchmaking",
           "period": "2026-08-22T10:43:33Z",
@@ -56,16 +66,6 @@
           "name": "La lama di Luce: Con matchmaking",
           "period": "2026-08-17T18:00:57Z",
           "instanceId": "17140113362"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-17T17:49:16Z",
-          "instanceId": "17140089477"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-17T17:06:50Z",
-          "instanceId": "17140046729"
         }
       ]
     },
@@ -73,15 +73,20 @@
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Gloriosa",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
       "powerLevel": 454,
-      "lastPlayedTimestamp": 1787384123000,
-      "lastActivityTimestamp": 1787378051000,
-      "lastActivityText": "Giardino della Salvezza il 22/08/2026 05:54",
+      "lastPlayedTimestamp": 1787401705000,
+      "lastActivityTimestamp": 1787400741000,
+      "lastActivityText": "Tronomondo di Savathûn il 22/08/2026 12:12",
       "activities": [
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-22T12:12:21Z",
+          "instanceId": "17147823660"
+        },
         {
           "name": "Giardino della Salvezza",
           "period": "2026-08-22T05:54:11Z",
@@ -126,11 +131,6 @@
           "name": "Tronomondo di Savathûn",
           "period": "2026-08-21T08:16:40Z",
           "instanceId": "17146010898"
-        },
-        {
-          "name": "Jolly",
-          "period": "2026-08-20T15:13:09Z",
-          "instanceId": "17144851722"
         }
       ]
     },
