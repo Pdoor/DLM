@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T09:32:37.585Z",
+  "generatedAt": "2026-08-23T10:28:51.867Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,21 @@
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2660c7e16c0824a9e2ab167cede1fcab.jpg",
-      "powerLevel": 355,
-      "lastPlayedTimestamp": 1787477520000,
-      "lastActivityTimestamp": 1787474490000,
-      "lastActivityText": "Tronomondo di Savathûn il 23/08/2026 08:41",
+      "powerLevel": 356,
+      "lastPlayedTimestamp": 1787480751000,
+      "lastActivityTimestamp": 1787477508000,
+      "lastActivityText": "Tronomondo di Savathûn il 23/08/2026 09:31",
       "activities": [
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-23T09:31:48Z",
+          "instanceId": "17149508999"
+        },
+        {
+          "name": "Gli Spettri: Normale",
+          "period": "2026-08-23T08:43:43Z",
+          "instanceId": "17149507243"
+        },
         {
           "name": "Tronomondo di Savathûn",
           "period": "2026-08-23T08:41:30Z",
@@ -56,81 +66,6 @@
           "name": "Zona Morta Europea",
           "period": "2026-08-08T20:13:05Z",
           "instanceId": "17122167601"
-        },
-        {
-          "name": "L'arrivo: Normale",
-          "period": "2026-08-08T19:49:39Z",
-          "instanceId": "17122123293"
-        },
-        {
-          "name": "L'arrivo: Normale",
-          "period": "2026-08-08T19:16:09Z",
-          "instanceId": "17122104482"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1787471141000,
-      "lastActivityTimestamp": 1787471034000,
-      "lastActivityText": "Morsa della cupidigia: Standard il 23/08/2026 07:43",
-      "activities": [
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-23T07:43:54Z",
-          "instanceId": "17149411874"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-23T07:36:58Z",
-          "instanceId": "17149404940"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-23T07:31:23Z",
-          "instanceId": "17149397999"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-23T07:25:08Z",
-          "instanceId": "17149392680"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-23T07:11:35Z",
-          "instanceId": "17149382691"
-        },
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-08-23T06:52:13Z",
-          "instanceId": "17149371222"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Con matchmaking",
-          "period": "2026-08-23T06:41:02Z",
-          "instanceId": "17149354676"
-        },
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-08-23T06:04:30Z",
-          "instanceId": "17149318458"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-22T15:08:20Z",
-          "instanceId": "17148028746"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-08-22T14:21:16Z",
-          "instanceId": "17148321409"
         }
       ]
     },
@@ -143,7 +78,7 @@
       "title": "Gloriosa",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
       "powerLevel": 454,
-      "lastPlayedTimestamp": 1787472599000,
+      "lastPlayedTimestamp": 1787480551000,
       "lastActivityTimestamp": 1787466932000,
       "lastActivityText": "Ultimo desiderio: Standard il 23/08/2026 06:35",
       "activities": [
@@ -391,6 +326,71 @@
           "name": "Vox obscura: Personalizzata",
           "period": "2026-08-16T15:07:30Z",
           "instanceId": "17137925155"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787480897000,
+      "lastActivityTimestamp": 1787414568000,
+      "lastActivityText": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata il 22/08/2026 16:02",
+      "activities": [
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-22T16:02:48Z",
+          "instanceId": "17148130201"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-22T16:01:01Z",
+          "instanceId": "17148097215"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-22T15:51:11Z",
+          "instanceId": "17148094038"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-22T15:22:53Z",
+          "instanceId": "17148072480"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-22T15:16:40Z",
+          "instanceId": "17148040877"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-20T18:13:45Z",
+          "instanceId": "17145027866"
+        },
+        {
+          "name": "Giardini Exodus 2A: Maestro",
+          "period": "2026-08-20T18:03:14Z",
+          "instanceId": "17145015014"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-20T18:00:28Z",
+          "instanceId": "17145002228"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-20T17:45:57Z",
+          "instanceId": "17145001569"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-20T17:30:31Z",
+          "instanceId": "17144979337"
         }
       ]
     },
