@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T06:53:01.119Z",
+  "generatedAt": "2026-08-23T07:37:12.216Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,30 @@
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787467953000,
-      "lastActivityTimestamp": 1787465070000,
-      "lastActivityText": "Cella Senza Sole: Con matchmaking il 23/08/2026 06:04",
+      "lastPlayedTimestamp": 1787470356000,
+      "lastActivityTimestamp": 1787469908000,
+      "lastActivityText": "Morsa della cupidigia: Standard il 23/08/2026 07:25",
       "activities": [
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-23T07:25:08Z",
+          "instanceId": "17149392680"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-23T07:11:35Z",
+          "instanceId": "17149382691"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-08-23T06:52:13Z",
+          "instanceId": "17149371222"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-08-23T06:41:02Z",
+          "instanceId": "17149354676"
+        },
         {
           "name": "Cella Senza Sole: Con matchmaking",
           "period": "2026-08-23T06:04:30Z",
@@ -46,26 +66,6 @@
           "name": "Zona Morta Europea",
           "period": "2026-08-22T12:41:00Z",
           "instanceId": "17147848732"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-08-22T11:34:09Z",
-          "instanceId": "17147795043"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-08-22T10:43:33Z",
-          "instanceId": "17147751259"
-        },
-        {
-          "name": "Bunker dei caduti: Con matchmaking",
-          "period": "2026-08-20T13:06:57Z",
-          "instanceId": "17144693519"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-20T11:12:29Z",
-          "instanceId": "17144597493"
         }
       ]
     },
@@ -207,8 +207,8 @@
       "className": "Stregoni",
       "title": "Gloriosa",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 454,
-      "lastPlayedTimestamp": 1787467907000,
+      "powerLevel": 542,
+      "lastPlayedTimestamp": 1787470562000,
       "lastActivityTimestamp": 1787417824000,
       "lastActivityText": "Cripta di Pietrafonda il 22/08/2026 16:57",
       "activities": [
