@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T07:37:12.216Z",
+  "generatedAt": "2026-08-23T08:35:50.320Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,30 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787470356000,
-      "lastActivityTimestamp": 1787469908000,
-      "lastActivityText": "Morsa della cupidigia: Standard il 23/08/2026 07:25",
+      "lastPlayedTimestamp": 1787471141000,
+      "lastActivityTimestamp": 1787471034000,
+      "lastActivityText": "Morsa della cupidigia: Standard il 23/08/2026 07:43",
       "activities": [
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-23T07:43:54Z",
+          "instanceId": "17149411874"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-23T07:36:58Z",
+          "instanceId": "17149404940"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-23T07:31:23Z",
+          "instanceId": "17149397999"
+        },
         {
           "name": "Morsa della cupidigia: Standard",
           "period": "2026-08-23T07:25:08Z",
@@ -51,21 +66,71 @@
           "name": "Il Ponte di Vetro: Con matchmaking",
           "period": "2026-08-22T14:21:16Z",
           "instanceId": "17148321409"
+        }
+      ]
+    },
+    {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
+      "powerLevel": 454,
+      "lastPlayedTimestamp": 1787472599000,
+      "lastActivityTimestamp": 1787466932000,
+      "lastActivityText": "Ultimo desiderio: Standard il 23/08/2026 06:35",
+      "activities": [
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-08-23T06:35:32Z",
+          "instanceId": "17149435818"
         },
         {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-08-22T13:17:20Z",
-          "instanceId": "17147901838"
+          "name": "Cripta di Pietrafonda",
+          "period": "2026-08-22T16:57:04Z",
+          "instanceId": "17148303874"
         },
         {
-          "name": "//nodo.bpss.AVALON//: Personalizzata",
-          "period": "2026-08-22T12:44:49Z",
-          "instanceId": "17147878917"
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-22T12:12:21Z",
+          "instanceId": "17147823660"
         },
         {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-22T12:41:00Z",
-          "instanceId": "17147848732"
+          "name": "Giardino della Salvezza",
+          "period": "2026-08-22T05:54:11Z",
+          "instanceId": "17147624029"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-08-21T10:01:51Z",
+          "instanceId": "17146118540"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-21T09:51:36Z",
+          "instanceId": "17146078434"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-21T09:30:46Z",
+          "instanceId": "17146063158"
+        },
+        {
+          "name": "La lama di Luce",
+          "period": "2026-08-21T09:28:02Z",
+          "instanceId": "17146074527"
+        },
+        {
+          "name": "Lo specchio: Normale",
+          "period": "2026-08-21T09:08:26Z",
+          "instanceId": "17146060507"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-21T09:06:37Z",
+          "instanceId": "17146045409"
         }
       ]
     },
@@ -196,71 +261,6 @@
           "name": "Pantheon: Primo Ribelle rivoluzionario: Personalizzata",
           "period": "2026-06-30T15:31:49Z",
           "instanceId": "16996024752"
-        }
-      ]
-    },
-    {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 542,
-      "lastPlayedTimestamp": 1787470562000,
-      "lastActivityTimestamp": 1787417824000,
-      "lastActivityText": "Cripta di Pietrafonda il 22/08/2026 16:57",
-      "activities": [
-        {
-          "name": "Cripta di Pietrafonda",
-          "period": "2026-08-22T16:57:04Z",
-          "instanceId": "17148303874"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-22T12:12:21Z",
-          "instanceId": "17147823660"
-        },
-        {
-          "name": "Giardino della Salvezza",
-          "period": "2026-08-22T05:54:11Z",
-          "instanceId": "17147624029"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-08-21T10:01:51Z",
-          "instanceId": "17146118540"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-21T09:51:36Z",
-          "instanceId": "17146078434"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-21T09:30:46Z",
-          "instanceId": "17146063158"
-        },
-        {
-          "name": "La lama di Luce",
-          "period": "2026-08-21T09:28:02Z",
-          "instanceId": "17146074527"
-        },
-        {
-          "name": "Lo specchio: Normale",
-          "period": "2026-08-21T09:08:26Z",
-          "instanceId": "17146060507"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-21T09:06:37Z",
-          "instanceId": "17146045409"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-21T08:48:05Z",
-          "instanceId": "17146034559"
         }
       ]
     },
@@ -918,12 +918,12 @@
       "displayName": "KIT HAMWORTH#5503",
       "membershipId": "4611686018513251845",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2660c7e16c0824a9e2ab167cede1fcab.jpg",
-      "powerLevel": 356,
-      "lastPlayedTimestamp": 1786223269000,
+      "powerLevel": 355,
+      "lastPlayedTimestamp": 1787474022000,
       "lastActivityTimestamp": 1786222001000,
       "lastActivityText": "Una misteriosa attività il 08/08/2026 20:46",
       "activities": [
