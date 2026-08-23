@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T22:51:01.086Z",
+  "generatedAt": "2026-08-23T23:26:09.282Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,60 +12,60 @@
       "className": "Cacciatori",
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 543,
-      "lastPlayedTimestamp": 1787525441000,
-      "lastActivityTimestamp": 1787525381000,
-      "lastActivityText": "Nessus, Centauro Instabile il 23/08/2026 22:49",
+      "powerLevel": 445,
+      "lastPlayedTimestamp": 1787527499000,
+      "lastActivityTimestamp": 1787526528000,
+      "lastActivityText": "Nessus, Centauro Instabile il 23/08/2026 23:08",
       "activities": [
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-23T23:08:48Z",
+          "instanceId": "17150599896"
+        },
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-08-23T23:04:16Z",
+          "instanceId": "17150599659"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-23T23:03:43Z",
+          "instanceId": "17150593265"
+        },
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-08-23T23:00:23Z",
+          "instanceId": "17150592353"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-23T22:59:04Z",
+          "instanceId": "17150587311"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-23T22:56:01Z",
+          "instanceId": "17150581338"
+        },
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-08-23T22:53:18Z",
+          "instanceId": "17150581296"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-23T22:52:46Z",
+          "instanceId": "17150576938"
+        },
+        {
+          "name": "Confluenza: Esperto",
+          "period": "2026-08-23T22:50:06Z",
+          "instanceId": "17150576205"
+        },
         {
           "name": "Nessus, Centauro Instabile",
           "period": "2026-08-23T22:49:41Z",
           "instanceId": "17150572422"
-        },
-        {
-          "name": "Confluenza: Maestro",
-          "period": "2026-08-23T22:46:22Z",
-          "instanceId": "17150571789"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-23T22:44:45Z",
-          "instanceId": "17150567566"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-23T22:40:40Z",
-          "instanceId": "17150559567"
-        },
-        {
-          "name": "Confluenza: Maestro",
-          "period": "2026-08-23T22:34:47Z",
-          "instanceId": "17150559159"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-23T22:34:15Z",
-          "instanceId": "17150550919"
-        },
-        {
-          "name": "Confluenza: Maestro",
-          "period": "2026-08-23T22:29:04Z",
-          "instanceId": "17150550376"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-23T22:28:25Z",
-          "instanceId": "17150542671"
-        },
-        {
-          "name": "Confluenza: Maestro",
-          "period": "2026-08-23T22:23:29Z",
-          "instanceId": "17150541469"
-        },
-        {
-          "name": "Confluenza: Maestro",
-          "period": "2026-08-23T22:16:33Z",
-          "instanceId": "17150533839"
         }
       ]
     },
