@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T16:31:55.592Z",
+  "generatedAt": "2026-08-23T17:24:32.477Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,31 @@
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 530,
-      "lastPlayedTimestamp": 1787502482000,
-      "lastActivityTimestamp": 1787501041000,
-      "lastActivityText": "Competitiva: Con matchmaking il 23/08/2026 16:04",
+      "powerLevel": 539,
+      "lastPlayedTimestamp": 1787505849000,
+      "lastActivityTimestamp": 1787505238000,
+      "lastActivityText": "Prove di Osiride: Con matchmaking il 23/08/2026 17:13",
       "activities": [
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-23T17:13:58Z",
+          "instanceId": "17150057081"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-23T17:05:29Z",
+          "instanceId": "17150048713"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-08-23T16:48:08Z",
+          "instanceId": "17150028989"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-08-23T16:34:51Z",
+          "instanceId": "17150006773"
+        },
         {
           "name": "Competitiva: Con matchmaking",
           "period": "2026-08-23T16:04:01Z",
@@ -46,26 +66,6 @@
           "name": "Artesia Mons, Venere: Caccia alle taglie: Con matchmaking",
           "period": "2026-08-15T19:43:39Z",
           "instanceId": "17136283659"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T19:05:30Z",
-          "instanceId": "17136223159"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T18:03:32Z",
-          "instanceId": "17136174743"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T17:26:22Z",
-          "instanceId": "17136030576"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T16:22:28Z",
-          "instanceId": "17135972600"
         }
       ]
     },
@@ -207,8 +207,8 @@
       "className": "Titani",
       "title": "Immortale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 450,
-      "lastPlayedTimestamp": 1787502667000,
+      "powerLevel": 448,
+      "lastPlayedTimestamp": 1787505820000,
       "lastActivityTimestamp": 1787498858000,
       "lastActivityText": "Fossa dell'Eresia: Standard il 23/08/2026 15:27",
       "activities": [
@@ -273,10 +273,15 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787502690000,
-      "lastActivityTimestamp": 1787498208000,
-      "lastActivityText": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata il 23/08/2026 15:16",
+      "lastPlayedTimestamp": 1787505821000,
+      "lastActivityTimestamp": 1787498458000,
+      "lastActivityText": "Equilibrio: Standard il 23/08/2026 15:20",
       "activities": [
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-23T15:20:58Z",
+          "instanceId": "17150039004"
+        },
         {
           "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
           "period": "2026-08-23T15:16:48Z",
@@ -321,11 +326,6 @@
           "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
           "period": "2026-08-23T14:52:22Z",
           "instanceId": "17149851464"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-08-23T14:49:26Z",
-          "instanceId": "17149845502"
         }
       ]
     },
