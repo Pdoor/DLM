@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T10:53:28.967Z",
+  "generatedAt": "2026-08-23T11:25:13.612Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "KIT HAMWORTH#5503",
       "membershipId": "4611686018513251845",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2660c7e16c0824a9e2ab167cede1fcab.jpg",
       "powerLevel": 356,
-      "lastPlayedTimestamp": 1787482183000,
-      "lastActivityTimestamp": 1787481369000,
-      "lastActivityText": "Tronomondo di Savathûn il 23/08/2026 10:36",
+      "lastPlayedTimestamp": 1787483017000,
+      "lastActivityTimestamp": 1787481437000,
+      "lastActivityText": "Lo specchio: Normale il 23/08/2026 10:37",
       "activities": [
+        {
+          "name": "Lo specchio: Normale",
+          "period": "2026-08-23T10:37:17Z",
+          "instanceId": "17149589871"
+        },
         {
           "name": "Tronomondo di Savathûn",
           "period": "2026-08-23T10:36:09Z",
@@ -61,11 +66,6 @@
           "name": "Sito di Scavo XII: Esperto",
           "period": "2026-08-08T20:32:50Z",
           "instanceId": "17122214188"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-08T20:26:53Z",
-          "instanceId": "17122193532"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787482382000,
+      "lastPlayedTimestamp": 1787484266000,
       "lastActivityTimestamp": 1787480217000,
       "lastActivityText": "Cella Senza Sole: Con matchmaking il 23/08/2026 10:16",
       "activities": [
