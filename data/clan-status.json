@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T20:52:54.557Z",
+  "generatedAt": "2026-08-23T21:25:58.253Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -9,63 +9,63 @@
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
       "isOnline": true,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1787518336000,
-      "lastActivityTimestamp": 1787515141000,
-      "lastActivityText": "Bis: Personalizzata il 23/08/2026 19:59",
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 483,
+      "lastPlayedTimestamp": 1787520349000,
+      "lastActivityTimestamp": 1787520127000,
+      "lastActivityText": "Poligono di Tiro il 23/08/2026 21:22",
       "activities": [
         {
-          "name": "Bis: Personalizzata",
-          "period": "2026-08-23T19:59:01Z",
-          "instanceId": "17150392764"
-        },
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-08-23T18:46:53Z",
-          "instanceId": "17150202483"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-23T15:55:50Z",
-          "instanceId": "17149943723"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-23T15:31:50Z",
-          "instanceId": "17149910212"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-23T15:12:55Z",
-          "instanceId": "17149900641"
-        },
-        {
-          "name": "Cripta di Pietrafonda",
-          "period": "2026-08-22T23:05:40Z",
-          "instanceId": "17148873119"
+          "name": "Poligono di Tiro",
+          "period": "2026-08-23T21:22:07Z",
+          "instanceId": "17150445931"
         },
         {
           "name": "Poligono di Tiro",
-          "period": "2026-08-22T21:35:03Z",
-          "instanceId": "17148600187"
-        },
-        {
-          "name": "Giardino della Salvezza",
-          "period": "2026-08-22T20:35:24Z",
-          "instanceId": "17148583143"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-22T18:23:26Z",
-          "instanceId": "17148460860"
+          "period": "2026-08-23T21:17:45Z",
+          "instanceId": "17150438461"
         },
         {
           "name": "Dualità: Standard",
-          "period": "2026-08-22T18:09:55Z",
-          "instanceId": "17148285988"
+          "period": "2026-08-22T15:23:33Z",
+          "instanceId": "17148047545"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-22T15:00:01Z",
+          "instanceId": "17148039795"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-22T14:37:37Z",
+          "instanceId": "17148009616"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-22T14:17:12Z",
+          "instanceId": "17147980208"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-20T19:18:30Z",
+          "instanceId": "17145123854"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-20T14:45:31Z",
+          "instanceId": "17144796392"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-20T14:40:15Z",
+          "instanceId": "17144778335"
+        },
+        {
+          "name": "Dualità: Maestro",
+          "period": "2026-08-19T22:04:48Z",
+          "instanceId": "17143777034"
         }
       ]
     },
