@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-23T11:25:13.612Z",
+  "generatedAt": "2026-08-23T11:48:41.489Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787485593000,
+      "lastActivityTimestamp": 1787481878000,
+      "lastActivityText": "Nessus, Centauro Instabile il 23/08/2026 10:44",
+      "activities": [
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-23T10:44:38Z",
+          "instanceId": "17149628104"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-08-23T10:16:57Z",
+          "instanceId": "17149563483"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-22T16:02:48Z",
+          "instanceId": "17148130201"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-22T16:01:01Z",
+          "instanceId": "17148097215"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-22T15:51:11Z",
+          "instanceId": "17148094038"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-22T15:22:53Z",
+          "instanceId": "17148072480"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-22T15:16:40Z",
+          "instanceId": "17148040877"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-20T18:13:45Z",
+          "instanceId": "17145027866"
+        },
+        {
+          "name": "Giardini Exodus 2A: Maestro",
+          "period": "2026-08-20T18:03:14Z",
+          "instanceId": "17145015014"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-20T18:00:28Z",
+          "instanceId": "17145002228"
+        }
+      ]
+    },
     {
       "displayName": "KIT HAMWORTH#5503",
       "membershipId": "4611686018513251845",
@@ -66,71 +131,6 @@
           "name": "Sito di Scavo XII: Esperto",
           "period": "2026-08-08T20:32:50Z",
           "instanceId": "17122214188"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787484266000,
-      "lastActivityTimestamp": 1787480217000,
-      "lastActivityText": "Cella Senza Sole: Con matchmaking il 23/08/2026 10:16",
-      "activities": [
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-08-23T10:16:57Z",
-          "instanceId": "17149563483"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-22T16:02:48Z",
-          "instanceId": "17148130201"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-22T16:01:01Z",
-          "instanceId": "17148097215"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-22T15:51:11Z",
-          "instanceId": "17148094038"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-22T15:22:53Z",
-          "instanceId": "17148072480"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-22T15:16:40Z",
-          "instanceId": "17148040877"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-20T18:13:45Z",
-          "instanceId": "17145027866"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-08-20T18:03:14Z",
-          "instanceId": "17145015014"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-20T18:00:28Z",
-          "instanceId": "17145002228"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-20T17:45:57Z",
-          "instanceId": "17145001569"
         }
       ]
     },
@@ -846,71 +846,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-31T16:34:38Z",
           "instanceId": "17103221376"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787298994000,
-      "lastActivityTimestamp": 1786823019000,
-      "lastActivityText": "Artesia Mons, Venere: Caccia alle taglie: Con matchmaking il 15/08/2026 19:43",
-      "activities": [
-        {
-          "name": "Artesia Mons, Venere: Caccia alle taglie: Con matchmaking",
-          "period": "2026-08-15T19:43:39Z",
-          "instanceId": "17136283659"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T19:05:30Z",
-          "instanceId": "17136223159"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T18:03:32Z",
-          "instanceId": "17136174743"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T17:26:22Z",
-          "instanceId": "17136030576"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T16:22:28Z",
-          "instanceId": "17135972600"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T13:57:12Z",
-          "instanceId": "17135713397"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T13:22:34Z",
-          "instanceId": "17135660020"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T12:21:23Z",
-          "instanceId": "17135609078"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T11:29:53Z",
-          "instanceId": "17135534966"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T10:40:44Z",
-          "instanceId": "17135476997"
         }
       ]
     },
@@ -2601,6 +2536,71 @@
           "name": "Missione: Saturnismo: Leggendaria",
           "period": "2025-07-22T21:02:51Z",
           "instanceId": "16335278824"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
+      "powerLevel": 185,
+      "lastPlayedTimestamp": 1787485664000,
+      "lastActivityTimestamp": 1731781208000,
+      "lastActivityText": "Europa il 16/11/2024 18:20",
+      "activities": [
+        {
+          "name": "Europa",
+          "period": "2024-11-16T18:20:08Z",
+          "instanceId": "15693761296"
+        },
+        {
+          "name": "Il Ponte di Vetro",
+          "period": "2024-11-16T18:06:10Z",
+          "instanceId": "15693723054"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2024-11-16T17:54:03Z",
+          "instanceId": "15693690476"
+        },
+        {
+          "name": "Europa",
+          "period": "2024-11-16T17:49:57Z",
+          "instanceId": "15693666334"
+        },
+        {
+          "name": "Europa",
+          "period": "2024-07-31T17:09:43Z",
+          "instanceId": "15381141509"
+        },
+        {
+          "name": "Il Tecnocrate",
+          "period": "2024-07-31T16:56:00Z",
+          "instanceId": "15381986458"
+        },
+        {
+          "name": "Europa",
+          "period": "2024-07-31T16:35:56Z",
+          "instanceId": "15381093234"
+        },
+        {
+          "name": "La Guerriera",
+          "period": "2024-07-31T16:21:39Z",
+          "instanceId": "15381026508"
+        },
+        {
+          "name": "Europa",
+          "period": "2024-07-31T16:18:47Z",
+          "instanceId": "15380980306"
+        },
+        {
+          "name": "Europa",
+          "period": "2024-07-31T12:47:53Z",
+          "instanceId": "15380400001"
         }
       ]
     }
