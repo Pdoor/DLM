@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-23T08:35:50.320Z",
+  "generatedAt": "2026-08-23T09:32:37.585Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "KIT HAMWORTH#5503",
+      "membershipId": "4611686018513251845",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2660c7e16c0824a9e2ab167cede1fcab.jpg",
+      "powerLevel": 355,
+      "lastPlayedTimestamp": 1787477520000,
+      "lastActivityTimestamp": 1787474490000,
+      "lastActivityText": "Tronomondo di Savathûn il 23/08/2026 08:41",
+      "activities": [
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-23T08:41:30Z",
+          "instanceId": "17149462388"
+        },
+        {
+          "name": "L'investigazione: Normale",
+          "period": "2026-08-23T08:16:31Z",
+          "instanceId": "17149460065"
+        },
+        {
+          "name": "Una misteriosa attività",
+          "period": "2026-08-08T20:46:41Z",
+          "instanceId": "17122267058"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-08T20:42:37Z",
+          "instanceId": "17122222547"
+        },
+        {
+          "name": "Sito di Scavo XII: Esperto",
+          "period": "2026-08-08T20:32:50Z",
+          "instanceId": "17122214188"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-08T20:26:53Z",
+          "instanceId": "17122193532"
+        },
+        {
+          "name": "Sito di Scavo XII: Esperto",
+          "period": "2026-08-08T20:19:53Z",
+          "instanceId": "17122182054"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-08T20:13:05Z",
+          "instanceId": "17122167601"
+        },
+        {
+          "name": "L'arrivo: Normale",
+          "period": "2026-08-08T19:49:39Z",
+          "instanceId": "17122123293"
+        },
+        {
+          "name": "L'arrivo: Normale",
+          "period": "2026-08-08T19:16:09Z",
+          "instanceId": "17122104482"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -911,71 +976,6 @@
           "name": "Tronomondo di Savathûn",
           "period": "2026-06-24T15:30:44Z",
           "instanceId": "16966202734"
-        }
-      ]
-    },
-    {
-      "displayName": "KIT HAMWORTH#5503",
-      "membershipId": "4611686018513251845",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2660c7e16c0824a9e2ab167cede1fcab.jpg",
-      "powerLevel": 355,
-      "lastPlayedTimestamp": 1787474022000,
-      "lastActivityTimestamp": 1786222001000,
-      "lastActivityText": "Una misteriosa attività il 08/08/2026 20:46",
-      "activities": [
-        {
-          "name": "Una misteriosa attività",
-          "period": "2026-08-08T20:46:41Z",
-          "instanceId": "17122267058"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-08T20:42:37Z",
-          "instanceId": "17122222547"
-        },
-        {
-          "name": "Sito di Scavo XII: Esperto",
-          "period": "2026-08-08T20:32:50Z",
-          "instanceId": "17122214188"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-08T20:26:53Z",
-          "instanceId": "17122193532"
-        },
-        {
-          "name": "Sito di Scavo XII: Esperto",
-          "period": "2026-08-08T20:19:53Z",
-          "instanceId": "17122182054"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-08T20:13:05Z",
-          "instanceId": "17122167601"
-        },
-        {
-          "name": "L'arrivo: Normale",
-          "period": "2026-08-08T19:49:39Z",
-          "instanceId": "17122123293"
-        },
-        {
-          "name": "L'arrivo: Normale",
-          "period": "2026-08-08T19:16:09Z",
-          "instanceId": "17122104482"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-08-08T19:00:15Z",
-          "instanceId": "17122029540"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-08T18:54:21Z",
-          "instanceId": "17122001716"
         }
       ]
     },
