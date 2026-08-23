@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-23T20:28:33.107Z",
+  "generatedAt": "2026-08-23T20:52:54.557Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1787518336000,
+      "lastActivityTimestamp": 1787515141000,
+      "lastActivityText": "Bis: Personalizzata il 23/08/2026 19:59",
+      "activities": [
+        {
+          "name": "Bis: Personalizzata",
+          "period": "2026-08-23T19:59:01Z",
+          "instanceId": "17150392764"
+        },
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-08-23T18:46:53Z",
+          "instanceId": "17150202483"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-23T15:55:50Z",
+          "instanceId": "17149943723"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-23T15:31:50Z",
+          "instanceId": "17149910212"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-23T15:12:55Z",
+          "instanceId": "17149900641"
+        },
+        {
+          "name": "Cripta di Pietrafonda",
+          "period": "2026-08-22T23:05:40Z",
+          "instanceId": "17148873119"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-22T21:35:03Z",
+          "instanceId": "17148600187"
+        },
+        {
+          "name": "Giardino della Salvezza",
+          "period": "2026-08-22T20:35:24Z",
+          "instanceId": "17148583143"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-22T18:23:26Z",
+          "instanceId": "17148460860"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-22T18:09:55Z",
+          "instanceId": "17148285988"
+        }
+      ]
+    },
     {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
@@ -131,71 +196,6 @@
           "name": "Tronomondo di Savathûn",
           "period": "2026-08-23T15:27:06Z",
           "instanceId": "17149914433"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1787516878000,
-      "lastActivityTimestamp": 1787510813000,
-      "lastActivityText": "Centro Città: Con matchmaking il 23/08/2026 18:46",
-      "activities": [
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-08-23T18:46:53Z",
-          "instanceId": "17150202483"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-23T15:55:50Z",
-          "instanceId": "17149943723"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-23T15:31:50Z",
-          "instanceId": "17149910212"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-23T15:12:55Z",
-          "instanceId": "17149900641"
-        },
-        {
-          "name": "Cripta di Pietrafonda",
-          "period": "2026-08-22T23:05:40Z",
-          "instanceId": "17148873119"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-22T21:35:03Z",
-          "instanceId": "17148600187"
-        },
-        {
-          "name": "Giardino della Salvezza",
-          "period": "2026-08-22T20:35:24Z",
-          "instanceId": "17148583143"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-22T18:23:26Z",
-          "instanceId": "17148460860"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-22T18:09:55Z",
-          "instanceId": "17148285988"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-22T04:12:39Z",
-          "instanceId": "17147372297"
         }
       ]
     },
