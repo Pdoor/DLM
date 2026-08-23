@@ -1,22 +1,92 @@
 {
-  "generatedAt": "2026-08-23T15:50:28.404Z",
+  "generatedAt": "2026-08-23T16:31:55.592Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 530,
+      "lastPlayedTimestamp": 1787502482000,
+      "lastActivityTimestamp": 1787501041000,
+      "lastActivityText": "Competitiva: Con matchmaking il 23/08/2026 16:04",
+      "activities": [
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-08-23T16:04:01Z",
+          "instanceId": "17149962553"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-23T15:52:34Z",
+          "instanceId": "17149933373"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-23T15:30:23Z",
+          "instanceId": "17149910187"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-23T15:06:24Z",
+          "instanceId": "17149893230"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-23T13:47:46Z",
+          "instanceId": "17149855740"
+        },
+        {
+          "name": "Artesia Mons, Venere: Caccia alle taglie: Con matchmaking",
+          "period": "2026-08-15T19:43:39Z",
+          "instanceId": "17136283659"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T19:05:30Z",
+          "instanceId": "17136223159"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T18:03:32Z",
+          "instanceId": "17136174743"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T17:26:22Z",
+          "instanceId": "17136030576"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-15T16:22:28Z",
+          "instanceId": "17135972600"
+        }
+      ]
+    },
+    {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787499532000,
-      "lastActivityTimestamp": 1787499110000,
-      "lastActivityText": "Zona Morta Europea il 23/08/2026 15:31",
+      "lastPlayedTimestamp": 1787500867000,
+      "lastActivityTimestamp": 1787500550000,
+      "lastActivityText": "Cosmodromo il 23/08/2026 15:55",
       "activities": [
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-23T15:55:50Z",
+          "instanceId": "17149943723"
+        },
         {
           "name": "Zona Morta Europea",
           "period": "2026-08-23T15:31:50Z",
@@ -61,76 +131,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-22T04:00:17Z",
           "instanceId": "17147357118"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-22T03:51:16Z",
-          "instanceId": "17147341574"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 503,
-      "lastPlayedTimestamp": 1787500220000,
-      "lastActivityTimestamp": 1787499023000,
-      "lastActivityText": "Equilibrio: Standard il 23/08/2026 15:30",
-      "activities": [
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-23T15:30:23Z",
-          "instanceId": "17149910187"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-23T15:06:24Z",
-          "instanceId": "17149893230"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-23T13:47:46Z",
-          "instanceId": "17149855740"
-        },
-        {
-          "name": "Artesia Mons, Venere: Caccia alle taglie: Con matchmaking",
-          "period": "2026-08-15T19:43:39Z",
-          "instanceId": "17136283659"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T19:05:30Z",
-          "instanceId": "17136223159"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T18:03:32Z",
-          "instanceId": "17136174743"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T17:26:22Z",
-          "instanceId": "17136030576"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T16:22:28Z",
-          "instanceId": "17135972600"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T13:57:12Z",
-          "instanceId": "17135713397"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-15T13:22:34Z",
-          "instanceId": "17135660020"
         }
       ]
     },
@@ -138,15 +138,25 @@
       "displayName": "KIT HAMWORTH#5503",
       "membershipId": "4611686018513251845",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2660c7e16c0824a9e2ab167cede1fcab.jpg",
       "powerLevel": 356,
-      "lastPlayedTimestamp": 1787500216000,
-      "lastActivityTimestamp": 1787498826000,
-      "lastActivityText": "Tronomondo di Savathûn il 23/08/2026 15:27",
+      "lastPlayedTimestamp": 1787500468000,
+      "lastActivityTimestamp": 1787500202000,
+      "lastActivityText": "Ultima occasione: Normale il 23/08/2026 15:50",
       "activities": [
+        {
+          "name": "Ultima occasione: Normale",
+          "period": "2026-08-23T15:50:02Z",
+          "instanceId": "17149933690"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-23T15:46:36Z",
+          "instanceId": "17149926349"
+        },
         {
           "name": "Tronomondo di Savathûn",
           "period": "2026-08-23T15:27:06Z",
@@ -186,16 +196,71 @@
           "name": "Lo specchio: Normale",
           "period": "2026-08-23T10:37:17Z",
           "instanceId": "17149589871"
+        }
+      ]
+    },
+    {
+      "displayName": "adgarolp#8945",
+      "membershipId": "4611686018479100387",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Immortale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
+      "powerLevel": 450,
+      "lastPlayedTimestamp": 1787502667000,
+      "lastActivityTimestamp": 1787498858000,
+      "lastActivityText": "Fossa dell'Eresia: Standard il 23/08/2026 15:27",
+      "activities": [
+        {
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-08-23T15:27:38Z",
+          "instanceId": "17149939052"
         },
         {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-23T10:36:09Z",
-          "instanceId": "17149565315"
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-08-23T15:01:39Z",
+          "instanceId": "17149894305"
         },
         {
-          "name": "La comunione: Normale",
-          "period": "2026-08-23T09:58:58Z",
-          "instanceId": "17149562677"
+          "name": "Fossa dell'Eresia: Standard",
+          "period": "2026-08-23T14:58:20Z",
+          "instanceId": "17149857448"
+        },
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-22T01:38:11Z",
+          "instanceId": "17147148542"
+        },
+        {
+          "name": "Missione: Transitorietà: Leggendaria",
+          "period": "2026-08-22T01:24:52Z",
+          "instanceId": "17147146800"
+        },
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-22T01:10:40Z",
+          "instanceId": "17147128680"
+        },
+        {
+          "name": "Missione: L'invito: Leggendaria",
+          "period": "2026-08-22T00:36:35Z",
+          "instanceId": "17147110879"
+        },
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-22T00:35:32Z",
+          "instanceId": "17147065930"
+        },
+        {
+          "name": "Missione: Maggese: Leggendaria",
+          "period": "2026-08-22T00:23:43Z",
+          "instanceId": "17147064795"
+        },
+        {
+          "name": "Modalità del mondo: leggendaria: Leggendaria",
+          "period": "2026-08-22T00:22:23Z",
+          "instanceId": "17147049746"
         }
       ]
     },
@@ -208,7 +273,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787500194000,
+      "lastPlayedTimestamp": 1787502690000,
       "lastActivityTimestamp": 1787498208000,
       "lastActivityText": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata il 23/08/2026 15:16",
       "activities": [
@@ -261,71 +326,6 @@
           "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
           "period": "2026-08-23T14:49:26Z",
           "instanceId": "17149845502"
-        }
-      ]
-    },
-    {
-      "displayName": "adgarolp#8945",
-      "membershipId": "4611686018479100387",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Immortale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1787499945000,
-      "lastActivityTimestamp": 1787497299000,
-      "lastActivityText": "Fossa dell'Eresia: Standard il 23/08/2026 15:01",
-      "activities": [
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-08-23T15:01:39Z",
-          "instanceId": "17149894305"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-08-23T14:58:20Z",
-          "instanceId": "17149857448"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-22T01:38:11Z",
-          "instanceId": "17147148542"
-        },
-        {
-          "name": "Missione: Transitorietà: Leggendaria",
-          "period": "2026-08-22T01:24:52Z",
-          "instanceId": "17147146800"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-22T01:10:40Z",
-          "instanceId": "17147128680"
-        },
-        {
-          "name": "Missione: L'invito: Leggendaria",
-          "period": "2026-08-22T00:36:35Z",
-          "instanceId": "17147110879"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-22T00:35:32Z",
-          "instanceId": "17147065930"
-        },
-        {
-          "name": "Missione: Maggese: Leggendaria",
-          "period": "2026-08-22T00:23:43Z",
-          "instanceId": "17147064795"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-22T00:22:23Z",
-          "instanceId": "17147049746"
-        },
-        {
-          "name": "Missione: Nostos: Leggendaria",
-          "period": "2026-08-21T23:58:54Z",
-          "instanceId": "17147048139"
         }
       ]
     },
