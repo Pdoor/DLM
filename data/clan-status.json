@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T21:48:16.907Z",
+  "generatedAt": "2026-08-23T22:27:00.913Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,41 @@
       "className": "Cacciatori",
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
-      "powerLevel": 482,
-      "lastPlayedTimestamp": 1787521662000,
-      "lastActivityTimestamp": 1787520127000,
-      "lastActivityText": "Poligono di Tiro il 23/08/2026 21:22",
+      "powerLevel": 445,
+      "lastPlayedTimestamp": 1787524012000,
+      "lastActivityTimestamp": 1787523393000,
+      "lastActivityText": "Confluenza: Maestro il 23/08/2026 22:16",
       "activities": [
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-08-23T22:16:33Z",
+          "instanceId": "17150533839"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-23T22:15:17Z",
+          "instanceId": "17150524579"
+        },
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-08-23T22:13:42Z",
+          "instanceId": "17150521527"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-23T22:10:43Z",
+          "instanceId": "17150520717"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-23T22:07:09Z",
+          "instanceId": "17150515328"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-23T21:53:54Z",
+          "instanceId": "17150500509"
+        },
         {
           "name": "Poligono di Tiro",
           "period": "2026-08-23T21:22:07Z",
@@ -36,36 +66,6 @@
           "name": "Dualità: Standard",
           "period": "2026-08-22T15:00:01Z",
           "instanceId": "17148039795"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-22T14:37:37Z",
-          "instanceId": "17148009616"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-22T14:17:12Z",
-          "instanceId": "17147980208"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-20T19:18:30Z",
-          "instanceId": "17145123854"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-20T14:45:31Z",
-          "instanceId": "17144796392"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-20T14:40:15Z",
-          "instanceId": "17144778335"
-        },
-        {
-          "name": "Dualità: Maestro",
-          "period": "2026-08-19T22:04:48Z",
-          "instanceId": "17143777034"
         }
       ]
     },
@@ -168,6 +168,11 @@
           "instanceId": "17150149812"
         },
         {
+          "name": "Ultima occasione: Normale",
+          "period": "2026-08-23T17:50:25Z",
+          "instanceId": "17150520061"
+        },
+        {
           "name": "Tronomondo di Savathûn",
           "period": "2026-08-23T17:49:15Z",
           "instanceId": "17150102977"
@@ -191,11 +196,6 @@
           "name": "Tronomondo di Savathûn",
           "period": "2026-08-23T15:46:36Z",
           "instanceId": "17149926349"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-23T15:27:06Z",
-          "instanceId": "17149914433"
         }
       ]
     },
