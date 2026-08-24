@@ -1,74 +1,9 @@
 {
-  "generatedAt": "2026-08-24T08:53:50.623Z",
+  "generatedAt": "2026-08-24T09:53:23.235Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787558209000,
-      "lastActivityTimestamp": 1787557569000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 24/08/2026 07:46",
-      "activities": [
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-24T07:46:09Z",
-          "instanceId": "17151183315"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-24T07:21:55Z",
-          "instanceId": "17151176788"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-24T06:11:37Z",
-          "instanceId": "17151117581"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-08-24T05:39:27Z",
-          "instanceId": "17151091033"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-24T05:30:04Z",
-          "instanceId": "17151080683"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-23T17:07:05Z",
-          "instanceId": "17150084151"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-23T15:20:58Z",
-          "instanceId": "17150039004"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-23T15:16:48Z",
-          "instanceId": "17149880840"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-23T15:14:29Z",
-          "instanceId": "17149879730"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-23T15:10:43Z",
-          "instanceId": "17149876624"
-        }
-      ]
-    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -456,6 +391,71 @@
           "name": "Lo specchio: Normale",
           "period": "2026-08-21T09:08:26Z",
           "instanceId": "17146060507"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1787565045000,
+      "lastActivityTimestamp": 1787421719000,
+      "lastActivityText": "Cella Senza Sole: Con matchmaking il 22/08/2026 18:01",
+      "activities": [
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-08-22T18:01:59Z",
+          "instanceId": "17148295321"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-08-22T17:39:00Z",
+          "instanceId": "17148260500"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-08-22T08:08:10Z",
+          "instanceId": "17147627136"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-22T07:47:07Z",
+          "instanceId": "17147611787"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-22T07:40:50Z",
+          "instanceId": "17147592861"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-08-22T06:55:31Z",
+          "instanceId": "17147561602"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-08-21T18:26:32Z",
+          "instanceId": "17146647670"
+        },
+        {
+          "name": "Il trono infranto",
+          "period": "2026-08-21T17:35:35Z",
+          "instanceId": "17146591979"
+        },
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-08-21T16:53:33Z",
+          "instanceId": "17146509384"
+        },
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-08-21T16:33:44Z",
+          "instanceId": "17146480161"
         }
       ]
     },
