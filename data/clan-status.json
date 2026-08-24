@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T23:26:17.503Z",
+  "generatedAt": "2026-08-24T23:48:59.933Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,16 @@
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 532,
-      "lastPlayedTimestamp": 1787613956000,
-      "lastActivityTimestamp": 1787613401000,
-      "lastActivityText": "Azzardo: Con matchmaking il 24/08/2026 23:16",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1787615297000,
+      "lastActivityTimestamp": 1787614064000,
+      "lastActivityText": "Azzardo: Con matchmaking il 24/08/2026 23:27",
       "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-24T23:27:44Z",
+          "instanceId": "17152090746"
+        },
         {
           "name": "Azzardo: Con matchmaking",
           "period": "2026-08-24T23:16:41Z",
@@ -61,11 +66,6 @@
           "name": "Bis: Personalizzata",
           "period": "2026-08-23T19:59:01Z",
           "instanceId": "17150392764"
-        },
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-08-23T18:46:53Z",
-          "instanceId": "17150202483"
         }
       ]
     },
