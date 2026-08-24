@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T19:33:40.930Z",
+  "generatedAt": "2026-08-24T20:35:45.850Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,16 @@
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
-      "powerLevel": 374,
-      "lastPlayedTimestamp": 1787599996000,
-      "lastActivityTimestamp": 1787597765000,
-      "lastActivityText": "La caduta di un Re: Maestro il 24/08/2026 18:56",
+      "powerLevel": 371,
+      "lastPlayedTimestamp": 1787603683000,
+      "lastActivityTimestamp": 1787600781000,
+      "lastActivityText": "La caduta di un Re: Standard il 24/08/2026 19:46",
       "activities": [
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-24T19:46:21Z",
+          "instanceId": "17151870236"
+        },
         {
           "name": "La caduta di un Re: Maestro",
           "period": "2026-08-24T18:56:05Z",
@@ -61,11 +66,6 @@
           "name": "Europa",
           "period": "2026-08-24T16:21:01Z",
           "instanceId": "17151583316"
-        },
-        {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-17T17:42:45Z",
-          "instanceId": "17140193044"
         }
       ]
     },
@@ -77,11 +77,16 @@
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 531,
-      "lastPlayedTimestamp": 1787599677000,
-      "lastActivityTimestamp": 1787597765000,
-      "lastActivityText": "La caduta di un Re: Maestro il 24/08/2026 18:56",
+      "powerLevel": 549,
+      "lastPlayedTimestamp": 1787603736000,
+      "lastActivityTimestamp": 1787600781000,
+      "lastActivityText": "La caduta di un Re: Standard il 24/08/2026 19:46",
       "activities": [
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-24T19:46:21Z",
+          "instanceId": "17151870236"
+        },
         {
           "name": "La caduta di un Re: Maestro",
           "period": "2026-08-24T18:56:05Z",
@@ -126,11 +131,6 @@
           "name": "Pallido Cuore",
           "period": "2026-08-23T18:39:42Z",
           "instanceId": "17150182169"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-23T18:18:29Z",
-          "instanceId": "17150157926"
         }
       ]
     },
