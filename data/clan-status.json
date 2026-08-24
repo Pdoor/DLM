@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T23:48:34.791Z",
+  "generatedAt": "2026-08-24T01:40:38.156Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,35 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "RICERCATO",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
       "powerLevel": 540,
-      "lastPlayedTimestamp": 1787528888000,
-      "lastActivityTimestamp": 1787527069000,
-      "lastActivityText": "Poligono di Tiro il 23/08/2026 23:17",
+      "lastPlayedTimestamp": 1787531202000,
+      "lastActivityTimestamp": 1787531067000,
+      "lastActivityText": "Poligono di Tiro il 24/08/2026 00:24",
       "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-24T00:24:27Z",
+          "instanceId": "17150708769"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-24T00:10:57Z",
+          "instanceId": "17150704156"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-23T23:59:35Z",
+          "instanceId": "17150685261"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-23T23:47:49Z",
+          "instanceId": "17150669435"
+        },
         {
           "name": "Poligono di Tiro",
           "period": "2026-08-23T23:17:49Z",
@@ -46,26 +66,6 @@
           "name": "Nessus, Centauro Instabile",
           "period": "2026-08-23T22:59:04Z",
           "instanceId": "17150587311"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-23T22:56:01Z",
-          "instanceId": "17150581338"
-        },
-        {
-          "name": "Confluenza: Maestro",
-          "period": "2026-08-23T22:53:18Z",
-          "instanceId": "17150581296"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-23T22:52:46Z",
-          "instanceId": "17150576938"
-        },
-        {
-          "name": "Confluenza: Esperto",
-          "period": "2026-08-23T22:50:06Z",
-          "instanceId": "17150576205"
         }
       ]
     },
