@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-24T11:33:30.958Z",
+  "generatedAt": "2026-08-24T12:59:15.436Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 549,
+      "lastPlayedTimestamp": 1787576245000,
+      "lastActivityTimestamp": 1787573473000,
+      "lastActivityText": "Destino diadico il 24/08/2026 12:11",
+      "activities": [
+        {
+          "name": "Destino diadico",
+          "period": "2026-08-24T12:11:13Z",
+          "instanceId": "17151380201"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-23T18:55:42Z",
+          "instanceId": "17150333939"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-23T18:39:42Z",
+          "instanceId": "17150182169"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-23T18:18:29Z",
+          "instanceId": "17150157926"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-23T18:12:15Z",
+          "instanceId": "17150146469"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-23T17:57:42Z",
+          "instanceId": "17150128102"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-23T17:32:31Z",
+          "instanceId": "17150087382"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-23T17:21:13Z",
+          "instanceId": "17150066947"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-23T17:13:58Z",
+          "instanceId": "17150057081"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-08-23T17:05:29Z",
+          "instanceId": "17150048713"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -12,11 +77,16 @@
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1787571135000,
-      "lastActivityTimestamp": 1787567858000,
-      "lastActivityText": "La Tana dei Diavoli: Personalizzata il 24/08/2026 10:37",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787576326000,
+      "lastActivityTimestamp": 1787571267000,
+      "lastActivityText": "La Guerriera: Con matchmaking il 24/08/2026 11:34",
       "activities": [
+        {
+          "name": "La Guerriera: Con matchmaking",
+          "period": "2026-08-24T11:34:27Z",
+          "instanceId": "17151326919"
+        },
         {
           "name": "La Tana dei Diavoli: Personalizzata",
           "period": "2026-08-24T10:37:38Z",
@@ -61,11 +131,6 @@
           "name": "Il Ponte di Vetro: Con matchmaking",
           "period": "2026-08-22T06:55:31Z",
           "instanceId": "17147561602"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-08-21T18:26:32Z",
-          "instanceId": "17146647670"
         }
       ]
     },
@@ -131,71 +196,6 @@
           "name": "Nessus, Centauro Instabile",
           "period": "2026-08-23T22:22:58Z",
           "instanceId": "17150864651"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 549,
-      "lastPlayedTimestamp": 1787571195000,
-      "lastActivityTimestamp": 1787511342000,
-      "lastActivityText": "Equilibrio: Standard il 23/08/2026 18:55",
-      "activities": [
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-23T18:55:42Z",
-          "instanceId": "17150333939"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-23T18:39:42Z",
-          "instanceId": "17150182169"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-23T18:18:29Z",
-          "instanceId": "17150157926"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-23T18:12:15Z",
-          "instanceId": "17150146469"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-23T17:57:42Z",
-          "instanceId": "17150128102"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-23T17:32:31Z",
-          "instanceId": "17150087382"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-23T17:21:13Z",
-          "instanceId": "17150066947"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-23T17:13:58Z",
-          "instanceId": "17150057081"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-08-23T17:05:29Z",
-          "instanceId": "17150048713"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-08-23T16:48:08Z",
-          "instanceId": "17150028989"
         }
       ]
     },
