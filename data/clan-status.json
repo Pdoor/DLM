@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-24T05:19:23.689Z",
+  "generatedAt": "2026-08-24T06:04:52.166Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787551468000,
+      "lastActivityTimestamp": 1787549967000,
+      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 24/08/2026 05:39",
+      "activities": [
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-24T05:39:27Z",
+          "instanceId": "17151091033"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-24T05:30:04Z",
+          "instanceId": "17151080683"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-23T17:07:05Z",
+          "instanceId": "17150084151"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-23T15:20:58Z",
+          "instanceId": "17150039004"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-23T15:16:48Z",
+          "instanceId": "17149880840"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-23T15:14:29Z",
+          "instanceId": "17149879730"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-23T15:10:43Z",
+          "instanceId": "17149876624"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-23T15:09:14Z",
+          "instanceId": "17149871104"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-23T15:05:17Z",
+          "instanceId": "17149866084"
+        },
+        {
+          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-08-23T15:03:29Z",
+          "instanceId": "17149863693"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -261,71 +326,6 @@
           "name": "Modalità del mondo: leggendaria: Leggendaria",
           "period": "2026-08-22T00:35:32Z",
           "instanceId": "17147065930"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787506486000,
-      "lastActivityTimestamp": 1787504825000,
-      "lastActivityText": "Equilibrio: Standard il 23/08/2026 17:07",
-      "activities": [
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-23T17:07:05Z",
-          "instanceId": "17150084151"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-23T15:20:58Z",
-          "instanceId": "17150039004"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-23T15:16:48Z",
-          "instanceId": "17149880840"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-23T15:14:29Z",
-          "instanceId": "17149879730"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-23T15:10:43Z",
-          "instanceId": "17149876624"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-23T15:09:14Z",
-          "instanceId": "17149871104"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-23T15:05:17Z",
-          "instanceId": "17149866084"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-23T15:03:29Z",
-          "instanceId": "17149863693"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-08-23T15:00:00Z",
-          "instanceId": "17149861191"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-08-23T14:56:48Z",
-          "instanceId": "17149854984"
         }
       ]
     },
