@@ -1,22 +1,97 @@
 {
-  "generatedAt": "2026-08-24T21:34:14.877Z",
+  "generatedAt": "2026-08-24T22:31:09.269Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
+      "powerLevel": 442,
+      "lastPlayedTimestamp": 1787607235000,
+      "lastActivityTimestamp": 1787606115000,
+      "lastActivityText": "Partita veloce: Normale il 24/08/2026 21:15",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-24T21:15:15Z",
+          "instanceId": "17151944624"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-24T16:31:17Z",
+          "instanceId": "17151604635"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-16T14:29:18Z",
+          "instanceId": "17137845203"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-16T14:19:15Z",
+          "instanceId": "17137827565"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-16T14:01:50Z",
+          "instanceId": "17137808319"
+        },
+        {
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-08-04T14:47:57Z",
+          "instanceId": "17112789171"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-04T14:34:16Z",
+          "instanceId": "17112762960"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-04T14:09:34Z",
+          "instanceId": "17112732916"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-04T13:50:53Z",
+          "instanceId": "17112714458"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-03T21:07:04Z",
+          "instanceId": "17111273174"
+        }
+      ]
+    },
+    {
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1787607214000,
-      "lastActivityTimestamp": 1787600781000,
-      "lastActivityText": "La caduta di un Re: Standard il 24/08/2026 19:46",
+      "powerLevel": 380,
+      "lastPlayedTimestamp": 1787608503000,
+      "lastActivityTimestamp": 1787604950000,
+      "lastActivityText": "Volta di Vetro: Standard il 24/08/2026 20:55",
       "activities": [
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-08-24T20:55:50Z",
+          "instanceId": "17151968840"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-08-24T20:32:43Z",
+          "instanceId": "17151984982"
+        },
         {
           "name": "La caduta di un Re: Standard",
           "period": "2026-08-24T19:46:21Z",
@@ -56,16 +131,6 @@
           "name": "Europa",
           "period": "2026-08-24T16:33:21Z",
           "instanceId": "17151596878"
-        },
-        {
-          "name": "La Kell dell'Oscurità",
-          "period": "2026-08-24T16:24:27Z",
-          "instanceId": "17151592799"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-24T16:21:01Z",
-          "instanceId": "17151583316"
         }
       ]
     },
@@ -73,15 +138,25 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1787607014000,
-      "lastActivityTimestamp": 1787600781000,
-      "lastActivityText": "La caduta di un Re: Standard il 24/08/2026 19:46",
+      "powerLevel": 549,
+      "lastPlayedTimestamp": 1787608438000,
+      "lastActivityTimestamp": 1787604950000,
+      "lastActivityText": "Volta di Vetro: Standard il 24/08/2026 20:55",
       "activities": [
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-08-24T20:55:50Z",
+          "instanceId": "17151968840"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-08-24T20:32:43Z",
+          "instanceId": "17151984982"
+        },
         {
           "name": "La caduta di un Re: Standard",
           "period": "2026-08-24T19:46:21Z",
@@ -121,16 +196,6 @@
           "name": "Rovesciamento",
           "period": "2026-08-24T08:55:39Z",
           "instanceId": "17151399863"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-23T18:55:42Z",
-          "instanceId": "17150333939"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-23T18:39:42Z",
-          "instanceId": "17150182169"
         }
       ]
     },
@@ -333,12 +398,12 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 532,
-      "lastPlayedTimestamp": 1787590095000,
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1787610554000,
       "lastActivityTimestamp": 1787590084000,
       "lastActivityText": "Poligono di Tiro il 24/08/2026 16:48",
       "activities": [
@@ -391,71 +456,6 @@
           "name": "Poligono di Tiro",
           "period": "2026-08-22T21:35:03Z",
           "instanceId": "17148600187"
-        }
-      ]
-    },
-    {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
-      "powerLevel": 442,
-      "lastPlayedTimestamp": 1787607168000,
-      "lastActivityTimestamp": 1787589077000,
-      "lastActivityText": "Partita veloce: Normale il 24/08/2026 16:31",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-24T16:31:17Z",
-          "instanceId": "17151604635"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-16T14:29:18Z",
-          "instanceId": "17137845203"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-16T14:19:15Z",
-          "instanceId": "17137827565"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-16T14:01:50Z",
-          "instanceId": "17137808319"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-08-04T14:47:57Z",
-          "instanceId": "17112789171"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-04T14:34:16Z",
-          "instanceId": "17112762960"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-04T14:09:34Z",
-          "instanceId": "17112732916"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-04T13:50:53Z",
-          "instanceId": "17112714458"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-03T21:07:04Z",
-          "instanceId": "17111273174"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-08-03T20:42:25Z",
-          "instanceId": "17111230062"
         }
       ]
     },
