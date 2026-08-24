@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-24T22:31:09.269Z",
+  "generatedAt": "2026-08-24T23:26:17.503Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 532,
+      "lastPlayedTimestamp": 1787613956000,
+      "lastActivityTimestamp": 1787613401000,
+      "lastActivityText": "Azzardo: Con matchmaking il 24/08/2026 23:16",
+      "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-24T23:16:41Z",
+          "instanceId": "17152075580"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-24T23:10:57Z",
+          "instanceId": "17152068593"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-24T23:04:03Z",
+          "instanceId": "17152061052"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-24T22:50:23Z",
+          "instanceId": "17152044057"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-24T22:29:03Z",
+          "instanceId": "17152015881"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-24T16:48:04Z",
+          "instanceId": "17151612256"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-24T16:17:12Z",
+          "instanceId": "17151587830"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-24T16:05:52Z",
+          "instanceId": "17151575646"
+        },
+        {
+          "name": "Bis: Personalizzata",
+          "period": "2026-08-23T19:59:01Z",
+          "instanceId": "17150392764"
+        },
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-08-23T18:46:53Z",
+          "instanceId": "17150202483"
+        }
+      ]
+    },
     {
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
@@ -391,71 +456,6 @@
           "name": "Conservazione",
           "period": "2026-08-17T14:24:10Z",
           "instanceId": "17139856713"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1787610554000,
-      "lastActivityTimestamp": 1787590084000,
-      "lastActivityText": "Poligono di Tiro il 24/08/2026 16:48",
-      "activities": [
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-24T16:48:04Z",
-          "instanceId": "17151612256"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-24T16:17:12Z",
-          "instanceId": "17151587830"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-24T16:05:52Z",
-          "instanceId": "17151575646"
-        },
-        {
-          "name": "Bis: Personalizzata",
-          "period": "2026-08-23T19:59:01Z",
-          "instanceId": "17150392764"
-        },
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-08-23T18:46:53Z",
-          "instanceId": "17150202483"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-23T15:55:50Z",
-          "instanceId": "17149943723"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-23T15:31:50Z",
-          "instanceId": "17149910212"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-23T15:12:55Z",
-          "instanceId": "17149900641"
-        },
-        {
-          "name": "Cripta di Pietrafonda",
-          "period": "2026-08-22T23:05:40Z",
-          "instanceId": "17148873119"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-22T21:35:03Z",
-          "instanceId": "17148600187"
         }
       ]
     },
