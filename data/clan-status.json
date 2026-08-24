@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T07:39:01.087Z",
+  "generatedAt": "2026-08-24T08:53:50.623Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,20 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787557113000,
-      "lastActivityTimestamp": 1787551897000,
-      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 24/08/2026 06:11",
+      "lastPlayedTimestamp": 1787558209000,
+      "lastActivityTimestamp": 1787557569000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 24/08/2026 07:46",
       "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-24T07:46:09Z",
+          "instanceId": "17151183315"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-24T07:21:55Z",
+          "instanceId": "17151176788"
+        },
         {
           "name": "La Tana dei Diavoli: Con matchmaking",
           "period": "2026-08-24T06:11:37Z",
@@ -56,16 +66,6 @@
           "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
           "period": "2026-08-23T15:10:43Z",
           "instanceId": "17149876624"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-23T15:09:14Z",
-          "instanceId": "17149871104"
-        },
-        {
-          "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-08-23T15:05:17Z",
-          "instanceId": "17149866084"
         }
       ]
     },
