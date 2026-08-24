@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T10:41:20.555Z",
+  "generatedAt": "2026-08-24T11:33:30.958Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,15 @@
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787568038000,
-      "lastActivityTimestamp": 1787565695000,
-      "lastActivityText": "Conquista modalità esperto: Luna: Personalizzata il 24/08/2026 10:01",
+      "lastPlayedTimestamp": 1787571135000,
+      "lastActivityTimestamp": 1787567858000,
+      "lastActivityText": "La Tana dei Diavoli: Personalizzata il 24/08/2026 10:37",
       "activities": [
+        {
+          "name": "La Tana dei Diavoli: Personalizzata",
+          "period": "2026-08-24T10:37:38Z",
+          "instanceId": "17151292392"
+        },
         {
           "name": "Conquista modalità esperto: Luna: Personalizzata",
           "period": "2026-08-24T10:01:35Z",
@@ -61,11 +66,6 @@
           "name": "La Città Sognante",
           "period": "2026-08-21T18:26:32Z",
           "instanceId": "17146647670"
-        },
-        {
-          "name": "Il trono infranto",
-          "period": "2026-08-21T17:35:35Z",
-          "instanceId": "17146591979"
         }
       ]
     },
@@ -138,12 +138,12 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1787516101000,
+      "powerLevel": 549,
+      "lastPlayedTimestamp": 1787571195000,
       "lastActivityTimestamp": 1787511342000,
       "lastActivityText": "Equilibrio: Standard il 23/08/2026 18:55",
       "activities": [
