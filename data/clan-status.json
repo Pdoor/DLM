@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-25T05:59:03.255Z",
+  "generatedAt": "2026-08-25T07:02:12.856Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1787641266000,
+      "lastActivityTimestamp": 1787640434000,
+      "lastActivityText": "Campi di battaglia: Condotto: Con matchmaking il 25/08/2026 06:47",
+      "activities": [
+        {
+          "name": "Campi di battaglia: Condotto: Con matchmaking",
+          "period": "2026-08-25T06:47:14Z",
+          "instanceId": "17152597122"
+        },
+        {
+          "name": "Fortezza della Guida: Con matchmaking",
+          "period": "2026-08-25T06:29:46Z",
+          "instanceId": "17152586128"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-25T06:24:55Z",
+          "instanceId": "17152574344"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-25T06:18:29Z",
+          "instanceId": "17152570752"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-23T07:43:54Z",
+          "instanceId": "17149411874"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-23T07:36:58Z",
+          "instanceId": "17149404940"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-23T07:31:23Z",
+          "instanceId": "17149397999"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-23T07:25:08Z",
+          "instanceId": "17149392680"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-23T07:11:35Z",
+          "instanceId": "17149382691"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-08-23T06:52:13Z",
+          "instanceId": "17149371222"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -326,71 +391,6 @@
           "name": "Spirale invertita",
           "period": "2026-08-22T16:52:53Z",
           "instanceId": "17148197146"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787596404000,
-      "lastActivityTimestamp": 1787593789000,
-      "lastActivityText": "Oblazione: Immolazione il 24/08/2026 17:49",
-      "activities": [
-        {
-          "name": "Oblazione: Immolazione",
-          "period": "2026-08-24T17:49:49Z",
-          "instanceId": "17151726357"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-08-24T17:18:49Z",
-          "instanceId": "17151674322"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-08-24T16:54:09Z",
-          "instanceId": "17151639697"
-        },
-        {
-          "name": "Campi di battaglia: Condotto: Personalizzata",
-          "period": "2026-08-24T16:26:24Z",
-          "instanceId": "17151614051"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-08-24T16:11:44Z",
-          "instanceId": "17151591017"
-        },
-        {
-          "name": "La Guerriera: Con matchmaking",
-          "period": "2026-08-24T15:42:09Z",
-          "instanceId": "17151553993"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-24T15:22:10Z",
-          "instanceId": "17151539250"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-24T07:46:09Z",
-          "instanceId": "17151183315"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-24T07:21:55Z",
-          "instanceId": "17151176788"
-        },
-        {
-          "name": "La Guerriera: Con matchmaking",
-          "period": "2026-08-24T06:53:49Z",
-          "instanceId": "17151298152"
         }
       ]
     },
