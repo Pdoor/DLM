@@ -1,26 +1,106 @@
 {
-  "generatedAt": "2026-08-25T15:48:58.209Z",
+  "generatedAt": "2026-08-25T16:42:21.770Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787675985000,
+      "lastActivityTimestamp": 1787675213000,
+      "lastActivityText": "Partita veloce: Normale il 25/08/2026 16:26",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-25T16:26:53Z",
+          "instanceId": "17153060889"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-25T10:39:15Z",
+          "instanceId": "17152766862"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-25T09:24:35Z",
+          "instanceId": "17152728228"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-24T16:57:00Z",
+          "instanceId": "17151660154"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-24T16:43:38Z",
+          "instanceId": "17151616798"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-24T16:18:47Z",
+          "instanceId": "17151603570"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-24T15:56:16Z",
+          "instanceId": "17151570575"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-18T10:39:39Z",
+          "instanceId": "17141322007"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-18T10:04:22Z",
+          "instanceId": "17141308600"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-18T09:53:37Z",
+          "instanceId": "17141289087"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787672047000,
-      "lastActivityTimestamp": 1787671931000,
-      "lastActivityText": "Nessus, Centauro Instabile il 25/08/2026 15:32",
+      "lastPlayedTimestamp": 1787676061000,
+      "lastActivityTimestamp": 1787674729000,
+      "lastActivityText": "La culla del male: Personalizzata il 25/08/2026 16:18",
       "activities": [
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-08-25T16:18:49Z",
+          "instanceId": "17153064479"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-25T16:01:56Z",
+          "instanceId": "17153034626"
+        },
         {
           "name": "Nessus, Centauro Instabile",
           "period": "2026-08-25T15:32:11Z",
           "instanceId": "17153000561"
+        },
+        {
+          "name": "D.A.G.A. caduta: Con matchmaking",
+          "period": "2026-08-25T15:30:37Z",
+          "instanceId": "17153025583"
         },
         {
           "name": "Bis: Personalizzata",
@@ -51,21 +131,6 @@
           "name": "Morsa della cupidigia: Standard",
           "period": "2026-08-25T12:59:03Z",
           "instanceId": "17152848392"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-25T11:44:57Z",
-          "instanceId": "17152787683"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-25T11:34:15Z",
-          "instanceId": "17152783728"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-25T11:22:18Z",
-          "instanceId": "17152775896"
         }
       ]
     },
@@ -138,12 +203,12 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787671358000,
+      "lastPlayedTimestamp": 1787676128000,
       "lastActivityTimestamp": 1787667436000,
       "lastActivityText": "Bis: Personalizzata il 25/08/2026 14:17",
       "activities": [
@@ -261,71 +326,6 @@
           "name": "La caduta di un Re: Maestro",
           "period": "2026-08-24T17:41:34Z",
           "instanceId": "17151701172"
-        }
-      ]
-    },
-    {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 549,
-      "lastPlayedTimestamp": 1787671264000,
-      "lastActivityTimestamp": 1787654355000,
-      "lastActivityText": "Tronomondo di Savathûn il 25/08/2026 10:39",
-      "activities": [
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-25T10:39:15Z",
-          "instanceId": "17152766862"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-25T09:24:35Z",
-          "instanceId": "17152728228"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-24T16:57:00Z",
-          "instanceId": "17151660154"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-24T16:43:38Z",
-          "instanceId": "17151616798"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-24T16:18:47Z",
-          "instanceId": "17151603570"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-24T15:56:16Z",
-          "instanceId": "17151570575"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-18T10:39:39Z",
-          "instanceId": "17141322007"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-18T10:04:22Z",
-          "instanceId": "17141308600"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-18T09:53:37Z",
-          "instanceId": "17141289087"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-17T15:28:36Z",
-          "instanceId": "17139916634"
         }
       ]
     },
