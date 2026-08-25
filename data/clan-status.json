@@ -1,22 +1,162 @@
 {
-  "generatedAt": "2026-08-25T16:42:21.770Z",
+  "generatedAt": "2026-08-25T17:35:44.068Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
+      "powerLevel": 334,
+      "lastPlayedTimestamp": 1787679311000,
+      "lastActivityTimestamp": 1787678307000,
+      "lastActivityText": "Resistenza crescente il 25/08/2026 17:18",
+      "activities": [
+        {
+          "name": "Resistenza crescente",
+          "period": "2026-08-25T17:18:27Z",
+          "instanceId": "17153110165"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-25T17:16:50Z",
+          "instanceId": "17153105605"
+        },
+        {
+          "name": "La nuova Kell",
+          "period": "2026-08-25T17:10:31Z",
+          "instanceId": "17153104090"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-25T17:07:10Z",
+          "instanceId": "17153098573"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-08-25T16:53:53Z",
+          "instanceId": "17153085015"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-08-24T20:55:50Z",
+          "instanceId": "17151968840"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-08-24T20:32:43Z",
+          "instanceId": "17151984982"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-24T19:46:21Z",
+          "instanceId": "17151870236"
+        },
+        {
+          "name": "La caduta di un Re: Maestro",
+          "period": "2026-08-24T18:56:05Z",
+          "instanceId": "17151791477"
+        },
+        {
+          "name": "La caduta di un Re: Maestro",
+          "period": "2026-08-24T17:41:34Z",
+          "instanceId": "17151701172"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 541,
+      "lastPlayedTimestamp": 1787679316000,
+      "lastActivityTimestamp": 1787678307000,
+      "lastActivityText": "Resistenza crescente il 25/08/2026 17:18",
+      "activities": [
+        {
+          "name": "Resistenza crescente",
+          "period": "2026-08-25T17:18:27Z",
+          "instanceId": "17153110165"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-25T17:16:50Z",
+          "instanceId": "17153105605"
+        },
+        {
+          "name": "La nuova Kell",
+          "period": "2026-08-25T17:10:31Z",
+          "instanceId": "17153104090"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-25T17:07:10Z",
+          "instanceId": "17153098573"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-08-25T16:53:53Z",
+          "instanceId": "17153085015"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-25T11:31:17Z",
+          "instanceId": "17152780893"
+        },
+        {
+          "name": "Comando del Vespro: Maestro",
+          "period": "2026-08-25T11:05:21Z",
+          "instanceId": "17152783450"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-08-25T11:01:12Z",
+          "instanceId": "17152754342"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-08-25T10:11:53Z",
+          "instanceId": "17152737611"
+        },
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-08-25T09:06:32Z",
+          "instanceId": "17152715022"
+        }
+      ]
+    },
+    {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787675985000,
-      "lastActivityTimestamp": 1787675213000,
-      "lastActivityText": "Partita veloce: Normale il 25/08/2026 16:26",
+      "lastPlayedTimestamp": 1787678451000,
+      "lastActivityTimestamp": 1787677548000,
+      "lastActivityText": "Sepolcro: Maestro il 25/08/2026 17:05",
       "activities": [
+        {
+          "name": "Sepolcro: Maestro",
+          "period": "2026-08-25T17:05:48Z",
+          "instanceId": "17153107704"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-25T16:52:50Z",
+          "instanceId": "17153093858"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-08-25T16:26:53Z",
@@ -56,16 +196,71 @@
           "name": "Partita veloce: Normale",
           "period": "2026-08-18T10:39:39Z",
           "instanceId": "17141322007"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787677415000,
+      "lastActivityTimestamp": 1787675266000,
+      "lastActivityText": "Liminalità: Personalizzata il 25/08/2026 16:27",
+      "activities": [
+        {
+          "name": "Liminalità: Personalizzata",
+          "period": "2026-08-25T16:27:46Z",
+          "instanceId": "17153069451"
         },
         {
-          "name": "Conservazione",
-          "period": "2026-08-18T10:04:22Z",
-          "instanceId": "17141308600"
+          "name": "Bis: Personalizzata",
+          "period": "2026-08-25T14:17:16Z",
+          "instanceId": "17152984400"
         },
         {
-          "name": "Conservazione",
-          "period": "2026-08-18T09:53:37Z",
-          "instanceId": "17141289087"
+          "name": "Lega Gare di Astori",
+          "period": "2026-08-25T14:07:47Z",
+          "instanceId": "17152913857"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-08-25T13:16:44Z",
+          "instanceId": "17152905003"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-25T13:08:37Z",
+          "instanceId": "17152860086"
+        },
+        {
+          "name": "Iconoclastia: Normale",
+          "period": "2026-08-25T12:47:34Z",
+          "instanceId": "17152848290"
+        },
+        {
+          "name": "Oblazione: Immolazione",
+          "period": "2026-08-24T17:49:49Z",
+          "instanceId": "17151726357"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-08-24T17:18:49Z",
+          "instanceId": "17151674322"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-08-24T16:54:09Z",
+          "instanceId": "17151639697"
+        },
+        {
+          "name": "Campi di battaglia: Condotto: Personalizzata",
+          "period": "2026-08-24T16:26:24Z",
+          "instanceId": "17151614051"
         }
       ]
     },
@@ -73,12 +268,12 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787676061000,
+      "lastPlayedTimestamp": 1787677449000,
       "lastActivityTimestamp": 1787674729000,
       "lastActivityText": "La culla del male: Personalizzata il 25/08/2026 16:18",
       "activities": [
@@ -200,136 +395,6 @@
       ]
     },
     {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787676128000,
-      "lastActivityTimestamp": 1787667436000,
-      "lastActivityText": "Bis: Personalizzata il 25/08/2026 14:17",
-      "activities": [
-        {
-          "name": "Bis: Personalizzata",
-          "period": "2026-08-25T14:17:16Z",
-          "instanceId": "17152984400"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-08-25T14:07:47Z",
-          "instanceId": "17152913857"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-08-25T13:16:44Z",
-          "instanceId": "17152905003"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-25T13:08:37Z",
-          "instanceId": "17152860086"
-        },
-        {
-          "name": "Iconoclastia: Normale",
-          "period": "2026-08-25T12:47:34Z",
-          "instanceId": "17152848290"
-        },
-        {
-          "name": "Oblazione: Immolazione",
-          "period": "2026-08-24T17:49:49Z",
-          "instanceId": "17151726357"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-08-24T17:18:49Z",
-          "instanceId": "17151674322"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-08-24T16:54:09Z",
-          "instanceId": "17151639697"
-        },
-        {
-          "name": "Campi di battaglia: Condotto: Personalizzata",
-          "period": "2026-08-24T16:26:24Z",
-          "instanceId": "17151614051"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-08-24T14:53:51Z",
-          "instanceId": "17151512069"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 516,
-      "lastPlayedTimestamp": 1787657855000,
-      "lastActivityTimestamp": 1787657477000,
-      "lastActivityText": "Poligono di Tiro il 25/08/2026 11:31",
-      "activities": [
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-25T11:31:17Z",
-          "instanceId": "17152780893"
-        },
-        {
-          "name": "Comando del Vespro: Maestro",
-          "period": "2026-08-25T11:05:21Z",
-          "instanceId": "17152783450"
-        },
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-08-25T11:01:12Z",
-          "instanceId": "17152754342"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-25T10:11:53Z",
-          "instanceId": "17152737611"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-08-25T09:06:32Z",
-          "instanceId": "17152715022"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-08-24T20:55:50Z",
-          "instanceId": "17151968840"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-08-24T20:32:43Z",
-          "instanceId": "17151984982"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-24T19:46:21Z",
-          "instanceId": "17151870236"
-        },
-        {
-          "name": "La caduta di un Re: Maestro",
-          "period": "2026-08-24T18:56:05Z",
-          "instanceId": "17151791477"
-        },
-        {
-          "name": "La caduta di un Re: Maestro",
-          "period": "2026-08-24T17:41:34Z",
-          "instanceId": "17151701172"
-        }
-      ]
-    },
-    {
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
       "bungieNetMembershipId": "",
@@ -391,71 +456,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-08-03T21:07:04Z",
           "instanceId": "17111273174"
-        }
-      ]
-    },
-    {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
-      "powerLevel": 380,
-      "lastPlayedTimestamp": 1787608503000,
-      "lastActivityTimestamp": 1787604950000,
-      "lastActivityText": "Volta di Vetro: Standard il 24/08/2026 20:55",
-      "activities": [
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-08-24T20:55:50Z",
-          "instanceId": "17151968840"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-08-24T20:32:43Z",
-          "instanceId": "17151984982"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-24T19:46:21Z",
-          "instanceId": "17151870236"
-        },
-        {
-          "name": "La caduta di un Re: Maestro",
-          "period": "2026-08-24T18:56:05Z",
-          "instanceId": "17151791477"
-        },
-        {
-          "name": "La caduta di un Re: Maestro",
-          "period": "2026-08-24T17:41:34Z",
-          "instanceId": "17151701172"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-24T17:30:50Z",
-          "instanceId": "17151665390"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-08-24T17:09:37Z",
-          "instanceId": "17151636846"
-        },
-        {
-          "name": "Misure disperate: Normale",
-          "period": "2026-08-24T16:40:31Z",
-          "instanceId": "17151625441"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-08-24T16:37:47Z",
-          "instanceId": "17151600495"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-24T16:33:21Z",
-          "instanceId": "17151596878"
         }
       ]
     },
