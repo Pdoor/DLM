@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T11:55:53.865Z",
+  "generatedAt": "2026-08-25T12:58:00.259Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,7 +13,7 @@
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787658795000,
+      "lastPlayedTimestamp": 1787662625000,
       "lastActivityTimestamp": 1787658297000,
       "lastActivityText": "Morsa della cupidigia: Standard il 25/08/2026 11:44",
       "activities": [
@@ -143,7 +143,7 @@
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 543,
-      "lastPlayedTimestamp": 1787658404000,
+      "lastPlayedTimestamp": 1787662616000,
       "lastActivityTimestamp": 1787654355000,
       "lastActivityText": "Tronomondo di Savathûn il 25/08/2026 10:39",
       "activities": [
@@ -391,6 +391,71 @@
           "name": "Europa",
           "period": "2026-08-24T16:33:21Z",
           "instanceId": "17151596878"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787662637000,
+      "lastActivityTimestamp": 1787593789000,
+      "lastActivityText": "Oblazione: Immolazione il 24/08/2026 17:49",
+      "activities": [
+        {
+          "name": "Oblazione: Immolazione",
+          "period": "2026-08-24T17:49:49Z",
+          "instanceId": "17151726357"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-08-24T17:18:49Z",
+          "instanceId": "17151674322"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-08-24T16:54:09Z",
+          "instanceId": "17151639697"
+        },
+        {
+          "name": "Campi di battaglia: Condotto: Personalizzata",
+          "period": "2026-08-24T16:26:24Z",
+          "instanceId": "17151614051"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-08-24T14:53:51Z",
+          "instanceId": "17151512069"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-08-24T14:27:29Z",
+          "instanceId": "17151488612"
+        },
+        {
+          "name": "Campi di battaglia: Condotto: Personalizzata",
+          "period": "2026-08-24T14:24:49Z",
+          "instanceId": "17151461972"
+        },
+        {
+          "name": "Campi di battaglia: Condotto: Personalizzata",
+          "period": "2026-08-24T14:21:41Z",
+          "instanceId": "17151460133"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-24T14:01:48Z",
+          "instanceId": "17151457445"
+        },
+        {
+          "name": "Spirale invertita",
+          "period": "2026-08-22T16:52:53Z",
+          "instanceId": "17148197146"
         }
       ]
     },
@@ -728,7 +793,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787510582000,
+      "lastPlayedTimestamp": 1787662609000,
       "lastActivityTimestamp": 1786976920000,
       "lastActivityText": "La Città Sognante il 17/08/2026 14:28",
       "activities": [
@@ -846,71 +911,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-31T16:34:38Z",
           "instanceId": "17103221376"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787658934000,
-      "lastActivityTimestamp": 1786528503000,
-      "lastActivityText": "Caccia all'incubo: disperazione: Esperto il 12/08/2026 09:55",
-      "activities": [
-        {
-          "name": "Caccia all'incubo: disperazione: Esperto",
-          "period": "2026-08-12T09:55:03Z",
-          "instanceId": "17129900945"
-        },
-        {
-          "name": "Caccia all'incubo: terrore: Maestro",
-          "period": "2026-08-12T09:53:51Z",
-          "instanceId": "17129883633"
-        },
-        {
-          "name": "Caccia all'incubo: terrore: Maestro",
-          "period": "2026-08-12T09:52:32Z",
-          "instanceId": "17129882857"
-        },
-        {
-          "name": "Caccia all'incubo: furia: Esperto",
-          "period": "2026-08-12T09:43:07Z",
-          "instanceId": "17129881548"
-        },
-        {
-          "name": "Caccia all'incubo: furia: Avanzata",
-          "period": "2026-08-12T09:38:56Z",
-          "instanceId": "17129877101"
-        },
-        {
-          "name": "Caccia all'incubo: furia: Esperto",
-          "period": "2026-08-12T09:27:26Z",
-          "instanceId": "17129865845"
-        },
-        {
-          "name": "Trafficante d'armi",
-          "period": "2026-08-12T08:57:03Z",
-          "instanceId": "17129858285"
-        },
-        {
-          "name": "Caccia all'incubo: furia: Esperto",
-          "period": "2026-08-12T08:26:42Z",
-          "instanceId": "17129831956"
-        },
-        {
-          "name": "Primo contatto: Avanzata",
-          "period": "2026-08-12T07:56:36Z",
-          "instanceId": "17129809706"
-        },
-        {
-          "name": "La disonorata",
-          "period": "2026-08-12T07:42:57Z",
-          "instanceId": "17129784196"
         }
       ]
     },
