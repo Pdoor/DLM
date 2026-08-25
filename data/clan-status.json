@@ -1,74 +1,9 @@
 {
-  "generatedAt": "2026-08-25T13:56:17.775Z",
+  "generatedAt": "2026-08-25T14:52:27.858Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1787665980000,
-      "lastActivityTimestamp": 1787664905000,
-      "lastActivityText": "D.A.G.A. caduta: Con matchmaking il 25/08/2026 13:35",
-      "activities": [
-        {
-          "name": "D.A.G.A. caduta: Con matchmaking",
-          "period": "2026-08-25T13:35:05Z",
-          "instanceId": "17152887360"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-25T13:04:55Z",
-          "instanceId": "17152860062"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-25T12:59:03Z",
-          "instanceId": "17152848392"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-25T11:44:57Z",
-          "instanceId": "17152787683"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-25T11:34:15Z",
-          "instanceId": "17152783728"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-25T11:22:18Z",
-          "instanceId": "17152775896"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-25T11:15:27Z",
-          "instanceId": "17152767556"
-        },
-        {
-          "name": "Fortezza della Guida: Con matchmaking",
-          "period": "2026-08-25T09:19:43Z",
-          "instanceId": "17152701632"
-        },
-        {
-          "name": "D.A.G.A. caduta: Con matchmaking",
-          "period": "2026-08-25T08:48:20Z",
-          "instanceId": "17152679408"
-        },
-        {
-          "name": "D.A.G.A. caduta: Con matchmaking",
-          "period": "2026-08-25T08:32:08Z",
-          "instanceId": "17152669313"
-        }
-      ]
-    },
     {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
@@ -78,10 +13,20 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787665988000,
-      "lastActivityTimestamp": 1787663317000,
-      "lastActivityText": "Pallido Cuore il 25/08/2026 13:08",
+      "lastPlayedTimestamp": 1787669331000,
+      "lastActivityTimestamp": 1787666867000,
+      "lastActivityText": "Lega Gare di Astori il 25/08/2026 14:07",
       "activities": [
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-08-25T14:07:47Z",
+          "instanceId": "17152913857"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-08-25T13:16:44Z",
+          "instanceId": "17152905003"
+        },
         {
           "name": "Pallido Cuore",
           "period": "2026-08-25T13:08:37Z",
@@ -121,16 +66,71 @@
           "name": "Campo di battaglia Colpo: Luna: Personalizzata",
           "period": "2026-08-24T14:27:29Z",
           "instanceId": "17151488612"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1787669379000,
+      "lastActivityTimestamp": 1787666867000,
+      "lastActivityText": "Lega Gare di Astori il 25/08/2026 14:07",
+      "activities": [
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-08-25T14:07:47Z",
+          "instanceId": "17152913857"
         },
         {
-          "name": "Campi di battaglia: Condotto: Personalizzata",
-          "period": "2026-08-24T14:24:49Z",
-          "instanceId": "17151461972"
+          "name": "D.A.G.A. caduta: Con matchmaking",
+          "period": "2026-08-25T13:35:05Z",
+          "instanceId": "17152887360"
         },
         {
-          "name": "Campi di battaglia: Condotto: Personalizzata",
-          "period": "2026-08-24T14:21:41Z",
-          "instanceId": "17151460133"
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-08-25T13:16:44Z",
+          "instanceId": "17152905003"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-08-25T13:04:55Z",
+          "instanceId": "17152860062"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-25T12:59:03Z",
+          "instanceId": "17152848392"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-25T11:44:57Z",
+          "instanceId": "17152787683"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-08-25T11:34:15Z",
+          "instanceId": "17152783728"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-25T11:22:18Z",
+          "instanceId": "17152775896"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-25T11:15:27Z",
+          "instanceId": "17152767556"
+        },
+        {
+          "name": "Fortezza della Guida: Con matchmaking",
+          "period": "2026-08-25T09:19:43Z",
+          "instanceId": "17152701632"
         }
       ]
     },
@@ -207,8 +207,8 @@
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1787666153000,
+      "powerLevel": 549,
+      "lastPlayedTimestamp": 1787668978000,
       "lastActivityTimestamp": 1787654355000,
       "lastActivityText": "Tronomondo di Savathûn il 25/08/2026 10:39",
       "activities": [
