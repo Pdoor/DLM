@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T19:35:59.558Z",
+  "generatedAt": "2026-08-25T20:34:12.005Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
       "powerLevel": 549,
-      "lastPlayedTimestamp": 1787686416000,
-      "lastActivityTimestamp": 1787683501000,
-      "lastActivityText": "Destino diadico il 25/08/2026 18:45",
+      "lastPlayedTimestamp": 1787687366000,
+      "lastActivityTimestamp": 1787684945000,
+      "lastActivityText": "Destino diadico il 25/08/2026 19:09",
       "activities": [
+        {
+          "name": "Destino diadico",
+          "period": "2026-08-25T19:09:05Z",
+          "instanceId": "17153255161"
+        },
         {
           "name": "Destino diadico",
           "period": "2026-08-25T18:45:01Z",
@@ -61,11 +66,6 @@
           "name": "Resistenza crescente",
           "period": "2026-08-25T17:18:27Z",
           "instanceId": "17153110165"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-25T17:16:50Z",
-          "instanceId": "17153105605"
         }
       ]
     },
