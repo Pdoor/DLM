@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T20:34:12.005Z",
+  "generatedAt": "2026-08-25T21:33:22.626Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -63,9 +63,9 @@
           "instanceId": "17153132492"
         },
         {
-          "name": "Resistenza crescente",
-          "period": "2026-08-25T17:18:27Z",
-          "instanceId": "17153110165"
+          "name": "Soglia dell'Oscurità",
+          "period": "2026-08-25T16:58:15Z",
+          "instanceId": "17153337067"
         }
       ]
     },
@@ -128,9 +128,9 @@
           "instanceId": "17153104090"
         },
         {
-          "name": "Europa",
-          "period": "2026-08-25T17:07:10Z",
-          "instanceId": "17153098573"
+          "name": "Soglia dell'Oscurità",
+          "period": "2026-08-25T16:58:15Z",
+          "instanceId": "17153337067"
         }
       ]
     },
@@ -330,71 +330,6 @@
       ]
     },
     {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1787672126000,
-      "lastActivityTimestamp": 1787671387000,
-      "lastActivityText": "Dualità: Standard il 25/08/2026 15:23",
-      "activities": [
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-25T15:23:07Z",
-          "instanceId": "17152997843"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-08-25T00:03:19Z",
-          "instanceId": "17152250552"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-24T23:39:44Z",
-          "instanceId": "17152113129"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-24T23:27:44Z",
-          "instanceId": "17152090746"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-24T23:16:41Z",
-          "instanceId": "17152075580"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-24T23:10:57Z",
-          "instanceId": "17152068593"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-24T23:04:03Z",
-          "instanceId": "17152061052"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-24T22:50:23Z",
-          "instanceId": "17152044057"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-24T22:29:03Z",
-          "instanceId": "17152015881"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-24T16:48:04Z",
-          "instanceId": "17151612256"
-        }
-      ]
-    },
-    {
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
       "bungieNetMembershipId": "",
@@ -521,6 +456,71 @@
           "name": "Ultima occasione: Normale",
           "period": "2026-08-23T17:50:25Z",
           "instanceId": "17150520061"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 544,
+      "lastPlayedTimestamp": 1787693488000,
+      "lastActivityTimestamp": 1787580163000,
+      "lastActivityText": "Azzardo: Con matchmaking il 24/08/2026 14:02",
+      "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-24T14:02:43Z",
+          "instanceId": "17151446373"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-24T13:53:45Z",
+          "instanceId": "17151437225"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-24T13:45:42Z",
+          "instanceId": "17151429043"
+        },
+        {
+          "name": "Periferia di Libernia, Marte: Sabotaggio: Con matchmaking",
+          "period": "2026-08-24T13:39:02Z",
+          "instanceId": "17151443227"
+        },
+        {
+          "name": "Adamantide, Europa: Caccia alle taglie: Con matchmaking",
+          "period": "2026-08-24T13:31:51Z",
+          "instanceId": "17151432845"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-24T00:24:27Z",
+          "instanceId": "17150708769"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-24T00:10:57Z",
+          "instanceId": "17150704156"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-23T23:59:35Z",
+          "instanceId": "17150685261"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-23T23:47:49Z",
+          "instanceId": "17150669435"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-23T22:22:58Z",
+          "instanceId": "17150864651"
         }
       ]
     },
