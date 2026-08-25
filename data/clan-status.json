@@ -1,22 +1,102 @@
 {
-  "generatedAt": "2026-08-25T11:00:40.531Z",
+  "generatedAt": "2026-08-25T11:55:53.865Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1787658795000,
+      "lastActivityTimestamp": 1787658297000,
+      "lastActivityText": "Morsa della cupidigia: Standard il 25/08/2026 11:44",
+      "activities": [
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-25T11:44:57Z",
+          "instanceId": "17152787683"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-08-25T11:34:15Z",
+          "instanceId": "17152783728"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-25T11:22:18Z",
+          "instanceId": "17152775896"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-25T11:15:27Z",
+          "instanceId": "17152767556"
+        },
+        {
+          "name": "Fortezza della Guida: Con matchmaking",
+          "period": "2026-08-25T09:19:43Z",
+          "instanceId": "17152701632"
+        },
+        {
+          "name": "D.A.G.A. caduta: Con matchmaking",
+          "period": "2026-08-25T08:48:20Z",
+          "instanceId": "17152679408"
+        },
+        {
+          "name": "D.A.G.A. caduta: Con matchmaking",
+          "period": "2026-08-25T08:32:08Z",
+          "instanceId": "17152669313"
+        },
+        {
+          "name": "Campi di battaglia: Condotto: Con matchmaking",
+          "period": "2026-08-25T06:47:14Z",
+          "instanceId": "17152597122"
+        },
+        {
+          "name": "Fortezza della Guida: Con matchmaking",
+          "period": "2026-08-25T06:29:46Z",
+          "instanceId": "17152586128"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-25T06:24:55Z",
+          "instanceId": "17152574344"
+        }
+      ]
+    },
+    {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 518,
-      "lastPlayedTimestamp": 1787655599000,
-      "lastActivityTimestamp": 1787652713000,
-      "lastActivityText": "Equilibrio: Standard il 25/08/2026 10:11",
+      "powerLevel": 516,
+      "lastPlayedTimestamp": 1787657855000,
+      "lastActivityTimestamp": 1787657477000,
+      "lastActivityText": "Poligono di Tiro il 25/08/2026 11:31",
       "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-25T11:31:17Z",
+          "instanceId": "17152780893"
+        },
+        {
+          "name": "Comando del Vespro: Maestro",
+          "period": "2026-08-25T11:05:21Z",
+          "instanceId": "17152783450"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-08-25T11:01:12Z",
+          "instanceId": "17152754342"
+        },
         {
           "name": "Equilibrio: Standard",
           "period": "2026-08-25T10:11:53Z",
@@ -51,21 +131,6 @@
           "name": "La caduta di un Re: Maestro",
           "period": "2026-08-24T17:41:34Z",
           "instanceId": "17151701172"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-24T17:30:50Z",
-          "instanceId": "17151665390"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-08-24T13:00:17Z",
-          "instanceId": "17151416010"
-        },
-        {
-          "name": "Rovesciamento",
-          "period": "2026-08-24T08:55:39Z",
-          "instanceId": "17151399863"
         }
       ]
     },
@@ -78,10 +143,15 @@
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 543,
-      "lastPlayedTimestamp": 1787655585000,
-      "lastActivityTimestamp": 1787649875000,
-      "lastActivityText": "Conservazione il 25/08/2026 09:24",
+      "lastPlayedTimestamp": 1787658404000,
+      "lastActivityTimestamp": 1787654355000,
+      "lastActivityText": "Tronomondo di Savathûn il 25/08/2026 10:39",
       "activities": [
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-25T10:39:15Z",
+          "instanceId": "17152766862"
+        },
         {
           "name": "Conservazione",
           "period": "2026-08-25T09:24:35Z",
@@ -126,76 +196,6 @@
           "name": "Conservazione",
           "period": "2026-08-17T15:28:36Z",
           "instanceId": "17139916634"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-17T15:10:40Z",
-          "instanceId": "17139888694"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1787655509000,
-      "lastActivityTimestamp": 1787649583000,
-      "lastActivityText": "Fortezza della Guida: Con matchmaking il 25/08/2026 09:19",
-      "activities": [
-        {
-          "name": "Fortezza della Guida: Con matchmaking",
-          "period": "2026-08-25T09:19:43Z",
-          "instanceId": "17152701632"
-        },
-        {
-          "name": "D.A.G.A. caduta: Con matchmaking",
-          "period": "2026-08-25T08:48:20Z",
-          "instanceId": "17152679408"
-        },
-        {
-          "name": "D.A.G.A. caduta: Con matchmaking",
-          "period": "2026-08-25T08:32:08Z",
-          "instanceId": "17152669313"
-        },
-        {
-          "name": "Campi di battaglia: Condotto: Con matchmaking",
-          "period": "2026-08-25T06:47:14Z",
-          "instanceId": "17152597122"
-        },
-        {
-          "name": "Fortezza della Guida: Con matchmaking",
-          "period": "2026-08-25T06:29:46Z",
-          "instanceId": "17152586128"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-25T06:24:55Z",
-          "instanceId": "17152574344"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-25T06:18:29Z",
-          "instanceId": "17152570752"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-23T07:43:54Z",
-          "instanceId": "17149411874"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-23T07:36:58Z",
-          "instanceId": "17149404940"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-23T07:31:23Z",
-          "instanceId": "17149397999"
         }
       ]
     },
@@ -391,71 +391,6 @@
           "name": "Europa",
           "period": "2026-08-24T16:33:21Z",
           "instanceId": "17151596878"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787596472000,
-      "lastActivityTimestamp": 1787593789000,
-      "lastActivityText": "Oblazione: Immolazione il 24/08/2026 17:49",
-      "activities": [
-        {
-          "name": "Oblazione: Immolazione",
-          "period": "2026-08-24T17:49:49Z",
-          "instanceId": "17151726357"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-08-24T17:18:49Z",
-          "instanceId": "17151674322"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-08-24T16:54:09Z",
-          "instanceId": "17151639697"
-        },
-        {
-          "name": "Campi di battaglia: Condotto: Personalizzata",
-          "period": "2026-08-24T16:26:24Z",
-          "instanceId": "17151614051"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-08-24T14:53:51Z",
-          "instanceId": "17151512069"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-08-24T14:27:29Z",
-          "instanceId": "17151488612"
-        },
-        {
-          "name": "Campi di battaglia: Condotto: Personalizzata",
-          "period": "2026-08-24T14:24:49Z",
-          "instanceId": "17151461972"
-        },
-        {
-          "name": "Campi di battaglia: Condotto: Personalizzata",
-          "period": "2026-08-24T14:21:41Z",
-          "instanceId": "17151460133"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-24T14:01:48Z",
-          "instanceId": "17151457445"
-        },
-        {
-          "name": "Spirale invertita",
-          "period": "2026-08-22T16:52:53Z",
-          "instanceId": "17148197146"
         }
       ]
     },
@@ -911,6 +846,71 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-07-31T16:34:38Z",
           "instanceId": "17103221376"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787658934000,
+      "lastActivityTimestamp": 1786528503000,
+      "lastActivityText": "Caccia all'incubo: disperazione: Esperto il 12/08/2026 09:55",
+      "activities": [
+        {
+          "name": "Caccia all'incubo: disperazione: Esperto",
+          "period": "2026-08-12T09:55:03Z",
+          "instanceId": "17129900945"
+        },
+        {
+          "name": "Caccia all'incubo: terrore: Maestro",
+          "period": "2026-08-12T09:53:51Z",
+          "instanceId": "17129883633"
+        },
+        {
+          "name": "Caccia all'incubo: terrore: Maestro",
+          "period": "2026-08-12T09:52:32Z",
+          "instanceId": "17129882857"
+        },
+        {
+          "name": "Caccia all'incubo: furia: Esperto",
+          "period": "2026-08-12T09:43:07Z",
+          "instanceId": "17129881548"
+        },
+        {
+          "name": "Caccia all'incubo: furia: Avanzata",
+          "period": "2026-08-12T09:38:56Z",
+          "instanceId": "17129877101"
+        },
+        {
+          "name": "Caccia all'incubo: furia: Esperto",
+          "period": "2026-08-12T09:27:26Z",
+          "instanceId": "17129865845"
+        },
+        {
+          "name": "Trafficante d'armi",
+          "period": "2026-08-12T08:57:03Z",
+          "instanceId": "17129858285"
+        },
+        {
+          "name": "Caccia all'incubo: furia: Esperto",
+          "period": "2026-08-12T08:26:42Z",
+          "instanceId": "17129831956"
+        },
+        {
+          "name": "Primo contatto: Avanzata",
+          "period": "2026-08-12T07:56:36Z",
+          "instanceId": "17129809706"
+        },
+        {
+          "name": "La disonorata",
+          "period": "2026-08-12T07:42:57Z",
+          "instanceId": "17129784196"
         }
       ]
     },
