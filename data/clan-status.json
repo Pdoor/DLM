@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T01:35:27.807Z",
+  "generatedAt": "2026-08-25T03:03:19.984Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787621672000,
-      "lastActivityTimestamp": 1787614784000,
-      "lastActivityText": "Dualità: Standard il 24/08/2026 23:39",
+      "lastPlayedTimestamp": 1787621907000,
+      "lastActivityTimestamp": 1787616199000,
+      "lastActivityText": "Deserto perpetuo: Standard il 25/08/2026 00:03",
       "activities": [
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-08-25T00:03:19Z",
+          "instanceId": "17152250552"
+        },
         {
           "name": "Dualità: Standard",
           "period": "2026-08-24T23:39:44Z",
@@ -61,11 +66,6 @@
           "name": "Dualità: Standard",
           "period": "2026-08-24T16:17:12Z",
           "instanceId": "17151587830"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-24T16:05:52Z",
-          "instanceId": "17151575646"
         }
       ]
     },
