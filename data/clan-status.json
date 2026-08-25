@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T08:08:45.127Z",
+  "generatedAt": "2026-08-25T09:09:16.707Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787641266000,
-      "lastActivityTimestamp": 1787640434000,
-      "lastActivityText": "Campi di battaglia: Condotto: Con matchmaking il 25/08/2026 06:47",
+      "lastPlayedTimestamp": 1787648813000,
+      "lastActivityTimestamp": 1787647700000,
+      "lastActivityText": "D.A.G.A. caduta: Con matchmaking il 25/08/2026 08:48",
       "activities": [
+        {
+          "name": "D.A.G.A. caduta: Con matchmaking",
+          "period": "2026-08-25T08:48:20Z",
+          "instanceId": "17152679408"
+        },
+        {
+          "name": "D.A.G.A. caduta: Con matchmaking",
+          "period": "2026-08-25T08:32:08Z",
+          "instanceId": "17152669313"
+        },
         {
           "name": "Campi di battaglia: Condotto: Con matchmaking",
           "period": "2026-08-25T06:47:14Z",
@@ -56,16 +66,6 @@
           "name": "Morsa della cupidigia: Standard",
           "period": "2026-08-23T07:25:08Z",
           "instanceId": "17149392680"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-23T07:11:35Z",
-          "instanceId": "17149382691"
-        },
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-08-23T06:52:13Z",
-          "instanceId": "17149371222"
         }
       ]
     },
@@ -268,12 +268,12 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
       "powerLevel": 549,
-      "lastPlayedTimestamp": 1787608438000,
+      "lastPlayedTimestamp": 1787648912000,
       "lastActivityTimestamp": 1787604950000,
       "lastActivityText": "Volta di Vetro: Standard il 24/08/2026 20:55",
       "activities": [
@@ -402,8 +402,8 @@
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787645212000,
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1787647734000,
       "lastActivityTimestamp": 1787590620000,
       "lastActivityText": "Conservazione il 24/08/2026 16:57",
       "activities": [
