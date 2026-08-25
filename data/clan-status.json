@@ -1,74 +1,9 @@
 {
-  "generatedAt": "2026-08-25T17:35:44.068Z",
+  "generatedAt": "2026-08-25T18:45:43.799Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
-    {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
-      "powerLevel": 334,
-      "lastPlayedTimestamp": 1787679311000,
-      "lastActivityTimestamp": 1787678307000,
-      "lastActivityText": "Resistenza crescente il 25/08/2026 17:18",
-      "activities": [
-        {
-          "name": "Resistenza crescente",
-          "period": "2026-08-25T17:18:27Z",
-          "instanceId": "17153110165"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-25T17:16:50Z",
-          "instanceId": "17153105605"
-        },
-        {
-          "name": "La nuova Kell",
-          "period": "2026-08-25T17:10:31Z",
-          "instanceId": "17153104090"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-25T17:07:10Z",
-          "instanceId": "17153098573"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-08-25T16:53:53Z",
-          "instanceId": "17153085015"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-08-24T20:55:50Z",
-          "instanceId": "17151968840"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-08-24T20:32:43Z",
-          "instanceId": "17151984982"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-24T19:46:21Z",
-          "instanceId": "17151870236"
-        },
-        {
-          "name": "La caduta di un Re: Maestro",
-          "period": "2026-08-24T18:56:05Z",
-          "instanceId": "17151791477"
-        },
-        {
-          "name": "La caduta di un Re: Maestro",
-          "period": "2026-08-24T17:41:34Z",
-          "instanceId": "17151701172"
-        }
-      ]
-    },
     {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
@@ -77,11 +12,106 @@
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 541,
-      "lastPlayedTimestamp": 1787679316000,
-      "lastActivityTimestamp": 1787678307000,
-      "lastActivityText": "Resistenza crescente il 25/08/2026 17:18",
+      "powerLevel": 549,
+      "lastPlayedTimestamp": 1787683530000,
+      "lastActivityTimestamp": 1787683057000,
+      "lastActivityText": "Destino diadico il 25/08/2026 18:37",
       "activities": [
+        {
+          "name": "Destino diadico",
+          "period": "2026-08-25T18:37:37Z",
+          "instanceId": "17153186397"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-25T18:25:17Z",
+          "instanceId": "17153181210"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-25T18:20:51Z",
+          "instanceId": "17153169526"
+        },
+        {
+          "name": "Il Tecnocrate",
+          "period": "2026-08-25T18:13:06Z",
+          "instanceId": "17153165246"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-25T17:53:57Z",
+          "instanceId": "17153158195"
+        },
+        {
+          "name": "La Guerriera",
+          "period": "2026-08-25T17:47:30Z",
+          "instanceId": "17153139137"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-25T17:23:21Z",
+          "instanceId": "17153132492"
+        },
+        {
+          "name": "Resistenza crescente",
+          "period": "2026-08-25T17:18:27Z",
+          "instanceId": "17153110165"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-25T17:16:50Z",
+          "instanceId": "17153105605"
+        },
+        {
+          "name": "La nuova Kell",
+          "period": "2026-08-25T17:10:31Z",
+          "instanceId": "17153104090"
+        }
+      ]
+    },
+    {
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
+      "powerLevel": 381,
+      "lastPlayedTimestamp": 1787682755000,
+      "lastActivityTimestamp": 1787682317000,
+      "lastActivityText": "Europa il 25/08/2026 18:25",
+      "activities": [
+        {
+          "name": "Europa",
+          "period": "2026-08-25T18:25:17Z",
+          "instanceId": "17153181210"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-25T18:20:51Z",
+          "instanceId": "17153169526"
+        },
+        {
+          "name": "Il Tecnocrate",
+          "period": "2026-08-25T18:13:06Z",
+          "instanceId": "17153165246"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-25T17:53:57Z",
+          "instanceId": "17153158195"
+        },
+        {
+          "name": "La Guerriera",
+          "period": "2026-08-25T17:47:30Z",
+          "instanceId": "17153139137"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-25T17:23:21Z",
+          "instanceId": "17153132492"
+        },
         {
           "name": "Resistenza crescente",
           "period": "2026-08-25T17:18:27Z",
@@ -101,36 +131,6 @@
           "name": "Europa",
           "period": "2026-08-25T17:07:10Z",
           "instanceId": "17153098573"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-08-25T16:53:53Z",
-          "instanceId": "17153085015"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-08-25T11:31:17Z",
-          "instanceId": "17152780893"
-        },
-        {
-          "name": "Comando del Vespro: Maestro",
-          "period": "2026-08-25T11:05:21Z",
-          "instanceId": "17152783450"
-        },
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-08-25T11:01:12Z",
-          "instanceId": "17152754342"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-25T10:11:53Z",
-          "instanceId": "17152737611"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-08-25T09:06:32Z",
-          "instanceId": "17152715022"
         }
       ]
     },
