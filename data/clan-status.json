@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T16:01:12.546Z",
+  "generatedAt": "2026-08-26T18:17:58.107Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,40 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787759592000,
-      "lastActivityTimestamp": 1787758621000,
-      "lastActivityText": "Conquista modalità esperto: Luna: Personalizzata il 26/08/2026 15:37",
+      "lastPlayedTimestamp": 1787767686000,
+      "lastActivityTimestamp": 1787766919000,
+      "lastActivityText": "La disonorata: Con matchmaking il 26/08/2026 17:55",
       "activities": [
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-08-26T17:55:19Z",
+          "instanceId": "17154413706"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-08-26T17:24:41Z",
+          "instanceId": "17154383551"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-26T17:06:41Z",
+          "instanceId": "17154370397"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-26T16:16:28Z",
+          "instanceId": "17154334988"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-26T16:02:56Z",
+          "instanceId": "17154307614"
+        },
         {
           "name": "Conquista modalità esperto: Luna: Personalizzata",
           "period": "2026-08-26T15:37:01Z",
@@ -41,31 +66,136 @@
           "name": "Trafficante d'armi: Personalizzata",
           "period": "2026-08-26T13:06:50Z",
           "instanceId": "17154182396"
+        }
+      ]
+    },
+    {
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
+      "powerLevel": 381,
+      "lastPlayedTimestamp": 1787768204000,
+      "lastActivityTimestamp": 1787765885000,
+      "lastActivityText": "Europa il 26/08/2026 17:38",
+      "activities": [
+        {
+          "name": "Europa",
+          "period": "2026-08-26T17:38:05Z",
+          "instanceId": "17154386792"
         },
         {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-26T12:55:00Z",
-          "instanceId": "17154145372"
+          "name": "Europa",
+          "period": "2026-08-26T17:32:46Z",
+          "instanceId": "17154384004"
         },
         {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-08-26T08:47:11Z",
-          "instanceId": "17154001838"
+          "name": "Europa",
+          "period": "2026-08-26T17:20:10Z",
+          "instanceId": "17154374690"
         },
         {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-08-26T08:12:55Z",
-          "instanceId": "17153985162"
+          "name": "Europa",
+          "period": "2026-08-26T17:14:51Z",
+          "instanceId": "17154363028"
         },
         {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-08-26T08:09:32Z",
-          "instanceId": "17153966107"
+          "name": "Europa",
+          "period": "2026-08-26T17:09:11Z",
+          "instanceId": "17154361010"
         },
         {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-08-26T07:59:12Z",
-          "instanceId": "17153959752"
+          "name": "Europa",
+          "period": "2026-08-26T17:04:18Z",
+          "instanceId": "17154355703"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-26T16:59:50Z",
+          "instanceId": "17154350857"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-26T16:46:03Z",
+          "instanceId": "17154344037"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-25T18:25:17Z",
+          "instanceId": "17153181210"
+        },
+        {
+          "name": "Soglia dell'Oscurità",
+          "period": "2026-08-25T16:58:15Z",
+          "instanceId": "17153337067"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Scrittrice spettrale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 546,
+      "lastPlayedTimestamp": 1787768262000,
+      "lastActivityTimestamp": 1787764810000,
+      "lastActivityText": "Europa il 26/08/2026 17:20",
+      "activities": [
+        {
+          "name": "Europa",
+          "period": "2026-08-26T17:20:10Z",
+          "instanceId": "17154374690"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-26T16:59:50Z",
+          "instanceId": "17154350857"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-26T16:46:03Z",
+          "instanceId": "17154344037"
+        },
+        {
+          "name": "Rovesciamento",
+          "period": "2026-08-26T11:07:08Z",
+          "instanceId": "17154162123"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-08-25T19:09:05Z",
+          "instanceId": "17153255161"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-08-25T18:45:01Z",
+          "instanceId": "17153213074"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-08-25T18:37:37Z",
+          "instanceId": "17153186397"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-25T18:25:17Z",
+          "instanceId": "17153181210"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-25T18:20:51Z",
+          "instanceId": "17153169526"
+        },
+        {
+          "name": "Soglia dell'Oscurità",
+          "period": "2026-08-25T16:58:15Z",
+          "instanceId": "17153337067"
         }
       ]
     },
@@ -131,136 +261,6 @@
           "name": "Cosmodromo",
           "period": "2026-08-24T22:50:23Z",
           "instanceId": "17152044057"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Scrittrice spettrale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 546,
-      "lastPlayedTimestamp": 1787748654000,
-      "lastActivityTimestamp": 1787742428000,
-      "lastActivityText": "Rovesciamento il 26/08/2026 11:07",
-      "activities": [
-        {
-          "name": "Rovesciamento",
-          "period": "2026-08-26T11:07:08Z",
-          "instanceId": "17154162123"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-08-25T19:09:05Z",
-          "instanceId": "17153255161"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-08-25T18:45:01Z",
-          "instanceId": "17153213074"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-08-25T18:37:37Z",
-          "instanceId": "17153186397"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-25T18:25:17Z",
-          "instanceId": "17153181210"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-25T18:20:51Z",
-          "instanceId": "17153169526"
-        },
-        {
-          "name": "Il Tecnocrate",
-          "period": "2026-08-25T18:13:06Z",
-          "instanceId": "17153165246"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-25T17:53:57Z",
-          "instanceId": "17153158195"
-        },
-        {
-          "name": "La Guerriera",
-          "period": "2026-08-25T17:47:30Z",
-          "instanceId": "17153139137"
-        },
-        {
-          "name": "Soglia dell'Oscurità",
-          "period": "2026-08-25T16:58:15Z",
-          "instanceId": "17153337067"
-        }
-      ]
-    },
-    {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
-      "powerLevel": 381,
-      "lastPlayedTimestamp": 1787682755000,
-      "lastActivityTimestamp": 1787682317000,
-      "lastActivityText": "Europa il 25/08/2026 18:25",
-      "activities": [
-        {
-          "name": "Europa",
-          "period": "2026-08-25T18:25:17Z",
-          "instanceId": "17153181210"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-25T18:20:51Z",
-          "instanceId": "17153169526"
-        },
-        {
-          "name": "Il Tecnocrate",
-          "period": "2026-08-25T18:13:06Z",
-          "instanceId": "17153165246"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-25T17:53:57Z",
-          "instanceId": "17153158195"
-        },
-        {
-          "name": "La Guerriera",
-          "period": "2026-08-25T17:47:30Z",
-          "instanceId": "17153139137"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-25T17:23:21Z",
-          "instanceId": "17153132492"
-        },
-        {
-          "name": "Resistenza crescente",
-          "period": "2026-08-25T17:18:27Z",
-          "instanceId": "17153110165"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-25T17:16:50Z",
-          "instanceId": "17153105605"
-        },
-        {
-          "name": "La nuova Kell",
-          "period": "2026-08-25T17:10:31Z",
-          "instanceId": "17153104090"
-        },
-        {
-          "name": "Soglia dell'Oscurità",
-          "period": "2026-08-25T16:58:15Z",
-          "instanceId": "17153337067"
         }
       ]
     },
@@ -793,7 +793,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787662609000,
+      "lastPlayedTimestamp": 1787764559000,
       "lastActivityTimestamp": 1786976920000,
       "lastActivityText": "La Città Sognante il 17/08/2026 14:28",
       "activities": [
