@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T06:01:09.877Z",
+  "generatedAt": "2026-08-26T07:26:45.253Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -265,71 +265,6 @@
       ]
     },
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1787677449000,
-      "lastActivityTimestamp": 1787674729000,
-      "lastActivityText": "La culla del male: Personalizzata il 25/08/2026 16:18",
-      "activities": [
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-08-25T16:18:49Z",
-          "instanceId": "17153064479"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-25T16:01:56Z",
-          "instanceId": "17153034626"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-08-25T15:32:11Z",
-          "instanceId": "17153000561"
-        },
-        {
-          "name": "D.A.G.A. caduta: Con matchmaking",
-          "period": "2026-08-25T15:30:37Z",
-          "instanceId": "17153025583"
-        },
-        {
-          "name": "Bis: Personalizzata",
-          "period": "2026-08-25T14:17:16Z",
-          "instanceId": "17152984400"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-08-25T14:07:47Z",
-          "instanceId": "17152913857"
-        },
-        {
-          "name": "D.A.G.A. caduta: Con matchmaking",
-          "period": "2026-08-25T13:35:05Z",
-          "instanceId": "17152887360"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-08-25T13:16:44Z",
-          "instanceId": "17152905003"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-25T13:04:55Z",
-          "instanceId": "17152860062"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-25T12:59:03Z",
-          "instanceId": "17152848392"
-        }
-      ]
-    },
-    {
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
       "bungieNetMembershipId": "",
@@ -456,6 +391,71 @@
           "name": "Ultima occasione: Normale",
           "period": "2026-08-23T17:50:25Z",
           "instanceId": "17150520061"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787729161000,
+      "lastActivityTimestamp": 1787583231000,
+      "lastActivityText": "La culla del male: Personalizzata il 24/08/2026 14:53",
+      "activities": [
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-08-24T14:53:51Z",
+          "instanceId": "17151512069"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-08-24T14:27:29Z",
+          "instanceId": "17151488612"
+        },
+        {
+          "name": "Campi di battaglia: Condotto: Personalizzata",
+          "period": "2026-08-24T14:24:49Z",
+          "instanceId": "17151461972"
+        },
+        {
+          "name": "Campi di battaglia: Condotto: Personalizzata",
+          "period": "2026-08-24T14:21:41Z",
+          "instanceId": "17151460133"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-24T14:01:48Z",
+          "instanceId": "17151457445"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-24T13:44:57Z",
+          "instanceId": "17151434400"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-08-24T12:53:19Z",
+          "instanceId": "17151390548"
+        },
+        {
+          "name": "La Guerriera: Con matchmaking",
+          "period": "2026-08-24T11:34:27Z",
+          "instanceId": "17151326919"
+        },
+        {
+          "name": "La Tana dei Diavoli: Personalizzata",
+          "period": "2026-08-24T10:37:38Z",
+          "instanceId": "17151292392"
+        },
+        {
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-08-24T10:01:35Z",
+          "instanceId": "17151267957"
         }
       ]
     },
