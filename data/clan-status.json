@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-26T14:12:58.176Z",
+  "generatedAt": "2026-08-26T16:01:12.546Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787759592000,
+      "lastActivityTimestamp": 1787758621000,
+      "lastActivityText": "Conquista modalità esperto: Luna: Personalizzata il 26/08/2026 15:37",
+      "activities": [
+        {
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-08-26T15:37:01Z",
+          "instanceId": "17154285772"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-26T15:09:52Z",
+          "instanceId": "17154262719"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-08-26T14:16:09Z",
+          "instanceId": "17154218535"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-26T14:09:10Z",
+          "instanceId": "17154197758"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-08-26T13:06:50Z",
+          "instanceId": "17154182396"
+        },
+        {
+          "name": "Volta di Vetro: Maestro",
+          "period": "2026-08-26T12:55:00Z",
+          "instanceId": "17154145372"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-08-26T08:47:11Z",
+          "instanceId": "17154001838"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-08-26T08:12:55Z",
+          "instanceId": "17153985162"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-08-26T08:09:32Z",
+          "instanceId": "17153966107"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-08-26T07:59:12Z",
+          "instanceId": "17153959752"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -66,71 +131,6 @@
           "name": "Cosmodromo",
           "period": "2026-08-24T22:50:23Z",
           "instanceId": "17152044057"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787753511000,
-      "lastActivityTimestamp": 1787749610000,
-      "lastActivityText": "Trafficante d'armi: Personalizzata il 26/08/2026 13:06",
-      "activities": [
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-08-26T13:06:50Z",
-          "instanceId": "17154182396"
-        },
-        {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-26T12:55:00Z",
-          "instanceId": "17154145372"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-08-26T08:47:11Z",
-          "instanceId": "17154001838"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-08-26T08:12:55Z",
-          "instanceId": "17153985162"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-08-26T08:09:32Z",
-          "instanceId": "17153966107"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-08-26T07:59:12Z",
-          "instanceId": "17153959752"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-08-26T07:46:47Z",
-          "instanceId": "17153952507"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-08-26T07:31:46Z",
-          "instanceId": "17153946445"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-08-24T14:53:51Z",
-          "instanceId": "17151512069"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-08-24T14:27:29Z",
-          "instanceId": "17151488612"
         }
       ]
     },
