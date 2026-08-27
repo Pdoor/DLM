@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T20:40:54.741Z",
+  "generatedAt": "2026-08-27T00:35:29.331Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
-      "powerLevel": 381,
-      "lastPlayedTimestamp": 1787776765000,
-      "lastActivityTimestamp": 1787776125000,
-      "lastActivityText": "Controllo: Con matchmaking il 26/08/2026 20:28",
+      "powerLevel": 390,
+      "lastPlayedTimestamp": 1787781961000,
+      "lastActivityTimestamp": 1787780710000,
+      "lastActivityText": "Controllo: Con matchmaking il 26/08/2026 21:45",
       "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-26T21:45:10Z",
+          "instanceId": "17154656164"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-26T21:38:05Z",
+          "instanceId": "17154647190"
+        },
         {
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-26T20:28:45Z",
@@ -56,16 +66,6 @@
           "name": "Europa",
           "period": "2026-08-26T18:37:32Z",
           "instanceId": "17154464521"
-        },
-        {
-          "name": "Il Ponte di Vetro",
-          "period": "2026-08-26T18:25:39Z",
-          "instanceId": "17154444130"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-26T18:08:49Z",
-          "instanceId": "17154431976"
         }
       ]
     },
@@ -73,15 +73,25 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 515,
-      "lastPlayedTimestamp": 1787776840000,
-      "lastActivityTimestamp": 1787776125000,
-      "lastActivityText": "Controllo: Con matchmaking il 26/08/2026 20:28",
+      "powerLevel": 546,
+      "lastPlayedTimestamp": 1787781366000,
+      "lastActivityTimestamp": 1787780710000,
+      "lastActivityText": "Controllo: Con matchmaking il 26/08/2026 21:45",
       "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-26T21:45:10Z",
+          "instanceId": "17154656164"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-26T21:38:05Z",
+          "instanceId": "17154647190"
+        },
         {
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-26T20:28:45Z",
@@ -121,16 +131,6 @@
           "name": "Europa",
           "period": "2026-08-26T18:37:32Z",
           "instanceId": "17154464521"
-        },
-        {
-          "name": "Il Ponte di Vetro",
-          "period": "2026-08-26T18:25:39Z",
-          "instanceId": "17154444130"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-26T18:08:49Z",
-          "instanceId": "17154431976"
         }
       ]
     },
@@ -208,7 +208,7 @@
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787752378000,
+      "lastPlayedTimestamp": 1787785225000,
       "lastActivityTimestamp": 1787752297000,
       "lastActivityText": "Volta di Vetro: Maestro il 26/08/2026 13:51",
       "activities": [
