@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T21:06:33.876Z",
+  "generatedAt": "2026-08-28T05:33:52.844Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
-      "powerLevel": 393,
-      "lastPlayedTimestamp": 1787864758000,
-      "lastActivityTimestamp": 1787863962000,
-      "lastActivityText": "Controllo: Con matchmaking il 27/08/2026 20:52",
+      "powerLevel": 394,
+      "lastPlayedTimestamp": 1787866975000,
+      "lastActivityTimestamp": 1787865116000,
+      "lastActivityText": "Controllo: Con matchmaking il 27/08/2026 21:11",
       "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-27T21:11:56Z",
+          "instanceId": "17155887372"
+        },
         {
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-27T20:52:42Z",
@@ -26,6 +31,11 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-27T20:36:52Z",
           "instanceId": "17155853689"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-08-27T20:16:31Z",
+          "instanceId": "17156081532"
         },
         {
           "name": "La caduta di un Re: Standard",
@@ -56,16 +66,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-26T20:15:29Z",
           "instanceId": "17154560029"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-26T20:01:47Z",
-          "instanceId": "17154544736"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-26T19:50:42Z",
-          "instanceId": "17154532736"
         }
       ]
     },
@@ -73,15 +73,20 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Scrittrice spettrale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 539,
-      "lastPlayedTimestamp": 1787864732000,
-      "lastActivityTimestamp": 1787863962000,
-      "lastActivityText": "Controllo: Con matchmaking il 27/08/2026 20:52",
+      "powerLevel": 540,
+      "lastPlayedTimestamp": 1787866960000,
+      "lastActivityTimestamp": 1787865116000,
+      "lastActivityText": "Controllo: Con matchmaking il 27/08/2026 21:11",
       "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-27T21:11:56Z",
+          "instanceId": "17155887372"
+        },
         {
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-27T20:52:42Z",
@@ -91,6 +96,11 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-27T20:36:52Z",
           "instanceId": "17155853689"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-08-27T20:16:31Z",
+          "instanceId": "17156081532"
         },
         {
           "name": "La caduta di un Re: Standard",
@@ -121,16 +131,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-27T14:42:56Z",
           "instanceId": "17155510364"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-27T14:32:02Z",
-          "instanceId": "17155501333"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-27T14:19:13Z",
-          "instanceId": "17155490344"
         }
       ]
     },
@@ -196,71 +196,6 @@
           "name": "Modalità del mondo: audace: Audace",
           "period": "2026-08-25T13:16:44Z",
           "instanceId": "17152905003"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1787852555000,
-      "lastActivityTimestamp": 1787851500000,
-      "lastActivityText": "Schianto dell'Esodo: Personalizzata il 27/08/2026 17:25",
-      "activities": [
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-08-27T17:25:00Z",
-          "instanceId": "17155669667"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-27T17:07:39Z",
-          "instanceId": "17155652331"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-08-27T16:28:41Z",
-          "instanceId": "17155623859"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-08-27T16:11:45Z",
-          "instanceId": "17155600128"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-08-27T15:08:43Z",
-          "instanceId": "17155538541"
-        },
-        {
-          "name": "Oblazione: Immolazione",
-          "period": "2026-08-24T17:49:49Z",
-          "instanceId": "17151726357"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-08-24T17:18:49Z",
-          "instanceId": "17151674322"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-08-24T16:54:09Z",
-          "instanceId": "17151639697"
-        },
-        {
-          "name": "Campi di battaglia: Condotto: Personalizzata",
-          "period": "2026-08-24T16:26:24Z",
-          "instanceId": "17151614051"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-08-24T16:11:44Z",
-          "instanceId": "17151591017"
         }
       ]
     },
@@ -391,6 +326,71 @@
           "name": "Partita veloce: Normale",
           "period": "2026-08-18T10:39:39Z",
           "instanceId": "17141322007"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787895198000,
+      "lastActivityTimestamp": 1787674729000,
+      "lastActivityText": "La culla del male: Personalizzata il 25/08/2026 16:18",
+      "activities": [
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-08-25T16:18:49Z",
+          "instanceId": "17153064479"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-25T16:01:56Z",
+          "instanceId": "17153034626"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-25T15:32:11Z",
+          "instanceId": "17153000561"
+        },
+        {
+          "name": "D.A.G.A. caduta: Con matchmaking",
+          "period": "2026-08-25T15:30:37Z",
+          "instanceId": "17153025583"
+        },
+        {
+          "name": "Bis: Personalizzata",
+          "period": "2026-08-25T14:17:16Z",
+          "instanceId": "17152984400"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-08-25T14:07:47Z",
+          "instanceId": "17152913857"
+        },
+        {
+          "name": "D.A.G.A. caduta: Con matchmaking",
+          "period": "2026-08-25T13:35:05Z",
+          "instanceId": "17152887360"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-08-25T13:16:44Z",
+          "instanceId": "17152905003"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-08-25T13:04:55Z",
+          "instanceId": "17152860062"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-25T12:59:03Z",
+          "instanceId": "17152848392"
         }
       ]
     },
