@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-29T14:17:18.457Z",
+  "generatedAt": "2026-08-29T17:49:32.999Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
+      "powerLevel": 455,
+      "lastPlayedTimestamp": 1788025070000,
+      "lastActivityTimestamp": 1788024365000,
+      "lastActivityText": "Miniere di Sale: Personalizzata il 29/08/2026 17:26",
+      "activities": [
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-08-29T17:26:05Z",
+          "instanceId": "17158369572"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-24T21:15:15Z",
+          "instanceId": "17151944624"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-24T16:31:17Z",
+          "instanceId": "17151604635"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-16T14:29:18Z",
+          "instanceId": "17137845203"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-16T14:19:15Z",
+          "instanceId": "17137827565"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-16T14:01:50Z",
+          "instanceId": "17137808319"
+        },
+        {
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-08-04T14:47:57Z",
+          "instanceId": "17112789171"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-04T14:34:16Z",
+          "instanceId": "17112762960"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-04T14:09:34Z",
+          "instanceId": "17112732916"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-04T13:50:53Z",
+          "instanceId": "17112714458"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -13,10 +78,50 @@
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1788012799000,
-      "lastActivityTimestamp": 1788012279000,
-      "lastActivityText": "Pallido Cuore il 29/08/2026 14:04",
+      "lastPlayedTimestamp": 1788025447000,
+      "lastActivityTimestamp": 1788023745000,
+      "lastActivityText": "Temibile aiutante: Audace il 29/08/2026 17:15",
       "activities": [
+        {
+          "name": "Temibile aiutante: Audace",
+          "period": "2026-08-29T17:15:45Z",
+          "instanceId": "17158344973"
+        },
+        {
+          "name": "Temibile aiutante: Audace",
+          "period": "2026-08-29T17:14:46Z",
+          "instanceId": "17158343494"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-29T16:43:23Z",
+          "instanceId": "17158320336"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-29T16:29:30Z",
+          "instanceId": "17158303359"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-29T16:06:22Z",
+          "instanceId": "17158263716"
+        },
+        {
+          "name": "Impero: Audace",
+          "period": "2026-08-29T14:48:40Z",
+          "instanceId": "17158200170"
+        },
+        {
+          "name": "Missione: L'invito: Normale",
+          "period": "2026-08-29T14:37:51Z",
+          "instanceId": "17158164138"
+        },
+        {
+          "name": "Regine - Parte I",
+          "period": "2026-08-29T14:05:25Z",
+          "instanceId": "17158145792"
+        },
         {
           "name": "Pallido Cuore",
           "period": "2026-08-29T14:04:39Z",
@@ -26,46 +131,71 @@
           "name": "Regine - Parte II",
           "period": "2026-08-29T13:51:28Z",
           "instanceId": "17158119321"
+        }
+      ]
+    },
+    {
+      "displayName": "Jhonny#3878",
+      "membershipId": "4611686018489632599",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1788022652000,
+      "lastActivityTimestamp": 1788021896000,
+      "lastActivityText": "Controllo: Con matchmaking il 29/08/2026 16:44",
+      "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T16:44:56Z",
+          "instanceId": "17158322162"
         },
         {
-          "name": "Pallido Cuore",
-          "period": "2026-08-29T13:45:50Z",
-          "instanceId": "17158105142"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T16:30:52Z",
+          "instanceId": "17158304095"
         },
         {
-          "name": "Il Vacuo - Parte I",
-          "period": "2026-08-29T13:28:36Z",
-          "instanceId": "17158099590"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T16:18:41Z",
+          "instanceId": "17158286160"
         },
         {
-          "name": "Pallido Cuore",
-          "period": "2026-08-29T13:09:20Z",
-          "instanceId": "17158081961"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T16:04:55Z",
+          "instanceId": "17158270213"
         },
         {
-          "name": "Casa - Parte I",
-          "period": "2026-08-29T12:57:01Z",
-          "instanceId": "17158062941"
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-08-29T15:55:01Z",
+          "instanceId": "17158252559"
         },
         {
-          "name": "Pallido Cuore",
-          "period": "2026-08-29T12:53:13Z",
-          "instanceId": "17158051093"
+          "name": "Conservazione",
+          "period": "2026-08-17T15:28:36Z",
+          "instanceId": "17139916634"
         },
         {
-          "name": "Regine - Parte I",
-          "period": "2026-08-29T12:52:02Z",
-          "instanceId": "17158047100"
+          "name": "Conservazione",
+          "period": "2026-08-17T15:27:07Z",
+          "instanceId": "17139890286"
         },
         {
-          "name": "Pallido Cuore",
-          "period": "2026-08-29T12:50:50Z",
-          "instanceId": "17158046649"
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-16T16:23:43Z",
+          "instanceId": "17138057736"
         },
         {
-          "name": "Il Vacuo - Parte I",
-          "period": "2026-08-29T12:42:53Z",
-          "instanceId": "17158044923"
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-15T15:35:36Z",
+          "instanceId": "17135868459"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-15T15:15:09Z",
+          "instanceId": "17135810725"
         }
       ]
     },
@@ -73,19 +203,34 @@
       "displayName": "adgarolp#8945",
       "membershipId": "4611686018479100387",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Immortale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
       "powerLevel": 450,
-      "lastPlayedTimestamp": 1788012845000,
-      "lastActivityTimestamp": 1788010329000,
-      "lastActivityText": "Luna il 29/08/2026 13:32",
+      "lastPlayedTimestamp": 1788021258000,
+      "lastActivityTimestamp": 1788020582000,
+      "lastActivityText": "Cosmodromo il 29/08/2026 16:23",
       "activities": [
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-29T16:23:02Z",
+          "instanceId": "17158294556"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-08-29T14:17:52Z",
+          "instanceId": "17158165873"
+        },
         {
           "name": "Luna",
           "period": "2026-08-29T13:32:09Z",
           "instanceId": "17158115073"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-29T13:25:30Z",
+          "instanceId": "17158278622"
         },
         {
           "name": "Eliostasi: Personalizzata",
@@ -116,21 +261,6 @@
           "name": "Modalità del mondo: leggendaria: Leggendaria",
           "period": "2026-08-22T01:38:11Z",
           "instanceId": "17147148542"
-        },
-        {
-          "name": "Missione: Transitorietà: Leggendaria",
-          "period": "2026-08-22T01:24:52Z",
-          "instanceId": "17147146800"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-08-22T01:10:40Z",
-          "instanceId": "17147128680"
-        },
-        {
-          "name": "Missione: L'invito: Leggendaria",
-          "period": "2026-08-22T00:36:35Z",
-          "instanceId": "17147110879"
         }
       ]
     },
@@ -138,15 +268,20 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 546,
-      "lastPlayedTimestamp": 1788013023000,
-      "lastActivityTimestamp": 1788009014000,
-      "lastActivityText": "Rovesciamento il 29/08/2026 13:10",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1788013483000,
+      "lastActivityTimestamp": 1788009860000,
+      "lastActivityText": "Rovesciamento il 29/08/2026 13:24",
       "activities": [
+        {
+          "name": "Rovesciamento",
+          "period": "2026-08-29T13:24:20Z",
+          "instanceId": "17158382827"
+        },
         {
           "name": "Rovesciamento",
           "period": "2026-08-29T13:10:14Z",
@@ -191,11 +326,6 @@
           "name": "La radice degli incubi: Standard",
           "period": "2026-08-28T20:14:31Z",
           "instanceId": "17157085043"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-08-28T20:07:48Z",
-          "instanceId": "17157074109"
         }
       ]
     },
@@ -273,7 +403,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787997301000,
+      "lastPlayedTimestamp": 1788025371000,
       "lastActivityTimestamp": 1787996698000,
       "lastActivityText": "Spirale invertita il 29/08/2026 09:44",
       "activities": [
@@ -338,7 +468,7 @@
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b531d829e55b6f13555e8cae172dc0b3.jpg",
       "powerLevel": 445,
-      "lastPlayedTimestamp": 1787934547000,
+      "lastPlayedTimestamp": 1788020553000,
       "lastActivityTimestamp": 1787933034000,
       "lastActivityText": "Scalata: Leggendaria il 28/08/2026 16:03",
       "activities": [
@@ -456,71 +586,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-08-18T10:39:39Z",
           "instanceId": "17141322007"
-        }
-      ]
-    },
-    {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
-      "powerLevel": 442,
-      "lastPlayedTimestamp": 1787607235000,
-      "lastActivityTimestamp": 1787606115000,
-      "lastActivityText": "Partita veloce: Normale il 24/08/2026 21:15",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-24T21:15:15Z",
-          "instanceId": "17151944624"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-24T16:31:17Z",
-          "instanceId": "17151604635"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-16T14:29:18Z",
-          "instanceId": "17137845203"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-16T14:19:15Z",
-          "instanceId": "17137827565"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-16T14:01:50Z",
-          "instanceId": "17137808319"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-08-04T14:47:57Z",
-          "instanceId": "17112789171"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-04T14:34:16Z",
-          "instanceId": "17112762960"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-04T14:09:34Z",
-          "instanceId": "17112732916"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-04T13:50:53Z",
-          "instanceId": "17112714458"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-03T21:07:04Z",
-          "instanceId": "17111273174"
         }
       ]
     },
@@ -781,71 +846,6 @@
           "name": "Lo specchio: Normale",
           "period": "2026-08-21T09:08:26Z",
           "instanceId": "17146060507"
-        }
-      ]
-    },
-    {
-      "displayName": "Jhonny#3878",
-      "membershipId": "4611686018489632599",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1786981762000,
-      "lastActivityTimestamp": 1786980516000,
-      "lastActivityText": "Conservazione il 17/08/2026 15:28",
-      "activities": [
-        {
-          "name": "Conservazione",
-          "period": "2026-08-17T15:28:36Z",
-          "instanceId": "17139916634"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-17T15:27:07Z",
-          "instanceId": "17139890286"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-16T16:23:43Z",
-          "instanceId": "17138057736"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-15T15:35:36Z",
-          "instanceId": "17135868459"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-15T15:15:09Z",
-          "instanceId": "17135810725"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-15T14:56:13Z",
-          "instanceId": "17135777951"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-15T08:10:51Z",
-          "instanceId": "17135313923"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-15T08:00:57Z",
-          "instanceId": "17135276659"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-15T07:52:50Z",
-          "instanceId": "17135265588"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-26T08:58:33Z",
-          "instanceId": "17089713365"
         }
       ]
     },
