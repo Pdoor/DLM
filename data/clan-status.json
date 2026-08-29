@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T20:44:50.449Z",
+  "generatedAt": "2026-08-29T23:09:38.484Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,51 @@
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f38a3de4be19799ee638a3a4829c6133.jpg",
-      "powerLevel": 396,
-      "lastPlayedTimestamp": 1788035737000,
-      "lastActivityTimestamp": 1788033968000,
-      "lastActivityText": "Controllo: Con matchmaking il 29/08/2026 20:06",
+      "powerLevel": 404,
+      "lastPlayedTimestamp": 1788044643000,
+      "lastActivityTimestamp": 1788043766000,
+      "lastActivityText": "Controllo: Con matchmaking il 29/08/2026 22:49",
       "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T22:49:26Z",
+          "instanceId": "17158787809"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T22:36:21Z",
+          "instanceId": "17158773609"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-08-29T21:48:19Z",
+          "instanceId": "17158753159"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-29T21:37:12Z",
+          "instanceId": "17158687080"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-29T21:29:00Z",
+          "instanceId": "17158684097"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T21:00:16Z",
+          "instanceId": "17158651237"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T20:46:44Z",
+          "instanceId": "17158633301"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T20:34:00Z",
+          "instanceId": "17158615684"
+        },
         {
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-29T20:06:08Z",
@@ -26,46 +66,6 @@
           "name": "Pallido Cuore",
           "period": "2026-08-29T10:31:31Z",
           "instanceId": "17157944131"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-29T10:24:02Z",
-          "instanceId": "17157936740"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-28T21:52:46Z",
-          "instanceId": "17157279553"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-28T21:35:08Z",
-          "instanceId": "17157173001"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-08-28T21:18:55Z",
-          "instanceId": "17157160720"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-08-28T20:38:40Z",
-          "instanceId": "17157145013"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-08-28T20:34:12Z",
-          "instanceId": "17157100721"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-08-28T20:24:22Z",
-          "instanceId": "17157090712"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-08-28T20:14:31Z",
-          "instanceId": "17157085043"
         }
       ]
     },
@@ -75,13 +75,48 @@
       "bungieNetMembershipId": "",
       "isOnline": true,
       "className": "Cacciatori",
-      "title": "Signora del Ferro",
+      "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 543,
-      "lastPlayedTimestamp": 1788035688000,
-      "lastActivityTimestamp": 1788033968000,
-      "lastActivityText": "Controllo: Con matchmaking il 29/08/2026 20:06",
+      "powerLevel": 546,
+      "lastPlayedTimestamp": 1788044522000,
+      "lastActivityTimestamp": 1788043766000,
+      "lastActivityText": "Controllo: Con matchmaking il 29/08/2026 22:49",
       "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T22:49:26Z",
+          "instanceId": "17158787809"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T22:36:21Z",
+          "instanceId": "17158773609"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-08-29T21:48:19Z",
+          "instanceId": "17158753159"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-29T21:28:43Z",
+          "instanceId": "17158688312"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T21:00:16Z",
+          "instanceId": "17158651237"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T20:46:44Z",
+          "instanceId": "17158633301"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T20:34:00Z",
+          "instanceId": "17158615684"
+        },
         {
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-29T20:06:08Z",
@@ -96,41 +131,6 @@
           "name": "Rovesciamento",
           "period": "2026-08-29T13:10:14Z",
           "instanceId": "17158077445"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-08-29T12:10:36Z",
-          "instanceId": "17158060598"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-28T21:52:46Z",
-          "instanceId": "17157279553"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-28T21:35:08Z",
-          "instanceId": "17157173001"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-08-28T21:18:55Z",
-          "instanceId": "17157160720"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-08-28T20:38:40Z",
-          "instanceId": "17157145013"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-08-28T20:34:12Z",
-          "instanceId": "17157100721"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-08-28T20:24:22Z",
-          "instanceId": "17157090712"
         }
       ]
     },
