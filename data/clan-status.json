@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-29T01:52:09.355Z",
+  "generatedAt": "2026-08-29T08:48:56.293Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1787990660000,
+      "lastActivityTimestamp": 1787989217000,
+      "lastActivityText": "Corrente dell'iper-rete: Con matchmaking il 29/08/2026 07:40",
+      "activities": [
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-08-29T07:40:17Z",
+          "instanceId": "17157831670"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-08-29T07:25:03Z",
+          "instanceId": "17157810517"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-08-29T07:04:53Z",
+          "instanceId": "17157799520"
+        },
+        {
+          "name": "Terreni di Prova: Con matchmaking",
+          "period": "2026-08-29T06:35:18Z",
+          "instanceId": "17157772763"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-29T06:14:26Z",
+          "instanceId": "17157759443"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-29T06:02:04Z",
+          "instanceId": "17157741188"
+        },
+        {
+          "name": "Sepolcro: Maestro",
+          "period": "2026-08-29T05:46:47Z",
+          "instanceId": "17157729708"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-29T05:30:48Z",
+          "instanceId": "17157714702"
+        },
+        {
+          "name": "Campi di battaglia: Condotto: Con matchmaking",
+          "period": "2026-08-27T14:40:30Z",
+          "instanceId": "17155516418"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-27T14:33:48Z",
+          "instanceId": "17155500199"
+        }
+      ]
+    },
     {
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
@@ -131,71 +196,6 @@
           "name": "La radice degli incubi: Standard",
           "period": "2026-08-28T19:48:28Z",
           "instanceId": "17157056160"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1787942386000,
-      "lastActivityTimestamp": 1787941226000,
-      "lastActivityText": "Corrente dell'iper-rete: Con matchmaking il 28/08/2026 18:20",
-      "activities": [
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-08-28T18:20:26Z",
-          "instanceId": "17156971569"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-08-28T17:31:43Z",
-          "instanceId": "17156940784"
-        },
-        {
-          "name": "Terreni di Prova: Con matchmaking",
-          "period": "2026-08-28T17:12:58Z",
-          "instanceId": "17156897515"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-28T15:13:56Z",
-          "instanceId": "17156819812"
-        },
-        {
-          "name": "Pinnacolo di Savathûn: Con matchmaking",
-          "period": "2026-08-28T14:31:24Z",
-          "instanceId": "17156749873"
-        },
-        {
-          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
-          "period": "2026-08-28T14:05:42Z",
-          "instanceId": "17156725173"
-        },
-        {
-          "name": "Terminale Intuitivo: Personalizzata",
-          "period": "2026-08-28T13:41:44Z",
-          "instanceId": "17156695464"
-        },
-        {
-          "name": "Terminale Intuitivo: Personalizzata",
-          "period": "2026-08-28T13:31:48Z",
-          "instanceId": "17156683512"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-28T13:09:20Z",
-          "instanceId": "17156670743"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-28T12:33:10Z",
-          "instanceId": "17156648951"
         }
       ]
     },
