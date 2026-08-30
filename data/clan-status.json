@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T08:07:05.561Z",
+  "generatedAt": "2026-08-30T13:56:37.829Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,64 +8,129 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1788074192000,
-      "lastActivityTimestamp": 1788073469000,
-      "lastActivityText": "L'Oscura Sacerdotessa: Con matchmaking il 30/08/2026 07:04",
+      "lastPlayedTimestamp": 1788089804000,
+      "lastActivityTimestamp": 1788088049000,
+      "lastActivityText": "Tronomondo di Savathûn il 30/08/2026 11:07",
       "activities": [
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-30T11:07:29Z",
+          "instanceId": "17159553492"
+        },
+        {
+          "name": "L'Oscura Sacerdotessa: Con matchmaking",
+          "period": "2026-08-30T10:54:01Z",
+          "instanceId": "17159529152"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-30T10:11:49Z",
+          "instanceId": "17159514514"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-30T10:03:44Z",
+          "instanceId": "17159488163"
+        },
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-08-30T09:48:06Z",
+          "instanceId": "17159481896"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-30T09:41:36Z",
+          "instanceId": "17159469845"
+        },
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-08-30T09:29:38Z",
+          "instanceId": "17159465041"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-30T09:27:20Z",
+          "instanceId": "17159455984"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-30T08:58:31Z",
+          "instanceId": "17159441904"
+        },
         {
           "name": "L'Oscura Sacerdotessa: Con matchmaking",
           "period": "2026-08-30T07:04:29Z",
           "instanceId": "17159349017"
+        }
+      ]
+    },
+    {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
+      "powerLevel": 454,
+      "lastPlayedTimestamp": 1788081508000,
+      "lastActivityTimestamp": 1788080781000,
+      "lastActivityText": "Controllo: Con matchmaking il 30/08/2026 09:06",
+      "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-30T09:06:21Z",
+          "instanceId": "17159447106"
         },
         {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-08-27T17:25:00Z",
-          "instanceId": "17155669667"
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-23T09:10:41Z",
+          "instanceId": "17149557284"
         },
         {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-08-27T17:07:39Z",
-          "instanceId": "17155652331"
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-08-23T06:35:32Z",
+          "instanceId": "17149435818"
         },
         {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-08-27T16:28:41Z",
-          "instanceId": "17155623859"
+          "name": "Cripta di Pietrafonda",
+          "period": "2026-08-22T16:57:04Z",
+          "instanceId": "17148303874"
         },
         {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-08-27T16:11:45Z",
-          "instanceId": "17155600128"
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-22T12:12:21Z",
+          "instanceId": "17147823660"
         },
         {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-08-27T15:08:43Z",
-          "instanceId": "17155538541"
+          "name": "Giardino della Salvezza",
+          "period": "2026-08-22T05:54:11Z",
+          "instanceId": "17147624029"
         },
         {
-          "name": "Oblazione: Immolazione",
-          "period": "2026-08-24T17:49:49Z",
-          "instanceId": "17151726357"
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-08-21T10:01:51Z",
+          "instanceId": "17146118540"
         },
         {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-08-24T17:18:49Z",
-          "instanceId": "17151674322"
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-21T09:51:36Z",
+          "instanceId": "17146078434"
         },
         {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-08-24T16:54:09Z",
-          "instanceId": "17151639697"
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-21T09:30:46Z",
+          "instanceId": "17146063158"
         },
         {
-          "name": "Campi di battaglia: Condotto: Personalizzata",
-          "period": "2026-08-24T16:26:24Z",
-          "instanceId": "17151614051"
+          "name": "La lama di Luce",
+          "period": "2026-08-21T09:28:02Z",
+          "instanceId": "17146074527"
         }
       ]
     },
@@ -781,71 +846,6 @@
           "name": "Artesia Mons, Venere: Contrabbando: Con matchmaking",
           "period": "2026-08-22T20:13:06Z",
           "instanceId": "17148505884"
-        }
-      ]
-    },
-    {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 454,
-      "lastPlayedTimestamp": 1787480551000,
-      "lastActivityTimestamp": 1787476241000,
-      "lastActivityText": "La caduta di un Re: Standard il 23/08/2026 09:10",
-      "activities": [
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-23T09:10:41Z",
-          "instanceId": "17149557284"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-08-23T06:35:32Z",
-          "instanceId": "17149435818"
-        },
-        {
-          "name": "Cripta di Pietrafonda",
-          "period": "2026-08-22T16:57:04Z",
-          "instanceId": "17148303874"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-22T12:12:21Z",
-          "instanceId": "17147823660"
-        },
-        {
-          "name": "Giardino della Salvezza",
-          "period": "2026-08-22T05:54:11Z",
-          "instanceId": "17147624029"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-08-21T10:01:51Z",
-          "instanceId": "17146118540"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-21T09:51:36Z",
-          "instanceId": "17146078434"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-21T09:30:46Z",
-          "instanceId": "17146063158"
-        },
-        {
-          "name": "La lama di Luce",
-          "period": "2026-08-21T09:28:02Z",
-          "instanceId": "17146074527"
-        },
-        {
-          "name": "Lo specchio: Normale",
-          "period": "2026-08-21T09:08:26Z",
-          "instanceId": "17146060507"
         }
       ]
     },
