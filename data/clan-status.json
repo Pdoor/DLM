@@ -1,22 +1,102 @@
 {
-  "generatedAt": "2026-08-30T18:01:15.194Z",
+  "generatedAt": "2026-08-30T21:25:13.312Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1788118846000,
+      "lastActivityTimestamp": 1788116361000,
+      "lastActivityText": "La radice degli incubi: Standard il 30/08/2026 18:59",
+      "activities": [
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-08-30T18:59:21Z",
+          "instanceId": "17160148301"
+        },
+        {
+          "name": "Prova di Forza: Con matchmaking",
+          "period": "2026-08-30T18:42:17Z",
+          "instanceId": "17160066340"
+        },
+        {
+          "name": "Rovesciamento",
+          "period": "2026-08-30T14:56:11Z",
+          "instanceId": "17159813250"
+        },
+        {
+          "name": "Caldera: Personalizzata",
+          "period": "2026-08-30T14:47:49Z",
+          "instanceId": "17159754986"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-30T00:22:47Z",
+          "instanceId": "17158897285"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-30T00:09:29Z",
+          "instanceId": "17158882771"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T23:44:35Z",
+          "instanceId": "17158853204"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T23:34:28Z",
+          "instanceId": "17158838231"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T23:21:10Z",
+          "instanceId": "17158826122"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T23:01:28Z",
+          "instanceId": "17158802115"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1788112833000,
-      "lastActivityTimestamp": 1788109503000,
-      "lastActivityText": "Sfide dell'Eternità: Standard il 30/08/2026 17:05",
+      "lastPlayedTimestamp": 1788116988000,
+      "lastActivityTimestamp": 1788116042000,
+      "lastActivityText": "La Città Sognante il 30/08/2026 18:54",
       "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-08-30T18:54:02Z",
+          "instanceId": "17160081395"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-30T18:32:17Z",
+          "instanceId": "17160069670"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-08-30T18:07:30Z",
+          "instanceId": "17160027999"
+        },
         {
           "name": "Sfide dell'Eternità: Standard",
           "period": "2026-08-30T17:05:03Z",
@@ -51,21 +131,6 @@
           "name": "Simulazione: agilità",
           "period": "2026-08-30T16:13:21Z",
           "instanceId": "17159867590"
-        },
-        {
-          "name": "Simulazione: agilità",
-          "period": "2026-08-30T16:12:03Z",
-          "instanceId": "17159852357"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-30T15:46:03Z",
-          "instanceId": "17159851496"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-30T15:01:43Z",
-          "instanceId": "17159818308"
         }
       ]
     },
@@ -131,71 +196,6 @@
           "name": "Pinnacolo di Savathûn: Con matchmaking",
           "period": "2026-08-28T14:31:24Z",
           "instanceId": "17156749873"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1788104557000,
-      "lastActivityTimestamp": 1788101771000,
-      "lastActivityText": "Rovesciamento il 30/08/2026 14:56",
-      "activities": [
-        {
-          "name": "Rovesciamento",
-          "period": "2026-08-30T14:56:11Z",
-          "instanceId": "17159813250"
-        },
-        {
-          "name": "Caldera: Personalizzata",
-          "period": "2026-08-30T14:47:49Z",
-          "instanceId": "17159754986"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-30T00:22:47Z",
-          "instanceId": "17158897285"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-30T00:09:29Z",
-          "instanceId": "17158882771"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-29T23:44:35Z",
-          "instanceId": "17158853204"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-29T23:34:28Z",
-          "instanceId": "17158838231"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-29T23:21:10Z",
-          "instanceId": "17158826122"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-29T23:01:28Z",
-          "instanceId": "17158802115"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-29T22:49:26Z",
-          "instanceId": "17158787809"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-29T22:36:21Z",
-          "instanceId": "17158773609"
         }
       ]
     },
@@ -792,8 +792,8 @@
       "className": "Titani",
       "title": "Portatore di desideri",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 517,
-      "lastPlayedTimestamp": 1787699585000,
+      "powerLevel": 515,
+      "lastPlayedTimestamp": 1788122964000,
       "lastActivityTimestamp": 1787495447000,
       "lastActivityText": "Invasione il 23/08/2026 14:30",
       "activities": [
@@ -858,7 +858,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1788072964000,
+      "lastPlayedTimestamp": 1788114908000,
       "lastActivityTimestamp": 1786976920000,
       "lastActivityText": "La Città Sognante il 17/08/2026 14:28",
       "activities": [
@@ -1898,7 +1898,7 @@
       "title": "Conquistatrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7d4b9e43a65edce3ab88cde80c13106f.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787945035000,
+      "lastPlayedTimestamp": 1788115280000,
       "lastActivityTimestamp": 1782925464000,
       "lastActivityText": "Fortezza della Guida: Personalizzata il 01/07/2026 17:04",
       "activities": [
