@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-30T01:33:03.460Z",
+  "generatedAt": "2026-08-30T08:07:05.561Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1788074192000,
+      "lastActivityTimestamp": 1788073469000,
+      "lastActivityText": "L'Oscura Sacerdotessa: Con matchmaking il 30/08/2026 07:04",
+      "activities": [
+        {
+          "name": "L'Oscura Sacerdotessa: Con matchmaking",
+          "period": "2026-08-30T07:04:29Z",
+          "instanceId": "17159349017"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-08-27T17:25:00Z",
+          "instanceId": "17155669667"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-08-27T17:07:39Z",
+          "instanceId": "17155652331"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-08-27T16:28:41Z",
+          "instanceId": "17155623859"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-08-27T16:11:45Z",
+          "instanceId": "17155600128"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-08-27T15:08:43Z",
+          "instanceId": "17155538541"
+        },
+        {
+          "name": "Oblazione: Immolazione",
+          "period": "2026-08-24T17:49:49Z",
+          "instanceId": "17151726357"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-08-24T17:18:49Z",
+          "instanceId": "17151674322"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-08-24T16:54:09Z",
+          "instanceId": "17151639697"
+        },
+        {
+          "name": "Campi di battaglia: Condotto: Personalizzata",
+          "period": "2026-08-24T16:26:24Z",
+          "instanceId": "17151614051"
+        }
+      ]
+    },
     {
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
@@ -196,71 +261,6 @@
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-08-04T13:50:53Z",
           "instanceId": "17112714458"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1788027308000,
-      "lastActivityTimestamp": 1788023745000,
-      "lastActivityText": "Temibile aiutante: Audace il 29/08/2026 17:15",
-      "activities": [
-        {
-          "name": "Temibile aiutante: Audace",
-          "period": "2026-08-29T17:15:45Z",
-          "instanceId": "17158344973"
-        },
-        {
-          "name": "Temibile aiutante: Audace",
-          "period": "2026-08-29T17:14:46Z",
-          "instanceId": "17158343494"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-29T16:43:23Z",
-          "instanceId": "17158320336"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-29T16:29:30Z",
-          "instanceId": "17158303359"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-29T16:06:22Z",
-          "instanceId": "17158263716"
-        },
-        {
-          "name": "Impero: Audace",
-          "period": "2026-08-29T14:48:40Z",
-          "instanceId": "17158200170"
-        },
-        {
-          "name": "Missione: L'invito: Normale",
-          "period": "2026-08-29T14:37:51Z",
-          "instanceId": "17158164138"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-29T14:28:56Z",
-          "instanceId": "17158446363"
-        },
-        {
-          "name": "Regine - Parte I",
-          "period": "2026-08-29T14:05:25Z",
-          "instanceId": "17158145792"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-29T14:04:39Z",
-          "instanceId": "17158119971"
         }
       ]
     },
@@ -858,7 +858,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1787944945000,
+      "lastPlayedTimestamp": 1788072964000,
       "lastActivityTimestamp": 1786976920000,
       "lastActivityText": "La Città Sognante il 17/08/2026 14:28",
       "activities": [
