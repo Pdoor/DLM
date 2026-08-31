@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-31T18:06:42.677Z",
+  "generatedAt": "2026-08-31T22:59:10.859Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Signora del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1788205288000,
+      "lastActivityTimestamp": 1788202072000,
+      "lastActivityText": "Comando del Vespro: Maestro il 31/08/2026 18:47",
+      "activities": [
+        {
+          "name": "Comando del Vespro: Maestro",
+          "period": "2026-08-31T18:47:52Z",
+          "instanceId": "17161497166"
+        },
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-08-31T18:19:27Z",
+          "instanceId": "17161435662"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-08-31T16:43:07Z",
+          "instanceId": "17161347724"
+        },
+        {
+          "name": "Rischio: Avanzata",
+          "period": "2026-08-31T16:27:30Z",
+          "instanceId": "17161319046"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-08-31T15:40:25Z",
+          "instanceId": "17161304271"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-08-31T14:50:13Z",
+          "instanceId": "17161254421"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-08-31T14:46:33Z",
+          "instanceId": "17161213670"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-08-31T13:58:42Z",
+          "instanceId": "17161204627"
+        },
+        {
+          "name": "Prova di Forza: Con matchmaking",
+          "period": "2026-08-31T13:32:15Z",
+          "instanceId": "17161154728"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-31T12:10:24Z",
+          "instanceId": "17161299684"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -196,71 +261,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-29T23:21:10Z",
           "instanceId": "17158826122"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Signora del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1788196322000,
-      "lastActivityTimestamp": 1788194587000,
-      "lastActivityText": "Neomuna il 31/08/2026 16:43",
-      "activities": [
-        {
-          "name": "Neomuna",
-          "period": "2026-08-31T16:43:07Z",
-          "instanceId": "17161347724"
-        },
-        {
-          "name": "Rischio: Avanzata",
-          "period": "2026-08-31T16:27:30Z",
-          "instanceId": "17161319046"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-08-31T15:40:25Z",
-          "instanceId": "17161304271"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-08-31T14:50:13Z",
-          "instanceId": "17161254421"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-08-31T14:46:33Z",
-          "instanceId": "17161213670"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-08-31T13:58:42Z",
-          "instanceId": "17161204627"
-        },
-        {
-          "name": "Prova di Forza: Con matchmaking",
-          "period": "2026-08-31T13:32:15Z",
-          "instanceId": "17161154728"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-31T13:09:04Z",
-          "instanceId": "17161138545"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-31T12:52:13Z",
-          "instanceId": "17161124539"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-31T12:10:24Z",
-          "instanceId": "17161299684"
         }
       ]
     },
