@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-08-31T04:50:07.673Z",
+  "generatedAt": "2026-08-31T11:29:02.790Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1788175697000,
+      "lastActivityTimestamp": 1788174698000,
+      "lastActivityText": "Europa il 31/08/2026 11:11",
+      "activities": [
+        {
+          "name": "Europa",
+          "period": "2026-08-31T11:11:38Z",
+          "instanceId": "17161049882"
+        },
+        {
+          "name": "Vuoto Nascosto: Esperto",
+          "period": "2026-08-31T11:02:31Z",
+          "instanceId": "17161046856"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-31T11:01:53Z",
+          "instanceId": "17161041321"
+        },
+        {
+          "name": "Vuoto Nascosto: Esperto",
+          "period": "2026-08-31T10:56:10Z",
+          "instanceId": "17161040833"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-31T10:54:14Z",
+          "instanceId": "17161037569"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-08-31T07:22:04Z",
+          "instanceId": "17160937600"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-08-31T06:25:25Z",
+          "instanceId": "17160904292"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-08-31T06:10:22Z",
+          "instanceId": "17160878185"
+        },
+        {
+          "name": "Sfide dell'Eternità: Standard",
+          "period": "2026-08-31T05:52:26Z",
+          "instanceId": "17160868455"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-08-28T18:20:26Z",
+          "instanceId": "17156971569"
+        }
+      ]
+    },
     {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
@@ -66,71 +131,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-29T23:01:28Z",
           "instanceId": "17158802115"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1788116988000,
-      "lastActivityTimestamp": 1788116042000,
-      "lastActivityText": "La Città Sognante il 30/08/2026 18:54",
-      "activities": [
-        {
-          "name": "La Città Sognante",
-          "period": "2026-08-30T18:54:02Z",
-          "instanceId": "17160081395"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-30T18:32:17Z",
-          "instanceId": "17160069670"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-08-30T18:07:30Z",
-          "instanceId": "17160027999"
-        },
-        {
-          "name": "Sfide dell'Eternità: Standard",
-          "period": "2026-08-30T17:05:03Z",
-          "instanceId": "17159942609"
-        },
-        {
-          "name": "Sfide dell'Eternità: Standard",
-          "period": "2026-08-30T17:02:55Z",
-          "instanceId": "17159934204"
-        },
-        {
-          "name": "Sfide dell'Eternità: Standard",
-          "period": "2026-08-30T16:57:36Z",
-          "instanceId": "17159929511"
-        },
-        {
-          "name": "Sfide dell'Eternità: Standard",
-          "period": "2026-08-30T16:29:56Z",
-          "instanceId": "17159892702"
-        },
-        {
-          "name": "Sfide dell'Eternità: Standard",
-          "period": "2026-08-30T16:27:59Z",
-          "instanceId": "17159872570"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-30T16:24:51Z",
-          "instanceId": "17159868848"
-        },
-        {
-          "name": "Simulazione: agilità",
-          "period": "2026-08-30T16:13:21Z",
-          "instanceId": "17159867590"
         }
       ]
     },
@@ -208,7 +208,7 @@
       "title": "Gloriosa",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
       "powerLevel": 454,
-      "lastPlayedTimestamp": 1788101125000,
+      "lastPlayedTimestamp": 1788165194000,
       "lastActivityTimestamp": 1788098199000,
       "lastActivityText": "La caduta di un Re: Standard il 30/08/2026 13:56",
       "activities": [
