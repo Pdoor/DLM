@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T07:34:13.164Z",
+  "generatedAt": "2026-09-01T13:20:20.523Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,64 +8,64 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1788242048000,
-      "lastActivityTimestamp": 1788240725000,
-      "lastActivityText": "Conquista modalità gran maestro: Campo di battaglia Resistenza: Z.M.E.: Personalizzata il 01/09/2026 05:32",
+      "lastPlayedTimestamp": 1788268736000,
+      "lastActivityTimestamp": 1788267415000,
+      "lastActivityText": "La Tana dei Diavoli: Personalizzata il 01/09/2026 12:56",
       "activities": [
         {
-          "name": "Conquista modalità gran maestro: Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-09-01T05:32:05Z",
-          "instanceId": "17162120194"
+          "name": "La Tana dei Diavoli: Personalizzata",
+          "period": "2026-09-01T12:56:55Z",
+          "instanceId": "17162384455"
         },
         {
           "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-09-01T05:05:04Z",
-          "instanceId": "17162095362"
+          "period": "2026-09-01T12:35:10Z",
+          "instanceId": "17162365333"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-08-31T17:36:42Z",
+          "instanceId": "17161388086"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-08-31T16:55:01Z",
+          "instanceId": "17161351824"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-08-31T16:39:35Z",
+          "instanceId": "17161328460"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-08-31T16:36:35Z",
+          "instanceId": "17161314233"
+        },
+        {
+          "name": "Caverna: Esperto",
+          "period": "2026-08-31T16:25:21Z",
+          "instanceId": "17161313669"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-08-30T18:54:02Z",
+          "instanceId": "17160081395"
         },
         {
           "name": "Morsa della cupidigia: Standard",
-          "period": "2026-09-01T04:55:51Z",
-          "instanceId": "17162083104"
+          "period": "2026-08-30T18:32:17Z",
+          "instanceId": "17160069670"
         },
         {
-          "name": "Temibile aiutante: Audace",
-          "period": "2026-08-29T17:15:45Z",
-          "instanceId": "17158344973"
-        },
-        {
-          "name": "Temibile aiutante: Audace",
-          "period": "2026-08-29T17:14:46Z",
-          "instanceId": "17158343494"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-29T16:43:23Z",
-          "instanceId": "17158320336"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-29T16:29:30Z",
-          "instanceId": "17158303359"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-08-29T16:06:22Z",
-          "instanceId": "17158263716"
-        },
-        {
-          "name": "Impero: Audace",
-          "period": "2026-08-29T14:48:40Z",
-          "instanceId": "17158200170"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-08-29T14:28:56Z",
-          "instanceId": "17158446363"
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-08-30T18:07:30Z",
+          "instanceId": "17160027999"
         }
       ]
     },
@@ -73,12 +73,12 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1788205288000,
+      "lastPlayedTimestamp": 1788268672000,
       "lastActivityTimestamp": 1788202072000,
       "lastActivityText": "Comando del Vespro: Maestro il 31/08/2026 18:47",
       "activities": [
@@ -593,12 +593,12 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1787678451000,
+      "lastPlayedTimestamp": 1788268787000,
       "lastActivityTimestamp": 1787677548000,
       "lastActivityText": "Sepolcro: Maestro il 25/08/2026 17:05",
       "activities": [
