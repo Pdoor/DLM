@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T20:05:27.595Z",
+  "generatedAt": "2026-09-01T22:45:11.633Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 543,
-      "lastPlayedTimestamp": 1788293058000,
-      "lastActivityTimestamp": 1788288828000,
-      "lastActivityText": "Comando del Vespro: Normale il 01/09/2026 18:53",
+      "powerLevel": 547,
+      "lastPlayedTimestamp": 1788293348000,
+      "lastActivityTimestamp": 1788292033000,
+      "lastActivityText": "Comando del Vespro: Normale il 01/09/2026 19:47",
       "activities": [
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-09-01T19:47:13Z",
+          "instanceId": "17162785838"
+        },
         {
           "name": "Comando del Vespro: Normale",
           "period": "2026-09-01T18:53:48Z",
@@ -61,11 +66,6 @@
           "name": "Comando del Vespro: Normale",
           "period": "2026-09-01T12:22:56Z",
           "instanceId": "17162398146"
-        },
-        {
-          "name": "Comando del Vespro: Maestro",
-          "period": "2026-08-31T18:47:52Z",
-          "instanceId": "17161497166"
         }
       ]
     },
@@ -788,12 +788,12 @@
       "displayName": "No TAG Jay#1042",
       "membershipId": "4611686018465064117",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Portatore di desideri",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
       "powerLevel": 515,
-      "lastPlayedTimestamp": 1788122964000,
+      "lastPlayedTimestamp": 1788302434000,
       "lastActivityTimestamp": 1787495447000,
       "lastActivityText": "Invasione il 23/08/2026 14:30",
       "activities": [
@@ -853,7 +853,7 @@
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
