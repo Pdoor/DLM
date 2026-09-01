@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-09-01T01:47:07.896Z",
+  "generatedAt": "2026-09-01T07:34:13.164Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1788242048000,
+      "lastActivityTimestamp": 1788240725000,
+      "lastActivityText": "Conquista modalità gran maestro: Campo di battaglia Resistenza: Z.M.E.: Personalizzata il 01/09/2026 05:32",
+      "activities": [
+        {
+          "name": "Conquista modalità gran maestro: Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-09-01T05:32:05Z",
+          "instanceId": "17162120194"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-09-01T05:05:04Z",
+          "instanceId": "17162095362"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-09-01T04:55:51Z",
+          "instanceId": "17162083104"
+        },
+        {
+          "name": "Temibile aiutante: Audace",
+          "period": "2026-08-29T17:15:45Z",
+          "instanceId": "17158344973"
+        },
+        {
+          "name": "Temibile aiutante: Audace",
+          "period": "2026-08-29T17:14:46Z",
+          "instanceId": "17158343494"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-29T16:43:23Z",
+          "instanceId": "17158320336"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-29T16:29:30Z",
+          "instanceId": "17158303359"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-29T16:06:22Z",
+          "instanceId": "17158263716"
+        },
+        {
+          "name": "Impero: Audace",
+          "period": "2026-08-29T14:48:40Z",
+          "instanceId": "17158200170"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-08-29T14:28:56Z",
+          "instanceId": "17158446363"
+        }
+      ]
+    },
     {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
@@ -66,71 +131,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-31T12:10:24Z",
           "instanceId": "17161299684"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1788198873000,
-      "lastActivityTimestamp": 1788197802000,
-      "lastActivityText": "Cella Senza Sole: Con matchmaking il 31/08/2026 17:36",
-      "activities": [
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-08-31T17:36:42Z",
-          "instanceId": "17161388086"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-08-31T16:55:01Z",
-          "instanceId": "17161351824"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-08-31T16:39:35Z",
-          "instanceId": "17161328460"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-08-31T16:36:35Z",
-          "instanceId": "17161314233"
-        },
-        {
-          "name": "Caverna: Esperto",
-          "period": "2026-08-31T16:25:21Z",
-          "instanceId": "17161313669"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-08-30T18:54:02Z",
-          "instanceId": "17160081395"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-08-30T18:32:17Z",
-          "instanceId": "17160069670"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-08-30T18:07:30Z",
-          "instanceId": "17160027999"
-        },
-        {
-          "name": "Sfide dell'Eternità: Standard",
-          "period": "2026-08-30T17:05:03Z",
-          "instanceId": "17159942609"
-        },
-        {
-          "name": "Sfide dell'Eternità: Standard",
-          "period": "2026-08-30T17:02:55Z",
-          "instanceId": "17159934204"
         }
       ]
     },
