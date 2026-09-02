@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T00:55:17.859Z",
+  "generatedAt": "2026-09-02T05:34:35.419Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -265,71 +265,6 @@
       ]
     },
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1788284189000,
-      "lastActivityTimestamp": 1788281826000,
-      "lastActivityText": "Campo di battaglia Colpo: Marte: Personalizzata il 01/09/2026 16:57",
-      "activities": [
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-09-01T16:57:06Z",
-          "instanceId": "17162612610"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T16:44:31Z",
-          "instanceId": "17162570378"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T16:27:32Z",
-          "instanceId": "17162560470"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T16:18:29Z",
-          "instanceId": "17162545742"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T16:05:52Z",
-          "instanceId": "17162537768"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T15:55:12Z",
-          "instanceId": "17162525662"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T15:51:56Z",
-          "instanceId": "17162516881"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T15:48:35Z",
-          "instanceId": "17162514079"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T15:25:22Z",
-          "instanceId": "17162501484"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T14:50:21Z",
-          "instanceId": "17162482499"
-        }
-      ]
-    },
-    {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
@@ -391,6 +326,71 @@
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-08-24T15:56:16Z",
           "instanceId": "17151570575"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1788327253000,
+      "lastActivityTimestamp": 1788193685000,
+      "lastActivityText": "Terminale Intuitivo: Con matchmaking il 31/08/2026 16:28",
+      "activities": [
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-08-31T16:28:05Z",
+          "instanceId": "17161319815"
+        },
+        {
+          "name": "Il Ponte di Vetro: Personalizzata",
+          "period": "2026-08-31T15:48:47Z",
+          "instanceId": "17161290565"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-31T15:46:44Z",
+          "instanceId": "17161268113"
+        },
+        {
+          "name": "Vuoto Nascosto: Maestro",
+          "period": "2026-08-31T15:39:36Z",
+          "instanceId": "17161266307"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-31T15:38:21Z",
+          "instanceId": "17161259372"
+        },
+        {
+          "name": "Vuoto Nascosto: Maestro",
+          "period": "2026-08-31T15:31:11Z",
+          "instanceId": "17161258309"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-08-31T15:20:07Z",
+          "instanceId": "17161251920"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-31T15:18:44Z",
+          "instanceId": "17161241306"
+        },
+        {
+          "name": "Metamorfosi: Maestro",
+          "period": "2026-08-31T15:12:36Z",
+          "instanceId": "17161240062"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-08-31T15:09:15Z",
+          "instanceId": "17161234431"
         }
       ]
     },
