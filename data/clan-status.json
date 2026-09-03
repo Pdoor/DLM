@@ -1,22 +1,92 @@
 {
-  "generatedAt": "2026-09-03T17:08:03.619Z",
+  "generatedAt": "2026-09-03T20:03:55.829Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
+      "powerLevel": 543,
+      "lastPlayedTimestamp": 1788462923000,
+      "lastActivityTimestamp": 1788461721000,
+      "lastActivityText": "Trasmigrazione: Leggendaria il 03/09/2026 18:55",
+      "activities": [
+        {
+          "name": "Trasmigrazione: Leggendaria",
+          "period": "2026-09-03T18:55:21Z",
+          "instanceId": "17165289808"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-09-02T17:10:33Z",
+          "instanceId": "17163927119"
+        },
+        {
+          "name": "Scostare il Velo",
+          "period": "2026-09-02T17:02:30Z",
+          "instanceId": "17163919953"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-09-02T16:34:30Z",
+          "instanceId": "17163912517"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-02T16:17:22Z",
+          "instanceId": "17163873763"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-09-02T16:01:34Z",
+          "instanceId": "17163863725"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-09-02T15:38:19Z",
+          "instanceId": "17163844306"
+        },
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-09-02T15:33:05Z",
+          "instanceId": "17163834039"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-09-02T15:32:23Z",
+          "instanceId": "17163829093"
+        },
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-09-02T15:28:28Z",
+          "instanceId": "17163828884"
+        }
+      ]
+    },
+    {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1788455199000,
-      "lastActivityTimestamp": 1788453045000,
-      "lastActivityText": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata il 03/09/2026 16:30",
+      "lastPlayedTimestamp": 1788455656000,
+      "lastActivityTimestamp": 1788454165000,
+      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata il 03/09/2026 16:49",
       "activities": [
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-09-03T16:49:25Z",
+          "instanceId": "17165166371"
+        },
         {
           "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
           "period": "2026-09-03T16:30:45Z",
@@ -61,11 +131,6 @@
           "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
           "period": "2026-09-01T15:51:56Z",
           "instanceId": "17162516881"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T15:48:35Z",
-          "instanceId": "17162514079"
         }
       ]
     },
@@ -73,15 +138,20 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1788455201000,
-      "lastActivityTimestamp": 1788453045000,
-      "lastActivityText": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata il 03/09/2026 16:30",
+      "lastPlayedTimestamp": 1788455593000,
+      "lastActivityTimestamp": 1788454165000,
+      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata il 03/09/2026 16:49",
       "activities": [
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-09-03T16:49:25Z",
+          "instanceId": "17165166371"
+        },
         {
           "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
           "period": "2026-09-03T16:30:45Z",
@@ -126,76 +196,6 @@
           "name": "Monastero oscuro",
           "period": "2026-09-02T15:57:50Z",
           "instanceId": "17163864744"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-09-02T15:10:31Z",
-          "instanceId": "17163851929"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Signora del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1788422698000,
-      "lastActivityTimestamp": 1788421141000,
-      "lastActivityText": "Rovesciamento il 03/09/2026 07:39",
-      "activities": [
-        {
-          "name": "Rovesciamento",
-          "period": "2026-09-03T07:39:01Z",
-          "instanceId": "17164781110"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-03T06:49:57Z",
-          "instanceId": "17164769149"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-03T06:30:51Z",
-          "instanceId": "17164731520"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-09-02T17:57:53Z",
-          "instanceId": "17164012254"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-09-01T19:47:13Z",
-          "instanceId": "17162785838"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-09-01T18:53:48Z",
-          "instanceId": "17162759284"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-01T17:12:31Z",
-          "instanceId": "17162591351"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-01T17:04:35Z",
-          "instanceId": "17162587266"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-01T17:01:33Z",
-          "instanceId": "17162580366"
-        },
-        {
-          "name": "Ciò che resta",
-          "period": "2026-09-01T16:44:11Z",
-          "instanceId": "17162577715"
         }
       ]
     },
@@ -208,7 +208,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/33ae72dde2bcc32bce9c2967fc01b727.jpg",
       "powerLevel": 406,
-      "lastPlayedTimestamp": 1788372789000,
+      "lastPlayedTimestamp": 1788462115000,
       "lastActivityTimestamp": 1788371873000,
       "lastActivityText": "La caduta di un Re: Standard il 02/09/2026 17:57",
       "activities": [
@@ -858,7 +858,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1788375167000,
+      "lastPlayedTimestamp": 1788460063000,
       "lastActivityTimestamp": 1786976920000,
       "lastActivityText": "La Città Sognante il 17/08/2026 14:28",
       "activities": [
