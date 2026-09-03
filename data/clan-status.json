@@ -1,9 +1,139 @@
 {
-  "generatedAt": "2026-09-03T13:26:21.584Z",
+  "generatedAt": "2026-09-03T17:08:03.619Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1788455199000,
+      "lastActivityTimestamp": 1788453045000,
+      "lastActivityText": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata il 03/09/2026 16:30",
+      "activities": [
+        {
+          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
+          "period": "2026-09-03T16:30:45Z",
+          "instanceId": "17165143303"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-03T14:53:11Z",
+          "instanceId": "17165060239"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-09-01T16:57:06Z",
+          "instanceId": "17162612610"
+        },
+        {
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-09-01T16:44:31Z",
+          "instanceId": "17162570378"
+        },
+        {
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-09-01T16:27:32Z",
+          "instanceId": "17162560470"
+        },
+        {
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-09-01T16:18:29Z",
+          "instanceId": "17162545742"
+        },
+        {
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-09-01T16:05:52Z",
+          "instanceId": "17162537768"
+        },
+        {
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-09-01T15:55:12Z",
+          "instanceId": "17162525662"
+        },
+        {
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-09-01T15:51:56Z",
+          "instanceId": "17162516881"
+        },
+        {
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-09-01T15:48:35Z",
+          "instanceId": "17162514079"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1788455201000,
+      "lastActivityTimestamp": 1788453045000,
+      "lastActivityText": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata il 03/09/2026 16:30",
+      "activities": [
+        {
+          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
+          "period": "2026-09-03T16:30:45Z",
+          "instanceId": "17165143303"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-03T14:53:11Z",
+          "instanceId": "17165060239"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-09-03T13:24:28Z",
+          "instanceId": "17164975647"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-03T13:08:37Z",
+          "instanceId": "17164971052"
+        },
+        {
+          "name": "Rovina della Signora della Guerra: Standard",
+          "period": "2026-09-03T12:25:07Z",
+          "instanceId": "17165037514"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-09-02T16:33:35Z",
+          "instanceId": "17163885693"
+        },
+        {
+          "name": "Camera del Chiarore Stellare: Maestro",
+          "period": "2026-09-02T16:19:11Z",
+          "instanceId": "17163885144"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-09-02T16:12:17Z",
+          "instanceId": "17163871265"
+        },
+        {
+          "name": "Monastero oscuro",
+          "period": "2026-09-02T15:57:50Z",
+          "instanceId": "17163864744"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-09-02T15:10:31Z",
+          "instanceId": "17163851929"
+        }
+      ]
+    },
     {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
@@ -135,71 +265,6 @@
       ]
     },
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1788441958000,
-      "lastActivityTimestamp": 1788366815000,
-      "lastActivityText": "La Città Sognante il 02/09/2026 16:33",
-      "activities": [
-        {
-          "name": "La Città Sognante",
-          "period": "2026-09-02T16:33:35Z",
-          "instanceId": "17163885693"
-        },
-        {
-          "name": "Camera del Chiarore Stellare: Maestro",
-          "period": "2026-09-02T16:19:11Z",
-          "instanceId": "17163885144"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-09-02T16:12:17Z",
-          "instanceId": "17163871265"
-        },
-        {
-          "name": "Monastero oscuro",
-          "period": "2026-09-02T15:57:50Z",
-          "instanceId": "17163864744"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-09-02T15:10:31Z",
-          "instanceId": "17163851929"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-02T14:40:25Z",
-          "instanceId": "17163795894"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-09-01T16:57:06Z",
-          "instanceId": "17162612610"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T16:44:31Z",
-          "instanceId": "17162570378"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T16:27:32Z",
-          "instanceId": "17162560470"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T16:18:29Z",
-          "instanceId": "17162545742"
-        }
-      ]
-    },
-    {
       "displayName": "No TAG Jay#1042",
       "membershipId": "4611686018465064117",
       "bungieNetMembershipId": "",
@@ -261,71 +326,6 @@
           "name": "Artesia Mons, Venere: Contrabbando: Con matchmaking",
           "period": "2026-08-22T20:21:09Z",
           "instanceId": "17148519292"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1788284218000,
-      "lastActivityTimestamp": 1788281826000,
-      "lastActivityText": "Campo di battaglia Colpo: Marte: Personalizzata il 01/09/2026 16:57",
-      "activities": [
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-09-01T16:57:06Z",
-          "instanceId": "17162612610"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T16:44:31Z",
-          "instanceId": "17162570378"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T16:27:32Z",
-          "instanceId": "17162560470"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T16:18:29Z",
-          "instanceId": "17162545742"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T16:05:52Z",
-          "instanceId": "17162537768"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T15:55:12Z",
-          "instanceId": "17162525662"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T15:51:56Z",
-          "instanceId": "17162516881"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T15:48:35Z",
-          "instanceId": "17162514079"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T15:25:22Z",
-          "instanceId": "17162501484"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T14:50:21Z",
-          "instanceId": "17162482499"
         }
       ]
     },
