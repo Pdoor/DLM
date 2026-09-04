@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T05:40:48.995Z",
+  "generatedAt": "2026-09-04T10:58:13.467Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,41 @@
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1788499945000,
-      "lastActivityTimestamp": 1788498712000,
-      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 04/09/2026 05:11",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1788518539000,
+      "lastActivityTimestamp": 1788517679000,
+      "lastActivityText": "Lago di ombre: Con matchmaking il 04/09/2026 10:27",
       "activities": [
+        {
+          "name": "Lago di ombre: Con matchmaking",
+          "period": "2026-09-04T10:27:59Z",
+          "instanceId": "17166114184"
+        },
+        {
+          "name": "Vegliante del niente: Con matchmaking",
+          "period": "2026-09-04T10:12:01Z",
+          "instanceId": "17166104569"
+        },
+        {
+          "name": "Vegliante del niente: Con matchmaking",
+          "period": "2026-09-04T10:04:18Z",
+          "instanceId": "17166100746"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-09-04T09:48:32Z",
+          "instanceId": "17166091888"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-09-04T08:02:52Z",
+          "instanceId": "17166045265"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-09-04T07:52:50Z",
+          "instanceId": "17166026702"
+        },
         {
           "name": "La Tana dei Diavoli: Con matchmaking",
           "period": "2026-09-04T05:11:52Z",
@@ -36,36 +66,6 @@
           "name": "Volta di Vetro: Standard",
           "period": "2026-09-03T10:16:45Z",
           "instanceId": "17164855254"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-03T10:04:13Z",
-          "instanceId": "17164849704"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-03T09:54:02Z",
-          "instanceId": "17164843730"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-03T09:44:44Z",
-          "instanceId": "17164838718"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-03T09:33:01Z",
-          "instanceId": "17164833228"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-09-03T08:41:20Z",
-          "instanceId": "17164826463"
-        },
-        {
-          "name": "Vegliante del niente: Personalizzata",
-          "period": "2026-09-03T08:16:27Z",
-          "instanceId": "17164798016"
         }
       ]
     },
