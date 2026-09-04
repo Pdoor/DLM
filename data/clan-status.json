@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T14:54:15.365Z",
+  "generatedAt": "2026-09-04T18:13:04.078Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,55 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1788533628000,
-      "lastActivityTimestamp": 1788532082000,
-      "lastActivityText": "Vegliante del niente: Personalizzata il 04/09/2026 14:28",
+      "lastPlayedTimestamp": 1788543856000,
+      "lastActivityTimestamp": 1788542818000,
+      "lastActivityText": "Campo di battaglia Colpo: Luna: Con matchmaking il 04/09/2026 17:26",
       "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-09-04T17:26:58Z",
+          "instanceId": "17166470803"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-09-04T17:05:38Z",
+          "instanceId": "17166437239"
+        },
+        {
+          "name": "Baia dei Desideri Annegati: Maestro",
+          "period": "2026-09-04T16:56:25Z",
+          "instanceId": "17166432999"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-09-04T16:54:20Z",
+          "instanceId": "17166423167"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-09-04T16:37:30Z",
+          "instanceId": "17166420716"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-09-04T16:25:09Z",
+          "instanceId": "17166406136"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-09-04T15:43:30Z",
+          "instanceId": "17166391265"
+        },
+        {
+          "name": "Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-09-04T14:46:52Z",
+          "instanceId": "17166340907"
+        },
         {
           "name": "Vegliante del niente: Personalizzata",
           "period": "2026-09-04T14:28:02Z",
@@ -26,46 +66,6 @@
           "name": "La fine di Crota: Standard",
           "period": "2026-09-04T13:55:59Z",
           "instanceId": "17166276346"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-04T13:33:26Z",
-          "instanceId": "17166235909"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-04T13:10:29Z",
-          "instanceId": "17166225334"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-09-04T13:03:08Z",
-          "instanceId": "17166212677"
-        },
-        {
-          "name": "Vegliante del niente: Con matchmaking",
-          "period": "2026-09-04T12:40:40Z",
-          "instanceId": "17166198788"
-        },
-        {
-          "name": "Lago di ombre: Con matchmaking",
-          "period": "2026-09-04T10:27:59Z",
-          "instanceId": "17166114184"
-        },
-        {
-          "name": "Vegliante del niente: Con matchmaking",
-          "period": "2026-09-04T10:12:01Z",
-          "instanceId": "17166104569"
-        },
-        {
-          "name": "Vegliante del niente: Con matchmaking",
-          "period": "2026-09-04T10:04:18Z",
-          "instanceId": "17166100746"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-09-04T09:48:32Z",
-          "instanceId": "17166091888"
         }
       ]
     },
@@ -73,15 +73,35 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1788533633000,
-      "lastActivityTimestamp": 1788530159000,
-      "lastActivityText": "La fine di Crota: Standard il 04/09/2026 13:55",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1788539481000,
+      "lastActivityTimestamp": 1788539109000,
+      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 04/09/2026 16:25",
       "activities": [
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-09-04T16:25:09Z",
+          "instanceId": "17166406136"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-09-04T15:43:30Z",
+          "instanceId": "17166391265"
+        },
+        {
+          "name": "Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-09-04T14:46:52Z",
+          "instanceId": "17166340907"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Audace",
+          "period": "2026-09-04T14:21:24Z",
+          "instanceId": "17166305522"
+        },
         {
           "name": "La fine di Crota: Standard",
           "period": "2026-09-04T13:55:59Z",
@@ -111,26 +131,71 @@
           "name": "Campo di battaglia Colpo: Marte: Personalizzata",
           "period": "2026-09-01T16:57:06Z",
           "instanceId": "17162612610"
+        }
+      ]
+    },
+    {
+      "displayName": "Jhonny#3878",
+      "membershipId": "4611686018489632599",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1788536960000,
+      "lastActivityTimestamp": 1788535796000,
+      "lastActivityText": "Vegliante del niente: Personalizzata il 04/09/2026 15:29",
+      "activities": [
+        {
+          "name": "Vegliante del niente: Personalizzata",
+          "period": "2026-09-04T15:29:56Z",
+          "instanceId": "17166353178"
         },
         {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T16:44:31Z",
-          "instanceId": "17162570378"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T16:44:56Z",
+          "instanceId": "17158322162"
         },
         {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T16:27:32Z",
-          "instanceId": "17162560470"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T16:30:52Z",
+          "instanceId": "17158304095"
         },
         {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T16:18:29Z",
-          "instanceId": "17162545742"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T16:18:41Z",
+          "instanceId": "17158286160"
         },
         {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T16:05:52Z",
-          "instanceId": "17162537768"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-29T16:04:55Z",
+          "instanceId": "17158270213"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-08-29T15:55:01Z",
+          "instanceId": "17158252559"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-17T15:28:36Z",
+          "instanceId": "17139916634"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-08-17T15:27:07Z",
+          "instanceId": "17139890286"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-16T16:23:43Z",
+          "instanceId": "17138057736"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-08-15T15:35:36Z",
+          "instanceId": "17135868459"
         }
       ]
     },
@@ -138,12 +203,12 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
       "powerLevel": 543,
-      "lastPlayedTimestamp": 1788462923000,
+      "lastPlayedTimestamp": 1788545566000,
       "lastActivityTimestamp": 1788461721000,
       "lastActivityText": "Trasmigrazione: Leggendaria il 03/09/2026 18:55",
       "activities": [
@@ -203,12 +268,12 @@
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/33ae72dde2bcc32bce9c2967fc01b727.jpg",
-      "powerLevel": 406,
-      "lastPlayedTimestamp": 1788462115000,
+      "powerLevel": 400,
+      "lastPlayedTimestamp": 1788545526000,
       "lastActivityTimestamp": 1788371873000,
       "lastActivityText": "La caduta di un Re: Standard il 02/09/2026 17:57",
       "activities": [
@@ -521,71 +586,6 @@
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-08-04T13:50:53Z",
           "instanceId": "17112714458"
-        }
-      ]
-    },
-    {
-      "displayName": "Jhonny#3878",
-      "membershipId": "4611686018489632599",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1788022652000,
-      "lastActivityTimestamp": 1788021896000,
-      "lastActivityText": "Controllo: Con matchmaking il 29/08/2026 16:44",
-      "activities": [
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-29T16:44:56Z",
-          "instanceId": "17158322162"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-29T16:30:52Z",
-          "instanceId": "17158304095"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-29T16:18:41Z",
-          "instanceId": "17158286160"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-29T16:04:55Z",
-          "instanceId": "17158270213"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-08-29T15:55:01Z",
-          "instanceId": "17158252559"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-17T15:28:36Z",
-          "instanceId": "17139916634"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-08-17T15:27:07Z",
-          "instanceId": "17139890286"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-16T16:23:43Z",
-          "instanceId": "17138057736"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-15T15:35:36Z",
-          "instanceId": "17135868459"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-08-15T15:15:09Z",
-          "instanceId": "17135810725"
         }
       ]
     },
