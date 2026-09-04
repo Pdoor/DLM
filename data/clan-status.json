@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T10:58:13.467Z",
+  "generatedAt": "2026-09-04T14:54:15.365Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,45 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1788518539000,
-      "lastActivityTimestamp": 1788517679000,
-      "lastActivityText": "Lago di ombre: Con matchmaking il 04/09/2026 10:27",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1788533628000,
+      "lastActivityTimestamp": 1788532082000,
+      "lastActivityText": "Vegliante del niente: Personalizzata il 04/09/2026 14:28",
       "activities": [
+        {
+          "name": "Vegliante del niente: Personalizzata",
+          "period": "2026-09-04T14:28:02Z",
+          "instanceId": "17166297150"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-09-04T13:55:59Z",
+          "instanceId": "17166276346"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-04T13:33:26Z",
+          "instanceId": "17166235909"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-04T13:10:29Z",
+          "instanceId": "17166225334"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-09-04T13:03:08Z",
+          "instanceId": "17166212677"
+        },
+        {
+          "name": "Vegliante del niente: Con matchmaking",
+          "period": "2026-09-04T12:40:40Z",
+          "instanceId": "17166198788"
+        },
         {
           "name": "Lago di ombre: Con matchmaking",
           "period": "2026-09-04T10:27:59Z",
@@ -36,36 +66,71 @@
           "name": "La Tana dei Diavoli: Con matchmaking",
           "period": "2026-09-04T09:48:32Z",
           "instanceId": "17166091888"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1788533633000,
+      "lastActivityTimestamp": 1788530159000,
+      "lastActivityText": "La fine di Crota: Standard il 04/09/2026 13:55",
+      "activities": [
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-09-04T13:55:59Z",
+          "instanceId": "17166276346"
         },
         {
-          "name": "Zona Morta Europea",
-          "period": "2026-09-04T08:02:52Z",
-          "instanceId": "17166045265"
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-09-03T16:49:25Z",
+          "instanceId": "17165166371"
         },
         {
-          "name": "Cosmodromo",
-          "period": "2026-09-04T07:52:50Z",
-          "instanceId": "17166026702"
+          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
+          "period": "2026-09-03T16:30:45Z",
+          "instanceId": "17165143303"
         },
         {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-09-04T05:11:52Z",
-          "instanceId": "17165924842"
+          "name": "Profezia",
+          "period": "2026-09-03T15:15:50Z",
+          "instanceId": "17165361119"
         },
         {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-09-03T12:17:43Z",
-          "instanceId": "17164932145"
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-03T14:53:11Z",
+          "instanceId": "17165060239"
         },
         {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-03T10:25:47Z",
-          "instanceId": "17164860935"
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-09-01T16:57:06Z",
+          "instanceId": "17162612610"
         },
         {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-03T10:16:45Z",
-          "instanceId": "17164855254"
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-09-01T16:44:31Z",
+          "instanceId": "17162570378"
+        },
+        {
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-09-01T16:27:32Z",
+          "instanceId": "17162560470"
+        },
+        {
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-09-01T16:18:29Z",
+          "instanceId": "17162545742"
+        },
+        {
+          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
+          "period": "2026-09-01T16:05:52Z",
+          "instanceId": "17162537768"
         }
       ]
     },
@@ -131,71 +196,6 @@
           "name": "Confluenza: Maestro",
           "period": "2026-09-02T15:28:28Z",
           "instanceId": "17163828884"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1788455656000,
-      "lastActivityTimestamp": 1788454165000,
-      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata il 03/09/2026 16:49",
-      "activities": [
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-09-03T16:49:25Z",
-          "instanceId": "17165166371"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
-          "period": "2026-09-03T16:30:45Z",
-          "instanceId": "17165143303"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-09-03T15:15:50Z",
-          "instanceId": "17165361119"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-09-03T14:53:11Z",
-          "instanceId": "17165060239"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-09-01T16:57:06Z",
-          "instanceId": "17162612610"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T16:44:31Z",
-          "instanceId": "17162570378"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T16:27:32Z",
-          "instanceId": "17162560470"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T16:18:29Z",
-          "instanceId": "17162545742"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T16:05:52Z",
-          "instanceId": "17162537768"
-        },
-        {
-          "name": "Conquista modalità estrema: La lama di Luce: Personalizzata",
-          "period": "2026-09-01T15:55:12Z",
-          "instanceId": "17162525662"
         }
       ]
     },
