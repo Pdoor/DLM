@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T20:37:53.001Z",
+  "generatedAt": "2026-09-05T22:43:53.347Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,16 @@
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/33ae72dde2bcc32bce9c2967fc01b727.jpg",
-      "powerLevel": 429,
-      "lastPlayedTimestamp": 1788640527000,
-      "lastActivityTimestamp": 1788637486000,
-      "lastActivityText": "Gloria futura: Leggendaria il 05/09/2026 19:44",
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1788647908000,
+      "lastActivityTimestamp": 1788642186000,
+      "lastActivityText": "Fuoco e ghiaccio: Leggendaria il 05/09/2026 21:03",
       "activities": [
+        {
+          "name": "Fuoco e ghiaccio: Leggendaria",
+          "period": "2026-09-05T21:03:06Z",
+          "instanceId": "17168214907"
+        },
         {
           "name": "Gloria futura: Leggendaria",
           "period": "2026-09-05T19:44:46Z",
@@ -61,76 +66,6 @@
           "name": "Benvenuti alla Frontiera: Normale",
           "period": "2026-09-04T19:01:05Z",
           "instanceId": "17166574263"
-        },
-        {
-          "name": "Impero: Leggendaria",
-          "period": "2026-09-04T18:14:19Z",
-          "instanceId": "17166533161"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1788640627000,
-      "lastActivityTimestamp": 1788637486000,
-      "lastActivityText": "Gloria futura: Leggendaria il 05/09/2026 19:44",
-      "activities": [
-        {
-          "name": "Gloria futura: Leggendaria",
-          "period": "2026-09-05T19:44:46Z",
-          "instanceId": "17168104151"
-        },
-        {
-          "name": "Il Relitto",
-          "period": "2026-09-05T19:41:52Z",
-          "instanceId": "17168073235"
-        },
-        {
-          "name": "Il lungo inganno: Leggendaria",
-          "period": "2026-09-05T19:19:41Z",
-          "instanceId": "17168069027"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Leggendaria",
-          "period": "2026-09-05T17:24:10Z",
-          "instanceId": "17167940596"
-        },
-        {
-          "name": "Soli e al freddo: Leggendaria",
-          "period": "2026-09-04T21:57:13Z",
-          "instanceId": "17166781866"
-        },
-        {
-          "name": "Il Relitto",
-          "period": "2026-09-04T21:04:57Z",
-          "instanceId": "17166696641"
-        },
-        {
-          "name": "Avamposto di Tharsis",
-          "period": "2026-09-04T20:54:39Z",
-          "instanceId": "17166683774"
-        },
-        {
-          "name": "Temibile aiutante: Leggendaria",
-          "period": "2026-09-04T20:21:30Z",
-          "instanceId": "17166671024"
-        },
-        {
-          "name": "Benvenuti alla Frontiera: Normale",
-          "period": "2026-09-04T19:00:38Z",
-          "instanceId": "17166567075"
-        },
-        {
-          "name": "Impero: Leggendaria",
-          "period": "2026-09-04T18:14:19Z",
-          "instanceId": "17166533161"
         }
       ]
     },
@@ -261,6 +196,71 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-01T16:30:27Z",
           "instanceId": "16999953698"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/80f5aec4b03c7613d8628b7b7077b936.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1788647922000,
+      "lastActivityTimestamp": 1788624245000,
+      "lastActivityText": "Partita veloce: Normale il 05/09/2026 16:04",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-09-05T16:04:05Z",
+          "instanceId": "17167803314"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-05T15:44:59Z",
+          "instanceId": "17167782879"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-05T14:41:31Z",
+          "instanceId": "17167757874"
+        },
+        {
+          "name": "Scalata: Normale",
+          "period": "2026-09-05T14:12:36Z",
+          "instanceId": "17167685586"
+        },
+        {
+          "name": "Requiem: Normale",
+          "period": "2026-09-05T13:56:31Z",
+          "instanceId": "17167666881"
+        },
+        {
+          "name": "Esegesi: Normale",
+          "period": "2026-09-05T13:35:54Z",
+          "instanceId": "17167648395"
+        },
+        {
+          "name": "Tentazione: Normale",
+          "period": "2026-09-05T13:15:11Z",
+          "instanceId": "17167626709"
+        },
+        {
+          "name": "Trasmigrazione: Normale",
+          "period": "2026-09-05T12:50:59Z",
+          "instanceId": "17167608256"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-06-27T18:29:52Z",
+          "instanceId": "16981502231"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2024-10-21T14:40:58Z",
+          "instanceId": "15626550761"
         }
       ]
     },
