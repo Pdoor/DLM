@@ -1,22 +1,157 @@
 {
-  "generatedAt": "2026-09-05T18:08:03.997Z",
+  "generatedAt": "2026-09-05T20:37:53.001Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/33ae72dde2bcc32bce9c2967fc01b727.jpg",
+      "powerLevel": 429,
+      "lastPlayedTimestamp": 1788640527000,
+      "lastActivityTimestamp": 1788637486000,
+      "lastActivityText": "Gloria futura: Leggendaria il 05/09/2026 19:44",
+      "activities": [
+        {
+          "name": "Gloria futura: Leggendaria",
+          "period": "2026-09-05T19:44:46Z",
+          "instanceId": "17168104151"
+        },
+        {
+          "name": "Il Relitto",
+          "period": "2026-09-05T19:41:52Z",
+          "instanceId": "17168073235"
+        },
+        {
+          "name": "Il lungo inganno: Leggendaria",
+          "period": "2026-09-05T19:19:41Z",
+          "instanceId": "17168069027"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Leggendaria",
+          "period": "2026-09-05T17:24:10Z",
+          "instanceId": "17167940596"
+        },
+        {
+          "name": "Soli e al freddo: Leggendaria",
+          "period": "2026-09-04T21:57:13Z",
+          "instanceId": "17166781866"
+        },
+        {
+          "name": "Il Relitto",
+          "period": "2026-09-04T21:04:57Z",
+          "instanceId": "17166696641"
+        },
+        {
+          "name": "Avamposto di Tharsis",
+          "period": "2026-09-04T20:54:39Z",
+          "instanceId": "17166683774"
+        },
+        {
+          "name": "Temibile aiutante: Leggendaria",
+          "period": "2026-09-04T20:21:30Z",
+          "instanceId": "17166671024"
+        },
+        {
+          "name": "Benvenuti alla Frontiera: Normale",
+          "period": "2026-09-04T19:01:05Z",
+          "instanceId": "17166574263"
+        },
+        {
+          "name": "Impero: Leggendaria",
+          "period": "2026-09-04T18:14:19Z",
+          "instanceId": "17166533161"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1788640627000,
+      "lastActivityTimestamp": 1788637486000,
+      "lastActivityText": "Gloria futura: Leggendaria il 05/09/2026 19:44",
+      "activities": [
+        {
+          "name": "Gloria futura: Leggendaria",
+          "period": "2026-09-05T19:44:46Z",
+          "instanceId": "17168104151"
+        },
+        {
+          "name": "Il Relitto",
+          "period": "2026-09-05T19:41:52Z",
+          "instanceId": "17168073235"
+        },
+        {
+          "name": "Il lungo inganno: Leggendaria",
+          "period": "2026-09-05T19:19:41Z",
+          "instanceId": "17168069027"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Leggendaria",
+          "period": "2026-09-05T17:24:10Z",
+          "instanceId": "17167940596"
+        },
+        {
+          "name": "Soli e al freddo: Leggendaria",
+          "period": "2026-09-04T21:57:13Z",
+          "instanceId": "17166781866"
+        },
+        {
+          "name": "Il Relitto",
+          "period": "2026-09-04T21:04:57Z",
+          "instanceId": "17166696641"
+        },
+        {
+          "name": "Avamposto di Tharsis",
+          "period": "2026-09-04T20:54:39Z",
+          "instanceId": "17166683774"
+        },
+        {
+          "name": "Temibile aiutante: Leggendaria",
+          "period": "2026-09-04T20:21:30Z",
+          "instanceId": "17166671024"
+        },
+        {
+          "name": "Benvenuti alla Frontiera: Normale",
+          "period": "2026-09-04T19:00:38Z",
+          "instanceId": "17166567075"
+        },
+        {
+          "name": "Impero: Leggendaria",
+          "period": "2026-09-04T18:14:19Z",
+          "instanceId": "17166533161"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1788631568000,
-      "lastActivityTimestamp": 1788630300000,
-      "lastActivityText": "Volta di Vetro: Standard il 05/09/2026 17:45",
+      "lastPlayedTimestamp": 1788631867000,
+      "lastActivityTimestamp": 1788630539000,
+      "lastActivityText": "Corrente dell'iper-rete: Con matchmaking il 05/09/2026 17:48",
       "activities": [
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-09-05T17:48:59Z",
+          "instanceId": "17167951687"
+        },
         {
           "name": "Volta di Vetro: Standard",
           "period": "2026-09-05T17:45:00Z",
@@ -61,141 +196,6 @@
           "name": "Baia dei Desideri Annegati: Maestro",
           "period": "2026-09-04T16:56:25Z",
           "instanceId": "17166432999"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-09-04T16:54:20Z",
-          "instanceId": "17166423167"
-        }
-      ]
-    },
-    {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/33ae72dde2bcc32bce9c2967fc01b727.jpg",
-      "powerLevel": 417,
-      "lastPlayedTimestamp": 1788631642000,
-      "lastActivityTimestamp": 1788629050000,
-      "lastActivityText": "Fuoco e ghiaccio: Leggendaria il 05/09/2026 17:24",
-      "activities": [
-        {
-          "name": "Fuoco e ghiaccio: Leggendaria",
-          "period": "2026-09-05T17:24:10Z",
-          "instanceId": "17167940596"
-        },
-        {
-          "name": "Soli e al freddo: Leggendaria",
-          "period": "2026-09-04T21:57:13Z",
-          "instanceId": "17166781866"
-        },
-        {
-          "name": "Il Relitto",
-          "period": "2026-09-04T21:04:57Z",
-          "instanceId": "17166696641"
-        },
-        {
-          "name": "Avamposto di Tharsis",
-          "period": "2026-09-04T20:54:39Z",
-          "instanceId": "17166683774"
-        },
-        {
-          "name": "Temibile aiutante: Leggendaria",
-          "period": "2026-09-04T20:21:30Z",
-          "instanceId": "17166671024"
-        },
-        {
-          "name": "Benvenuti alla Frontiera: Normale",
-          "period": "2026-09-04T19:01:05Z",
-          "instanceId": "17166574263"
-        },
-        {
-          "name": "Impero: Leggendaria",
-          "period": "2026-09-04T18:14:19Z",
-          "instanceId": "17166533161"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-09-02T17:57:53Z",
-          "instanceId": "17164012254"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-02T17:10:33Z",
-          "instanceId": "17163927119"
-        },
-        {
-          "name": "Scostare il Velo",
-          "period": "2026-09-02T17:02:30Z",
-          "instanceId": "17163919953"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1788631662000,
-      "lastActivityTimestamp": 1788629050000,
-      "lastActivityText": "Fuoco e ghiaccio: Leggendaria il 05/09/2026 17:24",
-      "activities": [
-        {
-          "name": "Fuoco e ghiaccio: Leggendaria",
-          "period": "2026-09-05T17:24:10Z",
-          "instanceId": "17167940596"
-        },
-        {
-          "name": "Soli e al freddo: Leggendaria",
-          "period": "2026-09-04T21:57:13Z",
-          "instanceId": "17166781866"
-        },
-        {
-          "name": "Il Relitto",
-          "period": "2026-09-04T21:04:57Z",
-          "instanceId": "17166696641"
-        },
-        {
-          "name": "Avamposto di Tharsis",
-          "period": "2026-09-04T20:54:39Z",
-          "instanceId": "17166683774"
-        },
-        {
-          "name": "Temibile aiutante: Leggendaria",
-          "period": "2026-09-04T20:21:30Z",
-          "instanceId": "17166671024"
-        },
-        {
-          "name": "Benvenuti alla Frontiera: Normale",
-          "period": "2026-09-04T19:00:38Z",
-          "instanceId": "17166567075"
-        },
-        {
-          "name": "Impero: Leggendaria",
-          "period": "2026-09-04T18:14:19Z",
-          "instanceId": "17166533161"
-        },
-        {
-          "name": "Trasmigrazione: Leggendaria",
-          "period": "2026-09-03T18:55:21Z",
-          "instanceId": "17165289808"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-02T17:10:33Z",
-          "instanceId": "17163927119"
-        },
-        {
-          "name": "Scostare il Velo",
-          "period": "2026-09-02T17:02:30Z",
-          "instanceId": "17163919953"
         }
       ]
     },
@@ -858,7 +858,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1788548625000,
+      "lastPlayedTimestamp": 1788633717000,
       "lastActivityTimestamp": 1786976920000,
       "lastActivityText": "La Città Sognante il 17/08/2026 14:28",
       "activities": [
