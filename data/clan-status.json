@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-09-05T05:27:55.354Z",
+  "generatedAt": "2026-09-05T09:16:32.071Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1788595350000,
+      "lastActivityTimestamp": 1788594996000,
+      "lastActivityText": "Campo di battaglia Colpo: Luna: Con matchmaking il 05/09/2026 07:56",
+      "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-09-05T07:56:36Z",
+          "instanceId": "17167386195"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-05T07:55:02Z",
+          "instanceId": "17167373543"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-05T07:47:46Z",
+          "instanceId": "17167369782"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-09-03T16:49:25Z",
+          "instanceId": "17165166371"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
+          "period": "2026-09-03T16:30:45Z",
+          "instanceId": "17165143303"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-09-03T15:15:50Z",
+          "instanceId": "17165361119"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-03T14:53:11Z",
+          "instanceId": "17165060239"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-09-03T13:24:28Z",
+          "instanceId": "17164975647"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-03T13:08:37Z",
+          "instanceId": "17164971052"
+        },
+        {
+          "name": "Rovina della Signora della Guerra: Standard",
+          "period": "2026-09-03T12:25:07Z",
+          "instanceId": "17165037514"
+        }
+      ]
+    },
     {
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
@@ -131,71 +196,6 @@
           "name": "Neomuna",
           "period": "2026-09-02T16:34:30Z",
           "instanceId": "17163912517"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1788585993000,
-      "lastActivityTimestamp": 1788542818000,
-      "lastActivityText": "Campo di battaglia Colpo: Luna: Con matchmaking il 04/09/2026 17:26",
-      "activities": [
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-09-04T17:26:58Z",
-          "instanceId": "17166470803"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-09-04T17:05:38Z",
-          "instanceId": "17166437239"
-        },
-        {
-          "name": "Baia dei Desideri Annegati: Maestro",
-          "period": "2026-09-04T16:56:25Z",
-          "instanceId": "17166432999"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-09-04T16:54:20Z",
-          "instanceId": "17166423167"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-09-04T16:37:30Z",
-          "instanceId": "17166420716"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-09-04T16:25:09Z",
-          "instanceId": "17166406136"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-09-04T15:43:30Z",
-          "instanceId": "17166391265"
-        },
-        {
-          "name": "Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-09-04T14:46:52Z",
-          "instanceId": "17166340907"
-        },
-        {
-          "name": "Vegliante del niente: Personalizzata",
-          "period": "2026-09-04T14:28:02Z",
-          "instanceId": "17166297150"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-09-04T13:55:59Z",
-          "instanceId": "17166276346"
         }
       ]
     },
