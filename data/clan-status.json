@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T09:16:32.071Z",
+  "generatedAt": "2026-09-05T12:57:31.885Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,45 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1788595350000,
-      "lastActivityTimestamp": 1788594996000,
-      "lastActivityText": "Campo di battaglia Colpo: Luna: Con matchmaking il 05/09/2026 07:56",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1788612935000,
+      "lastActivityTimestamp": 1788609062000,
+      "lastActivityText": "Volta di Vetro: Standard il 05/09/2026 11:51",
       "activities": [
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-05T11:51:02Z",
+          "instanceId": "17167543785"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-05T11:43:49Z",
+          "instanceId": "17167540353"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-09-05T10:45:08Z",
+          "instanceId": "17167499621"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-05T10:20:41Z",
+          "instanceId": "17167502878"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-05T10:06:26Z",
+          "instanceId": "17167465631"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-05T09:58:33Z",
+          "instanceId": "17167478740"
+        },
         {
           "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
           "period": "2026-09-05T07:56:36Z",
@@ -33,39 +63,9 @@
           "instanceId": "17167369782"
         },
         {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-09-03T16:49:25Z",
-          "instanceId": "17165166371"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
-          "period": "2026-09-03T16:30:45Z",
-          "instanceId": "17165143303"
-        },
-        {
           "name": "Profezia",
           "period": "2026-09-03T15:15:50Z",
           "instanceId": "17165361119"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-09-03T14:53:11Z",
-          "instanceId": "17165060239"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-09-03T13:24:28Z",
-          "instanceId": "17164975647"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-09-03T13:08:37Z",
-          "instanceId": "17164971052"
-        },
-        {
-          "name": "Rovina della Signora della Guerra: Standard",
-          "period": "2026-09-03T12:25:07Z",
-          "instanceId": "17165037514"
         }
       ]
     },
@@ -116,71 +116,6 @@
           "name": "La caduta di un Re: Standard",
           "period": "2026-09-02T17:57:53Z",
           "instanceId": "17164012254"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-02T17:10:33Z",
-          "instanceId": "17163927119"
-        },
-        {
-          "name": "Scostare il Velo",
-          "period": "2026-09-02T17:02:30Z",
-          "instanceId": "17163919953"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-02T16:34:30Z",
-          "instanceId": "17163912517"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1788560844000,
-      "lastActivityTimestamp": 1788559033000,
-      "lastActivityText": "Soli e al freddo: Leggendaria il 04/09/2026 21:57",
-      "activities": [
-        {
-          "name": "Soli e al freddo: Leggendaria",
-          "period": "2026-09-04T21:57:13Z",
-          "instanceId": "17166781866"
-        },
-        {
-          "name": "Il Relitto",
-          "period": "2026-09-04T21:04:57Z",
-          "instanceId": "17166696641"
-        },
-        {
-          "name": "Avamposto di Tharsis",
-          "period": "2026-09-04T20:54:39Z",
-          "instanceId": "17166683774"
-        },
-        {
-          "name": "Temibile aiutante: Leggendaria",
-          "period": "2026-09-04T20:21:30Z",
-          "instanceId": "17166671024"
-        },
-        {
-          "name": "Benvenuti alla Frontiera: Normale",
-          "period": "2026-09-04T19:00:38Z",
-          "instanceId": "17166567075"
-        },
-        {
-          "name": "Impero: Leggendaria",
-          "period": "2026-09-04T18:14:19Z",
-          "instanceId": "17166533161"
-        },
-        {
-          "name": "Trasmigrazione: Leggendaria",
-          "period": "2026-09-03T18:55:21Z",
-          "instanceId": "17165289808"
         },
         {
           "name": "Neomuna",
@@ -2146,6 +2081,71 @@
           "name": "Missione: Calcolo: Leggendaria",
           "period": "2025-07-23T22:59:28Z",
           "instanceId": "16340487226"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f6bb9e6d08d8881be22dfa2b79f7b2af.jpg",
+      "powerLevel": 515,
+      "lastPlayedTimestamp": 1788613029000,
+      "lastActivityTimestamp": 1782584992000,
+      "lastActivityText": "Profezia il 27/06/2026 18:29",
+      "activities": [
+        {
+          "name": "Profezia",
+          "period": "2026-06-27T18:29:52Z",
+          "instanceId": "16981502231"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2024-10-21T14:40:58Z",
+          "instanceId": "15626550761"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2024-10-20T18:50:00Z",
+          "instanceId": "15623734950"
+        },
+        {
+          "name": "Misure disperate: Leggendaria",
+          "period": "2024-10-20T17:58:42Z",
+          "instanceId": "15623696828"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2024-10-20T17:55:11Z",
+          "instanceId": "15623530285"
+        },
+        {
+          "name": "A testa bassa: Normale",
+          "period": "2024-10-20T17:49:49Z",
+          "instanceId": "15623517585"
+        },
+        {
+          "name": "A testa bassa: Normale",
+          "period": "2024-10-20T17:39:12Z",
+          "instanceId": "15623498020"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2024-10-20T17:37:46Z",
+          "instanceId": "15623462147"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2024-10-20T14:44:01Z",
+          "instanceId": "15622912445"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Normale",
+          "period": "2024-10-20T14:30:16Z",
+          "instanceId": "15622889709"
         }
       ]
     },
