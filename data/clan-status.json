@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-09-06T10:38:58.092Z",
+  "generatedAt": "2026-09-06T14:03:33.958Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1788698999000,
+      "lastActivityTimestamp": 1788698482000,
+      "lastActivityText": "Alloggi Equipaggio R1: Maestro il 06/09/2026 12:41",
+      "activities": [
+        {
+          "name": "Alloggi Equipaggio R1: Maestro",
+          "period": "2026-09-06T12:41:22Z",
+          "instanceId": "17169136889"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-09-06T12:39:26Z",
+          "instanceId": "17169129873"
+        },
+        {
+          "name": "Alloggi Equipaggio R1: Maestro",
+          "period": "2026-09-06T12:30:14Z",
+          "instanceId": "17169128164"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-09-06T12:22:01Z",
+          "instanceId": "17169119978"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-09-06T11:51:53Z",
+          "instanceId": "17169103540"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-09-06T11:24:39Z",
+          "instanceId": "17169079242"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-09-06T06:45:57Z",
+          "instanceId": "17168880199"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-09-06T05:32:40Z",
+          "instanceId": "17168791726"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-06T04:59:21Z",
+          "instanceId": "17168759414"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-09-03T05:48:27Z",
+          "instanceId": "17164707017"
+        }
+      ]
+    },
     {
       "displayName": "Jhonny#3878",
       "membershipId": "4611686018489632599",
@@ -131,71 +196,6 @@
           "name": "Pantheon: Morgeth soverchiante: Personalizzata",
           "period": "2026-06-20T20:04:39Z",
           "instanceId": "16945260471"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1788680174000,
-      "lastActivityTimestamp": 1788677157000,
-      "lastActivityText": "Zona Morta Europea il 06/09/2026 06:45",
-      "activities": [
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-09-06T06:45:57Z",
-          "instanceId": "17168880199"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-09-06T05:32:40Z",
-          "instanceId": "17168791726"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-06T04:59:21Z",
-          "instanceId": "17168759414"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-09-03T05:48:27Z",
-          "instanceId": "17164707017"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-09-03T05:27:15Z",
-          "instanceId": "17164696111"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-09-03T05:09:28Z",
-          "instanceId": "17164680029"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-09-02T17:51:32Z",
-          "instanceId": "17163973571"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-09-02T17:26:40Z",
-          "instanceId": "17163951430"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-09-02T13:29:24Z",
-          "instanceId": "17163750082"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-09-02T12:50:30Z",
-          "instanceId": "17163729995"
         }
       ]
     },
