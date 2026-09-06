@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T19:26:09.123Z",
+  "generatedAt": "2026-09-06T21:36:18.220Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/80f5aec4b03c7613d8628b7b7077b936.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1788722727000,
-      "lastActivityTimestamp": 1788720373000,
-      "lastActivityText": "Volta di Vetro: Standard il 06/09/2026 18:46",
+      "lastPlayedTimestamp": 1788724410000,
+      "lastActivityTimestamp": 1788723389000,
+      "lastActivityText": "Volta di Vetro: Standard il 06/09/2026 19:36",
       "activities": [
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-06T19:36:29Z",
+          "instanceId": "17169649566"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-06T18:59:36Z",
+          "instanceId": "17169617406"
+        },
         {
           "name": "Volta di Vetro: Standard",
           "period": "2026-09-06T18:46:13Z",
@@ -56,16 +66,6 @@
           "name": "Europa",
           "period": "2026-09-06T14:41:15Z",
           "instanceId": "17169255454"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-06T01:18:25Z",
-          "instanceId": "17168561227"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-06T01:09:51Z",
-          "instanceId": "17168481662"
         }
       ]
     },
@@ -338,7 +338,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/33ae72dde2bcc32bce9c2967fc01b727.jpg",
       "powerLevel": 442,
-      "lastPlayedTimestamp": 1788661447000,
+      "lastPlayedTimestamp": 1788723061000,
       "lastActivityTimestamp": 1788657505000,
       "lastActivityText": "Equilibrio: Standard il 06/09/2026 01:18",
       "activities": [
