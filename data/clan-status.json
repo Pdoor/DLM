@@ -1,22 +1,122 @@
 {
-  "generatedAt": "2026-09-06T14:03:33.958Z",
+  "generatedAt": "2026-09-06T17:17:18.234Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1788715011000,
+      "lastActivityTimestamp": 1788713593000,
+      "lastActivityText": "Campi di battaglia: Nucleo: Personalizzata il 06/09/2026 16:53",
+      "activities": [
+        {
+          "name": "Campi di battaglia: Nucleo: Personalizzata",
+          "period": "2026-09-06T16:53:13Z",
+          "instanceId": "17169427504"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-09-06T16:39:09Z",
+          "instanceId": "17169397861"
+        },
+        {
+          "name": "Alloggi Equipaggio R1: Maestro",
+          "period": "2026-09-06T16:32:24Z",
+          "instanceId": "17169395985"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-09-06T16:30:58Z",
+          "instanceId": "17169387519"
+        },
+        {
+          "name": "Alloggi Equipaggio R1: Maestro",
+          "period": "2026-09-06T16:24:27Z",
+          "instanceId": "17169385816"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-09-06T16:16:34Z",
+          "instanceId": "17169377366"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-09-06T16:07:22Z",
+          "instanceId": "17169367764"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-09-04T16:25:09Z",
+          "instanceId": "17166406136"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-09-04T15:43:30Z",
+          "instanceId": "17166391265"
+        },
+        {
+          "name": "Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-09-04T14:46:52Z",
+          "instanceId": "17166340907"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1788698999000,
-      "lastActivityTimestamp": 1788698482000,
-      "lastActivityText": "Alloggi Equipaggio R1: Maestro il 06/09/2026 12:41",
+      "lastPlayedTimestamp": 1788714997000,
+      "lastActivityTimestamp": 1788713593000,
+      "lastActivityText": "Campi di battaglia: Nucleo: Personalizzata il 06/09/2026 16:53",
       "activities": [
+        {
+          "name": "Campi di battaglia: Nucleo: Personalizzata",
+          "period": "2026-09-06T16:53:13Z",
+          "instanceId": "17169427504"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-09-06T16:39:09Z",
+          "instanceId": "17169397861"
+        },
+        {
+          "name": "Alloggi Equipaggio R1: Maestro",
+          "period": "2026-09-06T16:32:24Z",
+          "instanceId": "17169395985"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-09-06T16:30:58Z",
+          "instanceId": "17169387519"
+        },
+        {
+          "name": "Alloggi Equipaggio R1: Maestro",
+          "period": "2026-09-06T16:24:27Z",
+          "instanceId": "17169385816"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-09-06T16:16:34Z",
+          "instanceId": "17169377366"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-09-06T16:07:22Z",
+          "instanceId": "17169367764"
+        },
         {
           "name": "Alloggi Equipaggio R1: Maestro",
           "period": "2026-09-06T12:41:22Z",
@@ -31,41 +131,71 @@
           "name": "Alloggi Equipaggio R1: Maestro",
           "period": "2026-09-06T12:30:14Z",
           "instanceId": "17169128164"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/80f5aec4b03c7613d8628b7b7077b936.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1788708524000,
+      "lastActivityTimestamp": 1788708426000,
+      "lastActivityText": "Dissenso: Normale il 06/09/2026 15:27",
+      "activities": [
+        {
+          "name": "Dissenso: Normale",
+          "period": "2026-09-06T15:27:06Z",
+          "instanceId": "17169309889"
         },
         {
-          "name": "Luna",
-          "period": "2026-09-06T12:22:01Z",
-          "instanceId": "17169119978"
+          "name": "Liminalità: Normale",
+          "period": "2026-09-06T15:09:20Z",
+          "instanceId": "17169305845"
         },
         {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-09-06T11:51:53Z",
-          "instanceId": "17169103540"
+          "name": "Il messaggio - Parte III",
+          "period": "2026-09-06T14:58:33Z",
+          "instanceId": "17169284474"
         },
         {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-09-06T11:24:39Z",
-          "instanceId": "17169079242"
+          "name": "Il messaggio - Parte II",
+          "period": "2026-09-06T14:52:35Z",
+          "instanceId": "17169274246"
         },
         {
-          "name": "Zona Morta Europea",
-          "period": "2026-09-06T06:45:57Z",
-          "instanceId": "17168880199"
+          "name": "Il messaggio - Parte I",
+          "period": "2026-09-06T14:45:50Z",
+          "instanceId": "17169266918"
         },
         {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-09-06T05:32:40Z",
-          "instanceId": "17168791726"
+          "name": "Neomuna",
+          "period": "2026-09-06T14:42:30Z",
+          "instanceId": "17169259190"
         },
         {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-06T04:59:21Z",
-          "instanceId": "17168759414"
+          "name": "Europa",
+          "period": "2026-09-06T14:41:15Z",
+          "instanceId": "17169255454"
         },
         {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-09-03T05:48:27Z",
-          "instanceId": "17164707017"
+          "name": "Equilibrio: Standard",
+          "period": "2026-09-06T01:18:25Z",
+          "instanceId": "17168561227"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-09-06T01:09:51Z",
+          "instanceId": "17168481662"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-09-05T23:33:51Z",
+          "instanceId": "17168458281"
         }
       ]
     },
@@ -261,136 +391,6 @@
           "name": "Soli e al freddo: Leggendaria",
           "period": "2026-09-04T21:57:13Z",
           "instanceId": "17166781866"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/80f5aec4b03c7613d8628b7b7077b936.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1788661442000,
-      "lastActivityTimestamp": 1788657505000,
-      "lastActivityText": "Equilibrio: Standard il 06/09/2026 01:18",
-      "activities": [
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-06T01:18:25Z",
-          "instanceId": "17168561227"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-06T01:09:51Z",
-          "instanceId": "17168481662"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-05T23:33:51Z",
-          "instanceId": "17168458281"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-05T21:41:31Z",
-          "instanceId": "17168360317"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-05T16:04:05Z",
-          "instanceId": "17167803314"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-05T15:44:59Z",
-          "instanceId": "17167782879"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-05T14:41:31Z",
-          "instanceId": "17167757874"
-        },
-        {
-          "name": "Scalata: Normale",
-          "period": "2026-09-05T14:12:36Z",
-          "instanceId": "17167685586"
-        },
-        {
-          "name": "Requiem: Normale",
-          "period": "2026-09-05T13:56:31Z",
-          "instanceId": "17167666881"
-        },
-        {
-          "name": "Esegesi: Normale",
-          "period": "2026-09-05T13:35:54Z",
-          "instanceId": "17167648395"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1788539481000,
-      "lastActivityTimestamp": 1788539109000,
-      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 04/09/2026 16:25",
-      "activities": [
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-09-04T16:25:09Z",
-          "instanceId": "17166406136"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-09-04T15:43:30Z",
-          "instanceId": "17166391265"
-        },
-        {
-          "name": "Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-09-04T14:46:52Z",
-          "instanceId": "17166340907"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Audace",
-          "period": "2026-09-04T14:21:24Z",
-          "instanceId": "17166305522"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-09-04T13:55:59Z",
-          "instanceId": "17166276346"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-09-03T16:49:25Z",
-          "instanceId": "17165166371"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
-          "period": "2026-09-03T16:30:45Z",
-          "instanceId": "17165143303"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-09-03T15:15:50Z",
-          "instanceId": "17165361119"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-09-03T14:53:11Z",
-          "instanceId": "17165060239"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-09-01T16:57:06Z",
-          "instanceId": "17162612610"
         }
       ]
     },
