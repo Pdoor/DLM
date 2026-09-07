@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T09:11:01.880Z",
+  "generatedAt": "2026-09-07T15:09:55.644Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -9,63 +9,63 @@
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
       "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1788772077000,
-      "lastActivityTimestamp": 1788766128000,
-      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 07/09/2026 07:28",
+      "lastPlayedTimestamp": 1788793300000,
+      "lastActivityTimestamp": 1788788500000,
+      "lastActivityText": "Volta di Vetro: Standard il 07/09/2026 13:41",
       "activities": [
         {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-09-07T07:28:48Z",
-          "instanceId": "17170414876"
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-07T13:41:40Z",
+          "instanceId": "17170660305"
         },
         {
           "name": "Zona Morta Europea",
-          "period": "2026-09-07T06:56:15Z",
-          "instanceId": "17170390654"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-07T05:00:38Z",
-          "instanceId": "17170334529"
+          "period": "2026-09-07T13:23:05Z",
+          "instanceId": "17170641638"
         },
         {
           "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-09-06T17:34:47Z",
-          "instanceId": "17169487566"
+          "period": "2026-09-07T13:03:06Z",
+          "instanceId": "17170616078"
         },
         {
-          "name": "Campi di battaglia: Discesa: Personalizzata",
-          "period": "2026-09-06T17:05:18Z",
-          "instanceId": "17169461086"
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-09-05T17:48:59Z",
+          "instanceId": "17167951687"
         },
         {
-          "name": "Campi di battaglia: Nucleo: Personalizzata",
-          "period": "2026-09-06T16:53:13Z",
-          "instanceId": "17169427504"
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-05T17:45:00Z",
+          "instanceId": "17167922864"
         },
         {
-          "name": "Luna",
-          "period": "2026-09-06T16:39:09Z",
-          "instanceId": "17169397861"
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-05T07:30:12Z",
+          "instanceId": "17167355078"
         },
         {
-          "name": "Alloggi Equipaggio R1: Maestro",
-          "period": "2026-09-06T16:32:24Z",
-          "instanceId": "17169395985"
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-05T07:26:07Z",
+          "instanceId": "17167354068"
         },
         {
-          "name": "Luna",
-          "period": "2026-09-06T16:30:58Z",
-          "instanceId": "17169387519"
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-09-05T06:33:07Z",
+          "instanceId": "17167331386"
         },
         {
-          "name": "Alloggi Equipaggio R1: Maestro",
-          "period": "2026-09-06T16:24:27Z",
-          "instanceId": "17169385816"
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-05T05:41:36Z",
+          "instanceId": "17167307213"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-09-05T05:18:54Z",
+          "instanceId": "17167258928"
         }
       ]
     },
@@ -77,11 +77,21 @@
       "className": "Stregoni",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/80f5aec4b03c7613d8628b7b7077b936.jpg",
-      "powerLevel": 547,
-      "lastPlayedTimestamp": 1788765542000,
-      "lastActivityTimestamp": 1788765015000,
-      "lastActivityText": "La caduta di un Re: Standard il 07/09/2026 07:10",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1788788575000,
+      "lastActivityTimestamp": 1788786806000,
+      "lastActivityText": "Volta di Vetro: Standard il 07/09/2026 13:13",
       "activities": [
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-07T13:13:26Z",
+          "instanceId": "17170616094"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-09-07T13:09:38Z",
+          "instanceId": "17170636891"
+        },
         {
           "name": "La caduta di un Re: Standard",
           "period": "2026-09-07T07:10:15Z",
@@ -121,16 +131,6 @@
           "name": "Dissenso: Normale",
           "period": "2026-09-06T15:27:06Z",
           "instanceId": "17169309889"
-        },
-        {
-          "name": "Liminalità: Normale",
-          "period": "2026-09-06T15:09:20Z",
-          "instanceId": "17169305845"
-        },
-        {
-          "name": "Il messaggio - Parte III",
-          "period": "2026-09-06T14:58:33Z",
-          "instanceId": "17169284474"
         }
       ]
     },
