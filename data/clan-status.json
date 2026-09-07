@@ -1,87 +1,27 @@
 {
-  "generatedAt": "2026-09-07T15:09:55.644Z",
+  "generatedAt": "2026-09-07T19:21:19.950Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1788793300000,
-      "lastActivityTimestamp": 1788788500000,
-      "lastActivityText": "Volta di Vetro: Standard il 07/09/2026 13:41",
-      "activities": [
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-07T13:41:40Z",
-          "instanceId": "17170660305"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-09-07T13:23:05Z",
-          "instanceId": "17170641638"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-09-07T13:03:06Z",
-          "instanceId": "17170616078"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-09-05T17:48:59Z",
-          "instanceId": "17167951687"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-05T17:45:00Z",
-          "instanceId": "17167922864"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-05T07:30:12Z",
-          "instanceId": "17167355078"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-05T07:26:07Z",
-          "instanceId": "17167354068"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-09-05T06:33:07Z",
-          "instanceId": "17167331386"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-05T05:41:36Z",
-          "instanceId": "17167307213"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-09-05T05:18:54Z",
-          "instanceId": "17167258928"
-        }
-      ]
-    },
-    {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/80f5aec4b03c7613d8628b7b7077b936.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1788788575000,
-      "lastActivityTimestamp": 1788786806000,
-      "lastActivityText": "Volta di Vetro: Standard il 07/09/2026 13:13",
+      "lastPlayedTimestamp": 1788808584000,
+      "lastActivityTimestamp": 1788803171000,
+      "lastActivityText": "Volta di Vetro: Maestro il 07/09/2026 17:46",
       "activities": [
+        {
+          "name": "Volta di Vetro: Maestro",
+          "period": "2026-09-07T17:46:11Z",
+          "instanceId": "17171004010"
+        },
         {
           "name": "Volta di Vetro: Standard",
           "period": "2026-09-07T13:13:26Z",
@@ -126,11 +66,71 @@
           "name": "Volta di Vetro: Standard",
           "period": "2026-09-06T18:46:13Z",
           "instanceId": "17169569351"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 547,
+      "lastPlayedTimestamp": 1788801974000,
+      "lastActivityTimestamp": 1788800903000,
+      "lastActivityText": "D.A.G.A. caduta: Con matchmaking il 07/09/2026 17:08",
+      "activities": [
+        {
+          "name": "D.A.G.A. caduta: Con matchmaking",
+          "period": "2026-09-07T17:08:23Z",
+          "instanceId": "17170877168"
         },
         {
-          "name": "Dissenso: Normale",
-          "period": "2026-09-06T15:27:06Z",
-          "instanceId": "17169309889"
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-07T16:39:24Z",
+          "instanceId": "17170855527"
+        },
+        {
+          "name": "Labirinto di Veles: Maestro",
+          "period": "2026-09-07T16:18:46Z",
+          "instanceId": "17170812507"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-09-07T15:27:33Z",
+          "instanceId": "17170797552"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-05T17:39:12Z",
+          "instanceId": "17167918553"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-09-05T17:25:07Z",
+          "instanceId": "17167910128"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-09-05T16:13:29Z",
+          "instanceId": "17167832743"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-09-05T15:27:27Z",
+          "instanceId": "17167773089"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-09-05T14:42:29Z",
+          "instanceId": "17167718860"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-09-05T14:42:04Z",
+          "instanceId": "17167716382"
         }
       ]
     },
