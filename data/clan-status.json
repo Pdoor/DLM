@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T05:45:26.087Z",
+  "generatedAt": "2026-09-08T10:58:19.282Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1788846273000,
-      "lastActivityTimestamp": 1788843919000,
-      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 08/09/2026 05:05",
+      "lastPlayedTimestamp": 1788848066000,
+      "lastActivityTimestamp": 1788847086000,
+      "lastActivityText": "Pinnacolo di Savathûn: Con matchmaking il 08/09/2026 05:58",
       "activities": [
+        {
+          "name": "Pinnacolo di Savathûn: Con matchmaking",
+          "period": "2026-09-08T05:58:06Z",
+          "instanceId": "17171808695"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-09-08T05:29:13Z",
+          "instanceId": "17171788613"
+        },
         {
           "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
           "period": "2026-09-08T05:05:19Z",
@@ -56,16 +66,6 @@
           "name": "Zona Morta Europea",
           "period": "2026-09-07T06:56:15Z",
           "instanceId": "17170390654"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-07T05:00:38Z",
-          "instanceId": "17170334529"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-09-06T17:34:47Z",
-          "instanceId": "17169487566"
         }
       ]
     },
