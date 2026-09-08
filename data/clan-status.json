@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T21:43:03.494Z",
+  "generatedAt": "2026-09-08T23:57:29.409Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1788903751000,
-      "lastActivityTimestamp": 1788899118000,
-      "lastActivityText": "Conservazione il 08/09/2026 20:25",
+      "lastPlayedTimestamp": 1788907983000,
+      "lastActivityTimestamp": 1788902567000,
+      "lastActivityText": "Conservazione il 08/09/2026 21:22",
       "activities": [
+        {
+          "name": "Conservazione",
+          "period": "2026-09-08T21:22:47Z",
+          "instanceId": "17172521420"
+        },
         {
           "name": "Conservazione",
           "period": "2026-09-08T20:25:18Z",
@@ -61,11 +66,6 @@
           "name": "Tronomondo di Savathûn",
           "period": "2026-08-25T16:52:50Z",
           "instanceId": "17153093858"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-25T16:26:53Z",
-          "instanceId": "17153060889"
         }
       ]
     },
