@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-09-08T00:37:36.775Z",
+  "generatedAt": "2026-09-08T05:45:26.087Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1788846273000,
+      "lastActivityTimestamp": 1788843919000,
+      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 08/09/2026 05:05",
+      "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-09-08T05:05:19Z",
+          "instanceId": "17171774502"
+        },
+        {
+          "name": "Campi di battaglia: Nucleo: Con matchmaking",
+          "period": "2026-09-07T10:46:21Z",
+          "instanceId": "17170525983"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-07T10:22:38Z",
+          "instanceId": "17170511112"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-09-07T10:12:37Z",
+          "instanceId": "17170500424"
+        },
+        {
+          "name": "La corrotta: Con matchmaking",
+          "period": "2026-09-07T09:29:26Z",
+          "instanceId": "17170484764"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-09-07T08:42:14Z",
+          "instanceId": "17170490001"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-07T07:28:48Z",
+          "instanceId": "17170414876"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-09-07T06:56:15Z",
+          "instanceId": "17170390654"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-07T05:00:38Z",
+          "instanceId": "17170334529"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-06T17:34:47Z",
+          "instanceId": "17169487566"
+        }
+      ]
+    },
     {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
@@ -66,71 +131,6 @@
           "name": "Volta di Vetro: Standard",
           "period": "2026-09-06T18:59:36Z",
           "instanceId": "17169617406"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 547,
-      "lastPlayedTimestamp": 1788801974000,
-      "lastActivityTimestamp": 1788800903000,
-      "lastActivityText": "D.A.G.A. caduta: Con matchmaking il 07/09/2026 17:08",
-      "activities": [
-        {
-          "name": "D.A.G.A. caduta: Con matchmaking",
-          "period": "2026-09-07T17:08:23Z",
-          "instanceId": "17170877168"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-09-07T16:39:24Z",
-          "instanceId": "17170855527"
-        },
-        {
-          "name": "Labirinto di Veles: Maestro",
-          "period": "2026-09-07T16:18:46Z",
-          "instanceId": "17170812507"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-09-07T15:27:33Z",
-          "instanceId": "17170797552"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-05T17:39:12Z",
-          "instanceId": "17167918553"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-09-05T17:25:07Z",
-          "instanceId": "17167910128"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-09-05T16:13:29Z",
-          "instanceId": "17167832743"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-09-05T15:27:27Z",
-          "instanceId": "17167773089"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-09-05T14:42:29Z",
-          "instanceId": "17167718860"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-09-05T14:42:04Z",
-          "instanceId": "17167716382"
         }
       ]
     },
