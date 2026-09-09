@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T09:07:26.207Z",
+  "generatedAt": "2026-09-09T13:50:42.846Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,59 +13,59 @@
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1788943693000,
-      "lastActivityTimestamp": 1788942997000,
-      "lastActivityText": "La disonorata: Con matchmaking il 09/09/2026 08:36",
+      "lastPlayedTimestamp": 1788961812000,
+      "lastActivityTimestamp": 1788959606000,
+      "lastActivityText": "Nessus, Centauro Instabile il 09/09/2026 13:13",
       "activities": [
         {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-09-09T13:13:26Z",
+          "instanceId": "17173228614"
+        },
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-09-09T13:07:16Z",
+          "instanceId": "17173227036"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-09-09T13:05:28Z",
+          "instanceId": "17173222855"
+        },
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-09-09T12:58:47Z",
+          "instanceId": "17173221738"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-09-09T12:57:37Z",
+          "instanceId": "17173216936"
+        },
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-09-09T12:50:31Z",
+          "instanceId": "17173216155"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-09-09T12:42:57Z",
+          "instanceId": "17173211531"
+        },
+        {
           "name": "La disonorata: Con matchmaking",
-          "period": "2026-09-09T08:36:37Z",
-          "instanceId": "17173084526"
+          "period": "2026-09-09T12:19:07Z",
+          "instanceId": "17173201669"
         },
         {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-07T14:10:36Z",
-          "instanceId": "17170723400"
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-09-09T09:40:42Z",
+          "instanceId": "17173123359"
         },
         {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-07T13:41:40Z",
-          "instanceId": "17170660305"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-09-07T13:23:05Z",
-          "instanceId": "17170641638"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-09-07T13:03:06Z",
-          "instanceId": "17170616078"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-09-05T17:48:59Z",
-          "instanceId": "17167951687"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-05T17:45:00Z",
-          "instanceId": "17167922864"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-05T07:30:12Z",
-          "instanceId": "17167355078"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-05T07:26:07Z",
-          "instanceId": "17167354068"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-09-05T06:33:07Z",
-          "instanceId": "17167331386"
+          "name": "Liminalità: Con matchmaking",
+          "period": "2026-09-09T09:10:01Z",
+          "instanceId": "17173109214"
         }
       ]
     },
