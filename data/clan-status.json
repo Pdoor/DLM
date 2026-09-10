@@ -1,71 +1,136 @@
 {
-  "generatedAt": "2026-09-10T12:08:19.939Z",
+  "generatedAt": "2026-09-10T16:37:10.511Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1789058173000,
+      "lastActivityTimestamp": 1789054442000,
+      "lastActivityText": "Trafficante d'armi: Con matchmaking il 10/09/2026 15:34",
+      "activities": [
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-09-10T15:34:02Z",
+          "instanceId": "17174497147"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-09-10T15:17:05Z",
+          "instanceId": "17174474044"
+        },
+        {
+          "name": "Campi di battaglia: Condotto: Con matchmaking",
+          "period": "2026-09-10T14:53:02Z",
+          "instanceId": "17174461730"
+        },
+        {
+          "name": "Oltre",
+          "period": "2026-09-10T14:40:26Z",
+          "instanceId": "17174442050"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-10T14:39:04Z",
+          "instanceId": "17174433004"
+        },
+        {
+          "name": "Sepolcro: Maestro",
+          "period": "2026-09-10T14:32:58Z",
+          "instanceId": "17174431906"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-10T14:30:44Z",
+          "instanceId": "17174427018"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-09-08T17:04:31Z",
+          "instanceId": "17172255211"
+        },
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-09-08T16:36:41Z",
+          "instanceId": "17172237915"
+        },
+        {
+          "name": "Vegliante del niente: Personalizzata",
+          "period": "2026-09-08T16:16:21Z",
+          "instanceId": "17172216514"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1789035298000,
-      "lastActivityTimestamp": 1789034559000,
-      "lastActivityText": "La culla del male: Personalizzata il 10/09/2026 10:02",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 547,
+      "lastPlayedTimestamp": 1789058006000,
+      "lastActivityTimestamp": 1789053425000,
+      "lastActivityText": "La disonorata: Personalizzata il 10/09/2026 15:17",
       "activities": [
         {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-10T10:02:39Z",
-          "instanceId": "17174265845"
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-09-10T15:17:05Z",
+          "instanceId": "17174474044"
         },
         {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-09-10T09:39:34Z",
-          "instanceId": "17174257200"
+          "name": "Campi di battaglia: Condotto: Con matchmaking",
+          "period": "2026-09-10T14:53:02Z",
+          "instanceId": "17174461730"
         },
         {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-10T06:31:18Z",
-          "instanceId": "17174166561"
+          "name": "Oltre",
+          "period": "2026-09-10T14:40:26Z",
+          "instanceId": "17174442050"
         },
         {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-09T17:23:35Z",
-          "instanceId": "17173444553"
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-10T14:39:04Z",
+          "instanceId": "17174433004"
         },
         {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-09T17:04:13Z",
-          "instanceId": "17173417770"
+          "name": "Sepolcro: Maestro",
+          "period": "2026-09-10T14:32:58Z",
+          "instanceId": "17174431906"
         },
         {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-09T16:58:30Z",
-          "instanceId": "17173406979"
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-10T14:30:44Z",
+          "instanceId": "17174427018"
         },
         {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-09T16:20:36Z",
-          "instanceId": "17173398429"
+          "name": "Sepolcro: Maestro",
+          "period": "2026-09-10T14:21:31Z",
+          "instanceId": "17174425674"
         },
         {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-09-09T15:41:24Z",
-          "instanceId": "17173349538"
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-10T14:17:08Z",
+          "instanceId": "17174418410"
         },
         {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-09T15:03:06Z",
-          "instanceId": "17173338060"
+          "name": "Lega Gare di Astori",
+          "period": "2026-09-09T06:11:13Z",
+          "instanceId": "17173005383"
         },
         {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-09-09T14:19:02Z",
-          "instanceId": "17173291181"
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-09-09T05:34:28Z",
+          "instanceId": "17172985736"
         }
       ]
     },
@@ -261,71 +326,6 @@
           "name": "Promessa del Discepolo: Standard",
           "period": "2026-09-08T16:01:56Z",
           "instanceId": "17172203825"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1788887797000,
-      "lastActivityTimestamp": 1788887071000,
-      "lastActivityText": "La disonorata: Personalizzata il 08/09/2026 17:04",
-      "activities": [
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-09-08T17:04:31Z",
-          "instanceId": "17172255211"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-09-08T16:36:41Z",
-          "instanceId": "17172237915"
-        },
-        {
-          "name": "Vegliante del niente: Personalizzata",
-          "period": "2026-09-08T16:16:21Z",
-          "instanceId": "17172216514"
-        },
-        {
-          "name": "Vegliante del niente: Personalizzata",
-          "period": "2026-09-08T15:57:58Z",
-          "instanceId": "17172199977"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-08T15:11:29Z",
-          "instanceId": "17172159721"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-09-08T14:43:35Z",
-          "instanceId": "17172144114"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-09-08T14:34:58Z",
-          "instanceId": "17172120465"
-        },
-        {
-          "name": "D.A.G.A. caduta: Con matchmaking",
-          "period": "2026-09-08T14:00:27Z",
-          "instanceId": "17172101827"
-        },
-        {
-          "name": "Bis: Personalizzata",
-          "period": "2026-09-08T13:50:17Z",
-          "instanceId": "17172083755"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-09-08T13:19:38Z",
-          "instanceId": "17172077911"
         }
       ]
     },
