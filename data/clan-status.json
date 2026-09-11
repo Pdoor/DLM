@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T08:51:25.072Z",
+  "generatedAt": "2026-09-11T13:25:48.161Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,40 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 518,
-      "lastPlayedTimestamp": 1789108677000,
-      "lastActivityTimestamp": 1789106497000,
-      "lastActivityText": "Campi di battaglia: Colosso: Con matchmaking il 11/09/2026 06:01",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1789133075000,
+      "lastActivityTimestamp": 1789131918000,
+      "lastActivityText": "La culla del male: Personalizzata il 11/09/2026 13:05",
       "activities": [
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-11T13:05:18Z",
+          "instanceId": "17175497280"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-09-11T12:25:40Z",
+          "instanceId": "17175470123"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-11T12:19:08Z",
+          "instanceId": "17175457586"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-09-11T09:32:39Z",
+          "instanceId": "17175371420"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-09-11T09:11:26Z",
+          "instanceId": "17175363003"
+        },
         {
           "name": "Campi di battaglia: Colosso: Con matchmaking",
           "period": "2026-09-11T06:01:37Z",
@@ -41,31 +66,136 @@
           "name": "La culla del male: Personalizzata",
           "period": "2026-09-10T13:46:09Z",
           "instanceId": "17174411513"
+        }
+      ]
+    },
+    {
+      "displayName": "İda_Toprak_Kava#856",
+      "membershipId": "4611686018556113076",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 409,
+      "lastPlayedTimestamp": 1789124935000,
+      "lastActivityTimestamp": 1789123860000,
+      "lastActivityText": "Cosmodromo il 11/09/2026 10:51",
+      "activities": [
+        {
+          "name": "Cosmodromo",
+          "period": "2026-09-11T10:51:00Z",
+          "instanceId": "17175414987"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-16T10:09:50Z",
+          "instanceId": "17137530944"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-14T10:28:35Z",
+          "instanceId": "17133452810"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-07T18:46:12Z",
+          "instanceId": "17119655073"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-07T18:04:50Z",
+          "instanceId": "17119613117"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-06T12:22:33Z",
+          "instanceId": "17116991921"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-04T10:58:44Z",
+          "instanceId": "17112493744"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-31T17:15:36Z",
+          "instanceId": "17103300564"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-07-31T16:57:14Z",
+          "instanceId": "17103279881"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-31T16:51:25Z",
+          "instanceId": "17103245459"
+        }
+      ]
+    },
+    {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1789122562000,
+      "lastActivityTimestamp": 1789119245000,
+      "lastActivityText": "Partita veloce: Normale il 11/09/2026 09:34",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-09-11T09:34:05Z",
+          "instanceId": "17175374825"
         },
         {
           "name": "Tronomondo di Savathûn",
-          "period": "2026-09-10T13:42:08Z",
-          "instanceId": "17174390776"
+          "period": "2026-09-11T09:20:30Z",
+          "instanceId": "17175365158"
         },
         {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-10T10:02:39Z",
-          "instanceId": "17174265845"
+          "name": "Sepolcro: Esperto",
+          "period": "2026-09-09T17:37:52Z",
+          "instanceId": "17173448182"
         },
         {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-09-10T09:39:34Z",
-          "instanceId": "17174257200"
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-09T17:32:53Z",
+          "instanceId": "17173440434"
         },
         {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-10T06:31:18Z",
-          "instanceId": "17174166561"
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-09T17:17:49Z",
+          "instanceId": "17173426866"
         },
         {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-09T17:23:35Z",
-          "instanceId": "17173444553"
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-09T17:09:22Z",
+          "instanceId": "17173421325"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-09T15:57:52Z",
+          "instanceId": "17173358673"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-09-09T14:21:54Z",
+          "instanceId": "17173309105"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-09-08T21:22:47Z",
+          "instanceId": "17172521420"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-09-08T20:25:18Z",
+          "instanceId": "17172498153"
         }
       ]
     },
@@ -196,71 +326,6 @@
           "name": "Fuoco e ghiaccio: Leggendaria",
           "period": "2026-09-05T21:03:06Z",
           "instanceId": "17168214907"
-        }
-      ]
-    },
-    {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1788976597000,
-      "lastActivityTimestamp": 1788975472000,
-      "lastActivityText": "Sepolcro: Esperto il 09/09/2026 17:37",
-      "activities": [
-        {
-          "name": "Sepolcro: Esperto",
-          "period": "2026-09-09T17:37:52Z",
-          "instanceId": "17173448182"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-09-09T17:32:53Z",
-          "instanceId": "17173440434"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-09-09T17:17:49Z",
-          "instanceId": "17173426866"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-09-09T17:09:22Z",
-          "instanceId": "17173421325"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-09-09T15:57:52Z",
-          "instanceId": "17173358673"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-09-09T14:21:54Z",
-          "instanceId": "17173309105"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-09-08T21:22:47Z",
-          "instanceId": "17172521420"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-09-08T20:25:18Z",
-          "instanceId": "17172498153"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-09-08T16:19:24Z",
-          "instanceId": "17172214613"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-09-08T16:01:56Z",
-          "instanceId": "17172203825"
         }
       ]
     },
@@ -976,71 +1041,6 @@
           "name": "Campi di battaglia: Colosso: Con matchmaking",
           "period": "2026-08-09T07:17:38Z",
           "instanceId": "17123428065"
-        }
-      ]
-    },
-    {
-      "displayName": "İda_Toprak_Kava#856",
-      "membershipId": "4611686018556113076",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 409,
-      "lastPlayedTimestamp": 1787947607000,
-      "lastActivityTimestamp": 1786874990000,
-      "lastActivityText": "Cosmodromo il 16/08/2026 10:09",
-      "activities": [
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-16T10:09:50Z",
-          "instanceId": "17137530944"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-14T10:28:35Z",
-          "instanceId": "17133452810"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-07T18:46:12Z",
-          "instanceId": "17119655073"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-07T18:04:50Z",
-          "instanceId": "17119613117"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-06T12:22:33Z",
-          "instanceId": "17116991921"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-04T10:58:44Z",
-          "instanceId": "17112493744"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-31T17:15:36Z",
-          "instanceId": "17103300564"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-07-31T16:57:14Z",
-          "instanceId": "17103279881"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-31T16:51:25Z",
-          "instanceId": "17103245459"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-07-31T16:34:38Z",
-          "instanceId": "17103221376"
         }
       ]
     },
