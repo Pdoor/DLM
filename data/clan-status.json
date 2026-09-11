@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-09-11T03:58:47.203Z",
+  "generatedAt": "2026-09-11T08:51:25.072Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 518,
+      "lastPlayedTimestamp": 1789108677000,
+      "lastActivityTimestamp": 1789106497000,
+      "lastActivityText": "Campi di battaglia: Colosso: Con matchmaking il 11/09/2026 06:01",
+      "activities": [
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-09-11T06:01:37Z",
+          "instanceId": "17175263142"
+        },
+        {
+          "name": "Requiem: Normale",
+          "period": "2026-09-11T05:32:28Z",
+          "instanceId": "17175254737"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-11T04:53:21Z",
+          "instanceId": "17175231975"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-10T14:14:38Z",
+          "instanceId": "17174414130"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-10T13:46:09Z",
+          "instanceId": "17174411513"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-10T13:42:08Z",
+          "instanceId": "17174390776"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-10T10:02:39Z",
+          "instanceId": "17174265845"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-09-10T09:39:34Z",
+          "instanceId": "17174257200"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-10T06:31:18Z",
+          "instanceId": "17174166561"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-09T17:23:35Z",
+          "instanceId": "17173444553"
+        }
+      ]
+    },
     {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
@@ -66,71 +131,6 @@
           "name": "Tronomondo di Savathûn",
           "period": "2026-09-10T14:30:44Z",
           "instanceId": "17174427018"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 547,
-      "lastPlayedTimestamp": 1789061795000,
-      "lastActivityTimestamp": 1789061574000,
-      "lastActivityText": "Neomuna il 10/09/2026 17:32",
-      "activities": [
-        {
-          "name": "Neomuna",
-          "period": "2026-09-10T17:32:54Z",
-          "instanceId": "17174578481"
-        },
-        {
-          "name": "Al limite: Leggendaria",
-          "period": "2026-09-10T16:57:46Z",
-          "instanceId": "17174574445"
-        },
-        {
-          "name": "Misure disperate: Leggendaria",
-          "period": "2026-09-10T16:51:16Z",
-          "instanceId": "17174544864"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-09-10T15:17:05Z",
-          "instanceId": "17174474044"
-        },
-        {
-          "name": "Campi di battaglia: Condotto: Con matchmaking",
-          "period": "2026-09-10T14:53:02Z",
-          "instanceId": "17174461730"
-        },
-        {
-          "name": "Oltre",
-          "period": "2026-09-10T14:40:26Z",
-          "instanceId": "17174442050"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-09-10T14:39:04Z",
-          "instanceId": "17174433004"
-        },
-        {
-          "name": "Sepolcro: Maestro",
-          "period": "2026-09-10T14:32:58Z",
-          "instanceId": "17174431906"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-09-10T14:30:44Z",
-          "instanceId": "17174427018"
-        },
-        {
-          "name": "Sepolcro: Maestro",
-          "period": "2026-09-10T14:21:31Z",
-          "instanceId": "17174425674"
         }
       ]
     },
