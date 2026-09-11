@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T19:58:00.374Z",
+  "generatedAt": "2026-09-11T22:27:54.970Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,26 @@
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/33ae72dde2bcc32bce9c2967fc01b727.jpg",
-      "powerLevel": 437,
-      "lastPlayedTimestamp": 1789156507000,
-      "lastActivityTimestamp": 1789154632000,
-      "lastActivityText": "Destino diadico il 11/09/2026 19:23",
+      "powerLevel": 543,
+      "lastPlayedTimestamp": 1789165610000,
+      "lastActivityTimestamp": 1789158320000,
+      "lastActivityText": "Spira: Personalizzata il 11/09/2026 20:25",
       "activities": [
+        {
+          "name": "Spira: Personalizzata",
+          "period": "2026-09-11T20:25:20Z",
+          "instanceId": "17175921947"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-09-11T20:17:55Z",
+          "instanceId": "17175872709"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-09-11T19:29:45Z",
+          "instanceId": "17175871630"
+        },
         {
           "name": "Destino diadico",
           "period": "2026-09-11T19:23:52Z",
@@ -51,21 +66,6 @@
           "name": "Equilibrio: Standard",
           "period": "2026-09-09T15:54:16Z",
           "instanceId": "17173396167"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-08T20:03:41Z",
-          "instanceId": "17172517443"
-        },
-        {
-          "name": "Corte della Vedova: Con matchmaking",
-          "period": "2026-09-08T19:16:33Z",
-          "instanceId": "17172412182"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-06T01:18:25Z",
-          "instanceId": "17168561227"
         }
       ]
     },
@@ -78,10 +78,25 @@
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1789156668000,
-      "lastActivityTimestamp": 1789154632000,
-      "lastActivityText": "Destino diadico il 11/09/2026 19:23",
+      "lastPlayedTimestamp": 1789165580000,
+      "lastActivityTimestamp": 1789158320000,
+      "lastActivityText": "Spira: Personalizzata il 11/09/2026 20:25",
       "activities": [
+        {
+          "name": "Spira: Personalizzata",
+          "period": "2026-09-11T20:25:20Z",
+          "instanceId": "17175921947"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-09-11T20:17:55Z",
+          "instanceId": "17175872709"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-09-11T19:29:45Z",
+          "instanceId": "17175871630"
+        },
         {
           "name": "Destino diadico",
           "period": "2026-09-11T19:23:52Z",
@@ -116,21 +131,6 @@
           "name": "Palude Selina, Venere: Sabotaggio: Con matchmaking",
           "period": "2026-09-05T12:12:53Z",
           "instanceId": "17167572952"
-        },
-        {
-          "name": "Invasione",
-          "period": "2026-09-05T11:59:48Z",
-          "instanceId": "17167548751"
-        },
-        {
-          "name": "Invasione",
-          "period": "2026-09-05T11:57:12Z",
-          "instanceId": "17167544958"
-        },
-        {
-          "name": "Invasione",
-          "period": "2026-09-05T11:56:14Z",
-          "instanceId": "17167543076"
         }
       ]
     },
@@ -988,7 +988,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1789072809000,
+      "lastPlayedTimestamp": 1789158968000,
       "lastActivityTimestamp": 1786976920000,
       "lastActivityText": "La Città Sognante il 17/08/2026 14:28",
       "activities": [
