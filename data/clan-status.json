@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T22:27:54.970Z",
+  "generatedAt": "2026-09-12T00:33:20.743Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/33ae72dde2bcc32bce9c2967fc01b727.jpg",
-      "powerLevel": 543,
-      "lastPlayedTimestamp": 1789165610000,
-      "lastActivityTimestamp": 1789158320000,
-      "lastActivityText": "Spira: Personalizzata il 11/09/2026 20:25",
+      "powerLevel": 452,
+      "lastPlayedTimestamp": 1789168538000,
+      "lastActivityTimestamp": 1789167847000,
+      "lastActivityText": "Poligono di Tiro il 11/09/2026 23:04",
       "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-09-11T23:04:07Z",
+          "instanceId": "17176063051"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-11T22:22:32Z",
+          "instanceId": "17176044672"
+        },
         {
           "name": "Spira: Personalizzata",
           "period": "2026-09-11T20:25:20Z",
@@ -56,16 +66,6 @@
           "name": "Equilibrio: Standard",
           "period": "2026-09-09T17:58:40Z",
           "instanceId": "17173487657"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-09T16:49:25Z",
-          "instanceId": "17173408959"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-09T15:54:16Z",
-          "instanceId": "17173396167"
         }
       ]
     },
@@ -73,15 +73,20 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1789165580000,
-      "lastActivityTimestamp": 1789158320000,
-      "lastActivityText": "Spira: Personalizzata il 11/09/2026 20:25",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1789167491000,
+      "lastActivityTimestamp": 1789165352000,
+      "lastActivityText": "Volta di Vetro: Standard il 11/09/2026 22:22",
       "activities": [
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-11T22:22:32Z",
+          "instanceId": "17176044672"
+        },
         {
           "name": "Spira: Personalizzata",
           "period": "2026-09-11T20:25:20Z",
@@ -126,11 +131,6 @@
           "name": "Fuoco e ghiaccio: Leggendaria",
           "period": "2026-09-05T21:03:06Z",
           "instanceId": "17168214907"
-        },
-        {
-          "name": "Palude Selina, Venere: Sabotaggio: Con matchmaking",
-          "period": "2026-09-05T12:12:53Z",
-          "instanceId": "17167572952"
         }
       ]
     },
@@ -723,12 +723,12 @@
       "displayName": "adgarolp#8945",
       "membershipId": "4611686018479100387",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Immortale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 450,
-      "lastPlayedTimestamp": 1788021258000,
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1789173172000,
       "lastActivityTimestamp": 1788020582000,
       "lastActivityText": "Cosmodromo il 29/08/2026 16:23",
       "activities": [
