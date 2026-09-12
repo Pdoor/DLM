@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T13:42:03.189Z",
+  "generatedAt": "2026-09-12T16:52:31.018Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -13,10 +13,20 @@
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1789220478000,
-      "lastActivityTimestamp": 1789219507000,
-      "lastActivityText": "La disonorata: Personalizzata il 12/09/2026 13:25",
+      "lastPlayedTimestamp": 1789231280000,
+      "lastActivityTimestamp": 1789228951000,
+      "lastActivityText": "La culla del male: Personalizzata il 12/09/2026 16:02",
       "activities": [
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-12T16:02:31Z",
+          "instanceId": "17177015268"
+        },
+        {
+          "name": "Dualità: Maestro",
+          "period": "2026-09-12T14:22:56Z",
+          "instanceId": "17176974766"
+        },
         {
           "name": "La disonorata: Personalizzata",
           "period": "2026-09-12T13:25:07Z",
@@ -56,16 +66,6 @@
           "name": "Gli Spettri: Normale",
           "period": "2026-09-12T07:52:11Z",
           "instanceId": "17176594957"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-09-12T05:58:15Z",
-          "instanceId": "17176504993"
-        },
-        {
-          "name": "Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-09-09T07:38:15Z",
-          "instanceId": "17173065217"
         }
       ]
     },
@@ -73,12 +73,12 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1789220489000,
+      "lastPlayedTimestamp": 1789222707000,
       "lastActivityTimestamp": 1789219119000,
       "lastActivityText": "Prove di Osiride: Con matchmaking il 12/09/2026 13:18",
       "activities": [
@@ -86,6 +86,11 @@
           "name": "Prove di Osiride: Con matchmaking",
           "period": "2026-09-12T13:18:39Z",
           "instanceId": "17176809891"
+        },
+        {
+          "name": "Rovesciamento",
+          "period": "2026-09-12T12:47:53Z",
+          "instanceId": "17176878823"
         },
         {
           "name": "Volta di Vetro: Standard",
@@ -126,11 +131,6 @@
           "name": "Equilibrio: Standard",
           "period": "2026-09-11T17:16:28Z",
           "instanceId": "17175708043"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-08T20:03:41Z",
-          "instanceId": "17172517443"
         }
       ]
     },
@@ -1703,7 +1703,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1b2c28a8998818b74ff0509d1d7ed7.jpg",
       "powerLevel": 523,
-      "lastPlayedTimestamp": 1784651222000,
+      "lastPlayedTimestamp": 1789224492000,
       "lastActivityTimestamp": 1783157636000,
       "lastActivityText": "Conquista modalità gran maestro: Eliostato: Personalizzata il 04/07/2026 09:33",
       "activities": [
