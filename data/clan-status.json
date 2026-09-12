@@ -1,9 +1,139 @@
 {
-  "generatedAt": "2026-09-12T19:04:54.810Z",
+  "generatedAt": "2026-09-12T21:34:48.394Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "cotasaci#4282",
+      "membershipId": "4611686018538148390",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/33ae72dde2bcc32bce9c2967fc01b727.jpg",
+      "powerLevel": 453,
+      "lastPlayedTimestamp": 1789248781000,
+      "lastActivityTimestamp": 1789244596000,
+      "lastActivityText": "Equilibrio: Standard il 12/09/2026 20:23",
+      "activities": [
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-09-12T20:23:16Z",
+          "instanceId": "17177363326"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-09-11T23:04:07Z",
+          "instanceId": "17176063051"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-11T22:22:32Z",
+          "instanceId": "17176044672"
+        },
+        {
+          "name": "Spira: Personalizzata",
+          "period": "2026-09-11T20:25:20Z",
+          "instanceId": "17175921947"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-09-11T20:17:55Z",
+          "instanceId": "17175872709"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-09-11T19:29:45Z",
+          "instanceId": "17175871630"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-09-11T19:23:52Z",
+          "instanceId": "17175820373"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-09-11T19:03:29Z",
+          "instanceId": "17175814787"
+        },
+        {
+          "name": "Sfida degli Anziani: Personalizzata",
+          "period": "2026-09-11T17:39:14Z",
+          "instanceId": "17175726746"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-09-11T17:16:28Z",
+          "instanceId": "17175708043"
+        }
+      ]
+    },
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1789248759000,
+      "lastActivityTimestamp": 1789244596000,
+      "lastActivityText": "Equilibrio: Standard il 12/09/2026 20:23",
+      "activities": [
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-09-12T20:23:16Z",
+          "instanceId": "17177363326"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-09-12T13:18:39Z",
+          "instanceId": "17176809891"
+        },
+        {
+          "name": "Rovesciamento",
+          "period": "2026-09-12T12:47:53Z",
+          "instanceId": "17176878823"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-11T22:22:32Z",
+          "instanceId": "17176044672"
+        },
+        {
+          "name": "Spira: Personalizzata",
+          "period": "2026-09-11T20:25:20Z",
+          "instanceId": "17175921947"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-09-11T20:17:55Z",
+          "instanceId": "17175872709"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-09-11T19:29:45Z",
+          "instanceId": "17175871630"
+        },
+        {
+          "name": "Destino diadico",
+          "period": "2026-09-11T19:23:52Z",
+          "instanceId": "17175820373"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-09-11T19:03:29Z",
+          "instanceId": "17175814787"
+        },
+        {
+          "name": "Sfida degli Anziani: Personalizzata",
+          "period": "2026-09-11T17:39:14Z",
+          "instanceId": "17175726746"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -66,71 +196,6 @@
           "name": "Tronomondo di Savathûn",
           "period": "2026-09-10T14:30:44Z",
           "instanceId": "17174427018"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1789222707000,
-      "lastActivityTimestamp": 1789219119000,
-      "lastActivityText": "Prove di Osiride: Con matchmaking il 12/09/2026 13:18",
-      "activities": [
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-09-12T13:18:39Z",
-          "instanceId": "17176809891"
-        },
-        {
-          "name": "Rovesciamento",
-          "period": "2026-09-12T12:47:53Z",
-          "instanceId": "17176878823"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-11T22:22:32Z",
-          "instanceId": "17176044672"
-        },
-        {
-          "name": "Spira: Personalizzata",
-          "period": "2026-09-11T20:25:20Z",
-          "instanceId": "17175921947"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-09-11T20:17:55Z",
-          "instanceId": "17175872709"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-09-11T19:29:45Z",
-          "instanceId": "17175871630"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-09-11T19:23:52Z",
-          "instanceId": "17175820373"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-09-11T19:03:29Z",
-          "instanceId": "17175814787"
-        },
-        {
-          "name": "Sfida degli Anziani: Personalizzata",
-          "period": "2026-09-11T17:39:14Z",
-          "instanceId": "17175726746"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-11T17:16:28Z",
-          "instanceId": "17175708043"
         }
       ]
     },
@@ -261,71 +326,6 @@
           "name": "Eliostasi: Personalizzata",
           "period": "2026-08-23T16:24:57Z",
           "instanceId": "17150076144"
-        }
-      ]
-    },
-    {
-      "displayName": "cotasaci#4282",
-      "membershipId": "4611686018538148390",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/33ae72dde2bcc32bce9c2967fc01b727.jpg",
-      "powerLevel": 452,
-      "lastPlayedTimestamp": 1789168538000,
-      "lastActivityTimestamp": 1789167847000,
-      "lastActivityText": "Poligono di Tiro il 11/09/2026 23:04",
-      "activities": [
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-09-11T23:04:07Z",
-          "instanceId": "17176063051"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-11T22:22:32Z",
-          "instanceId": "17176044672"
-        },
-        {
-          "name": "Spira: Personalizzata",
-          "period": "2026-09-11T20:25:20Z",
-          "instanceId": "17175921947"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-09-11T20:17:55Z",
-          "instanceId": "17175872709"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-09-11T19:29:45Z",
-          "instanceId": "17175871630"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-09-11T19:23:52Z",
-          "instanceId": "17175820373"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-09-11T19:03:29Z",
-          "instanceId": "17175814787"
-        },
-        {
-          "name": "Sfida degli Anziani: Personalizzata",
-          "period": "2026-09-11T17:39:14Z",
-          "instanceId": "17175726746"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-11T17:16:28Z",
-          "instanceId": "17175708043"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-09T17:58:40Z",
-          "instanceId": "17173487657"
         }
       ]
     },
@@ -533,7 +533,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1789061593000,
+      "lastPlayedTimestamp": 1789244637000,
       "lastActivityTimestamp": 1789061574000,
       "lastActivityText": "Neomuna il 10/09/2026 17:32",
       "activities": [
@@ -988,7 +988,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1789158968000,
+      "lastPlayedTimestamp": 1789244732000,
       "lastActivityTimestamp": 1786976920000,
       "lastActivityText": "La Città Sognante il 17/08/2026 14:28",
       "activities": [
