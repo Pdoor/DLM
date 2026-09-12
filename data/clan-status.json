@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T21:34:48.394Z",
+  "generatedAt": "2026-09-12T23:52:39.439Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,36 @@
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/33ae72dde2bcc32bce9c2967fc01b727.jpg",
-      "powerLevel": 453,
-      "lastPlayedTimestamp": 1789248781000,
-      "lastActivityTimestamp": 1789244596000,
-      "lastActivityText": "Equilibrio: Standard il 12/09/2026 20:23",
+      "powerLevel": 459,
+      "lastPlayedTimestamp": 1789257067000,
+      "lastActivityTimestamp": 1789255308000,
+      "lastActivityText": "Adamantide, Europa: Contrabbando: Con matchmaking il 12/09/2026 23:21",
       "activities": [
+        {
+          "name": "Adamantide, Europa: Contrabbando: Con matchmaking",
+          "period": "2026-09-12T23:21:48Z",
+          "instanceId": "17177519674"
+        },
+        {
+          "name": "Periferia di Libernia, Marte: Sabotaggio: Con matchmaking",
+          "period": "2026-09-12T22:54:04Z",
+          "instanceId": "17177488696"
+        },
+        {
+          "name": "Adamantide, Europa: Contrabbando: Con matchmaking",
+          "period": "2026-09-12T22:25:33Z",
+          "instanceId": "17177457505"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-09-12T22:15:52Z",
+          "instanceId": "17177428440"
+        },
+        {
+          "name": "Adamantide, Europa: Contrabbando: Con matchmaking",
+          "period": "2026-09-12T21:40:58Z",
+          "instanceId": "17177407041"
+        },
         {
           "name": "Equilibrio: Standard",
           "period": "2026-09-12T20:23:16Z",
@@ -41,31 +66,6 @@
           "name": "Pallido Cuore",
           "period": "2026-09-11T20:17:55Z",
           "instanceId": "17175872709"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-09-11T19:29:45Z",
-          "instanceId": "17175871630"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-09-11T19:23:52Z",
-          "instanceId": "17175820373"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-09-11T19:03:29Z",
-          "instanceId": "17175814787"
-        },
-        {
-          "name": "Sfida degli Anziani: Personalizzata",
-          "period": "2026-09-11T17:39:14Z",
-          "instanceId": "17175726746"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-11T17:16:28Z",
-          "instanceId": "17175708043"
         }
       ]
     },
@@ -78,10 +78,30 @@
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1789248759000,
-      "lastActivityTimestamp": 1789244596000,
-      "lastActivityText": "Equilibrio: Standard il 12/09/2026 20:23",
+      "lastPlayedTimestamp": 1789257140000,
+      "lastActivityTimestamp": 1789255308000,
+      "lastActivityText": "Adamantide, Europa: Contrabbando: Con matchmaking il 12/09/2026 23:21",
       "activities": [
+        {
+          "name": "Adamantide, Europa: Contrabbando: Con matchmaking",
+          "period": "2026-09-12T23:21:48Z",
+          "instanceId": "17177519674"
+        },
+        {
+          "name": "Periferia di Libernia, Marte: Sabotaggio: Con matchmaking",
+          "period": "2026-09-12T22:54:04Z",
+          "instanceId": "17177488696"
+        },
+        {
+          "name": "Adamantide, Europa: Contrabbando: Con matchmaking",
+          "period": "2026-09-12T22:25:33Z",
+          "instanceId": "17177457505"
+        },
+        {
+          "name": "Adamantide, Europa: Contrabbando: Con matchmaking",
+          "period": "2026-09-12T21:40:58Z",
+          "instanceId": "17177407041"
+        },
         {
           "name": "Equilibrio: Standard",
           "period": "2026-09-12T20:23:16Z",
@@ -111,26 +131,6 @@
           "name": "Pallido Cuore",
           "period": "2026-09-11T20:17:55Z",
           "instanceId": "17175872709"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-09-11T19:29:45Z",
-          "instanceId": "17175871630"
-        },
-        {
-          "name": "Destino diadico",
-          "period": "2026-09-11T19:23:52Z",
-          "instanceId": "17175820373"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-09-11T19:03:29Z",
-          "instanceId": "17175814787"
-        },
-        {
-          "name": "Sfida degli Anziani: Personalizzata",
-          "period": "2026-09-11T17:39:14Z",
-          "instanceId": "17175726746"
         }
       ]
     },
