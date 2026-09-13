@@ -1,9 +1,139 @@
 {
-  "generatedAt": "2026-09-13T04:11:12.997Z",
+  "generatedAt": "2026-09-13T09:40:59.914Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Jhonny#3878",
+      "membershipId": "4611686018489632599",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Signora del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7005a7ab5f9a038c8de4da69187bb16f.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1789287987000,
+      "lastActivityTimestamp": 1789287818000,
+      "lastActivityText": "Partita veloce: Normale il 13/09/2026 08:23",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-09-13T08:23:38Z",
+          "instanceId": "17178036075"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-09-13T08:11:15Z",
+          "instanceId": "17178025909"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-09-13T08:03:14Z",
+          "instanceId": "17178019944"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-11T15:56:07Z",
+          "instanceId": "17175638442"
+        },
+        {
+          "name": "Vegliante del niente: Personalizzata",
+          "period": "2026-09-06T09:21:57Z",
+          "instanceId": "17168987797"
+        },
+        {
+          "name": "Pandemonio: Con matchmaking",
+          "period": "2026-09-06T08:54:18Z",
+          "instanceId": "17168957569"
+        },
+        {
+          "name": "Pandemonio: Con matchmaking",
+          "period": "2026-09-06T08:42:21Z",
+          "instanceId": "17168947357"
+        },
+        {
+          "name": "Pandemonio: Con matchmaking",
+          "period": "2026-09-05T16:27:01Z",
+          "instanceId": "17167834045"
+        },
+        {
+          "name": "Pandemonio: Con matchmaking",
+          "period": "2026-09-05T16:16:48Z",
+          "instanceId": "17167822604"
+        },
+        {
+          "name": "Vegliante del niente: Personalizzata",
+          "period": "2026-09-05T15:32:05Z",
+          "instanceId": "17167795274"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1789280118000,
+      "lastActivityTimestamp": 1789279906000,
+      "lastActivityText": "Morsa della cupidigia: Standard il 13/09/2026 06:11",
+      "activities": [
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-09-13T06:11:46Z",
+          "instanceId": "17177928965"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-09-13T05:33:14Z",
+          "instanceId": "17177917200"
+        },
+        {
+          "name": "L'astuta: Normale",
+          "period": "2026-09-11T17:10:27Z",
+          "instanceId": "17175725985"
+        },
+        {
+          "name": "Gli Spettri: Normale",
+          "period": "2026-09-11T16:39:07Z",
+          "instanceId": "17175685759"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-09-11T16:24:30Z",
+          "instanceId": "17175656869"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-11T16:19:00Z",
+          "instanceId": "17175644939"
+        },
+        {
+          "name": "Gli Spettri: Normale",
+          "period": "2026-09-11T15:56:01Z",
+          "instanceId": "17175639827"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-09-11T15:49:56Z",
+          "instanceId": "17175619842"
+        },
+        {
+          "name": "Oltre",
+          "period": "2026-09-11T15:32:45Z",
+          "instanceId": "17175610927"
+        },
+        {
+          "name": "Escissione: Solo gioco",
+          "period": "2026-09-11T14:40:08Z",
+          "instanceId": "17175572654"
+        }
+      ]
+    },
     {
       "displayName": "cotasaci#4282",
       "membershipId": "4611686018538148390",
@@ -135,71 +265,6 @@
       ]
     },
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 547,
-      "lastPlayedTimestamp": 1789237276000,
-      "lastActivityTimestamp": 1789236324000,
-      "lastActivityText": "Cosmodromo il 12/09/2026 18:05",
-      "activities": [
-        {
-          "name": "Cosmodromo",
-          "period": "2026-09-12T18:05:24Z",
-          "instanceId": "17177138236"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-10T17:32:54Z",
-          "instanceId": "17174578481"
-        },
-        {
-          "name": "Al limite: Leggendaria",
-          "period": "2026-09-10T16:57:46Z",
-          "instanceId": "17174574445"
-        },
-        {
-          "name": "Misure disperate: Leggendaria",
-          "period": "2026-09-10T16:51:16Z",
-          "instanceId": "17174544864"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-09-10T15:17:05Z",
-          "instanceId": "17174474044"
-        },
-        {
-          "name": "Campi di battaglia: Condotto: Con matchmaking",
-          "period": "2026-09-10T14:53:02Z",
-          "instanceId": "17174461730"
-        },
-        {
-          "name": "Oltre",
-          "period": "2026-09-10T14:40:26Z",
-          "instanceId": "17174442050"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-09-10T14:39:04Z",
-          "instanceId": "17174433004"
-        },
-        {
-          "name": "Sepolcro: Maestro",
-          "period": "2026-09-10T14:32:58Z",
-          "instanceId": "17174431906"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-09-10T14:30:44Z",
-          "instanceId": "17174427018"
-        }
-      ]
-    },
-    {
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
       "bungieNetMembershipId": "",
@@ -326,71 +391,6 @@
           "name": "Eliostasi: Personalizzata",
           "period": "2026-08-23T16:24:57Z",
           "instanceId": "17150076144"
-        }
-      ]
-    },
-    {
-      "displayName": "Jhonny#3878",
-      "membershipId": "4611686018489632599",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Signora del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7005a7ab5f9a038c8de4da69187bb16f.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1789203697000,
-      "lastActivityTimestamp": 1789142167000,
-      "lastActivityText": "La culla del male: Personalizzata il 11/09/2026 15:56",
-      "activities": [
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-11T15:56:07Z",
-          "instanceId": "17175638442"
-        },
-        {
-          "name": "Vegliante del niente: Personalizzata",
-          "period": "2026-09-06T09:21:57Z",
-          "instanceId": "17168987797"
-        },
-        {
-          "name": "Pandemonio: Con matchmaking",
-          "period": "2026-09-06T08:54:18Z",
-          "instanceId": "17168957569"
-        },
-        {
-          "name": "Pandemonio: Con matchmaking",
-          "period": "2026-09-06T08:42:21Z",
-          "instanceId": "17168947357"
-        },
-        {
-          "name": "Pandemonio: Con matchmaking",
-          "period": "2026-09-05T16:27:01Z",
-          "instanceId": "17167834045"
-        },
-        {
-          "name": "Pandemonio: Con matchmaking",
-          "period": "2026-09-05T16:16:48Z",
-          "instanceId": "17167822604"
-        },
-        {
-          "name": "Vegliante del niente: Personalizzata",
-          "period": "2026-09-05T15:32:05Z",
-          "instanceId": "17167795274"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-29T16:07:00Z",
-          "instanceId": "17098575258"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-29T15:57:11Z",
-          "instanceId": "17098562297"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-29T15:48:40Z",
-          "instanceId": "17098546365"
         }
       ]
     },
