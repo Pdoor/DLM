@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T17:34:31.676Z",
+  "generatedAt": "2026-09-13T20:34:06.184Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1789320761000,
-      "lastActivityTimestamp": 1789318738000,
-      "lastActivityText": "Campi di battaglia: Oracolo: Personalizzata il 13/09/2026 16:58",
+      "lastPlayedTimestamp": 1789323642000,
+      "lastActivityTimestamp": 1789321563000,
+      "lastActivityText": "Schianto dell'Esodo: Personalizzata il 13/09/2026 17:46",
       "activities": [
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-09-13T17:46:03Z",
+          "instanceId": "17178591749"
+        },
+        {
+          "name": "La corrotta: Con matchmaking",
+          "period": "2026-09-13T17:25:02Z",
+          "instanceId": "17178547059"
+        },
         {
           "name": "Campi di battaglia: Oracolo: Personalizzata",
           "period": "2026-09-13T16:58:58Z",
@@ -56,16 +66,6 @@
           "name": "Baia dei Desideri Annegati: Esperto",
           "period": "2026-09-13T10:31:18Z",
           "instanceId": "17178122551"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-09-13T10:30:18Z",
-          "instanceId": "17178117154"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-10T17:32:54Z",
-          "instanceId": "17174578481"
         }
       ]
     },
@@ -73,15 +73,25 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 547,
-      "lastPlayedTimestamp": 1789320840000,
-      "lastActivityTimestamp": 1789318738000,
-      "lastActivityText": "Campi di battaglia: Oracolo: Personalizzata il 13/09/2026 16:58",
+      "lastPlayedTimestamp": 1789323325000,
+      "lastActivityTimestamp": 1789321563000,
+      "lastActivityText": "Schianto dell'Esodo: Personalizzata il 13/09/2026 17:46",
       "activities": [
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-09-13T17:46:03Z",
+          "instanceId": "17178591749"
+        },
+        {
+          "name": "La corrotta: Con matchmaking",
+          "period": "2026-09-13T17:25:02Z",
+          "instanceId": "17178547059"
+        },
         {
           "name": "Campi di battaglia: Oracolo: Personalizzata",
           "period": "2026-09-13T16:58:58Z",
@@ -121,16 +131,6 @@
           "name": "Campi di battaglia: Condotto: Con matchmaking",
           "period": "2026-09-10T14:53:02Z",
           "instanceId": "17174461730"
-        },
-        {
-          "name": "Oltre",
-          "period": "2026-09-10T14:40:26Z",
-          "instanceId": "17174442050"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-09-10T14:39:04Z",
-          "instanceId": "17174433004"
         }
       ]
     },
@@ -138,7 +138,7 @@
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
@@ -273,7 +273,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/33ae72dde2bcc32bce9c2967fc01b727.jpg",
       "powerLevel": 459,
-      "lastPlayedTimestamp": 1789257961000,
+      "lastPlayedTimestamp": 1789325392000,
       "lastActivityTimestamp": 1789255308000,
       "lastActivityText": "Adamantide, Europa: Contrabbando: Con matchmaking il 12/09/2026 23:21",
       "activities": [
