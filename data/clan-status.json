@@ -1,9 +1,139 @@
 {
-  "generatedAt": "2026-09-13T09:40:59.914Z",
+  "generatedAt": "2026-09-13T14:12:05.190Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "egghi-ale#5342",
+      "membershipId": "4611686018495762392",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1789308707000,
+      "lastActivityTimestamp": 1789307518000,
+      "lastActivityText": "La culla del male: Personalizzata il 13/09/2026 13:51",
+      "activities": [
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-13T13:51:58Z",
+          "instanceId": "17178281177"
+        },
+        {
+          "name": "Adamantide, Europa: Contrabbando: Con matchmaking",
+          "period": "2026-09-12T23:21:48Z",
+          "instanceId": "17177519674"
+        },
+        {
+          "name": "Periferia di Libernia, Marte: Sabotaggio: Con matchmaking",
+          "period": "2026-09-12T22:54:04Z",
+          "instanceId": "17177488696"
+        },
+        {
+          "name": "Adamantide, Europa: Contrabbando: Con matchmaking",
+          "period": "2026-09-12T22:25:33Z",
+          "instanceId": "17177457505"
+        },
+        {
+          "name": "Adamantide, Europa: Contrabbando: Con matchmaking",
+          "period": "2026-09-12T21:40:58Z",
+          "instanceId": "17177407041"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-09-12T20:23:16Z",
+          "instanceId": "17177363326"
+        },
+        {
+          "name": "Prove di Osiride: Con matchmaking",
+          "period": "2026-09-12T13:18:39Z",
+          "instanceId": "17176809891"
+        },
+        {
+          "name": "Rovesciamento",
+          "period": "2026-09-12T12:47:53Z",
+          "instanceId": "17176878823"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-11T22:22:32Z",
+          "instanceId": "17176044672"
+        },
+        {
+          "name": "Spira: Personalizzata",
+          "period": "2026-09-11T20:25:20Z",
+          "instanceId": "17175921947"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1789297161000,
+      "lastActivityTimestamp": 1789296613000,
+      "lastActivityText": "Osservatorio Celeste: Personalizzata il 13/09/2026 10:50",
+      "activities": [
+        {
+          "name": "Osservatorio Celeste: Personalizzata",
+          "period": "2026-09-13T10:50:13Z",
+          "instanceId": "17178136717"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-09-13T10:39:01Z",
+          "instanceId": "17178125093"
+        },
+        {
+          "name": "Baia dei Desideri Annegati: Esperto",
+          "period": "2026-09-13T10:31:18Z",
+          "instanceId": "17178122551"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-09-13T10:30:18Z",
+          "instanceId": "17178117154"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-09-10T17:32:54Z",
+          "instanceId": "17174578481"
+        },
+        {
+          "name": "Al limite: Leggendaria",
+          "period": "2026-09-10T16:57:46Z",
+          "instanceId": "17174574445"
+        },
+        {
+          "name": "Misure disperate: Leggendaria",
+          "period": "2026-09-10T16:51:16Z",
+          "instanceId": "17174544864"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-09-10T15:34:02Z",
+          "instanceId": "17174497147"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-09-10T15:17:05Z",
+          "instanceId": "17174474044"
+        },
+        {
+          "name": "Campi di battaglia: Condotto: Con matchmaking",
+          "period": "2026-09-10T14:53:02Z",
+          "instanceId": "17174461730"
+        }
+      ]
+    },
     {
       "displayName": "Jhonny#3878",
       "membershipId": "4611686018489632599",
@@ -181,71 +311,6 @@
           "name": "Poligono di Tiro",
           "period": "2026-09-11T23:04:07Z",
           "instanceId": "17176063051"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-11T22:22:32Z",
-          "instanceId": "17176044672"
-        },
-        {
-          "name": "Spira: Personalizzata",
-          "period": "2026-09-11T20:25:20Z",
-          "instanceId": "17175921947"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-09-11T20:17:55Z",
-          "instanceId": "17175872709"
-        }
-      ]
-    },
-    {
-      "displayName": "egghi-ale#5342",
-      "membershipId": "4611686018495762392",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1789257908000,
-      "lastActivityTimestamp": 1789255308000,
-      "lastActivityText": "Adamantide, Europa: Contrabbando: Con matchmaking il 12/09/2026 23:21",
-      "activities": [
-        {
-          "name": "Adamantide, Europa: Contrabbando: Con matchmaking",
-          "period": "2026-09-12T23:21:48Z",
-          "instanceId": "17177519674"
-        },
-        {
-          "name": "Periferia di Libernia, Marte: Sabotaggio: Con matchmaking",
-          "period": "2026-09-12T22:54:04Z",
-          "instanceId": "17177488696"
-        },
-        {
-          "name": "Adamantide, Europa: Contrabbando: Con matchmaking",
-          "period": "2026-09-12T22:25:33Z",
-          "instanceId": "17177457505"
-        },
-        {
-          "name": "Adamantide, Europa: Contrabbando: Con matchmaking",
-          "period": "2026-09-12T21:40:58Z",
-          "instanceId": "17177407041"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-12T20:23:16Z",
-          "instanceId": "17177363326"
-        },
-        {
-          "name": "Prove di Osiride: Con matchmaking",
-          "period": "2026-09-12T13:18:39Z",
-          "instanceId": "17176809891"
-        },
-        {
-          "name": "Rovesciamento",
-          "period": "2026-09-12T12:47:53Z",
-          "instanceId": "17176878823"
         },
         {
           "name": "Volta di Vetro: Standard",
@@ -525,71 +590,6 @@
       ]
     },
     {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1789244637000,
-      "lastActivityTimestamp": 1789061574000,
-      "lastActivityText": "Neomuna il 10/09/2026 17:32",
-      "activities": [
-        {
-          "name": "Neomuna",
-          "period": "2026-09-10T17:32:54Z",
-          "instanceId": "17174578481"
-        },
-        {
-          "name": "Al limite: Leggendaria",
-          "period": "2026-09-10T16:57:46Z",
-          "instanceId": "17174574445"
-        },
-        {
-          "name": "Misure disperate: Leggendaria",
-          "period": "2026-09-10T16:51:16Z",
-          "instanceId": "17174544864"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-09-10T15:34:02Z",
-          "instanceId": "17174497147"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-09-10T15:17:05Z",
-          "instanceId": "17174474044"
-        },
-        {
-          "name": "Campi di battaglia: Condotto: Con matchmaking",
-          "period": "2026-09-10T14:53:02Z",
-          "instanceId": "17174461730"
-        },
-        {
-          "name": "Oltre",
-          "period": "2026-09-10T14:40:26Z",
-          "instanceId": "17174442050"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-09-10T14:39:04Z",
-          "instanceId": "17174433004"
-        },
-        {
-          "name": "Sepolcro: Maestro",
-          "period": "2026-09-10T14:32:58Z",
-          "instanceId": "17174431906"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-09-10T14:30:44Z",
-          "instanceId": "17174427018"
-        }
-      ]
-    },
-    {
       "displayName": "Krikka93#463",
       "membershipId": "4611686018504053383",
       "bungieNetMembershipId": "",
@@ -850,71 +850,6 @@
       ]
     },
     {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1788814662000,
-      "lastActivityTimestamp": 1787752297000,
-      "lastActivityText": "Volta di Vetro: Maestro il 26/08/2026 13:51",
-      "activities": [
-        {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-26T13:51:37Z",
-          "instanceId": "17154184655"
-        },
-        {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-26T13:35:48Z",
-          "instanceId": "17154178146"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-25T15:23:07Z",
-          "instanceId": "17152997843"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-08-25T00:03:19Z",
-          "instanceId": "17152250552"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-24T23:39:44Z",
-          "instanceId": "17152113129"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-24T23:27:44Z",
-          "instanceId": "17152090746"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-24T23:16:41Z",
-          "instanceId": "17152075580"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-24T23:10:57Z",
-          "instanceId": "17152068593"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-24T23:04:03Z",
-          "instanceId": "17152061052"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-24T22:50:23Z",
-          "instanceId": "17152044057"
-        }
-      ]
-    },
-    {
       "displayName": "KIT HAMWORTH#5503",
       "membershipId": "4611686018513251845",
       "bungieNetMembershipId": "",
@@ -976,6 +911,71 @@
           "name": "Ultima occasione: Normale",
           "period": "2026-08-23T17:50:25Z",
           "instanceId": "17150520061"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "RICERCATO",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7af395a7c4adf5043bcbf00fce7cb899.jpg",
+      "powerLevel": 544,
+      "lastPlayedTimestamp": 1789307576000,
+      "lastActivityTimestamp": 1787580163000,
+      "lastActivityText": "Azzardo: Con matchmaking il 24/08/2026 14:02",
+      "activities": [
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-24T14:02:43Z",
+          "instanceId": "17151446373"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-24T13:53:45Z",
+          "instanceId": "17151437225"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-24T13:45:42Z",
+          "instanceId": "17151429043"
+        },
+        {
+          "name": "Periferia di Libernia, Marte: Sabotaggio: Con matchmaking",
+          "period": "2026-08-24T13:39:02Z",
+          "instanceId": "17151443227"
+        },
+        {
+          "name": "Adamantide, Europa: Caccia alle taglie: Con matchmaking",
+          "period": "2026-08-24T13:31:51Z",
+          "instanceId": "17151432845"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-08-24T00:24:27Z",
+          "instanceId": "17150708769"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-24T00:10:57Z",
+          "instanceId": "17150704156"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-23T23:59:35Z",
+          "instanceId": "17150685261"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-23T23:47:49Z",
+          "instanceId": "17150669435"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-08-23T22:22:58Z",
+          "instanceId": "17150864651"
         }
       ]
     },
