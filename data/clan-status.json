@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-15T12:33:20.013Z",
+  "generatedAt": "2026-09-15T17:34:58.993Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
       "isOnline": true,
-      "className": "Titani",
+      "className": "Stregoni",
       "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 547,
-      "lastPlayedTimestamp": 1789475499000,
-      "lastActivityTimestamp": 1789472823000,
-      "lastActivityText": "La fine di Crota: Standard il 15/09/2026 11:47",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1789493668000,
+      "lastActivityTimestamp": 1789491681000,
+      "lastActivityText": "Terminale Intuitivo: Personalizzata il 15/09/2026 17:01",
       "activities": [
         {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-09-15T11:47:03Z",
-          "instanceId": "17180671310"
-        },
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-09-13T17:46:03Z",
-          "instanceId": "17178591749"
-        },
-        {
-          "name": "La corrotta: Con matchmaking",
-          "period": "2026-09-13T17:25:02Z",
-          "instanceId": "17178547059"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Personalizzata",
-          "period": "2026-09-13T16:58:58Z",
-          "instanceId": "17178520294"
+          "name": "Terminale Intuitivo: Personalizzata",
+          "period": "2026-09-15T17:01:21Z",
+          "instanceId": "17180883515"
         },
         {
           "name": "Cosmodromo",
-          "period": "2026-09-13T16:37:21Z",
-          "instanceId": "17178489539"
+          "period": "2026-09-15T16:46:16Z",
+          "instanceId": "17180869127"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Personalizzata",
+          "period": "2026-09-15T16:11:53Z",
+          "instanceId": "17180848773"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-09-15T16:00:21Z",
+          "instanceId": "17180833385"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-09-15T15:41:28Z",
+          "instanceId": "17180823181"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-09-15T15:29:35Z",
+          "instanceId": "17180809552"
         },
         {
           "name": "Cosmodromo",
-          "period": "2026-09-12T18:05:24Z",
-          "instanceId": "17177138236"
+          "period": "2026-09-15T14:50:36Z",
+          "instanceId": "17180800642"
         },
         {
-          "name": "Neomuna",
-          "period": "2026-09-10T17:32:54Z",
-          "instanceId": "17174578481"
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-14T17:54:58Z",
+          "instanceId": "17179828015"
         },
         {
-          "name": "Al limite: Leggendaria",
-          "period": "2026-09-10T16:57:46Z",
-          "instanceId": "17174574445"
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-09-14T17:31:32Z",
+          "instanceId": "17179807143"
         },
         {
-          "name": "Misure disperate: Leggendaria",
-          "period": "2026-09-10T16:51:16Z",
-          "instanceId": "17174544864"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-09-10T15:17:05Z",
-          "instanceId": "17174474044"
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-09-14T17:24:21Z",
+          "instanceId": "17179786703"
         }
       ]
     },
@@ -73,15 +73,20 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1789420435000,
-      "lastActivityTimestamp": 1789418714000,
-      "lastActivityText": "Conservazione il 14/09/2026 20:45",
+      "lastPlayedTimestamp": 1789493497000,
+      "lastActivityTimestamp": 1789490393000,
+      "lastActivityText": "Cosmodromo il 15/09/2026 16:39",
       "activities": [
+        {
+          "name": "Cosmodromo",
+          "period": "2026-09-15T16:39:53Z",
+          "instanceId": "17180867717"
+        },
         {
           "name": "Conservazione",
           "period": "2026-09-14T20:45:14Z",
@@ -126,11 +131,136 @@
           "name": "Tronomondo di Savathûn",
           "period": "2026-09-09T15:57:52Z",
           "instanceId": "17173358673"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1789493185000,
+      "lastActivityTimestamp": 1789490393000,
+      "lastActivityText": "Cosmodromo il 15/09/2026 16:39",
+      "activities": [
+        {
+          "name": "Cosmodromo",
+          "period": "2026-09-15T16:39:53Z",
+          "instanceId": "17180867717"
         },
         {
-          "name": "Conservazione",
-          "period": "2026-09-09T14:21:54Z",
-          "instanceId": "17173309105"
+          "name": "La Città Sognante",
+          "period": "2026-09-15T16:13:32Z",
+          "instanceId": "17180836269"
+        },
+        {
+          "name": "Riposo dell'Afelio: Maestro",
+          "period": "2026-09-15T16:07:12Z",
+          "instanceId": "17180835351"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-09-15T15:59:31Z",
+          "instanceId": "17180830437"
+        },
+        {
+          "name": "Escissione: Solo gioco",
+          "period": "2026-09-15T15:25:41Z",
+          "instanceId": "17180812841"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-09-15T15:06:05Z",
+          "instanceId": "17180795060"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-09-15T14:49:44Z",
+          "instanceId": "17180780872"
+        },
+        {
+          "name": "Terreni di Prova: Con matchmaking",
+          "period": "2026-09-15T14:31:28Z",
+          "instanceId": "17180769230"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-09-15T14:21:30Z",
+          "instanceId": "17180760520"
+        },
+        {
+          "name": "Terreni di Prova: Con matchmaking",
+          "period": "2026-09-15T12:27:26Z",
+          "instanceId": "17180680555"
+        }
+      ]
+    },
+    {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
+      "powerLevel": 456,
+      "lastPlayedTimestamp": 1789485196000,
+      "lastActivityTimestamp": 1789483975000,
+      "lastActivityText": "Dissenso: Campagna cooperativa il 15/09/2026 14:52",
+      "activities": [
+        {
+          "name": "Dissenso: Campagna cooperativa",
+          "period": "2026-09-15T14:52:55Z",
+          "instanceId": "17180788992"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-09-15T14:15:03Z",
+          "instanceId": "17180770849"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-09-14T14:48:38Z",
+          "instanceId": "17179653891"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-09-14T14:40:20Z",
+          "instanceId": "17179685295"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-09-14T13:10:32Z",
+          "instanceId": "17179645846"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-09-12T07:59:21Z",
+          "instanceId": "17176648091"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-30T13:56:39Z",
+          "instanceId": "17159774495"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-30T09:06:21Z",
+          "instanceId": "17159447106"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-23T09:10:41Z",
+          "instanceId": "17149557284"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-08-23T06:35:32Z",
+          "instanceId": "17149435818"
         }
       ]
     },
@@ -196,136 +326,6 @@
           "name": "Poligono di Tiro",
           "period": "2026-09-09T14:50:20Z",
           "instanceId": "17173302160"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1789409708000,
-      "lastActivityTimestamp": 1789408498000,
-      "lastActivityText": "La culla del male: Personalizzata il 14/09/2026 17:54",
-      "activities": [
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-14T17:54:58Z",
-          "instanceId": "17179828015"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-09-14T17:31:32Z",
-          "instanceId": "17179807143"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-09-14T17:24:21Z",
-          "instanceId": "17179786703"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Audace",
-          "period": "2026-09-14T16:47:30Z",
-          "instanceId": "17179780387"
-        },
-        {
-          "name": "Artesia Mons, Venere: Contrabbando: Con matchmaking",
-          "period": "2026-09-14T16:22:44Z",
-          "instanceId": "17179749402"
-        },
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-09-13T17:46:03Z",
-          "instanceId": "17178591749"
-        },
-        {
-          "name": "La corrotta: Con matchmaking",
-          "period": "2026-09-13T17:25:02Z",
-          "instanceId": "17178547059"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Personalizzata",
-          "period": "2026-09-13T16:58:58Z",
-          "instanceId": "17178520294"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-13T15:32:40Z",
-          "instanceId": "17178416356"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-13T15:17:59Z",
-          "instanceId": "17178383101"
-        }
-      ]
-    },
-    {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 456,
-      "lastPlayedTimestamp": 1789468588000,
-      "lastActivityTimestamp": 1789397318000,
-      "lastActivityText": "Neomuna il 14/09/2026 14:48",
-      "activities": [
-        {
-          "name": "Neomuna",
-          "period": "2026-09-14T14:48:38Z",
-          "instanceId": "17179653891"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-09-14T14:40:20Z",
-          "instanceId": "17179685295"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-09-14T13:10:32Z",
-          "instanceId": "17179645846"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-09-12T07:59:21Z",
-          "instanceId": "17176648091"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-30T13:56:39Z",
-          "instanceId": "17159774495"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-30T09:06:21Z",
-          "instanceId": "17159447106"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-23T09:10:41Z",
-          "instanceId": "17149557284"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-08-23T06:35:32Z",
-          "instanceId": "17149435818"
-        },
-        {
-          "name": "Cripta di Pietrafonda",
-          "period": "2026-08-22T16:57:04Z",
-          "instanceId": "17148303874"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-08-22T12:12:21Z",
-          "instanceId": "17147823660"
         }
       ]
     },
