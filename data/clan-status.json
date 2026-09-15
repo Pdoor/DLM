@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-09-15T06:33:29.806Z",
+  "generatedAt": "2026-09-15T12:33:20.013Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 547,
+      "lastPlayedTimestamp": 1789475499000,
+      "lastActivityTimestamp": 1789472823000,
+      "lastActivityText": "La fine di Crota: Standard il 15/09/2026 11:47",
+      "activities": [
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-09-15T11:47:03Z",
+          "instanceId": "17180671310"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-09-13T17:46:03Z",
+          "instanceId": "17178591749"
+        },
+        {
+          "name": "La corrotta: Con matchmaking",
+          "period": "2026-09-13T17:25:02Z",
+          "instanceId": "17178547059"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Personalizzata",
+          "period": "2026-09-13T16:58:58Z",
+          "instanceId": "17178520294"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-09-13T16:37:21Z",
+          "instanceId": "17178489539"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-09-12T18:05:24Z",
+          "instanceId": "17177138236"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-09-10T17:32:54Z",
+          "instanceId": "17174578481"
+        },
+        {
+          "name": "Al limite: Leggendaria",
+          "period": "2026-09-10T16:57:46Z",
+          "instanceId": "17174574445"
+        },
+        {
+          "name": "Misure disperate: Leggendaria",
+          "period": "2026-09-10T16:51:16Z",
+          "instanceId": "17174544864"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-09-10T15:17:05Z",
+          "instanceId": "17174474044"
+        }
+      ]
+    },
     {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
@@ -200,71 +265,6 @@
       ]
     },
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1789408447000,
-      "lastActivityTimestamp": 1789407092000,
-      "lastActivityText": "Campo di battaglia Colpo: Marte: Personalizzata il 14/09/2026 17:31",
-      "activities": [
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-09-14T17:31:32Z",
-          "instanceId": "17179807143"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-09-14T17:24:21Z",
-          "instanceId": "17179786703"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Audace",
-          "period": "2026-09-14T16:47:30Z",
-          "instanceId": "17179780387"
-        },
-        {
-          "name": "Artesia Mons, Venere: Contrabbando: Con matchmaking",
-          "period": "2026-09-14T16:22:44Z",
-          "instanceId": "17179749402"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-09-14T16:19:53Z",
-          "instanceId": "17179738504"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-09-14T14:51:16Z",
-          "instanceId": "17179704204"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-14T14:18:49Z",
-          "instanceId": "17179659473"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-09-14T13:51:55Z",
-          "instanceId": "17179623192"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-09-14T12:57:09Z",
-          "instanceId": "17179602473"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-09-14T12:51:32Z",
-          "instanceId": "17179570728"
-        }
-      ]
-    },
-    {
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
       "bungieNetMembershipId": "",
@@ -273,7 +273,7 @@
       "title": "Gloriosa",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
       "powerLevel": 456,
-      "lastPlayedTimestamp": 1789397597000,
+      "lastPlayedTimestamp": 1789468588000,
       "lastActivityTimestamp": 1789397318000,
       "lastActivityText": "Neomuna il 14/09/2026 14:48",
       "activities": [
