@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T04:14:23.090Z",
+  "generatedAt": "2026-09-16T09:27:02.605Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1789496614000,
-      "lastActivityTimestamp": 1789495501000,
-      "lastActivityText": "Lago di ombre: Con matchmaking il 15/09/2026 18:05",
+      "lastPlayedTimestamp": 1789550798000,
+      "lastActivityTimestamp": 1789547591000,
+      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata il 16/09/2026 08:33",
       "activities": [
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-09-16T08:33:11Z",
+          "instanceId": "17181665257"
+        },
+        {
+          "name": "Lago di ombre: Con matchmaking",
+          "period": "2026-09-16T05:04:36Z",
+          "instanceId": "17181552042"
+        },
         {
           "name": "Lago di ombre: Con matchmaking",
           "period": "2026-09-15T18:05:01Z",
@@ -56,16 +66,6 @@
           "name": "Escissione: Solo gioco",
           "period": "2026-09-15T15:25:41Z",
           "instanceId": "17180812841"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-09-15T15:06:05Z",
-          "instanceId": "17180795060"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-09-15T14:49:44Z",
-          "instanceId": "17180780872"
         }
       ]
     },
