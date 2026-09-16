@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T14:19:23.354Z",
+  "generatedAt": "2026-09-16T18:21:02.291Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,60 +12,60 @@
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1789568320000,
-      "lastActivityTimestamp": 1789565372000,
-      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata il 16/09/2026 13:29",
+      "powerLevel": 546,
+      "lastPlayedTimestamp": 1789582830000,
+      "lastActivityTimestamp": 1789582144000,
+      "lastActivityText": "Europa il 16/09/2026 18:09",
       "activities": [
+        {
+          "name": "Europa",
+          "period": "2026-09-16T18:09:04Z",
+          "instanceId": "17182026493"
+        },
+        {
+          "name": "Perdizione: Maestro",
+          "period": "2026-09-16T18:01:23Z",
+          "instanceId": "17182023272"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-09-16T17:58:30Z",
+          "instanceId": "17182016617"
+        },
+        {
+          "name": "Campi di battaglia: Condotto: Con matchmaking",
+          "period": "2026-09-16T17:30:07Z",
+          "instanceId": "17182000681"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-16T16:54:12Z",
+          "instanceId": "17181975063"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-09-16T16:22:55Z",
+          "instanceId": "17181951348"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-09-16T14:34:44Z",
+          "instanceId": "17181889962"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-16T13:55:00Z",
+          "instanceId": "17181843128"
+        },
         {
           "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
           "period": "2026-09-16T13:29:32Z",
           "instanceId": "17181823660"
         },
         {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-09-16T11:59:19Z",
-          "instanceId": "17181758757"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-09-16T11:53:56Z",
-          "instanceId": "17181753250"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-09-16T11:44:58Z",
-          "instanceId": "17181750580"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-09-16T11:40:55Z",
-          "instanceId": "17181745774"
-        },
-        {
           "name": "Dottrina dilaniata: Normale",
           "period": "2026-09-16T11:33:14Z",
           "instanceId": "17181774052"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-16T09:42:41Z",
-          "instanceId": "17181689697"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-16T09:35:52Z",
-          "instanceId": "17181686812"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-16T09:29:58Z",
-          "instanceId": "17181683749"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-09-16T08:33:11Z",
-          "instanceId": "17181665257"
         }
       ]
     },
@@ -78,10 +78,30 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1789493729000,
-      "lastActivityTimestamp": 1789492536000,
-      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 15/09/2026 17:15",
+      "lastPlayedTimestamp": 1789581842000,
+      "lastActivityTimestamp": 1789580075000,
+      "lastActivityText": "La culla del male: Personalizzata il 16/09/2026 17:34",
       "activities": [
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-16T17:34:35Z",
+          "instanceId": "17182019529"
+        },
+        {
+          "name": "Spedizione: Nessus: Personalizzata",
+          "period": "2026-09-16T17:17:59Z",
+          "instanceId": "17181991048"
+        },
+        {
+          "name": "L'arrivo: Leggenda",
+          "period": "2026-09-16T17:00:20Z",
+          "instanceId": "17181970100"
+        },
+        {
+          "name": "L'arrivo: Leggenda",
+          "period": "2026-09-16T16:38:41Z",
+          "instanceId": "17181966389"
+        },
         {
           "name": "Il Ponte di Vetro: Con matchmaking",
           "period": "2026-09-15T17:15:36Z",
@@ -111,26 +131,71 @@
           "name": "Campo di battaglia Colpo: Luna: Personalizzata",
           "period": "2026-09-15T15:41:28Z",
           "instanceId": "17180823181"
+        }
+      ]
+    },
+    {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
+      "powerLevel": 454,
+      "lastPlayedTimestamp": 1789571814000,
+      "lastActivityTimestamp": 1789566915000,
+      "lastActivityText": "Dissenso: Campagna cooperativa il 16/09/2026 13:55",
+      "activities": [
+        {
+          "name": "Dissenso: Campagna cooperativa",
+          "period": "2026-09-16T13:55:15Z",
+          "instanceId": "17181888269"
         },
         {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-09-15T15:29:35Z",
-          "instanceId": "17180809552"
+          "name": "Dissenso: Campagna cooperativa",
+          "period": "2026-09-15T14:52:55Z",
+          "instanceId": "17180788992"
         },
         {
-          "name": "Cosmodromo",
-          "period": "2026-09-15T14:50:36Z",
-          "instanceId": "17180800642"
+          "name": "Pallido Cuore",
+          "period": "2026-09-15T14:15:03Z",
+          "instanceId": "17180770849"
         },
         {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-14T17:54:58Z",
-          "instanceId": "17179828015"
+          "name": "Neomuna",
+          "period": "2026-09-14T14:48:38Z",
+          "instanceId": "17179653891"
         },
         {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-09-14T17:31:32Z",
-          "instanceId": "17179807143"
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-09-14T14:40:20Z",
+          "instanceId": "17179685295"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-09-14T13:10:32Z",
+          "instanceId": "17179645846"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-09-12T07:59:21Z",
+          "instanceId": "17176648091"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-30T13:56:39Z",
+          "instanceId": "17159774495"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-08-30T09:06:21Z",
+          "instanceId": "17159447106"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-08-23T09:10:41Z",
+          "instanceId": "17149557284"
         }
       ]
     },
@@ -200,132 +265,67 @@
       ]
     },
     {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 455,
-      "lastPlayedTimestamp": 1789568322000,
-      "lastActivityTimestamp": 1789483975000,
-      "lastActivityText": "Dissenso: Campagna cooperativa il 15/09/2026 14:52",
-      "activities": [
-        {
-          "name": "Dissenso: Campagna cooperativa",
-          "period": "2026-09-15T14:52:55Z",
-          "instanceId": "17180788992"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-09-15T14:15:03Z",
-          "instanceId": "17180770849"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-14T14:48:38Z",
-          "instanceId": "17179653891"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-09-14T14:40:20Z",
-          "instanceId": "17179685295"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-09-14T13:10:32Z",
-          "instanceId": "17179645846"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-09-12T07:59:21Z",
-          "instanceId": "17176648091"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-30T13:56:39Z",
-          "instanceId": "17159774495"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-30T09:06:21Z",
-          "instanceId": "17159447106"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-08-23T09:10:41Z",
-          "instanceId": "17149557284"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-08-23T06:35:32Z",
-          "instanceId": "17149435818"
-        }
-      ]
-    },
-    {
       "displayName": "egghi-ale#5342",
       "membershipId": "4611686018495762392",
       "bungieNetMembershipId": "",
       "isOnline": false,
-      "className": "Stregoni",
+      "className": "Cacciatori",
       "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/80f5aec4b03c7613d8628b7b7077b936.jpg",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1789413899000,
-      "lastActivityTimestamp": 1789413638000,
-      "lastActivityText": "La culla del male: Personalizzata il 14/09/2026 19:20",
+      "lastPlayedTimestamp": 1789578180000,
+      "lastActivityTimestamp": 1789369336000,
+      "lastActivityText": "Equilibrio: Standard il 14/09/2026 07:02",
       "activities": [
         {
+          "name": "Equilibrio: Standard",
+          "period": "2026-09-14T07:02:16Z",
+          "instanceId": "17179395675"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-09-14T06:50:24Z",
+          "instanceId": "17179390843"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-09-14T06:40:01Z",
+          "instanceId": "17179384306"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-09-14T06:32:10Z",
+          "instanceId": "17179377381"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-09-14T06:26:07Z",
+          "instanceId": "17179374765"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-09-14T06:21:50Z",
+          "instanceId": "17179379133"
+        },
+        {
           "name": "La culla del male: Personalizzata",
-          "period": "2026-09-14T19:20:38Z",
-          "instanceId": "17179894076"
+          "period": "2026-09-13T13:57:35Z",
+          "instanceId": "17178306176"
         },
         {
-          "name": "Sfida degli Anziani: Personalizzata",
-          "period": "2026-09-13T13:17:08Z",
-          "instanceId": "17178275234"
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-13T13:51:58Z",
+          "instanceId": "17178281177"
         },
         {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-10T09:20:14Z",
-          "instanceId": "17174262256"
+          "name": "Adamantide, Europa: Contrabbando: Con matchmaking",
+          "period": "2026-09-12T23:21:48Z",
+          "instanceId": "17177519674"
         },
         {
-          "name": "Poligono di Tiro",
-          "period": "2026-09-10T08:34:54Z",
-          "instanceId": "17174226406"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-09-09T19:58:13Z",
-          "instanceId": "17173588133"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-09T17:58:40Z",
-          "instanceId": "17173487657"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-09T16:49:25Z",
-          "instanceId": "17173408959"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-09T15:54:16Z",
-          "instanceId": "17173396167"
-        },
-        {
-          "name": "Rovina della Signora della Guerra: Standard",
-          "period": "2026-09-09T14:56:08Z",
-          "instanceId": "17173324230"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-09-09T14:50:20Z",
-          "instanceId": "17173302160"
+          "name": "Periferia di Libernia, Marte: Sabotaggio: Con matchmaking",
+          "period": "2026-09-12T22:54:04Z",
+          "instanceId": "17177488696"
         }
       ]
     },
