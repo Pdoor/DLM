@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T18:21:02.291Z",
+  "generatedAt": "2026-09-16T21:35:06.958Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,30 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 546,
-      "lastPlayedTimestamp": 1789582830000,
-      "lastActivityTimestamp": 1789582144000,
-      "lastActivityText": "Europa il 16/09/2026 18:09",
+      "lastPlayedTimestamp": 1789583393000,
+      "lastActivityTimestamp": 1789583355000,
+      "lastActivityText": "Europa il 16/09/2026 18:29",
       "activities": [
+        {
+          "name": "Europa",
+          "period": "2026-09-16T18:29:15Z",
+          "instanceId": "17182042819"
+        },
+        {
+          "name": "Perdizione: Maestro",
+          "period": "2026-09-16T18:23:51Z",
+          "instanceId": "17182040705"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-09-16T18:20:31Z",
+          "instanceId": "17182036068"
+        },
         {
           "name": "Europa",
           "period": "2026-09-16T18:09:04Z",
@@ -51,21 +66,6 @@
           "name": "Equilibrio: Standard",
           "period": "2026-09-16T14:34:44Z",
           "instanceId": "17181889962"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-09-16T13:55:00Z",
-          "instanceId": "17181843128"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-09-16T13:29:32Z",
-          "instanceId": "17181823660"
-        },
-        {
-          "name": "Dottrina dilaniata: Normale",
-          "period": "2026-09-16T11:33:14Z",
-          "instanceId": "17181774052"
         }
       ]
     },
