@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T05:10:37.278Z",
+  "generatedAt": "2026-09-17T10:19:01.993Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,45 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 546,
-      "lastPlayedTimestamp": 1789583393000,
-      "lastActivityTimestamp": 1789583355000,
-      "lastActivityText": "Europa il 16/09/2026 18:29",
+      "lastPlayedTimestamp": 1789640011000,
+      "lastActivityTimestamp": 1789628006000,
+      "lastActivityText": "Pinnacolo dell'Osservatrice: Maestro il 17/09/2026 06:53",
       "activities": [
+        {
+          "name": "Pinnacolo dell'Osservatrice: Maestro",
+          "period": "2026-09-17T06:53:26Z",
+          "instanceId": "17182707811"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-09-17T06:53:16Z",
+          "instanceId": "17182671322"
+        },
+        {
+          "name": "Perdizione: Maestro",
+          "period": "2026-09-17T06:48:45Z",
+          "instanceId": "17182665696"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-09-17T06:45:02Z",
+          "instanceId": "17182663321"
+        },
+        {
+          "name": "Perdizione: Maestro",
+          "period": "2026-09-17T06:39:21Z",
+          "instanceId": "17182661249"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-09-17T06:36:54Z",
+          "instanceId": "17182658513"
+        },
         {
           "name": "Europa",
           "period": "2026-09-16T18:29:15Z",
@@ -36,36 +66,6 @@
           "name": "Europa",
           "period": "2026-09-16T18:09:04Z",
           "instanceId": "17182026493"
-        },
-        {
-          "name": "Perdizione: Maestro",
-          "period": "2026-09-16T18:01:23Z",
-          "instanceId": "17182023272"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-09-16T17:58:30Z",
-          "instanceId": "17182016617"
-        },
-        {
-          "name": "Campi di battaglia: Condotto: Con matchmaking",
-          "period": "2026-09-16T17:30:07Z",
-          "instanceId": "17182000681"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-16T16:54:12Z",
-          "instanceId": "17181975063"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-09-16T16:22:55Z",
-          "instanceId": "17181951348"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-16T14:34:44Z",
-          "instanceId": "17181889962"
         }
       ]
     },
