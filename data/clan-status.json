@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-09-18T14:53:03.797Z",
+  "generatedAt": "2026-09-18T18:13:03.910Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1789755118000,
+      "lastActivityTimestamp": 1789749454000,
+      "lastActivityText": "La culla del male: Personalizzata il 18/09/2026 16:37",
+      "activities": [
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-18T16:37:34Z",
+          "instanceId": "17184068709"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-18T16:28:35Z",
+          "instanceId": "17184045163"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Leggendaria",
+          "period": "2026-09-18T15:41:52Z",
+          "instanceId": "17184020295"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-18T15:14:38Z",
+          "instanceId": "17183983409"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-17T18:24:39Z",
+          "instanceId": "17183083104"
+        },
+        {
+          "name": "Terminale Intuitivo",
+          "period": "2026-09-17T18:08:24Z",
+          "instanceId": "17183079024"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-09-17T18:01:17Z",
+          "instanceId": "17183065906"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-09-17T17:33:52Z",
+          "instanceId": "17183063020"
+        },
+        {
+          "name": "Adrenalodromo: Maestro",
+          "period": "2026-09-17T17:22:20Z",
+          "instanceId": "17183037466"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-09-17T16:51:49Z",
+          "instanceId": "17183028268"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -13,10 +78,40 @@
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1789743015000,
-      "lastActivityTimestamp": 1789741347000,
-      "lastActivityText": "Cosmodromo il 18/09/2026 14:22",
+      "lastPlayedTimestamp": 1789755133000,
+      "lastActivityTimestamp": 1789749454000,
+      "lastActivityText": "La culla del male: Personalizzata il 18/09/2026 16:37",
       "activities": [
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-18T16:37:34Z",
+          "instanceId": "17184068709"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-18T16:28:35Z",
+          "instanceId": "17184045163"
+        },
+        {
+          "name": "Terminale Intuitivo: Personalizzata",
+          "period": "2026-09-18T16:21:13Z",
+          "instanceId": "17184042954"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-09-18T16:12:13Z",
+          "instanceId": "17184031562"
+        },
+        {
+          "name": "La Tana dei Diavoli: Personalizzata",
+          "period": "2026-09-18T15:01:43Z",
+          "instanceId": "17183990619"
+        },
+        {
+          "name": "La Tana dei Diavoli: Personalizzata",
+          "period": "2026-09-18T14:49:41Z",
+          "instanceId": "17183965680"
+        },
         {
           "name": "Cosmodromo",
           "period": "2026-09-18T14:22:27Z",
@@ -33,39 +128,9 @@
           "instanceId": "17183931576"
         },
         {
-          "name": "La Città Sognante",
-          "period": "2026-09-18T13:51:19Z",
-          "instanceId": "17183928745"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Con matchmaking",
-          "period": "2026-09-18T13:13:41Z",
-          "instanceId": "17183905865"
-        },
-        {
           "name": "Neomuna",
-          "period": "2026-09-18T13:02:00Z",
-          "instanceId": "17183887977"
-        },
-        {
-          "name": "Adrenalodromo: Maestro",
-          "period": "2026-09-18T12:46:34Z",
-          "instanceId": "17183880615"
-        },
-        {
-          "name": "Spirale invertita: Con matchmaking",
-          "period": "2026-09-18T12:04:44Z",
-          "instanceId": "17183860863"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-18T10:33:21Z",
-          "instanceId": "17183821128"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Con matchmaking",
-          "period": "2026-09-18T07:56:17Z",
-          "instanceId": "17183851521"
+          "period": "2026-09-18T12:42:32Z",
+          "instanceId": "17184053372"
         }
       ]
     },
@@ -131,71 +196,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-08-24T23:04:03Z",
           "instanceId": "17152061052"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1789669597000,
-      "lastActivityTimestamp": 1789669479000,
-      "lastActivityText": "La culla del male: Personalizzata il 17/09/2026 18:24",
-      "activities": [
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-17T18:24:39Z",
-          "instanceId": "17183083104"
-        },
-        {
-          "name": "Terminale Intuitivo",
-          "period": "2026-09-17T18:08:24Z",
-          "instanceId": "17183079024"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-09-17T18:01:17Z",
-          "instanceId": "17183065906"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-17T17:33:52Z",
-          "instanceId": "17183063020"
-        },
-        {
-          "name": "Adrenalodromo: Maestro",
-          "period": "2026-09-17T17:22:20Z",
-          "instanceId": "17183037466"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-17T16:53:29Z",
-          "instanceId": "17183006407"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-17T16:51:49Z",
-          "instanceId": "17183028268"
-        },
-        {
-          "name": "Precetto Dorato: Maestro",
-          "period": "2026-09-17T16:45:24Z",
-          "instanceId": "17183005612"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-17T16:37:18Z",
-          "instanceId": "17182999043"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-09-17T16:29:41Z",
-          "instanceId": "17182988099"
         }
       ]
     },
@@ -788,12 +788,12 @@
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
       "powerLevel": 455,
-      "lastPlayedTimestamp": 1788025070000,
+      "lastPlayedTimestamp": 1789755118000,
       "lastActivityTimestamp": 1788024365000,
       "lastActivityText": "Miniere di Sale: Personalizzata il 29/08/2026 17:26",
       "activities": [
