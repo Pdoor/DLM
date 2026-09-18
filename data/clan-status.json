@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-09-18T05:42:10.150Z",
+  "generatedAt": "2026-09-18T10:55:40.225Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1789728871000,
+      "lastActivityTimestamp": 1789726426000,
+      "lastActivityText": "Adrenalodromo: Maestro il 18/09/2026 10:13",
+      "activities": [
+        {
+          "name": "Adrenalodromo: Maestro",
+          "period": "2026-09-18T10:13:46Z",
+          "instanceId": "17183801399"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-09-18T09:13:00Z",
+          "instanceId": "17183792594"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-09-18T07:04:46Z",
+          "instanceId": "17183723747"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-09-18T06:19:05Z",
+          "instanceId": "17183694487"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-09-18T05:22:40Z",
+          "instanceId": "17183667395"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-09-14T17:31:32Z",
+          "instanceId": "17179807143"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-09-14T17:24:21Z",
+          "instanceId": "17179786703"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Audace",
+          "period": "2026-09-14T16:47:30Z",
+          "instanceId": "17179780387"
+        },
+        {
+          "name": "Artesia Mons, Venere: Contrabbando: Con matchmaking",
+          "period": "2026-09-14T16:22:44Z",
+          "instanceId": "17179749402"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-09-14T16:19:53Z",
+          "instanceId": "17179738504"
+        }
+      ]
+    },
     {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
@@ -196,71 +261,6 @@
           "name": "Tronomondo di Savathûn",
           "period": "2026-09-09T15:57:52Z",
           "instanceId": "17173358673"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1789710064000,
-      "lastActivityTimestamp": 1789407092000,
-      "lastActivityText": "Campo di battaglia Colpo: Marte: Personalizzata il 14/09/2026 17:31",
-      "activities": [
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-09-14T17:31:32Z",
-          "instanceId": "17179807143"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-09-14T17:24:21Z",
-          "instanceId": "17179786703"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Audace",
-          "period": "2026-09-14T16:47:30Z",
-          "instanceId": "17179780387"
-        },
-        {
-          "name": "Artesia Mons, Venere: Contrabbando: Con matchmaking",
-          "period": "2026-09-14T16:22:44Z",
-          "instanceId": "17179749402"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-09-14T16:19:53Z",
-          "instanceId": "17179738504"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-09-14T14:51:16Z",
-          "instanceId": "17179704204"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-14T14:18:49Z",
-          "instanceId": "17179659473"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-09-14T13:51:55Z",
-          "instanceId": "17179623192"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-09-14T12:57:09Z",
-          "instanceId": "17179602473"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-09-14T12:51:32Z",
-          "instanceId": "17179570728"
         }
       ]
     },
