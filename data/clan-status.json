@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T10:55:40.225Z",
+  "generatedAt": "2026-09-18T14:53:03.797Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,60 +12,125 @@
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1789728871000,
-      "lastActivityTimestamp": 1789726426000,
-      "lastActivityText": "Adrenalodromo: Maestro il 18/09/2026 10:13",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1789743015000,
+      "lastActivityTimestamp": 1789741347000,
+      "lastActivityText": "Cosmodromo il 18/09/2026 14:22",
       "activities": [
         {
-          "name": "Adrenalodromo: Maestro",
-          "period": "2026-09-18T10:13:46Z",
-          "instanceId": "17183801399"
+          "name": "Cosmodromo",
+          "period": "2026-09-18T14:22:27Z",
+          "instanceId": "17183937470"
+        },
+        {
+          "name": "Giardini Exodus 2A: Maestro",
+          "period": "2026-09-18T14:16:02Z",
+          "instanceId": "17183936453"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-09-18T14:11:51Z",
+          "instanceId": "17183931576"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-09-18T13:51:19Z",
+          "instanceId": "17183928745"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-09-18T13:13:41Z",
+          "instanceId": "17183905865"
         },
         {
           "name": "Neomuna",
-          "period": "2026-09-18T09:13:00Z",
-          "instanceId": "17183792594"
+          "period": "2026-09-18T13:02:00Z",
+          "instanceId": "17183887977"
         },
         {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-09-18T07:04:46Z",
-          "instanceId": "17183723747"
+          "name": "Adrenalodromo: Maestro",
+          "period": "2026-09-18T12:46:34Z",
+          "instanceId": "17183880615"
         },
         {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-09-18T06:19:05Z",
-          "instanceId": "17183694487"
+          "name": "Spirale invertita: Con matchmaking",
+          "period": "2026-09-18T12:04:44Z",
+          "instanceId": "17183860863"
         },
         {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-09-18T05:22:40Z",
-          "instanceId": "17183667395"
+          "name": "Neomuna",
+          "period": "2026-09-18T10:33:21Z",
+          "instanceId": "17183821128"
         },
         {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-09-14T17:31:32Z",
-          "instanceId": "17179807143"
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-09-18T07:56:17Z",
+          "instanceId": "17183851521"
+        }
+      ]
+    },
+    {
+      "displayName": "Turt1e#4700",
+      "membershipId": "4611686018501972920",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Dredgen",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1789735536000,
+      "lastActivityTimestamp": 1789734896000,
+      "lastActivityText": "Partita veloce: Normale il 18/09/2026 12:34",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-09-18T12:34:56Z",
+          "instanceId": "17183870713"
         },
         {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-09-14T17:24:21Z",
-          "instanceId": "17179786703"
+          "name": "Volta di Vetro: Maestro",
+          "period": "2026-08-26T13:51:37Z",
+          "instanceId": "17154184655"
         },
         {
-          "name": "Fuoco e ghiaccio: Audace",
-          "period": "2026-09-14T16:47:30Z",
-          "instanceId": "17179780387"
+          "name": "Volta di Vetro: Maestro",
+          "period": "2026-08-26T13:35:48Z",
+          "instanceId": "17154178146"
         },
         {
-          "name": "Artesia Mons, Venere: Contrabbando: Con matchmaking",
-          "period": "2026-09-14T16:22:44Z",
-          "instanceId": "17179749402"
+          "name": "Dualità: Standard",
+          "period": "2026-08-25T15:23:07Z",
+          "instanceId": "17152997843"
         },
         {
-          "name": "Luna",
-          "period": "2026-09-14T16:19:53Z",
-          "instanceId": "17179738504"
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-08-25T00:03:19Z",
+          "instanceId": "17152250552"
+        },
+        {
+          "name": "Dualità: Standard",
+          "period": "2026-08-24T23:39:44Z",
+          "instanceId": "17152113129"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-24T23:27:44Z",
+          "instanceId": "17152090746"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-24T23:16:41Z",
+          "instanceId": "17152075580"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-24T23:10:57Z",
+          "instanceId": "17152068593"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-08-24T23:04:03Z",
+          "instanceId": "17152061052"
         }
       ]
     },
@@ -846,71 +911,6 @@
           "name": "Campi di battaglia: Condotto: Personalizzata",
           "period": "2026-07-11T19:23:37Z",
           "instanceId": "17040751956"
-        }
-      ]
-    },
-    {
-      "displayName": "Turt1e#4700",
-      "membershipId": "4611686018501972920",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Dredgen",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1789557511000,
-      "lastActivityTimestamp": 1787752297000,
-      "lastActivityText": "Volta di Vetro: Maestro il 26/08/2026 13:51",
-      "activities": [
-        {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-26T13:51:37Z",
-          "instanceId": "17154184655"
-        },
-        {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-08-26T13:35:48Z",
-          "instanceId": "17154178146"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-25T15:23:07Z",
-          "instanceId": "17152997843"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-08-25T00:03:19Z",
-          "instanceId": "17152250552"
-        },
-        {
-          "name": "Dualità: Standard",
-          "period": "2026-08-24T23:39:44Z",
-          "instanceId": "17152113129"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-24T23:27:44Z",
-          "instanceId": "17152090746"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-24T23:16:41Z",
-          "instanceId": "17152075580"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-24T23:10:57Z",
-          "instanceId": "17152068593"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-08-24T23:04:03Z",
-          "instanceId": "17152061052"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-24T22:50:23Z",
-          "instanceId": "17152044057"
         }
       ]
     },
