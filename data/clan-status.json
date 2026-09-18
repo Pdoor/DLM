@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T18:13:03.910Z",
+  "generatedAt": "2026-09-18T21:09:32.177Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1789755118000,
-      "lastActivityTimestamp": 1789749454000,
-      "lastActivityText": "La culla del male: Personalizzata il 18/09/2026 16:37",
+      "lastPlayedTimestamp": 1789755264000,
+      "lastActivityTimestamp": 1789751141000,
+      "lastActivityText": "Presagio: Personalizzata il 18/09/2026 17:05",
       "activities": [
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-09-18T17:05:41Z",
+          "instanceId": "17184128367"
+        },
         {
           "name": "La culla del male: Personalizzata",
           "period": "2026-09-18T16:37:34Z",
@@ -61,11 +66,6 @@
           "name": "Adrenalodromo: Maestro",
           "period": "2026-09-17T17:22:20Z",
           "instanceId": "17183037466"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-17T16:51:49Z",
-          "instanceId": "17183028268"
         }
       ]
     },
@@ -73,15 +73,20 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1789755133000,
-      "lastActivityTimestamp": 1789749454000,
-      "lastActivityText": "La culla del male: Personalizzata il 18/09/2026 16:37",
+      "lastPlayedTimestamp": 1789755285000,
+      "lastActivityTimestamp": 1789751141000,
+      "lastActivityText": "Presagio: Personalizzata il 18/09/2026 17:05",
       "activities": [
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-09-18T17:05:41Z",
+          "instanceId": "17184128367"
+        },
         {
           "name": "La culla del male: Personalizzata",
           "period": "2026-09-18T16:37:34Z",
@@ -113,19 +118,14 @@
           "instanceId": "17183965680"
         },
         {
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-09-18T14:23:57Z",
+          "instanceId": "17184159578"
+        },
+        {
           "name": "Cosmodromo",
           "period": "2026-09-18T14:22:27Z",
           "instanceId": "17183937470"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-09-18T14:16:02Z",
-          "instanceId": "17183936453"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-09-18T14:11:51Z",
-          "instanceId": "17183931576"
         },
         {
           "name": "Neomuna",
@@ -788,12 +788,12 @@
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
       "powerLevel": 455,
-      "lastPlayedTimestamp": 1789755118000,
+      "lastPlayedTimestamp": 1789758472000,
       "lastActivityTimestamp": 1788024365000,
       "lastActivityText": "Miniere di Sale: Personalizzata il 29/08/2026 17:26",
       "activities": [
@@ -988,7 +988,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1789665954000,
+      "lastPlayedTimestamp": 1789755751000,
       "lastActivityTimestamp": 1786976920000,
       "lastActivityText": "La Città Sognante il 17/08/2026 14:28",
       "activities": [
