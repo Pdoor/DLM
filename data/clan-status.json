@@ -1,74 +1,9 @@
 {
-  "generatedAt": "2026-09-19T04:01:43.929Z",
+  "generatedAt": "2026-09-19T08:55:23.368Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1789755264000,
-      "lastActivityTimestamp": 1789751141000,
-      "lastActivityText": "Presagio: Personalizzata il 18/09/2026 17:05",
-      "activities": [
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-09-18T17:05:41Z",
-          "instanceId": "17184128367"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-18T16:37:34Z",
-          "instanceId": "17184068709"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-18T16:28:35Z",
-          "instanceId": "17184045163"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Leggendaria",
-          "period": "2026-09-18T15:41:52Z",
-          "instanceId": "17184020295"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-18T15:14:38Z",
-          "instanceId": "17183983409"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-17T18:24:39Z",
-          "instanceId": "17183083104"
-        },
-        {
-          "name": "Terminale Intuitivo",
-          "period": "2026-09-17T18:08:24Z",
-          "instanceId": "17183079024"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-09-17T18:01:17Z",
-          "instanceId": "17183065906"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-17T17:33:52Z",
-          "instanceId": "17183063020"
-        },
-        {
-          "name": "Adrenalodromo: Maestro",
-          "period": "2026-09-17T17:22:20Z",
-          "instanceId": "17183037466"
-        }
-      ]
-    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -911,6 +846,71 @@
           "name": "Campi di battaglia: Condotto: Personalizzata",
           "period": "2026-07-11T19:23:37Z",
           "instanceId": "17040751956"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1789808115000,
+      "lastActivityTimestamp": 1787660691000,
+      "lastActivityText": "La lama di Luce il 25/08/2026 12:24",
+      "activities": [
+        {
+          "name": "La lama di Luce",
+          "period": "2026-08-25T12:24:51Z",
+          "instanceId": "17152829360"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-08-25T12:16:17Z",
+          "instanceId": "17152813175"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-25T12:05:44Z",
+          "instanceId": "17152807289"
+        },
+        {
+          "name": "Caccia all'incubo: disperazione: Esperto",
+          "period": "2026-08-12T09:55:03Z",
+          "instanceId": "17129900945"
+        },
+        {
+          "name": "Caccia all'incubo: terrore: Maestro",
+          "period": "2026-08-12T09:53:51Z",
+          "instanceId": "17129883633"
+        },
+        {
+          "name": "Caccia all'incubo: terrore: Maestro",
+          "period": "2026-08-12T09:52:32Z",
+          "instanceId": "17129882857"
+        },
+        {
+          "name": "Caccia all'incubo: furia: Esperto",
+          "period": "2026-08-12T09:43:07Z",
+          "instanceId": "17129881548"
+        },
+        {
+          "name": "Caccia all'incubo: furia: Avanzata",
+          "period": "2026-08-12T09:38:56Z",
+          "instanceId": "17129877101"
+        },
+        {
+          "name": "Caccia all'incubo: furia: Esperto",
+          "period": "2026-08-12T09:27:26Z",
+          "instanceId": "17129865845"
+        },
+        {
+          "name": "Trafficante d'armi",
+          "period": "2026-08-12T08:57:03Z",
+          "instanceId": "17129858285"
         }
       ]
     },
