@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T08:55:23.368Z",
+  "generatedAt": "2026-09-19T13:00:14.909Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,35 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1789755285000,
-      "lastActivityTimestamp": 1789751141000,
-      "lastActivityText": "Presagio: Personalizzata il 18/09/2026 17:05",
+      "lastPlayedTimestamp": 1789822731000,
+      "lastActivityTimestamp": 1789821316000,
+      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 19/09/2026 12:35",
       "activities": [
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-19T12:35:16Z",
+          "instanceId": "17185041851"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-09-19T09:43:40Z",
+          "instanceId": "17184939703"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-19T09:22:40Z",
+          "instanceId": "17184920597"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-09-19T09:15:00Z",
+          "instanceId": "17184909665"
+        },
         {
           "name": "Presagio: Personalizzata",
           "period": "2026-09-18T17:05:41Z",
@@ -38,34 +58,79 @@
           "instanceId": "17184042954"
         },
         {
-          "name": "La Città Sognante",
-          "period": "2026-09-18T16:12:13Z",
-          "instanceId": "17184031562"
-        },
-        {
-          "name": "La Tana dei Diavoli: Personalizzata",
-          "period": "2026-09-18T15:01:43Z",
-          "instanceId": "17183990619"
-        },
-        {
-          "name": "La Tana dei Diavoli: Personalizzata",
-          "period": "2026-09-18T14:49:41Z",
-          "instanceId": "17183965680"
-        },
-        {
           "name": "Conquista modalità esperto: Luna: Personalizzata",
           "period": "2026-09-18T14:23:57Z",
           "instanceId": "17184159578"
         },
         {
-          "name": "Cosmodromo",
-          "period": "2026-09-18T14:22:27Z",
-          "instanceId": "17183937470"
-        },
-        {
           "name": "Neomuna",
           "period": "2026-09-18T12:42:32Z",
           "instanceId": "17184053372"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1789813733000,
+      "lastActivityTimestamp": 1789811020000,
+      "lastActivityText": "Campo di battaglia Colpo: Marte: Personalizzata il 19/09/2026 09:43",
+      "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-09-19T09:43:40Z",
+          "instanceId": "17184939703"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-19T09:22:40Z",
+          "instanceId": "17184920597"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-09-19T09:15:00Z",
+          "instanceId": "17184909665"
+        },
+        {
+          "name": "Osservatorio Celeste: Personalizzata",
+          "period": "2026-09-19T09:03:40Z",
+          "instanceId": "17184904023"
+        },
+        {
+          "name": "La lama di Luce",
+          "period": "2026-08-25T12:24:51Z",
+          "instanceId": "17152829360"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-08-25T12:16:17Z",
+          "instanceId": "17152813175"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-08-25T12:05:44Z",
+          "instanceId": "17152807289"
+        },
+        {
+          "name": "Caccia all'incubo: disperazione: Esperto",
+          "period": "2026-08-12T09:55:03Z",
+          "instanceId": "17129900945"
+        },
+        {
+          "name": "Caccia all'incubo: terrore: Maestro",
+          "period": "2026-08-12T09:53:51Z",
+          "instanceId": "17129883633"
+        },
+        {
+          "name": "Caccia all'incubo: terrore: Maestro",
+          "period": "2026-08-12T09:52:32Z",
+          "instanceId": "17129882857"
         }
       ]
     },
@@ -850,71 +915,6 @@
       ]
     },
     {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1789808115000,
-      "lastActivityTimestamp": 1787660691000,
-      "lastActivityText": "La lama di Luce il 25/08/2026 12:24",
-      "activities": [
-        {
-          "name": "La lama di Luce",
-          "period": "2026-08-25T12:24:51Z",
-          "instanceId": "17152829360"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-25T12:16:17Z",
-          "instanceId": "17152813175"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-08-25T12:05:44Z",
-          "instanceId": "17152807289"
-        },
-        {
-          "name": "Caccia all'incubo: disperazione: Esperto",
-          "period": "2026-08-12T09:55:03Z",
-          "instanceId": "17129900945"
-        },
-        {
-          "name": "Caccia all'incubo: terrore: Maestro",
-          "period": "2026-08-12T09:53:51Z",
-          "instanceId": "17129883633"
-        },
-        {
-          "name": "Caccia all'incubo: terrore: Maestro",
-          "period": "2026-08-12T09:52:32Z",
-          "instanceId": "17129882857"
-        },
-        {
-          "name": "Caccia all'incubo: furia: Esperto",
-          "period": "2026-08-12T09:43:07Z",
-          "instanceId": "17129881548"
-        },
-        {
-          "name": "Caccia all'incubo: furia: Avanzata",
-          "period": "2026-08-12T09:38:56Z",
-          "instanceId": "17129877101"
-        },
-        {
-          "name": "Caccia all'incubo: furia: Esperto",
-          "period": "2026-08-12T09:27:26Z",
-          "instanceId": "17129865845"
-        },
-        {
-          "name": "Trafficante d'armi",
-          "period": "2026-08-12T08:57:03Z",
-          "instanceId": "17129858285"
-        }
-      ]
-    },
-    {
       "displayName": "KIT HAMWORTH#5503",
       "membershipId": "4611686018513251845",
       "bungieNetMembershipId": "",
@@ -988,7 +988,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1789755751000,
+      "lastPlayedTimestamp": 1789819135000,
       "lastActivityTimestamp": 1786976920000,
       "lastActivityText": "La Città Sognante il 17/08/2026 14:28",
       "activities": [
