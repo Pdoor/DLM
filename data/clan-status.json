@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T16:23:37.405Z",
+  "generatedAt": "2026-09-19T18:45:55.463Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1789834604000,
-      "lastActivityTimestamp": 1789834069000,
-      "lastActivityText": "Presagio: Personalizzata il 19/09/2026 16:07",
+      "lastPlayedTimestamp": 1789839344000,
+      "lastActivityTimestamp": 1789837685000,
+      "lastActivityText": "Cella Senza Sole: Con matchmaking il 19/09/2026 17:08",
       "activities": [
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-09-19T17:08:05Z",
+          "instanceId": "17185306350"
+        },
+        {
+          "name": "La caduta di un Kell: Personalizzata",
+          "period": "2026-09-19T16:30:51Z",
+          "instanceId": "17185276867"
+        },
         {
           "name": "Presagio: Personalizzata",
           "period": "2026-09-19T16:07:49Z",
@@ -56,16 +66,6 @@
           "name": "Tronomondo di Savathûn",
           "period": "2026-09-19T14:20:29Z",
           "instanceId": "17185121566"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-09-18T17:05:41Z",
-          "instanceId": "17184128367"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-18T16:37:34Z",
-          "instanceId": "17184068709"
         }
       ]
     },
@@ -73,15 +73,25 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1789834732000,
-      "lastActivityTimestamp": 1789834069000,
-      "lastActivityText": "Presagio: Personalizzata il 19/09/2026 16:07",
+      "lastPlayedTimestamp": 1789839303000,
+      "lastActivityTimestamp": 1789837685000,
+      "lastActivityText": "Cella Senza Sole: Con matchmaking il 19/09/2026 17:08",
       "activities": [
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-09-19T17:08:05Z",
+          "instanceId": "17185306350"
+        },
+        {
+          "name": "La caduta di un Kell: Personalizzata",
+          "period": "2026-09-19T16:30:51Z",
+          "instanceId": "17185276867"
+        },
         {
           "name": "Presagio: Personalizzata",
           "period": "2026-09-19T16:07:49Z",
@@ -121,16 +131,6 @@
           "name": "Conquista modalità esperto: Luna: Personalizzata",
           "period": "2026-09-19T13:46:29Z",
           "instanceId": "17185098910"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-09-19T13:26:01Z",
-          "instanceId": "17185084565"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-09-19T13:01:13Z",
-          "instanceId": "17185062175"
         }
       ]
     },
