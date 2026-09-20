@@ -1,22 +1,97 @@
 {
-  "generatedAt": "2026-09-20T16:24:57.529Z",
+  "generatedAt": "2026-09-20T19:00:03.892Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1789927695000,
+      "lastActivityTimestamp": 1789926378000,
+      "lastActivityText": "La Tana dei Diavoli: Personalizzata il 20/09/2026 17:46",
+      "activities": [
+        {
+          "name": "La Tana dei Diavoli: Personalizzata",
+          "period": "2026-09-20T17:46:18Z",
+          "instanceId": "17186661209"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-09-20T17:28:16Z",
+          "instanceId": "17186635970"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-20T17:08:59Z",
+          "instanceId": "17186617014"
+        },
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-09-20T06:12:40Z",
+          "instanceId": "17186113068"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-09-20T06:10:53Z",
+          "instanceId": "17186085071"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-09-20T05:44:45Z",
+          "instanceId": "17186067163"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-13T04:45:07Z",
+          "instanceId": "17177865095"
+        },
+        {
+          "name": "La Guerriera: Personalizzata",
+          "period": "2026-09-12T17:15:34Z",
+          "instanceId": "17177076248"
+        },
+        {
+          "name": "L'Oscura Sacerdotessa: Personalizzata",
+          "period": "2026-09-12T16:59:49Z",
+          "instanceId": "17177056638"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-12T16:02:31Z",
+          "instanceId": "17177015268"
+        }
+      ]
+    },
+    {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1789921486000,
-      "lastActivityTimestamp": 1789915884000,
-      "lastActivityText": "La culla del male: Personalizzata il 20/09/2026 14:51",
+      "lastPlayedTimestamp": 1789924186000,
+      "lastActivityTimestamp": 1789921742000,
+      "lastActivityText": "Centro Città: Personalizzata il 20/09/2026 16:29",
       "activities": [
+        {
+          "name": "Centro Città: Personalizzata",
+          "period": "2026-09-20T16:29:02Z",
+          "instanceId": "17186597046"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-09-20T16:00:45Z",
+          "instanceId": "17186550100"
+        },
         {
           "name": "La culla del male: Personalizzata",
           "period": "2026-09-20T14:51:24Z",
@@ -56,81 +131,6 @@
           "name": "La disonorata: Personalizzata",
           "period": "2026-09-19T14:37:52Z",
           "instanceId": "17185143935"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-09-19T14:34:46Z",
-          "instanceId": "17185129030"
-        },
-        {
-          "name": "Sepolcro: Maestro",
-          "period": "2026-09-19T14:27:49Z",
-          "instanceId": "17185127843"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1789885828000,
-      "lastActivityTimestamp": 1789884760000,
-      "lastActivityText": "Comando del Vespro: Normale il 20/09/2026 06:12",
-      "activities": [
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-09-20T06:12:40Z",
-          "instanceId": "17186113068"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-09-20T06:10:53Z",
-          "instanceId": "17186085071"
-        },
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-09-20T05:44:45Z",
-          "instanceId": "17186067163"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-13T04:45:07Z",
-          "instanceId": "17177865095"
-        },
-        {
-          "name": "La Guerriera: Personalizzata",
-          "period": "2026-09-12T17:15:34Z",
-          "instanceId": "17177076248"
-        },
-        {
-          "name": "L'Oscura Sacerdotessa: Personalizzata",
-          "period": "2026-09-12T16:59:49Z",
-          "instanceId": "17177056638"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-12T16:02:31Z",
-          "instanceId": "17177015268"
-        },
-        {
-          "name": "Dualità: Maestro",
-          "period": "2026-09-12T14:22:56Z",
-          "instanceId": "17176974766"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-09-12T13:25:07Z",
-          "instanceId": "17176824584"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
-          "period": "2026-09-12T12:58:10Z",
-          "instanceId": "17176810543"
         }
       ]
     },
