@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T19:00:03.892Z",
+  "generatedAt": "2026-09-20T21:28:02.224Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -135,6 +135,71 @@
       ]
     },
     {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
+      "powerLevel": 454,
+      "lastPlayedTimestamp": 1789916329000,
+      "lastActivityTimestamp": 1789916158000,
+      "lastActivityText": "Tronomondo di Savathûn il 20/09/2026 14:55",
+      "activities": [
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-20T14:55:58Z",
+          "instanceId": "17186721680"
+        },
+        {
+          "name": "Dottrina dilaniata: Normale",
+          "period": "2026-09-17T14:54:43Z",
+          "instanceId": "17182933881"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-09-17T14:32:31Z",
+          "instanceId": "17182914787"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-09-17T14:24:03Z",
+          "instanceId": "17182900169"
+        },
+        {
+          "name": "Il messaggio: Normale",
+          "period": "2026-09-17T13:39:53Z",
+          "instanceId": "17182889676"
+        },
+        {
+          "name": "Dissenso: Campagna cooperativa",
+          "period": "2026-09-16T13:55:15Z",
+          "instanceId": "17181888269"
+        },
+        {
+          "name": "Dissenso: Campagna cooperativa",
+          "period": "2026-09-15T14:52:55Z",
+          "instanceId": "17180788992"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-09-15T14:15:03Z",
+          "instanceId": "17180770849"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-09-14T14:48:38Z",
+          "instanceId": "17179653891"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-09-14T14:40:20Z",
+          "instanceId": "17179685295"
+        }
+      ]
+    },
+    {
       "displayName": "alexcecenko#951",
       "membershipId": "4611686018463713971",
       "bungieNetMembershipId": "",
@@ -261,71 +326,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-08-24T23:04:03Z",
           "instanceId": "17152061052"
-        }
-      ]
-    },
-    {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 454,
-      "lastPlayedTimestamp": 1789916329000,
-      "lastActivityTimestamp": 1789656883000,
-      "lastActivityText": "Dottrina dilaniata: Normale il 17/09/2026 14:54",
-      "activities": [
-        {
-          "name": "Dottrina dilaniata: Normale",
-          "period": "2026-09-17T14:54:43Z",
-          "instanceId": "17182933881"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-09-17T14:32:31Z",
-          "instanceId": "17182914787"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-09-17T14:24:03Z",
-          "instanceId": "17182900169"
-        },
-        {
-          "name": "Il messaggio: Normale",
-          "period": "2026-09-17T13:39:53Z",
-          "instanceId": "17182889676"
-        },
-        {
-          "name": "Dissenso: Campagna cooperativa",
-          "period": "2026-09-16T13:55:15Z",
-          "instanceId": "17181888269"
-        },
-        {
-          "name": "Dissenso: Campagna cooperativa",
-          "period": "2026-09-15T14:52:55Z",
-          "instanceId": "17180788992"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-09-15T14:15:03Z",
-          "instanceId": "17180770849"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-14T14:48:38Z",
-          "instanceId": "17179653891"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-09-14T14:40:20Z",
-          "instanceId": "17179685295"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-09-14T13:10:32Z",
-          "instanceId": "17179645846"
         }
       ]
     },
@@ -1053,7 +1053,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1789882541000,
+      "lastPlayedTimestamp": 1789933323000,
       "lastActivityTimestamp": 1786976920000,
       "lastActivityText": "La Città Sognante il 17/08/2026 14:28",
       "activities": [
