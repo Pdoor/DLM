@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T06:54:26.882Z",
+  "generatedAt": "2026-09-20T12:09:52.741Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -14,9 +14,14 @@
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 550,
       "lastPlayedTimestamp": 1789885828000,
-      "lastActivityTimestamp": 1789884653000,
-      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 20/09/2026 06:10",
+      "lastActivityTimestamp": 1789884760000,
+      "lastActivityText": "Comando del Vespro: Normale il 20/09/2026 06:12",
       "activities": [
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-09-20T06:12:40Z",
+          "instanceId": "17186113068"
+        },
         {
           "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
           "period": "2026-09-20T06:10:53Z",
@@ -61,11 +66,6 @@
           "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
           "period": "2026-09-12T12:58:10Z",
           "instanceId": "17176810543"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-12T12:49:36Z",
-          "instanceId": "17176786144"
         }
       ]
     },
@@ -468,7 +468,7 @@
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7005a7ab5f9a038c8de4da69187bb16f.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1789287987000,
+      "lastPlayedTimestamp": 1789895873000,
       "lastActivityTimestamp": 1789287818000,
       "lastActivityText": "Partita veloce: Normale il 13/09/2026 08:23",
       "activities": [
