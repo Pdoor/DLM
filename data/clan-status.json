@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-09-20T12:09:52.741Z",
+  "generatedAt": "2026-09-20T16:24:57.529Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1789921486000,
+      "lastActivityTimestamp": 1789915884000,
+      "lastActivityText": "La culla del male: Personalizzata il 20/09/2026 14:51",
+      "activities": [
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-20T14:51:24Z",
+          "instanceId": "17186520523"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-09-19T17:08:05Z",
+          "instanceId": "17185306350"
+        },
+        {
+          "name": "La caduta di un Kell: Personalizzata",
+          "period": "2026-09-19T16:30:51Z",
+          "instanceId": "17185276867"
+        },
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-09-19T16:07:49Z",
+          "instanceId": "17185221817"
+        },
+        {
+          "name": "I sussurri: Personalizzata",
+          "period": "2026-09-19T15:55:10Z",
+          "instanceId": "17185214576"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-19T15:12:18Z",
+          "instanceId": "17185181224"
+        },
+        {
+          "name": "La Tana dei Diavoli: Personalizzata",
+          "period": "2026-09-19T14:52:47Z",
+          "instanceId": "17185162444"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-09-19T14:37:52Z",
+          "instanceId": "17185143935"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-19T14:34:46Z",
+          "instanceId": "17185129030"
+        },
+        {
+          "name": "Sepolcro: Maestro",
+          "period": "2026-09-19T14:27:49Z",
+          "instanceId": "17185127843"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -66,71 +131,6 @@
           "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
           "period": "2026-09-12T12:58:10Z",
           "instanceId": "17176810543"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1789839344000,
-      "lastActivityTimestamp": 1789837685000,
-      "lastActivityText": "Cella Senza Sole: Con matchmaking il 19/09/2026 17:08",
-      "activities": [
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-09-19T17:08:05Z",
-          "instanceId": "17185306350"
-        },
-        {
-          "name": "La caduta di un Kell: Personalizzata",
-          "period": "2026-09-19T16:30:51Z",
-          "instanceId": "17185276867"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-09-19T16:07:49Z",
-          "instanceId": "17185221817"
-        },
-        {
-          "name": "I sussurri: Personalizzata",
-          "period": "2026-09-19T15:55:10Z",
-          "instanceId": "17185214576"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-19T15:12:18Z",
-          "instanceId": "17185181224"
-        },
-        {
-          "name": "La Tana dei Diavoli: Personalizzata",
-          "period": "2026-09-19T14:52:47Z",
-          "instanceId": "17185162444"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-09-19T14:37:52Z",
-          "instanceId": "17185143935"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-09-19T14:34:46Z",
-          "instanceId": "17185129030"
-        },
-        {
-          "name": "Sepolcro: Maestro",
-          "period": "2026-09-19T14:27:49Z",
-          "instanceId": "17185127843"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-09-19T14:20:29Z",
-          "instanceId": "17185121566"
         }
       ]
     },
@@ -273,7 +273,7 @@
       "title": "Gloriosa",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
       "powerLevel": 454,
-      "lastPlayedTimestamp": 1789658319000,
+      "lastPlayedTimestamp": 1789916329000,
       "lastActivityTimestamp": 1789656883000,
       "lastActivityText": "Dottrina dilaniata: Normale il 17/09/2026 14:54",
       "activities": [
