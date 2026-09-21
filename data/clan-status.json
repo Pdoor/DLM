@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T07:03:18.970Z",
+  "generatedAt": "2026-09-21T14:27:58.154Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1789927695000,
-      "lastActivityTimestamp": 1789926378000,
-      "lastActivityText": "La Tana dei Diavoli: Personalizzata il 20/09/2026 17:46",
+      "lastPlayedTimestamp": 1790000758000,
+      "lastActivityTimestamp": 1789999276000,
+      "lastActivityText": "La Città Sognante il 21/09/2026 14:01",
       "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-09-21T14:01:16Z",
+          "instanceId": "17187591489"
+        },
+        {
+          "name": "Terreni di Prova: Con matchmaking",
+          "period": "2026-09-21T07:51:12Z",
+          "instanceId": "17187412460"
+        },
         {
           "name": "La Tana dei Diavoli: Personalizzata",
           "period": "2026-09-20T17:46:18Z",
@@ -56,16 +66,6 @@
           "name": "La Guerriera: Personalizzata",
           "period": "2026-09-12T17:15:34Z",
           "instanceId": "17177076248"
-        },
-        {
-          "name": "L'Oscura Sacerdotessa: Personalizzata",
-          "period": "2026-09-12T16:59:49Z",
-          "instanceId": "17177056638"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-12T16:02:31Z",
-          "instanceId": "17177015268"
         }
       ]
     },
@@ -143,7 +143,7 @@
       "title": "Gloriosa",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
       "powerLevel": 454,
-      "lastPlayedTimestamp": 1789916329000,
+      "lastPlayedTimestamp": 1789986089000,
       "lastActivityTimestamp": 1789916158000,
       "lastActivityText": "Tronomondo di Savathûn il 20/09/2026 14:55",
       "activities": [
