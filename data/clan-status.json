@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T07:32:22.529Z",
+  "generatedAt": "2026-09-22T13:16:48.499Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,31 @@
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 546,
-      "lastPlayedTimestamp": 1790062302000,
-      "lastActivityTimestamp": 1790060377000,
-      "lastActivityText": "Cella Senza Sole: Con matchmaking il 22/09/2026 06:59",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1790082974000,
+      "lastActivityTimestamp": 1790074985000,
+      "lastActivityText": "Ultimo desiderio: Standard il 22/09/2026 11:03",
       "activities": [
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-09-22T11:03:05Z",
+          "instanceId": "17188835592"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-09-22T10:36:51Z",
+          "instanceId": "17188777526"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-09-22T08:15:36Z",
+          "instanceId": "17188711556"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-09-22T07:53:47Z",
+          "instanceId": "17188684354"
+        },
         {
           "name": "Cella Senza Sole: Con matchmaking",
           "period": "2026-09-22T06:59:37Z",
@@ -46,26 +66,71 @@
           "name": "Precetto Dorato: Maestro",
           "period": "2026-09-17T16:45:24Z",
           "instanceId": "17183005612"
+        }
+      ]
+    },
+    {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1790082950000,
+      "lastActivityTimestamp": 1790068110000,
+      "lastActivityText": "Conservazione il 22/09/2026 09:08",
+      "activities": [
+        {
+          "name": "Conservazione",
+          "period": "2026-09-22T09:08:30Z",
+          "instanceId": "17188743276"
         },
         {
-          "name": "Neomuna",
-          "period": "2026-09-17T16:37:18Z",
-          "instanceId": "17182999043"
+          "name": "Conservazione",
+          "period": "2026-09-22T08:50:14Z",
+          "instanceId": "17188719071"
         },
         {
-          "name": "Neomuna",
-          "period": "2026-09-17T16:10:08Z",
-          "instanceId": "17182973776"
+          "name": "Cosmodromo",
+          "period": "2026-09-15T16:39:53Z",
+          "instanceId": "17180867717"
         },
         {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-09-17T15:04:49Z",
-          "instanceId": "17182969635"
+          "name": "Conservazione",
+          "period": "2026-09-14T20:45:14Z",
+          "instanceId": "17180003696"
         },
         {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-09-17T14:11:59Z",
-          "instanceId": "17182897023"
+          "name": "Conservazione",
+          "period": "2026-09-14T12:12:23Z",
+          "instanceId": "17179594747"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-09-11T09:34:05Z",
+          "instanceId": "17175374825"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-11T09:20:30Z",
+          "instanceId": "17175365158"
+        },
+        {
+          "name": "Sepolcro: Esperto",
+          "period": "2026-09-09T17:37:52Z",
+          "instanceId": "17173448182"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-09T17:32:53Z",
+          "instanceId": "17173440434"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-09T17:17:49Z",
+          "instanceId": "17173426866"
         }
       ]
     },
@@ -326,71 +391,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-08-24T23:04:03Z",
           "instanceId": "17152061052"
-        }
-      ]
-    },
-    {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1789496237000,
-      "lastActivityTimestamp": 1789490393000,
-      "lastActivityText": "Cosmodromo il 15/09/2026 16:39",
-      "activities": [
-        {
-          "name": "Cosmodromo",
-          "period": "2026-09-15T16:39:53Z",
-          "instanceId": "17180867717"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-09-14T20:45:14Z",
-          "instanceId": "17180003696"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-09-14T12:12:23Z",
-          "instanceId": "17179594747"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-11T09:34:05Z",
-          "instanceId": "17175374825"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-09-11T09:20:30Z",
-          "instanceId": "17175365158"
-        },
-        {
-          "name": "Sepolcro: Esperto",
-          "period": "2026-09-09T17:37:52Z",
-          "instanceId": "17173448182"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-09-09T17:32:53Z",
-          "instanceId": "17173440434"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-09-09T17:17:49Z",
-          "instanceId": "17173426866"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-09-09T17:09:22Z",
-          "instanceId": "17173421325"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-09-09T15:57:52Z",
-          "instanceId": "17173358673"
         }
       ]
     },
