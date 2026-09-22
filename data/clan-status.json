@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-09-22T17:43:22.458Z",
+  "generatedAt": "2026-09-22T21:05:50.145Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1790101769000,
+      "lastActivityTimestamp": 1790100412000,
+      "lastActivityText": "Presagio: Personalizzata il 22/09/2026 18:06",
+      "activities": [
+        {
+          "name": "Presagio: Personalizzata",
+          "period": "2026-09-22T18:06:52Z",
+          "instanceId": "17189180302"
+        },
+        {
+          "name": "Pinnacolo dell'Osservatrice: Standard",
+          "period": "2026-09-22T17:22:36Z",
+          "instanceId": "17189141724"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-09-22T17:21:03Z",
+          "instanceId": "17189126283"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-22T15:29:55Z",
+          "instanceId": "17189014457"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-09-22T14:17:13Z",
+          "instanceId": "17189030071"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-09-22T13:06:06Z",
+          "instanceId": "17188881604"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-09-22T11:03:05Z",
+          "instanceId": "17188835592"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-09-22T10:36:51Z",
+          "instanceId": "17188777526"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-09-22T08:15:36Z",
+          "instanceId": "17188711556"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-09-22T07:53:47Z",
+          "instanceId": "17188684354"
+        }
+      ]
+    },
     {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
@@ -66,71 +131,6 @@
           "name": "La caduta di un Kell: Personalizzata",
           "period": "2026-09-19T16:30:51Z",
           "instanceId": "17185276867"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1790098953000,
-      "lastActivityTimestamp": 1790097663000,
-      "lastActivityText": "La culla del male: Personalizzata il 22/09/2026 17:21",
-      "activities": [
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-22T17:21:03Z",
-          "instanceId": "17189126283"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-22T15:29:55Z",
-          "instanceId": "17189014457"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-09-22T14:17:13Z",
-          "instanceId": "17189030071"
-        },
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-09-22T13:06:06Z",
-          "instanceId": "17188881604"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-09-22T11:03:05Z",
-          "instanceId": "17188835592"
-        },
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-09-22T10:36:51Z",
-          "instanceId": "17188777526"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-09-22T08:15:36Z",
-          "instanceId": "17188711556"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Con matchmaking",
-          "period": "2026-09-22T07:53:47Z",
-          "instanceId": "17188684354"
-        },
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-09-22T06:59:37Z",
-          "instanceId": "17188660906"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-17T17:33:52Z",
-          "instanceId": "17183063020"
         }
       ]
     },
