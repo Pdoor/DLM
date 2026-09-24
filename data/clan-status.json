@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T05:58:15.202Z",
+  "generatedAt": "2026-09-24T11:35:36.308Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,26 @@
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1790186850000,
-      "lastActivityTimestamp": 1790185974000,
-      "lastActivityText": "Controllo: Con matchmaking il 23/09/2026 17:52",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1790243176000,
+      "lastActivityTimestamp": 1790240036000,
+      "lastActivityText": "Cella Senza Sole: Personalizzata il 24/09/2026 08:53",
       "activities": [
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-09-24T08:53:56Z",
+          "instanceId": "17191516430"
+        },
+        {
+          "name": "La Guerriera: Con matchmaking",
+          "period": "2026-09-24T08:38:23Z",
+          "instanceId": "17191493491"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-09-24T07:44:44Z",
+          "instanceId": "17191466639"
+        },
         {
           "name": "Controllo: Con matchmaking",
           "period": "2026-09-23T17:52:54Z",
@@ -51,21 +66,6 @@
           "name": "Pinnacolo dell'Osservatrice: Standard",
           "period": "2026-09-22T17:22:36Z",
           "instanceId": "17189141724"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-22T17:21:03Z",
-          "instanceId": "17189126283"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-22T15:29:55Z",
-          "instanceId": "17189014457"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-09-22T14:17:13Z",
-          "instanceId": "17189030071"
         }
       ]
     },
