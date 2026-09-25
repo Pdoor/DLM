@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-09-25T01:46:57.479Z",
+  "generatedAt": "2026-09-25T07:26:10.522Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1790321105000,
+      "lastActivityTimestamp": 1790320390000,
+      "lastActivityText": "Europa il 25/09/2026 07:13",
+      "activities": [
+        {
+          "name": "Europa",
+          "period": "2026-09-25T07:13:10Z",
+          "instanceId": "17192901104"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-09-25T07:01:35Z",
+          "instanceId": "17192899983"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-09-25T06:53:54Z",
+          "instanceId": "17192891317"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-09-25T06:37:55Z",
+          "instanceId": "17192885720"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-09-25T06:37:15Z",
+          "instanceId": "17192873690"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-09-25T06:26:00Z",
+          "instanceId": "17192873176"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-09-25T06:14:58Z",
+          "instanceId": "17192864558"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-09-24T14:46:22Z",
+          "instanceId": "17191769462"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-09-24T14:40:53Z",
+          "instanceId": "17191742603"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-09-24T13:37:49Z",
+          "instanceId": "17191751232"
+        }
+      ]
+    },
     {
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
@@ -66,71 +131,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-04T14:34:16Z",
           "instanceId": "17112762960"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1790274973000,
-      "lastActivityTimestamp": 1790272314000,
-      "lastActivityText": "Cripta di Pietrafonda il 24/09/2026 17:51",
-      "activities": [
-        {
-          "name": "Cripta di Pietrafonda",
-          "period": "2026-09-24T17:51:54Z",
-          "instanceId": "17192023217"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-09-24T17:46:19Z",
-          "instanceId": "17191948944"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-09-24T17:05:57Z",
-          "instanceId": "17191915061"
-        },
-        {
-          "name": "Campi di battaglia: Nucleo: Personalizzata",
-          "period": "2026-09-24T16:36:01Z",
-          "instanceId": "17191887718"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-09-24T16:15:22Z",
-          "instanceId": "17191854454"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-09-24T15:59:31Z",
-          "instanceId": "17191830580"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-09-24T15:33:03Z",
-          "instanceId": "17191809748"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-09-21T16:52:12Z",
-          "instanceId": "17187722890"
-        },
-        {
-          "name": "Terreni di Prova: Con matchmaking",
-          "period": "2026-09-21T16:33:49Z",
-          "instanceId": "17187703424"
-        },
-        {
-          "name": "Terreni di Prova: Con matchmaking",
-          "period": "2026-09-21T16:28:17Z",
-          "instanceId": "17187698757"
         }
       ]
     },
