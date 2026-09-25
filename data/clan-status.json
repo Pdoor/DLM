@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T12:54:58.592Z",
+  "generatedAt": "2026-09-25T17:51:46.632Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,60 +12,190 @@
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1790340875000,
-      "lastActivityTimestamp": 1790339672000,
-      "lastActivityText": "Terreni di Prova: Con matchmaking il 25/09/2026 12:34",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1790358553000,
+      "lastActivityTimestamp": 1790356399000,
+      "lastActivityText": "Il Ponte di Vetro: Personalizzata il 25/09/2026 17:13",
       "activities": [
         {
-          "name": "Terreni di Prova: Con matchmaking",
-          "period": "2026-09-25T12:34:32Z",
-          "instanceId": "17193123423"
+          "name": "Il Ponte di Vetro: Personalizzata",
+          "period": "2026-09-25T17:13:19Z",
+          "instanceId": "17193421238"
+        },
+        {
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-09-25T16:55:00Z",
+          "instanceId": "17193393442"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-09-25T16:17:12Z",
+          "instanceId": "17193346982"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-09-25T14:55:33Z",
+          "instanceId": "17193271330"
         },
         {
           "name": "Tronomondo di Savathûn",
-          "period": "2026-09-25T10:57:37Z",
-          "instanceId": "17193047596"
+          "period": "2026-09-25T14:00:12Z",
+          "instanceId": "17193229047"
         },
         {
           "name": "Sepolcro: Maestro",
-          "period": "2026-09-25T10:43:56Z",
-          "instanceId": "17193047292"
+          "period": "2026-09-25T13:48:36Z",
+          "instanceId": "17193186860"
         },
         {
           "name": "Tronomondo di Savathûn",
-          "period": "2026-09-25T10:00:00Z",
-          "instanceId": "17193038811"
+          "period": "2026-09-25T13:38:51Z",
+          "instanceId": "17193175862"
         },
         {
-          "name": "Europa",
-          "period": "2026-09-25T07:13:10Z",
-          "instanceId": "17192901104"
+          "name": "Sepolcro: Maestro",
+          "period": "2026-09-25T13:25:49Z",
+          "instanceId": "17193166926"
         },
         {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-09-25T07:01:35Z",
-          "instanceId": "17192899983"
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-25T13:22:39Z",
+          "instanceId": "17193155386"
         },
         {
-          "name": "Europa",
-          "period": "2026-09-25T06:53:54Z",
-          "instanceId": "17192891317"
+          "name": "Sepolcro: Maestro",
+          "period": "2026-09-25T13:12:57Z",
+          "instanceId": "17193152464"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1790348797000,
+      "lastActivityTimestamp": 1790347327000,
+      "lastActivityText": "Spirale invertita il 25/09/2026 14:42",
+      "activities": [
+        {
+          "name": "Spirale invertita",
+          "period": "2026-09-25T14:42:07Z",
+          "instanceId": "17193252526"
         },
         {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-09-25T06:37:55Z",
-          "instanceId": "17192885720"
+          "name": "Trafficante d'armi",
+          "period": "2026-09-25T14:15:35Z",
+          "instanceId": "17193220975"
         },
         {
-          "name": "Europa",
-          "period": "2026-09-25T06:37:15Z",
-          "instanceId": "17192873690"
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-09-24T17:05:57Z",
+          "instanceId": "17191915061"
         },
         {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-09-25T06:26:00Z",
-          "instanceId": "17192873176"
+          "name": "Campi di battaglia: Nucleo: Personalizzata",
+          "period": "2026-09-24T16:36:01Z",
+          "instanceId": "17191887718"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-09-24T16:15:22Z",
+          "instanceId": "17191854454"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-09-24T15:59:31Z",
+          "instanceId": "17191830580"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-09-24T15:33:03Z",
+          "instanceId": "17191809748"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-09-24T15:11:33Z",
+          "instanceId": "17191787154"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
+          "period": "2026-09-23T17:43:26Z",
+          "instanceId": "17190499979"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-09-23T17:43:04Z",
+          "instanceId": "17190515486"
+        }
+      ]
+    },
+    {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
+      "powerLevel": 456,
+      "lastPlayedTimestamp": 1790349695000,
+      "lastActivityTimestamp": 1790346019000,
+      "lastActivityText": "Pallido Cuore il 25/09/2026 14:20",
+      "activities": [
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-09-25T14:20:19Z",
+          "instanceId": "17193214083"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-09-25T13:57:09Z",
+          "instanceId": "17193205016"
+        },
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-09-21T14:00:06Z",
+          "instanceId": "17187652569"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-20T14:55:58Z",
+          "instanceId": "17186721680"
+        },
+        {
+          "name": "Dottrina dilaniata: Normale",
+          "period": "2026-09-17T14:54:43Z",
+          "instanceId": "17182933881"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-09-17T14:32:31Z",
+          "instanceId": "17182914787"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-09-17T14:24:03Z",
+          "instanceId": "17182900169"
+        },
+        {
+          "name": "Il messaggio: Normale",
+          "period": "2026-09-17T13:39:53Z",
+          "instanceId": "17182889676"
+        },
+        {
+          "name": "Dissenso: Campagna cooperativa",
+          "period": "2026-09-16T13:55:15Z",
+          "instanceId": "17181888269"
+        },
+        {
+          "name": "Dissenso: Campagna cooperativa",
+          "period": "2026-09-15T14:52:55Z",
+          "instanceId": "17180788992"
         }
       ]
     },
@@ -131,71 +261,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-08-04T14:34:16Z",
           "instanceId": "17112762960"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1790270053000,
-      "lastActivityTimestamp": 1790269557000,
-      "lastActivityText": "La lama di Luce: Personalizzata il 24/09/2026 17:05",
-      "activities": [
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-09-24T17:05:57Z",
-          "instanceId": "17191915061"
-        },
-        {
-          "name": "Campi di battaglia: Nucleo: Personalizzata",
-          "period": "2026-09-24T16:36:01Z",
-          "instanceId": "17191887718"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-09-24T16:15:22Z",
-          "instanceId": "17191854454"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-09-24T15:59:31Z",
-          "instanceId": "17191830580"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-09-24T15:33:03Z",
-          "instanceId": "17191809748"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-09-24T15:11:33Z",
-          "instanceId": "17191787154"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
-          "period": "2026-09-23T17:43:26Z",
-          "instanceId": "17190499979"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-09-23T17:43:04Z",
-          "instanceId": "17190515486"
-        },
-        {
-          "name": "Iconoclastia: Campagna cooperativa",
-          "period": "2026-09-23T14:18:24Z",
-          "instanceId": "17190342509"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-22T17:21:03Z",
-          "instanceId": "17189126283"
         }
       ]
     },
@@ -456,71 +521,6 @@
           "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
           "period": "2026-08-01T20:53:35Z",
           "instanceId": "17106288246"
-        }
-      ]
-    },
-    {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 454,
-      "lastPlayedTimestamp": 1790004837000,
-      "lastActivityTimestamp": 1789999206000,
-      "lastActivityText": "La radice degli incubi: Standard il 21/09/2026 14:00",
-      "activities": [
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-09-21T14:00:06Z",
-          "instanceId": "17187652569"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-09-20T14:55:58Z",
-          "instanceId": "17186721680"
-        },
-        {
-          "name": "Dottrina dilaniata: Normale",
-          "period": "2026-09-17T14:54:43Z",
-          "instanceId": "17182933881"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-09-17T14:32:31Z",
-          "instanceId": "17182914787"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-09-17T14:24:03Z",
-          "instanceId": "17182900169"
-        },
-        {
-          "name": "Il messaggio: Normale",
-          "period": "2026-09-17T13:39:53Z",
-          "instanceId": "17182889676"
-        },
-        {
-          "name": "Dissenso: Campagna cooperativa",
-          "period": "2026-09-16T13:55:15Z",
-          "instanceId": "17181888269"
-        },
-        {
-          "name": "Dissenso: Campagna cooperativa",
-          "period": "2026-09-15T14:52:55Z",
-          "instanceId": "17180788992"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-09-15T14:15:03Z",
-          "instanceId": "17180770849"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-09-14T14:40:20Z",
-          "instanceId": "17179685295"
         }
       ]
     },
