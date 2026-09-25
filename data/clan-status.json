@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T07:26:10.522Z",
+  "generatedAt": "2026-09-25T12:54:58.592Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,31 @@
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1790321105000,
-      "lastActivityTimestamp": 1790320390000,
-      "lastActivityText": "Europa il 25/09/2026 07:13",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1790340875000,
+      "lastActivityTimestamp": 1790339672000,
+      "lastActivityText": "Terreni di Prova: Con matchmaking il 25/09/2026 12:34",
       "activities": [
+        {
+          "name": "Terreni di Prova: Con matchmaking",
+          "period": "2026-09-25T12:34:32Z",
+          "instanceId": "17193123423"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-25T10:57:37Z",
+          "instanceId": "17193047596"
+        },
+        {
+          "name": "Sepolcro: Maestro",
+          "period": "2026-09-25T10:43:56Z",
+          "instanceId": "17193047292"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-25T10:00:00Z",
+          "instanceId": "17193038811"
+        },
         {
           "name": "Europa",
           "period": "2026-09-25T07:13:10Z",
@@ -46,26 +66,6 @@
           "name": "Bunker E15: Maestro",
           "period": "2026-09-25T06:26:00Z",
           "instanceId": "17192873176"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-09-25T06:14:58Z",
-          "instanceId": "17192864558"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-09-24T14:46:22Z",
-          "instanceId": "17191769462"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-09-24T14:40:53Z",
-          "instanceId": "17191742603"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-24T13:37:49Z",
-          "instanceId": "17191751232"
         }
       ]
     },
