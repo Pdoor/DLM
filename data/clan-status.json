@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-09-25T21:20:59.792Z",
+  "generatedAt": "2026-09-26T00:04:06.581Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 342,
+      "lastPlayedTimestamp": 1790372882000,
+      "lastActivityTimestamp": 1790372050000,
+      "lastActivityText": "Controllo: Con matchmaking il 25/09/2026 21:34",
+      "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-09-25T21:34:10Z",
+          "instanceId": "17193774659"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-09-25T21:19:35Z",
+          "instanceId": "17193752246"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-09-24T20:06:35Z",
+          "instanceId": "17192118306"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-09-24T19:50:56Z",
+          "instanceId": "17192095158"
+        },
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-08-29T17:26:05Z",
+          "instanceId": "17158369572"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-24T21:15:15Z",
+          "instanceId": "17151944624"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-24T16:31:17Z",
+          "instanceId": "17151604635"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-16T14:29:18Z",
+          "instanceId": "17137845203"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-16T14:19:15Z",
+          "instanceId": "17137827565"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-08-16T14:01:50Z",
+          "instanceId": "17137808319"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -196,71 +261,6 @@
           "name": "Dissenso: Campagna cooperativa",
           "period": "2026-09-16T13:55:15Z",
           "instanceId": "17181888269"
-        }
-      ]
-    },
-    {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 232,
-      "lastPlayedTimestamp": 1790371227000,
-      "lastActivityTimestamp": 1790280395000,
-      "lastActivityText": "Controllo: Con matchmaking il 24/09/2026 20:06",
-      "activities": [
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-09-24T20:06:35Z",
-          "instanceId": "17192118306"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-24T19:50:56Z",
-          "instanceId": "17192095158"
-        },
-        {
-          "name": "Miniere di Sale: Personalizzata",
-          "period": "2026-08-29T17:26:05Z",
-          "instanceId": "17158369572"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-24T21:15:15Z",
-          "instanceId": "17151944624"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-24T16:31:17Z",
-          "instanceId": "17151604635"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-16T14:29:18Z",
-          "instanceId": "17137845203"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-16T14:19:15Z",
-          "instanceId": "17137827565"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-16T14:01:50Z",
-          "instanceId": "17137808319"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-08-04T14:47:57Z",
-          "instanceId": "17112789171"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-04T14:34:16Z",
-          "instanceId": "17112762960"
         }
       ]
     },
