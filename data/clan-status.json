@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-09-26T05:20:22.134Z",
+  "generatedAt": "2026-09-26T10:07:15.526Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Contemporaneo",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1790417092000,
+      "lastActivityTimestamp": 1790414474000,
+      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking il 26/09/2026 09:21",
+      "activities": [
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-09-26T09:21:14Z",
+          "instanceId": "17194687097"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-09-26T08:01:05Z",
+          "instanceId": "17194625599"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-09-26T07:30:58Z",
+          "instanceId": "17194595053"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-09-26T06:23:50Z",
+          "instanceId": "17194533400"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-09-25T18:10:28Z",
+          "instanceId": "17193487934"
+        },
+        {
+          "name": "Cripta di Pietrafonda",
+          "period": "2026-09-24T17:51:54Z",
+          "instanceId": "17192023217"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-09-24T17:46:19Z",
+          "instanceId": "17191948944"
+        },
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-09-24T17:05:57Z",
+          "instanceId": "17191915061"
+        },
+        {
+          "name": "Campi di battaglia: Nucleo: Personalizzata",
+          "period": "2026-09-24T16:36:01Z",
+          "instanceId": "17191887718"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-09-24T16:15:22Z",
+          "instanceId": "17191854454"
+        }
+      ]
+    },
     {
       "displayName": "Turt1e#4700",
       "membershipId": "4611686018501972920",
@@ -131,71 +196,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-08-16T14:01:50Z",
           "instanceId": "17137808319"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1790360913000,
-      "lastActivityTimestamp": 1790359828000,
-      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 25/09/2026 18:10",
-      "activities": [
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-09-25T18:10:28Z",
-          "instanceId": "17193487934"
-        },
-        {
-          "name": "Cripta di Pietrafonda",
-          "period": "2026-09-24T17:51:54Z",
-          "instanceId": "17192023217"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-09-24T17:46:19Z",
-          "instanceId": "17191948944"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-09-24T17:05:57Z",
-          "instanceId": "17191915061"
-        },
-        {
-          "name": "Campi di battaglia: Nucleo: Personalizzata",
-          "period": "2026-09-24T16:36:01Z",
-          "instanceId": "17191887718"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-09-24T16:15:22Z",
-          "instanceId": "17191854454"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-09-24T15:59:31Z",
-          "instanceId": "17191830580"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-09-24T15:33:03Z",
-          "instanceId": "17191809748"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-09-21T16:52:12Z",
-          "instanceId": "17187722890"
-        },
-        {
-          "name": "Terreni di Prova: Con matchmaking",
-          "period": "2026-09-21T16:33:49Z",
-          "instanceId": "17187703424"
         }
       ]
     },
@@ -1183,7 +1183,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1790270447000,
+      "lastPlayedTimestamp": 1790401640000,
       "lastActivityTimestamp": 1786976920000,
       "lastActivityText": "La Città Sognante il 17/08/2026 14:28",
       "activities": [
