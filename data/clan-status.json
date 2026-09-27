@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T15:15:12.298Z",
+  "generatedAt": "2026-09-27T19:12:07.759Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,64 +8,194 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Contemporaneo",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8da28f98a37e45634070e8666484bbf9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1790521969000,
-      "lastActivityTimestamp": 1790521376000,
-      "lastActivityText": "Neomuna il 27/09/2026 15:02",
+      "lastPlayedTimestamp": 1790532595000,
+      "lastActivityTimestamp": 1790531822000,
+      "lastActivityText": "Europa il 27/09/2026 17:57",
       "activities": [
+        {
+          "name": "Europa",
+          "period": "2026-09-27T17:57:02Z",
+          "instanceId": "17197400596"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-09-27T17:47:13Z",
+          "instanceId": "17197369364"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-09-27T17:39:18Z",
+          "instanceId": "17197351046"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-09-27T17:07:18Z",
+          "instanceId": "17197331403"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-09-27T16:18:24Z",
+          "instanceId": "17197266641"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-09-27T15:36:47Z",
+          "instanceId": "17197144801"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-09-27T15:24:34Z",
+          "instanceId": "17197121589"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-09-27T15:11:10Z",
+          "instanceId": "17197102505"
+        },
         {
           "name": "Neomuna",
           "period": "2026-09-27T15:02:56Z",
           "instanceId": "17197078906"
         },
         {
-          "name": "Adrenalodromo: Maestro",
-          "period": "2026-09-27T14:55:40Z",
-          "instanceId": "17197069828"
+          "name": "Adrenalodromo: Esperto",
+          "period": "2026-09-27T12:51:16Z",
+          "instanceId": "17197272563"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1790530114000,
+      "lastActivityTimestamp": 1790529595000,
+      "lastActivityText": "Schianto dell'Esodo il 27/09/2026 17:19",
+      "activities": [
+        {
+          "name": "Schianto dell'Esodo",
+          "period": "2026-09-27T17:19:55Z",
+          "instanceId": "17197317488"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-09-27T17:03:18Z",
+          "instanceId": "17197298272"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-09-27T16:48:11Z",
+          "instanceId": "17197271289"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Personalizzata",
+          "period": "2026-09-27T13:04:15Z",
+          "instanceId": "17196936083"
+        },
+        {
+          "name": "Adrenalodromo: Esperto",
+          "period": "2026-09-27T12:51:16Z",
+          "instanceId": "17197272563"
+        },
+        {
+          "name": "Contenimento del Velo",
+          "period": "2026-09-27T12:47:43Z",
+          "instanceId": "17196888346"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-09-26T17:40:47Z",
+          "instanceId": "17195293373"
+        },
+        {
+          "name": "Spedizione: Cosmodromo: Con matchmaking",
+          "period": "2026-09-26T17:21:00Z",
+          "instanceId": "17195271391"
+        },
+        {
+          "name": "Riproposta in evidenza: Argos: Pantheon",
+          "period": "2026-09-26T16:53:13Z",
+          "instanceId": "17195239050"
+        },
+        {
+          "name": "Spirale invertita",
+          "period": "2026-09-25T14:42:07Z",
+          "instanceId": "17193252526"
+        }
+      ]
+    },
+    {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1790530751000,
+      "lastActivityTimestamp": 1790526428000,
+      "lastActivityText": "Conservazione il 27/09/2026 16:27",
+      "activities": [
+        {
+          "name": "Conservazione",
+          "period": "2026-09-27T16:27:08Z",
+          "instanceId": "17197243344"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-09-27T15:58:52Z",
+          "instanceId": "17197208496"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-09-27T15:22:54Z",
+          "instanceId": "17197159960"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-09-27T14:50:58Z",
+          "instanceId": "17197100959"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-09-22T15:26:19Z",
+          "instanceId": "17189001699"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-09-22T15:01:43Z",
+          "instanceId": "17188987424"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-09-22T14:39:10Z",
+          "instanceId": "17188953567"
+        },
+        {
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-09-22T14:30:53Z",
+          "instanceId": "17188946292"
         },
         {
           "name": "Neomuna",
-          "period": "2026-09-27T14:54:03Z",
-          "instanceId": "17197058172"
+          "period": "2026-09-22T13:55:13Z",
+          "instanceId": "17188938379"
         },
         {
-          "name": "Adrenalodromo: Maestro",
-          "period": "2026-09-27T14:47:10Z",
-          "instanceId": "17197056080"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-27T14:45:33Z",
-          "instanceId": "17197045564"
-        },
-        {
-          "name": "Adrenalodromo: Maestro",
-          "period": "2026-09-27T14:40:09Z",
-          "instanceId": "17197042871"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-27T14:38:24Z",
-          "instanceId": "17197035129"
-        },
-        {
-          "name": "Adrenalodromo: Maestro",
-          "period": "2026-09-27T14:32:07Z",
-          "instanceId": "17197032014"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-27T14:30:14Z",
-          "instanceId": "17197023270"
-        },
-        {
-          "name": "Adrenalodromo: Maestro",
-          "period": "2026-09-27T14:24:01Z",
-          "instanceId": "17197020387"
+          "name": "Partita veloce: Normale",
+          "period": "2026-09-22T13:50:55Z",
+          "instanceId": "17188905172"
         }
       ]
     },
@@ -73,15 +203,30 @@
       "displayName": "Jhonny#3878",
       "membershipId": "4611686018489632599",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7005a7ab5f9a038c8de4da69187bb16f.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1790522049000,
-      "lastActivityTimestamp": 1790520242000,
-      "lastActivityText": "Cella Senza Sole: Personalizzata il 27/09/2026 14:44",
+      "lastPlayedTimestamp": 1790524611000,
+      "lastActivityTimestamp": 1790524318000,
+      "lastActivityText": "Supremazia: Metallo Pesante: Con matchmaking il 27/09/2026 15:51",
       "activities": [
+        {
+          "name": "Supremazia: Metallo Pesante: Con matchmaking",
+          "period": "2026-09-27T15:51:58Z",
+          "instanceId": "17197155634"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-09-27T15:36:31Z",
+          "instanceId": "17197132319"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-09-27T15:26:50Z",
+          "instanceId": "17197121995"
+        },
         {
           "name": "Cella Senza Sole: Personalizzata",
           "period": "2026-09-27T14:44:02Z",
@@ -116,86 +261,6 @@
           "name": "Pandemonio: Con matchmaking",
           "period": "2026-09-06T08:54:18Z",
           "instanceId": "17168957569"
-        },
-        {
-          "name": "Pandemonio: Con matchmaking",
-          "period": "2026-09-06T08:42:21Z",
-          "instanceId": "17168947357"
-        },
-        {
-          "name": "Pandemonio: Con matchmaking",
-          "period": "2026-09-05T16:27:01Z",
-          "instanceId": "17167834045"
-        },
-        {
-          "name": "Pandemonio: Con matchmaking",
-          "period": "2026-09-05T16:16:48Z",
-          "instanceId": "17167822604"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1790515869000,
-      "lastActivityTimestamp": 1790514255000,
-      "lastActivityText": "Campi di battaglia: Discesa: Personalizzata il 27/09/2026 13:04",
-      "activities": [
-        {
-          "name": "Campi di battaglia: Discesa: Personalizzata",
-          "period": "2026-09-27T13:04:15Z",
-          "instanceId": "17196936083"
-        },
-        {
-          "name": "Contenimento del Velo",
-          "period": "2026-09-27T12:47:43Z",
-          "instanceId": "17196888346"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-09-26T17:40:47Z",
-          "instanceId": "17195293373"
-        },
-        {
-          "name": "Spedizione: Cosmodromo: Con matchmaking",
-          "period": "2026-09-26T17:21:00Z",
-          "instanceId": "17195271391"
-        },
-        {
-          "name": "Riproposta in evidenza: Argos: Pantheon",
-          "period": "2026-09-26T16:53:13Z",
-          "instanceId": "17195239050"
-        },
-        {
-          "name": "Spirale invertita",
-          "period": "2026-09-25T14:42:07Z",
-          "instanceId": "17193252526"
-        },
-        {
-          "name": "Trafficante d'armi",
-          "period": "2026-09-25T14:15:35Z",
-          "instanceId": "17193220975"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-09-24T17:05:57Z",
-          "instanceId": "17191915061"
-        },
-        {
-          "name": "Campi di battaglia: Nucleo: Personalizzata",
-          "period": "2026-09-24T16:36:01Z",
-          "instanceId": "17191887718"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-09-24T16:15:22Z",
-          "instanceId": "17191854454"
         }
       ]
     },
@@ -456,71 +521,6 @@
           "name": "Artesia Mons, Venere: Contrabbando: Con matchmaking",
           "period": "2026-08-23T13:20:29Z",
           "instanceId": "17149760974"
-        }
-      ]
-    },
-    {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1790522067000,
-      "lastActivityTimestamp": 1790090779000,
-      "lastActivityText": "Conservazione il 22/09/2026 15:26",
-      "activities": [
-        {
-          "name": "Conservazione",
-          "period": "2026-09-22T15:26:19Z",
-          "instanceId": "17189001699"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-09-22T15:01:43Z",
-          "instanceId": "17188987424"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-22T14:39:10Z",
-          "instanceId": "17188953567"
-        },
-        {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-09-22T14:30:53Z",
-          "instanceId": "17188946292"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-22T13:55:13Z",
-          "instanceId": "17188938379"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-22T13:50:55Z",
-          "instanceId": "17188905172"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-22T13:42:50Z",
-          "instanceId": "17188904528"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-09-22T09:08:30Z",
-          "instanceId": "17188743276"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-09-22T08:50:14Z",
-          "instanceId": "17188719071"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-09-15T16:39:53Z",
-          "instanceId": "17180867717"
         }
       ]
     },
