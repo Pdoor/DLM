@@ -1,74 +1,9 @@
 {
-  "generatedAt": "2026-09-28T01:07:22.140Z",
+  "generatedAt": "2026-09-28T07:27:25.498Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Contemporaneo",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8da28f98a37e45634070e8666484bbf9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1790532595000,
-      "lastActivityTimestamp": 1790531822000,
-      "lastActivityText": "Europa il 27/09/2026 17:57",
-      "activities": [
-        {
-          "name": "Europa",
-          "period": "2026-09-27T17:57:02Z",
-          "instanceId": "17197400596"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-09-27T17:47:13Z",
-          "instanceId": "17197369364"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-09-27T17:39:18Z",
-          "instanceId": "17197351046"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-09-27T17:07:18Z",
-          "instanceId": "17197331403"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-09-27T16:18:24Z",
-          "instanceId": "17197266641"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-09-27T15:36:47Z",
-          "instanceId": "17197144801"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-09-27T15:24:34Z",
-          "instanceId": "17197121589"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-09-27T15:11:10Z",
-          "instanceId": "17197102505"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-27T15:02:56Z",
-          "instanceId": "17197078906"
-        },
-        {
-          "name": "Adrenalodromo: Esperto",
-          "period": "2026-09-27T12:51:16Z",
-          "instanceId": "17197272563"
-        }
-      ]
-    },
     {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
@@ -456,6 +391,71 @@
           "name": "Partita veloce: Normale",
           "period": "2026-08-16T14:01:50Z",
           "instanceId": "17137808319"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1790580399000,
+      "lastActivityTimestamp": 1790358386000,
+      "lastActivityText": "Corrente dell'iper-rete: Con matchmaking il 25/09/2026 17:46",
+      "activities": [
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-09-25T17:46:26Z",
+          "instanceId": "17193458499"
+        },
+        {
+          "name": "Il Ponte di Vetro: Personalizzata",
+          "period": "2026-09-25T17:13:19Z",
+          "instanceId": "17193421238"
+        },
+        {
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-09-25T16:55:00Z",
+          "instanceId": "17193393442"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-09-25T16:17:12Z",
+          "instanceId": "17193346982"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-09-25T14:55:33Z",
+          "instanceId": "17193271330"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-25T14:00:12Z",
+          "instanceId": "17193229047"
+        },
+        {
+          "name": "Sepolcro: Maestro",
+          "period": "2026-09-25T13:48:36Z",
+          "instanceId": "17193186860"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-25T13:38:51Z",
+          "instanceId": "17193175862"
+        },
+        {
+          "name": "Sepolcro: Maestro",
+          "period": "2026-09-25T13:25:49Z",
+          "instanceId": "17193166926"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-09-25T13:22:39Z",
+          "instanceId": "17193155386"
         }
       ]
     },
