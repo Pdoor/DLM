@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:40:00.324Z",
+  "generatedAt": "2026-09-29T08:11:09.687Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1790618597000,
-      "lastActivityTimestamp": 1790616049000,
-      "lastActivityText": "Corte della Vedova: Personalizzata il 28/09/2026 17:20",
+      "lastPlayedTimestamp": 1790669418000,
+      "lastActivityTimestamp": 1790668749000,
+      "lastActivityText": "Perdizione: Maestro il 29/09/2026 07:59",
       "activities": [
+        {
+          "name": "Perdizione: Maestro",
+          "period": "2026-09-29T07:59:09Z",
+          "instanceId": "17200364830"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-09-29T07:54:51Z",
+          "instanceId": "17200357722"
+        },
         {
           "name": "Corte della Vedova: Personalizzata",
           "period": "2026-09-28T17:20:49Z",
@@ -53,19 +63,9 @@
           "instanceId": "17198910562"
         },
         {
-          "name": "Dottrina dilaniata: Normale",
-          "period": "2026-09-28T11:14:25Z",
-          "instanceId": "17198876410"
-        },
-        {
           "name": "Sepolcro: Maestro",
           "period": "2026-09-28T09:13:03Z",
           "instanceId": "17198906011"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-09-28T06:49:19Z",
-          "instanceId": "17198799862"
         }
       ]
     },
@@ -203,12 +203,12 @@
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1790530751000,
+      "lastPlayedTimestamp": 1790669452000,
       "lastActivityTimestamp": 1790526428000,
       "lastActivityText": "Conservazione il 27/09/2026 16:27",
       "activities": [
