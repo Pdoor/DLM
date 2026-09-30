@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-09-30T04:57:53.564Z",
+  "generatedAt": "2026-09-30T11:04:50.104Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1790760319000,
+      "lastActivityTimestamp": 1790759561000,
+      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 30/09/2026 09:12",
+      "activities": [
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-30T09:12:41Z",
+          "instanceId": "17202125990"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-30T08:48:15Z",
+          "instanceId": "17202111288"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-09-29T10:16:28Z",
+          "instanceId": "17200458809"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-09-29T09:46:25Z",
+          "instanceId": "17200445490"
+        },
+        {
+          "name": "Dottrina dilaniata: Normale",
+          "period": "2026-09-29T08:46:36Z",
+          "instanceId": "17200423474"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-09-29T08:17:59Z",
+          "instanceId": "17200391886"
+        },
+        {
+          "name": "Perdizione: Maestro",
+          "period": "2026-09-29T08:10:57Z",
+          "instanceId": "17200370777"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-09-29T08:08:40Z",
+          "instanceId": "17200366238"
+        },
+        {
+          "name": "Perdizione: Maestro",
+          "period": "2026-09-29T07:59:09Z",
+          "instanceId": "17200364830"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-09-29T07:54:51Z",
+          "instanceId": "17200357722"
+        }
+      ]
+    },
     {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
@@ -66,71 +131,6 @@
           "name": "Adrenalodromo: Esperto",
           "period": "2026-09-27T12:51:16Z",
           "instanceId": "17197272563"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1790703793000,
-      "lastActivityTimestamp": 1790699071000,
-      "lastActivityText": "La caduta di un Re: Standard il 29/09/2026 16:24",
-      "activities": [
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-09-29T16:24:31Z",
-          "instanceId": "17200866428"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-29T15:45:08Z",
-          "instanceId": "17200767614"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-09-29T15:25:56Z",
-          "instanceId": "17200724220"
-        },
-        {
-          "name": "Giardino della Salvezza",
-          "period": "2026-09-29T15:13:22Z",
-          "instanceId": "17200692978"
-        },
-        {
-          "name": "Giardino della Salvezza",
-          "period": "2026-09-29T15:11:08Z",
-          "instanceId": "17200704204"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-09-29T14:52:07Z",
-          "instanceId": "17200689128"
-        },
-        {
-          "name": "Pantheon: Calus risplendente: Personalizzata",
-          "period": "2026-09-29T14:44:47Z",
-          "instanceId": "17200666257"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-09-29T14:00:41Z",
-          "instanceId": "17200631037"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-09-29T13:48:28Z",
-          "instanceId": "17200615620"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-09-29T13:39:38Z",
-          "instanceId": "17200604813"
         }
       ]
     },
