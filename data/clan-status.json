@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-10-01T00:45:56.141Z",
+  "generatedAt": "2026-10-01T07:02:11.953Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1790838073000,
+      "lastActivityTimestamp": 1790836283000,
+      "lastActivityText": "La lama di Luce: Con matchmaking il 01/10/2026 06:31",
+      "activities": [
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-10-01T06:31:23Z",
+          "instanceId": "17203722578"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-09-30T15:49:11Z",
+          "instanceId": "17202499023"
+        },
+        {
+          "name": "Sorgente: attacco: Standard",
+          "period": "2026-09-30T15:26:16Z",
+          "instanceId": "17202443013"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-30T14:34:09Z",
+          "instanceId": "17202394940"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-30T14:24:50Z",
+          "instanceId": "17202377465"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-09-30T13:42:01Z",
+          "instanceId": "17202361179"
+        },
+        {
+          "name": "Sorgente: attacco: Standard",
+          "period": "2026-09-30T13:24:43Z",
+          "instanceId": "17202317242"
+        },
+        {
+          "name": "Cripta di Pietrafonda",
+          "period": "2026-09-30T12:48:34Z",
+          "instanceId": "17202311248"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-30T09:12:41Z",
+          "instanceId": "17202125990"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-30T08:48:15Z",
+          "instanceId": "17202111288"
+        }
+      ]
+    },
     {
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
@@ -131,71 +196,6 @@
           "name": "La fine di Crota: Standard",
           "period": "2026-09-29T15:25:56Z",
           "instanceId": "17200724220"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1790789110000,
-      "lastActivityTimestamp": 1790786116000,
-      "lastActivityText": "Schianto dell'Esodo: Personalizzata il 30/09/2026 16:35",
-      "activities": [
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-09-30T16:35:16Z",
-          "instanceId": "17202567081"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-09-29T16:24:31Z",
-          "instanceId": "17200866428"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-09-29T15:45:08Z",
-          "instanceId": "17200767614"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-09-29T15:25:56Z",
-          "instanceId": "17200724220"
-        },
-        {
-          "name": "Giardino della Salvezza",
-          "period": "2026-09-29T15:13:22Z",
-          "instanceId": "17200692978"
-        },
-        {
-          "name": "Giardino della Salvezza",
-          "period": "2026-09-29T15:11:08Z",
-          "instanceId": "17200704204"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-09-29T14:52:07Z",
-          "instanceId": "17200689128"
-        },
-        {
-          "name": "Pantheon: Calus risplendente: Personalizzata",
-          "period": "2026-09-29T14:44:47Z",
-          "instanceId": "17200666257"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-09-29T14:00:41Z",
-          "instanceId": "17200631037"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-09-29T13:48:28Z",
-          "instanceId": "17200615620"
         }
       ]
     },
