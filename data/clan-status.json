@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T00:03:58.307Z",
+  "generatedAt": "2026-10-02T06:03:09.630Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -135,71 +135,6 @@
       ]
     },
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1790875238000,
-      "lastActivityTimestamp": 1790868396000,
-      "lastActivityText": "Equilibrio: Standard il 01/10/2026 15:26",
-      "activities": [
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-10-01T15:26:36Z",
-          "instanceId": "17204273918"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-10-01T15:12:10Z",
-          "instanceId": "17204142527"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-10-01T15:10:32Z",
-          "instanceId": "17204125987"
-        },
-        {
-          "name": "Il trono infranto",
-          "period": "2026-10-01T14:08:47Z",
-          "instanceId": "17204125194"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-10-01T11:28:51Z",
-          "instanceId": "17203948773"
-        },
-        {
-          "name": "Il trono infranto",
-          "period": "2026-10-01T11:26:14Z",
-          "instanceId": "17203928464"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-10-01T09:45:18Z",
-          "instanceId": "17203869398"
-        },
-        {
-          "name": "Pinnacolo di Savathûn: Con matchmaking",
-          "period": "2026-10-01T09:12:13Z",
-          "instanceId": "17203844872"
-        },
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-10-01T08:54:15Z",
-          "instanceId": "17203830823"
-        },
-        {
-          "name": "Pantheon: Calus risplendente: Personalizzata",
-          "period": "2026-10-01T08:12:23Z",
-          "instanceId": "17203811457"
-        }
-      ]
-    },
-    {
       "displayName": "albybender4894#4526",
       "membershipId": "4611686018500448501",
       "bungieNetMembershipId": "",
@@ -261,6 +196,71 @@
           "name": "Partita veloce: Normale",
           "period": "2026-09-30T13:10:12Z",
           "instanceId": "17202301645"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Immortale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8da28f98a37e45634070e8666484bbf9.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1790920923000,
+      "lastActivityTimestamp": 1790862471000,
+      "lastActivityText": "La lama di Luce: Con matchmaking il 01/10/2026 13:47",
+      "activities": [
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-10-01T13:47:51Z",
+          "instanceId": "17204057738"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-09-28T06:14:04Z",
+          "instanceId": "17198763470"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-09-27T17:57:02Z",
+          "instanceId": "17197400596"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-09-27T17:47:13Z",
+          "instanceId": "17197369364"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-09-27T17:39:18Z",
+          "instanceId": "17197351046"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-09-27T17:07:18Z",
+          "instanceId": "17197331403"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-09-27T16:18:24Z",
+          "instanceId": "17197266641"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-09-27T15:36:47Z",
+          "instanceId": "17197144801"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-09-27T15:24:34Z",
+          "instanceId": "17197121589"
+        },
+        {
+          "name": "Adrenalodromo: Esperto",
+          "period": "2026-09-27T12:51:16Z",
+          "instanceId": "17197272563"
         }
       ]
     },
