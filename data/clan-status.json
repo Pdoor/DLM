@@ -1,71 +1,136 @@
 {
-  "generatedAt": "2026-10-02T13:02:43.538Z",
+  "generatedAt": "2026-10-02T18:38:24.314Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1790963056000,
+      "lastActivityTimestamp": 1790961403000,
+      "lastActivityText": "Corrente dell'iper-rete: Con matchmaking il 02/10/2026 17:16",
+      "activities": [
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-10-02T17:16:43Z",
+          "instanceId": "17206056980"
+        },
+        {
+          "name": "L'arrivo: Maestro",
+          "period": "2026-10-02T16:47:44Z",
+          "instanceId": "17206019177"
+        },
+        {
+          "name": "Terreni di Prova: Personalizzata",
+          "period": "2026-10-02T16:04:31Z",
+          "instanceId": "17205976529"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-10-02T15:31:00Z",
+          "instanceId": "17205921100"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-10-01T17:17:27Z",
+          "instanceId": "17204302850"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-10-01T16:59:20Z",
+          "instanceId": "17204272654"
+        },
+        {
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-10-01T16:28:12Z",
+          "instanceId": "17204239698"
+        },
+        {
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-10-01T15:55:51Z",
+          "instanceId": "17204197119"
+        },
+        {
+          "name": "Lago di ombre: Personalizzata",
+          "period": "2026-10-01T15:40:22Z",
+          "instanceId": "17204174605"
+        },
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-10-01T15:23:20Z",
+          "instanceId": "17204153791"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Immortale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8da28f98a37e45634070e8666484bbf9.jpg",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1790946065000,
-      "lastActivityTimestamp": 1790942650000,
-      "lastActivityText": "Volta di Vetro: Maestro il 02/10/2026 12:04",
+      "lastPlayedTimestamp": 1790963098000,
+      "lastActivityTimestamp": 1790961403000,
+      "lastActivityText": "Corrente dell'iper-rete: Con matchmaking il 02/10/2026 17:16",
       "activities": [
         {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-10-02T12:04:10Z",
-          "instanceId": "17205702971"
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-10-02T17:16:43Z",
+          "instanceId": "17206056980"
         },
         {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-10-02T12:01:23Z",
-          "instanceId": "17205683416"
+          "name": "L'arrivo: Maestro",
+          "period": "2026-10-02T16:47:44Z",
+          "instanceId": "17206019177"
         },
         {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-10-02T11:55:47Z",
-          "instanceId": "17205670738"
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-10-02T16:25:48Z",
+          "instanceId": "17205973800"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-10-02T16:12:07Z",
+          "instanceId": "17205952199"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-10-02T15:31:00Z",
+          "instanceId": "17205921100"
+        },
+        {
+          "name": "La Guerriera: Con matchmaking",
+          "period": "2026-10-02T15:16:31Z",
+          "instanceId": "17205881681"
+        },
+        {
+          "name": "Cripta di Pietrafonda",
+          "period": "2026-10-02T14:48:38Z",
+          "instanceId": "17205865429"
+        },
+        {
+          "name": "Escissione: Gran maestro",
+          "period": "2026-10-02T14:42:17Z",
+          "instanceId": "17205827341"
+        },
+        {
+          "name": "L'arrivo: Avanzata",
+          "period": "2026-10-02T14:07:47Z",
+          "instanceId": "17205810579"
         },
         {
           "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-10-02T09:18:12Z",
-          "instanceId": "17205562881"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-10-02T09:02:32Z",
-          "instanceId": "17205550265"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-10-02T06:22:07Z",
-          "instanceId": "17205413761"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-10-02T06:02:58Z",
-          "instanceId": "17205404280"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-10-01T13:47:51Z",
-          "instanceId": "17204057738"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-09-28T06:14:04Z",
-          "instanceId": "17198763470"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-09-27T17:57:02Z",
-          "instanceId": "17197400596"
+          "period": "2026-10-02T13:39:40Z",
+          "instanceId": "17205786089"
         }
       ]
     },
@@ -78,10 +143,35 @@
       "title": "Signora del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7005a7ab5f9a038c8de4da69187bb16f.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1790934589000,
-      "lastActivityTimestamp": 1790933235000,
-      "lastActivityText": "Schianto dell'Esodo: Personalizzata il 02/10/2026 09:27",
+      "lastPlayedTimestamp": 1790959737000,
+      "lastActivityTimestamp": 1790959465000,
+      "lastActivityText": "Invasione il 02/10/2026 16:44",
       "activities": [
+        {
+          "name": "Invasione",
+          "period": "2026-10-02T16:44:25Z",
+          "instanceId": "17205985409"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-10-02T16:43:25Z",
+          "instanceId": "17205978872"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-10-02T16:36:58Z",
+          "instanceId": "17205976998"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-10-02T16:35:58Z",
+          "instanceId": "17205968748"
+        },
+        {
+          "name": "Invasione",
+          "period": "2026-10-02T16:31:45Z",
+          "instanceId": "17205967312"
+        },
         {
           "name": "Schianto dell'Esodo: Personalizzata",
           "period": "2026-10-02T09:27:15Z",
@@ -106,31 +196,71 @@
           "name": "Cella Senza Sole: Personalizzata",
           "period": "2026-09-27T14:44:02Z",
           "instanceId": "17197071783"
+        }
+      ]
+    },
+    {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
+      "powerLevel": 466,
+      "lastPlayedTimestamp": 1790952193000,
+      "lastActivityTimestamp": 1790952141000,
+      "lastActivityText": "Tronomondo di Savathûn il 02/10/2026 14:42",
+      "activities": [
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-02T14:42:21Z",
+          "instanceId": "17205828515"
         },
         {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-13T08:23:38Z",
-          "instanceId": "17178036075"
+          "name": "L'investigazione: Normale",
+          "period": "2026-10-02T14:29:22Z",
+          "instanceId": "17205826106"
         },
         {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-09-13T08:11:15Z",
-          "instanceId": "17178025909"
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-10-02T13:00:10Z",
+          "instanceId": "17205785174"
         },
         {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-09-13T08:03:14Z",
-          "instanceId": "17178019944"
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-10-01T13:34:34Z",
+          "instanceId": "17204171743"
         },
         {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-09-11T15:56:07Z",
-          "instanceId": "17175638442"
+          "name": "La Città Sognante",
+          "period": "2026-10-01T13:03:26Z",
+          "instanceId": "17204003299"
         },
         {
-          "name": "Vegliante del niente: Personalizzata",
-          "period": "2026-09-06T09:21:57Z",
-          "instanceId": "17168987797"
+          "name": "Equilibrio: Standard",
+          "period": "2026-09-29T13:39:40Z",
+          "instanceId": "17200711214"
+        },
+        {
+          "name": "//nodo.bpss.AVALON//: Personalizzata",
+          "period": "2026-09-29T13:19:54Z",
+          "instanceId": "17200593285"
+        },
+        {
+          "name": "Bis: Personalizzata",
+          "period": "2026-09-29T12:45:19Z",
+          "instanceId": "17200574658"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-09-28T15:30:22Z",
+          "instanceId": "17199040671"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-09-28T15:21:49Z",
+          "instanceId": "17199031869"
         }
       ]
     },
@@ -200,71 +330,6 @@
       ]
     },
     {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1790876431000,
-      "lastActivityTimestamp": 1790875047000,
-      "lastActivityText": "Campo di battaglia Colpo: Marte: Personalizzata il 01/10/2026 17:17",
-      "activities": [
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-10-01T17:17:27Z",
-          "instanceId": "17204302850"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-10-01T16:59:20Z",
-          "instanceId": "17204272654"
-        },
-        {
-          "name": "Conquista modalità esperto: Luna: Personalizzata",
-          "period": "2026-10-01T16:28:12Z",
-          "instanceId": "17204239698"
-        },
-        {
-          "name": "Conquista modalità esperto: Luna: Personalizzata",
-          "period": "2026-10-01T15:55:51Z",
-          "instanceId": "17204197119"
-        },
-        {
-          "name": "Lago di ombre: Personalizzata",
-          "period": "2026-10-01T15:40:22Z",
-          "instanceId": "17204174605"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-10-01T15:23:20Z",
-          "instanceId": "17204153791"
-        },
-        {
-          "name": "Avamposto di Tharsis",
-          "period": "2026-10-01T15:15:29Z",
-          "instanceId": "17204139381"
-        },
-        {
-          "name": "Temibile aiutante: Audace",
-          "period": "2026-10-01T14:51:37Z",
-          "instanceId": "17204127398"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-09-30T17:44:25Z",
-          "instanceId": "17202602629"
-        },
-        {
-          "name": "Baia dei Desideri Annegati: Esperto",
-          "period": "2026-09-30T17:37:41Z",
-          "instanceId": "17202600000"
-        }
-      ]
-    },
-    {
       "displayName": "albybender4894#4526",
       "membershipId": "4611686018500448501",
       "bungieNetMembershipId": "",
@@ -326,71 +391,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-09-30T13:10:12Z",
           "instanceId": "17202301645"
-        }
-      ]
-    },
-    {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 463,
-      "lastPlayedTimestamp": 1790946023000,
-      "lastActivityTimestamp": 1790861674000,
-      "lastActivityText": "Comando del Vespro: Normale il 01/10/2026 13:34",
-      "activities": [
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-10-01T13:34:34Z",
-          "instanceId": "17204171743"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-10-01T13:03:26Z",
-          "instanceId": "17204003299"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-29T13:39:40Z",
-          "instanceId": "17200711214"
-        },
-        {
-          "name": "//nodo.bpss.AVALON//: Personalizzata",
-          "period": "2026-09-29T13:19:54Z",
-          "instanceId": "17200593285"
-        },
-        {
-          "name": "Bis: Personalizzata",
-          "period": "2026-09-29T12:45:19Z",
-          "instanceId": "17200574658"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-09-28T15:30:22Z",
-          "instanceId": "17199040671"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-09-28T15:21:49Z",
-          "instanceId": "17199031869"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-09-28T15:14:49Z",
-          "instanceId": "17199022471"
-        },
-        {
-          "name": "Derealizzazione: Personalizzata",
-          "period": "2026-09-28T13:51:49Z",
-          "instanceId": "17199005856"
-        },
-        {
-          "name": "Derealizzazione: Personalizzata",
-          "period": "2026-09-28T13:16:07Z",
-          "instanceId": "17198922303"
         }
       ]
     },
