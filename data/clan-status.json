@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T13:12:03.120Z",
+  "generatedAt": "2026-10-03T17:33:09.756Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,46 @@
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1791032839000,
-      "lastActivityTimestamp": 1791029720000,
-      "lastActivityText": "Operazione: Scudo del Serafino: Personalizzata il 03/10/2026 12:15",
+      "powerLevel": 539,
+      "lastPlayedTimestamp": 1791048753000,
+      "lastActivityTimestamp": 1791047138000,
+      "lastActivityText": "La disonorata: Personalizzata il 03/10/2026 17:05",
       "activities": [
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-10-03T17:05:38Z",
+          "instanceId": "17208069876"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Personalizzata",
+          "period": "2026-10-03T16:45:30Z",
+          "instanceId": "17208036012"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-10-03T16:00:52Z",
+          "instanceId": "17207954906"
+        },
+        {
+          "name": "Adrenalodromo: Maestro",
+          "period": "2026-10-03T14:51:31Z",
+          "instanceId": "17207837546"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-10-03T14:23:45Z",
+          "instanceId": "17207816818"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-10-03T13:34:53Z",
+          "instanceId": "17207754489"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-10-03T13:13:49Z",
+          "instanceId": "17207706900"
+        },
         {
           "name": "Operazione: Scudo del Serafino: Personalizzata",
           "period": "2026-10-03T12:15:20Z",
@@ -31,41 +66,136 @@
           "name": "La Guerriera: Con matchmaking",
           "period": "2026-10-02T11:05:23Z",
           "instanceId": "17205635554"
+        }
+      ]
+    },
+    {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
+      "powerLevel": 467,
+      "lastPlayedTimestamp": 1791043983000,
+      "lastActivityTimestamp": 1791043675000,
+      "lastActivityText": "Modalità del mondo: audace: Audace il 03/10/2026 16:07",
+      "activities": [
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-10-03T16:07:55Z",
+          "instanceId": "17207942293"
+        },
+        {
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-10-03T15:46:27Z",
+          "instanceId": "17207929489"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-10-03T15:42:27Z",
+          "instanceId": "17207903736"
+        },
+        {
+          "name": "Pantheon: Calus risplendente: Personalizzata",
+          "period": "2026-10-03T15:12:39Z",
+          "instanceId": "17207907239"
         },
         {
           "name": "Tronomondo di Savathûn",
-          "period": "2026-10-02T10:49:09Z",
-          "instanceId": "17205616330"
+          "period": "2026-10-02T14:42:21Z",
+          "instanceId": "17205828515"
         },
         {
-          "name": "Estrazione: Maestro",
-          "period": "2026-10-02T10:34:34Z",
-          "instanceId": "17205615252"
+          "name": "L'investigazione: Normale",
+          "period": "2026-10-02T14:29:22Z",
+          "instanceId": "17205826106"
         },
         {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-02T10:24:14Z",
-          "instanceId": "17205604804"
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-10-02T13:00:10Z",
+          "instanceId": "17205785174"
         },
         {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-10-02T09:58:42Z",
-          "instanceId": "17205594695"
+          "name": "Comando del Vespro: Normale",
+          "period": "2026-10-01T13:34:34Z",
+          "instanceId": "17204171743"
         },
         {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-10-02T09:39:41Z",
-          "instanceId": "17205577662"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-10-01T15:26:36Z",
-          "instanceId": "17204273918"
+          "name": "La Città Sognante",
+          "period": "2026-10-01T13:03:26Z",
+          "instanceId": "17204003299"
         },
         {
           "name": "Equilibrio: Standard",
-          "period": "2026-10-01T15:12:10Z",
-          "instanceId": "17204142527"
+          "period": "2026-09-29T13:39:40Z",
+          "instanceId": "17200711214"
+        }
+      ]
+    },
+    {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1791048565000,
+      "lastActivityTimestamp": 1791038688000,
+      "lastActivityText": "Conservazione il 03/10/2026 14:44",
+      "activities": [
+        {
+          "name": "Conservazione",
+          "period": "2026-10-03T14:44:48Z",
+          "instanceId": "17207859348"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-10-03T14:25:03Z",
+          "instanceId": "17207806795"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-09-29T08:01:49Z",
+          "instanceId": "17200375840"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-09-27T16:27:08Z",
+          "instanceId": "17197243344"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-09-27T15:58:52Z",
+          "instanceId": "17197208496"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-09-27T15:22:54Z",
+          "instanceId": "17197159960"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-09-27T14:50:58Z",
+          "instanceId": "17197100959"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-09-22T15:26:19Z",
+          "instanceId": "17189001699"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-09-22T15:01:43Z",
+          "instanceId": "17188987424"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-09-22T14:39:10Z",
+          "instanceId": "17188953567"
         }
       ]
     },
@@ -265,71 +395,6 @@
       ]
     },
     {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 466,
-      "lastPlayedTimestamp": 1790952193000,
-      "lastActivityTimestamp": 1790952141000,
-      "lastActivityText": "Tronomondo di Savathûn il 02/10/2026 14:42",
-      "activities": [
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-02T14:42:21Z",
-          "instanceId": "17205828515"
-        },
-        {
-          "name": "L'investigazione: Normale",
-          "period": "2026-10-02T14:29:22Z",
-          "instanceId": "17205826106"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-10-02T13:00:10Z",
-          "instanceId": "17205785174"
-        },
-        {
-          "name": "Comando del Vespro: Normale",
-          "period": "2026-10-01T13:34:34Z",
-          "instanceId": "17204171743"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-10-01T13:03:26Z",
-          "instanceId": "17204003299"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-29T13:39:40Z",
-          "instanceId": "17200711214"
-        },
-        {
-          "name": "//nodo.bpss.AVALON//: Personalizzata",
-          "period": "2026-09-29T13:19:54Z",
-          "instanceId": "17200593285"
-        },
-        {
-          "name": "Bis: Personalizzata",
-          "period": "2026-09-29T12:45:19Z",
-          "instanceId": "17200574658"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-09-28T15:30:22Z",
-          "instanceId": "17199040671"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-09-28T15:21:49Z",
-          "instanceId": "17199031869"
-        }
-      ]
-    },
-    {
       "displayName": "No TAG Jay#1042",
       "membershipId": "4611686018465064117",
       "bungieNetMembershipId": "",
@@ -403,7 +468,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/46613303661a54d56e39682cd25d7d16.jpg",
       "powerLevel": 457,
-      "lastPlayedTimestamp": 1790866812000,
+      "lastPlayedTimestamp": 1791041395000,
       "lastActivityTimestamp": 1790866320000,
       "lastActivityText": "Azzardo: Con matchmaking il 01/10/2026 14:52",
       "activities": [
@@ -521,71 +586,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-08-16T14:29:18Z",
           "instanceId": "17137845203"
-        }
-      ]
-    },
-    {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Viandante del Reame",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1790680625000,
-      "lastActivityTimestamp": 1790668909000,
-      "lastActivityText": "Conservazione il 29/09/2026 08:01",
-      "activities": [
-        {
-          "name": "Conservazione",
-          "period": "2026-09-29T08:01:49Z",
-          "instanceId": "17200375840"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-09-27T16:27:08Z",
-          "instanceId": "17197243344"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-09-27T15:58:52Z",
-          "instanceId": "17197208496"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-09-27T15:22:54Z",
-          "instanceId": "17197159960"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-09-27T14:50:58Z",
-          "instanceId": "17197100959"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-09-22T15:26:19Z",
-          "instanceId": "17189001699"
-        },
-        {
-          "name": "Conservazione",
-          "period": "2026-09-22T15:01:43Z",
-          "instanceId": "17188987424"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-22T14:39:10Z",
-          "instanceId": "17188953567"
-        },
-        {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-09-22T14:30:53Z",
-          "instanceId": "17188946292"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-09-22T13:55:13Z",
-          "instanceId": "17188938379"
         }
       ]
     },
