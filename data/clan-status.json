@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T07:50:53.869Z",
+  "generatedAt": "2026-10-03T13:12:03.120Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -9,63 +9,128 @@
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
       "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Immortale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8da28f98a37e45634070e8666484bbf9.jpg",
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1791013792000,
-      "lastActivityTimestamp": 1791011220000,
-      "lastActivityText": "Corrente dell'iper-rete: Con matchmaking il 03/10/2026 07:07",
+      "lastPlayedTimestamp": 1791032839000,
+      "lastActivityTimestamp": 1791029720000,
+      "lastActivityText": "Operazione: Scudo del Serafino: Personalizzata il 03/10/2026 12:15",
       "activities": [
         {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-10-03T07:07:00Z",
-          "instanceId": "17207329409"
+          "name": "Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-10-03T12:15:20Z",
+          "instanceId": "17207660479"
         },
         {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-10-02T12:58:38Z",
-          "instanceId": "17205726677"
+          "name": "Cripta di Pietrafonda",
+          "period": "2026-10-02T11:44:21Z",
+          "instanceId": "17205663920"
         },
         {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-10-02T12:04:10Z",
-          "instanceId": "17205702971"
+          "name": "La Guerriera: Con matchmaking",
+          "period": "2026-10-02T11:05:23Z",
+          "instanceId": "17205635554"
         },
         {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-10-02T12:01:23Z",
-          "instanceId": "17205683416"
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-02T10:49:09Z",
+          "instanceId": "17205616330"
         },
         {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-10-02T11:55:47Z",
-          "instanceId": "17205670738"
+          "name": "Estrazione: Maestro",
+          "period": "2026-10-02T10:34:34Z",
+          "instanceId": "17205615252"
         },
         {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-10-02T09:35:53Z",
-          "instanceId": "17205758523"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-10-02T09:18:12Z",
-          "instanceId": "17205562881"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-10-02T09:02:32Z",
-          "instanceId": "17205550265"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-10-02T06:22:07Z",
-          "instanceId": "17205413761"
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-02T10:24:14Z",
+          "instanceId": "17205604804"
         },
         {
           "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-10-02T06:02:58Z",
-          "instanceId": "17205404280"
+          "period": "2026-10-02T09:58:42Z",
+          "instanceId": "17205594695"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-10-02T09:39:41Z",
+          "instanceId": "17205577662"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-10-01T15:26:36Z",
+          "instanceId": "17204273918"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-10-01T15:12:10Z",
+          "instanceId": "17204142527"
+        }
+      ]
+    },
+    {
+      "displayName": "adgarolp#8945",
+      "membershipId": "4611686018479100387",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Immortale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
+      "powerLevel": 453,
+      "lastPlayedTimestamp": 1791030586000,
+      "lastActivityTimestamp": 1791024179000,
+      "lastActivityText": "Bis: Personalizzata il 03/10/2026 10:42",
+      "activities": [
+        {
+          "name": "Bis: Personalizzata",
+          "period": "2026-10-03T10:42:59Z",
+          "instanceId": "17207629777"
+        },
+        {
+          "name": "Bis: Personalizzata",
+          "period": "2026-09-12T01:11:48Z",
+          "instanceId": "17176286424"
+        },
+        {
+          "name": "Bis: Personalizzata",
+          "period": "2026-09-12T00:49:44Z",
+          "instanceId": "17176183480"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-09-11T23:55:35Z",
+          "instanceId": "17176147231"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-08-29T16:23:02Z",
+          "instanceId": "17158294556"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-29T14:26:16Z",
+          "instanceId": "17158447177"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-08-29T14:17:52Z",
+          "instanceId": "17158165873"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-08-29T13:32:09Z",
+          "instanceId": "17158115073"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-08-29T13:25:30Z",
+          "instanceId": "17158278622"
+        },
+        {
+          "name": "Eliostasi: Personalizzata",
+          "period": "2026-08-23T18:03:05Z",
+          "instanceId": "17150170273"
         }
       ]
     },
@@ -911,71 +976,6 @@
           "name": "Pallido Cuore",
           "period": "2026-09-11T20:17:55Z",
           "instanceId": "17175872709"
-        }
-      ]
-    },
-    {
-      "displayName": "adgarolp#8945",
-      "membershipId": "4611686018479100387",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Immortale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 453,
-      "lastPlayedTimestamp": 1789180924000,
-      "lastActivityTimestamp": 1789175508000,
-      "lastActivityText": "Bis: Personalizzata il 12/09/2026 01:11",
-      "activities": [
-        {
-          "name": "Bis: Personalizzata",
-          "period": "2026-09-12T01:11:48Z",
-          "instanceId": "17176286424"
-        },
-        {
-          "name": "Bis: Personalizzata",
-          "period": "2026-09-12T00:49:44Z",
-          "instanceId": "17176183480"
-        },
-        {
-          "name": "Equilibrio: Standard",
-          "period": "2026-09-11T23:55:35Z",
-          "instanceId": "17176147231"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-08-29T16:23:02Z",
-          "instanceId": "17158294556"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-29T14:26:16Z",
-          "instanceId": "17158447177"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-29T14:17:52Z",
-          "instanceId": "17158165873"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-08-29T13:32:09Z",
-          "instanceId": "17158115073"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-08-29T13:25:30Z",
-          "instanceId": "17158278622"
-        },
-        {
-          "name": "Eliostasi: Personalizzata",
-          "period": "2026-08-23T18:03:05Z",
-          "instanceId": "17150170273"
-        },
-        {
-          "name": "Eliostasi: Personalizzata",
-          "period": "2026-08-23T16:24:57Z",
-          "instanceId": "17150076144"
         }
       ]
     },
