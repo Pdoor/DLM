@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-10-04T19:30:04.508Z",
+  "generatedAt": "2026-10-04T22:29:56.378Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f6bb9e6d08d8881be22dfa2b79f7b2af.jpg",
+      "powerLevel": 460,
+      "lastPlayedTimestamp": 1791149345000,
+      "lastActivityTimestamp": 1791147775000,
+      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata il 04/10/2026 21:02",
+      "activities": [
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-10-04T21:02:55Z",
+          "instanceId": "17210909939"
+        },
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-10-04T12:43:31Z",
+          "instanceId": "17209930779"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-10-04T11:49:37Z",
+          "instanceId": "17209874815"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-10-04T11:34:02Z",
+          "instanceId": "17209841962"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-04T09:58:21Z",
+          "instanceId": "17209747974"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-04T09:34:55Z",
+          "instanceId": "17209731045"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-09-30T20:51:43Z",
+          "instanceId": "17202898025"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-09-30T20:36:20Z",
+          "instanceId": "17202872187"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-09-25T21:34:10Z",
+          "instanceId": "17193774659"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-09-25T21:19:35Z",
+          "instanceId": "17193752246"
+        }
+      ]
+    },
     {
       "displayName": "No TAG Jay#1042",
       "membershipId": "4611686018465064117",
@@ -196,71 +261,6 @@
           "name": "Neomuna",
           "period": "2026-10-03T15:04:41Z",
           "instanceId": "17208268622"
-        }
-      ]
-    },
-    {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f6bb9e6d08d8881be22dfa2b79f7b2af.jpg",
-      "powerLevel": 460,
-      "lastPlayedTimestamp": 1791118658000,
-      "lastActivityTimestamp": 1791117811000,
-      "lastActivityText": "Miniere di Sale: Personalizzata il 04/10/2026 12:43",
-      "activities": [
-        {
-          "name": "Miniere di Sale: Personalizzata",
-          "period": "2026-10-04T12:43:31Z",
-          "instanceId": "17209930779"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-10-04T11:49:37Z",
-          "instanceId": "17209874815"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-10-04T11:34:02Z",
-          "instanceId": "17209841962"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-10-04T09:58:21Z",
-          "instanceId": "17209747974"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-10-04T09:34:55Z",
-          "instanceId": "17209731045"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-30T20:51:43Z",
-          "instanceId": "17202898025"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-30T20:36:20Z",
-          "instanceId": "17202872187"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-09-25T21:34:10Z",
-          "instanceId": "17193774659"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-09-25T21:19:35Z",
-          "instanceId": "17193752246"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-09-24T20:06:35Z",
-          "instanceId": "17192118306"
         }
       ]
     },
