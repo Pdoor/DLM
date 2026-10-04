@@ -1,9 +1,139 @@
 {
-  "generatedAt": "2026-10-04T11:14:16.813Z",
+  "generatedAt": "2026-10-04T15:56:44.386Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1791129238000,
+      "lastActivityTimestamp": 1791128610000,
+      "lastActivityText": "Tronomondo di Savathûn il 04/10/2026 15:43",
+      "activities": [
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-04T15:43:30Z",
+          "instanceId": "17210199591"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-10-04T15:05:23Z",
+          "instanceId": "17210155097"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-10-02T17:16:43Z",
+          "instanceId": "17206056980"
+        },
+        {
+          "name": "L'arrivo: Maestro",
+          "period": "2026-10-02T16:47:44Z",
+          "instanceId": "17206019177"
+        },
+        {
+          "name": "Terreni di Prova: Personalizzata",
+          "period": "2026-10-02T16:04:31Z",
+          "instanceId": "17205976529"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-10-02T15:31:00Z",
+          "instanceId": "17205921100"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-10-01T17:17:27Z",
+          "instanceId": "17204302850"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-10-01T16:59:20Z",
+          "instanceId": "17204272654"
+        },
+        {
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-10-01T16:28:12Z",
+          "instanceId": "17204239698"
+        },
+        {
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-10-01T15:55:51Z",
+          "instanceId": "17204197119"
+        }
+      ]
+    },
+    {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f6bb9e6d08d8881be22dfa2b79f7b2af.jpg",
+      "powerLevel": 460,
+      "lastPlayedTimestamp": 1791118658000,
+      "lastActivityTimestamp": 1791117811000,
+      "lastActivityText": "Miniere di Sale: Personalizzata il 04/10/2026 12:43",
+      "activities": [
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-10-04T12:43:31Z",
+          "instanceId": "17209930779"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-10-04T11:49:37Z",
+          "instanceId": "17209874815"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-10-04T11:34:02Z",
+          "instanceId": "17209841962"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-04T09:58:21Z",
+          "instanceId": "17209747974"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-04T09:34:55Z",
+          "instanceId": "17209731045"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-09-30T20:51:43Z",
+          "instanceId": "17202898025"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-09-30T20:36:20Z",
+          "instanceId": "17202872187"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-09-25T21:34:10Z",
+          "instanceId": "17193774659"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-09-25T21:19:35Z",
+          "instanceId": "17193752246"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-09-24T20:06:35Z",
+          "instanceId": "17192118306"
+        }
+      ]
+    },
     {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
@@ -13,7 +143,7 @@
       "title": "Immortale",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8da28f98a37e45634070e8666484bbf9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1791111589000,
+      "lastPlayedTimestamp": 1791129204000,
       "lastActivityTimestamp": 1791110258000,
       "lastActivityText": "Trafficante d'armi: Con matchmaking il 04/10/2026 10:37",
       "activities": [
@@ -66,71 +196,6 @@
           "name": "La fine di Crota: Standard",
           "period": "2026-10-02T09:35:53Z",
           "instanceId": "17205758523"
-        }
-      ]
-    },
-    {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/955fbe42258e60e268b1cf60e310d05e.jpg",
-      "powerLevel": 458,
-      "lastPlayedTimestamp": 1791112376000,
-      "lastActivityTimestamp": 1791107901000,
-      "lastActivityText": "Partita veloce: Normale il 04/10/2026 09:58",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-10-04T09:58:21Z",
-          "instanceId": "17209747974"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-10-04T09:34:55Z",
-          "instanceId": "17209731045"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-30T20:51:43Z",
-          "instanceId": "17202898025"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-30T20:36:20Z",
-          "instanceId": "17202872187"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-09-25T21:34:10Z",
-          "instanceId": "17193774659"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-09-25T21:19:35Z",
-          "instanceId": "17193752246"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-09-24T20:06:35Z",
-          "instanceId": "17192118306"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-24T19:50:56Z",
-          "instanceId": "17192095158"
-        },
-        {
-          "name": "Miniere di Sale: Personalizzata",
-          "period": "2026-08-29T17:26:05Z",
-          "instanceId": "17158369572"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-08-24T21:15:15Z",
-          "instanceId": "17151944624"
         }
       ]
     },
@@ -456,71 +521,6 @@
           "name": "Eliostasi: Personalizzata",
           "period": "2026-08-23T18:03:05Z",
           "instanceId": "17150170273"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1790963056000,
-      "lastActivityTimestamp": 1790961403000,
-      "lastActivityText": "Corrente dell'iper-rete: Con matchmaking il 02/10/2026 17:16",
-      "activities": [
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-10-02T17:16:43Z",
-          "instanceId": "17206056980"
-        },
-        {
-          "name": "L'arrivo: Maestro",
-          "period": "2026-10-02T16:47:44Z",
-          "instanceId": "17206019177"
-        },
-        {
-          "name": "Terreni di Prova: Personalizzata",
-          "period": "2026-10-02T16:04:31Z",
-          "instanceId": "17205976529"
-        },
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-10-02T15:31:00Z",
-          "instanceId": "17205921100"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-10-01T17:17:27Z",
-          "instanceId": "17204302850"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-10-01T16:59:20Z",
-          "instanceId": "17204272654"
-        },
-        {
-          "name": "Conquista modalità esperto: Luna: Personalizzata",
-          "period": "2026-10-01T16:28:12Z",
-          "instanceId": "17204239698"
-        },
-        {
-          "name": "Conquista modalità esperto: Luna: Personalizzata",
-          "period": "2026-10-01T15:55:51Z",
-          "instanceId": "17204197119"
-        },
-        {
-          "name": "Lago di ombre: Personalizzata",
-          "period": "2026-10-01T15:40:22Z",
-          "instanceId": "17204174605"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-10-01T15:23:20Z",
-          "instanceId": "17204153791"
         }
       ]
     },
