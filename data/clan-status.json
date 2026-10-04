@@ -1,22 +1,102 @@
 {
-  "generatedAt": "2026-10-04T15:56:44.386Z",
+  "generatedAt": "2026-10-04T19:30:04.508Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "No TAG Jay#1042",
+      "membershipId": "4611686018465064117",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Portatore di desideri",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
+      "powerLevel": 523,
+      "lastPlayedTimestamp": 1791138997000,
+      "lastActivityTimestamp": 1791138690000,
+      "lastActivityText": "Lega Gare di Astori il 04/10/2026 18:31",
+      "activities": [
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-10-04T18:31:30Z",
+          "instanceId": "17210535650"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-10-04T18:10:21Z",
+          "instanceId": "17210494649"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-10-04T17:53:50Z",
+          "instanceId": "17210456293"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-10-04T17:47:25Z",
+          "instanceId": "17210443784"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-10-03T20:11:51Z",
+          "instanceId": "17208411213"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-10-03T20:03:42Z",
+          "instanceId": "17208396859"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-10-03T19:55:42Z",
+          "instanceId": "17208378889"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-10-01T23:04:49Z",
+          "instanceId": "17204804773"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-09-24T16:22:06Z",
+          "instanceId": "17191855041"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-09-01T22:51:42Z",
+          "instanceId": "17162977504"
+        }
+      ]
+    },
+    {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1791129238000,
-      "lastActivityTimestamp": 1791128610000,
-      "lastActivityText": "Tronomondo di Savathûn il 04/10/2026 15:43",
+      "lastPlayedTimestamp": 1791136512000,
+      "lastActivityTimestamp": 1791134405000,
+      "lastActivityText": "La culla del male: Personalizzata il 04/10/2026 17:20",
       "activities": [
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-10-04T17:20:05Z",
+          "instanceId": "17210425584"
+        },
+        {
+          "name": "I sussurri: Personalizzata",
+          "period": "2026-10-04T16:01:36Z",
+          "instanceId": "17210367529"
+        },
+        {
+          "name": "I sussurri: Personalizzata",
+          "period": "2026-10-04T15:52:10Z",
+          "instanceId": "17210223220"
+        },
         {
           "name": "Tronomondo di Savathûn",
           "period": "2026-10-04T15:43:30Z",
@@ -51,21 +131,71 @@
           "name": "Campo di battaglia Colpo: Marte: Personalizzata",
           "period": "2026-10-01T17:17:27Z",
           "instanceId": "17204302850"
-        },
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1791135986000,
+      "lastActivityTimestamp": 1791134405000,
+      "lastActivityText": "La culla del male: Personalizzata il 04/10/2026 17:20",
+      "activities": [
         {
           "name": "La culla del male: Personalizzata",
-          "period": "2026-10-01T16:59:20Z",
-          "instanceId": "17204272654"
+          "period": "2026-10-04T17:20:05Z",
+          "instanceId": "17210425584"
         },
         {
-          "name": "Conquista modalità esperto: Luna: Personalizzata",
-          "period": "2026-10-01T16:28:12Z",
-          "instanceId": "17204239698"
+          "name": "I sussurri: Personalizzata",
+          "period": "2026-10-04T16:01:36Z",
+          "instanceId": "17210367529"
         },
         {
-          "name": "Conquista modalità esperto: Luna: Personalizzata",
-          "period": "2026-10-01T15:55:51Z",
-          "instanceId": "17204197119"
+          "name": "Luna",
+          "period": "2026-10-04T15:00:58Z",
+          "instanceId": "17210173549"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-10-04T14:09:52Z",
+          "instanceId": "17210070677"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-10-04T06:52:58Z",
+          "instanceId": "17209559950"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-10-03T17:25:52Z",
+          "instanceId": "17208109529"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-10-03T17:05:38Z",
+          "instanceId": "17208069876"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Personalizzata",
+          "period": "2026-10-03T16:45:30Z",
+          "instanceId": "17208036012"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-10-03T16:00:52Z",
+          "instanceId": "17207954906"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-10-03T15:04:41Z",
+          "instanceId": "17208268622"
         }
       ]
     },
@@ -131,136 +261,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-09-24T20:06:35Z",
           "instanceId": "17192118306"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Immortale",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8da28f98a37e45634070e8666484bbf9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1791129204000,
-      "lastActivityTimestamp": 1791110258000,
-      "lastActivityText": "Trafficante d'armi: Con matchmaking il 04/10/2026 10:37",
-      "activities": [
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-10-04T10:37:38Z",
-          "instanceId": "17209794186"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-10-04T10:25:57Z",
-          "instanceId": "17209775489"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-10-04T08:08:46Z",
-          "instanceId": "17209641448"
-        },
-        {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-10-04T08:00:27Z",
-          "instanceId": "17209623310"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-10-03T07:07:00Z",
-          "instanceId": "17207329409"
-        },
-        {
-          "name": "La fine di Crota: Maestro",
-          "period": "2026-10-03T06:53:06Z",
-          "instanceId": "17207450669"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-10-02T12:58:38Z",
-          "instanceId": "17205726677"
-        },
-        {
-          "name": "Volta di Vetro: Maestro",
-          "period": "2026-10-02T12:04:10Z",
-          "instanceId": "17205702971"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-10-02T12:01:23Z",
-          "instanceId": "17205683416"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-10-02T09:35:53Z",
-          "instanceId": "17205758523"
-        }
-      ]
-    },
-    {
-      "displayName": "No TAG Jay#1042",
-      "membershipId": "4611686018465064117",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Portatore di desideri",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 521,
-      "lastPlayedTimestamp": 1791058704000,
-      "lastActivityTimestamp": 1791058311000,
-      "lastActivityText": "Lega Gare di Astori il 03/10/2026 20:11",
-      "activities": [
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-10-03T20:11:51Z",
-          "instanceId": "17208411213"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-10-03T20:03:42Z",
-          "instanceId": "17208396859"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-10-03T19:55:42Z",
-          "instanceId": "17208378889"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-10-01T23:04:49Z",
-          "instanceId": "17204804773"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-24T16:22:06Z",
-          "instanceId": "17191855041"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-09-01T22:51:42Z",
-          "instanceId": "17162977504"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-09-01T22:38:17Z",
-          "instanceId": "17162967738"
-        },
-        {
-          "name": "Invasione",
-          "period": "2026-08-23T14:30:47Z",
-          "instanceId": "17149820366"
-        },
-        {
-          "name": "Invasione",
-          "period": "2026-08-23T14:29:47Z",
-          "instanceId": "17149816952"
-        },
-        {
-          "name": "Invasione",
-          "period": "2026-08-23T14:23:22Z",
-          "instanceId": "17149814815"
         }
       ]
     },
@@ -1248,7 +1248,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1791057585000,
+      "lastPlayedTimestamp": 1791134006000,
       "lastActivityTimestamp": 1786976920000,
       "lastActivityText": "La Città Sognante il 17/08/2026 14:28",
       "activities": [
