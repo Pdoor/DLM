@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T23:07:43.186Z",
+  "generatedAt": "2026-10-06T03:15:49.517Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "No TAG Jay#1042",
       "membershipId": "4611686018465064117",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Portatore di desideri",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 519,
-      "lastPlayedTimestamp": 1791240680000,
-      "lastActivityTimestamp": 1791240023000,
-      "lastActivityText": "Lega Gare di Astori il 05/10/2026 22:40",
+      "powerLevel": 523,
+      "lastPlayedTimestamp": 1791242793000,
+      "lastActivityTimestamp": 1791241931000,
+      "lastActivityText": "Lega Gare di Astori il 05/10/2026 23:12",
       "activities": [
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-10-05T23:12:11Z",
+          "instanceId": "17213012506"
+        },
         {
           "name": "Lega Gare di Astori",
           "period": "2026-10-05T22:40:23Z",
@@ -61,11 +66,6 @@
           "name": "Lega Gare di Astori",
           "period": "2026-10-04T18:31:30Z",
           "instanceId": "17210535650"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-10-04T18:10:21Z",
-          "instanceId": "17210494649"
         }
       ]
     },
@@ -144,9 +144,14 @@
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/46613303661a54d56e39682cd25d7d16.jpg",
       "powerLevel": 458,
       "lastPlayedTimestamp": 1791234082000,
-      "lastActivityTimestamp": 1791231842000,
-      "lastActivityText": "Partita veloce: Normale il 05/10/2026 20:24",
+      "lastActivityTimestamp": 1791233274000,
+      "lastActivityText": "Controllo: Con matchmaking il 05/10/2026 20:47",
       "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-05T20:47:54Z",
+          "instanceId": "17213189846"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-10-05T20:24:02Z",
@@ -191,11 +196,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-09-30T20:02:45Z",
           "instanceId": "17202829360"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-30T19:48:49Z",
-          "instanceId": "17202801036"
         }
       ]
     },
