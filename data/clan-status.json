@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T17:06:32.545Z",
+  "generatedAt": "2026-10-06T21:50:18.108Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -12,11 +12,21 @@
       "className": "Titani",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f6bb9e6d08d8881be22dfa2b79f7b2af.jpg",
-      "powerLevel": 461,
-      "lastPlayedTimestamp": 1791304685000,
-      "lastActivityTimestamp": 1791304647000,
-      "lastActivityText": "Partita veloce: Normale il 06/10/2026 16:37",
+      "powerLevel": 463,
+      "lastPlayedTimestamp": 1791322065000,
+      "lastActivityTimestamp": 1791321539000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 06/10/2026 21:18",
       "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-10-06T21:18:59Z",
+          "instanceId": "17214655999"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-10-06T21:04:13Z",
+          "instanceId": "17214654067"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-10-06T16:37:27Z",
@@ -56,16 +66,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-10-04T09:34:55Z",
           "instanceId": "17209731045"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-30T20:51:43Z",
-          "instanceId": "17202898025"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-30T20:36:20Z",
-          "instanceId": "17202872187"
         }
       ]
     },
@@ -73,15 +73,25 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1791306269000,
-      "lastActivityTimestamp": 1791304312000,
-      "lastActivityText": "Cella Senza Sole: Con matchmaking il 06/10/2026 16:31",
+      "lastPlayedTimestamp": 1791308348000,
+      "lastActivityTimestamp": 1791307072000,
+      "lastActivityText": "La culla del male: Personalizzata il 06/10/2026 17:17",
       "activities": [
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-10-06T17:17:52Z",
+          "instanceId": "17214318039"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-10-06T16:54:09Z",
+          "instanceId": "17214292284"
+        },
         {
           "name": "Cella Senza Sole: Con matchmaking",
           "period": "2026-10-06T16:31:52Z",
@@ -121,16 +131,6 @@
           "name": "Tronomondo di Savathûn",
           "period": "2026-10-04T15:43:30Z",
           "instanceId": "17210199591"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-10-04T15:05:23Z",
-          "instanceId": "17210155097"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-10-02T17:16:43Z",
-          "instanceId": "17206056980"
         }
       ]
     },
@@ -138,15 +138,25 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1791306310000,
-      "lastActivityTimestamp": 1791304312000,
-      "lastActivityText": "Cella Senza Sole: Con matchmaking il 06/10/2026 16:31",
+      "lastPlayedTimestamp": 1791308170000,
+      "lastActivityTimestamp": 1791307072000,
+      "lastActivityText": "La culla del male: Personalizzata il 06/10/2026 17:17",
       "activities": [
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-10-06T17:17:52Z",
+          "instanceId": "17214318039"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-10-06T16:54:09Z",
+          "instanceId": "17214292284"
+        },
         {
           "name": "Cella Senza Sole: Con matchmaking",
           "period": "2026-10-06T16:31:52Z",
@@ -186,16 +196,6 @@
           "name": "Tronomondo di Savathûn",
           "period": "2026-10-06T12:43:04Z",
           "instanceId": "17213984623"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-10-06T12:17:16Z",
-          "instanceId": "17213980814"
-        },
-        {
-          "name": "Riposo dell'Afelio: Maestro",
-          "period": "2026-10-06T12:04:24Z",
-          "instanceId": "17213958868"
         }
       ]
     },
