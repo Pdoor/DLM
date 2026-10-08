@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T07:10:21.118Z",
+  "generatedAt": "2026-10-08T14:49:09.894Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -9,63 +9,128 @@
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
       "isOnline": true,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1791443358000,
-      "lastActivityTimestamp": 1791440247000,
-      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 08/10/2026 06:17",
+      "lastPlayedTimestamp": 1791470863000,
+      "lastActivityTimestamp": 1791469579000,
+      "lastActivityText": "Una misteriosa attività il 08/10/2026 14:26",
       "activities": [
         {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-10-08T06:17:27Z",
-          "instanceId": "17217107932"
+          "name": "Una misteriosa attività",
+          "period": "2026-10-08T14:26:19Z",
+          "instanceId": "17217521521"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-10-08T14:15:52Z",
+          "instanceId": "17217501683"
+        },
+        {
+          "name": "Alloggi Equipaggio R1: Maestro",
+          "period": "2026-10-08T14:07:31Z",
+          "instanceId": "17217490132"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-10-08T14:04:10Z",
+          "instanceId": "17217481378"
         },
         {
           "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-10-07T18:13:46Z",
-          "instanceId": "17216019880"
+          "period": "2026-10-08T13:46:24Z",
+          "instanceId": "17217476642"
         },
         {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-07T12:25:31Z",
-          "instanceId": "17215762779"
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-10-08T13:21:35Z",
+          "instanceId": "17217449445"
         },
         {
-          "name": "Sepolcro: Maestro",
-          "period": "2026-10-07T12:11:14Z",
-          "instanceId": "17215737281"
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-10-08T12:56:41Z",
+          "instanceId": "17217422854"
         },
         {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-07T12:01:47Z",
-          "instanceId": "17215725889"
+          "name": "Liminalità: Con matchmaking",
+          "period": "2026-10-08T12:31:45Z",
+          "instanceId": "17217405243"
         },
         {
-          "name": "Baia dei Desideri Annegati: Maestro",
-          "period": "2026-10-07T10:18:03Z",
-          "instanceId": "17215649620"
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-10-08T10:34:15Z",
+          "instanceId": "17217305269"
         },
         {
-          "name": "La Città Sognante",
-          "period": "2026-10-07T10:16:05Z",
-          "instanceId": "17215641482"
+          "name": "Campo di battaglia Colpo: Luna: Con matchmaking",
+          "period": "2026-10-08T10:17:16Z",
+          "instanceId": "17217291682"
+        }
+      ]
+    },
+    {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
+      "powerLevel": 474,
+      "lastPlayedTimestamp": 1791464076000,
+      "lastActivityTimestamp": 1791463908000,
+      "lastActivityText": "Giardini Exodus 2A: Maestro il 08/10/2026 12:51",
+      "activities": [
+        {
+          "name": "Giardini Exodus 2A: Maestro",
+          "period": "2026-10-08T12:51:48Z",
+          "instanceId": "17217407154"
         },
         {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-10-07T09:25:15Z",
-          "instanceId": "17215613597"
+          "name": "Cosmodromo",
+          "period": "2026-10-08T12:50:33Z",
+          "instanceId": "17217404680"
         },
         {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-10-07T09:00:49Z",
-          "instanceId": "17215593040"
+          "name": "Giardini Exodus 2A: Esperto",
+          "period": "2026-10-08T12:45:17Z",
+          "instanceId": "17217403606"
         },
         {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-10-06T17:17:52Z",
-          "instanceId": "17214318039"
+          "name": "Cosmodromo",
+          "period": "2026-10-08T12:43:04Z",
+          "instanceId": "17217398371"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Leggendaria",
+          "period": "2026-10-08T12:16:11Z",
+          "instanceId": "17217394138"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-10-08T11:56:49Z",
+          "instanceId": "17217366861"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-10-07T11:09:16Z",
+          "instanceId": "17215689173"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-10-07T10:52:53Z",
+          "instanceId": "17215678159"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-10-07T10:36:49Z",
+          "instanceId": "17215665460"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-07T10:01:12Z",
+          "instanceId": "17215635988"
         }
       ]
     },
@@ -73,12 +138,12 @@
       "displayName": "No TAG Jay#1042",
       "membershipId": "4611686018465064117",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Portatore di desideri",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 523,
-      "lastPlayedTimestamp": 1791379306000,
+      "powerLevel": 524,
+      "lastPlayedTimestamp": 1791470925000,
       "lastActivityTimestamp": 1791378970000,
       "lastActivityText": "Lega Gare di Astori il 07/10/2026 13:16",
       "activities": [
@@ -131,71 +196,6 @@
           "name": "Lega Gare di Astori",
           "period": "2026-10-05T20:29:40Z",
           "instanceId": "17212745385"
-        }
-      ]
-    },
-    {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 476,
-      "lastPlayedTimestamp": 1791372580000,
-      "lastActivityTimestamp": 1791371356000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 07/10/2026 11:09",
-      "activities": [
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-10-07T11:09:16Z",
-          "instanceId": "17215689173"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-10-07T10:52:53Z",
-          "instanceId": "17215678159"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-10-07T10:36:49Z",
-          "instanceId": "17215665460"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-07T10:01:12Z",
-          "instanceId": "17215635988"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-07T09:46:10Z",
-          "instanceId": "17215627223"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-10-07T09:40:01Z",
-          "instanceId": "17215614360"
-        },
-        {
-          "name": "Bunker E15: Esperto",
-          "period": "2026-10-07T09:32:28Z",
-          "instanceId": "17215613834"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-10-07T09:30:57Z",
-          "instanceId": "17215608239"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-10-07T09:19:16Z",
-          "instanceId": "17215623241"
-        },
-        {
-          "name": "Modalità del mondo: leggendaria: Leggendaria",
-          "period": "2026-10-07T08:53:59Z",
-          "instanceId": "17215601958"
         }
       ]
     },
