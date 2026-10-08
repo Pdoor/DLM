@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T00:51:58.983Z",
+  "generatedAt": "2026-10-08T07:10:21.118Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,20 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1791397981000,
-      "lastActivityTimestamp": 1791396826000,
-      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 07/10/2026 18:13",
+      "lastPlayedTimestamp": 1791443358000,
+      "lastActivityTimestamp": 1791440247000,
+      "lastActivityText": "Il Ponte di Vetro: Con matchmaking il 08/10/2026 06:17",
       "activities": [
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-10-08T06:17:27Z",
+          "instanceId": "17217107932"
+        },
         {
           "name": "Il Ponte di Vetro: Con matchmaking",
           "period": "2026-10-07T18:13:46Z",
@@ -61,11 +66,6 @@
           "name": "La culla del male: Personalizzata",
           "period": "2026-10-06T17:17:52Z",
           "instanceId": "17214318039"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-10-06T16:54:09Z",
-          "instanceId": "17214292284"
         }
       ]
     },
