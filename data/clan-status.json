@@ -1,22 +1,97 @@
 {
-  "generatedAt": "2026-10-10T17:45:19.163Z",
+  "generatedAt": "2026-10-10T21:24:24.592Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
+      "powerLevel": 479,
+      "lastPlayedTimestamp": 1791656853000,
+      "lastActivityTimestamp": 1791656458000,
+      "lastActivityText": "Lega Gare di Astori il 10/10/2026 18:20",
+      "activities": [
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-10-10T18:20:58Z",
+          "instanceId": "17221733344"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-10-10T18:14:55Z",
+          "instanceId": "17221720018"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-10-10T18:02:35Z",
+          "instanceId": "17221739641"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-10-10T07:54:12Z",
+          "instanceId": "17220895233"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-10-10T07:42:16Z",
+          "instanceId": "17221113705"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-10-10T07:33:19Z",
+          "instanceId": "17220873930"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-09T14:20:30Z",
+          "instanceId": "17219280455"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-09T14:07:23Z",
+          "instanceId": "17219265392"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-10-09T14:04:41Z",
+          "instanceId": "17219251915"
+        },
+        {
+          "name": "Logistica R1: Esperto",
+          "period": "2026-10-09T13:50:15Z",
+          "instanceId": "17219249092"
+        }
+      ]
+    },
+    {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1791654296000,
-      "lastActivityTimestamp": 1791653536000,
-      "lastActivityText": "Il Relitto il 10/10/2026 17:32",
+      "lastPlayedTimestamp": 1791655897000,
+      "lastActivityTimestamp": 1791655355000,
+      "lastActivityText": "Schianto dell'Esodo: Personalizzata il 10/10/2026 18:02",
       "activities": [
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-10-10T18:02:35Z",
+          "instanceId": "17221739641"
+        },
+        {
+          "name": "Gloria futura: Audace",
+          "period": "2026-10-10T17:34:21Z",
+          "instanceId": "17221674025"
+        },
         {
           "name": "Il Relitto",
           "period": "2026-10-10T17:32:16Z",
@@ -56,16 +131,6 @@
           "name": "L'arrivo: Leggenda",
           "period": "2026-10-08T16:35:10Z",
           "instanceId": "17217697626"
-        },
-        {
-          "name": "Fossa dell'Eresia: Standard",
-          "period": "2026-10-08T14:47:16Z",
-          "instanceId": "17217649760"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-10-06T17:17:52Z",
-          "instanceId": "17214318039"
         }
       ]
     },
@@ -138,12 +203,12 @@
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/27c3e627ff1d0d7a3e2559626cbd86e2.jpg",
       "powerLevel": 469,
-      "lastPlayedTimestamp": 1791652557000,
+      "lastPlayedTimestamp": 1791662656000,
       "lastActivityTimestamp": 1791651715000,
       "lastActivityText": "La disonorata: Con matchmaking il 10/10/2026 17:01",
       "activities": [
@@ -196,71 +261,6 @@
           "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
           "period": "2026-10-04T21:02:55Z",
           "instanceId": "17210909939"
-        }
-      ]
-    },
-    {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 479,
-      "lastPlayedTimestamp": 1791619556000,
-      "lastActivityTimestamp": 1791618852000,
-      "lastActivityText": "Azzardo: Con matchmaking il 10/10/2026 07:54",
-      "activities": [
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-10-10T07:54:12Z",
-          "instanceId": "17220895233"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-10-10T07:42:16Z",
-          "instanceId": "17221113705"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-10-10T07:33:19Z",
-          "instanceId": "17220873930"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-09T14:20:30Z",
-          "instanceId": "17219280455"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-09T14:07:23Z",
-          "instanceId": "17219265392"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-10-09T14:04:41Z",
-          "instanceId": "17219251915"
-        },
-        {
-          "name": "Logistica R1: Esperto",
-          "period": "2026-10-09T13:50:15Z",
-          "instanceId": "17219249092"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-10-09T13:46:47Z",
-          "instanceId": "17219232864"
-        },
-        {
-          "name": "Giardini Exodus 2A: Maestro",
-          "period": "2026-10-08T12:51:48Z",
-          "instanceId": "17217407154"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-10-08T12:50:33Z",
-          "instanceId": "17217404680"
         }
       ]
     },
@@ -1183,7 +1183,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1791575334000,
+      "lastPlayedTimestamp": 1791657796000,
       "lastActivityTimestamp": 1786976920000,
       "lastActivityText": "La Città Sognante il 17/08/2026 14:28",
       "activities": [
