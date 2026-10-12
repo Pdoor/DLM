@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-10-12T01:37:13.257Z",
+  "generatedAt": "2026-10-12T08:54:06.301Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Immortale",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8da28f98a37e45634070e8666484bbf9.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1791794811000,
+      "lastActivityTimestamp": 1791794121000,
+      "lastActivityText": "La fine di Crota: Maestro il 12/10/2026 08:35",
+      "activities": [
+        {
+          "name": "La fine di Crota: Maestro",
+          "period": "2026-10-12T08:35:21Z",
+          "instanceId": "17225500360"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-10-12T07:18:54Z",
+          "instanceId": "17225458608"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-10-12T07:12:03Z",
+          "instanceId": "17225420514"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-10-12T06:44:17Z",
+          "instanceId": "17225445184"
+        },
+        {
+          "name": "Ora zero: Personalizzata",
+          "period": "2026-10-12T06:09:18Z",
+          "instanceId": "17225393555"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-10-09T11:47:14Z",
+          "instanceId": "17219130709"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Con matchmaking",
+          "period": "2026-10-09T10:54:03Z",
+          "instanceId": "17219084534"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-10-09T10:00:21Z",
+          "instanceId": "17219052251"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-10-09T08:40:14Z",
+          "instanceId": "17219010356"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-10-09T08:12:01Z",
+          "instanceId": "17218969446"
+        }
+      ]
+    },
     {
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
@@ -196,71 +261,6 @@
           "name": "Terreni di Prova: Personalizzata",
           "period": "2026-10-09T15:48:42Z",
           "instanceId": "17219404200"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1791740192000,
-      "lastActivityTimestamp": 1791739083000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 11/10/2026 17:18",
-      "activities": [
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-10-11T17:18:03Z",
-          "instanceId": "17223930992"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-10-11T16:10:54Z",
-          "instanceId": "17223893510"
-        },
-        {
-          "name": "Labirinto di Veles: Maestro",
-          "period": "2026-10-11T15:46:27Z",
-          "instanceId": "17223746461"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-10-11T15:09:56Z",
-          "instanceId": "17223725113"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-10-11T08:33:57Z",
-          "instanceId": "17223178180"
-        },
-        {
-          "name": "Camera del Chiarore Stellare: Maestro",
-          "period": "2026-10-11T08:25:40Z",
-          "instanceId": "17223176553"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-10-11T08:23:01Z",
-          "instanceId": "17223167823"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-10-11T08:22:07Z",
-          "instanceId": "17223165185"
-        },
-        {
-          "name": "Confluenza: Maestro",
-          "period": "2026-10-11T08:17:19Z",
-          "instanceId": "17223163904"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-10-11T08:07:51Z",
-          "instanceId": "17223159265"
         }
       ]
     },
