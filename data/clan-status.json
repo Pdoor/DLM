@@ -1,22 +1,222 @@
 {
-  "generatedAt": "2026-10-14T16:54:10.926Z",
+  "generatedAt": "2026-10-14T20:31:39.384Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
+      "displayName": "albybender4894#4526",
+      "membershipId": "4611686018500448501",
       "bungieNetMembershipId": "",
       "isOnline": true,
       "className": "Cacciatori",
-      "title": "Immortale",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/46613303661a54d56e39682cd25d7d16.jpg",
+      "powerLevel": 460,
+      "lastPlayedTimestamp": 1792009866000,
+      "lastActivityTimestamp": 1792008994000,
+      "lastActivityText": "Partita veloce: Normale il 14/10/2026 20:16",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-14T20:16:34Z",
+          "instanceId": "17230070263"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-14T13:19:20Z",
+          "instanceId": "17229534812"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-14T13:07:58Z",
+          "instanceId": "17229522925"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-05T20:47:54Z",
+          "instanceId": "17213189846"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-05T20:24:02Z",
+          "instanceId": "17212748385"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-05T20:12:40Z",
+          "instanceId": "17212727618"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-10-01T14:52:00Z",
+          "instanceId": "17204113776"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-01T14:37:22Z",
+          "instanceId": "17204101840"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-09-30T20:51:43Z",
+          "instanceId": "17202898025"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-09-30T20:36:20Z",
+          "instanceId": "17202872187"
+        }
+      ]
+    },
+    {
+      "displayName": "zDanyRappa1849#857",
+      "membershipId": "4611686018558268786",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/00836c62f46b3fff6bae07fbf39dd2b2.jpg",
+      "powerLevel": 303,
+      "lastPlayedTimestamp": 1792009875000,
+      "lastActivityTimestamp": 1792007472000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 14/10/2026 19:51",
+      "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-10-14T19:51:12Z",
+          "instanceId": "17230042491"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-10-14T18:27:34Z",
+          "instanceId": "17229907951"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-10-14T17:24:48Z",
+          "instanceId": "17229832360"
+        },
+        {
+          "name": "Rischio / Ricompensa",
+          "period": "2026-10-14T16:02:10Z",
+          "instanceId": "17229723089"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-10-14T15:56:31Z",
+          "instanceId": "17229700819"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-10-14T15:30:11Z",
+          "instanceId": "17229667490"
+        },
+        {
+          "name": "Scisma",
+          "period": "2026-10-14T15:19:50Z",
+          "instanceId": "17229662390"
+        },
+        {
+          "name": "L'ascesa dei guardiani",
+          "period": "2026-10-14T15:02:03Z",
+          "instanceId": "17229650355"
+        }
+      ]
+    },
+    {
+      "displayName": "Neytiri_wave#9364",
+      "membershipId": "4611686018530145706",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
+      "powerLevel": 319,
+      "lastPlayedTimestamp": 1792009616000,
+      "lastActivityTimestamp": 1792003190000,
+      "lastActivityText": "Partita veloce: Normale il 14/10/2026 18:39",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-14T18:39:50Z",
+          "instanceId": "17229930283"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-10-14T18:27:34Z",
+          "instanceId": "17229907951"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-10-14T17:24:48Z",
+          "instanceId": "17229832360"
+        },
+        {
+          "name": "Rischio / Ricompensa",
+          "period": "2026-10-14T16:02:10Z",
+          "instanceId": "17229723089"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-10-14T15:56:31Z",
+          "instanceId": "17229700819"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-10-14T15:30:11Z",
+          "instanceId": "17229667490"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-14T14:06:24Z",
+          "instanceId": "17229634348"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-10-14T13:55:21Z",
+          "instanceId": "17229561825"
+        },
+        {
+          "name": "Competitiva: Con matchmaking",
+          "period": "2026-06-29T20:08:17Z",
+          "instanceId": "16992243084"
+        },
+        {
+          "name": "La caduta di un Kell: Personalizzata",
+          "period": "2026-06-17T19:16:13Z",
+          "instanceId": "16925738071"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "AUDACE",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8da28f98a37e45634070e8666484bbf9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1791996748000,
-      "lastActivityTimestamp": 1791995657000,
-      "lastActivityText": "La fine di Crota: Standard il 14/10/2026 16:34",
+      "lastPlayedTimestamp": 1792002095000,
+      "lastActivityTimestamp": 1792001090000,
+      "lastActivityText": "Campi di battaglia: Discesa: Con matchmaking il 14/10/2026 18:04",
       "activities": [
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-10-14T18:04:50Z",
+          "instanceId": "17229883762"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-10-14T17:09:38Z",
+          "instanceId": "17229836027"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-10-14T16:48:46Z",
+          "instanceId": "17229785477"
+        },
         {
           "name": "La fine di Crota: Standard",
           "period": "2026-10-14T16:34:17Z",
@@ -38,6 +238,11 @@
           "instanceId": "17229708820"
         },
         {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-10-14T15:33:31Z",
+          "instanceId": "17230013455"
+        },
+        {
           "name": "Promessa del Discepolo: Standard",
           "period": "2026-10-13T17:13:02Z",
           "instanceId": "17228056640"
@@ -46,26 +251,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-10-13T16:57:18Z",
           "instanceId": "17227957064"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-10-13T16:42:50Z",
-          "instanceId": "17227931383"
-        },
-        {
-          "name": "La fine di Crota: Maestro",
-          "period": "2026-10-12T08:35:21Z",
-          "instanceId": "17225500360"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-10-12T07:18:54Z",
-          "instanceId": "17225458608"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-10-12T06:44:17Z",
-          "instanceId": "17225445184"
         }
       ]
     },
@@ -78,10 +263,15 @@
       "title": "Viandante del Reame",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1791994949000,
-      "lastActivityTimestamp": 1791993730000,
-      "lastActivityText": "Rischio / Ricompensa il 14/10/2026 16:02",
+      "lastPlayedTimestamp": 1792002027000,
+      "lastActivityTimestamp": 1792000925000,
+      "lastActivityText": "Conservazione il 14/10/2026 18:02",
       "activities": [
+        {
+          "name": "Conservazione",
+          "period": "2026-10-14T18:02:05Z",
+          "instanceId": "17229883462"
+        },
         {
           "name": "Rischio / Ricompensa",
           "period": "2026-10-14T16:02:10Z",
@@ -126,116 +316,6 @@
           "name": "Conservazione",
           "period": "2026-10-13T06:32:55Z",
           "instanceId": "17227405003"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-10-05T17:27:19Z",
-          "instanceId": "17212466016"
-        }
-      ]
-    },
-    {
-      "displayName": "Neytiri_wave#9364",
-      "membershipId": "4611686018530145706",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
-      "powerLevel": 316,
-      "lastPlayedTimestamp": 1791996789000,
-      "lastActivityTimestamp": 1791993730000,
-      "lastActivityText": "Rischio / Ricompensa il 14/10/2026 16:02",
-      "activities": [
-        {
-          "name": "Rischio / Ricompensa",
-          "period": "2026-10-14T16:02:10Z",
-          "instanceId": "17229723089"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-10-14T15:56:31Z",
-          "instanceId": "17229700819"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-10-14T15:30:11Z",
-          "instanceId": "17229667490"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-14T14:06:24Z",
-          "instanceId": "17229634348"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-10-14T13:55:21Z",
-          "instanceId": "17229561825"
-        },
-        {
-          "name": "Competitiva: Con matchmaking",
-          "period": "2026-06-29T20:08:17Z",
-          "instanceId": "16992243084"
-        },
-        {
-          "name": "La caduta di un Kell: Personalizzata",
-          "period": "2026-06-17T19:16:13Z",
-          "instanceId": "16925738071"
-        },
-        {
-          "name": "Spira: Con matchmaking",
-          "period": "2026-06-17T18:39:15Z",
-          "instanceId": "16925591577"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-05-23T10:00:34Z",
-          "instanceId": "16848140496"
-        },
-        {
-          "name": "Presagio: Personalizzata",
-          "period": "2026-05-23T09:30:08Z",
-          "instanceId": "16848134907"
-        }
-      ]
-    },
-    {
-      "displayName": "zDanyRappa1849#857",
-      "membershipId": "4611686018558268786",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/00836c62f46b3fff6bae07fbf39dd2b2.jpg",
-      "powerLevel": 300,
-      "lastPlayedTimestamp": 1791996783000,
-      "lastActivityTimestamp": 1791993730000,
-      "lastActivityText": "Rischio / Ricompensa il 14/10/2026 16:02",
-      "activities": [
-        {
-          "name": "Rischio / Ricompensa",
-          "period": "2026-10-14T16:02:10Z",
-          "instanceId": "17229723089"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-10-14T15:56:31Z",
-          "instanceId": "17229700819"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-10-14T15:30:11Z",
-          "instanceId": "17229667490"
-        },
-        {
-          "name": "Scisma",
-          "period": "2026-10-14T15:19:50Z",
-          "instanceId": "17229662390"
-        },
-        {
-          "name": "L'ascesa dei guardiani",
-          "period": "2026-10-14T15:02:03Z",
-          "instanceId": "17229650355"
         }
       ]
     },
@@ -301,71 +381,6 @@
           "name": "Schianto dell'Esodo: Personalizzata",
           "period": "2026-10-10T18:02:35Z",
           "instanceId": "17221739641"
-        }
-      ]
-    },
-    {
-      "displayName": "albybender4894#4526",
-      "membershipId": "4611686018500448501",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/46613303661a54d56e39682cd25d7d16.jpg",
-      "powerLevel": 459,
-      "lastPlayedTimestamp": 1791984744000,
-      "lastActivityTimestamp": 1791983960000,
-      "lastActivityText": "Partita veloce: Normale il 14/10/2026 13:19",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-10-14T13:19:20Z",
-          "instanceId": "17229534812"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-10-14T13:07:58Z",
-          "instanceId": "17229522925"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-05T20:47:54Z",
-          "instanceId": "17213189846"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-10-05T20:24:02Z",
-          "instanceId": "17212748385"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-10-05T20:12:40Z",
-          "instanceId": "17212727618"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-10-01T14:52:00Z",
-          "instanceId": "17204113776"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-10-01T14:37:22Z",
-          "instanceId": "17204101840"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-30T20:51:43Z",
-          "instanceId": "17202898025"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-30T20:36:20Z",
-          "instanceId": "17202872187"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-09-30T20:31:19Z",
-          "instanceId": "17202865215"
         }
       ]
     },
