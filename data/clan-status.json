@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-10-14T05:57:16.606Z",
+  "generatedAt": "2026-10-14T11:39:52.373Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
+      "powerLevel": 481,
+      "lastPlayedTimestamp": 1791977065000,
+      "lastActivityTimestamp": 1791975948000,
+      "lastActivityText": "I sussurri: Personalizzata il 14/10/2026 11:05",
+      "activities": [
+        {
+          "name": "I sussurri: Personalizzata",
+          "period": "2026-10-14T11:05:48Z",
+          "instanceId": "17229422089"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-10-11T11:29:33Z",
+          "instanceId": "17223386658"
+        },
+        {
+          "name": "Derealizzazione: Personalizzata",
+          "period": "2026-10-11T10:20:33Z",
+          "instanceId": "17223309372"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-10-11T10:06:32Z",
+          "instanceId": "17223283079"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-10-10T18:20:58Z",
+          "instanceId": "17221733344"
+        },
+        {
+          "name": "Lega Gare di Astori",
+          "period": "2026-10-10T18:14:55Z",
+          "instanceId": "17221720018"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-10-10T18:02:35Z",
+          "instanceId": "17221739641"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-10-10T07:54:12Z",
+          "instanceId": "17220895233"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-10-10T07:42:16Z",
+          "instanceId": "17221113705"
+        },
+        {
+          "name": "Azzardo: Con matchmaking",
+          "period": "2026-10-10T07:33:19Z",
+          "instanceId": "17220873930"
+        }
+      ]
+    },
     {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
@@ -13,10 +78,15 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1791926051000,
-      "lastActivityTimestamp": 1791925198000,
-      "lastActivityText": "La Tana dei Diavoli: Personalizzata il 13/10/2026 20:59",
+      "lastPlayedTimestamp": 1791960490000,
+      "lastActivityTimestamp": 1791957691000,
+      "lastActivityText": "Equilibrio: Standard il 14/10/2026 06:01",
       "activities": [
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-10-14T06:01:31Z",
+          "instanceId": "17229270579"
+        },
         {
           "name": "La Tana dei Diavoli: Personalizzata",
           "period": "2026-10-13T20:59:58Z",
@@ -61,11 +131,6 @@
           "name": "Liminalità: Personalizzata",
           "period": "2026-10-12T17:58:03Z",
           "instanceId": "17226167518"
-        },
-        {
-          "name": "Liminalità: Personalizzata",
-          "period": "2026-10-12T17:54:49Z",
-          "instanceId": "17226112317"
         }
       ]
     },
@@ -138,12 +203,12 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1791915797000,
+      "lastPlayedTimestamp": 1791977134000,
       "lastActivityTimestamp": 1791911582000,
       "lastActivityText": "Promessa del Discepolo: Standard il 13/10/2026 17:13",
       "activities": [
@@ -326,71 +391,6 @@
           "name": "Lega Gare di Astori",
           "period": "2026-10-07T13:16:10Z",
           "instanceId": "17215787378"
-        }
-      ]
-    },
-    {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 481,
-      "lastPlayedTimestamp": 1791896168000,
-      "lastActivityTimestamp": 1791718173000,
-      "lastActivityText": "Deserto perpetuo: Standard il 11/10/2026 11:29",
-      "activities": [
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-10-11T11:29:33Z",
-          "instanceId": "17223386658"
-        },
-        {
-          "name": "Derealizzazione: Personalizzata",
-          "period": "2026-10-11T10:20:33Z",
-          "instanceId": "17223309372"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-10-11T10:06:32Z",
-          "instanceId": "17223283079"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-10-10T18:20:58Z",
-          "instanceId": "17221733344"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-10-10T18:14:55Z",
-          "instanceId": "17221720018"
-        },
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-10-10T18:02:35Z",
-          "instanceId": "17221739641"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-10-10T07:54:12Z",
-          "instanceId": "17220895233"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-10-10T07:42:16Z",
-          "instanceId": "17221113705"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-10-10T07:33:19Z",
-          "instanceId": "17220873930"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-09T14:20:30Z",
-          "instanceId": "17219280455"
         }
       ]
     },
