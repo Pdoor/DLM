@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-10-15T04:02:06.938Z",
+  "generatedAt": "2026-10-15T09:19:03.029Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1792055802000,
+      "lastActivityTimestamp": 1792055352000,
+      "lastActivityText": "Profezia il 15/10/2026 09:09",
+      "activities": [
+        {
+          "name": "Profezia",
+          "period": "2026-10-15T09:09:12Z",
+          "instanceId": "17231082246"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-10-15T09:04:27Z",
+          "instanceId": "17231078686"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-10-15T08:40:25Z",
+          "instanceId": "17231071548"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-10-15T07:40:12Z",
+          "instanceId": "17231029416"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-10-14T12:31:16Z",
+          "instanceId": "17229488245"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-10-14T12:19:33Z",
+          "instanceId": "17229479729"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-10-13T17:13:02Z",
+          "instanceId": "17228056640"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-10-13T16:42:50Z",
+          "instanceId": "17227931383"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-10-13T15:56:42Z",
+          "instanceId": "17227905058"
+        },
+        {
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-10-13T15:33:06Z",
+          "instanceId": "17227880085"
+        }
+      ]
+    },
     {
       "displayName": "alex__72#1115",
       "membershipId": "4611686018443352269",
@@ -261,71 +326,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-10-01T14:37:22Z",
           "instanceId": "17204101840"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "AUDACE",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8da28f98a37e45634070e8666484bbf9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1792002095000,
-      "lastActivityTimestamp": 1792001090000,
-      "lastActivityText": "Campi di battaglia: Discesa: Con matchmaking il 14/10/2026 18:04",
-      "activities": [
-        {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-10-14T18:04:50Z",
-          "instanceId": "17229883762"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-10-14T17:09:38Z",
-          "instanceId": "17229836027"
-        },
-        {
-          "name": "La lama di Luce: Con matchmaking",
-          "period": "2026-10-14T16:48:46Z",
-          "instanceId": "17229785477"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-10-14T16:34:17Z",
-          "instanceId": "17229758348"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-10-14T16:26:12Z",
-          "instanceId": "17229740191"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-10-14T16:12:02Z",
-          "instanceId": "17229729970"
-        },
-        {
-          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
-          "period": "2026-10-14T15:35:21Z",
-          "instanceId": "17229708820"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-10-14T15:33:31Z",
-          "instanceId": "17230013455"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-10-13T17:13:02Z",
-          "instanceId": "17228056640"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-10-13T16:57:18Z",
-          "instanceId": "17227957064"
         }
       ]
     },
