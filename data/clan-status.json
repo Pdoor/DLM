@@ -1,71 +1,136 @@
 {
-  "generatedAt": "2026-10-15T09:19:03.029Z",
+  "generatedAt": "2026-10-15T14:20:02.828Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
+      "powerLevel": 491,
+      "lastPlayedTimestamp": 1792073871000,
+      "lastActivityTimestamp": 1792069890000,
+      "lastActivityText": "Controllo: Con matchmaking il 15/10/2026 13:11",
+      "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-15T13:11:30Z",
+          "instanceId": "17231269068"
+        },
+        {
+          "name": "Pinnacolo dell'Osservatrice: Standard",
+          "period": "2026-10-14T13:40:06Z",
+          "instanceId": "17229611760"
+        },
+        {
+          "name": "Pinnacolo dell'Osservatrice: Standard",
+          "period": "2026-10-14T13:37:47Z",
+          "instanceId": "17229543053"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-10-14T13:24:29Z",
+          "instanceId": "17229535270"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-14T13:20:22Z",
+          "instanceId": "17229536222"
+        },
+        {
+          "name": "I sussurri: Personalizzata",
+          "period": "2026-10-14T11:05:48Z",
+          "instanceId": "17229422089"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-10-11T11:29:33Z",
+          "instanceId": "17223386658"
+        },
+        {
+          "name": "Derealizzazione: Personalizzata",
+          "period": "2026-10-11T10:20:33Z",
+          "instanceId": "17223309372"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-10-11T10:06:32Z",
+          "instanceId": "17223283079"
+        },
+        {
+          "name": "Schianto dell'Esodo: Personalizzata",
+          "period": "2026-10-10T18:02:35Z",
+          "instanceId": "17221739641"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
       "isOnline": true,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "className": "Cacciatori",
+      "title": "AUDACE",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8da28f98a37e45634070e8666484bbf9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1792055802000,
-      "lastActivityTimestamp": 1792055352000,
-      "lastActivityText": "Profezia il 15/10/2026 09:09",
+      "lastPlayedTimestamp": 1792073918000,
+      "lastActivityTimestamp": 1792069446000,
+      "lastActivityText": "Profezia il 15/10/2026 13:04",
       "activities": [
         {
           "name": "Profezia",
-          "period": "2026-10-15T09:09:12Z",
-          "instanceId": "17231082246"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-10-15T09:04:27Z",
-          "instanceId": "17231078686"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-10-15T08:40:25Z",
-          "instanceId": "17231071548"
+          "period": "2026-10-15T13:04:06Z",
+          "instanceId": "17231311789"
         },
         {
           "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-10-15T07:40:12Z",
-          "instanceId": "17231029416"
+          "period": "2026-10-14T18:04:50Z",
+          "instanceId": "17229883762"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-10-14T17:09:38Z",
+          "instanceId": "17229836027"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-10-14T16:48:46Z",
+          "instanceId": "17229785477"
         },
         {
           "name": "La fine di Crota: Standard",
-          "period": "2026-10-14T12:31:16Z",
-          "instanceId": "17229488245"
+          "period": "2026-10-14T16:34:17Z",
+          "instanceId": "17229758348"
         },
         {
           "name": "La fine di Crota: Standard",
-          "period": "2026-10-14T12:19:33Z",
-          "instanceId": "17229479729"
+          "period": "2026-10-14T16:26:12Z",
+          "instanceId": "17229740191"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-10-14T16:12:02Z",
+          "instanceId": "17229729970"
+        },
+        {
+          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
+          "period": "2026-10-14T15:35:21Z",
+          "instanceId": "17229708820"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-10-14T15:33:31Z",
+          "instanceId": "17230013455"
         },
         {
           "name": "Promessa del Discepolo: Standard",
           "period": "2026-10-13T17:13:02Z",
           "instanceId": "17228056640"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-10-13T16:42:50Z",
-          "instanceId": "17227931383"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-10-13T15:56:42Z",
-          "instanceId": "17227905058"
-        },
-        {
-          "name": "Conquista modalità esperto: Luna: Personalizzata",
-          "period": "2026-10-13T15:33:06Z",
-          "instanceId": "17227880085"
         }
       ]
     },
@@ -143,7 +208,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
       "powerLevel": 328,
-      "lastPlayedTimestamp": 1792019241000,
+      "lastPlayedTimestamp": 1792063675000,
       "lastActivityTimestamp": 1792018847000,
       "lastActivityText": "Partita veloce: Normale il 14/10/2026 23:00",
       "activities": [
@@ -326,71 +391,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-10-01T14:37:22Z",
           "instanceId": "17204101840"
-        }
-      ]
-    },
-    {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 479,
-      "lastPlayedTimestamp": 1791988813000,
-      "lastActivityTimestamp": 1791985206000,
-      "lastActivityText": "Pinnacolo dell'Osservatrice: Standard il 14/10/2026 13:40",
-      "activities": [
-        {
-          "name": "Pinnacolo dell'Osservatrice: Standard",
-          "period": "2026-10-14T13:40:06Z",
-          "instanceId": "17229611760"
-        },
-        {
-          "name": "Pinnacolo dell'Osservatrice: Standard",
-          "period": "2026-10-14T13:37:47Z",
-          "instanceId": "17229543053"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-10-14T13:24:29Z",
-          "instanceId": "17229535270"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-14T13:20:22Z",
-          "instanceId": "17229536222"
-        },
-        {
-          "name": "I sussurri: Personalizzata",
-          "period": "2026-10-14T11:05:48Z",
-          "instanceId": "17229422089"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-10-11T11:29:33Z",
-          "instanceId": "17223386658"
-        },
-        {
-          "name": "Derealizzazione: Personalizzata",
-          "period": "2026-10-11T10:20:33Z",
-          "instanceId": "17223309372"
-        },
-        {
-          "name": "Orlo della Salvezza: Standard",
-          "period": "2026-10-11T10:06:32Z",
-          "instanceId": "17223283079"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-10-10T18:20:58Z",
-          "instanceId": "17221733344"
-        },
-        {
-          "name": "Schianto dell'Esodo: Personalizzata",
-          "period": "2026-10-10T18:02:35Z",
-          "instanceId": "17221739641"
         }
       ]
     },
