@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-10-16T05:39:08.430Z",
+  "generatedAt": "2026-10-16T11:04:37.717Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1792148615000,
+      "lastActivityTimestamp": 1792147084000,
+      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 16/10/2026 10:38",
+      "activities": [
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-10-16T10:38:04Z",
+          "instanceId": "17232864408"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-10-16T10:31:23Z",
+          "instanceId": "17232865475"
+        },
+        {
+          "name": "Lago di ombre: Con matchmaking",
+          "period": "2026-10-16T06:57:46Z",
+          "instanceId": "17232705495"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-10-16T06:40:22Z",
+          "instanceId": "17232689957"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-10-15T16:15:41Z",
+          "instanceId": "17231454760"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-10-15T16:10:05Z",
+          "instanceId": "17231447023"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-10-15T15:57:03Z",
+          "instanceId": "17231440270"
+        },
+        {
+          "name": "La Tana dei Diavoli: Personalizzata",
+          "period": "2026-10-15T14:51:30Z",
+          "instanceId": "17231380964"
+        },
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-10-15T14:32:36Z",
+          "instanceId": "17231353598"
+        },
+        {
+          "name": "Spirale invertita: Con matchmaking",
+          "period": "2026-10-15T10:04:32Z",
+          "instanceId": "17231135683"
+        }
+      ]
+    },
     {
       "displayName": "Neytiri_wave#9364",
       "membershipId": "4611686018530145706",
@@ -261,71 +326,6 @@
           "name": "La culla del male: Personalizzata",
           "period": "2026-10-13T17:01:08Z",
           "instanceId": "17227960413"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1792129048000,
-      "lastActivityTimestamp": 1792080941000,
-      "lastActivityText": "Ultimo desiderio: Standard il 15/10/2026 16:15",
-      "activities": [
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-10-15T16:15:41Z",
-          "instanceId": "17231454760"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-10-15T16:10:05Z",
-          "instanceId": "17231447023"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-10-15T15:57:03Z",
-          "instanceId": "17231440270"
-        },
-        {
-          "name": "La Tana dei Diavoli: Personalizzata",
-          "period": "2026-10-15T14:51:30Z",
-          "instanceId": "17231380964"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-10-15T14:32:36Z",
-          "instanceId": "17231353598"
-        },
-        {
-          "name": "Spirale invertita: Con matchmaking",
-          "period": "2026-10-15T10:04:32Z",
-          "instanceId": "17231135683"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-10-15T09:53:07Z",
-          "instanceId": "17231115867"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-10-15T09:09:12Z",
-          "instanceId": "17231082246"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-10-15T09:04:27Z",
-          "instanceId": "17231078686"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-10-15T08:40:25Z",
-          "instanceId": "17231071548"
         }
       ]
     },
