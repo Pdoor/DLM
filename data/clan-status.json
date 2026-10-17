@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-10-17T00:21:00.892Z",
+  "generatedAt": "2026-10-17T04:53:02.332Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "zDanyRappa1849#857",
+      "membershipId": "4611686018558268786",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/00836c62f46b3fff6bae07fbf39dd2b2.jpg",
+      "powerLevel": 335,
+      "lastPlayedTimestamp": 1792198741000,
+      "lastActivityTimestamp": 1792197980000,
+      "lastActivityText": "Il Relitto il 17/10/2026 00:46",
+      "activities": [
+        {
+          "name": "Il Relitto",
+          "period": "2026-10-17T00:46:20Z",
+          "instanceId": "17234003997"
+        },
+        {
+          "name": "Avamposto di Tharsis",
+          "period": "2026-10-17T00:31:53Z",
+          "instanceId": "17233979426"
+        },
+        {
+          "name": "Temibile aiutante: Leggendaria",
+          "period": "2026-10-16T23:28:21Z",
+          "instanceId": "17233962797"
+        },
+        {
+          "name": "Temibile aiutante: Audace",
+          "period": "2026-10-16T17:37:26Z",
+          "instanceId": "17233320941"
+        },
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-10-15T19:52:15Z",
+          "instanceId": "17231793083"
+        },
+        {
+          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
+          "period": "2026-10-15T19:28:29Z",
+          "instanceId": "17231737633"
+        },
+        {
+          "name": "Benvenuti alla Frontiera: Normale",
+          "period": "2026-10-14T22:20:32Z",
+          "instanceId": "17230285293"
+        },
+        {
+          "name": "Impero: Audace",
+          "period": "2026-10-14T20:56:41Z",
+          "instanceId": "17230165422"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-14T20:11:40Z",
+          "instanceId": "17230076095"
+        },
+        {
+          "name": "Trasmigrazione: Normale",
+          "period": "2026-10-14T17:47:34Z",
+          "instanceId": "17230251323"
+        }
+      ]
+    },
     {
       "displayName": "Neytiri_wave#9364",
       "membershipId": "4611686018530145706",
@@ -58,14 +123,14 @@
           "instanceId": "17233735989"
         },
         {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-16T21:56:45Z",
+          "instanceId": "17234121209"
+        },
+        {
           "name": "Vegliante del niente: Personalizzata",
           "period": "2026-10-16T20:13:09Z",
           "instanceId": "17233583638"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-10-16T19:50:50Z",
-          "instanceId": "17233527262"
         }
       ]
     },
@@ -326,71 +391,6 @@
           "name": "Tronomondo di Savathûn",
           "period": "2026-10-15T12:27:54Z",
           "instanceId": "17231225958"
-        }
-      ]
-    },
-    {
-      "displayName": "zDanyRappa1849#857",
-      "membershipId": "4611686018558268786",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/00836c62f46b3fff6bae07fbf39dd2b2.jpg",
-      "powerLevel": 331,
-      "lastPlayedTimestamp": 1792196413000,
-      "lastActivityTimestamp": 1792172246000,
-      "lastActivityText": "Temibile aiutante: Audace il 16/10/2026 17:37",
-      "activities": [
-        {
-          "name": "Temibile aiutante: Audace",
-          "period": "2026-10-16T17:37:26Z",
-          "instanceId": "17233320941"
-        },
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-10-15T19:52:15Z",
-          "instanceId": "17231793083"
-        },
-        {
-          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
-          "period": "2026-10-15T19:28:29Z",
-          "instanceId": "17231737633"
-        },
-        {
-          "name": "Benvenuti alla Frontiera: Normale",
-          "period": "2026-10-14T22:20:32Z",
-          "instanceId": "17230285293"
-        },
-        {
-          "name": "Impero: Audace",
-          "period": "2026-10-14T20:56:41Z",
-          "instanceId": "17230165422"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-10-14T20:11:40Z",
-          "instanceId": "17230076095"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-10-14T19:51:12Z",
-          "instanceId": "17230042491"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-10-14T18:27:34Z",
-          "instanceId": "17229907951"
-        },
-        {
-          "name": "Trasmigrazione: Normale",
-          "period": "2026-10-14T17:47:34Z",
-          "instanceId": "17230251323"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-10-14T17:24:48Z",
-          "instanceId": "17229832360"
         }
       ]
     },
