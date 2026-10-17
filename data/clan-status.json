@@ -1,9 +1,139 @@
 {
-  "generatedAt": "2026-10-17T16:36:51.154Z",
+  "generatedAt": "2026-10-17T19:08:16.187Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "zDanyRappa1849#857",
+      "membershipId": "4611686018558268786",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/00836c62f46b3fff6bae07fbf39dd2b2.jpg",
+      "powerLevel": 363,
+      "lastPlayedTimestamp": 1792263229000,
+      "lastActivityTimestamp": 1792260641000,
+      "lastActivityText": "Gloria futura: Leggendaria il 17/10/2026 18:10",
+      "activities": [
+        {
+          "name": "Gloria futura: Leggendaria",
+          "period": "2026-10-17T18:10:41Z",
+          "instanceId": "17235506979"
+        },
+        {
+          "name": "Il Relitto",
+          "period": "2026-10-17T18:08:36Z",
+          "instanceId": "17235426998"
+        },
+        {
+          "name": "Il lungo inganno: Leggendaria",
+          "period": "2026-10-17T17:27:54Z",
+          "instanceId": "17235423105"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Leggendaria",
+          "period": "2026-10-17T16:26:18Z",
+          "instanceId": "17235312458"
+        },
+        {
+          "name": "Soli e al freddo: Leggendaria",
+          "period": "2026-10-17T14:34:06Z",
+          "instanceId": "17235115069"
+        },
+        {
+          "name": "Il Relitto",
+          "period": "2026-10-17T00:46:20Z",
+          "instanceId": "17234003997"
+        },
+        {
+          "name": "Avamposto di Tharsis",
+          "period": "2026-10-17T00:31:53Z",
+          "instanceId": "17233979426"
+        },
+        {
+          "name": "Temibile aiutante: Leggendaria",
+          "period": "2026-10-16T23:28:21Z",
+          "instanceId": "17233962797"
+        },
+        {
+          "name": "Temibile aiutante: Audace",
+          "period": "2026-10-16T17:37:26Z",
+          "instanceId": "17233320941"
+        },
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-10-15T19:52:15Z",
+          "instanceId": "17231793083"
+        }
+      ]
+    },
+    {
+      "displayName": "TheAnOnymous166#8849",
+      "membershipId": "4611686018528729550",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Pasticcera stellare",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1792263684000,
+      "lastActivityTimestamp": 1792254378000,
+      "lastActivityText": "Fuoco e ghiaccio: Leggendaria il 17/10/2026 16:26",
+      "activities": [
+        {
+          "name": "Fuoco e ghiaccio: Leggendaria",
+          "period": "2026-10-17T16:26:18Z",
+          "instanceId": "17235312458"
+        },
+        {
+          "name": "L'astuta: Normale",
+          "period": "2026-10-17T14:50:31Z",
+          "instanceId": "17235120498"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-17T14:04:27Z",
+          "instanceId": "17235055029"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-10-15T17:02:37Z",
+          "instanceId": "17231513245"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-10-15T16:42:15Z",
+          "instanceId": "17231504278"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-26T12:57:06Z",
+          "instanceId": "17090119490"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-26T12:54:32Z",
+          "instanceId": "17090114961"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-26T12:48:34Z",
+          "instanceId": "17090109557"
+        },
+        {
+          "name": "Palude Selina, Venere: Contrabbando: Con matchmaking",
+          "period": "2026-07-26T12:02:31Z",
+          "instanceId": "17090044610"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-07-26T11:52:37Z",
+          "instanceId": "17090005447"
+        }
+      ]
+    },
     {
       "displayName": "alexcecenko#951",
       "membershipId": "4611686018463713971",
@@ -135,71 +265,6 @@
       ]
     },
     {
-      "displayName": "TheAnOnymous166#8849",
-      "membershipId": "4611686018528729550",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Pasticcera stellare",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1792254502000,
-      "lastActivityTimestamp": 1792248631000,
-      "lastActivityText": "L'astuta: Normale il 17/10/2026 14:50",
-      "activities": [
-        {
-          "name": "L'astuta: Normale",
-          "period": "2026-10-17T14:50:31Z",
-          "instanceId": "17235120498"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-17T14:04:27Z",
-          "instanceId": "17235055029"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-10-15T17:02:37Z",
-          "instanceId": "17231513245"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-10-15T16:42:15Z",
-          "instanceId": "17231504278"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-26T12:57:06Z",
-          "instanceId": "17090119490"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-26T12:54:32Z",
-          "instanceId": "17090114961"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-26T12:48:34Z",
-          "instanceId": "17090109557"
-        },
-        {
-          "name": "Palude Selina, Venere: Contrabbando: Con matchmaking",
-          "period": "2026-07-26T12:02:31Z",
-          "instanceId": "17090044610"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-07-26T11:52:37Z",
-          "instanceId": "17090005447"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-07-26T11:37:39Z",
-          "instanceId": "17089977643"
-        }
-      ]
-    },
-    {
       "displayName": "The_Big_UaZa#9806",
       "membershipId": "4611686018448090802",
       "bungieNetMembershipId": "",
@@ -261,71 +326,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-10-14T13:20:22Z",
           "instanceId": "17229536222"
-        }
-      ]
-    },
-    {
-      "displayName": "zDanyRappa1849#857",
-      "membershipId": "4611686018558268786",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/00836c62f46b3fff6bae07fbf39dd2b2.jpg",
-      "powerLevel": 348,
-      "lastPlayedTimestamp": 1792254571000,
-      "lastActivityTimestamp": 1792247646000,
-      "lastActivityText": "Soli e al freddo: Leggendaria il 17/10/2026 14:34",
-      "activities": [
-        {
-          "name": "Soli e al freddo: Leggendaria",
-          "period": "2026-10-17T14:34:06Z",
-          "instanceId": "17235115069"
-        },
-        {
-          "name": "Il Relitto",
-          "period": "2026-10-17T00:46:20Z",
-          "instanceId": "17234003997"
-        },
-        {
-          "name": "Avamposto di Tharsis",
-          "period": "2026-10-17T00:31:53Z",
-          "instanceId": "17233979426"
-        },
-        {
-          "name": "Temibile aiutante: Leggendaria",
-          "period": "2026-10-16T23:28:21Z",
-          "instanceId": "17233962797"
-        },
-        {
-          "name": "Temibile aiutante: Audace",
-          "period": "2026-10-16T17:37:26Z",
-          "instanceId": "17233320941"
-        },
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-10-15T19:52:15Z",
-          "instanceId": "17231793083"
-        },
-        {
-          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
-          "period": "2026-10-15T19:28:29Z",
-          "instanceId": "17231737633"
-        },
-        {
-          "name": "Benvenuti alla Frontiera: Normale",
-          "period": "2026-10-14T22:20:32Z",
-          "instanceId": "17230285293"
-        },
-        {
-          "name": "Impero: Audace",
-          "period": "2026-10-14T20:56:41Z",
-          "instanceId": "17230165422"
-        },
-        {
-          "name": "Trasmigrazione: Normale",
-          "period": "2026-10-14T17:47:34Z",
-          "instanceId": "17230251323"
         }
       ]
     },
@@ -403,7 +403,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1792221179000,
+      "lastPlayedTimestamp": 1792258088000,
       "lastActivityTimestamp": 1792220294000,
       "lastActivityText": "Campi di battaglia: Colosso: Con matchmaking il 17/10/2026 06:58",
       "activities": [
