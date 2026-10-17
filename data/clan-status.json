@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:08:16.187Z",
+  "generatedAt": "2026-10-17T21:38:58.347Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -73,7 +73,7 @@
       "displayName": "TheAnOnymous166#8849",
       "membershipId": "4611686018528729550",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Pasticcera stellare",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
@@ -131,6 +131,71 @@
           "name": "La disonorata: Personalizzata",
           "period": "2026-07-26T11:52:37Z",
           "instanceId": "17090005447"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1792252720000,
+      "lastActivityTimestamp": 1792251808000,
+      "lastActivityText": "Ultimo desiderio: Standard il 17/10/2026 15:43",
+      "activities": [
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-10-17T15:43:28Z",
+          "instanceId": "17235631223"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-10-17T09:14:27Z",
+          "instanceId": "17234742288"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-10-17T08:45:11Z",
+          "instanceId": "17234717033"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-10-17T08:01:47Z",
+          "instanceId": "17234666608"
+        },
+        {
+          "name": "La culla del male: Con matchmaking",
+          "period": "2026-10-17T07:44:40Z",
+          "instanceId": "17234642104"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-10-17T07:19:04Z",
+          "instanceId": "17234612420"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-10-17T06:47:38Z",
+          "instanceId": "17234577502"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-10-16T13:29:49Z",
+          "instanceId": "17233014404"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-10-16T13:08:55Z",
+          "instanceId": "17232987279"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-10-16T12:53:33Z",
+          "instanceId": "17232977966"
         }
       ]
     },
@@ -326,71 +391,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-10-14T13:20:22Z",
           "instanceId": "17229536222"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1792252720000,
-      "lastActivityTimestamp": 1792228467000,
-      "lastActivityText": "Ultimo desiderio: Standard il 17/10/2026 09:14",
-      "activities": [
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-10-17T09:14:27Z",
-          "instanceId": "17234742288"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-10-17T08:45:11Z",
-          "instanceId": "17234717033"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-10-17T08:01:47Z",
-          "instanceId": "17234666608"
-        },
-        {
-          "name": "La culla del male: Con matchmaking",
-          "period": "2026-10-17T07:44:40Z",
-          "instanceId": "17234642104"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-10-17T07:19:04Z",
-          "instanceId": "17234612420"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-10-17T06:47:38Z",
-          "instanceId": "17234577502"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-10-16T13:29:49Z",
-          "instanceId": "17233014404"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-10-16T13:08:55Z",
-          "instanceId": "17232987279"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-10-16T12:53:33Z",
-          "instanceId": "17232977966"
-        },
-        {
-          "name": "Sepolcro: Maestro",
-          "period": "2026-10-16T12:29:44Z",
-          "instanceId": "17232974604"
         }
       ]
     },
