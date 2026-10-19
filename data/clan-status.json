@@ -1,71 +1,136 @@
 {
-  "generatedAt": "2026-10-19T11:06:26.576Z",
+  "generatedAt": "2026-10-19T17:40:44.501Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1792431617000,
+      "lastActivityTimestamp": 1792429900000,
+      "lastActivityText": "Campo di battaglia Colpo: Luna: Personalizzata il 19/10/2026 17:11",
+      "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-10-19T17:11:40Z",
+          "instanceId": "17239533379"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-10-19T16:35:00Z",
+          "instanceId": "17239524337"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-10-19T16:16:40Z",
+          "instanceId": "17239476714"
+        },
+        {
+          "name": "Liminalità: Personalizzata",
+          "period": "2026-10-19T15:52:29Z",
+          "instanceId": "17239449156"
+        },
+        {
+          "name": "L'arrivo: Leggenda",
+          "period": "2026-10-19T15:40:50Z",
+          "instanceId": "17239417689"
+        },
+        {
+          "name": "L'arrivo: Leggenda",
+          "period": "2026-10-19T15:10:50Z",
+          "instanceId": "17239411979"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-10-18T17:59:11Z",
+          "instanceId": "17237697286"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-10-18T17:38:56Z",
+          "instanceId": "17237631216"
+        },
+        {
+          "name": "Soglia dell'Oscurità",
+          "period": "2026-10-18T17:30:27Z",
+          "instanceId": "17237629255"
+        },
+        {
+          "name": "Il Ponte di Vetro",
+          "period": "2026-10-18T17:20:18Z",
+          "instanceId": "17237620139"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1792406554000,
-      "lastActivityTimestamp": 1792405572000,
-      "lastActivityText": "Terminale Intuitivo: Con matchmaking il 19/10/2026 10:26",
+      "lastPlayedTimestamp": 1792431534000,
+      "lastActivityTimestamp": 1792429900000,
+      "lastActivityText": "Campo di battaglia Colpo: Luna: Personalizzata il 19/10/2026 17:11",
       "activities": [
         {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-10-19T17:11:40Z",
+          "instanceId": "17239533379"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-10-19T16:35:00Z",
+          "instanceId": "17239524337"
+        },
+        {
           "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-10-19T10:26:12Z",
-          "instanceId": "17239134918"
+          "period": "2026-10-19T16:16:40Z",
+          "instanceId": "17239476714"
         },
         {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-10-19T09:56:59Z",
-          "instanceId": "17239124127"
+          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
+          "period": "2026-10-19T15:43:10Z",
+          "instanceId": "17239441594"
         },
         {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-10-18T18:25:39Z",
-          "instanceId": "17237734253"
+          "name": "Pallido Cuore",
+          "period": "2026-10-19T14:52:46Z",
+          "instanceId": "17239386636"
         },
         {
-          "name": "Zona Morta Europea",
-          "period": "2026-10-18T18:23:32Z",
-          "instanceId": "17237721361"
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-10-19T14:43:42Z",
+          "instanceId": "17239358009"
         },
         {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-10-18T17:10:27Z",
-          "instanceId": "17237671693"
+          "name": "Baia dei Desideri Annegati: Maestro",
+          "period": "2026-10-19T14:06:24Z",
+          "instanceId": "17239314353"
         },
         {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-10-18T16:05:12Z",
-          "instanceId": "17237574376"
+          "name": "La Città Sognante",
+          "period": "2026-10-19T14:01:13Z",
+          "instanceId": "17239309660"
         },
         {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-10-18T15:54:29Z",
-          "instanceId": "17237459235"
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-10-19T12:52:42Z",
+          "instanceId": "17239274264"
         },
         {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-10-18T15:46:22Z",
-          "instanceId": "17237440779"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-10-18T15:36:45Z",
-          "instanceId": "17237426202"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-10-18T15:29:16Z",
-          "instanceId": "17237411761"
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-10-19T12:46:28Z",
+          "instanceId": "17239237299"
         }
       ]
     },
@@ -131,71 +196,6 @@
           "name": "Lega Gare di Astori",
           "period": "2026-10-08T16:08:02Z",
           "instanceId": "17217630184"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1792347226000,
-      "lastActivityTimestamp": 1792346351000,
-      "lastActivityText": "Cella Senza Sole: Personalizzata il 18/10/2026 17:59",
-      "activities": [
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-10-18T17:59:11Z",
-          "instanceId": "17237697286"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-10-18T17:38:56Z",
-          "instanceId": "17237631216"
-        },
-        {
-          "name": "Soglia dell'Oscurità",
-          "period": "2026-10-18T17:30:27Z",
-          "instanceId": "17237629255"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-10-18T17:26:50Z",
-          "instanceId": "17237613236"
-        },
-        {
-          "name": "Il Ponte di Vetro",
-          "period": "2026-10-18T17:20:18Z",
-          "instanceId": "17237620139"
-        },
-        {
-          "name": "Il Ponte di Vetro",
-          "period": "2026-10-18T17:08:20Z",
-          "instanceId": "17237579264"
-        },
-        {
-          "name": "Il Ponte di Vetro",
-          "period": "2026-10-18T17:02:15Z",
-          "instanceId": "17237580979"
-        },
-        {
-          "name": "La corrotta: Personalizzata",
-          "period": "2026-10-18T16:31:25Z",
-          "instanceId": "17237531215"
-        },
-        {
-          "name": "La culla del male: Con matchmaking",
-          "period": "2026-10-16T17:36:00Z",
-          "instanceId": "17233319528"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-10-16T17:26:03Z",
-          "instanceId": "17233289393"
         }
       ]
     },
