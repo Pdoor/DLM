@@ -1,22 +1,157 @@
 {
-  "generatedAt": "2026-10-19T17:40:44.501Z",
+  "generatedAt": "2026-10-19T22:10:53.128Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "alexcecenko#951",
+      "membershipId": "4611686018463713971",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Leggenda",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/d27e8ff42082bb9a237522a9a306e3ac.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1792436795000,
+      "lastActivityTimestamp": 1792435690000,
+      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 19/10/2026 18:48",
+      "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-10-19T18:48:10Z",
+          "instanceId": "17239688248"
+        },
+        {
+          "name": "L'astuta: Normale",
+          "period": "2026-10-17T14:50:31Z",
+          "instanceId": "17235120498"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-19T13:44:29Z",
+          "instanceId": "17185095221"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-26T12:57:06Z",
+          "instanceId": "17090119490"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-26T12:54:32Z",
+          "instanceId": "17090114961"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-26T12:48:34Z",
+          "instanceId": "17090109557"
+        },
+        {
+          "name": "Palude Selina, Venere: Contrabbando: Con matchmaking",
+          "period": "2026-07-26T12:02:31Z",
+          "instanceId": "17090044610"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-07-26T11:52:37Z",
+          "instanceId": "17090005447"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-07-26T11:26:27Z",
+          "instanceId": "17089961893"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-07-26T11:11:48Z",
+          "instanceId": "17089926760"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1792433661000,
+      "lastActivityTimestamp": 1792433657000,
+      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 19/10/2026 18:14",
+      "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-10-19T18:14:17Z",
+          "instanceId": "17239637396"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-10-19T18:02:49Z",
+          "instanceId": "17239612005"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-10-19T17:20:08Z",
+          "instanceId": "17239572763"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-10-19T17:11:40Z",
+          "instanceId": "17239533379"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-10-19T16:35:00Z",
+          "instanceId": "17239524337"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-10-19T16:16:40Z",
+          "instanceId": "17239476714"
+        },
+        {
+          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
+          "period": "2026-10-19T15:43:10Z",
+          "instanceId": "17239441594"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-10-19T14:52:46Z",
+          "instanceId": "17239386636"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-10-19T14:43:42Z",
+          "instanceId": "17239358009"
+        },
+        {
+          "name": "Baia dei Desideri Annegati: Maestro",
+          "period": "2026-10-19T14:06:24Z",
+          "instanceId": "17239314353"
+        }
+      ]
+    },
+    {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1792431617000,
-      "lastActivityTimestamp": 1792429900000,
-      "lastActivityText": "Campo di battaglia Colpo: Luna: Personalizzata il 19/10/2026 17:11",
+      "lastPlayedTimestamp": 1792432033000,
+      "lastActivityTimestamp": 1792430408000,
+      "lastActivityText": "Campo di battaglia Colpo: Luna: Personalizzata il 19/10/2026 17:20",
       "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-10-19T17:20:08Z",
+          "instanceId": "17239572763"
+        },
         {
           "name": "Campo di battaglia Colpo: Luna: Personalizzata",
           "period": "2026-10-19T17:11:40Z",
@@ -61,76 +196,6 @@
           "name": "Soglia dell'Oscurità",
           "period": "2026-10-18T17:30:27Z",
           "instanceId": "17237629255"
-        },
-        {
-          "name": "Il Ponte di Vetro",
-          "period": "2026-10-18T17:20:18Z",
-          "instanceId": "17237620139"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1792431534000,
-      "lastActivityTimestamp": 1792429900000,
-      "lastActivityText": "Campo di battaglia Colpo: Luna: Personalizzata il 19/10/2026 17:11",
-      "activities": [
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-10-19T17:11:40Z",
-          "instanceId": "17239533379"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-10-19T16:35:00Z",
-          "instanceId": "17239524337"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-10-19T16:16:40Z",
-          "instanceId": "17239476714"
-        },
-        {
-          "name": "Conquista modalità maestro: Derealizzazione: Personalizzata",
-          "period": "2026-10-19T15:43:10Z",
-          "instanceId": "17239441594"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-10-19T14:52:46Z",
-          "instanceId": "17239386636"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-10-19T14:43:42Z",
-          "instanceId": "17239358009"
-        },
-        {
-          "name": "Baia dei Desideri Annegati: Maestro",
-          "period": "2026-10-19T14:06:24Z",
-          "instanceId": "17239314353"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-10-19T14:01:13Z",
-          "instanceId": "17239309660"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-10-19T12:52:42Z",
-          "instanceId": "17239274264"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-10-19T12:46:28Z",
-          "instanceId": "17239237299"
         }
       ]
     },
@@ -338,7 +403,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1792352203000,
+      "lastPlayedTimestamp": 1792437056000,
       "lastActivityTimestamp": 1792338196000,
       "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 18/10/2026 15:43",
       "activities": [
@@ -651,71 +716,6 @@
           "name": "La disonorata: Personalizzata",
           "period": "2026-07-26T11:52:37Z",
           "instanceId": "17090005447"
-        }
-      ]
-    },
-    {
-      "displayName": "alexcecenko#951",
-      "membershipId": "4611686018463713971",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Leggenda",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/d27e8ff42082bb9a237522a9a306e3ac.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1792251639000,
-      "lastActivityTimestamp": 1792248631000,
-      "lastActivityText": "L'astuta: Normale il 17/10/2026 14:50",
-      "activities": [
-        {
-          "name": "L'astuta: Normale",
-          "period": "2026-10-17T14:50:31Z",
-          "instanceId": "17235120498"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-09-19T13:44:29Z",
-          "instanceId": "17185095221"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-26T12:57:06Z",
-          "instanceId": "17090119490"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-26T12:54:32Z",
-          "instanceId": "17090114961"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-26T12:48:34Z",
-          "instanceId": "17090109557"
-        },
-        {
-          "name": "Palude Selina, Venere: Contrabbando: Con matchmaking",
-          "period": "2026-07-26T12:02:31Z",
-          "instanceId": "17090044610"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-07-26T11:52:37Z",
-          "instanceId": "17090005447"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-07-26T11:26:27Z",
-          "instanceId": "17089961893"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-26T11:11:48Z",
-          "instanceId": "17089926760"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-07-26T11:01:17Z",
-          "instanceId": "17089916871"
         }
       ]
     },
