@@ -1,87 +1,42 @@
 {
-  "generatedAt": "2026-10-24T13:31:21.449Z",
+  "generatedAt": "2026-10-24T17:17:16.627Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1792848474000,
-      "lastActivityTimestamp": 1792846971000,
-      "lastActivityText": "La culla del male: Personalizzata il 24/10/2026 13:02",
-      "activities": [
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-10-24T13:02:51Z",
-          "instanceId": "17247104316"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-10-24T12:56:59Z",
-          "instanceId": "17247074701"
-        },
-        {
-          "name": "La culla del male: Con matchmaking",
-          "period": "2026-10-22T18:40:36Z",
-          "instanceId": "17244250749"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-10-22T17:38:43Z",
-          "instanceId": "17244185690"
-        },
-        {
-          "name": "La culla del male: Con matchmaking",
-          "period": "2026-10-22T17:09:15Z",
-          "instanceId": "17244155109"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-22T17:05:33Z",
-          "instanceId": "17244136421"
-        },
-        {
-          "name": "Sepolcro: Maestro",
-          "period": "2026-10-22T16:52:31Z",
-          "instanceId": "17244132021"
-        },
-        {
-          "name": "Sepolcro: Maestro",
-          "period": "2026-10-22T16:47:26Z",
-          "instanceId": "17244122774"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-22T16:46:41Z",
-          "instanceId": "17244112495"
-        },
-        {
-          "name": "Sepolcro: Maestro",
-          "period": "2026-10-22T16:17:11Z",
-          "instanceId": "17244117293"
-        }
-      ]
-    },
-    {
       "displayName": "zDanyRappa1849#857",
       "membershipId": "4611686018558268786",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/00836c62f46b3fff6bae07fbf39dd2b2.jpg",
-      "powerLevel": 394,
-      "lastPlayedTimestamp": 1792847751000,
-      "lastActivityTimestamp": 1792844882000,
-      "lastActivityText": "Spirale invertita: Personalizzata il 24/10/2026 12:28",
+      "powerLevel": 396,
+      "lastPlayedTimestamp": 1792862189000,
+      "lastActivityTimestamp": 1792861196000,
+      "lastActivityText": "Partita veloce: Normale il 24/10/2026 16:59",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-24T16:59:56Z",
+          "instanceId": "17247412400"
+        },
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-10-24T16:30:38Z",
+          "instanceId": "17247396028"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-10-24T16:03:14Z",
+          "instanceId": "17247348863"
+        },
+        {
+          "name": "L'Oscura Sacerdotessa: Con matchmaking",
+          "period": "2026-10-24T15:35:17Z",
+          "instanceId": "17247288966"
+        },
         {
           "name": "Spirale invertita: Personalizzata",
           "period": "2026-10-24T12:28:02Z",
@@ -111,26 +66,331 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-10-24T04:01:59Z",
           "instanceId": "17246566425"
+        }
+      ]
+    },
+    {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
+      "powerLevel": 487,
+      "lastPlayedTimestamp": 1792862191000,
+      "lastActivityTimestamp": 1792859878000,
+      "lastActivityText": "Nessus, Centauro Instabile il 24/10/2026 16:37",
+      "activities": [
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-10-24T16:37:58Z",
+          "instanceId": "17247381595"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-10-24T16:03:14Z",
+          "instanceId": "17247348863"
+        },
+        {
+          "name": "L'Oscura Sacerdotessa: Con matchmaking",
+          "period": "2026-10-24T15:35:17Z",
+          "instanceId": "17247288966"
+        },
+        {
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-10-24T14:53:14Z",
+          "instanceId": "17247229413"
+        },
+        {
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-10-24T14:39:42Z",
+          "instanceId": "17247210587"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-24T10:46:31Z",
+          "instanceId": "17246960151"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-24T10:34:58Z",
+          "instanceId": "17246950894"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-24T10:28:11Z",
+          "instanceId": "17246942007"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-23T11:38:21Z",
+          "instanceId": "17245333192"
+        },
+        {
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-10-22T12:40:35Z",
+          "instanceId": "17243886749"
+        }
+      ]
+    },
+    {
+      "displayName": "Lalla_Princii90#4028",
+      "membershipId": "4611686018530145706",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
+      "powerLevel": 391,
+      "lastPlayedTimestamp": 1792860519000,
+      "lastActivityTimestamp": 1792857794000,
+      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking il 24/10/2026 16:03",
+      "activities": [
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-10-24T16:03:14Z",
+          "instanceId": "17247348863"
+        },
+        {
+          "name": "L'Oscura Sacerdotessa: Con matchmaking",
+          "period": "2026-10-24T15:35:17Z",
+          "instanceId": "17247288966"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-10-23T22:47:57Z",
+          "instanceId": "17246113451"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-10-23T21:29:54Z",
+          "instanceId": "17246003107"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-23T21:18:57Z",
+          "instanceId": "17245998379"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-23T20:22:53Z",
+          "instanceId": "17245982741"
+        },
+        {
+          "name": "Metamorfosi: Maestro",
+          "period": "2026-10-23T20:15:24Z",
+          "instanceId": "17245901797"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-23T20:03:43Z",
+          "instanceId": "17245890822"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-23T19:01:17Z",
+          "instanceId": "17245874419"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-10-23T18:30:50Z",
+          "instanceId": "17245776066"
+        }
+      ]
+    },
+    {
+      "displayName": "Jhonny#3878",
+      "membershipId": "4611686018489632599",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1792857833000,
+      "lastActivityTimestamp": 1792857253000,
+      "lastActivityText": "Controllo: Con matchmaking il 24/10/2026 15:54",
+      "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-24T15:54:13Z",
+          "instanceId": "17247313733"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-24T15:40:04Z",
+          "instanceId": "17247286179"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-23T20:22:53Z",
+          "instanceId": "17245982741"
+        },
+        {
+          "name": "Metamorfosi: Maestro",
+          "period": "2026-10-23T20:15:24Z",
+          "instanceId": "17245901797"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-23T20:03:43Z",
+          "instanceId": "17245890822"
         },
         {
           "name": "La culla del male: Personalizzata",
-          "period": "2026-10-24T03:55:11Z",
-          "instanceId": "17246549722"
+          "period": "2026-10-23T19:22:11Z",
+          "instanceId": "17245843803"
         },
         {
-          "name": "La Fortezza Scarlatta: Personalizzata",
-          "period": "2026-10-21T22:57:38Z",
-          "instanceId": "17243097422"
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-23T19:01:17Z",
+          "instanceId": "17245874419"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Fortezza Scarlatta: Personalizzata",
+          "period": "2026-10-18T08:53:30Z",
+          "instanceId": "17236925092"
+        },
+        {
+          "name": "Vegliante del niente: Personalizzata",
+          "period": "2026-10-18T08:33:13Z",
+          "instanceId": "17236904378"
+        },
+        {
+          "name": "Vegliante del niente: Personalizzata",
+          "period": "2026-10-18T08:07:53Z",
+          "instanceId": "17236880123"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1792854629000,
+      "lastActivityTimestamp": 1792854530000,
+      "lastActivityText": "La Città Sognante il 24/10/2026 15:08",
+      "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-10-24T15:08:50Z",
+          "instanceId": "17247237919"
+        },
+        {
+          "name": "Riposo dell'Afelio: Maestro",
+          "period": "2026-10-24T14:57:28Z",
+          "instanceId": "17247234524"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-10-24T14:49:49Z",
+          "instanceId": "17247219048"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-10-23T10:52:47Z",
+          "instanceId": "17245301298"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-10-23T06:38:35Z",
+          "instanceId": "17245134894"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-10-23T05:57:15Z",
+          "instanceId": "17245101657"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-21T09:29:22Z",
+          "instanceId": "17242243717"
+        },
+        {
+          "name": "Metamorfosi: Maestro",
+          "period": "2026-10-21T09:19:46Z",
+          "instanceId": "17242242148"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-21T09:15:29Z",
+          "instanceId": "17242236461"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-10-21T08:13:37Z",
+          "instanceId": "17242207471"
+        }
+      ]
+    },
+    {
+      "displayName": "Ghost of Warlock#5159",
+      "membershipId": "4611686018513286564",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1792861770000,
+      "lastActivityTimestamp": 1792848454000,
+      "lastActivityText": "L'Oscura Sacerdotessa: Con matchmaking il 24/10/2026 13:27",
+      "activities": [
+        {
+          "name": "L'Oscura Sacerdotessa: Con matchmaking",
+          "period": "2026-10-24T13:27:34Z",
+          "instanceId": "17247117490"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-10-22T16:08:06Z",
+          "instanceId": "17244079755"
         },
         {
           "name": "Partita privata",
-          "period": "2026-10-21T22:45:59Z",
-          "instanceId": "17243065426"
+          "period": "2026-10-20T19:22:10Z",
+          "instanceId": "17241335334"
         },
         {
-          "name": "Partita privata",
-          "period": "2026-10-21T22:41:18Z",
-          "instanceId": "17243053355"
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-20T19:02:09Z",
+          "instanceId": "17241304535"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-20T18:45:47Z",
+          "instanceId": "17241285571"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-10-20T14:43:29Z",
+          "instanceId": "17241131238"
+        },
+        {
+          "name": "La corrotta: Con matchmaking",
+          "period": "2026-10-20T14:10:19Z",
+          "instanceId": "17241106173"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-10-18T15:43:16Z",
+          "instanceId": "17237442898"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-10-17T06:58:14Z",
+          "instanceId": "17234590838"
+        },
+        {
+          "name": "Vegliante del niente: Personalizzata",
+          "period": "2026-10-16T20:13:09Z",
+          "instanceId": "17233583638"
         }
       ]
     },
@@ -138,15 +398,20 @@
       "displayName": "Chimeras6w6#8598",
       "membershipId": "4611686018450626006",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/80f5aec4b03c7613d8628b7b7077b936.jpg",
-      "powerLevel": 522,
-      "lastPlayedTimestamp": 1792848618000,
-      "lastActivityTimestamp": 1792843656000,
-      "lastActivityText": "La radice degli incubi: Standard il 24/10/2026 12:07",
+      "powerLevel": 529,
+      "lastPlayedTimestamp": 1792849002000,
+      "lastActivityTimestamp": 1792845926000,
+      "lastActivityText": "Ultimo desiderio: Standard il 24/10/2026 12:45",
       "activities": [
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-10-24T12:45:26Z",
+          "instanceId": "17247209266"
+        },
         {
           "name": "La radice degli incubi: Standard",
           "period": "2026-10-24T12:07:36Z",
@@ -191,206 +456,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-10-21T07:09:41Z",
           "instanceId": "17242162799"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-10-21T06:46:17Z",
-          "instanceId": "17242146303"
-        }
-      ]
-    },
-    {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 485,
-      "lastPlayedTimestamp": 1792839805000,
-      "lastActivityTimestamp": 1792838791000,
-      "lastActivityText": "Controllo: Con matchmaking il 24/10/2026 10:46",
-      "activities": [
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-24T10:46:31Z",
-          "instanceId": "17246960151"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-24T10:34:58Z",
-          "instanceId": "17246950894"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-24T10:28:11Z",
-          "instanceId": "17246942007"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-23T11:38:21Z",
-          "instanceId": "17245333192"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-10-22T12:40:35Z",
-          "instanceId": "17243886749"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-10-22T12:24:06Z",
-          "instanceId": "17243871395"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-10-22T12:13:05Z",
-          "instanceId": "17243862790"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-10-22T12:04:43Z",
-          "instanceId": "17243856000"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-18T16:39:49Z",
-          "instanceId": "17237530243"
-        },
-        {
-          "name": "La culla del male",
-          "period": "2026-10-18T16:23:49Z",
-          "instanceId": "17237519356"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f18ea4bfaf4d0b405bc4b62c216f86b.jpg",
-      "powerLevel": 518,
-      "lastPlayedTimestamp": 1792838912000,
-      "lastActivityTimestamp": 1792836770000,
-      "lastActivityText": "L'Oscura Sacerdotessa: Con matchmaking il 24/10/2026 10:12",
-      "activities": [
-        {
-          "name": "L'Oscura Sacerdotessa: Con matchmaking",
-          "period": "2026-10-24T10:12:50Z",
-          "instanceId": "17246934648"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-10-24T09:17:38Z",
-          "instanceId": "17246907769"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-10-24T09:12:48Z",
-          "instanceId": "17246878512"
-        },
-        {
-          "name": "Iconoclastia: Normale",
-          "period": "2026-10-24T09:09:26Z",
-          "instanceId": "17246875916"
-        },
-        {
-          "name": "Il lungo inganno: Audace",
-          "period": "2026-05-29T18:15:16Z",
-          "instanceId": "16854445692"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Audace",
-          "period": "2026-05-26T15:30:53Z",
-          "instanceId": "16851429243"
-        },
-        {
-          "name": "Soli e al freddo: Audace",
-          "period": "2026-05-25T13:30:49Z",
-          "instanceId": "16850287473"
-        },
-        {
-          "name": "Il Relitto",
-          "period": "2026-05-23T08:37:48Z",
-          "instanceId": "16848104948"
-        },
-        {
-          "name": "Avamposto di Tharsis",
-          "period": "2026-05-23T08:25:52Z",
-          "instanceId": "16848101124"
-        },
-        {
-          "name": "Temibile aiutante: Audace",
-          "period": "2026-05-22T13:37:44Z",
-          "instanceId": "16847415966"
-        }
-      ]
-    },
-    {
-      "displayName": "Lalla_Princii90#4028",
-      "membershipId": "4611686018530145706",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
-      "powerLevel": 389,
-      "lastPlayedTimestamp": 1792848672000,
-      "lastActivityTimestamp": 1792795677000,
-      "lastActivityText": "Pallido Cuore il 23/10/2026 22:47",
-      "activities": [
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-10-23T22:47:57Z",
-          "instanceId": "17246113451"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-10-23T21:29:54Z",
-          "instanceId": "17246003107"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-23T21:18:57Z",
-          "instanceId": "17245998379"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-23T20:22:53Z",
-          "instanceId": "17245982741"
-        },
-        {
-          "name": "Metamorfosi: Maestro",
-          "period": "2026-10-23T20:15:24Z",
-          "instanceId": "17245901797"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-23T20:03:43Z",
-          "instanceId": "17245890822"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-23T19:01:17Z",
-          "instanceId": "17245874419"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-10-23T18:30:50Z",
-          "instanceId": "17245776066"
-        },
-        {
-          "name": "Alloggi Equipaggio R1: Esperto",
-          "period": "2026-10-23T18:23:35Z",
-          "instanceId": "17245749063"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-10-23T17:45:58Z",
-          "instanceId": "17245739694"
         }
       ]
     },
@@ -460,67 +525,67 @@
       ]
     },
     {
-      "displayName": "Jhonny#3878",
-      "membershipId": "4611686018489632599",
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1792790196000,
-      "lastActivityTimestamp": 1792786973000,
-      "lastActivityText": "Tronomondo di Savathûn il 23/10/2026 20:22",
+      "lastPlayedTimestamp": 1792862223000,
+      "lastActivityTimestamp": 1792778363000,
+      "lastActivityText": "La Tana dei Diavoli: Personalizzata il 23/10/2026 17:59",
       "activities": [
         {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-23T20:22:53Z",
-          "instanceId": "17245982741"
+          "name": "La Tana dei Diavoli: Personalizzata",
+          "period": "2026-10-23T17:59:23Z",
+          "instanceId": "17245747206"
         },
         {
-          "name": "Metamorfosi: Maestro",
-          "period": "2026-10-23T20:15:24Z",
-          "instanceId": "17245901797"
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-10-23T17:33:39Z",
+          "instanceId": "17245699941"
         },
         {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-23T20:03:43Z",
-          "instanceId": "17245890822"
+          "name": "Zona Morta Europea",
+          "period": "2026-10-23T17:19:34Z",
+          "instanceId": "17245675602"
+        },
+        {
+          "name": "La Guerriera: Personalizzata",
+          "period": "2026-10-23T16:43:31Z",
+          "instanceId": "17245642344"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-10-23T16:28:06Z",
+          "instanceId": "17245614351"
+        },
+        {
+          "name": "Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-10-23T16:20:08Z",
+          "instanceId": "17245596364"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-10-23T16:11:52Z",
+          "instanceId": "17245590833"
+        },
+        {
+          "name": "Equilibrio: Standard",
+          "period": "2026-10-23T15:42:15Z",
+          "instanceId": "17245581418"
+        },
+        {
+          "name": "La culla del male: Con matchmaking",
+          "period": "2026-10-23T15:38:09Z",
+          "instanceId": "17245545891"
         },
         {
           "name": "La culla del male: Personalizzata",
-          "period": "2026-10-23T19:22:11Z",
-          "instanceId": "17245843803"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-23T19:01:17Z",
-          "instanceId": "17245874419"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Fortezza Scarlatta: Personalizzata",
-          "period": "2026-10-18T08:53:30Z",
-          "instanceId": "17236925092"
-        },
-        {
-          "name": "Vegliante del niente: Personalizzata",
-          "period": "2026-10-18T08:33:13Z",
-          "instanceId": "17236904378"
-        },
-        {
-          "name": "Vegliante del niente: Personalizzata",
-          "period": "2026-10-18T08:07:53Z",
-          "instanceId": "17236880123"
-        },
-        {
-          "name": "Vegliante del niente: Personalizzata",
-          "period": "2026-10-16T20:13:09Z",
-          "instanceId": "17233583638"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-10-16T19:50:50Z",
-          "instanceId": "17233527262"
+          "period": "2026-10-22T15:52:16Z",
+          "instanceId": "17244085459"
         }
       ]
     },
@@ -651,71 +716,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-10-22T09:35:49Z",
           "instanceId": "17243762393"
-        }
-      ]
-    },
-    {
-      "displayName": "Ghost of Warlock#5159",
-      "membershipId": "4611686018513286564",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1792848644000,
-      "lastActivityTimestamp": 1792685286000,
-      "lastActivityText": "Luna il 22/10/2026 16:08",
-      "activities": [
-        {
-          "name": "Luna",
-          "period": "2026-10-22T16:08:06Z",
-          "instanceId": "17244079755"
-        },
-        {
-          "name": "Partita privata",
-          "period": "2026-10-20T19:22:10Z",
-          "instanceId": "17241335334"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-20T19:02:09Z",
-          "instanceId": "17241304535"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-20T18:45:47Z",
-          "instanceId": "17241285571"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-10-20T14:43:29Z",
-          "instanceId": "17241131238"
-        },
-        {
-          "name": "La corrotta: Con matchmaking",
-          "period": "2026-10-20T14:10:19Z",
-          "instanceId": "17241106173"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-10-18T15:43:16Z",
-          "instanceId": "17237442898"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-10-17T06:58:14Z",
-          "instanceId": "17234590838"
-        },
-        {
-          "name": "Vegliante del niente: Personalizzata",
-          "period": "2026-10-16T20:13:09Z",
-          "instanceId": "17233583638"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-10-16T19:50:50Z",
-          "instanceId": "17233527262"
         }
       ]
     },
