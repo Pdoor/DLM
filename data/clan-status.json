@@ -1,22 +1,107 @@
 {
-  "generatedAt": "2026-10-25T10:03:16.550Z",
+  "generatedAt": "2026-10-25T14:31:32.894Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "blacklove978#289",
+      "membershipId": "4611686018458832309",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8bde4cceae744ef8108f5a9bbd3c2738.jpg",
+      "powerLevel": 301,
+      "lastPlayedTimestamp": 1792926699000,
+      "lastActivityTimestamp": 1792925728000,
+      "lastActivityText": "Partita veloce: Normale il 25/10/2026 10:55",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-25T10:55:28Z",
+          "instanceId": "17248849241"
+        },
+        {
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-10-25T10:46:04Z",
+          "instanceId": "17248827494"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-10-24T16:51:23Z",
+          "instanceId": "17247385656"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-10-24T16:37:58Z",
+          "instanceId": "17247381595"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2025-07-23T12:27:52Z",
+          "instanceId": "16338089744"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2025-07-18T18:17:44Z",
+          "instanceId": "16310607068"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2025-07-18T18:09:14Z",
+          "instanceId": "16310497644"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2025-07-16T19:08:53Z",
+          "instanceId": "16297922692"
+        },
+        {
+          "name": "Missione: L'invito: Normale",
+          "period": "2025-07-16T17:40:39Z",
+          "instanceId": "16297427191"
+        },
+        {
+          "name": "Attivita sconosciuta",
+          "period": "2025-07-04T15:22:33Z",
+          "instanceId": "16256651403"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1792922517000,
-      "lastActivityTimestamp": 1792922048000,
-      "lastActivityText": "Nessus, Centauro Instabile il 25/10/2026 09:54",
+      "lastPlayedTimestamp": 1792938570000,
+      "lastActivityTimestamp": 1792925708000,
+      "lastActivityText": "La Città Sognante il 25/10/2026 10:55",
       "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-10-25T10:55:08Z",
+          "instanceId": "17248843588"
+        },
+        {
+          "name": "Baia dei Desideri Annegati: Maestro",
+          "period": "2026-10-25T10:42:29Z",
+          "instanceId": "17248834385"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-10-25T10:24:15Z",
+          "instanceId": "17248822962"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-10-25T10:01:22Z",
+          "instanceId": "17248806515"
+        },
         {
           "name": "Nessus, Centauro Instabile",
           "period": "2026-10-25T09:54:08Z",
@@ -46,26 +131,6 @@
           "name": "La Città Sognante",
           "period": "2026-10-24T14:49:49Z",
           "instanceId": "17247219048"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-10-23T10:52:47Z",
-          "instanceId": "17245301298"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-10-23T06:38:35Z",
-          "instanceId": "17245134894"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-10-23T05:57:15Z",
-          "instanceId": "17245101657"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-21T09:29:22Z",
-          "instanceId": "17242243717"
         }
       ]
     },
@@ -200,71 +265,6 @@
       ]
     },
     {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/0f4ea213cd83d5604c9e72657fd7b0ed.jpg",
-      "powerLevel": 487,
-      "lastPlayedTimestamp": 1792866063000,
-      "lastActivityTimestamp": 1792865074000,
-      "lastActivityText": "La lama di Luce: Personalizzata il 24/10/2026 18:04",
-      "activities": [
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-10-24T18:04:34Z",
-          "instanceId": "17247520314"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-10-24T17:45:03Z",
-          "instanceId": "17247489561"
-        },
-        {
-          "name": "Corte della Vedova: Con matchmaking",
-          "period": "2026-10-24T17:42:01Z",
-          "instanceId": "17247463996"
-        },
-        {
-          "name": "Logistica R1: Personalizzata",
-          "period": "2026-10-24T17:25:33Z",
-          "instanceId": "17247447927"
-        },
-        {
-          "name": "Logistica R1: Personalizzata",
-          "period": "2026-10-24T17:21:43Z",
-          "instanceId": "17247434287"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-10-24T16:37:58Z",
-          "instanceId": "17247381595"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-10-24T16:03:14Z",
-          "instanceId": "17247348863"
-        },
-        {
-          "name": "L'Oscura Sacerdotessa: Con matchmaking",
-          "period": "2026-10-24T15:35:17Z",
-          "instanceId": "17247288966"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-10-24T14:53:14Z",
-          "instanceId": "17247229413"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-10-24T14:39:42Z",
-          "instanceId": "17247210587"
-        }
-      ]
-    },
-    {
       "displayName": "zDanyRappa1849#857",
       "membershipId": "4611686018558268786",
       "bungieNetMembershipId": "",
@@ -391,71 +391,6 @@
           "name": "Equilibrio: Standard",
           "period": "2026-10-23T15:42:15Z",
           "instanceId": "17245581418"
-        }
-      ]
-    },
-    {
-      "displayName": "blacklove978#289",
-      "membershipId": "4611686018458832309",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8bde4cceae744ef8108f5a9bbd3c2738.jpg",
-      "powerLevel": 53,
-      "lastPlayedTimestamp": 1792860684000,
-      "lastActivityTimestamp": 1792860683000,
-      "lastActivityText": "Nessus, Centauro Instabile il 24/10/2026 16:51",
-      "activities": [
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-10-24T16:51:23Z",
-          "instanceId": "17247385656"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-10-24T16:37:58Z",
-          "instanceId": "17247381595"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2025-07-23T12:27:52Z",
-          "instanceId": "16338089744"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2025-07-18T18:17:44Z",
-          "instanceId": "16310607068"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2025-07-18T18:09:14Z",
-          "instanceId": "16310497644"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2025-07-16T19:08:53Z",
-          "instanceId": "16297922692"
-        },
-        {
-          "name": "Missione: L'invito: Normale",
-          "period": "2025-07-16T17:40:39Z",
-          "instanceId": "16297427191"
-        },
-        {
-          "name": "Attivita sconosciuta",
-          "period": "2025-07-04T15:22:33Z",
-          "instanceId": "16256651403"
-        },
-        {
-          "name": "Competitiva",
-          "period": "2025-03-29T14:03:49Z",
-          "instanceId": "16030435383"
-        },
-        {
-          "name": "Laboratorio delle Prove",
-          "period": "2025-03-29T09:50:39Z",
-          "instanceId": "16030040981"
         }
       ]
     },
@@ -593,12 +528,12 @@
       "displayName": "Chimeras6w6#8598",
       "membershipId": "4611686018450626006",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/80f5aec4b03c7613d8628b7b7077b936.jpg",
-      "powerLevel": 529,
-      "lastPlayedTimestamp": 1792849002000,
+      "powerLevel": 531,
+      "lastPlayedTimestamp": 1792938628000,
       "lastActivityTimestamp": 1792845926000,
       "lastActivityText": "Ultimo desiderio: Standard il 24/10/2026 12:45",
       "activities": [
@@ -2861,6 +2796,71 @@
           "name": "Missione: Saturnismo: Leggendaria",
           "period": "2025-07-22T21:02:51Z",
           "instanceId": "16335278824"
+        }
+      ]
+    },
+    {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Glorioso",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8fafb3bd178cab134a71ef87855c210c.jpg",
+      "powerLevel": 10,
+      "lastPlayedTimestamp": 1792938670000,
+      "lastActivityTimestamp": 1752420870000,
+      "lastActivityText": "Competitiva il 13/07/2025 15:34",
+      "activities": [
+        {
+          "name": "Competitiva",
+          "period": "2025-07-13T15:34:30Z",
+          "instanceId": "16282196294"
+        },
+        {
+          "name": "Competitiva",
+          "period": "2025-07-13T15:22:16Z",
+          "instanceId": "16282154537"
+        },
+        {
+          "name": "Competitiva",
+          "period": "2025-07-13T15:03:53Z",
+          "instanceId": "16282106360"
+        },
+        {
+          "name": "Competitiva",
+          "period": "2025-07-13T14:48:38Z",
+          "instanceId": "16282069233"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2025-07-13T11:54:11Z",
+          "instanceId": "16281723065"
+        },
+        {
+          "name": "Cala la Notte: Avanzata",
+          "period": "2025-06-27T20:57:08Z",
+          "instanceId": "16242444344"
+        },
+        {
+          "name": "Attivita sconosciuta",
+          "period": "2025-06-27T20:44:13Z",
+          "instanceId": "16242389288"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2025-03-28T14:36:24Z",
+          "instanceId": "16027774314"
+        },
+        {
+          "name": "Controllo",
+          "period": "2025-03-06T16:13:42Z",
+          "instanceId": "15964502403"
+        },
+        {
+          "name": "Controllo",
+          "period": "2025-03-06T16:01:20Z",
+          "instanceId": "15964478386"
         }
       ]
     }
