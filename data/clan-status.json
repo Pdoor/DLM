@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-10-25T05:11:20.911Z",
+  "generatedAt": "2026-10-25T10:03:16.550Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1792922517000,
+      "lastActivityTimestamp": 1792922048000,
+      "lastActivityText": "Nessus, Centauro Instabile il 25/10/2026 09:54",
+      "activities": [
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-10-25T09:54:08Z",
+          "instanceId": "17248786635"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-25T09:52:38Z",
+          "instanceId": "17248781266"
+        },
+        {
+          "name": "Sepolcro: Maestro",
+          "period": "2026-10-25T09:39:26Z",
+          "instanceId": "17248779750"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-10-24T15:08:50Z",
+          "instanceId": "17247237919"
+        },
+        {
+          "name": "Riposo dell'Afelio: Maestro",
+          "period": "2026-10-24T14:57:28Z",
+          "instanceId": "17247234524"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-10-24T14:49:49Z",
+          "instanceId": "17247219048"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-10-23T10:52:47Z",
+          "instanceId": "17245301298"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-10-23T06:38:35Z",
+          "instanceId": "17245134894"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-10-23T05:57:15Z",
+          "instanceId": "17245101657"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-21T09:29:22Z",
+          "instanceId": "17242243717"
+        }
+      ]
+    },
     {
       "displayName": "No TAG Jay#1042",
       "membershipId": "4611686018465064117",
@@ -456,71 +521,6 @@
           "name": "Vegliante del niente: Personalizzata",
           "period": "2026-10-18T08:07:53Z",
           "instanceId": "17236880123"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1792854629000,
-      "lastActivityTimestamp": 1792854530000,
-      "lastActivityText": "La Città Sognante il 24/10/2026 15:08",
-      "activities": [
-        {
-          "name": "La Città Sognante",
-          "period": "2026-10-24T15:08:50Z",
-          "instanceId": "17247237919"
-        },
-        {
-          "name": "Riposo dell'Afelio: Maestro",
-          "period": "2026-10-24T14:57:28Z",
-          "instanceId": "17247234524"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-10-24T14:49:49Z",
-          "instanceId": "17247219048"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-10-23T10:52:47Z",
-          "instanceId": "17245301298"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-10-23T06:38:35Z",
-          "instanceId": "17245134894"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-10-23T05:57:15Z",
-          "instanceId": "17245101657"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-21T09:29:22Z",
-          "instanceId": "17242243717"
-        },
-        {
-          "name": "Metamorfosi: Maestro",
-          "period": "2026-10-21T09:19:46Z",
-          "instanceId": "17242242148"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-21T09:15:29Z",
-          "instanceId": "17242236461"
-        },
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-10-21T08:13:37Z",
-          "instanceId": "17242207471"
         }
       ]
     },
