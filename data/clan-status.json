@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T18:17:25.442Z",
+  "generatedAt": "2026-10-25T21:08:27.941Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,30 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1792952236000,
-      "lastActivityTimestamp": 1792947608000,
-      "lastActivityText": "Campi di battaglia: Colosso: Personalizzata il 25/10/2026 17:00",
+      "lastPlayedTimestamp": 1792955359000,
+      "lastActivityTimestamp": 1792954273000,
+      "lastActivityText": "Il Ponte di Vetro: Personalizzata il 25/10/2026 18:51",
       "activities": [
+        {
+          "name": "Il Ponte di Vetro: Personalizzata",
+          "period": "2026-10-25T18:51:13Z",
+          "instanceId": "17249498494"
+        },
+        {
+          "name": "La disonorata",
+          "period": "2026-10-25T18:34:57Z",
+          "instanceId": "17249465114"
+        },
+        {
+          "name": "La Tana dei Diavoli",
+          "period": "2026-10-25T18:18:31Z",
+          "instanceId": "17249433896"
+        },
         {
           "name": "Campi di battaglia: Colosso: Personalizzata",
           "period": "2026-10-25T17:00:08Z",
@@ -51,21 +66,6 @@
           "name": "La Tana dei Diavoli: Personalizzata",
           "period": "2026-10-23T17:59:23Z",
           "instanceId": "17245747206"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-10-23T17:33:39Z",
-          "instanceId": "17245699941"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-10-23T17:19:34Z",
-          "instanceId": "17245675602"
-        },
-        {
-          "name": "La Guerriera: Personalizzata",
-          "period": "2026-10-23T16:43:31Z",
-          "instanceId": "17245642344"
         }
       ]
     },
