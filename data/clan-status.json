@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-10-27T05:26:39.610Z",
+  "generatedAt": "2026-10-27T10:51:04.515Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "AUDACE",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/28897ceb9bc382ebd54324473dbe33a5.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1793098221000,
+      "lastActivityTimestamp": 1793095228000,
+      "lastActivityText": "La fine di Crota: Standard il 27/10/2026 10:00",
+      "activities": [
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-10-27T10:00:28Z",
+          "instanceId": "17252120103"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-10-27T09:32:47Z",
+          "instanceId": "17252100057"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-10-27T07:58:16Z",
+          "instanceId": "17252052827"
+        },
+        {
+          "name": "Volta di Vetro: Maestro",
+          "period": "2026-10-26T17:13:53Z",
+          "instanceId": "17250997268"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-10-26T16:31:13Z",
+          "instanceId": "17250987654"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-10-26T10:52:22Z",
+          "instanceId": "17250681302"
+        },
+        {
+          "name": "La lama di Luce: Con matchmaking",
+          "period": "2026-10-26T10:26:53Z",
+          "instanceId": "17250655786"
+        },
+        {
+          "name": "Ora zero: Personalizzata",
+          "period": "2026-10-26T08:06:36Z",
+          "instanceId": "17250626978"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-10-25T07:44:36Z",
+          "instanceId": "17248682367"
+        },
+        {
+          "name": "Vegliante del niente: Con matchmaking",
+          "period": "2026-10-25T07:21:25Z",
+          "instanceId": "17248662014"
+        }
+      ]
+    },
     {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
@@ -66,71 +131,6 @@
           "name": "Campi di battaglia: Colosso: Personalizzata",
           "period": "2026-10-25T17:00:08Z",
           "instanceId": "17249315549"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1793041368000,
-      "lastActivityTimestamp": 1793038943000,
-      "lastActivityText": "Terreni di Prova: Personalizzata il 26/10/2026 18:22",
-      "activities": [
-        {
-          "name": "Terreni di Prova: Personalizzata",
-          "period": "2026-10-26T18:22:23Z",
-          "instanceId": "17251089300"
-        },
-        {
-          "name": "Campi di battaglia: Nucleo: Personalizzata",
-          "period": "2026-10-26T18:05:07Z",
-          "instanceId": "17251069966"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-10-26T17:54:41Z",
-          "instanceId": "17251048877"
-        },
-        {
-          "name": "Morsa della cupidigia: Maestro",
-          "period": "2026-10-26T13:20:55Z",
-          "instanceId": "17250785742"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-10-24T14:13:18Z",
-          "instanceId": "17247183750"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-10-24T14:03:16Z",
-          "instanceId": "17247159566"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-10-24T13:24:53Z",
-          "instanceId": "17247121792"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-10-24T13:02:51Z",
-          "instanceId": "17247104316"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-10-24T12:56:59Z",
-          "instanceId": "17247074701"
-        },
-        {
-          "name": "La culla del male: Con matchmaking",
-          "period": "2026-10-22T18:40:36Z",
-          "instanceId": "17244250749"
         }
       ]
     },
