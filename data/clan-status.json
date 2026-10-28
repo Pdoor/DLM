@@ -1,22 +1,92 @@
 {
-  "generatedAt": "2026-10-28T19:01:22.955Z",
+  "generatedAt": "2026-10-28T23:26:15.742Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "TheAnOnymous166#8849",
+      "membershipId": "4611686018528729550",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Pasticcera stellare",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1793221014000,
+      "lastActivityTimestamp": 1793220419000,
+      "lastActivityText": "Cosmodromo il 28/10/2026 20:46",
+      "activities": [
+        {
+          "name": "Cosmodromo",
+          "period": "2026-10-28T20:46:59Z",
+          "instanceId": "17254259450"
+        },
+        {
+          "name": "Sfide dell'Eternità: Standard",
+          "period": "2026-10-28T20:28:13Z",
+          "instanceId": "17254238739"
+        },
+        {
+          "name": "Sfide dell'Eternità: Standard",
+          "period": "2026-10-28T20:15:44Z",
+          "instanceId": "17254220537"
+        },
+        {
+          "name": "Fuoco e ghiaccio: Leggendaria",
+          "period": "2026-10-17T16:26:18Z",
+          "instanceId": "17235312458"
+        },
+        {
+          "name": "L'astuta: Normale",
+          "period": "2026-10-17T14:50:31Z",
+          "instanceId": "17235120498"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-17T14:04:27Z",
+          "instanceId": "17235055029"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-10-15T17:02:37Z",
+          "instanceId": "17231513245"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-10-15T16:42:15Z",
+          "instanceId": "17231504278"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-26T12:57:06Z",
+          "instanceId": "17090119490"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-26T12:54:32Z",
+          "instanceId": "17090114961"
+        }
+      ]
+    },
+    {
       "displayName": "blacklove978#289",
       "membershipId": "4611686018458832309",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/f187e278dee90244b5ca2b67bf104057.png",
       "powerLevel": 305,
       "lastPlayedTimestamp": 1793214008000,
-      "lastActivityTimestamp": 1793213186000,
-      "lastActivityText": "Europa il 28/10/2026 18:46",
+      "lastActivityTimestamp": 1793213667000,
+      "lastActivityText": "Perdizione: Esperto il 28/10/2026 18:54",
       "activities": [
+        {
+          "name": "Perdizione: Esperto",
+          "period": "2026-10-28T18:54:27Z",
+          "instanceId": "17254114264"
+        },
         {
           "name": "Europa",
           "period": "2026-10-28T18:46:26Z",
@@ -43,6 +113,11 @@
           "instanceId": "17254083255"
         },
         {
+          "name": "Soglia dell'Oscurità",
+          "period": "2026-10-28T18:28:55Z",
+          "instanceId": "17254396608"
+        },
+        {
           "name": "Benvenuti alla Frontiera: Normale",
           "period": "2026-10-28T18:11:50Z",
           "instanceId": "17254063044"
@@ -56,16 +131,6 @@
           "name": "Impero: Audace",
           "period": "2026-10-27T18:48:22Z",
           "instanceId": "17252626875"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-25T15:53:49Z",
-          "instanceId": "17249183782"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-10-25T15:34:55Z",
-          "instanceId": "17249162865"
         }
       ]
     },
@@ -976,71 +1041,6 @@
           "name": "La corrotta: Con matchmaking",
           "period": "2026-06-25T05:44:24Z",
           "instanceId": "16969529540"
-        }
-      ]
-    },
-    {
-      "displayName": "TheAnOnymous166#8849",
-      "membershipId": "4611686018528729550",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Pasticcera stellare",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1792263684000,
-      "lastActivityTimestamp": 1792254378000,
-      "lastActivityText": "Fuoco e ghiaccio: Leggendaria il 17/10/2026 16:26",
-      "activities": [
-        {
-          "name": "Fuoco e ghiaccio: Leggendaria",
-          "period": "2026-10-17T16:26:18Z",
-          "instanceId": "17235312458"
-        },
-        {
-          "name": "L'astuta: Normale",
-          "period": "2026-10-17T14:50:31Z",
-          "instanceId": "17235120498"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-17T14:04:27Z",
-          "instanceId": "17235055029"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-10-15T17:02:37Z",
-          "instanceId": "17231513245"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-10-15T16:42:15Z",
-          "instanceId": "17231504278"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-26T12:57:06Z",
-          "instanceId": "17090119490"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-26T12:54:32Z",
-          "instanceId": "17090114961"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-26T12:48:34Z",
-          "instanceId": "17090109557"
-        },
-        {
-          "name": "Palude Selina, Venere: Contrabbando: Con matchmaking",
-          "period": "2026-07-26T12:02:31Z",
-          "instanceId": "17090044610"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-07-26T11:52:37Z",
-          "instanceId": "17090005447"
         }
       ]
     },
