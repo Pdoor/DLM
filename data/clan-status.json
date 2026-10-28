@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T20:52:35.972Z",
+  "generatedAt": "2026-10-28T00:21:16.078Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,30 @@
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 500,
-      "lastPlayedTimestamp": 1793134281000,
-      "lastActivityTimestamp": 1793133336000,
-      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata il 27/10/2026 20:35",
+      "powerLevel": 501,
+      "lastPlayedTimestamp": 1793136034000,
+      "lastActivityTimestamp": 1793135235000,
+      "lastActivityText": "Partita veloce: Normale il 27/10/2026 21:07",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-27T21:07:15Z",
+          "instanceId": "17252777748"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-27T20:55:13Z",
+          "instanceId": "17252759275"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-27T20:45:53Z",
+          "instanceId": "17252741997"
+        },
         {
           "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
           "period": "2026-10-27T20:35:36Z",
@@ -51,21 +66,6 @@
           "name": "Fortezza: Con matchmaking",
           "period": "2026-10-23T20:49:35Z",
           "instanceId": "17245952714"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-10-23T20:37:47Z",
-          "instanceId": "17245942112"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-10-23T20:23:46Z",
-          "instanceId": "17245920737"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-10-23T14:31:40Z",
-          "instanceId": "17245507265"
         }
       ]
     },
