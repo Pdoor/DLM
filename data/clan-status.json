@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-10-29T02:43:42.610Z",
+  "generatedAt": "2026-10-29T09:41:01.898Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1793259462000,
+      "lastActivityTimestamp": 1793257919000,
+      "lastActivityText": "Corrente dell'iper-rete: Con matchmaking il 29/10/2026 07:11",
+      "activities": [
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-10-29T07:11:59Z",
+          "instanceId": "17255013467"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-10-28T17:25:39Z",
+          "instanceId": "17254000712"
+        },
+        {
+          "name": "Profondo Dimenticato: Esperto",
+          "period": "2026-10-28T17:12:18Z",
+          "instanceId": "17253995242"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-10-28T16:58:39Z",
+          "instanceId": "17253980558"
+        },
+        {
+          "name": "Regine - Parte I",
+          "period": "2026-10-28T16:57:23Z",
+          "instanceId": "17253965832"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-10-28T16:54:13Z",
+          "instanceId": "17253964830"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-10-28T15:56:58Z",
+          "instanceId": "17253920445"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-10-28T15:49:35Z",
+          "instanceId": "17253901523"
+        },
+        {
+          "name": "L'Oscura Sacerdotessa: Con matchmaking",
+          "period": "2026-10-28T15:36:11Z",
+          "instanceId": "17253894013"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-10-28T15:32:41Z",
+          "instanceId": "17253880892"
+        }
+      ]
+    },
     {
       "displayName": "TheAnOnymous166#8849",
       "membershipId": "4611686018528729550",
@@ -261,71 +326,6 @@
           "name": "L'Oscura Sacerdotessa: Con matchmaking",
           "period": "2026-10-28T15:36:11Z",
           "instanceId": "17253894013"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1793208360000,
-      "lastActivityTimestamp": 1793208339000,
-      "lastActivityText": "Pallido Cuore il 28/10/2026 17:25",
-      "activities": [
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-10-28T17:25:39Z",
-          "instanceId": "17254000712"
-        },
-        {
-          "name": "Profondo Dimenticato: Esperto",
-          "period": "2026-10-28T17:12:18Z",
-          "instanceId": "17253995242"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-10-28T16:58:39Z",
-          "instanceId": "17253980558"
-        },
-        {
-          "name": "Regine - Parte I",
-          "period": "2026-10-28T16:57:23Z",
-          "instanceId": "17253965832"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-10-28T16:54:13Z",
-          "instanceId": "17253964830"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-10-28T15:56:58Z",
-          "instanceId": "17253920445"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-10-28T15:49:35Z",
-          "instanceId": "17253901523"
-        },
-        {
-          "name": "L'Oscura Sacerdotessa: Con matchmaking",
-          "period": "2026-10-28T15:36:11Z",
-          "instanceId": "17253894013"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-10-28T15:32:41Z",
-          "instanceId": "17253880892"
-        },
-        {
-          "name": "Baia dei Desideri Annegati: Maestro",
-          "period": "2026-10-28T15:23:46Z",
-          "instanceId": "17253878491"
         }
       ]
     },
