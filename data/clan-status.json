@@ -1,22 +1,112 @@
 {
-  "generatedAt": "2026-10-29T16:47:06.612Z",
+  "generatedAt": "2026-10-29T21:41:20.428Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "TheAnOnymous166#8849",
+      "membershipId": "4611686018528729550",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Pasticcera stellare",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1793309159000,
+      "lastActivityTimestamp": 1793308655000,
+      "lastActivityText": "Nessus, Centauro Instabile il 29/10/2026 21:17",
+      "activities": [
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-10-29T21:17:35Z",
+          "instanceId": "17255743818"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-10-29T21:10:28Z",
+          "instanceId": "17255732724"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-10-29T20:51:58Z",
+          "instanceId": "17255720632"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-10-29T20:47:22Z",
+          "instanceId": "17255700666"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-10-29T20:46:03Z",
+          "instanceId": "17255696025"
+        },
+        {
+          "name": "Giardini Exodus 2A: Esperto",
+          "period": "2026-10-29T20:39:22Z",
+          "instanceId": "17255694008"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-10-29T20:16:54Z",
+          "instanceId": "17255685736"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-10-29T20:10:37Z",
+          "instanceId": "17255656462"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-10-29T19:48:39Z",
+          "instanceId": "17255647349"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-10-29T19:45:07Z",
+          "instanceId": "17255620009"
+        }
+      ]
+    },
+    {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1793292259000,
-      "lastActivityTimestamp": 1793291965000,
-      "lastActivityText": "Profezia il 29/10/2026 16:39",
+      "lastPlayedTimestamp": 1793301694000,
+      "lastActivityTimestamp": 1793300865000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 29/10/2026 19:07",
       "activities": [
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-10-29T19:07:45Z",
+          "instanceId": "17255587536"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-10-29T18:36:57Z",
+          "instanceId": "17255544600"
+        },
+        {
+          "name": "Primo contatto: Leggendaria",
+          "period": "2026-10-29T18:30:11Z",
+          "instanceId": "17255532757"
+        },
+        {
+          "name": "Primo contatto: Leggendaria",
+          "period": "2026-10-29T18:08:38Z",
+          "instanceId": "17255525302"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-10-29T16:52:29Z",
+          "instanceId": "17255440477"
+        },
         {
           "name": "Profezia",
           "period": "2026-10-29T16:39:25Z",
@@ -41,31 +131,71 @@
           "name": "La disonorata: Con matchmaking",
           "period": "2026-10-28T16:50:41Z",
           "instanceId": "17253969054"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "AUDACE",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/28897ceb9bc382ebd54324473dbe33a5.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1793301328000,
+      "lastActivityTimestamp": 1793300306000,
+      "lastActivityText": "Trafficante d'armi: Con matchmaking il 29/10/2026 18:58",
+      "activities": [
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-10-29T18:58:26Z",
+          "instanceId": "17255579450"
         },
         {
-          "name": "Soli e al freddo: Audace",
-          "period": "2026-10-28T16:11:42Z",
-          "instanceId": "17253935560"
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-10-29T18:46:15Z",
+          "instanceId": "17255564554"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-10-29T16:58:51Z",
+          "instanceId": "17255467459"
+        },
+        {
+          "name": "L'Oscura Sacerdotessa: Con matchmaking",
+          "period": "2026-10-28T09:37:13Z",
+          "instanceId": "17253618590"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-10-28T09:09:35Z",
+          "instanceId": "17253604534"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-10-28T08:43:58Z",
+          "instanceId": "17253587858"
+        },
+        {
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-10-28T08:30:32Z",
+          "instanceId": "17253580489"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-10-27T19:21:08Z",
+          "instanceId": "17252619905"
+        },
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-10-27T19:03:28Z",
+          "instanceId": "17252610336"
         },
         {
           "name": "La Città Sognante",
           "period": "2026-10-27T18:32:04Z",
           "instanceId": "17252587389"
-        },
-        {
-          "name": "Il Tecnocrate: Con matchmaking",
-          "period": "2026-10-27T17:01:04Z",
-          "instanceId": "17252454592"
-        },
-        {
-          "name": "Campi di battaglia: Condotto: Con matchmaking",
-          "period": "2026-10-27T16:40:56Z",
-          "instanceId": "17252437423"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Leggendaria",
-          "period": "2026-10-27T16:06:49Z",
-          "instanceId": "17252435955"
         }
       ]
     },
@@ -77,11 +207,16 @@
       "className": "Stregoni",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/955fbe42258e60e268b1cf60e310d05e.jpg",
-      "powerLevel": 528,
-      "lastPlayedTimestamp": 1793290212000,
-      "lastActivityTimestamp": 1793288500000,
-      "lastActivityText": "Pallido Cuore il 29/10/2026 15:41",
+      "powerLevel": 537,
+      "lastPlayedTimestamp": 1793295637000,
+      "lastActivityTimestamp": 1793293131000,
+      "lastActivityText": "Pallido Cuore il 29/10/2026 16:58",
       "activities": [
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-10-29T16:58:51Z",
+          "instanceId": "17255467459"
+        },
         {
           "name": "Pallido Cuore",
           "period": "2026-10-29T15:41:40Z",
@@ -126,11 +261,6 @@
           "name": "Pallido Cuore",
           "period": "2026-10-28T16:54:13Z",
           "instanceId": "17253964830"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-10-28T15:56:58Z",
-          "instanceId": "17253920445"
         }
       ]
     },
@@ -261,136 +391,6 @@
           "name": "Europa",
           "period": "2026-10-23T21:29:54Z",
           "instanceId": "17246003107"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1793291534000,
-      "lastActivityTimestamp": 1793285852000,
-      "lastActivityText": "Conquista modalità esperto: Luna: Personalizzata il 29/10/2026 14:57",
-      "activities": [
-        {
-          "name": "Conquista modalità esperto: Luna: Personalizzata",
-          "period": "2026-10-29T14:57:32Z",
-          "instanceId": "17255324863"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-10-29T14:31:52Z",
-          "instanceId": "17255300926"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-10-29T14:17:13Z",
-          "instanceId": "17255284773"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-10-29T13:53:43Z",
-          "instanceId": "17255272241"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Con matchmaking",
-          "period": "2026-10-29T12:25:49Z",
-          "instanceId": "17255199576"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-10-29T07:11:59Z",
-          "instanceId": "17255013467"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-10-28T17:25:39Z",
-          "instanceId": "17254000712"
-        },
-        {
-          "name": "Profondo Dimenticato: Esperto",
-          "period": "2026-10-28T17:12:18Z",
-          "instanceId": "17253995242"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-10-28T16:58:39Z",
-          "instanceId": "17253980558"
-        },
-        {
-          "name": "Regine - Parte I",
-          "period": "2026-10-28T16:57:23Z",
-          "instanceId": "17253965832"
-        }
-      ]
-    },
-    {
-      "displayName": "TheAnOnymous166#8849",
-      "membershipId": "4611686018528729550",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Pasticcera stellare",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1793221014000,
-      "lastActivityTimestamp": 1793220419000,
-      "lastActivityText": "Cosmodromo il 28/10/2026 20:46",
-      "activities": [
-        {
-          "name": "Cosmodromo",
-          "period": "2026-10-28T20:46:59Z",
-          "instanceId": "17254259450"
-        },
-        {
-          "name": "Sfide dell'Eternità: Standard",
-          "period": "2026-10-28T20:28:13Z",
-          "instanceId": "17254238739"
-        },
-        {
-          "name": "Sfide dell'Eternità: Standard",
-          "period": "2026-10-28T20:15:44Z",
-          "instanceId": "17254220537"
-        },
-        {
-          "name": "Fuoco e ghiaccio: Leggendaria",
-          "period": "2026-10-17T16:26:18Z",
-          "instanceId": "17235312458"
-        },
-        {
-          "name": "L'astuta: Normale",
-          "period": "2026-10-17T14:50:31Z",
-          "instanceId": "17235120498"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-17T14:04:27Z",
-          "instanceId": "17235055029"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-10-15T17:02:37Z",
-          "instanceId": "17231513245"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-10-15T16:42:15Z",
-          "instanceId": "17231504278"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-26T12:57:06Z",
-          "instanceId": "17090119490"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-26T12:54:32Z",
-          "instanceId": "17090114961"
         }
       ]
     },
@@ -663,7 +663,7 @@
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 547,
-      "lastPlayedTimestamp": 1793120547000,
+      "lastPlayedTimestamp": 1793293353000,
       "lastActivityTimestamp": 1792944748000,
       "lastActivityText": "Controllo: Con matchmaking il 25/10/2026 16:12",
       "activities": [
@@ -1313,7 +1313,7 @@
       "title": "Flagello di Riven",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1790086860000,
+      "lastPlayedTimestamp": 1793299418000,
       "lastActivityTimestamp": 1790086447000,
       "lastActivityText": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata il 22/09/2026 14:14",
       "activities": [
