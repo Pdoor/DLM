@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-10-30T01:45:27.256Z",
+  "generatedAt": "2026-10-30T08:22:35.822Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "AUDACE",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/28897ceb9bc382ebd54324473dbe33a5.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1793348355000,
+      "lastActivityTimestamp": 1793347328000,
+      "lastActivityText": "Trafficante d'armi: Con matchmaking il 30/10/2026 08:02",
+      "activities": [
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-10-30T08:02:08Z",
+          "instanceId": "17256445790"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-10-30T07:28:40Z",
+          "instanceId": "17256429053"
+        },
+        {
+          "name": "Campi di battaglia: Discesa: Con matchmaking",
+          "period": "2026-10-30T06:36:56Z",
+          "instanceId": "17256403569"
+        },
+        {
+          "name": "Trafficante d'armi: Con matchmaking",
+          "period": "2026-10-29T18:58:26Z",
+          "instanceId": "17255579450"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-10-29T18:46:15Z",
+          "instanceId": "17255564554"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-10-29T16:58:51Z",
+          "instanceId": "17255467459"
+        },
+        {
+          "name": "L'Oscura Sacerdotessa: Con matchmaking",
+          "period": "2026-10-28T09:37:13Z",
+          "instanceId": "17253618590"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
+          "period": "2026-10-28T09:09:35Z",
+          "instanceId": "17253604534"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-10-28T08:43:58Z",
+          "instanceId": "17253587858"
+        },
+        {
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-10-28T08:30:32Z",
+          "instanceId": "17253580489"
+        }
+      ]
+    },
     {
       "displayName": "TheAnOnymous166#8849",
       "membershipId": "4611686018528729550",
@@ -131,71 +196,6 @@
           "name": "La disonorata: Con matchmaking",
           "period": "2026-10-28T16:50:41Z",
           "instanceId": "17253969054"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "AUDACE",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/28897ceb9bc382ebd54324473dbe33a5.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1793301328000,
-      "lastActivityTimestamp": 1793300306000,
-      "lastActivityText": "Trafficante d'armi: Con matchmaking il 29/10/2026 18:58",
-      "activities": [
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-10-29T18:58:26Z",
-          "instanceId": "17255579450"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-10-29T18:46:15Z",
-          "instanceId": "17255564554"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-10-29T16:58:51Z",
-          "instanceId": "17255467459"
-        },
-        {
-          "name": "L'Oscura Sacerdotessa: Con matchmaking",
-          "period": "2026-10-28T09:37:13Z",
-          "instanceId": "17253618590"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-10-28T09:09:35Z",
-          "instanceId": "17253604534"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-10-28T08:43:58Z",
-          "instanceId": "17253587858"
-        },
-        {
-          "name": "Conquista modalità esperto: Luna: Personalizzata",
-          "period": "2026-10-28T08:30:32Z",
-          "instanceId": "17253580489"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-10-27T19:21:08Z",
-          "instanceId": "17252619905"
-        },
-        {
-          "name": "Morsa della cupidigia: Standard",
-          "period": "2026-10-27T19:03:28Z",
-          "instanceId": "17252610336"
-        },
-        {
-          "name": "La Città Sognante",
-          "period": "2026-10-27T18:32:04Z",
-          "instanceId": "17252587389"
         }
       ]
     },
