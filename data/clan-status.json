@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T20:02:01.438Z",
+  "generatedAt": "2026-10-30T23:58:45.819Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,55 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/b5acad0407969f5d42dcfe0fa28778d9.jpg",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/55a2f41a0bf4b3383d38fe9398e2911b.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1793385996000,
-      "lastActivityTimestamp": 1793385066000,
-      "lastActivityText": "Conquista modalità gran maestro: Eliostato: Personalizzata il 30/10/2026 18:31",
+      "lastPlayedTimestamp": 1793404676000,
+      "lastActivityTimestamp": 1793401935000,
+      "lastActivityText": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata il 30/10/2026 23:12",
       "activities": [
+        {
+          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
+          "period": "2026-10-30T23:12:15Z",
+          "instanceId": "17257367755"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Fortezza Scarlatta: Personalizzata",
+          "period": "2026-10-30T22:45:53Z",
+          "instanceId": "17257341373"
+        },
+        {
+          "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
+          "period": "2026-10-30T22:33:30Z",
+          "instanceId": "17257310383"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata",
+          "period": "2026-10-30T22:11:02Z",
+          "instanceId": "17257291228"
+        },
+        {
+          "name": "Osservatorio Celeste: Personalizzata",
+          "period": "2026-10-30T21:52:00Z",
+          "instanceId": "17257251459"
+        },
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-10-30T21:49:12Z",
+          "instanceId": "17257230641"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
+          "period": "2026-10-30T21:11:51Z",
+          "instanceId": "17257217043"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
+          "period": "2026-10-30T20:42:08Z",
+          "instanceId": "17257171068"
+        },
         {
           "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
           "period": "2026-10-30T18:31:06Z",
@@ -26,46 +66,71 @@
           "name": "Campo di battaglia Colpo: Luna: Personalizzata",
           "period": "2026-10-30T17:41:22Z",
           "instanceId": "17256926287"
+        }
+      ]
+    },
+    {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
+      "powerLevel": 494,
+      "lastPlayedTimestamp": 1793396663000,
+      "lastActivityTimestamp": 1793395805000,
+      "lastActivityText": "Partita veloce: Normale il 30/10/2026 21:30",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-30T21:30:05Z",
+          "instanceId": "17257222436"
         },
         {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-10-30T17:30:16Z",
-          "instanceId": "17256895899"
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-27T21:07:15Z",
+          "instanceId": "17252777748"
         },
         {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-10-30T17:02:12Z",
-          "instanceId": "17256881660"
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-27T20:55:13Z",
+          "instanceId": "17252759275"
         },
         {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-10-30T16:41:12Z",
-          "instanceId": "17256849845"
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-27T20:45:53Z",
+          "instanceId": "17252741997"
         },
         {
-          "name": "Gloria futura: Leggendaria",
-          "period": "2026-10-30T16:04:12Z",
-          "instanceId": "17256805465"
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-10-27T20:35:36Z",
+          "instanceId": "17252719864"
         },
         {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-10-29T19:07:45Z",
-          "instanceId": "17255587536"
+          "name": "Poligono di Tiro",
+          "period": "2026-10-27T20:23:05Z",
+          "instanceId": "17252713391"
         },
         {
-          "name": "Neomuna",
-          "period": "2026-10-29T18:36:57Z",
-          "instanceId": "17255544600"
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-10-23T21:32:02Z",
+          "instanceId": "17246020074"
         },
         {
-          "name": "Primo contatto: Leggendaria",
-          "period": "2026-10-29T18:30:11Z",
-          "instanceId": "17255532757"
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-10-23T21:18:06Z",
+          "instanceId": "17245998648"
         },
         {
-          "name": "Primo contatto: Leggendaria",
-          "period": "2026-10-29T18:08:38Z",
-          "instanceId": "17255525302"
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-10-23T21:06:40Z",
+          "instanceId": "17245979034"
+        },
+        {
+          "name": "Fortezza: Con matchmaking",
+          "period": "2026-10-23T20:55:11Z",
+          "instanceId": "17245962415"
         }
       ]
     },
@@ -586,71 +651,6 @@
           "name": "Impero: Audace",
           "period": "2026-10-27T18:48:22Z",
           "instanceId": "17252626875"
-        }
-      ]
-    },
-    {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/6708ef4f64f1a296d40b6af7a4e330de.jpg",
-      "powerLevel": 501,
-      "lastPlayedTimestamp": 1793389195000,
-      "lastActivityTimestamp": 1793135235000,
-      "lastActivityText": "Partita veloce: Normale il 27/10/2026 21:07",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-10-27T21:07:15Z",
-          "instanceId": "17252777748"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-10-27T20:55:13Z",
-          "instanceId": "17252759275"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-10-27T20:45:53Z",
-          "instanceId": "17252741997"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
-          "period": "2026-10-27T20:35:36Z",
-          "instanceId": "17252719864"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-10-27T20:23:05Z",
-          "instanceId": "17252713391"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-10-23T21:32:02Z",
-          "instanceId": "17246020074"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-10-23T21:18:06Z",
-          "instanceId": "17245998648"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-10-23T21:06:40Z",
-          "instanceId": "17245979034"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-10-23T20:55:11Z",
-          "instanceId": "17245962415"
-        },
-        {
-          "name": "Fortezza: Con matchmaking",
-          "period": "2026-10-23T20:49:35Z",
-          "instanceId": "17245952714"
         }
       ]
     },
