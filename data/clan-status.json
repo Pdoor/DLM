@@ -1,71 +1,266 @@
 {
-  "generatedAt": "2026-10-30T08:22:35.822Z",
+  "generatedAt": "2026-10-30T15:13:51.923Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
       "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "AUDACE",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/28897ceb9bc382ebd54324473dbe33a5.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1793348355000,
-      "lastActivityTimestamp": 1793347328000,
-      "lastActivityText": "Trafficante d'armi: Con matchmaking il 30/10/2026 08:02",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/955fbe42258e60e268b1cf60e310d05e.jpg",
+      "powerLevel": 503,
+      "lastPlayedTimestamp": 1793371512000,
+      "lastActivityTimestamp": 1793370711000,
+      "lastActivityText": "Partita veloce: maestro: Maestro il 30/10/2026 14:31",
       "activities": [
         {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-10-30T08:02:08Z",
-          "instanceId": "17256445790"
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-10-30T14:31:51Z",
+          "instanceId": "17256706298"
         },
         {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-10-30T07:28:40Z",
-          "instanceId": "17256429053"
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-10-30T11:35:27Z",
+          "instanceId": "17256568492"
         },
         {
-          "name": "Campi di battaglia: Discesa: Con matchmaking",
-          "period": "2026-10-30T06:36:56Z",
-          "instanceId": "17256403569"
-        },
-        {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-10-29T18:58:26Z",
-          "instanceId": "17255579450"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-10-29T18:46:15Z",
-          "instanceId": "17255564554"
+          "name": "Neomuna",
+          "period": "2026-10-30T11:28:58Z",
+          "instanceId": "17256558772"
         },
         {
           "name": "Pallido Cuore",
-          "period": "2026-10-29T16:58:51Z",
-          "instanceId": "17255467459"
-        },
-        {
-          "name": "L'Oscura Sacerdotessa: Con matchmaking",
-          "period": "2026-10-28T09:37:13Z",
-          "instanceId": "17253618590"
-        },
-        {
-          "name": "Campo di battaglia Resistenza: Z.M.E.: Con matchmaking",
-          "period": "2026-10-28T09:09:35Z",
-          "instanceId": "17253604534"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-10-28T08:43:58Z",
-          "instanceId": "17253587858"
+          "period": "2026-10-29T15:41:40Z",
+          "instanceId": "17255389614"
         },
         {
           "name": "Conquista modalità esperto: Luna: Personalizzata",
-          "period": "2026-10-28T08:30:32Z",
-          "instanceId": "17253580489"
+          "period": "2026-10-29T14:57:32Z",
+          "instanceId": "17255324863"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-10-29T14:37:05Z",
+          "instanceId": "17255291268"
+        },
+        {
+          "name": "Labirinto di Veles: Esperto",
+          "period": "2026-10-29T14:26:18Z",
+          "instanceId": "17255290333"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-10-29T14:25:37Z",
+          "instanceId": "17255281206"
+        },
+        {
+          "name": "Labirinto di Veles: Esperto",
+          "period": "2026-10-29T14:24:22Z",
+          "instanceId": "17255280576"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-10-29T14:20:23Z",
+          "instanceId": "17255279018"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1793372173000,
+      "lastActivityTimestamp": 1793369664000,
+      "lastActivityText": "Campo di battaglia Colpo: Marte: Con matchmaking il 30/10/2026 14:14",
+      "activities": [
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-10-30T14:14:24Z",
+          "instanceId": "17256696530"
+        },
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-10-29T15:35:24Z",
+          "instanceId": "17255502938"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Personalizzata",
+          "period": "2026-10-25T17:00:08Z",
+          "instanceId": "17249315549"
+        },
+        {
+          "name": "Sotto contraria stella: Personalizzata",
+          "period": "2026-10-25T15:58:21Z",
+          "instanceId": "17249271750"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-10-25T15:36:50Z",
+          "instanceId": "17249180117"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-10-25T15:03:47Z",
+          "instanceId": "17249135825"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-10-25T14:57:24Z",
+          "instanceId": "17249100737"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-10-25T10:55:08Z",
+          "instanceId": "17248843588"
+        },
+        {
+          "name": "Baia dei Desideri Annegati: Maestro",
+          "period": "2026-10-25T10:42:29Z",
+          "instanceId": "17248834385"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-10-25T10:24:15Z",
+          "instanceId": "17248822962"
+        }
+      ]
+    },
+    {
+      "displayName": "albybender4894#4526",
+      "membershipId": "4611686018500448501",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/9a7244cf43b00b092433cefa606cd590.jpg",
+      "powerLevel": 471,
+      "lastPlayedTimestamp": 1793369791000,
+      "lastActivityTimestamp": 1793369076000,
+      "lastActivityText": "Partita veloce: Normale il 30/10/2026 14:04",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-30T14:04:36Z",
+          "instanceId": "17256683027"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-10-23T14:31:40Z",
+          "instanceId": "17245507265"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-23T14:00:30Z",
+          "instanceId": "17245453925"
+        },
+        {
+          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
+          "period": "2026-10-23T09:35:41Z",
+          "instanceId": "17245251276"
+        },
+        {
+          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
+          "period": "2026-10-22T15:36:14Z",
+          "instanceId": "17244059559"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-22T15:16:08Z",
+          "instanceId": "17244027316"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-22T15:03:24Z",
+          "instanceId": "17244015879"
+        },
+        {
+          "name": "Miniere di Sale: Personalizzata",
+          "period": "2026-10-22T14:46:27Z",
+          "instanceId": "17243998935"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-10-22T10:15:27Z",
+          "instanceId": "17243786592"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-10-22T09:51:30Z",
+          "instanceId": "17243776864"
+        }
+      ]
+    },
+    {
+      "displayName": "Jhonny#3878",
+      "membershipId": "4611686018489632599",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1793355450000,
+      "lastActivityTimestamp": 1793354750000,
+      "lastActivityText": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata il 30/10/2026 10:05",
+      "activities": [
+        {
+          "name": "Campo di battaglia Resistenza: Z.M.E.: Personalizzata",
+          "period": "2026-10-30T10:05:50Z",
+          "instanceId": "17256514280"
+        },
+        {
+          "name": "Periferia di Libernia, Marte: Sabotaggio: Con matchmaking",
+          "period": "2026-10-26T14:10:25Z",
+          "instanceId": "17250833694"
+        },
+        {
+          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
+          "period": "2026-10-26T13:47:18Z",
+          "instanceId": "17250805144"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-24T15:54:13Z",
+          "instanceId": "17247313733"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-24T15:40:04Z",
+          "instanceId": "17247286179"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-23T20:22:53Z",
+          "instanceId": "17245982741"
+        },
+        {
+          "name": "Metamorfosi: Maestro",
+          "period": "2026-10-23T20:15:24Z",
+          "instanceId": "17245901797"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-23T20:03:43Z",
+          "instanceId": "17245890822"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-10-23T19:22:11Z",
+          "instanceId": "17245843803"
+        },
+        {
+          "name": "Tronomondo di Savathûn",
+          "period": "2026-10-23T19:01:17Z",
+          "instanceId": "17245874419"
         }
       ]
     },
@@ -265,71 +460,6 @@
       ]
     },
     {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/955fbe42258e60e268b1cf60e310d05e.jpg",
-      "powerLevel": 502,
-      "lastPlayedTimestamp": 1793290967000,
-      "lastActivityTimestamp": 1793288500000,
-      "lastActivityText": "Pallido Cuore il 29/10/2026 15:41",
-      "activities": [
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-10-29T15:41:40Z",
-          "instanceId": "17255389614"
-        },
-        {
-          "name": "Conquista modalità esperto: Luna: Personalizzata",
-          "period": "2026-10-29T14:57:32Z",
-          "instanceId": "17255324863"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-10-29T14:37:05Z",
-          "instanceId": "17255291268"
-        },
-        {
-          "name": "Labirinto di Veles: Esperto",
-          "period": "2026-10-29T14:26:18Z",
-          "instanceId": "17255290333"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-10-29T14:25:37Z",
-          "instanceId": "17255281206"
-        },
-        {
-          "name": "Labirinto di Veles: Esperto",
-          "period": "2026-10-29T14:24:22Z",
-          "instanceId": "17255280576"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-10-29T14:20:23Z",
-          "instanceId": "17255279018"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-10-29T12:17:51Z",
-          "instanceId": "17255189281"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-10-29T12:05:07Z",
-          "instanceId": "17255182321"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-10-29T11:49:56Z",
-          "instanceId": "17255173369"
-        }
-      ]
-    },
-    {
       "displayName": "Lalla_Princii90#4028",
       "membershipId": "4611686018530145706",
       "bungieNetMembershipId": "",
@@ -521,71 +651,6 @@
           "name": "Fortezza: Con matchmaking",
           "period": "2026-10-23T20:49:35Z",
           "instanceId": "17245952714"
-        }
-      ]
-    },
-    {
-      "displayName": "Jhonny#3878",
-      "membershipId": "4611686018489632599",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/415756ba775da748e7045deb076ebc6b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1793046105000,
-      "lastActivityTimestamp": 1793023825000,
-      "lastActivityText": "Periferia di Libernia, Marte: Sabotaggio: Con matchmaking il 26/10/2026 14:10",
-      "activities": [
-        {
-          "name": "Periferia di Libernia, Marte: Sabotaggio: Con matchmaking",
-          "period": "2026-10-26T14:10:25Z",
-          "instanceId": "17250833694"
-        },
-        {
-          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
-          "period": "2026-10-26T13:47:18Z",
-          "instanceId": "17250805144"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-24T15:54:13Z",
-          "instanceId": "17247313733"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-24T15:40:04Z",
-          "instanceId": "17247286179"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-23T20:22:53Z",
-          "instanceId": "17245982741"
-        },
-        {
-          "name": "Metamorfosi: Maestro",
-          "period": "2026-10-23T20:15:24Z",
-          "instanceId": "17245901797"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-23T20:03:43Z",
-          "instanceId": "17245890822"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-10-23T19:22:11Z",
-          "instanceId": "17245843803"
-        },
-        {
-          "name": "Tronomondo di Savathûn",
-          "period": "2026-10-23T19:01:17Z",
-          "instanceId": "17245874419"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Fortezza Scarlatta: Personalizzata",
-          "period": "2026-10-18T08:53:30Z",
-          "instanceId": "17236925092"
         }
       ]
     },
@@ -846,71 +911,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-07-31T16:57:14Z",
           "instanceId": "17103279881"
-        }
-      ]
-    },
-    {
-      "displayName": "albybender4894#4526",
-      "membershipId": "4611686018500448501",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/9a7244cf43b00b092433cefa606cd590.jpg",
-      "powerLevel": 471,
-      "lastPlayedTimestamp": 1792767851000,
-      "lastActivityTimestamp": 1792765900000,
-      "lastActivityText": "La culla del male: Personalizzata il 23/10/2026 14:31",
-      "activities": [
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-10-23T14:31:40Z",
-          "instanceId": "17245507265"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-23T14:00:30Z",
-          "instanceId": "17245453925"
-        },
-        {
-          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
-          "period": "2026-10-23T09:35:41Z",
-          "instanceId": "17245251276"
-        },
-        {
-          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
-          "period": "2026-10-22T15:36:14Z",
-          "instanceId": "17244059559"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-22T15:16:08Z",
-          "instanceId": "17244027316"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-22T15:03:24Z",
-          "instanceId": "17244015879"
-        },
-        {
-          "name": "Miniere di Sale: Personalizzata",
-          "period": "2026-10-22T14:46:27Z",
-          "instanceId": "17243998935"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-10-22T10:15:27Z",
-          "instanceId": "17243786592"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-10-22T09:51:30Z",
-          "instanceId": "17243776864"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-22T09:35:49Z",
-          "instanceId": "17243762393"
         }
       ]
     },
