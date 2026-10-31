@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T23:58:45.819Z",
+  "generatedAt": "2026-10-31T05:21:56.226Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,30 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/55a2f41a0bf4b3383d38fe9398e2911b.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1793404676000,
-      "lastActivityTimestamp": 1793401935000,
-      "lastActivityText": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata il 30/10/2026 23:12",
+      "lastPlayedTimestamp": 1793407497000,
+      "lastActivityTimestamp": 1793406340000,
+      "lastActivityText": "Campi di battaglia: Appiglio: Con matchmaking il 31/10/2026 00:25",
       "activities": [
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-10-31T00:25:40Z",
+          "instanceId": "17257482760"
+        },
+        {
+          "name": "La culla del male: Personalizzata",
+          "period": "2026-10-31T00:07:05Z",
+          "instanceId": "17257455817"
+        },
+        {
+          "name": "Lago di ombre",
+          "period": "2026-10-30T23:41:11Z",
+          "instanceId": "17257425510"
+        },
         {
           "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
           "period": "2026-10-30T23:12:15Z",
@@ -51,21 +66,6 @@
           "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
           "period": "2026-10-30T21:11:51Z",
           "instanceId": "17257217043"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
-          "period": "2026-10-30T20:42:08Z",
-          "instanceId": "17257171068"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
-          "period": "2026-10-30T18:31:06Z",
-          "instanceId": "17256976449"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-10-30T17:41:22Z",
-          "instanceId": "17256926287"
         }
       ]
     },
