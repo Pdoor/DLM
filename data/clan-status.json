@@ -1,71 +1,136 @@
 {
-  "generatedAt": "2026-10-31T11:05:55.564Z",
+  "generatedAt": "2026-10-31T16:15:27.411Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "The_Big_UaZa#9806",
+      "membershipId": "4611686018448090802",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Gloriosa",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/955fbe42258e60e268b1cf60e310d05e.jpg",
+      "powerLevel": 503,
+      "lastPlayedTimestamp": 1793461046000,
+      "lastActivityTimestamp": 1793459185000,
+      "lastActivityText": "Sfida degli Anziani: Con matchmaking il 31/10/2026 15:06",
+      "activities": [
+        {
+          "name": "Sfida degli Anziani: Con matchmaking",
+          "period": "2026-10-31T15:06:25Z",
+          "instanceId": "17258461612"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-10-30T14:31:51Z",
+          "instanceId": "17256706298"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-10-30T11:35:27Z",
+          "instanceId": "17256568492"
+        },
+        {
+          "name": "Neomuna",
+          "period": "2026-10-30T11:28:58Z",
+          "instanceId": "17256558772"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-10-29T15:41:40Z",
+          "instanceId": "17255389614"
+        },
+        {
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-10-29T14:57:32Z",
+          "instanceId": "17255324863"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-10-29T14:37:05Z",
+          "instanceId": "17255291268"
+        },
+        {
+          "name": "Labirinto di Veles: Esperto",
+          "period": "2026-10-29T14:26:18Z",
+          "instanceId": "17255290333"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-10-29T14:25:37Z",
+          "instanceId": "17255281206"
+        },
+        {
+          "name": "Labirinto di Veles: Esperto",
+          "period": "2026-10-29T14:24:22Z",
+          "instanceId": "17255280576"
+        }
+      ]
+    },
+    {
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1793444066000,
-      "lastActivityTimestamp": 1793442964000,
-      "lastActivityText": "Nessus, Centauro Instabile il 31/10/2026 10:36",
+      "lastPlayedTimestamp": 1793459266000,
+      "lastActivityTimestamp": 1793457221000,
+      "lastActivityText": "La fine di Crota: Maestro il 31/10/2026 14:33",
       "activities": [
         {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-10-31T10:36:04Z",
-          "instanceId": "17258153208"
+          "name": "La fine di Crota: Maestro",
+          "period": "2026-10-31T14:33:41Z",
+          "instanceId": "17258406333"
         },
         {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-10-31T10:18:25Z",
-          "instanceId": "17258139040"
+          "name": "Orlo della Salvezza: Standard",
+          "period": "2026-10-31T13:49:29Z",
+          "instanceId": "17258419278"
         },
         {
-          "name": "Liminalità: Personalizzata",
-          "period": "2026-10-31T09:52:44Z",
-          "instanceId": "17258122773"
-        },
-        {
-          "name": "Cripta di Pietrafonda",
-          "period": "2026-10-31T09:16:34Z",
-          "instanceId": "17258135613"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-10-31T08:16:58Z",
-          "instanceId": "17258067773"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-10-31T08:16:43Z",
-          "instanceId": "17258048593"
+          "name": "Campi di battaglia: Oracolo: Personalizzata",
+          "period": "2026-10-31T13:28:29Z",
+          "instanceId": "17258305301"
         },
         {
           "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-10-30T17:41:22Z",
-          "instanceId": "17256926287"
+          "period": "2026-10-31T13:03:34Z",
+          "instanceId": "17258286886"
         },
         {
           "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-10-30T17:30:16Z",
-          "instanceId": "17256895899"
+          "period": "2026-10-29T16:52:29Z",
+          "instanceId": "17255440477"
         },
         {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-10-30T17:02:12Z",
-          "instanceId": "17256881660"
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-10-29T14:57:32Z",
+          "instanceId": "17255324863"
         },
         {
-          "name": "Trafficante d'armi: Con matchmaking",
-          "period": "2026-10-30T16:41:12Z",
-          "instanceId": "17256849845"
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-10-29T14:31:52Z",
+          "instanceId": "17255300926"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-10-29T14:17:13Z",
+          "instanceId": "17255284773"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-10-29T13:53:43Z",
+          "instanceId": "17255272241"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-10-29T12:25:49Z",
+          "instanceId": "17255199576"
         }
       ]
     },
@@ -73,15 +138,25 @@
       "displayName": "TheAnOnymous166#8849",
       "membershipId": "4611686018528729550",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Pasticcera stellare",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1793444725000,
-      "lastActivityTimestamp": 1793442964000,
-      "lastActivityText": "Nessus, Centauro Instabile il 31/10/2026 10:36",
+      "lastPlayedTimestamp": 1793452966000,
+      "lastActivityTimestamp": 1793451942000,
+      "lastActivityText": "La Città Sognante il 31/10/2026 13:05",
       "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-10-31T13:05:42Z",
+          "instanceId": "17258276716"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-10-31T11:02:33Z",
+          "instanceId": "17258173362"
+        },
         {
           "name": "Nessus, Centauro Instabile",
           "period": "2026-10-31T10:36:04Z",
@@ -121,16 +196,6 @@
           "name": "Azzardo: Con matchmaking",
           "period": "2026-10-31T08:55:57Z",
           "instanceId": "17258073678"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-10-29T21:17:35Z",
-          "instanceId": "17255743818"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-10-29T21:10:28Z",
-          "instanceId": "17255732724"
         }
       ]
     },
@@ -261,71 +326,6 @@
           "name": "Fortezza: Con matchmaking",
           "period": "2026-10-23T20:55:11Z",
           "instanceId": "17245962415"
-        }
-      ]
-    },
-    {
-      "displayName": "The_Big_UaZa#9806",
-      "membershipId": "4611686018448090802",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Gloriosa",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/955fbe42258e60e268b1cf60e310d05e.jpg",
-      "powerLevel": 503,
-      "lastPlayedTimestamp": 1793371512000,
-      "lastActivityTimestamp": 1793370711000,
-      "lastActivityText": "Partita veloce: maestro: Maestro il 30/10/2026 14:31",
-      "activities": [
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-10-30T14:31:51Z",
-          "instanceId": "17256706298"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-10-30T11:35:27Z",
-          "instanceId": "17256568492"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-10-30T11:28:58Z",
-          "instanceId": "17256558772"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-10-29T15:41:40Z",
-          "instanceId": "17255389614"
-        },
-        {
-          "name": "Conquista modalità esperto: Luna: Personalizzata",
-          "period": "2026-10-29T14:57:32Z",
-          "instanceId": "17255324863"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-10-29T14:37:05Z",
-          "instanceId": "17255291268"
-        },
-        {
-          "name": "Labirinto di Veles: Esperto",
-          "period": "2026-10-29T14:26:18Z",
-          "instanceId": "17255290333"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-10-29T14:25:37Z",
-          "instanceId": "17255281206"
-        },
-        {
-          "name": "Labirinto di Veles: Esperto",
-          "period": "2026-10-29T14:24:22Z",
-          "instanceId": "17255280576"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-10-29T14:20:23Z",
-          "instanceId": "17255279018"
         }
       ]
     },
@@ -1118,7 +1118,7 @@
       "title": "Dredgen",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/c612ec23a7f3b57042cb988788ef37a8.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1792710422000,
+      "lastPlayedTimestamp": 1793453558000,
       "lastActivityTimestamp": 1791546695000,
       "lastActivityText": "Partita veloce: maestro: Maestro il 09/10/2026 11:51",
       "activities": [
