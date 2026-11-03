@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-11-03T01:29:13.688Z",
+  "generatedAt": "2026-11-03T08:30:44.846Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "albybender4894#4526",
+      "membershipId": "4611686018500448501",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/9a7244cf43b00b092433cefa606cd590.jpg",
+      "powerLevel": 477,
+      "lastPlayedTimestamp": 1793692901000,
+      "lastActivityTimestamp": 1793692847000,
+      "lastActivityText": "Partita veloce: Normale il 03/11/2026 08:00",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-03T08:00:47Z",
+          "instanceId": "17263080827"
+        },
+        {
+          "name": "La caduta di un Kell: Personalizzata",
+          "period": "2026-11-03T07:58:06Z",
+          "instanceId": "17263072110"
+        },
+        {
+          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
+          "period": "2026-11-03T07:42:21Z",
+          "instanceId": "17263070206"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-02T10:36:08Z",
+          "instanceId": "17261685974"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-02T10:19:58Z",
+          "instanceId": "17261680062"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-01T13:15:09Z",
+          "instanceId": "17260061954"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-01T13:05:03Z",
+          "instanceId": "17260044943"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-01T12:37:04Z",
+          "instanceId": "17260025003"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-01T12:26:51Z",
+          "instanceId": "17260006621"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-10-30T14:04:36Z",
+          "instanceId": "17256683027"
+        }
+      ]
+    },
     {
       "displayName": "UplandArtist602#4553",
       "membershipId": "4611686018500645642",
@@ -326,71 +391,6 @@
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-10-30T14:31:51Z",
           "instanceId": "17256706298"
-        }
-      ]
-    },
-    {
-      "displayName": "albybender4894#4526",
-      "membershipId": "4611686018500448501",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/9a7244cf43b00b092433cefa606cd590.jpg",
-      "powerLevel": 477,
-      "lastPlayedTimestamp": 1793616308000,
-      "lastActivityTimestamp": 1793615768000,
-      "lastActivityText": "Partita veloce: Normale il 02/11/2026 10:36",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-11-02T10:36:08Z",
-          "instanceId": "17261685974"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-11-02T10:19:58Z",
-          "instanceId": "17261680062"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-11-01T13:15:09Z",
-          "instanceId": "17260061954"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-11-01T13:05:03Z",
-          "instanceId": "17260044943"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-11-01T12:37:04Z",
-          "instanceId": "17260025003"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-11-01T12:26:51Z",
-          "instanceId": "17260006621"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-10-30T14:04:36Z",
-          "instanceId": "17256683027"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-10-23T14:31:40Z",
-          "instanceId": "17245507265"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-23T14:00:30Z",
-          "instanceId": "17245453925"
-        },
-        {
-          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
-          "period": "2026-10-23T09:35:41Z",
-          "instanceId": "17245251276"
         }
       ]
     },
