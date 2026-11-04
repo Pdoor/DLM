@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-11-04T02:35:44.380Z",
+  "generatedAt": "2026-11-04T10:41:28.772Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Chimeras6w6#8598",
+      "membershipId": "4611686018450626006",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 541,
+      "lastPlayedTimestamp": 1793788833000,
+      "lastActivityTimestamp": 1793788170000,
+      "lastActivityText": "Partita veloce: Normale il 04/11/2026 10:29",
+      "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-04T10:29:30Z",
+          "instanceId": "17264581702"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-04T10:18:01Z",
+          "instanceId": "17264577019"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-04T10:08:02Z",
+          "instanceId": "17264570312"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-11-04T07:13:06Z",
+          "instanceId": "17264519466"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-11-02T09:03:48Z",
+          "instanceId": "17261674058"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-01T08:02:44Z",
+          "instanceId": "17259794347"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-01T07:43:29Z",
+          "instanceId": "17259779234"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-10-29T16:58:51Z",
+          "instanceId": "17255467459"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-10-29T15:41:40Z",
+          "instanceId": "17255389614"
+        },
+        {
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-10-29T14:57:32Z",
+          "instanceId": "17255324863"
+        }
+      ]
+    },
     {
       "displayName": "albybender4894#4526",
       "membershipId": "4611686018500448501",
@@ -12,11 +77,31 @@
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/9a7244cf43b00b092433cefa606cd590.jpg",
-      "powerLevel": 482,
-      "lastPlayedTimestamp": 1793748125000,
-      "lastActivityTimestamp": 1793748105000,
-      "lastActivityText": "Partita veloce: Normale il 03/11/2026 23:21",
+      "powerLevel": 483,
+      "lastPlayedTimestamp": 1793782837000,
+      "lastActivityTimestamp": 1793782817000,
+      "lastActivityText": "La Città Sognante il 04/11/2026 09:00",
       "activities": [
+        {
+          "name": "La Città Sognante",
+          "period": "2026-11-04T09:00:17Z",
+          "instanceId": "17264530181"
+        },
+        {
+          "name": "Camera del Chiarore Stellare: Esperto",
+          "period": "2026-11-04T08:58:27Z",
+          "instanceId": "17264529379"
+        },
+        {
+          "name": "La Città Sognante",
+          "period": "2026-11-04T08:46:19Z",
+          "instanceId": "17264528316"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-04T07:52:25Z",
+          "instanceId": "17264499979"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-11-03T23:21:45Z",
@@ -46,26 +131,71 @@
           "name": "Partita veloce: Normale",
           "period": "2026-11-03T22:01:03Z",
           "instanceId": "17263843894"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1793783319000,
+      "lastActivityTimestamp": 1793782360000,
+      "lastActivityText": "La fine di Crota: Standard il 04/11/2026 08:52",
+      "activities": [
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-11-04T08:52:40Z",
+          "instanceId": "17264533156"
         },
         {
-          "name": "Partita veloce: Normale",
-          "period": "2026-11-03T08:00:47Z",
-          "instanceId": "17263080827"
+          "name": "Luna",
+          "period": "2026-11-04T08:06:50Z",
+          "instanceId": "17264525205"
         },
         {
-          "name": "La caduta di un Kell: Personalizzata",
-          "period": "2026-11-03T07:58:06Z",
-          "instanceId": "17263072110"
+          "name": "Europa",
+          "period": "2026-11-04T07:24:34Z",
+          "instanceId": "17264475425"
         },
         {
-          "name": "Conquista modalità esperto: Cella Senza Sole: Personalizzata",
-          "period": "2026-11-03T07:42:21Z",
-          "instanceId": "17263070206"
+          "name": "La fine di Crota: Standard",
+          "period": "2026-11-04T07:16:51Z",
+          "instanceId": "17264489034"
         },
         {
-          "name": "Partita veloce: Normale",
-          "period": "2026-11-02T10:36:08Z",
-          "instanceId": "17261685974"
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-11-03T17:36:34Z",
+          "instanceId": "17263507810"
+        },
+        {
+          "name": "Il Ponte di Vetro: Personalizzata",
+          "period": "2026-11-03T16:56:22Z",
+          "instanceId": "17263468581"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-11-03T16:27:47Z",
+          "instanceId": "17263438026"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
+          "period": "2026-11-03T16:07:08Z",
+          "instanceId": "17263420898"
+        },
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-11-03T15:55:34Z",
+          "instanceId": "17263402719"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-11-03T13:54:55Z",
+          "instanceId": "17263299773"
         }
       ]
     },
@@ -200,71 +330,6 @@
       ]
     },
     {
-      "displayName": "Chimeras6w6#8598",
-      "membershipId": "4611686018450626006",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/673459e64c4a712f87ef2e7967c2d9aa.jpg",
-      "powerLevel": 382,
-      "lastPlayedTimestamp": 1793737189000,
-      "lastActivityTimestamp": 1793737185000,
-      "lastActivityText": "Azzardo: Con matchmaking il 03/11/2026 20:19",
-      "activities": [
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-11-03T20:19:45Z",
-          "instanceId": "17263700945"
-        },
-        {
-          "name": "Azzardo: Con matchmaking",
-          "period": "2026-11-03T20:03:30Z",
-          "instanceId": "17263673572"
-        },
-        {
-          "name": "Nuovi Territori",
-          "period": "2024-05-09T14:51:25Z",
-          "instanceId": "14777421039"
-        },
-        {
-          "name": "Controllo",
-          "period": "2024-04-26T21:39:42Z",
-          "instanceId": "14716161421"
-        },
-        {
-          "name": "Controllo",
-          "period": "2024-04-26T21:25:07Z",
-          "instanceId": "14716123789"
-        },
-        {
-          "name": "Perdizione: Esperto",
-          "period": "2024-04-22T19:17:34Z",
-          "instanceId": "14697262321"
-        },
-        {
-          "name": "Europa",
-          "period": "2024-04-22T19:15:00Z",
-          "instanceId": "14697242335"
-        },
-        {
-          "name": "Operazioni dell'Avanguardia",
-          "period": "2024-03-24T17:52:28Z",
-          "instanceId": "14569427807"
-        },
-        {
-          "name": "Operazioni dell'Avanguardia",
-          "period": "2024-03-24T16:17:17Z",
-          "instanceId": "14569096689"
-        },
-        {
-          "name": "Operazioni dell'Avanguardia",
-          "period": "2024-03-24T15:59:25Z",
-          "instanceId": "14569052527"
-        }
-      ]
-    },
-    {
       "displayName": "TheAnOnymous166#8849",
       "membershipId": "4611686018528729550",
       "bungieNetMembershipId": "",
@@ -391,71 +456,6 @@
           "name": "Promessa del Discepolo: Standard",
           "period": "2026-11-02T18:04:49Z",
           "instanceId": "17262068263"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1793731807000,
-      "lastActivityTimestamp": 1793727394000,
-      "lastActivityText": "Cella Senza Sole: Con matchmaking il 03/11/2026 17:36",
-      "activities": [
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-11-03T17:36:34Z",
-          "instanceId": "17263507810"
-        },
-        {
-          "name": "Il Ponte di Vetro: Personalizzata",
-          "period": "2026-11-03T16:56:22Z",
-          "instanceId": "17263468581"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-11-03T16:27:47Z",
-          "instanceId": "17263438026"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-11-03T16:07:08Z",
-          "instanceId": "17263420898"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-11-03T15:55:34Z",
-          "instanceId": "17263402719"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-11-03T13:54:55Z",
-          "instanceId": "17263299773"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-11-03T13:36:24Z",
-          "instanceId": "17263290745"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-03T13:33:27Z",
-          "instanceId": "17263279492"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-03T13:14:24Z",
-          "instanceId": "17263274952"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-03T12:47:42Z",
-          "instanceId": "17263261962"
         }
       ]
     },
