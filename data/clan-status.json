@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-11-05T00:13:39.660Z",
+  "generatedAt": "2026-11-05T07:12:49.585Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "Chimeras6w6#8598",
+      "membershipId": "4611686018450626006",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 533,
+      "lastPlayedTimestamp": 1793862756000,
+      "lastActivityTimestamp": 1793861697000,
+      "lastActivityText": "Neomuna il 05/11/2026 06:54",
+      "activities": [
+        {
+          "name": "Neomuna",
+          "period": "2026-11-05T06:54:57Z",
+          "instanceId": "17265782403"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-11-04T15:21:25Z",
+          "instanceId": "17264828260"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-11-04T12:19:44Z",
+          "instanceId": "17264648078"
+        },
+        {
+          "name": "Rovesciamento",
+          "period": "2026-11-04T10:51:02Z",
+          "instanceId": "17264666771"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-04T10:29:30Z",
+          "instanceId": "17264581702"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-04T10:18:01Z",
+          "instanceId": "17264577019"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-04T10:08:02Z",
+          "instanceId": "17264570312"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-11-04T07:13:06Z",
+          "instanceId": "17264519466"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-11-02T09:03:48Z",
+          "instanceId": "17261674058"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-01T08:02:44Z",
+          "instanceId": "17259794347"
+        }
+      ]
+    },
     {
       "displayName": "TheAnOnymous166#8849",
       "membershipId": "4611686018528729550",
@@ -326,71 +391,6 @@
           "name": "Luna",
           "period": "2026-11-03T14:40:03Z",
           "instanceId": "17263331504"
-        }
-      ]
-    },
-    {
-      "displayName": "Chimeras6w6#8598",
-      "membershipId": "4611686018450626006",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 534,
-      "lastPlayedTimestamp": 1793810641000,
-      "lastActivityTimestamp": 1793805685000,
-      "lastActivityText": "Pallido Cuore il 04/11/2026 15:21",
-      "activities": [
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-11-04T15:21:25Z",
-          "instanceId": "17264828260"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-11-04T12:19:44Z",
-          "instanceId": "17264648078"
-        },
-        {
-          "name": "Rovesciamento",
-          "period": "2026-11-04T10:51:02Z",
-          "instanceId": "17264666771"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-11-04T10:29:30Z",
-          "instanceId": "17264581702"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-11-04T10:18:01Z",
-          "instanceId": "17264577019"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-11-04T10:08:02Z",
-          "instanceId": "17264570312"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-11-04T07:13:06Z",
-          "instanceId": "17264519466"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-11-02T09:03:48Z",
-          "instanceId": "17261674058"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-11-01T08:02:44Z",
-          "instanceId": "17259794347"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-11-01T07:43:29Z",
-          "instanceId": "17259779234"
         }
       ]
     },
