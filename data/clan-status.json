@@ -1,152 +1,27 @@
 {
-  "generatedAt": "2026-11-06T09:43:27.028Z",
+  "generatedAt": "2026-11-06T17:16:33.849Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "AUDACE",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/28897ceb9bc382ebd54324473dbe33a5.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1793951730000,
-      "lastActivityTimestamp": 1793950936000,
-      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 06/11/2026 07:42",
-      "activities": [
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-11-06T07:42:16Z",
-          "instanceId": "17267086019"
-        },
-        {
-          "name": "Campi di battaglia: Appiglio: Con matchmaking",
-          "period": "2026-11-06T07:13:05Z",
-          "instanceId": "17267070102"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Personalizzata",
-          "period": "2026-11-05T18:24:38Z",
-          "instanceId": "17266260250"
-        },
-        {
-          "name": "Sotto contraria stella: Personalizzata",
-          "period": "2026-11-05T17:52:34Z",
-          "instanceId": "17266242630"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-11-05T17:33:27Z",
-          "instanceId": "17266211512"
-        },
-        {
-          "name": "Il Tecnocrate: Con matchmaking",
-          "period": "2026-11-05T09:23:31Z",
-          "instanceId": "17265877115"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-11-05T08:21:35Z",
-          "instanceId": "17265840268"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-11-04T18:33:07Z",
-          "instanceId": "17264957474"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-11-03T13:54:55Z",
-          "instanceId": "17263299773"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-11-02T18:27:51Z",
-          "instanceId": "17262123754"
-        }
-      ]
-    },
-    {
-      "displayName": "Chimeras6w6#8598",
-      "membershipId": "4611686018450626006",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 530,
-      "lastPlayedTimestamp": 1793958148000,
-      "lastActivityTimestamp": 1793950784000,
-      "lastActivityText": "Pallido Cuore il 06/11/2026 07:39",
-      "activities": [
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-11-06T07:39:44Z",
-          "instanceId": "17267143231"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-11-05T21:30:24Z",
-          "instanceId": "17266451526"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-11-05T21:13:22Z",
-          "instanceId": "17266438520"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-11-05T21:01:38Z",
-          "instanceId": "17266420239"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-11-05T20:29:32Z",
-          "instanceId": "17266406706"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-11-05T10:59:39Z",
-          "instanceId": "17265949994"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-11-05T07:25:35Z",
-          "instanceId": "17265831836"
-        },
-        {
-          "name": "Sovraccarico terminale: PA",
-          "period": "2026-11-05T06:57:13Z",
-          "instanceId": "17265800671"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-11-05T06:54:57Z",
-          "instanceId": "17265782403"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-11-04T15:21:25Z",
-          "instanceId": "17264828260"
-        }
-      ]
-    },
-    {
       "displayName": "TheAnOnymous166#8849",
       "membershipId": "4611686018528729550",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Cacciatori",
       "title": "Aruspice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1793913250000,
-      "lastActivityTimestamp": 1793913240000,
-      "lastActivityText": "Neomuna il 05/11/2026 21:14",
+      "lastPlayedTimestamp": 1793985346000,
+      "lastActivityTimestamp": 1793984222000,
+      "lastActivityText": "Neomuna il 06/11/2026 16:57",
       "activities": [
+        {
+          "name": "Neomuna",
+          "period": "2026-11-06T16:57:02Z",
+          "instanceId": "17267442123"
+        },
         {
           "name": "Neomuna",
           "period": "2026-11-05T21:14:00Z",
@@ -191,11 +66,71 @@
           "name": "Sotto assedio: Normale",
           "period": "2026-11-04T22:18:31Z",
           "instanceId": "17265218009"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "AUDACE",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/28897ceb9bc382ebd54324473dbe33a5.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1793985096000,
+      "lastActivityTimestamp": 1793984099000,
+      "lastActivityText": "La caduta di un Re: Standard il 06/11/2026 16:54",
+      "activities": [
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-11-06T16:54:59Z",
+          "instanceId": "17267453558"
         },
         {
-          "name": "Neomuna",
-          "period": "2026-11-04T22:13:00Z",
-          "instanceId": "17265203304"
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-11-06T16:43:24Z",
+          "instanceId": "17267438723"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-11-06T16:27:47Z",
+          "instanceId": "17267427689"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-11-06T16:00:53Z",
+          "instanceId": "17267413335"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-11-06T15:17:50Z",
+          "instanceId": "17267388671"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-11-06T15:09:06Z",
+          "instanceId": "17267354614"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-11-06T14:52:34Z",
+          "instanceId": "17267346050"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-11-06T14:47:16Z",
+          "instanceId": "17267331614"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-11-06T14:38:16Z",
+          "instanceId": "17267327806"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-11-06T14:31:46Z",
+          "instanceId": "17267321364"
         }
       ]
     },
@@ -207,11 +142,26 @@
       "className": "Cacciatori",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/9a7244cf43b00b092433cefa606cd590.jpg",
-      "powerLevel": 483,
-      "lastPlayedTimestamp": 1793868093000,
-      "lastActivityTimestamp": 1793867685000,
-      "lastActivityText": "Partita veloce: Normale il 05/11/2026 08:34",
+      "powerLevel": 484,
+      "lastPlayedTimestamp": 1793961816000,
+      "lastActivityTimestamp": 1793961251000,
+      "lastActivityText": "Partita veloce: Normale il 06/11/2026 10:34",
       "activities": [
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-06T10:34:11Z",
+          "instanceId": "17267175804"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-06T10:16:42Z",
+          "instanceId": "17267170735"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-06T10:12:12Z",
+          "instanceId": "17267167381"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-11-05T08:34:45Z",
@@ -246,21 +196,136 @@
           "name": "Partita veloce: Normale",
           "period": "2026-11-03T23:07:00Z",
           "instanceId": "17263926481"
+        }
+      ]
+    },
+    {
+      "displayName": "Chimeras6w6#8598",
+      "membershipId": "4611686018450626006",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
+      "powerLevel": 530,
+      "lastPlayedTimestamp": 1793960549000,
+      "lastActivityTimestamp": 1793958373000,
+      "lastActivityText": "Pallido Cuore il 06/11/2026 09:46",
+      "activities": [
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-11-06T09:46:13Z",
+          "instanceId": "17267165120"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-11-06T09:40:55Z",
+          "instanceId": "17267145037"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-11-06T07:39:44Z",
+          "instanceId": "17267143231"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-11-03T22:47:36Z",
-          "instanceId": "17263907204"
+          "period": "2026-11-05T21:30:24Z",
+          "instanceId": "17266451526"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-11-03T22:35:58Z",
-          "instanceId": "17263883287"
+          "period": "2026-11-05T21:13:22Z",
+          "instanceId": "17266438520"
         },
         {
           "name": "Partita veloce: Normale",
-          "period": "2026-11-03T22:14:54Z",
-          "instanceId": "17263857083"
+          "period": "2026-11-05T21:01:38Z",
+          "instanceId": "17266420239"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-11-05T20:29:32Z",
+          "instanceId": "17266406706"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-11-05T10:59:39Z",
+          "instanceId": "17265949994"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-11-05T07:25:35Z",
+          "instanceId": "17265831836"
+        },
+        {
+          "name": "Sovraccarico terminale: PA",
+          "period": "2026-11-05T06:57:13Z",
+          "instanceId": "17265800671"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1793958488000,
+      "lastActivityTimestamp": 1793951598000,
+      "lastActivityText": "Cosmodromo il 06/11/2026 07:53",
+      "activities": [
+        {
+          "name": "Cosmodromo",
+          "period": "2026-11-06T07:53:18Z",
+          "instanceId": "17267147433"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-10-13T17:13:02Z",
+          "instanceId": "17228056640"
+        },
+        {
+          "name": "Trafficante d'armi",
+          "period": "2026-10-13T09:41:22Z",
+          "instanceId": "17227536063"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-10-08T17:49:11Z",
+          "instanceId": "17217760477"
+        },
+        {
+          "name": "Terreni di Prova",
+          "period": "2026-10-08T17:38:21Z",
+          "instanceId": "17217770582"
+        },
+        {
+          "name": "Spirale invertita",
+          "period": "2026-10-08T16:58:37Z",
+          "instanceId": "17217754877"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-09-19T09:43:40Z",
+          "instanceId": "17184939703"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-19T09:22:40Z",
+          "instanceId": "17184920597"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-09-19T09:15:00Z",
+          "instanceId": "17184909665"
+        },
+        {
+          "name": "Osservatorio Celeste: Personalizzata",
+          "period": "2026-09-19T09:03:40Z",
+          "instanceId": "17184904023"
         }
       ]
     },
@@ -403,7 +468,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
       "powerLevel": 355,
-      "lastPlayedTimestamp": 1793801565000,
+      "lastPlayedTimestamp": 1793967083000,
       "lastActivityTimestamp": 1793801214000,
       "lastActivityText": "Pallido Cuore il 04/11/2026 14:06",
       "activities": [
@@ -1236,71 +1301,6 @@
           "name": "La corrotta: Con matchmaking",
           "period": "2026-06-25T05:44:24Z",
           "instanceId": "16969529540"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Titani",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1793958202000,
-      "lastActivityTimestamp": 1791911582000,
-      "lastActivityText": "Promessa del Discepolo: Standard il 13/10/2026 17:13",
-      "activities": [
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-10-13T17:13:02Z",
-          "instanceId": "17228056640"
-        },
-        {
-          "name": "Trafficante d'armi",
-          "period": "2026-10-13T09:41:22Z",
-          "instanceId": "17227536063"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-10-08T17:49:11Z",
-          "instanceId": "17217760477"
-        },
-        {
-          "name": "Terreni di Prova",
-          "period": "2026-10-08T17:38:21Z",
-          "instanceId": "17217770582"
-        },
-        {
-          "name": "Spirale invertita",
-          "period": "2026-10-08T16:58:37Z",
-          "instanceId": "17217754877"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
-          "period": "2026-09-19T09:43:40Z",
-          "instanceId": "17184939703"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-09-19T09:22:40Z",
-          "instanceId": "17184920597"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-09-19T09:15:00Z",
-          "instanceId": "17184909665"
-        },
-        {
-          "name": "Osservatorio Celeste: Personalizzata",
-          "period": "2026-09-19T09:03:40Z",
-          "instanceId": "17184904023"
-        },
-        {
-          "name": "La lama di Luce",
-          "period": "2026-08-25T12:24:51Z",
-          "instanceId": "17152829360"
         }
       ]
     },
