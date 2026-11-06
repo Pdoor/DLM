@@ -1,22 +1,92 @@
 {
-  "generatedAt": "2026-11-06T02:06:20.274Z",
+  "generatedAt": "2026-11-06T09:43:27.028Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "AUDACE",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/28897ceb9bc382ebd54324473dbe33a5.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1793951730000,
+      "lastActivityTimestamp": 1793950936000,
+      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 06/11/2026 07:42",
+      "activities": [
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-11-06T07:42:16Z",
+          "instanceId": "17267086019"
+        },
+        {
+          "name": "Campi di battaglia: Appiglio: Con matchmaking",
+          "period": "2026-11-06T07:13:05Z",
+          "instanceId": "17267070102"
+        },
+        {
+          "name": "Campi di battaglia: Oracolo: Personalizzata",
+          "period": "2026-11-05T18:24:38Z",
+          "instanceId": "17266260250"
+        },
+        {
+          "name": "Sotto contraria stella: Personalizzata",
+          "period": "2026-11-05T17:52:34Z",
+          "instanceId": "17266242630"
+        },
+        {
+          "name": "Corrente dell'iper-rete: Con matchmaking",
+          "period": "2026-11-05T17:33:27Z",
+          "instanceId": "17266211512"
+        },
+        {
+          "name": "Il Tecnocrate: Con matchmaking",
+          "period": "2026-11-05T09:23:31Z",
+          "instanceId": "17265877115"
+        },
+        {
+          "name": "La disonorata: Con matchmaking",
+          "period": "2026-11-05T08:21:35Z",
+          "instanceId": "17265840268"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-11-04T18:33:07Z",
+          "instanceId": "17264957474"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-11-03T13:54:55Z",
+          "instanceId": "17263299773"
+        },
+        {
+          "name": "La radice degli incubi: Standard",
+          "period": "2026-11-02T18:27:51Z",
+          "instanceId": "17262123754"
+        }
+      ]
+    },
+    {
       "displayName": "Chimeras6w6#8598",
       "membershipId": "4611686018450626006",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Signore del Ferro",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/263b65286de09ca760653bcf59cb4c7d.jpg",
-      "powerLevel": 543,
-      "lastPlayedTimestamp": 1793915004000,
-      "lastActivityTimestamp": 1793914224000,
-      "lastActivityText": "Partita veloce: Normale il 05/11/2026 21:30",
+      "powerLevel": 530,
+      "lastPlayedTimestamp": 1793958148000,
+      "lastActivityTimestamp": 1793950784000,
+      "lastActivityText": "Pallido Cuore il 06/11/2026 07:39",
       "activities": [
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-11-06T07:39:44Z",
+          "instanceId": "17267143231"
+        },
         {
           "name": "Partita veloce: Normale",
           "period": "2026-11-05T21:30:24Z",
@@ -61,11 +131,6 @@
           "name": "Pallido Cuore",
           "period": "2026-11-04T15:21:25Z",
           "instanceId": "17264828260"
-        },
-        {
-          "name": "Rovesciamento",
-          "period": "2026-11-04T10:51:02Z",
-          "instanceId": "17264666771"
         }
       ]
     },
@@ -131,136 +196,6 @@
           "name": "Neomuna",
           "period": "2026-11-04T22:13:00Z",
           "instanceId": "17265203304"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/55a2f41a0bf4b3383d38fe9398e2911b.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1793904581000,
-      "lastActivityTimestamp": 1793904456000,
-      "lastActivityText": "Cosmodromo il 05/11/2026 18:47",
-      "activities": [
-        {
-          "name": "Cosmodromo",
-          "period": "2026-11-05T18:47:36Z",
-          "instanceId": "17266270360"
-        },
-        {
-          "name": "Campi di battaglia: Oracolo: Personalizzata",
-          "period": "2026-11-05T18:24:38Z",
-          "instanceId": "17266260250"
-        },
-        {
-          "name": "Sotto contraria stella: Personalizzata",
-          "period": "2026-11-05T17:52:34Z",
-          "instanceId": "17266242630"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-11-05T17:42:33Z",
-          "instanceId": "17266242845"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-11-05T17:25:19Z",
-          "instanceId": "17266203892"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-11-05T16:11:00Z",
-          "instanceId": "17266188182"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata",
-          "period": "2026-11-05T15:42:17Z",
-          "instanceId": "17266121877"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-11-04T18:33:07Z",
-          "instanceId": "17264957474"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-11-04T17:45:39Z",
-          "instanceId": "17264937611"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-11-04T17:30:32Z",
-          "instanceId": "17264894855"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "AUDACE",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/28897ceb9bc382ebd54324473dbe33a5.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1793904067000,
-      "lastActivityTimestamp": 1793903078000,
-      "lastActivityText": "Campi di battaglia: Oracolo: Personalizzata il 05/11/2026 18:24",
-      "activities": [
-        {
-          "name": "Campi di battaglia: Oracolo: Personalizzata",
-          "period": "2026-11-05T18:24:38Z",
-          "instanceId": "17266260250"
-        },
-        {
-          "name": "Sotto contraria stella: Personalizzata",
-          "period": "2026-11-05T17:52:34Z",
-          "instanceId": "17266242630"
-        },
-        {
-          "name": "Corrente dell'iper-rete: Con matchmaking",
-          "period": "2026-11-05T17:33:27Z",
-          "instanceId": "17266211512"
-        },
-        {
-          "name": "Il Tecnocrate: Con matchmaking",
-          "period": "2026-11-05T09:23:31Z",
-          "instanceId": "17265877115"
-        },
-        {
-          "name": "La disonorata: Con matchmaking",
-          "period": "2026-11-05T08:21:35Z",
-          "instanceId": "17265840268"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-11-04T18:33:07Z",
-          "instanceId": "17264957474"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-11-03T13:54:55Z",
-          "instanceId": "17263299773"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-11-02T18:27:51Z",
-          "instanceId": "17262123754"
-        },
-        {
-          "name": "La radice degli incubi: Standard",
-          "period": "2026-11-02T18:26:23Z",
-          "instanceId": "17262073288"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-11-02T18:04:49Z",
-          "instanceId": "17262068263"
         }
       ]
     },
@@ -1301,6 +1236,71 @@
           "name": "La corrotta: Con matchmaking",
           "period": "2026-06-25T05:44:24Z",
           "instanceId": "16969529540"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Titani",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1793958202000,
+      "lastActivityTimestamp": 1791911582000,
+      "lastActivityText": "Promessa del Discepolo: Standard il 13/10/2026 17:13",
+      "activities": [
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-10-13T17:13:02Z",
+          "instanceId": "17228056640"
+        },
+        {
+          "name": "Trafficante d'armi",
+          "period": "2026-10-13T09:41:22Z",
+          "instanceId": "17227536063"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-10-08T17:49:11Z",
+          "instanceId": "17217760477"
+        },
+        {
+          "name": "Terreni di Prova",
+          "period": "2026-10-08T17:38:21Z",
+          "instanceId": "17217770582"
+        },
+        {
+          "name": "Spirale invertita",
+          "period": "2026-10-08T16:58:37Z",
+          "instanceId": "17217754877"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Personalizzata",
+          "period": "2026-09-19T09:43:40Z",
+          "instanceId": "17184939703"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-19T09:22:40Z",
+          "instanceId": "17184920597"
+        },
+        {
+          "name": "Nessus, Centauro Instabile",
+          "period": "2026-09-19T09:15:00Z",
+          "instanceId": "17184909665"
+        },
+        {
+          "name": "Osservatorio Celeste: Personalizzata",
+          "period": "2026-09-19T09:03:40Z",
+          "instanceId": "17184904023"
+        },
+        {
+          "name": "La lama di Luce",
+          "period": "2026-08-25T12:24:51Z",
+          "instanceId": "17152829360"
         }
       ]
     },
