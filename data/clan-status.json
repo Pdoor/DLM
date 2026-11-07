@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T15:51:01.559Z",
+  "generatedAt": "2026-11-07T20:01:55.327Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,30 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/55a2f41a0bf4b3383d38fe9398e2911b.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1794066618000,
-      "lastActivityTimestamp": 1794064789000,
-      "lastActivityText": "La Guerriera: Con matchmaking il 07/11/2026 15:19",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1794081291000,
+      "lastActivityTimestamp": 1794080370000,
+      "lastActivityText": "La disonorata il 07/11/2026 19:39",
       "activities": [
+        {
+          "name": "La disonorata",
+          "period": "2026-11-07T19:39:30Z",
+          "instanceId": "17269214079"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-11-07T19:35:13Z",
+          "instanceId": "17269189118"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-11-07T15:38:45Z",
+          "instanceId": "17268910340"
+        },
         {
           "name": "La Guerriera: Con matchmaking",
           "period": "2026-11-07T15:19:49Z",
@@ -51,21 +66,6 @@
           "name": "Campo di battaglia Colpo: Luna: Personalizzata",
           "period": "2026-11-05T17:42:33Z",
           "instanceId": "17266242845"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-11-05T17:25:19Z",
-          "instanceId": "17266203892"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-11-05T16:11:00Z",
-          "instanceId": "17266188182"
-        },
-        {
-          "name": "Conquista modalità gran maestro: Trafficante d'armi: Personalizzata",
-          "period": "2026-11-05T15:42:17Z",
-          "instanceId": "17266121877"
         }
       ]
     },
@@ -73,15 +73,30 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "MMXXIII",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
       "powerLevel": 545,
-      "lastPlayedTimestamp": 1794066618000,
-      "lastActivityTimestamp": 1794064789000,
-      "lastActivityText": "La Guerriera: Con matchmaking il 07/11/2026 15:19",
+      "lastPlayedTimestamp": 1794076455000,
+      "lastActivityTimestamp": 1794069839000,
+      "lastActivityText": "Volta di Vetro: Standard il 07/11/2026 16:43",
       "activities": [
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-11-07T16:43:59Z",
+          "instanceId": "17269112378"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-11-07T16:29:40Z",
+          "instanceId": "17268962709"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-11-07T15:38:45Z",
+          "instanceId": "17268910340"
+        },
         {
           "name": "La Guerriera: Con matchmaking",
           "period": "2026-11-07T15:19:49Z",
@@ -116,21 +131,136 @@
           "name": "Il Ponte di Vetro: Con matchmaking",
           "period": "2026-11-07T09:45:43Z",
           "instanceId": "17268596448"
+        }
+      ]
+    },
+    {
+      "displayName": "Ghost of Warlock#5159",
+      "membershipId": "4611686018513286564",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1794071455000,
+      "lastActivityTimestamp": 1794069319000,
+      "lastActivityText": "Sotto contraria stella: Personalizzata il 07/11/2026 16:35",
+      "activities": [
+        {
+          "name": "Sotto contraria stella: Personalizzata",
+          "period": "2026-11-07T16:35:19Z",
+          "instanceId": "17268993028"
         },
         {
-          "name": "Europa",
-          "period": "2026-11-07T09:44:19Z",
-          "instanceId": "17268582851"
+          "name": "Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-11-07T15:40:42Z",
+          "instanceId": "17268924710"
         },
         {
-          "name": "Perdizione: Maestro",
-          "period": "2026-11-07T09:37:51Z",
-          "instanceId": "17268582443"
+          "name": "Luna",
+          "period": "2026-11-07T14:16:37Z",
+          "instanceId": "17268818486"
         },
         {
-          "name": "Europa",
-          "period": "2026-11-07T09:35:01Z",
-          "instanceId": "17268577970"
+          "name": "Comunione R1: Maestro",
+          "period": "2026-11-07T14:06:33Z",
+          "instanceId": "17268795341"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-11-07T14:01:32Z",
+          "instanceId": "17268785261"
+        },
+        {
+          "name": "Comunione R1: Maestro",
+          "period": "2026-11-07T13:50:52Z",
+          "instanceId": "17268780538"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-11-07T13:48:17Z",
+          "instanceId": "17268770001"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-11-07T13:23:02Z",
+          "instanceId": "17268756906"
+        },
+        {
+          "name": "La Guerriera: Con matchmaking",
+          "period": "2026-11-07T08:59:08Z",
+          "instanceId": "17268559153"
+        },
+        {
+          "name": "La Fortezza Scarlatta: Con matchmaking",
+          "period": "2026-11-07T08:37:04Z",
+          "instanceId": "17268548751"
+        }
+      ]
+    },
+    {
+      "displayName": "luxya__13#5940",
+      "membershipId": "4611686018555449414",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1b2c28a8998818b74ff0509d1d7ed7.jpg",
+      "powerLevel": 524,
+      "lastPlayedTimestamp": 1794071198000,
+      "lastActivityTimestamp": 1794069319000,
+      "lastActivityText": "Sotto contraria stella: Personalizzata il 07/11/2026 16:35",
+      "activities": [
+        {
+          "name": "Sotto contraria stella: Personalizzata",
+          "period": "2026-11-07T16:35:19Z",
+          "instanceId": "17268993028"
+        },
+        {
+          "name": "Operazione: Scudo del Serafino: Personalizzata",
+          "period": "2026-11-07T15:40:42Z",
+          "instanceId": "17268924710"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
+          "period": "2026-07-04T09:33:56Z",
+          "instanceId": "17011157014"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-06-28T15:26:55Z",
+          "instanceId": "16986334494"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-06-28T15:25:32Z",
+          "instanceId": "16986204890"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-06-28T15:22:14Z",
+          "instanceId": "16986190976"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-06-28T15:05:56Z",
+          "instanceId": "16986180810"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-06-28T15:03:41Z",
+          "instanceId": "16986117698"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-06-28T14:41:50Z",
+          "instanceId": "16986110243"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-06-28T14:40:04Z",
+          "instanceId": "16986022030"
         }
       ]
     },
@@ -261,71 +391,6 @@
           "name": "Partita veloce: Normale",
           "period": "2026-11-06T22:37:12Z",
           "instanceId": "17267849618"
-        }
-      ]
-    },
-    {
-      "displayName": "Ghost of Warlock#5159",
-      "membershipId": "4611686018513286564",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1794066648000,
-      "lastActivityTimestamp": 1794060997000,
-      "lastActivityText": "Luna il 07/11/2026 14:16",
-      "activities": [
-        {
-          "name": "Luna",
-          "period": "2026-11-07T14:16:37Z",
-          "instanceId": "17268818486"
-        },
-        {
-          "name": "Comunione R1: Maestro",
-          "period": "2026-11-07T14:06:33Z",
-          "instanceId": "17268795341"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-11-07T14:01:32Z",
-          "instanceId": "17268785261"
-        },
-        {
-          "name": "Comunione R1: Maestro",
-          "period": "2026-11-07T13:50:52Z",
-          "instanceId": "17268780538"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-11-07T13:48:17Z",
-          "instanceId": "17268770001"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-11-07T13:23:02Z",
-          "instanceId": "17268756906"
-        },
-        {
-          "name": "La Guerriera: Con matchmaking",
-          "period": "2026-11-07T08:59:08Z",
-          "instanceId": "17268559153"
-        },
-        {
-          "name": "La Fortezza Scarlatta: Con matchmaking",
-          "period": "2026-11-07T08:37:04Z",
-          "instanceId": "17268548751"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-11-06T20:21:11Z",
-          "instanceId": "17267814591"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-11-04T17:08:16Z",
-          "instanceId": "17264906021"
         }
       ]
     },
@@ -2081,71 +2146,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-06T15:29:36Z",
           "instanceId": "17020828449"
-        }
-      ]
-    },
-    {
-      "displayName": "luxya__13#5940",
-      "membershipId": "4611686018555449414",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Stregoni",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1b2c28a8998818b74ff0509d1d7ed7.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1794066638000,
-      "lastActivityTimestamp": 1783157636000,
-      "lastActivityText": "Conquista modalità gran maestro: Eliostato: Personalizzata il 04/07/2026 09:33",
-      "activities": [
-        {
-          "name": "Conquista modalità gran maestro: Eliostato: Personalizzata",
-          "period": "2026-07-04T09:33:56Z",
-          "instanceId": "17011157014"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T15:26:55Z",
-          "instanceId": "16986334494"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T15:25:32Z",
-          "instanceId": "16986204890"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T15:22:14Z",
-          "instanceId": "16986190976"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T15:05:56Z",
-          "instanceId": "16986180810"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T15:03:41Z",
-          "instanceId": "16986117698"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T14:41:50Z",
-          "instanceId": "16986110243"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T14:40:04Z",
-          "instanceId": "16986022030"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T14:38:49Z",
-          "instanceId": "16986017727"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-06-28T13:52:55Z",
-          "instanceId": "16986008571"
         }
       ]
     },
