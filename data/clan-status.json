@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-11-08T22:21:52.050Z",
+  "generatedAt": "2026-11-09T01:51:58.734Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "alexcecenko#951",
+      "membershipId": "4611686018463713971",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Leggenda",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1794173304000,
+      "lastActivityTimestamp": 1794171891000,
+      "lastActivityText": "Neomuna il 08/11/2026 21:04",
+      "activities": [
+        {
+          "name": "Neomuna",
+          "period": "2026-11-08T21:04:51Z",
+          "instanceId": "17271333009"
+        },
+        {
+          "name": "Escissione: Solo gioco",
+          "period": "2026-11-08T20:20:36Z",
+          "instanceId": "17270921507"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-10-21T20:35:45Z",
+          "instanceId": "17242946879"
+        },
+        {
+          "name": "Partita privata",
+          "period": "2026-10-20T19:22:10Z",
+          "instanceId": "17241335334"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-20T19:02:09Z",
+          "instanceId": "17241304535"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-10-20T18:45:47Z",
+          "instanceId": "17241285571"
+        },
+        {
+          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
+          "period": "2026-10-19T18:48:10Z",
+          "instanceId": "17239688248"
+        },
+        {
+          "name": "L'astuta: Normale",
+          "period": "2026-10-17T14:50:31Z",
+          "instanceId": "17235120498"
+        },
+        {
+          "name": "Il Ponte di Vetro: Con matchmaking",
+          "period": "2026-09-19T13:44:29Z",
+          "instanceId": "17185095221"
+        },
+        {
+          "name": "Zona Morta Europea",
+          "period": "2026-07-26T12:57:06Z",
+          "instanceId": "17090119490"
+        }
+      ]
+    },
     {
       "displayName": "TheAnOnymous166#8849",
       "membershipId": "4611686018528729550",
@@ -66,71 +131,6 @@
           "name": "Il messaggio - Parte III",
           "period": "2026-11-08T15:27:51Z",
           "instanceId": "17270513192"
-        }
-      ]
-    },
-    {
-      "displayName": "alexcecenko#951",
-      "membershipId": "4611686018463713971",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Leggenda",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1794173304000,
-      "lastActivityTimestamp": 1794169236000,
-      "lastActivityText": "Escissione: Solo gioco il 08/11/2026 20:20",
-      "activities": [
-        {
-          "name": "Escissione: Solo gioco",
-          "period": "2026-11-08T20:20:36Z",
-          "instanceId": "17270921507"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-10-21T20:35:45Z",
-          "instanceId": "17242946879"
-        },
-        {
-          "name": "Partita privata",
-          "period": "2026-10-20T19:22:10Z",
-          "instanceId": "17241335334"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-20T19:02:09Z",
-          "instanceId": "17241304535"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-10-20T18:45:47Z",
-          "instanceId": "17241285571"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Marte: Con matchmaking",
-          "period": "2026-10-19T18:48:10Z",
-          "instanceId": "17239688248"
-        },
-        {
-          "name": "L'astuta: Normale",
-          "period": "2026-10-17T14:50:31Z",
-          "instanceId": "17235120498"
-        },
-        {
-          "name": "Il Ponte di Vetro: Con matchmaking",
-          "period": "2026-09-19T13:44:29Z",
-          "instanceId": "17185095221"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-26T12:57:06Z",
-          "instanceId": "17090119490"
-        },
-        {
-          "name": "Zona Morta Europea",
-          "period": "2026-07-26T12:54:32Z",
-          "instanceId": "17090114961"
         }
       ]
     },
