@@ -1,22 +1,122 @@
 {
-  "generatedAt": "2026-11-09T19:59:10.288Z",
+  "generatedAt": "2026-11-10T02:39:38.183Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "alexcecenko#951",
+      "membershipId": "4611686018463713971",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/3a22886784f7e2d8c5b41159d5c776d0.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1794260288000,
+      "lastActivityTimestamp": 1794258950000,
+      "lastActivityText": "Poligono di Tiro il 09/11/2026 21:15",
+      "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-11-09T21:15:50Z",
+          "instanceId": "17272363898"
+        },
+        {
+          "name": "Avamposto dei cabal: Con matchmaking",
+          "period": "2026-11-09T20:45:25Z",
+          "instanceId": "17272322178"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-11-09T20:02:59Z",
+          "instanceId": "17272253792"
+        },
+        {
+          "name": "Escissione: Gran maestro",
+          "period": "2026-11-08T20:11:01Z",
+          "instanceId": "17270884824"
+        },
+        {
+          "name": "Luna",
+          "period": "2026-11-08T19:49:54Z",
+          "instanceId": "17270876492"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-11-08T16:05:52Z",
+          "instanceId": "17270659426"
+        },
+        {
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-11-08T15:32:28Z",
+          "instanceId": "17270517158"
+        },
+        {
+          "name": "Confluenza: Personalizzata",
+          "period": "2026-11-08T15:20:33Z",
+          "instanceId": "17270502295"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-11-07T20:52:06Z",
+          "instanceId": "17269456205"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-11-07T20:30:57Z",
+          "instanceId": "17269285723"
+        }
+      ]
+    },
+    {
       "displayName": "TheAnOnymous166#8849",
       "membershipId": "4611686018528729550",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "Trascendente",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1794254300000,
-      "lastActivityTimestamp": 1794253635000,
-      "lastActivityText": "Pallido Cuore il 09/11/2026 19:47",
+      "lastPlayedTimestamp": 1794259000000,
+      "lastActivityTimestamp": 1794258950000,
+      "lastActivityText": "Poligono di Tiro il 09/11/2026 21:15",
       "activities": [
+        {
+          "name": "Poligono di Tiro",
+          "period": "2026-11-09T21:15:50Z",
+          "instanceId": "17272363898"
+        },
+        {
+          "name": "Avamposto dei cabal: Con matchmaking",
+          "period": "2026-11-09T20:45:25Z",
+          "instanceId": "17272322178"
+        },
+        {
+          "name": "Casa - Parte I",
+          "period": "2026-11-09T20:13:42Z",
+          "instanceId": "17272261369"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-11-09T20:12:46Z",
+          "instanceId": "17272260603"
+        },
+        {
+          "name": "Regine - Parte II",
+          "period": "2026-11-09T20:02:43Z",
+          "instanceId": "17272259266"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-11-09T20:01:28Z",
+          "instanceId": "17272247557"
+        },
+        {
+          "name": "Regine - Parte I",
+          "period": "2026-11-09T19:47:58Z",
+          "instanceId": "17272246207"
+        },
         {
           "name": "Pallido Cuore",
           "period": "2026-11-09T19:47:15Z",
@@ -29,43 +129,8 @@
         },
         {
           "name": "Pallido Cuore",
-          "period": "2026-11-09T17:39:34Z",
-          "instanceId": "17272099612"
-        },
-        {
-          "name": "Il Vacuo - Parte II",
-          "period": "2026-11-09T17:23:21Z",
-          "instanceId": "17272099378"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-11-09T17:14:38Z",
-          "instanceId": "17272083880"
-        },
-        {
-          "name": "Il Vacuo - Parte I",
-          "period": "2026-11-09T16:59:18Z",
-          "instanceId": "17272076223"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-11-08T20:58:21Z",
-          "instanceId": "17270955376"
-        },
-        {
-          "name": "Escissione: Solo gioco",
-          "period": "2026-11-08T20:20:36Z",
-          "instanceId": "17270921507"
-        },
-        {
-          "name": "Escissione: Gran maestro",
-          "period": "2026-11-08T20:11:01Z",
-          "instanceId": "17270884824"
-        },
-        {
-          "name": "Escissione: Gran maestro",
-          "period": "2026-11-08T20:02:08Z",
-          "instanceId": "17270868832"
+          "period": "2026-11-09T16:57:02Z",
+          "instanceId": "17272312804"
         }
       ]
     },
@@ -590,71 +655,6 @@
       ]
     },
     {
-      "displayName": "alexcecenko#951",
-      "membershipId": "4611686018463713971",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/3a22886784f7e2d8c5b41159d5c776d0.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1794254236000,
-      "lastActivityTimestamp": 1794168661000,
-      "lastActivityText": "Escissione: Gran maestro il 08/11/2026 20:11",
-      "activities": [
-        {
-          "name": "Escissione: Gran maestro",
-          "period": "2026-11-08T20:11:01Z",
-          "instanceId": "17270884824"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-11-08T19:49:54Z",
-          "instanceId": "17270876492"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-08T16:05:52Z",
-          "instanceId": "17270659426"
-        },
-        {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-11-08T15:32:28Z",
-          "instanceId": "17270517158"
-        },
-        {
-          "name": "Confluenza: Personalizzata",
-          "period": "2026-11-08T15:20:33Z",
-          "instanceId": "17270502295"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-11-07T20:52:06Z",
-          "instanceId": "17269456205"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-11-07T20:30:57Z",
-          "instanceId": "17269285723"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-11-06T21:26:54Z",
-          "instanceId": "17267748743"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-11-06T20:21:11Z",
-          "instanceId": "17267814591"
-        },
-        {
-          "name": "Neomuna",
-          "period": "2026-11-06T19:55:35Z",
-          "instanceId": "17267640196"
-        }
-      ]
-    },
-    {
       "displayName": "DiciestCloth1#2862",
       "membershipId": "4611686018442634411",
       "bungieNetMembershipId": "",
@@ -793,7 +793,7 @@
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/42f73e798dabb76ac0a82cd8ae824655.jpg",
       "powerLevel": 405,
-      "lastPlayedTimestamp": 1794090647000,
+      "lastPlayedTimestamp": 1794268199000,
       "lastActivityTimestamp": 1794087225000,
       "lastActivityText": "Trafficante d'armi: Personalizzata il 07/11/2026 21:33",
       "activities": [
