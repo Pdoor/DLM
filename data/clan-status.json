@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-11-12T02:25:23.427Z",
+  "generatedAt": "2026-11-12T10:07:40.870Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Cacciatori",
+      "title": "AUDACE",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/28897ceb9bc382ebd54324473dbe33a5.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1794477940000,
+      "lastActivityTimestamp": 1794476839000,
+      "lastActivityText": "Bis in evidenza: Morgeth: Pantheon il 12/11/2026 09:47",
+      "activities": [
+        {
+          "name": "Bis in evidenza: Morgeth: Pantheon",
+          "period": "2026-11-12T09:47:19Z",
+          "instanceId": "17275694626"
+        },
+        {
+          "name": "Bis in evidenza: Morgeth: Pantheon",
+          "period": "2026-11-12T09:39:04Z",
+          "instanceId": "17275692035"
+        },
+        {
+          "name": "Bis in evidenza: Morgeth: Pantheon",
+          "period": "2026-11-12T09:33:54Z",
+          "instanceId": "17275688363"
+        },
+        {
+          "name": "Bis in evidenza: Morgeth: Pantheon",
+          "period": "2026-11-12T08:53:37Z",
+          "instanceId": "17275685029"
+        },
+        {
+          "name": "Bis in evidenza: Morgeth: Pantheon",
+          "period": "2026-11-11T19:40:19Z",
+          "instanceId": "17274865251"
+        },
+        {
+          "name": "Bis in evidenza: Morgeth: Pantheon",
+          "period": "2026-11-11T19:22:20Z",
+          "instanceId": "17274846656"
+        },
+        {
+          "name": "Bis in evidenza: Morgeth: Pantheon",
+          "period": "2026-11-11T19:08:22Z",
+          "instanceId": "17274837797"
+        },
+        {
+          "name": "Profezia",
+          "period": "2026-11-11T17:38:24Z",
+          "instanceId": "17274797579"
+        },
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-11-11T16:41:41Z",
+          "instanceId": "17274708906"
+        },
+        {
+          "name": "Confluenza: Maestro",
+          "period": "2026-11-11T16:27:48Z",
+          "instanceId": "17274920715"
+        }
+      ]
+    },
     {
       "displayName": "albybender4894#4526",
       "membershipId": "4611686018500448501",
@@ -196,71 +261,6 @@
           "name": "Nessus, Centauro Instabile",
           "period": "2026-08-23T22:22:58Z",
           "instanceId": "17150864651"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "AUDACE",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/28897ceb9bc382ebd54324473dbe33a5.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1794426328000,
-      "lastActivityTimestamp": 1794426019000,
-      "lastActivityText": "Bis in evidenza: Morgeth: Pantheon il 11/11/2026 19:40",
-      "activities": [
-        {
-          "name": "Bis in evidenza: Morgeth: Pantheon",
-          "period": "2026-11-11T19:40:19Z",
-          "instanceId": "17274865251"
-        },
-        {
-          "name": "Bis in evidenza: Morgeth: Pantheon",
-          "period": "2026-11-11T19:22:20Z",
-          "instanceId": "17274846656"
-        },
-        {
-          "name": "Bis in evidenza: Morgeth: Pantheon",
-          "period": "2026-11-11T19:08:22Z",
-          "instanceId": "17274837797"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-11-11T17:38:24Z",
-          "instanceId": "17274797579"
-        },
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-11-11T16:41:41Z",
-          "instanceId": "17274708906"
-        },
-        {
-          "name": "Centro Città: Con matchmaking",
-          "period": "2026-11-11T16:38:40Z",
-          "instanceId": "17274669781"
-        },
-        {
-          "name": "Nessus, Centauro Instabile",
-          "period": "2026-11-11T16:32:54Z",
-          "instanceId": "17274664887"
-        },
-        {
-          "name": "Confluenza: Maestro",
-          "period": "2026-11-11T16:27:48Z",
-          "instanceId": "17274920715"
-        },
-        {
-          "name": "Terreni di Prova",
-          "period": "2026-11-11T16:26:25Z",
-          "instanceId": "17274660978"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-11-11T15:52:40Z",
-          "instanceId": "17274645010"
         }
       ]
     },
