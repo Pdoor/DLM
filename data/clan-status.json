@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T21:51:41.323Z",
+  "generatedAt": "2026-11-14T02:06:14.648Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
@@ -8,15 +8,25 @@
       "displayName": "DiciestCloth1#2862",
       "membershipId": "4611686018442634411",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Flagello di Riven",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8b4bd1eafeb9369a3ef5a622c7846502.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1794606371000,
-      "lastActivityTimestamp": 1794602712000,
-      "lastActivityText": "Volta di Vetro: Standard il 13/11/2026 20:45",
+      "powerLevel": 548,
+      "lastPlayedTimestamp": 1794609472000,
+      "lastActivityTimestamp": 1794607797000,
+      "lastActivityText": "La fine di Crota: Standard il 13/11/2026 22:09",
       "activities": [
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-11-13T22:09:57Z",
+          "instanceId": "17277594631"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-11-13T21:15:55Z",
+          "instanceId": "17277529519"
+        },
         {
           "name": "Volta di Vetro: Standard",
           "period": "2026-11-13T20:45:12Z",
@@ -56,16 +66,6 @@
           "name": "Conquista modalità estrema: Operazione: Scudo del Serafino: Personalizzata",
           "period": "2026-08-06T19:18:01Z",
           "instanceId": "17117613183"
-        },
-        {
-          "name": "Profezia",
-          "period": "2026-08-06T18:33:22Z",
-          "instanceId": "17117559364"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-08-02T18:44:10Z",
-          "instanceId": "17108638094"
         }
       ]
     },
@@ -73,15 +73,30 @@
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1794606463000,
-      "lastActivityTimestamp": 1794602712000,
-      "lastActivityText": "Volta di Vetro: Standard il 13/11/2026 20:45",
+      "lastPlayedTimestamp": 1794609603000,
+      "lastActivityTimestamp": 1794607797000,
+      "lastActivityText": "La fine di Crota: Standard il 13/11/2026 22:09",
       "activities": [
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-11-13T22:09:57Z",
+          "instanceId": "17277594631"
+        },
+        {
+          "name": "Cripta di Pietrafonda",
+          "period": "2026-11-13T22:03:16Z",
+          "instanceId": "17277548875"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-11-13T21:15:55Z",
+          "instanceId": "17277529519"
+        },
         {
           "name": "Volta di Vetro: Standard",
           "period": "2026-11-13T20:45:12Z",
@@ -116,21 +131,6 @@
           "name": "Luna",
           "period": "2026-11-10T14:56:27Z",
           "instanceId": "17273263653"
-        },
-        {
-          "name": "Logistica R1: Maestro",
-          "period": "2026-11-10T14:48:18Z",
-          "instanceId": "17273257938"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-11-10T14:47:31Z",
-          "instanceId": "17273251723"
-        },
-        {
-          "name": "Logistica R1: Maestro",
-          "period": "2026-11-10T14:39:43Z",
-          "instanceId": "17273251110"
         }
       ]
     },
@@ -138,15 +138,30 @@
       "displayName": "luxya__13#5940",
       "membershipId": "4611686018555449414",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1b2c28a8998818b74ff0509d1d7ed7.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1794606449000,
-      "lastActivityTimestamp": 1794602712000,
-      "lastActivityText": "Volta di Vetro: Standard il 13/11/2026 20:45",
+      "powerLevel": 532,
+      "lastPlayedTimestamp": 1794609463000,
+      "lastActivityTimestamp": 1794607797000,
+      "lastActivityText": "La fine di Crota: Standard il 13/11/2026 22:09",
       "activities": [
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-11-13T22:09:57Z",
+          "instanceId": "17277594631"
+        },
+        {
+          "name": "Cripta di Pietrafonda",
+          "period": "2026-11-13T22:03:16Z",
+          "instanceId": "17277548875"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-11-13T21:15:55Z",
+          "instanceId": "17277529519"
+        },
         {
           "name": "Volta di Vetro: Standard",
           "period": "2026-11-13T20:45:12Z",
@@ -181,21 +196,6 @@
           "name": "Deserto perpetuo: Standard",
           "period": "2026-11-13T08:43:44Z",
           "instanceId": "17276897984"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-11-13T08:38:52Z",
-          "instanceId": "17276895379"
-        },
-        {
-          "name": "Modalità del mondo: bestiale: Bestiale",
-          "period": "2026-11-13T08:36:44Z",
-          "instanceId": "17276892792"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-11-13T07:45:27Z",
-          "instanceId": "17276868727"
         }
       ]
     },
@@ -203,15 +203,30 @@
       "displayName": "mitoflo#6589",
       "membershipId": "4611686018441699415",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1794606540000,
-      "lastActivityTimestamp": 1794602712000,
-      "lastActivityText": "Volta di Vetro: Standard il 13/11/2026 20:45",
+      "lastPlayedTimestamp": 1794609469000,
+      "lastActivityTimestamp": 1794607797000,
+      "lastActivityText": "La fine di Crota: Standard il 13/11/2026 22:09",
       "activities": [
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-11-13T22:09:57Z",
+          "instanceId": "17277594631"
+        },
+        {
+          "name": "Cripta di Pietrafonda",
+          "period": "2026-11-13T22:03:16Z",
+          "instanceId": "17277548875"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-11-13T21:15:55Z",
+          "instanceId": "17277529519"
+        },
         {
           "name": "Volta di Vetro: Standard",
           "period": "2026-11-13T20:45:12Z",
@@ -246,21 +261,6 @@
           "name": "Controllo: Con matchmaking",
           "period": "2026-07-01T16:32:17Z",
           "instanceId": "16999955015"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-01T16:20:52Z",
-          "instanceId": "16999924172"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-01T06:43:49Z",
-          "instanceId": "16998747677"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-07-01T06:31:11Z",
-          "instanceId": "16998717097"
         }
       ]
     },
@@ -268,15 +268,25 @@
       "displayName": "No TAG Jay#1042",
       "membershipId": "4611686018465064117",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Titani",
       "title": "Portatore di desideri",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
-      "powerLevel": 545,
-      "lastPlayedTimestamp": 1794606620000,
-      "lastActivityTimestamp": 1794602712000,
-      "lastActivityText": "Volta di Vetro: Standard il 13/11/2026 20:45",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/8fff442ea3ccb655437e333a1edf48c8.jpg",
+      "powerLevel": 529,
+      "lastPlayedTimestamp": 1794609671000,
+      "lastActivityTimestamp": 1794607797000,
+      "lastActivityText": "La fine di Crota: Standard il 13/11/2026 22:09",
       "activities": [
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-11-13T22:09:57Z",
+          "instanceId": "17277594631"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-11-13T21:15:55Z",
+          "instanceId": "17277529519"
+        },
         {
           "name": "Volta di Vetro: Standard",
           "period": "2026-11-13T20:45:12Z",
@@ -316,16 +326,6 @@
           "name": "Partita veloce: maestro: Maestro",
           "period": "2026-10-11T19:09:20Z",
           "instanceId": "17224161115"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-10-11T19:03:27Z",
-          "instanceId": "17224124667"
-        },
-        {
-          "name": "Lega Gare di Astori",
-          "period": "2026-10-10T22:48:48Z",
-          "instanceId": "17222257789"
         }
       ]
     },
@@ -333,15 +333,25 @@
       "displayName": "TheAnOnymous166#8849",
       "membershipId": "4611686018528729550",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Pasticcera stellare",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1794606574000,
-      "lastActivityTimestamp": 1794602712000,
-      "lastActivityText": "Volta di Vetro: Standard il 13/11/2026 20:45",
+      "lastPlayedTimestamp": 1794609484000,
+      "lastActivityTimestamp": 1794607797000,
+      "lastActivityText": "La fine di Crota: Standard il 13/11/2026 22:09",
       "activities": [
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-11-13T22:09:57Z",
+          "instanceId": "17277594631"
+        },
+        {
+          "name": "Volta di Vetro: Standard",
+          "period": "2026-11-13T21:15:55Z",
+          "instanceId": "17277529519"
+        },
         {
           "name": "Volta di Vetro: Standard",
           "period": "2026-11-13T20:45:12Z",
@@ -381,16 +391,6 @@
           "name": "Comando del Vespro: Normale",
           "period": "2026-11-01T15:36:38Z",
           "instanceId": "17260223279"
-        },
-        {
-          "name": "Eliostasi: Personalizzata",
-          "period": "2026-11-01T14:41:06Z",
-          "instanceId": "17260200830"
-        },
-        {
-          "name": "Missione mito: Carica: Mito",
-          "period": "2026-11-01T09:11:12Z",
-          "instanceId": "17259859276"
         }
       ]
     },
