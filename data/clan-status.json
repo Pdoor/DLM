@@ -1,22 +1,97 @@
 {
-  "generatedAt": "2026-11-20T17:43:58.159Z",
+  "generatedAt": "2026-11-20T23:51:25.546Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "alexcecenko#951",
+      "membershipId": "4611686018463713971",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/722be3a8f584c5cafe6b8f107b3d66c2.jpg",
+      "powerLevel": 544,
+      "lastPlayedTimestamp": 1795215212000,
+      "lastActivityTimestamp": 1795207415000,
+      "lastActivityText": "Rovina della Signora della Guerra: Standard il 20/11/2026 20:43",
+      "activities": [
+        {
+          "name": "Rovina della Signora della Guerra: Standard",
+          "period": "2026-11-20T20:43:35Z",
+          "instanceId": "17286082946"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-11-20T20:19:11Z",
+          "instanceId": "17285943232"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-11-20T20:11:31Z",
+          "instanceId": "17285934032"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-11-20T19:20:15Z",
+          "instanceId": "17285890421"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-11-20T19:08:26Z",
+          "instanceId": "17285880046"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-11-18T22:19:13Z",
+          "instanceId": "17284160057"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-11-17T22:41:00Z",
+          "instanceId": "17283081489"
+        },
+        {
+          "name": "La caduta di un Re: Standard",
+          "period": "2026-11-17T22:05:29Z",
+          "instanceId": "17283297752"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-11-17T21:59:58Z",
+          "instanceId": "17283033854"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-11-17T21:48:08Z",
+          "instanceId": "17283027994"
+        }
+      ]
+    },
+    {
       "displayName": "TheAnOnymous166#8849",
       "membershipId": "4611686018528729550",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Pasticcera stellare",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
-      "powerLevel": 482,
-      "lastPlayedTimestamp": 1795196591000,
-      "lastActivityTimestamp": 1795195773000,
-      "lastActivityText": "Controllo: Con matchmaking il 20/11/2026 17:29",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1795215033000,
+      "lastActivityTimestamp": 1795207415000,
+      "lastActivityText": "Rovina della Signora della Guerra: Standard il 20/11/2026 20:43",
       "activities": [
+        {
+          "name": "Rovina della Signora della Guerra: Standard",
+          "period": "2026-11-20T20:43:35Z",
+          "instanceId": "17286082946"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-11-20T17:42:52Z",
+          "instanceId": "17285805372"
+        },
         {
           "name": "Controllo: Con matchmaking",
           "period": "2026-11-20T17:29:33Z",
@@ -56,16 +131,6 @@
           "name": "Luna",
           "period": "2026-11-16T18:38:35Z",
           "instanceId": "17281663621"
-        },
-        {
-          "name": "Luna",
-          "period": "2026-11-16T17:38:19Z",
-          "instanceId": "17281661299"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-15T22:05:32Z",
-          "instanceId": "17280685169"
         }
       ]
     },
@@ -73,15 +138,35 @@
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/55a2f41a0bf4b3383d38fe9398e2911b.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1795196565000,
-      "lastActivityTimestamp": 1795195028000,
-      "lastActivityText": "Terreni di Prova: Con matchmaking il 20/11/2026 17:17",
+      "lastPlayedTimestamp": 1795202696000,
+      "lastActivityTimestamp": 1795201630000,
+      "lastActivityText": "Conquista modalità maestro: Fortezza della Guida: Personalizzata il 20/11/2026 19:07",
       "activities": [
+        {
+          "name": "Conquista modalità maestro: Fortezza della Guida: Personalizzata",
+          "period": "2026-11-20T19:07:10Z",
+          "instanceId": "17285891145"
+        },
+        {
+          "name": "Conquista modalità esperto: Luna: Personalizzata",
+          "period": "2026-11-20T18:50:41Z",
+          "instanceId": "17285868067"
+        },
+        {
+          "name": "Caccia all'incubo: furia: Maestro",
+          "period": "2026-11-20T18:41:55Z",
+          "instanceId": "17285852939"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-11-20T18:36:54Z",
+          "instanceId": "17285845452"
+        },
         {
           "name": "Terreni di Prova: Con matchmaking",
           "period": "2026-11-20T17:17:08Z",
@@ -111,26 +196,6 @@
           "name": "Campo di battaglia Colpo: Luna: Personalizzata",
           "period": "2026-11-20T15:11:58Z",
           "instanceId": "17285710149"
-        },
-        {
-          "name": "La culla del male: Personalizzata",
-          "period": "2026-11-19T15:56:28Z",
-          "instanceId": "17284832493"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-11-19T15:37:34Z",
-          "instanceId": "17284817174"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-11-19T15:22:43Z",
-          "instanceId": "17284805677"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-11-19T15:05:29Z",
-          "instanceId": "17284797009"
         }
       ]
     },
@@ -138,12 +203,12 @@
       "displayName": "LastElm22938910#5181",
       "membershipId": "4611686018504659403",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Cacciatori",
       "title": "AUDACE",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/28897ceb9bc382ebd54324473dbe33a5.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1795196593000,
+      "lastPlayedTimestamp": 1795197133000,
       "lastActivityTimestamp": 1795195028000,
       "lastActivityText": "Terreni di Prova: Con matchmaking il 20/11/2026 17:17",
       "activities": [
@@ -521,71 +586,6 @@
           "name": "Supremazia: Metallo Pesante: Con matchmaking",
           "period": "2026-11-11T17:49:17Z",
           "instanceId": "17274744884"
-        }
-      ]
-    },
-    {
-      "displayName": "alexcecenko#951",
-      "membershipId": "4611686018463713971",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/722be3a8f584c5cafe6b8f107b3d66c2.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1795043540000,
-      "lastActivityTimestamp": 1795040353000,
-      "lastActivityText": "La caduta di un Re: Standard il 18/11/2026 22:19",
-      "activities": [
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-11-18T22:19:13Z",
-          "instanceId": "17284160057"
-        },
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-11-17T22:41:00Z",
-          "instanceId": "17283081489"
-        },
-        {
-          "name": "La caduta di un Re: Standard",
-          "period": "2026-11-17T22:05:29Z",
-          "instanceId": "17283297752"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-11-17T21:59:58Z",
-          "instanceId": "17283033854"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-11-17T21:48:08Z",
-          "instanceId": "17283027994"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-11-17T21:37:32Z",
-          "instanceId": "17283016158"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-11-17T21:25:01Z",
-          "instanceId": "17283008181"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-11-17T21:24:25Z",
-          "instanceId": "17283006068"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-11-17T21:11:33Z",
-          "instanceId": "17282993429"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-11-17T20:58:44Z",
-          "instanceId": "17282981115"
         }
       ]
     },
