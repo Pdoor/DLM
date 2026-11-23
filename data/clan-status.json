@@ -1,9 +1,74 @@
 {
-  "generatedAt": "2026-11-23T03:00:14.639Z",
+  "generatedAt": "2026-11-23T12:15:55.425Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1795434431000,
+      "lastActivityTimestamp": 1795432508000,
+      "lastActivityText": "Morsa della cupidigia: Maestro il 23/11/2026 11:15",
+      "activities": [
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-11-23T11:15:08Z",
+          "instanceId": "17289324922"
+        },
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-11-23T11:04:57Z",
+          "instanceId": "17289321445"
+        },
+        {
+          "name": "Morsa della cupidigia: Maestro",
+          "period": "2026-11-23T10:54:52Z",
+          "instanceId": "17289316557"
+        },
+        {
+          "name": "Spedizione: Cosmodromo: Con matchmaking",
+          "period": "2026-11-23T10:28:40Z",
+          "instanceId": "17289306350"
+        },
+        {
+          "name": "Cosmodromo",
+          "period": "2026-11-23T09:46:00Z",
+          "instanceId": "17289285360"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-11-23T09:30:18Z",
+          "instanceId": "17289280000"
+        },
+        {
+          "name": "Campi di battaglia: Colosso: Con matchmaking",
+          "period": "2026-11-23T09:00:17Z",
+          "instanceId": "17289266025"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-11-23T08:18:48Z",
+          "instanceId": "17289245239"
+        },
+        {
+          "name": "Terminale Intuitivo: Con matchmaking",
+          "period": "2026-11-23T08:08:24Z",
+          "instanceId": "17289239268"
+        },
+        {
+          "name": "Il Ponte di Vetro: Personalizzata",
+          "period": "2026-11-22T18:27:16Z",
+          "instanceId": "17288430528"
+        }
+      ]
+    },
     {
       "displayName": "mitoflo#6589",
       "membershipId": "4611686018441699415",
@@ -196,71 +261,6 @@
           "name": "Volta di Vetro: Standard",
           "period": "2026-11-22T13:04:25Z",
           "instanceId": "17288103349"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1795374744000,
-      "lastActivityTimestamp": 1795372036000,
-      "lastActivityText": "Il Ponte di Vetro: Personalizzata il 22/11/2026 18:27",
-      "activities": [
-        {
-          "name": "Il Ponte di Vetro: Personalizzata",
-          "period": "2026-11-22T18:27:16Z",
-          "instanceId": "17288430528"
-        },
-        {
-          "name": "Il Ponte di Vetro: Personalizzata",
-          "period": "2026-11-22T17:59:57Z",
-          "instanceId": "17288407496"
-        },
-        {
-          "name": "Terminale Intuitivo: Con matchmaking",
-          "period": "2026-11-22T17:45:55Z",
-          "instanceId": "17288377954"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-11-22T17:28:51Z",
-          "instanceId": "17288363497"
-        },
-        {
-          "name": "Campi di battaglia: Colosso: Con matchmaking",
-          "period": "2026-11-22T17:08:40Z",
-          "instanceId": "17288339682"
-        },
-        {
-          "name": "Missione mito: Il messaggio: Mito",
-          "period": "2026-11-22T12:08:32Z",
-          "instanceId": "17288114092"
-        },
-        {
-          "name": "Modalità del mondo: mito: Mito",
-          "period": "2026-11-22T09:41:49Z",
-          "instanceId": "17288065371"
-        },
-        {
-          "name": "Cosmodromo",
-          "period": "2026-11-21T18:59:16Z",
-          "instanceId": "17287143171"
-        },
-        {
-          "name": "L'Oscura Sacerdotessa: Con matchmaking",
-          "period": "2026-11-21T18:34:07Z",
-          "instanceId": "17287100602"
-        },
-        {
-          "name": "Profondo Dimenticato: Maestro",
-          "period": "2026-11-21T18:06:00Z",
-          "instanceId": "17287074465"
         }
       ]
     },
