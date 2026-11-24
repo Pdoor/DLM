@@ -1,19 +1,344 @@
 {
-  "generatedAt": "2026-11-24T10:18:55.400Z",
+  "generatedAt": "2026-11-24T20:48:21.778Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "alexcecenko#951",
+      "membershipId": "4611686018463713971",
+      "bungieNetMembershipId": "",
+      "isOnline": true,
+      "className": "Stregoni",
+      "title": "Leggenda",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1795553222000,
+      "lastActivityTimestamp": 1795549818000,
+      "lastActivityText": "Europa il 24/11/2026 19:50",
+      "activities": [
+        {
+          "name": "Europa",
+          "period": "2026-11-24T19:50:18Z",
+          "instanceId": "17290744273"
+        },
+        {
+          "name": "Pallido Cuore",
+          "period": "2026-11-23T22:15:02Z",
+          "instanceId": "17289806932"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-11-23T21:53:59Z",
+          "instanceId": "17289800355"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-11-23T21:53:32Z",
+          "instanceId": "17289781695"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-11-23T21:39:44Z",
+          "instanceId": "17289780836"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-11-23T21:27:50Z",
+          "instanceId": "17289767659"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-11-23T21:01:35Z",
+          "instanceId": "17289758570"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-11-23T20:34:20Z",
+          "instanceId": "17289733463"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-11-23T20:30:02Z",
+          "instanceId": "17289712877"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-11-23T20:18:24Z",
+          "instanceId": "17289701667"
+        }
+      ]
+    },
+    {
+      "displayName": "fabfio60#3756",
+      "membershipId": "4611686018511254779",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Conquistatore",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/55a2f41a0bf4b3383d38fe9398e2911b.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1795546355000,
+      "lastActivityTimestamp": 1795545352000,
+      "lastActivityText": "Spedizione: Nessus: Personalizzata il 24/11/2026 18:35",
+      "activities": [
+        {
+          "name": "Spedizione: Nessus: Personalizzata",
+          "period": "2026-11-24T18:35:52Z",
+          "instanceId": "17290689826"
+        },
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-11-24T17:36:59Z",
+          "instanceId": "17290663525"
+        },
+        {
+          "name": "Pinnacolo di Savathûn: Con matchmaking",
+          "period": "2026-11-24T17:11:54Z",
+          "instanceId": "17290624729"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-11-24T16:52:12Z",
+          "instanceId": "17290603696"
+        },
+        {
+          "name": "Conquista modalità gran maestro: Colpo su Marte: Personalizzata",
+          "period": "2026-11-24T16:33:12Z",
+          "instanceId": "17290586907"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-11-23T18:19:34Z",
+          "instanceId": "17289633557"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-11-23T18:09:20Z",
+          "instanceId": "17289589099"
+        },
+        {
+          "name": "Corte della Vedova: Con matchmaking",
+          "period": "2026-11-23T18:01:24Z",
+          "instanceId": "17289606248"
+        },
+        {
+          "name": "Corte della Vedova: Personalizzata",
+          "period": "2026-11-23T17:46:31Z",
+          "instanceId": "17289573108"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-11-23T15:59:43Z",
+          "instanceId": "17289500787"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "MMXXIII",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1795546349000,
+      "lastActivityTimestamp": 1795545352000,
+      "lastActivityText": "Spedizione: Nessus: Personalizzata il 24/11/2026 18:35",
+      "activities": [
+        {
+          "name": "Spedizione: Nessus: Personalizzata",
+          "period": "2026-11-24T18:35:52Z",
+          "instanceId": "17290689826"
+        },
+        {
+          "name": "Centro Città: Con matchmaking",
+          "period": "2026-11-24T17:36:59Z",
+          "instanceId": "17290663525"
+        },
+        {
+          "name": "Pinnacolo di Savathûn: Con matchmaking",
+          "period": "2026-11-24T17:11:54Z",
+          "instanceId": "17290624729"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-11-24T16:52:12Z",
+          "instanceId": "17290603696"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-11-23T18:19:34Z",
+          "instanceId": "17289633557"
+        },
+        {
+          "name": "Trafficante d'armi: Personalizzata",
+          "period": "2026-11-23T18:09:20Z",
+          "instanceId": "17289589099"
+        },
+        {
+          "name": "Il Ponte di Vetro: Personalizzata",
+          "period": "2026-11-23T17:45:57Z",
+          "instanceId": "17289578540"
+        },
+        {
+          "name": "La disonorata: Personalizzata",
+          "period": "2026-11-23T17:28:21Z",
+          "instanceId": "17289560034"
+        },
+        {
+          "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
+          "period": "2026-11-23T17:22:50Z",
+          "instanceId": "17289546614"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-11-23T16:41:06Z",
+          "instanceId": "17289534706"
+        }
+      ]
+    },
+    {
+      "displayName": "Chimeras6w6#8598",
+      "membershipId": "4611686018450626006",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Stregoni",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/31c293834397c4a5dcebdc97b222874e.jpg",
+      "powerLevel": 532,
+      "lastPlayedTimestamp": 1795534828000,
+      "lastActivityTimestamp": 1795534251000,
+      "lastActivityText": "Morsa della cupidigia: Standard il 24/11/2026 15:30",
+      "activities": [
+        {
+          "name": "Morsa della cupidigia: Standard",
+          "period": "2026-11-24T15:30:51Z",
+          "instanceId": "17290541704"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-11-24T14:46:53Z",
+          "instanceId": "17290512933"
+        },
+        {
+          "name": "Modalità del mondo: audace: Audace",
+          "period": "2026-11-23T16:41:06Z",
+          "instanceId": "17289534706"
+        },
+        {
+          "name": "Il setaccio",
+          "period": "2026-11-23T16:22:01Z",
+          "instanceId": "17289511724"
+        },
+        {
+          "name": "Modalità del mondo: mito: Mito",
+          "period": "2026-11-23T16:15:12Z",
+          "instanceId": "17289497336"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-11-23T15:43:22Z",
+          "instanceId": "17289489781"
+        },
+        {
+          "name": "Partita veloce: maestro: Maestro",
+          "period": "2026-11-23T15:28:22Z",
+          "instanceId": "17289471159"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-11-23T15:01:36Z",
+          "instanceId": "17289450960"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-11-22T14:16:56Z",
+          "instanceId": "17288270324"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-11-22T14:03:53Z",
+          "instanceId": "17288159461"
+        }
+      ]
+    },
+    {
+      "displayName": "albybender4894#4526",
+      "membershipId": "4611686018500448501",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2660c7e16c0824a9e2ab167cede1fcab.jpg",
+      "powerLevel": 489,
+      "lastPlayedTimestamp": 1795530049000,
+      "lastActivityTimestamp": 1795529954000,
+      "lastActivityText": "Controllo: Con matchmaking il 24/11/2026 14:19",
+      "activities": [
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-11-24T14:19:14Z",
+          "instanceId": "17290496740"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-11-24T14:04:08Z",
+          "instanceId": "17290486446"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-11-23T21:53:59Z",
+          "instanceId": "17289800355"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-11-23T21:53:32Z",
+          "instanceId": "17289781695"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-11-23T21:39:44Z",
+          "instanceId": "17289780836"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-11-23T21:27:50Z",
+          "instanceId": "17289767659"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-11-23T21:01:35Z",
+          "instanceId": "17289758570"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-11-23T20:34:20Z",
+          "instanceId": "17289733463"
+        },
+        {
+          "name": "Controllo: Con matchmaking",
+          "period": "2026-11-23T16:34:38Z",
+          "instanceId": "17289514755"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-23T16:11:24Z",
+          "instanceId": "17289505807"
+        }
+      ]
+    },
+    {
       "displayName": "mitoflo#6589",
       "membershipId": "4611686018441699415",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatrice",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a4437899b5ee912806968c88d8274fbc.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1795473106000,
+      "lastPlayedTimestamp": 1795553292000,
       "lastActivityTimestamp": 1795472971000,
       "lastActivityText": "La fine di Crota: Standard il 23/11/2026 22:29",
       "activities": [
@@ -70,136 +395,6 @@
       ]
     },
     {
-      "displayName": "alexcecenko#951",
-      "membershipId": "4611686018463713971",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Leggenda",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 549,
-      "lastPlayedTimestamp": 1795472302000,
-      "lastActivityTimestamp": 1795472102000,
-      "lastActivityText": "Pallido Cuore il 23/11/2026 22:15",
-      "activities": [
-        {
-          "name": "Pallido Cuore",
-          "period": "2026-11-23T22:15:02Z",
-          "instanceId": "17289806932"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-23T21:53:59Z",
-          "instanceId": "17289800355"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-23T21:53:32Z",
-          "instanceId": "17289781695"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-23T21:39:44Z",
-          "instanceId": "17289780836"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-23T21:27:50Z",
-          "instanceId": "17289767659"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-23T21:01:35Z",
-          "instanceId": "17289758570"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-23T20:34:20Z",
-          "instanceId": "17289733463"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-11-23T20:30:02Z",
-          "instanceId": "17289712877"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-11-23T20:18:24Z",
-          "instanceId": "17289701667"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-22T21:44:05Z",
-          "instanceId": "17288663482"
-        }
-      ]
-    },
-    {
-      "displayName": "albybender4894#4526",
-      "membershipId": "4611686018500448501",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Cacciatori",
-      "title": "",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2660c7e16c0824a9e2ab167cede1fcab.jpg",
-      "powerLevel": 492,
-      "lastPlayedTimestamp": 1795472344000,
-      "lastActivityTimestamp": 1795470839000,
-      "lastActivityText": "Ultimo desiderio: Standard il 23/11/2026 21:53",
-      "activities": [
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-23T21:53:59Z",
-          "instanceId": "17289800355"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-23T21:53:32Z",
-          "instanceId": "17289781695"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-23T21:39:44Z",
-          "instanceId": "17289780836"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-23T21:27:50Z",
-          "instanceId": "17289767659"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-23T21:01:35Z",
-          "instanceId": "17289758570"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-23T20:34:20Z",
-          "instanceId": "17289733463"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-11-23T16:34:38Z",
-          "instanceId": "17289514755"
-        },
-        {
-          "name": "Poligono di Tiro",
-          "period": "2026-11-23T16:26:15Z",
-          "instanceId": "17289503470"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-11-23T16:11:24Z",
-          "instanceId": "17289505807"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-11-23T14:20:42Z",
-          "instanceId": "17289425285"
-        }
-      ]
-    },
-    {
       "displayName": "TheAnOnymous166#8849",
       "membershipId": "4611686018528729550",
       "bungieNetMembershipId": "",
@@ -208,7 +403,7 @@
       "title": "Pasticcera stellare",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1795472076000,
+      "lastPlayedTimestamp": 1795541374000,
       "lastActivityTimestamp": 1795470839000,
       "lastActivityText": "Ultimo desiderio: Standard il 23/11/2026 21:53",
       "activities": [
@@ -391,201 +586,6 @@
           "name": "Bunker dei caduti: Con matchmaking",
           "period": "2026-07-20T21:20:43Z",
           "instanceId": "17072922290"
-        }
-      ]
-    },
-    {
-      "displayName": "fabfio60#3756",
-      "membershipId": "4611686018511254779",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Conquistatore",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/55a2f41a0bf4b3383d38fe9398e2911b.jpg",
-      "powerLevel": 548,
-      "lastPlayedTimestamp": 1795461128000,
-      "lastActivityTimestamp": 1795457974000,
-      "lastActivityText": "Trafficante d'armi: Personalizzata il 23/11/2026 18:19",
-      "activities": [
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-11-23T18:19:34Z",
-          "instanceId": "17289633557"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-11-23T18:09:20Z",
-          "instanceId": "17289589099"
-        },
-        {
-          "name": "Corte della Vedova: Con matchmaking",
-          "period": "2026-11-23T18:01:24Z",
-          "instanceId": "17289606248"
-        },
-        {
-          "name": "Corte della Vedova: Personalizzata",
-          "period": "2026-11-23T17:46:31Z",
-          "instanceId": "17289573108"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-11-23T15:59:43Z",
-          "instanceId": "17289500787"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-11-23T15:49:25Z",
-          "instanceId": "17289480976"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-11-23T15:40:58Z",
-          "instanceId": "17289475395"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-11-23T15:21:50Z",
-          "instanceId": "17289468547"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-11-23T15:14:48Z",
-          "instanceId": "17289457122"
-        },
-        {
-          "name": "Operazione: Scudo del Serafino: Personalizzata",
-          "period": "2026-11-23T14:34:27Z",
-          "instanceId": "17289450209"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "MMXXIII",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/970a0fbc2d1c0108907c3dedd0d4a3a1.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1795461636000,
-      "lastActivityTimestamp": 1795457974000,
-      "lastActivityText": "Trafficante d'armi: Personalizzata il 23/11/2026 18:19",
-      "activities": [
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-11-23T18:19:34Z",
-          "instanceId": "17289633557"
-        },
-        {
-          "name": "Trafficante d'armi: Personalizzata",
-          "period": "2026-11-23T18:09:20Z",
-          "instanceId": "17289589099"
-        },
-        {
-          "name": "Il Ponte di Vetro: Personalizzata",
-          "period": "2026-11-23T17:45:57Z",
-          "instanceId": "17289578540"
-        },
-        {
-          "name": "La disonorata: Personalizzata",
-          "period": "2026-11-23T17:28:21Z",
-          "instanceId": "17289560034"
-        },
-        {
-          "name": "Conquista modalità gran maestro: La disonorata: Personalizzata",
-          "period": "2026-11-23T17:22:50Z",
-          "instanceId": "17289546614"
-        },
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-11-23T16:41:06Z",
-          "instanceId": "17289534706"
-        },
-        {
-          "name": "Il setaccio",
-          "period": "2026-11-23T16:22:01Z",
-          "instanceId": "17289511724"
-        },
-        {
-          "name": "Modalità del mondo: mito: Mito",
-          "period": "2026-11-23T16:15:12Z",
-          "instanceId": "17289497336"
-        },
-        {
-          "name": "Campo di battaglia Colpo: Luna: Personalizzata",
-          "period": "2026-11-23T15:20:22Z",
-          "instanceId": "17289469562"
-        },
-        {
-          "name": "Terreni di Prova: Personalizzata",
-          "period": "2026-11-23T14:53:20Z",
-          "instanceId": "17289455475"
-        }
-      ]
-    },
-    {
-      "displayName": "Chimeras6w6#8598",
-      "membershipId": "4611686018450626006",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/31c293834397c4a5dcebdc97b222874e.jpg",
-      "powerLevel": 537,
-      "lastPlayedTimestamp": 1795454312000,
-      "lastActivityTimestamp": 1795452066000,
-      "lastActivityText": "Modalità del mondo: audace: Audace il 23/11/2026 16:41",
-      "activities": [
-        {
-          "name": "Modalità del mondo: audace: Audace",
-          "period": "2026-11-23T16:41:06Z",
-          "instanceId": "17289534706"
-        },
-        {
-          "name": "Il setaccio",
-          "period": "2026-11-23T16:22:01Z",
-          "instanceId": "17289511724"
-        },
-        {
-          "name": "Modalità del mondo: mito: Mito",
-          "period": "2026-11-23T16:15:12Z",
-          "instanceId": "17289497336"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-11-23T15:43:22Z",
-          "instanceId": "17289489781"
-        },
-        {
-          "name": "Partita veloce: maestro: Maestro",
-          "period": "2026-11-23T15:28:22Z",
-          "instanceId": "17289471159"
-        },
-        {
-          "name": "Controllo: Con matchmaking",
-          "period": "2026-11-23T15:01:36Z",
-          "instanceId": "17289450960"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-11-22T14:16:56Z",
-          "instanceId": "17288270324"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-11-22T14:03:53Z",
-          "instanceId": "17288159461"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-11-22T13:47:16Z",
-          "instanceId": "17288151521"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-11-22T13:45:53Z",
-          "instanceId": "17288134862"
         }
       ]
     },
@@ -850,15 +850,80 @@
       ]
     },
     {
+      "displayName": "alex__72#1115",
+      "membershipId": "4611686018443352269",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "Viandante del Reame",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/40cf702a42a33d6d0050c632808045d3.jpg",
+      "powerLevel": 481,
+      "lastPlayedTimestamp": 1795539503000,
+      "lastActivityTimestamp": 1794933313000,
+      "lastActivityText": "Conservazione il 17/11/2026 16:35",
+      "activities": [
+        {
+          "name": "Conservazione",
+          "period": "2026-11-17T16:35:13Z",
+          "instanceId": "17282776192"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-11-17T16:26:36Z",
+          "instanceId": "17282748621"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-11-03T17:24:46Z",
+          "instanceId": "17263488286"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-11-03T16:48:09Z",
+          "instanceId": "17263477679"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-10-27T16:51:04Z",
+          "instanceId": "17252431966"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-10-27T16:34:54Z",
+          "instanceId": "17252429461"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-10-27T15:47:33Z",
+          "instanceId": "17252412941"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-10-20T09:33:33Z",
+          "instanceId": "17240883395"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-10-20T09:19:38Z",
+          "instanceId": "17240863414"
+        },
+        {
+          "name": "Conservazione",
+          "period": "2026-10-14T23:16:21Z",
+          "instanceId": "17230357426"
+        }
+      ]
+    },
+    {
       "displayName": "Ghost of Warlock#5159",
       "membershipId": "4611686018513286564",
       "bungieNetMembershipId": "",
-      "isOnline": false,
+      "isOnline": true,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 550,
-      "lastPlayedTimestamp": 1795378891000,
+      "powerLevel": 545,
+      "lastPlayedTimestamp": 1795553221000,
       "lastActivityTimestamp": 1794866646000,
       "lastActivityText": "Poligono di Tiro il 16/11/2026 22:04",
       "activities": [
@@ -1561,71 +1626,6 @@
           "name": "La corrotta: Con matchmaking",
           "period": "2026-06-25T05:44:24Z",
           "instanceId": "16969529540"
-        }
-      ]
-    },
-    {
-      "displayName": "alex__72#1115",
-      "membershipId": "4611686018443352269",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Stregoni",
-      "title": "Tecnosimbionte",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/79ce4893d1bb6c1205c2f2e1506333c8.jpg",
-      "powerLevel": 383,
-      "lastPlayedTimestamp": 1794935351000,
-      "lastActivityTimestamp": 1791887531000,
-      "lastActivityText": "Promessa del Discepolo: Standard il 13/10/2026 10:32",
-      "activities": [
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-10-13T10:32:11Z",
-          "instanceId": "17227591039"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-19T16:07:17Z",
-          "instanceId": "16936937231"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-06-19T15:35:41Z",
-          "instanceId": "16936868894"
-        },
-        {
-          "name": "Pantheon: Morgeth soverchiante: Personalizzata",
-          "period": "2026-06-19T13:35:32Z",
-          "instanceId": "16936300127"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-18T20:25:25Z",
-          "instanceId": "16932084617"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-06-18T20:01:28Z",
-          "instanceId": "16931987360"
-        },
-        {
-          "name": "Impero: Leggendaria",
-          "period": "2025-12-09T08:24:22Z",
-          "instanceId": "16672612320"
-        },
-        {
-          "name": "Rito dei Nove",
-          "period": "2025-07-14T10:07:39Z",
-          "instanceId": "16285103572"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2025-06-24T14:47:13Z",
-          "instanceId": "16236132348"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2025-06-15T16:05:28Z",
-          "instanceId": "16218374510"
         }
       ]
     },
