@@ -1,19 +1,149 @@
 {
-  "generatedAt": "2026-11-26T18:16:34.649Z",
+  "generatedAt": "2026-11-27T01:53:25.098Z",
   "clanName": "Destiny Lore Masters",
   "groupId": "5420062",
   "remoteGroupId": "6761737",
   "members": [
     {
+      "displayName": "UplandArtist602#4553",
+      "membershipId": "4611686018500645642",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Titani",
+      "title": "Signore del Ferro",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
+      "powerLevel": 515,
+      "lastPlayedTimestamp": 1795734333000,
+      "lastActivityTimestamp": 1795729288000,
+      "lastActivityText": "Fuoco e ghiaccio: Leggendaria il 26/11/2026 21:41",
+      "activities": [
+        {
+          "name": "Fuoco e ghiaccio: Leggendaria",
+          "period": "2026-11-26T21:41:28Z",
+          "instanceId": "17293155754"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-24T21:54:30Z",
+          "instanceId": "17290875268"
+        },
+        {
+          "name": "Partita veloce: Normale",
+          "period": "2026-11-24T21:39:56Z",
+          "instanceId": "17290859950"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-11-23T21:53:59Z",
+          "instanceId": "17289800355"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-11-23T21:39:44Z",
+          "instanceId": "17289780836"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-11-23T21:27:50Z",
+          "instanceId": "17289767659"
+        },
+        {
+          "name": "Ultimo desiderio: Standard",
+          "period": "2026-11-23T21:01:35Z",
+          "instanceId": "17289758570"
+        },
+        {
+          "name": "Deserto perpetuo: Standard",
+          "period": "2026-11-22T14:16:56Z",
+          "instanceId": "17288270324"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-11-22T14:03:53Z",
+          "instanceId": "17288159461"
+        },
+        {
+          "name": "La fine di Crota: Standard",
+          "period": "2026-11-22T13:47:16Z",
+          "instanceId": "17288151521"
+        }
+      ]
+    },
+    {
+      "displayName": "LastElm22938910#5181",
+      "membershipId": "4611686018504659403",
+      "bungieNetMembershipId": "",
+      "isOnline": false,
+      "className": "Cacciatori",
+      "title": "AUDACE",
+      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/28897ceb9bc382ebd54324473dbe33a5.jpg",
+      "powerLevel": 517,
+      "lastPlayedTimestamp": 1795721102000,
+      "lastActivityTimestamp": 1795719847000,
+      "lastActivityText": "La Tana dei Diavoli: Con matchmaking il 26/11/2026 19:04",
+      "activities": [
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-11-26T19:04:07Z",
+          "instanceId": "17292950981"
+        },
+        {
+          "name": "Lago di ombre: Con matchmaking",
+          "period": "2026-11-26T18:42:35Z",
+          "instanceId": "17292927882"
+        },
+        {
+          "name": "Promessa del Discepolo: Standard",
+          "period": "2026-11-26T17:56:13Z",
+          "instanceId": "17292876798"
+        },
+        {
+          "name": "Cella Senza Sole: Personalizzata",
+          "period": "2026-11-25T13:26:18Z",
+          "instanceId": "17291562000"
+        },
+        {
+          "name": "La Tana dei Diavoli: Con matchmaking",
+          "period": "2026-11-25T12:34:37Z",
+          "instanceId": "17291532400"
+        },
+        {
+          "name": "La lama di Luce: Personalizzata",
+          "period": "2026-11-24T16:11:15Z",
+          "instanceId": "17290577714"
+        },
+        {
+          "name": "Cella Senza Sole: Con matchmaking",
+          "period": "2026-11-24T15:56:14Z",
+          "instanceId": "17290560624"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-11-24T13:06:32Z",
+          "instanceId": "17290453338"
+        },
+        {
+          "name": "Europa",
+          "period": "2026-11-24T13:03:19Z",
+          "instanceId": "17290447154"
+        },
+        {
+          "name": "Bunker E15: Maestro",
+          "period": "2026-11-24T12:38:02Z",
+          "instanceId": "17290440900"
+        }
+      ]
+    },
+    {
       "displayName": "fabfio60#3756",
       "membershipId": "4611686018511254779",
       "bungieNetMembershipId": "",
-      "isOnline": true,
+      "isOnline": false,
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/55a2f41a0bf4b3383d38fe9398e2911b.jpg",
       "powerLevel": 548,
-      "lastPlayedTimestamp": 1795716942000,
+      "lastPlayedTimestamp": 1795717992000,
       "lastActivityTimestamp": 1795715773000,
       "lastActivityText": "Promessa del Discepolo: Standard il 26/11/2026 17:56",
       "activities": [
@@ -66,71 +196,6 @@
           "name": "Primo contatto: Leggendaria",
           "period": "2026-11-26T15:05:28Z",
           "instanceId": "17292726213"
-        }
-      ]
-    },
-    {
-      "displayName": "LastElm22938910#5181",
-      "membershipId": "4611686018504659403",
-      "bungieNetMembershipId": "",
-      "isOnline": true,
-      "className": "Cacciatori",
-      "title": "AUDACE",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/28897ceb9bc382ebd54324473dbe33a5.jpg",
-      "powerLevel": 517,
-      "lastPlayedTimestamp": 1795716776000,
-      "lastActivityTimestamp": 1795715773000,
-      "lastActivityText": "Promessa del Discepolo: Standard il 26/11/2026 17:56",
-      "activities": [
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-11-26T17:56:13Z",
-          "instanceId": "17292876798"
-        },
-        {
-          "name": "Cella Senza Sole: Personalizzata",
-          "period": "2026-11-25T13:26:18Z",
-          "instanceId": "17291562000"
-        },
-        {
-          "name": "La Tana dei Diavoli: Con matchmaking",
-          "period": "2026-11-25T12:34:37Z",
-          "instanceId": "17291532400"
-        },
-        {
-          "name": "La lama di Luce: Personalizzata",
-          "period": "2026-11-24T16:11:15Z",
-          "instanceId": "17290577714"
-        },
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-11-24T15:56:14Z",
-          "instanceId": "17290560624"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-11-24T13:06:32Z",
-          "instanceId": "17290453338"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-11-24T13:03:19Z",
-          "instanceId": "17290447154"
-        },
-        {
-          "name": "Bunker E15: Maestro",
-          "period": "2026-11-24T12:38:02Z",
-          "instanceId": "17290440900"
-        },
-        {
-          "name": "Europa",
-          "period": "2026-11-24T12:32:42Z",
-          "instanceId": "17290432495"
-        },
-        {
-          "name": "Cella Senza Sole: Con matchmaking",
-          "period": "2026-11-24T11:06:14Z",
-          "instanceId": "17290397761"
         }
       ]
     },
@@ -468,7 +533,7 @@
       "title": "Pasticcera stellare",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/a89be02f9d262cfb0bb70ea71febf509.jpg",
       "powerLevel": 550,
-      "lastPlayedTimestamp": 1795646371000,
+      "lastPlayedTimestamp": 1795723473000,
       "lastActivityTimestamp": 1795644038000,
       "lastActivityText": "La fine di Crota: Standard il 25/11/2026 22:00",
       "activities": [
@@ -597,8 +662,8 @@
       "className": "Stregoni",
       "title": "Conquistatore",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/2c1aab6427ad3f56fd7504d1b9d04a3c.jpg",
-      "powerLevel": 549,
-      "lastPlayedTimestamp": 1795627779000,
+      "powerLevel": 550,
+      "lastPlayedTimestamp": 1795730860000,
       "lastActivityTimestamp": 1795558984000,
       "lastActivityText": "Comando del Vespro: Normale il 24/11/2026 22:23",
       "activities": [
@@ -716,71 +781,6 @@
           "name": "Ultimo desiderio: Standard",
           "period": "2026-11-23T20:30:34Z",
           "instanceId": "17289708005"
-        }
-      ]
-    },
-    {
-      "displayName": "UplandArtist602#4553",
-      "membershipId": "4611686018500645642",
-      "bungieNetMembershipId": "",
-      "isOnline": false,
-      "className": "Titani",
-      "title": "Signore del Ferro",
-      "classIcon": "https://www.bungie.net/common/destiny2_content/icons/7992732ea70d0e37e2347623ec021a30.jpg",
-      "powerLevel": 515,
-      "lastPlayedTimestamp": 1795558065000,
-      "lastActivityTimestamp": 1795557270000,
-      "lastActivityText": "Partita veloce: Normale il 24/11/2026 21:54",
-      "activities": [
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-11-24T21:54:30Z",
-          "instanceId": "17290875268"
-        },
-        {
-          "name": "Partita veloce: Normale",
-          "period": "2026-11-24T21:39:56Z",
-          "instanceId": "17290859950"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-23T21:53:59Z",
-          "instanceId": "17289800355"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-23T21:39:44Z",
-          "instanceId": "17289780836"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-23T21:27:50Z",
-          "instanceId": "17289767659"
-        },
-        {
-          "name": "Ultimo desiderio: Standard",
-          "period": "2026-11-23T21:01:35Z",
-          "instanceId": "17289758570"
-        },
-        {
-          "name": "Deserto perpetuo: Standard",
-          "period": "2026-11-22T14:16:56Z",
-          "instanceId": "17288270324"
-        },
-        {
-          "name": "Promessa del Discepolo: Standard",
-          "period": "2026-11-22T14:03:53Z",
-          "instanceId": "17288159461"
-        },
-        {
-          "name": "La fine di Crota: Standard",
-          "period": "2026-11-22T13:47:16Z",
-          "instanceId": "17288151521"
-        },
-        {
-          "name": "Volta di Vetro: Standard",
-          "period": "2026-11-22T13:27:36Z",
-          "instanceId": "17288130870"
         }
       ]
     },
@@ -2418,7 +2418,7 @@
       "title": "Leggenda",
       "classIcon": "https://www.bungie.net/common/destiny2_content/icons/e6a672764b7e1d041175596d8a1d5461.jpg",
       "powerLevel": 420,
-      "lastPlayedTimestamp": 1794421722000,
+      "lastPlayedTimestamp": 1795719869000,
       "lastActivityTimestamp": 1782584909000,
       "lastActivityText": "Profezia il 27/06/2026 18:28",
       "activities": [
